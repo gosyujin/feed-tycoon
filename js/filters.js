@@ -32,6 +32,9 @@
     source: '取得元',
     tag: 'タグ',
     description: '説明',
+    // 以下はブックマークページのコメント一覧にだけ効く(フィードの記事は持たない)
+    user: 'ユーザー',
+    comment: 'コメント',
   };
   const TYPES = Object.keys(TYPE_LABELS);
 
@@ -166,6 +169,10 @@
         return Array.isArray(item.tags) && item.tags.some((t) => includes(t, needle));
       case 'description':
         return includes(item.description, needle);
+      case 'user':
+        return includes(item.user, needle);
+      case 'comment':
+        return includes(item.comment, needle);
       default:
         return false;
     }

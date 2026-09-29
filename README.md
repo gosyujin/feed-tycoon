@@ -14,7 +14,8 @@
 ```
 feed-tycoon/
 ├── sources.json                # 取得元の定義(id / name / type / url / tags)
-├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV・Gist, visited.js: 既読, app.js: 画面)
+├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV・Gist, visited.js: 既読, hatena-api.js: コメント取得, app.js: 画面)
+├── service-worker.js           # オフライン対応(アプリ本体と data/*.json をキャッシュ)
 ├── data/                       # Actions が更新する生成物(feed.json, feed.xml, meta.json)
 ├── scripts/
 │   ├── fetch_feeds.py          # 取得・蓄積スクリプト
@@ -32,6 +33,7 @@ feed-tycoon/
 - ローカルで取得: `python3 scripts/fetch_feeds.py`
 - ローカルで確認: `python3 -m http.server` で配信して `index.html` を開く(`file://` では `fetch` が使えない)。ブラウザやサーバーが静的ファイルをキャッシュすることがあるので、古い表示が出たら別ポートで起動し直す。
 - テスト: `python3 -m unittest discover -s tests`
+- 「n users →」は、自前のブックマークページ(はてなブックマークのコメント一覧)へ移動する。一覧に戻るとスクロール位置を復元する。
 - フィルタは右上の ⚙ から。記事カードの「×」でその記事だけ(URL 完全一致)をミュート、取得元名・ドメインのクリックでそのルール追加を開ける。
 
 ## 技術的な注意点
@@ -42,8 +44,13 @@ feed-tycoon/
 - 取得に失敗したソースは既存データを維持し、`meta.json` に `ok: false` を記録する(画面のフッターに表示)。0 件だった場合は Actions のログに警告が出る。全ソース失敗時のみ Actions を失敗させる。
 - フィルタの種別(`title` / `domain` / `url` / `source` / `tag` / `description`)は `js/filters.js` の `TYPE_LABELS` が唯一の定義。増やすときは `matchRule` の `case` も足す。UI・CSV の検証は自動で追随する。
 - フィルタ条件は Gist に置く前提(公開しない)。設定画面の「取得して保存」で登録した Raw URL は、起動時に各リストへ自動で取り込まれる(追加のみで、削除は反映されない。最大 3 秒待ち、失敗しても通常起動)。
-- **はてなブックマークへのリンクは `<a href>` にしてはいけない。** iPhone の Safari では、`href` が `b.hatena.ne.jp/entry/...` の `<a>` が `display: none`(0×0)になり、画面に出ない。コンテンツブロッカー(広告ブロック用フィルター)が、はてなブックマークのボタン類を隠すルールに当たっていると考えられる。Mac の Chrome では表示されるため気づきにくい。クラス名(`users` → `bm-count`)を変えても直らず、別の URL の `<a>` や `<button>` は同じ環境で表示された。そのため「n users」は `<button>` にして、クリックで `window.open()` している(`js/app.js` の `renderCard`)。副作用として、長押し・右クリックによる「リンクをコピー」などは使えない。
-- 上の切り分けは、`?debug=1` で診断行を出す一時的な変更(JS の版、データの件数、要素の `display`、`<a>` / `<button>` のプローブ)で行った。同様に「要素はあるのに見えない」表示差が出たときは、`getComputedStyle` で `display` とサイズを端末側から取ると原因を絞れる。
+- **はてなブックマークへのリンクは `<a href>` にしてはいけない。** iPhone の Safari では、`href` が `b.hatena.ne.jp/entry/...` の `<a>` が `display: none`(0×0)になり、画面に出ない。コンテンツブロッカー(広告ブロック用フィルター)が、はてなブックマークのボタン類を隠すルールに当たっていると考えられる。Mac の Chrome では表示されるため気づきにくい。クラス名(`users` → `bm-count`)を変えても直らず、別の URL の `<a>` や `<button>` は同じ環境で表示された。そのため、一覧の「n users →」は自前のブックマークページへの内部リンク(`#/entry?url=…`)にし、ブックマークページ内の「はてなブックマークページ →」は `<button>` にしてクリックで `window.open()` している(`js/app.js` の `renderCard` / `renderEntryView`)。副作用として、後者は長押し・右クリックによる「リンクをコピー」などが使えない。
+- 上の切り分けは、`?debug=1` で診断行を出す一時的な変更(JS の版、データの件数、要素の `display`、`<a>` / `<button>` のプローブ)で行った(コミット `1682b47` 参照)。同様に「要素はあるのに見えない」表示差が出たときは、`getComputedStyle` で `display` とサイズを端末側から取ると原因を絞れる。
+- **ブックマークページ**のコメントは、`https://b.hatena.ne.jp/entry/jsonlite/?url=…` を JSONP(`<script>` 挿入)で取得する(`js/hatena-api.js`)。**callback 名は呼び出しごとにランダムでなければならない**(固定名にするとはてな API が無応答になる。hateb-tycoon で実験確認済み)。取得に成功するたび解析済みデータを `localStorage` にキャッシュし、オフライン時などはそちらへフォールバックする(最大 300 件)。コメント側のフィルタは `title` / `domain` / `user` / `comment` で評価し、`url` は含めない(含めると URL ルールが全コメントに当たる)。
+- **自動継ぎ足し**は `IntersectionObserver`(rootMargin 600px)で末尾の sentinel を監視する。「交差状態が変わった時」しか発火しないため、継ぎ足しのたびに `unobserve` → `observe` で再判定させている。この再監視を外すと、画面が縦に長いときに継ぎ足しが止まる。
+- **オフライン対応**は `service-worker.js`(hateb-tycoon が元)。アプリ本体と `data/*.json` を先読みし、「まずネットワーク、失敗したらキャッシュ」で返す。`handleNavigate()` は実 URL ではなく固定キー `'index.html'` で読み書きする(実 URL に戻すと、完全終了後に機内モードで起動したときアプリ全体が落ちる)。`data/*.json` はビューアが CDN 回避のため `?t=<時刻>` を付けて取得するので、キャッシュキーからクエリを外している(外さないと開くたびにキャッシュが増える)。`CACHE_VERSION` はデプロイ時(`deploy-pages.yml`)に `__BUILD_SHA__` が SHA に置換される。設定画面の「オフライン用キャッシュ」で、一覧の上位 n 件のコメントを事前取得できる。
+- Service Worker は、サンドボックス化された検証用ブラウザでは `register()` 自体が失敗し、動作確認できない。SW の変更は本番オリジン(<https://note.gosyujin.com/feed-tycoon/>)で、`caches.keys()` / `caches.open()` などをコンソールから叩いて確認する。
+- フッターは `ビルドSHA (日時) / 次回更新: HH:MM頃` の形式で、次回更新は更新ワークフロー(`feed-sync.yml`)のページへのリンク。次回更新は `data/meta.json` の `nextEstimate`(取得時刻 + 30 分)。取得に失敗したソースがあると、末尾に「取得失敗: …」を出す。
 - 対象外: X(Twitter)、JS 描画が必要なサイト、push 通知。`html` 型ソースは未実装。
 
 ## cron の定期取得が不安定な問題への対処

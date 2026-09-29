@@ -39,6 +39,7 @@ DESCRIPTION_MAX_CHARS = 200
 ATOM_MAX_ENTRIES = 100
 REQUEST_TIMEOUT_SEC = 15
 REQUEST_INTERVAL_SEC = 1
+NEXT_UPDATE_MINUTES = 30
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
@@ -316,7 +317,9 @@ def main():
     (DATA_DIR / "feed.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n' + build_atom(entries, now_iso) + "\n", encoding="utf-8"
     )
-    write_json(meta_path, {"updatedAt": now_iso, "sources": meta_sources})
+    # 次回更新の目安(画面フッターに表示する)。実際の実行間隔は workflow_dispatch を叩く側の設定次第。
+    next_estimate = (now_dt + timedelta(minutes=NEXT_UPDATE_MINUTES)).strftime("%H:%M")
+    write_json(meta_path, {"updatedAt": now_iso, "nextEstimate": next_estimate, "sources": meta_sources})
     print(f"[done] 累計{len(entries)}件 -> {feed_path}")
 
     if failures == len(sources):

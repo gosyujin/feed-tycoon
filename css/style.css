@@ -106,8 +106,8 @@ main { max-width: 860px; margin: 0 auto; padding: 12px 16px 24px; }
 .meta-link:hover { color: var(--accent); text-decoration: underline; }
 .entry-desc { margin: 4px 0 0; color: var(--muted); font-size: 13px; overflow-wrap: anywhere; }
 .entry-reason { margin: 4px 0 0; color: var(--danger); font-size: 12px; }
-.bm-count { padding: 0; border: 0; background: none; color: var(--danger); font: inherit; font-weight: 600; white-space: nowrap; cursor: pointer; }
-.bm-count:hover { text-decoration: underline; }
+a.bm-count { color: var(--danger); font-weight: 600; text-decoration: none; white-space: nowrap; }
+a.bm-count:hover { text-decoration: underline; }
 .badge-new { padding: 0 6px; border-radius: 4px; background: var(--new); color: #fff; font-size: 11px; font-weight: 700; }
 .tag { padding: 0 6px; border-radius: 4px; background: var(--accent-soft); color: var(--accent); }
 .btn--x { position: absolute; top: 6px; right: 6px; padding: 0 8px; color: var(--muted); }
@@ -137,3 +137,37 @@ code { padding: 0 4px; background: var(--bg); border-radius: 4px; }
   .app-title { font-size: 16px; }
   .rule-type { width: 4.5em; }
 }
+
+.footer-warn { color: var(--danger); }
+#scroll-sentinel { height: 1px; }
+
+/* ブックマークページ */
+.bm-header { margin: 12px 0; padding: 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; }
+.bm-title { font-size: 1.1rem; font-weight: bold; overflow-wrap: anywhere; }
+.bm-meta { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 6px; color: var(--muted); font-size: 0.82rem; }
+.bm-description { margin: 0 0 8px; padding: 6px 12px; border-left: 3px solid var(--border); color: var(--muted); font-size: 0.85rem; font-style: italic; line-height: 1.6; overflow-wrap: anywhere; }
+.bm-description:empty { display: none; }
+
+.comment-list { display: flex; flex-direction: column; gap: 6px; margin: 0 0 16px; padding-left: 20px; font-size: 0.88rem; line-height: 1.6; overflow-wrap: anywhere; }
+.comment-list li { padding-bottom: 6px; border-bottom: 1px solid var(--border); }
+.comment-list li:last-child { border-bottom: none; padding-bottom: 0; }
+.comment-user { padding: 0; border: none; background: none; color: var(--text); font: inherit; font-weight: bold; cursor: pointer; }
+.comment-user:hover { color: var(--accent); text-decoration: underline; }
+.comment-date { color: var(--muted); }
+/* 前回訪問後に付いたコメントは「NEW」バッジのみ。前回訪問時点で既にあったコメントはグレーアウト。 */
+.comment-badge-new { display: inline-block; padding: 0 6px; margin-right: 2px; border-radius: 999px; background: var(--accent-soft); color: var(--accent); font-size: 0.68rem; font-weight: 700; vertical-align: 1px; }
+.comment-list li.comment--read { opacity: 0.6; filter: grayscale(100%); }
+
+.layout-toggle { display: flex; gap: 6px; flex-shrink: 0; }
+.comment-list--rich { list-style: none; padding-left: 0; gap: 12px; }
+.comment-list li.comment--rich { display: flex; align-items: center; gap: 10px; padding-bottom: 10px; }
+.comment-icon { flex: 0 0 auto; width: 32px; height: 32px; border-radius: 4px; background: var(--surface); object-fit: cover; }
+.comment-rich-body { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; gap: 3px; }
+.comment-rich-line2 { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; color: var(--muted); font-size: 0.8rem; }
+.comment-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.comment-tag { padding: 1px 8px; border: 1px solid var(--border); border-radius: 999px; color: var(--muted); font-size: 0.75rem; }
+
+.offline-cache-section { margin-bottom: 12px; }
+.offline-cache-section h3 { margin: 8px 0 4px; font-size: 14px; }
+.offline-cache-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 6px 0; }
+.offline-cache-row input { width: 5em; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: inherit; }

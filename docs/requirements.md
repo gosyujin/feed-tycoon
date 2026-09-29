@@ -132,4 +132,9 @@ hateb-tycoon の `js/filters.js` を流用元とする。
 4. ✅ フィルタ(mute / unmute / forceMute、CSV、Gist 同期)と、編集・隠した記事の一覧・既読の非表示
 5. ✅ RSS ソース(Publickey / はてブ IT / Zenn トレンド / Qiita トレンド)
 6. ⬜ `html` 型(セレクタ抽出)ソース
-7. ⬜ Service Worker(オフライン対応)。必要になったら hateb-tycoon の方式を参照する
+7. ✅ ブックマークページ(はてなブックマークのコメント一覧)、一覧の自動継ぎ足し、Service Worker によるオフライン対応、hateb-tycoon 形式のフッター
+8. ⬜ 記事の要約(下記「検討中」)
+
+## 検討中
+
+- RSS の `description` とは別に、記事本文の要約を作り、ブックマークページ(「n 件のコメントを表示中」の上)に表示したい。要約を作れるか、どのタイミング(ワークフロー等)で作るかから検討する。

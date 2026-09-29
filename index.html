@@ -8,25 +8,44 @@
 </head>
 <body>
 <header class="app-header">
-  <h1 class="app-title">feed-tycoon</h1>
-  <input id="header-search" type="search" class="header-search" placeholder="タイトル・説明を検索" autocomplete="off">
+  <h1 class="app-title"><a id="app-title-link" href="#/">feed-tycoon</a></h1>
+  <input id="header-search" type="search" class="header-search" autocomplete="off">
   <button id="settings-btn" type="button" class="btn btn--icon" aria-label="フィルタ設定" title="フィルタ設定">⚙</button>
 </header>
 
 <main>
-  <nav id="source-tabs" class="tabs"></nav>
-  <div class="list-status-row">
-    <p id="list-status" class="status"></p>
-    <div class="list-controls">
-      <button id="show-hidden-btn" type="button" class="btn btn--small" hidden></button>
-      <label class="visited-toggle">
-        <input type="checkbox" id="hide-read-checkbox">
-        既読を隠す
-      </label>
+  <section id="view-list">
+    <nav id="source-tabs" class="tabs"></nav>
+    <div class="list-status-row">
+      <p id="list-status" class="status"></p>
+      <div class="list-controls">
+        <button id="show-hidden-btn" type="button" class="btn btn--small" hidden></button>
+        <label class="visited-toggle">
+          <input type="checkbox" id="hide-read-checkbox">
+          既読を隠す
+        </label>
+      </div>
     </div>
-  </div>
-  <div id="entry-list" class="entry-list"></div>
-  <button id="more-btn" type="button" class="btn more-btn" hidden>もっと見る</button>
+    <div id="entry-list" class="entry-list"></div>
+  </section>
+
+  <section id="view-entry" hidden>
+    <div class="list-status-row">
+      <button id="entry-back" type="button" class="btn btn--small">← 一覧に戻る</button>
+      <button id="entry-filter-btn" type="button" class="btn btn--small">このページをフィルタに登録する</button>
+    </div>
+    <div id="bm-header" class="bm-header"></div>
+    <blockquote id="bm-description" class="bm-description"></blockquote>
+    <div class="list-status-row">
+      <p id="bm-status" class="status"></p>
+      <div id="comment-layout-toggle" class="layout-toggle">
+        <button type="button" class="tab" data-layout="rich">rich</button>
+        <button type="button" class="tab" data-layout="plain">plain</button>
+      </div>
+    </div>
+    <ul id="comment-list" class="comment-list"></ul>
+    <button id="entry-back-bottom" type="button" class="btn btn--small">← 一覧に戻る</button>
+  </section>
 </main>
 
 <div id="settings-modal" class="modal" hidden>
@@ -35,9 +54,24 @@
       <h2>フィルタ設定</h2>
       <button id="settings-close" type="button" class="btn btn--small">閉じる</button>
     </div>
+
+    <div class="offline-cache-section">
+      <h3>オフライン用キャッシュ</h3>
+      <p class="hint">
+        一覧の表示順(フィルタ除外後)で上位n件のブックマークコメントを今すぐ取得し、
+        機内モードなどオフラインでも読めるよう保存しておきます。
+      </p>
+      <div class="offline-cache-row">
+        <label>件数 <input id="offline-cache-count" type="number" min="1" max="200" value="50" inputmode="numeric"></label>
+        <button id="offline-cache-btn" type="button" class="btn btn--small">今すぐキャッシュする</button>
+      </div>
+      <p id="offline-cache-status" class="status"></p>
+    </div>
+
     <nav id="settings-tabs" class="tabs"></nav>
     <p class="hint">
-      タイトル・ドメイン・取得元・タグ・説明を対象に、部分一致(大文字小文字を区別しない)でミュート(非表示)します。URLのみ完全一致(記事単独を消す用途)。<br>
+      タイトル・ドメイン・取得元・タグ・説明を対象に、部分一致(大文字小文字を区別しない)でミュート(非表示)します。
+      ユーザー・コメントはブックマークページのコメントにだけ効きます。URLのみ完全一致(記事単独を消す用途)。<br>
       判定順序: 強制ミュート &gt; ミュート(ミュート解除で例外にできる) &gt; 表示。
     </p>
     <form id="settings-form" class="rule-form">
@@ -75,14 +109,14 @@
 </div>
 
 <footer class="app-footer">
-  <span id="update-info"></span>
-  <span id="build-info"></span>
+  <span id="next-update-info"></span>
 </footer>
 
 <script src="js/build-info.js"></script>
 <script src="js/filters.js"></script>
 <script src="js/rules-io.js"></script>
 <script src="js/visited.js"></script>
+<script src="js/hatena-api.js"></script>
 <script src="js/app.js"></script>
 </body>
 </html>
