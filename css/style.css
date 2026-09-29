@@ -137,3 +137,4 @@ code { padding: 0 4px; background: var(--bg); border-radius: 4px; }
   .app-title { font-size: 16px; }
   .rule-type { width: 4.5em; }
 }
+.debug-info { max-width: 860px; margin: 0 auto; padding: 8px 16px 24px; color: var(--muted); font: 12px/1.5 ui-monospace, monospace; white-space: pre-wrap; overflow-wrap: anywhere; }

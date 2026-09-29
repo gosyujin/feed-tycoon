@@ -3,6 +3,9 @@
  * フィルタ(Filters)と既読(Visited)を適用して一覧表示する。
  */
 (function () {
+  // ?debug=1 のとき、フッターに実際に動いている JS / データの状態を出す(端末ごとの表示差の切り分け用)。
+  const APP_TAG = 'users-link+data-bust';
+  const DEBUG = new URLSearchParams(location.search).has('debug');
   const PAGE_SIZE = 50;
   const REFRESH_AFTER_MS = 5 * 60 * 1000;
   const STARTUP_IMPORT_TIMEOUT_MS = 3000;
@@ -259,6 +262,22 @@
     }
     const b = window.BUILD_INFO;
     $('build-info').textContent = b ? `build ${b.sha} ${b.time}` : '';
+    if (DEBUG) renderDebug();
+  }
+
+  function renderDebug() {
+    let box = $('debug-info');
+    if (!box) {
+      box = el('pre', { id: 'debug-info', class: 'debug-info' });
+      document.querySelector('.app-footer').after(box);
+    }
+    box.textContent = [
+      `js: ${APP_TAG}`,
+      `entries: ${state.entries.length}, with bookmarkUrl: ${state.entries.filter((e) => e.bookmarkUrl).length}`,
+      `cards: ${document.querySelectorAll('.entry').length}, .users: ${document.querySelectorAll('.users').length}`,
+      `meta.updatedAt: ${state.meta && state.meta.updatedAt}`,
+      `ua: ${navigator.userAgent}`,
+    ].join('\n');
   }
 
   // ---------------------------------------------------------------- 設定モーダル
