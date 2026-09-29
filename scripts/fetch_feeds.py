@@ -42,6 +42,9 @@ REQUEST_INTERVAL_SEC = 1
 
 ATOM_NS = "http://www.w3.org/2005/Atom"
 
+HATENA_COUNT_API = "https://bookmark.hatenaapis.com/count/entries"
+HATENA_COUNT_BATCH = 50  # APIが1リクエストで受け付けるURL数の上限
+
 
 def local_name(tag):
     return tag.rsplit("}", 1)[-1] if isinstance(tag, str) else ""
@@ -141,6 +144,41 @@ def fetch(url, etag=None, last_modified=None):
         if e.code == 304:
             return 304, None, etag, last_modified
         raise
+
+
+def hatena_entry_url(url):
+    """記事URLに対応する、はてなブックマークのエントリーページURL。"""
+    scheme, sep, rest = url.partition("://")
+    if not sep or scheme not in ("http", "https"):
+        return None
+    prefix = "https://b.hatena.ne.jp/entry/" + ("s/" if scheme == "https" else "")
+    return prefix + rest.replace("#", "%23")
+
+
+def fetch_bookmark_counts(urls):
+    """{記事URL: ブックマーク数}。失敗したバッチ分は含めない(呼び出し側が前回値を維持する)。"""
+    counts = {}
+    for i in range(0, len(urls), HATENA_COUNT_BATCH):
+        if i > 0:
+            time.sleep(REQUEST_INTERVAL_SEC)
+        batch = urls[i : i + HATENA_COUNT_BATCH]
+        query = urllib.parse.urlencode([("url", u) for u in batch])
+        req = urllib.request.Request(f"{HATENA_COUNT_API}?{query}", headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=REQUEST_TIMEOUT_SEC) as res:
+                counts.update(json.loads(res.read()))
+        except (urllib.error.URLError, OSError, json.JSONDecodeError) as e:
+            print(f"[warn] ブックマーク数の取得に失敗、前回値を維持します ({e})", file=sys.stderr)
+    return counts
+
+
+def apply_bookmark_info(entries, counts):
+    for e in entries:
+        e["bookmarkUrl"] = hatena_entry_url(e["url"])
+        if e["url"] in counts:
+            e["bookmarkCount"] = counts[e["url"]]
+        else:
+            e.setdefault("bookmarkCount", 0)
 
 
 def load_json(path, default):
@@ -273,6 +311,7 @@ def main():
         meta_sources[sid] = status
 
     entries = prune(existing_by_url, {s["id"] for s in sources}, now_dt)
+    apply_bookmark_info(entries, fetch_bookmark_counts([e["url"] for e in entries]))
     write_json(feed_path, entries)
     (DATA_DIR / "feed.xml").write_text(
         '<?xml version="1.0" encoding="UTF-8"?>\n' + build_atom(entries, now_iso) + "\n", encoding="utf-8"

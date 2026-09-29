@@ -182,6 +182,16 @@
       presetButton(entry.domain, 'domain', entry.domain, 'このドメインのミュートを設定'),
       ' · ',
       el('span', { text: formatTime(entry.publishedAt || entry.firstSeenAt) }),
+      entry.bookmarkUrl
+        ? el('a', {
+            class: 'users',
+            href: safeHref(entry.bookmarkUrl),
+            target: '_blank',
+            rel: 'noopener noreferrer',
+            title: 'はてなブックマークページを開く',
+            text: `${entry.bookmarkCount || 0} users`,
+          })
+        : null,
       (entry.tags || []).map((t) => el('span', { class: 'tag', text: t }))
     );
 

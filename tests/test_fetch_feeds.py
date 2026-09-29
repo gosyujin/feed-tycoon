@@ -102,5 +102,18 @@ class MergePruneTest(unittest.TestCase):
         ff.ET.fromstring(xml)
 
 
+class BookmarkTest(unittest.TestCase):
+    def test_entry_url(self):
+        self.assertEqual(ff.hatena_entry_url("https://example.com/a?b=1"), "https://b.hatena.ne.jp/entry/s/example.com/a?b=1")
+        self.assertEqual(ff.hatena_entry_url("http://example.com/a#x"), "https://b.hatena.ne.jp/entry/example.com/a%23x")
+        self.assertIsNone(ff.hatena_entry_url("ftp://example.com/"))
+
+    def test_apply_keeps_previous_count_when_missing(self):
+        entries = [{"url": "https://e/1", "bookmarkCount": 7}, {"url": "https://e/2"}, {"url": "https://e/3"}]
+        ff.apply_bookmark_info(entries, {"https://e/3": 12})
+        self.assertEqual([e["bookmarkCount"] for e in entries], [7, 0, 12])
+        self.assertEqual(entries[0]["bookmarkUrl"], "https://b.hatena.ne.jp/entry/s/e/1")
+
+
 if __name__ == "__main__":
     unittest.main()
