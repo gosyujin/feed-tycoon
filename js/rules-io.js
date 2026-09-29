@@ -53,22 +53,28 @@
     return rows.filter((r) => !(r.length === 1 && r[0].trim() === ''));
   }
 
-  // 1行でも不正なら全体を取り込まない。戻り値は { rules } または { error }。
+  // 1行でも不正なら全体を取り込まない。ただし未知の type の行は、hateb-tycoon など他アプリと
+  // CSV を共有できるようスキップする(件数は skipped)。戻り値は { rules, skipped } または { error }。
   function parseRulesCsv(text) {
     const rows = parseCsv(text.replace(/^﻿/, ''));
     if (rows.length > 0 && rows[0][0].trim().toLowerCase() === 'type' && (rows[0][1] || '').trim().toLowerCase() === 'value') {
       rows.shift();
     }
     const rules = [];
+    let skipped = 0;
     for (let i = 0; i < rows.length; i++) {
       const type = (rows[i][0] || '').trim();
       const value = (rows[i][1] || '').trim();
-      if (rows[i].length !== 2 || !global.Filters.TYPES.includes(type) || !value) {
-        return { error: `形式が不正です(データ${i + 1}行目)。type は ${global.Filters.TYPES.join(' / ')} のいずれか、value は空以外にしてください。` };
+      if (rows[i].length !== 2 || !type || !value) {
+        return { error: `形式が不正です(データ${i + 1}行目)。type と value は空以外にしてください。` };
+      }
+      if (!global.Filters.TYPES.includes(type)) {
+        skipped++;
+        continue;
       }
       rules.push({ type, value });
     }
-    return { rules };
+    return { rules, skipped };
   }
 
   // gist.github.com の URL は CORS ヘッダーを返さないため、gist.githubusercontent.com の Raw URL に直す。

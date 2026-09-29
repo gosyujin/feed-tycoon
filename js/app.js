@@ -670,9 +670,10 @@
     }
   }
 
-  function applyImport(rules) {
+  function applyImport(rules, unsupported) {
     const added = Filters.importRules(state.settingsKind, rules);
-    setImportStatus(`${added}件を追加しました(重複${rules.length - added}件はスキップ)`);
+    const note = unsupported ? `、未対応の種別${unsupported}件は無視` : '';
+    setImportStatus(`${added}件を追加しました(登録済み${rules.length - added}件${note})`);
     renderSettings();
     onRulesChanged();
   }
@@ -761,7 +762,7 @@
       if (!file) return;
       const result = RulesIO.parseRulesCsv(await file.text());
       if (result.error) setImportStatus(result.error);
-      else applyImport(result.rules);
+      else applyImport(result.rules, result.skipped);
     });
 
     $('import-url-form').addEventListener('submit', async (e) => {
@@ -781,7 +782,7 @@
           return;
         }
         writeStorage(key, url);
-        applyImport(result.rules);
+        applyImport(result.rules, result.skipped);
       } catch (err) {
         setImportStatus(`取得に失敗しました(${err.message})`);
       }
