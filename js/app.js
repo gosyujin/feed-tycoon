@@ -81,9 +81,12 @@
   async function loadData() {
     $('list-status').textContent = '読み込み中…';
     try {
+      // Pages の CDN は max-age=600 で配信するため、cache: 'no-cache' だけでは CDN 上の古い JSON が返ることがある。
+      // URL を毎回変えて CDN のキャッシュを避ける(取得しても数百KB程度)。
+      const bust = Date.now();
       const [feedRes, metaRes] = await Promise.all([
-        fetch('data/feed.json', { cache: 'no-cache' }),
-        fetch('data/meta.json', { cache: 'no-cache' }),
+        fetch(`data/feed.json?t=${bust}`, { cache: 'no-cache' }),
+        fetch(`data/meta.json?t=${bust}`, { cache: 'no-cache' }),
       ]);
       if (!feedRes.ok) throw new Error(`feed.json: HTTP ${feedRes.status}`);
       state.entries = await feedRes.json();
