@@ -4,7 +4,7 @@
  */
 (function () {
   // ?debug=1 のとき、フッターに実際に動いている JS / データの状態を出す(端末ごとの表示差の切り分け用)。
-  const APP_TAG = 'users-link+data-bust';
+  const APP_TAG = 'bm-count-class';
   const DEBUG = new URLSearchParams(location.search).has('debug');
   const PAGE_SIZE = 50;
   const REFRESH_AFTER_MS = 5 * 60 * 1000;
@@ -190,7 +190,7 @@
       el('span', { text: formatTime(entry.publishedAt || entry.firstSeenAt) }),
       entry.bookmarkUrl
         ? el('a', {
-            class: 'users',
+            class: 'bm-count',
             href: safeHref(entry.bookmarkUrl),
             target: '_blank',
             rel: 'noopener noreferrer',
@@ -265,6 +265,13 @@
     if (DEBUG) renderDebug();
   }
 
+  function describeBox(node) {
+    if (!node) return 'none';
+    const cs = getComputedStyle(node);
+    const r = node.getBoundingClientRect();
+    return `display=${cs.display} visibility=${cs.visibility} opacity=${cs.opacity} color=${cs.color} size=${Math.round(r.width)}x${Math.round(r.height)} text="${node.textContent}"`;
+  }
+
   function renderDebug() {
     let box = $('debug-info');
     if (!box) {
@@ -274,7 +281,8 @@
     box.textContent = [
       `js: ${APP_TAG}`,
       `entries: ${state.entries.length}, with bookmarkUrl: ${state.entries.filter((e) => e.bookmarkUrl).length}`,
-      `cards: ${document.querySelectorAll('.entry').length}, .users: ${document.querySelectorAll('.users').length}`,
+      `cards: ${document.querySelectorAll('.entry').length}, .bm-count: ${document.querySelectorAll('.bm-count').length}`,
+      `first .bm-count: ${describeBox(document.querySelector('.bm-count'))}`,
       `meta.updatedAt: ${state.meta && state.meta.updatedAt}`,
       `ua: ${navigator.userAgent}`,
     ].join('\n');
