@@ -42,6 +42,8 @@ feed-tycoon/
 - 取得に失敗したソースは既存データを維持し、`meta.json` に `ok: false` を記録する(画面のフッターに表示)。0 件だった場合は Actions のログに警告が出る。全ソース失敗時のみ Actions を失敗させる。
 - フィルタの種別(`title` / `domain` / `url` / `source` / `tag` / `description`)は `js/filters.js` の `TYPE_LABELS` が唯一の定義。増やすときは `matchRule` の `case` も足す。UI・CSV の検証は自動で追随する。
 - フィルタ条件は Gist に置く前提(公開しない)。設定画面の「取得して保存」で登録した Raw URL は、起動時に各リストへ自動で取り込まれる(追加のみで、削除は反映されない。最大 3 秒待ち、失敗しても通常起動)。
+- **はてなブックマークへのリンクは `<a href>` にしてはいけない。** iPhone の Safari では、`href` が `b.hatena.ne.jp/entry/...` の `<a>` が `display: none`(0×0)になり、画面に出ない。コンテンツブロッカー(広告ブロック用フィルター)が、はてなブックマークのボタン類を隠すルールに当たっていると考えられる。Mac の Chrome では表示されるため気づきにくい。クラス名(`users` → `bm-count`)を変えても直らず、別の URL の `<a>` や `<button>` は同じ環境で表示された。そのため「n users」は `<button>` にして、クリックで `window.open()` している(`js/app.js` の `renderCard`)。副作用として、長押し・右クリックによる「リンクをコピー」などは使えない。
+- 上の切り分けは、`?debug=1` で診断行を出す一時的な変更(JS の版、データの件数、要素の `display`、`<a>` / `<button>` のプローブ)で行った。同様に「要素はあるのに見えない」表示差が出たときは、`getComputedStyle` で `display` とサイズを端末側から取ると原因を絞れる。
 - 対象外: X(Twitter)、JS 描画が必要なサイト、push 通知。`html` 型ソースは未実装。
 
 ## cron の定期取得が不安定な問題への対処

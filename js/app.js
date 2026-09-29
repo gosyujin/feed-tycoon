@@ -3,9 +3,6 @@
  * フィルタ(Filters)と既読(Visited)を適用して一覧表示する。
  */
 (function () {
-  // ?debug=1 のとき、フッターに実際に動いている JS / データの状態を出す(端末ごとの表示差の切り分け用)。
-  const APP_TAG = 'bm-count-button';
-  const DEBUG = new URLSearchParams(location.search).has('debug');
   const PAGE_SIZE = 50;
   const REFRESH_AFTER_MS = 5 * 60 * 1000;
   const STARTUP_IMPORT_TIMEOUT_MS = 3000;
@@ -263,47 +260,6 @@
     }
     const b = window.BUILD_INFO;
     $('build-info').textContent = b ? `build ${b.sha} ${b.time}` : '';
-    if (DEBUG) renderDebug();
-  }
-
-  function describeBox(node) {
-    if (!node) return 'none';
-    const cs = getComputedStyle(node);
-    const r = node.getBoundingClientRect();
-    return `display=${cs.display} visibility=${cs.visibility} opacity=${cs.opacity} color=${cs.color} size=${Math.round(r.width)}x${Math.round(r.height)} text="${node.textContent}"`;
-  }
-
-  // 「はてなのURLを持つ <a> だけが隠れる」という仮説の検証用プローブ。
-  function probeBoxes() {
-    const make = (tag, attrs) => {
-      const node = el(tag, attrs, 'probe');
-      document.body.append(node);
-      const desc = describeBox(node);
-      node.remove();
-      return desc.replace(/ color=.*? size=/, ' size=').replace(/ text=.*$/, '');
-    };
-    return [
-      `probe a[href=hatena]: ${make('a', { href: 'https://b.hatena.ne.jp/entry/s/example.com/' })}`,
-      `probe a[href=other]: ${make('a', { href: 'https://example.com/' })}`,
-      `probe button: ${make('button', { type: 'button', class: 'bm-count' })}`,
-    ];
-  }
-
-  function renderDebug() {
-    let box = $('debug-info');
-    if (!box) {
-      box = el('pre', { id: 'debug-info', class: 'debug-info' });
-      document.querySelector('.app-footer').after(box);
-    }
-    box.textContent = [
-      `js: ${APP_TAG}`,
-      `entries: ${state.entries.length}, with bookmarkUrl: ${state.entries.filter((e) => e.bookmarkUrl).length}`,
-      `cards: ${document.querySelectorAll('.entry').length}, .bm-count: ${document.querySelectorAll('.bm-count').length}`,
-      `first .bm-count: ${describeBox(document.querySelector('.bm-count'))}`,
-      ...probeBoxes(),
-      `meta.updatedAt: ${state.meta && state.meta.updatedAt}`,
-      `ua: ${navigator.userAgent}`,
-    ].join('\n');
   }
 
   // ---------------------------------------------------------------- 設定モーダル
