@@ -1,0 +1,33 @@
+{
+  "note": "取得元の定義。id は一意、name は画面表示とフィルタ(source)の対象、tags はフィルタ(tag)の対象。type は現状 rss のみ(RSS 2.0 / RSS 1.0 / Atom を自動判別)。",
+  "sources": [
+    {
+      "id": "publickey",
+      "name": "Publickey",
+      "type": "rss",
+      "url": "https://www.publickey1.jp/atom.xml",
+      "tags": ["tech", "news"]
+    },
+    {
+      "id": "hateb-it",
+      "name": "はてブ IT",
+      "type": "rss",
+      "url": "https://b.hatena.ne.jp/hotentry/it.rss",
+      "tags": ["tech", "aggregator"]
+    },
+    {
+      "id": "zenn",
+      "name": "Zenn トレンド",
+      "type": "rss",
+      "url": "https://zenn.dev/feed",
+      "tags": ["tech", "article"]
+    },
+    {
+      "id": "qiita",
+      "name": "Qiita トレンド",
+      "type": "rss",
+      "url": "https://qiita.com/popular-items/feed",
+      "tags": ["tech", "article"]
+    }
+  ]
+}

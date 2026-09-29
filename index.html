@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>feed-tycoon</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="app-header">
+  <h1 class="app-title">feed-tycoon</h1>
+  <input id="header-search" type="search" class="header-search" placeholder="タイトル・説明を検索" autocomplete="off">
+  <button id="settings-btn" type="button" class="btn btn--icon" aria-label="フィルタ設定" title="フィルタ設定">⚙</button>
+</header>
+
+<main>
+  <nav id="source-tabs" class="tabs"></nav>
+  <div class="list-status-row">
+    <p id="list-status" class="status"></p>
+    <div class="list-controls">
+      <button id="show-hidden-btn" type="button" class="btn btn--small" hidden></button>
+      <label class="visited-toggle">
+        <input type="checkbox" id="hide-read-checkbox">
+        既読を隠す
+      </label>
+    </div>
+  </div>
+  <div id="entry-list" class="entry-list"></div>
+  <button id="more-btn" type="button" class="btn more-btn" hidden>もっと見る</button>
+</main>
+
+<div id="settings-modal" class="modal" hidden>
+  <div class="modal-panel">
+    <div class="modal-header">
+      <h2>フィルタ設定</h2>
+      <button id="settings-close" type="button" class="btn btn--small">閉じる</button>
+    </div>
+    <nav id="settings-tabs" class="tabs"></nav>
+    <p class="hint">
+      タイトル・ドメイン・取得元・タグ・説明を対象に、部分一致(大文字小文字を区別しない)でミュート(非表示)します。URLのみ完全一致(記事単独を消す用途)。<br>
+      判定順序: 強制ミュート &gt; ミュート(ミュート解除で例外にできる) &gt; 表示。
+    </p>
+    <form id="settings-form" class="rule-form">
+      <select id="rule-type"></select>
+      <input id="rule-value" type="text" placeholder="一致させる文字列" autocomplete="off">
+      <button type="submit" class="btn">追加</button>
+    </form>
+    <details id="rule-list-details" class="rule-list-details">
+      <summary>登録ルール(<span id="rule-count">0</span>件)</summary>
+      <ul id="rule-list" class="rule-list"></ul>
+    </details>
+
+    <div class="import-export">
+      <p class="hint">
+        CSV形式(1行目ヘッダー任意): <code>type,value</code> / type は <span id="type-list"></span> のいずれか。<br>
+        URL から取り込む場合は Gist の Raw URL を指定します(Secret Gist なら認証なしで取得できます)。設定したURLは起動時に自動で取り込みます。
+      </p>
+      <div class="import-export-row">
+        <button id="export-btn" type="button" class="btn btn--small">CSVダウンロード</button>
+        <button id="copy-btn" type="button" class="btn btn--small">クリップボードにコピー</button>
+        <button id="export-text-btn" type="button" class="btn btn--small">テキストで表示</button>
+        <label class="btn btn--small file-label">
+          CSVインポート
+          <input id="import-file-input" type="file" accept=".csv,text/csv" hidden>
+        </label>
+      </div>
+      <textarea id="export-text" class="export-text" readonly hidden></textarea>
+      <form id="import-url-form" class="import-url-form">
+        <input id="import-url-input" type="url" placeholder="https://gist.githubusercontent.com/.../raw/filters.csv" autocomplete="off">
+        <button type="submit" class="btn btn--small">取得して保存</button>
+      </form>
+      <p id="import-status" class="status"></p>
+    </div>
+  </div>
+</div>
+
+<footer class="app-footer">
+  <span id="update-info"></span>
+  <span id="build-info"></span>
+</footer>
+
+<script src="js/build-info.js"></script>
+<script src="js/filters.js"></script>
+<script src="js/rules-io.js"></script>
+<script src="js/visited.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

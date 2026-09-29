@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>feed-tycoon</title>
+  <id>urn:feed-tycoon</id>
+  <updated>2026-09-30T01:26:03.736805+09:00</updated>
+  <author>
+    <name>feed-tycoon</name>
+  </author>
+  <entry>
+    <title>Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
+    <id>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</id>
+    <link href="https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html" />
+    <updated>2026-09-30T00:46:18+09:00</updated>
+    <category term="Publickey" />
+    <summary>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする...</summary>
+  </entry>
+  <entry>
+    <title>コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表</title>
+    <id>https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html</id>
+    <link href="https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html" />
+    <updated>2026-09-30T00:44:15+09:00</updated>
+    <category term="Publickey" />
+    <summary>Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...</summary>
+  </entry>
+  <entry>
+    <title>パーク24、運転免許証画像など情報流出数は160万件 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUC29ALR0Z20C26A9000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC29ALR0Z20C26A9000000/" />
+    <updated>2026-09-29T22:12:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パーク24は29日、カーシェアサービス「タイムズカー」の不正アクセスで運転免許証画像などの本人確認書類情報が漏洩したアカウントが約160万件あったと発表した。運転免許証画像のほか公共料金の請求書などの現住所確認書類の漏洩が確認された。このほか、学生プランに加入している場合に提出する学生証、家族プランの場...</summary>
+  </entry>
+  <entry>
+    <title>無料でJev互換の小型高速意思決定モデル「Jeff」、ローカル環境で約22～28ミリ秒と爆速</title>
+    <id>https://gigazine.net/news/20260929-jeff/</id>
+    <link href="https://gigazine.net/news/20260929-jeff/" />
+    <updated>2026-09-29T22:04:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ChatGPTの共同開発者であるがディオゴ・アルメイダ氏がCEOを務めるTypeSafe AIが開発した、意思決定モデルの「Jev」と同じように、リクエスト形式でコードに組み込むことができる小型の意思決定モデルが「Jeff」です。RTX PRO 6000の場合は1回の意思決定当たり約22ミリ秒、 AppleのM4 Maxの場合は1回の意思決定当たり約2...</summary>
+  </entry>
+  <entry>
+    <title>AI臭い文章とは何なのか</title>
+    <id>https://speakerdeck.com/nasuvitz/ai-kusai-bunshou-toha-nanina-no-ka</id>
+    <link href="https://speakerdeck.com/nasuvitz/ai-kusai-bunshou-toha-nanina-no-ka" />
+    <updated>2026-09-29T21:36:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026/9/28 豊洲会 教育用途にご利用ください</summary>
+  </entry>
+  <entry>
+    <title>「タイムズカーWebサイト」への不正アクセスに関する調査結果および今後の対応について（第3報） | カーシェアリングのタイムズカー</title>
+    <id>https://share.timescar.jp/news/2026/0929/1816.html</id>
+    <link href="https://share.timescar.jp/news/2026/0929/1816.html" />
+    <updated>2026-09-29T20:48:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年9月25日に公表いたしました『「タイムズカーWebサイト」への不正アクセスによる個人情報漏えいの可能性について（第1報）』に関し、その後の調査により現時点で判明している内容をご報告いたします。 第1報はこちら 第2報はこちら 会員の皆様ならびに関係者の皆様に、多大なるご迷惑とご心配をお掛けしております...</summary>
+  </entry>
+  <entry>
+    <title>IIJ、新人エンジニア向け研修教材を無料公開 Web技術の基礎から生成AI活用まで20講義超</title>
+    <id>https://www.itmedia.co.jp/news/article/2609/29/2000001854/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2609/29/2000001854/" />
+    <updated>2026-09-29T20:47:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>インターネットイニシアティブ（IIJ）は9月28日、新人エンジニア向けハンズオン研修「IIJ Bootcamp」の2026年度版資料を公式エンジニアブログで紹介した。資料は社内限定の一部を除いて専用サイトで無料公開している。 IIJ Bootcampは、同社の有志が講師となって19年度から毎年開いている研修。IT系のどの分野でも必要に...</summary>
+  </entry>
+  <entry>
+    <title>タイムズカーで660万件の会員情報が流出した件、運転免許証画像の流出が悪用される危険性について指摘…CICの本人申告制度を活用すれば、信用情報の審査で注意してくれる</title>
+    <id>https://togetter.com/li/2751879</id>
+    <link href="https://togetter.com/li/2751879" />
+    <updated>2026-09-29T19:35:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>タイムズカー、660万件の会員情報流出 免許証画像も - CNET Japan タイムズモビリティは9月28日、カーシェアリングサービス「タイムズカー」のWebサイトへの不正アクセスについて、約660万件の会員情報が第三者に取得されたことを確認したと発表した。氏名や住所、運転免… CNET Japan アンテナ @aquadive うぎゃ…。 さ...</summary>
+  </entry>
+  <entry>
+    <title>タイムズカー 免許画像など漏えいは160万件“悪用に警戒を” | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20260929de53160</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20260929de53160" />
+    <updated>2026-09-29T19:21:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カーシェアリングサービス「タイムズカー」のシステムに不正なアクセスがあり、およそ660万件の会員の個人情報が漏えいした問題で、会社は、このうち160万件は、運転免許証の画像など本人確認書類だったと確認…</summary>
+  </entry>
+  <entry>
+    <title>AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も</title>
+    <id>https://gigazine.net/news/20260929-manus-2-0/</id>
+    <link href="https://gigazine.net/news/20260929-manus-2-0/" />
+    <updated>2026-09-29T19:13:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アジア圏を中心にサービスを展開し、一度Metaとの買収合意に至った後に再び独立したという異色の経歴を持つAI起業のManusが、AIエージェントの「Manus 2.0」を発表しました。独立後初の大型アップデートということで、「ただのバージョンアップではない」とアピールされています。 Manus 2.0 のご紹介 https://manus.im/...</summary>
+  </entry>
+  <entry>
+    <title>MetaのAI「Muse」にFacebook Marketplaceの対応を任せたら勝手に値下げ＆住所公開、購入者が自宅に来る事態に</title>
+    <id>https://gigazine.net/news/20260929-meta-muse-give-home-address/</id>
+    <link href="https://gigazine.net/news/20260929-meta-muse-give-home-address/" />
+    <updated>2026-09-29T18:47:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Metaが2026年9月に公開したパーソナルAIエージェント「Muse」にFacebook Marketplaceでの販売対応を任せたところユーザーの承認を得ずに値下げに応じた上、自宅の住所まで購入希望者に伝え、実際に購入希望者が自宅を訪れる事態が発生しました。 Threadsで見る Man Says Meta's Muse AI Gave His Home Address Out to St..…</summary>
+  </entry>
+  <entry>
+    <title>Microsoft Copilotにアップロードした画像は人間が確認している、性的な画像などセンシティブな内容もレビュー対象に</title>
+    <id>https://gigazine.net/news/20260929-microsoft-copilot-human-reading/</id>
+    <link href="https://gigazine.net/news/20260929-microsoft-copilot-human-reading/" />
+    <updated>2026-09-29T18:28:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>MicrosoftのAIアシスタント「Microsoft Copilot」でユーザーが入力したプロンプトやアップロードした画像の一部を人間の契約スタッフが確認していると404 Mediaが報じました。契約スタッフはユーザーが画像編集を依頼した際のプロンプトや元画像、Copilotが生成した画像を見比べて品質を評価しているとのことです。 Huma...</summary>
+  </entry>
+  <entry>
+    <title>「クロネコ代金後払いサービス」への不正アクセスの発生について | ヤマトホールディングス株式会社</title>
+    <id>https://www.yamato-hd.co.jp/important/info_260929_1.html</id>
+    <link href="https://www.yamato-hd.co.jp/important/info_260929_1.html" />
+    <updated>2026-09-29T17:37:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ヤマト運輸株式会社（本社：東京都中央区、代表取締役社長：阿波 誠一、以下：ヤマト運輸）は、9月28日（月）に「クロネコ代金後払いサービス」が第三者による不正アクセスを受けたことを確認しましたので、お知らせいたします。 不正アクセス確認後、速やかに外部からのアクセス制限など必要な対策を講じるとともに、同...</summary>
+  </entry>
+  <entry>
+    <title>Google、東京大学・松尾/岩澤研究室による自治体における生成AI活用事例を紹介</title>
+    <id>https://ai.watch.impress.co.jp/docs/news/2144107.html</id>
+    <link href="https://ai.watch.impress.co.jp/docs/news/2144107.html" />
+    <updated>2026-09-29T17:19:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google、東京大学・松尾/岩澤研究室による自治体における生成AI活用事例を紹介</summary>
+  </entry>
+  <entry>
+    <title>既に不審メッセージの報告も 宿泊予約管理の「手間いらず」に不正アクセス、宿泊者情報流出の可能性 | おたくま経済新聞</title>
+    <id>https://otakuma.net/archives/2026092904.html</id>
+    <link href="https://otakuma.net/archives/2026092904.html" />
+    <updated>2026-09-29T17:13:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>■ 宿泊予約を一元管理する「TEMAIRAZU」に不正アクセス なぜ、相手は宿泊情報を知っているのか。 その背景として可能性が指摘されているのが、複数のホテルや旅館の予約情報を一元管理するシステム「TEMAIRAZU」への不正アクセスです。 システムを提供する手間いらず株式会社は9月28日、不正アクセスが確認され、宿泊者...</summary>
+  </entry>
+  <entry>
+    <title>ChromeOSの後継Googlebook OSはウンコ💩やで</title>
+    <id>https://anond.hatelabo.jp/20260925135223</id>
+    <link href="https://anond.hatelabo.jp/20260925135223" />
+    <updated>2026-09-29T16:57:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>先日こんな記事を書いていたんだけど、最近話題になってるChromeOSとAndroidの基盤統合（いわゆるGooglebook OS構想）と、ChromeOS 147からデフォルトになった新アーキテクチャ「Baguette」 の話をLinuxギーク目線でするわ。 世間やガジェットメディアは「新GooglebookでAndroidアプリがもっとサクサク動くようになるね...</summary>
+  </entry>
+  <entry>
+    <title>このイラスト、何に見える？とLINEで母に聞いてみたら…全美大生の地雷を踏み抜いてておもろい「そういうことじゃないんだよっ！」「母親はAI使いがち」</title>
+    <id>https://togetter.com/li/2751892</id>
+    <link href="https://togetter.com/li/2751892" />
+    <updated>2026-09-29T16:52:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>深野(イラレ練習中) @yesdeep_MA 自分でも理解してる問題点を指摘されるの、友達とかに教えてもらう分には全く地雷じゃ無いんだけど親にはイラッとしてしまう 母親は美術系の出身じゃないからだろうか チャッピーは論外。殺傷モノ。 2026-09-28 23:36:43</summary>
+  </entry>
+  <entry>
+    <title>免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」</title>
+    <id>https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html" />
+    <updated>2026-09-29T16:41:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パーク24グループが運営するカーシェアリングサービス「タイムズカー」で、最大約660万件に上るとされる大規模な個人情報流出が発生した。流出したデータの中には、氏名や住所といった基本情報だけでなく、「運転免許証の画像」などの本人確認書類が含まれている可能性があり、影響の大きさが懸念されている。 本記事で...</summary>
+  </entry>
+  <entry>
+    <title>AI時代にはこれまで以上に「顔の良さ」が重要になる可能性がある、AIは人間以上に顔の偏見が強いため</title>
+    <id>https://gigazine.net/news/20260929-ai-use-facial-features-criminality-performance/</id>
+    <link href="https://gigazine.net/news/20260929-ai-use-facial-features-criminality-performance/" />
+    <updated>2026-09-29T16:02:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>人間は他者を評価する時にその人の「顔」に影響を受けやすいことがわかっており、ルックスが魅力的な人ほど成績が高くなったり、犯罪で捕まった際の刑期が短くなったりする傾向があります。さまざまな現場にAIを導入すればこうした偏見(バイアス)を排除できると考えるかもしれませんが、OpenAI・Google・AnthropicのAIモ...</summary>
+  </entry>
+  <entry>
+    <title>【API設計 / HTTP】「空にしたい」「なにもしない」を区別する方法</title>
+    <id>https://qiita.com/umekikazuya/items/1bf8013b3493c4dca8af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/umekikazuya/items/1bf8013b3493c4dca8af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T15:03:53+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>API設計において、私はGoogleのAIP（API Improvement Proposals）やStyle Guideを参考にすることが多いんですが。 その中のGoogle JSON Style Guideには、「NULL値のプロパティは、プロパティごと削除することを検...</summary>
+  </entry>
+  <entry>
+    <title>【SELECT AIの精度が出ない時に試したい5つのポイント】①対象表の絞り込み</title>
+    <id>https://qiita.com/KantaUeda/items/5a17586db2e06f6ddac3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/KantaUeda/items/5a17586db2e06f6ddac3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T15:03:23+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに SELECT AIに自然言語で質問すると、SQL自体は生成されるものの、期待とは違うテーブルが使われることがあります。 たとえば「2026年の売上を顧客別に集計して」と質問したとき、データベース内に次のテーブルがあったらどうでしょうか。 受注を管理するORDE...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare の CLI を wrangler から cf に移行する</title>
+    <id>https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</id>
+    <link href="https://zenn.dev/sora_kumo/articles/cloudflare-to-cf" />
+    <updated>2026-09-29T14:43:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate…</summary>
+  </entry>
+  <entry>
+    <title>３分で読めるトランザクション設計のコツ</title>
+    <id>https://zenn.dev/mconfjp/articles/transaction-action-order</id>
+    <link href="https://zenn.dev/mconfjp/articles/transaction-action-order" />
+    <updated>2026-09-29T14:06:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>これはなに こんにちは、もりたです。 最近Software Designで連載をしています[1]。連載をしているとアホほど資料を読んでめちゃくちゃ学びがあるんですが原稿の進捗がやばすぎてZennに投稿できません[2]。この記事はせめてもの償いとして最近知った便利情報を簡単に皆さんにお伝えします。 テーマは「トランザクション...</summary>
+  </entry>
+  <entry>
+    <title>オープンAI、最新AI「アストラ6.1」の公開取りやめ 安全面で問題</title>
+    <id>https://www.afpbb.com/articles/-/3654970</id>
+    <link href="https://www.afpbb.com/articles/-/3654970" />
+    <updated>2026-09-29T13:55:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【9月29日 AFP】米オープンAIは28日、人工知能（AI）の最新モデル「アストラ6.1」の公開を取りやめると発表した。安全基準を満たしていないことが社内テストで判明したためとしている。 年次開発者会議「OpenAI DevDay」開催前日の発表となった。同会議では複数の発表が行われるとみられているが、アストラの改修版が含...</summary>
+  </entry>
+  <entry>
+    <title>「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能</title>
+    <id>https://gigazine.net/news/20260929-claude-sonnet-5-5/</id>
+    <link href="https://gigazine.net/news/20260929-claude-sonnet-5-5/" />
+    <updated>2026-09-29T13:47:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AnthropicがAIモデル「Claude Sonnet 5.5」をリリースしました。前世代モデルのClaude Sonnet 5と比べて性能が向上しつつ30％の高速化も達成しているとのこと。ベンチマークテストではGPT-6 Solのスコアを上回っています。 Introducing Claude Sonnet 5.5 \ Anthropic https://www.anthropic.com/c…</summary>
+  </entry>
+  <entry>
+    <title>「Geminiの「Gem」廃止へ、11月17日から「スキル」へ刷新</title>
+    <id>https://www.itmedia.co.jp/news/article/2609/29/2000001839/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2609/29/2000001839/" />
+    <updated>2026-09-29T13:40:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Googleは9月27日（現地時間）ごろから、生成AI「Gemini」のカスタムbot機能「Gem」を廃止し、後継機能の「スキル」へ移行すると告知している。Geminiアプリ内のGem管理画面に「11月 17, 2026より、Gemがスキルに」（原文ママ）と表示しており、既存のGemは同日から自動でスキルに変換する。移行が終わるまでGemはその...</summary>
+  </entry>
+  <entry>
+    <title>箱はよくできているのに羊がいないはてなパークスの現状について - 関内関外日記</title>
+    <id>https://goldhead.hatenablog.com/entry/2026/09/29/125355</id>
+    <link href="https://goldhead.hatenablog.com/entry/2026/09/29/125355" />
+    <updated>2026-09-29T13:00:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>p.hatena.ne.jp みんなはてなパークス使っているか？ 759ブクマもされているじゃないか。はてなの、満を持しての新サービスだぞ。たくさんのはてなーたちがこぞって書き込み、大盛況、新しいウェブの居場所だ、ってなってなきゃいけないんじゃいのか。 それなのに、今のはてなパークスときたらジャングリアより羊がいな...</summary>
+  </entry>
+  <entry>
+    <title>Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】</title>
+    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html" />
+    <updated>2026-09-29T12:51:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】</summary>
+  </entry>
+  <entry>
+    <title>アンソロピック、ＡＩの「人類存亡リスク」警告 ＩＰＯ目論見書（ロイター） - Yahoo!ニュース</title>
+    <id>https://news.yahoo.co.jp/articles/c1b036a7740fe476a5bceb997de3641de9ee9e9a</id>
+    <link href="https://news.yahoo.co.jp/articles/c1b036a7740fe476a5bceb997de3641de9ee9e9a" />
+    <updated>2026-09-29T12:33:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アンソロピックのロゴ。サンフランシスコで開催されたサミットで9月17日撮影。 REUTERS/Carlos Barria（ロイター）Echo Wang Aditya Soni [２８日 ロイター] - 人工知能（ＡＩ）開発企業アンソロピックは新規株式公‌開（ＩＰＯ）に際し、ＡＩが「人類に壊滅的な被⁠害や存亡に関わるリスク」をもたらす可能性があると投資...</summary>
+  </entry>
+  <entry>
+    <title>DHH が Rails を捨てた日</title>
+    <id>https://blog.toshimaru.net/rails-world-2026-opening-keynote/</id>
+    <link href="https://blog.toshimaru.net/rails-world-2026-opening-keynote/" />
+    <updated>2026-09-29T12:11:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Rails の生みの親である DHH が Rails World 2026 のキーノートで語った内容に、いろいろと思うところがあり、”ペン”を取った。 トークの核心部分のサマリとしてはこうだ。 2025年11月、Opus 4.5 リリースは、AI 開発時代の転換点だった。 AI を使うか使わないかで、生産性に100〜1000倍の差が出る。 お前ら、ペンを置け...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code / Codexで「私のlimit、減りすぎ…？」と思ったときに見る記事</title>
+    <id>https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions</id>
+    <link href="https://zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions" />
+    <updated>2026-09-29T12:00:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、TOKIUMの花房です。 Claude CodeやCodexをサブスクリプションで使っていて、以下のように感じることはないでしょうか。 週の半ばで週間上限が尽きる。作業量は先週と変わらないはずなのに Slack botやcron/launchdからエージェントを動かしていて、体感よりもリミット消費が多い プロンプトキャッシュにヒットしているはずなのに、やはり減りが多い気がする Code…</summary>
+  </entry>
+  <entry>
+    <title>バッチ監視で学んだ4つの確認観点 ― 起動/生存/終了/復旧を確認しよう</title>
+    <id>https://qiita.com/sewiihidekikudo/items/71d588760efd8224cd1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/sewiihidekikudo/items/71d588760efd8224cd1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T11:46:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに こんにちは。ソーイ株式会社の工藤です。 今回、当社が担当した受託開発案件でバッチの監視・テストを担当する中で、バッチが「実行されたか」だけでなく、「正常に動き続けているか」「正常終了したか」「異常から復旧したか」まで確認する必要があることを学びました。 本記事で...</summary>
+  </entry>
+  <entry>
+    <title>AIで地図アプリをたくさん作ったので話を聞いてほしい 地図好きが作る自分が本当に使いたかったアプリの数々</title>
+    <id>https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta</id>
+    <link href="https://dailyportalz.jp/kiji/ai-chizu-app-tsukutta" />
+    <updated>2026-09-29T11:40:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。ライターの西村です。 最近、僕がAIで作ったwebアプリについて、プログラマーでライターの三土さん、デイリーポータルZ編集長の林さん、編集の石川さんに話を聞いてもらいました。 それではどうぞ。 まったく何もわからなくてもなんか作れるのすげえな 左から、筆者の西村、石川さん、三土さん、林さんです...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare Birthday Week 2026 Day1</title>
+    <id>https://zenn.dev/remotive/articles/cloudflare-birthday-week-2026-day1</id>
+    <link href="https://zenn.dev/remotive/articles/cloudflare-birthday-week-2026-day1" />
+    <updated>2026-09-29T10:15:45+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Cloudflare Birthday Week 2026 が始まりました！Cloudflare の16周年にあわせたさまざまな発表が行われる1週間です。 この記事では Day1 の発表内容をまとめていきます！ 公式な情報が見たい方は以下で公式ブログを一覧できます https://www.cloudflare.com/birthday-week/ また、前日には Founders' Letter…</summary>
+  </entry>
+  <entry>
+    <title>AI開発時代だからこそ、テストの役割を見つめ直す</title>
+    <id>https://zenn.dev/ababup1192/articles/77b844dcfc1529</id>
+    <link href="https://zenn.dev/ababup1192/articles/77b844dcfc1529" />
+    <updated>2026-09-29T10:00:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI がコードを書くようになり、「これからは E2E テストが大事だ」「いや、ユニットテストを厚くすべきだ」という議論をよく見かけます。けれども、テストの種類ごとに検出できる不具合は違い、その役割は AI が来ても変わりません。大事なのは、それぞれの役割を意識して使い分けることです。この記事では、テストの役割の違いと、AI と一緒に開発する時にそれぞれの役割をどう活かすかを整理します。 役割は、検…</summary>
+  </entry>
+  <entry>
+    <title>大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる</title>
+    <id>https://zenn.dev/339/articles/56ef43afde8bd2</id>
+    <link href="https://zenn.dev/339/articles/56ef43afde8bd2" />
+    <updated>2026-09-29T08:46:04+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>以下の記事を読んで、ボトルネックについての考えが私とだいぶ違うなあと思ったので、未来の大きなボトルネックを簡単にたくさん見つける方法について書きます。 https://www.pospome.work/entry/2026/09/28/152221 ボトルネックは爆弾ではない そもそもですが、緊急性のない重要な課題やボトルネックの発現の仕方について、私は 爆弾ではない と思います。というのは、緊急…</summary>
+  </entry>
+  <entry>
+    <title>Jujutsu と出会い、15 年使った Git にもう戻れなくなった理由</title>
+    <id>https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu</id>
+    <link href="https://zenn.dev/oukayuka/articles/15years-git-then-jujutsu" />
+    <updated>2026-09-29T08:36:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026 年、初めて自分の意思で VCS を選択した ふりかえると私にとって VCS（バージョン管理システム）は、会社に指定されたものを使ってきただけでした。それまでの会社では社内にサーバを立てて Subversion を使うことが多かった中、2011 年から働き出した会社では GitHub が導入されており、そのため個々のエンジニア...</summary>
+  </entry>
+  <entry>
+    <title>【勉強会】「AI時代『考える力』をどう鍛える？具体抽象トレーニング」に参加して考えたこと</title>
+    <id>https://qiita.com/ko1_tktn/items/5f0a18a0c91b398dc7d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ko1_tktn/items/5f0a18a0c91b398dc7d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T08:32:28+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに なぜこのイベントに参加したのか 主に、次の2つの理由で参加しました。 AIの進化が速い中で、どのようなエンジニアを目指せばよいのか、わからなくなっていたため 「具体と抽象」について学びたかったため イベントの概要 イベント名：「AI時代『考える力』をど...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code で選べる12モデルに同じ仕事をさせた。1年で速度は2.7倍、値段は1%しか変わらなかった</title>
+    <id>https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T08:16:45+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Anthropic のモデル一覧を引いたら、ちょうど1年ぶん揃っていました。 2025-09-29 Sonnet 4.5 ← 1年前 2025-10-15 Haiku 4.5 2025-11-24 Opus 4.5 2026-02-04 Opus 4.6 ...</summary>
+  </entry>
+  <entry>
+    <title>荒れたテストケースをコード管理で立て直してみた</title>
+    <id>https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T08:10:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。 テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。 そこで、ケースの管理はコードベースで行い、実施だけをスプシで行...</summary>
+  </entry>
+  <entry>
+    <title>『具体と抽象』をトレーニングする勉強会に参加して、「生き残るエンジニア≒コンサル的視点の持ち主」だと感じた話</title>
+    <id>https://qiita.com/nagi-0106/items/1afefc829632bd9c9571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nagi-0106/items/1afefc829632bd9c9571?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T00:36:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 9/27に都内某所で『具体と抽象』に関する勉強会が開催されました。 当記事は上記の勉強会のレポ記事です。 勉強会で触れた内容についてはこちらの記事も詳しいです。 勉強会でやったこと 流れとしては以下の通りでした。 具体とは何か、抽象とは何かの講義...</summary>
+  </entry>
+  <entry>
+    <title>国家は自分自身をデバッグできるのか？ ― 司法・立法・行政・安全保障から考える国家レジリエンス : システム設計視点の行動経済学 (34)</title>
+    <id>https://qiita.com/maskot1977/items/9fd7434bb8da4d88e70b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/9fd7434bb8da4d88e70b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-29T00:19:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: 「システム設計視点の行動経済学」、第34回を始めましょう。その前に、まず前回の復習として、 大切な問題ほど、なぜ語られなくなるのか？ ― 「沈黙の螺旋」と財源幻想をデバッグし、国家レジリエンスを高める : システム設計視点の行動経済学 (33) https:/...</summary>
+  </entry>
+  <entry>
+    <title>AWS、AIエージェントを自作できるツール「Strandsハーネス」をオープンソースで公開。特定のLLMに依存せず入れ替え可能、任意のコンテナ環境にデプロイ</title>
+    <id>https://www.publickey1.jp/blog/26/awsaistrandsllm.html</id>
+    <link href="https://www.publickey1.jp/blog/26/awsaistrandsllm.html" />
+    <updated>2026-09-29T00:01:25+09:00</updated>
+    <category term="Publickey" />
+    <summary>Amazon Web Services（AWS）は、GPTやClaude、Gemini、Ollamaなど主要なLLMやLLMランタイムを基にした高性能なAIエージェントを簡単に自作できるツール「Strandsハーネス」をオープンソースで公開...</summary>
+  </entry>
+  <entry>
+    <title>【自社開発1年目】「チーム経験ゼロ」の27歳元営業が、ダイレクト出版でAIを使い倒し本番コードを書くエンジニアになるまで</title>
+    <id>https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T23:51:38+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>TL;DR 誰： 27歳元営業。エンジニア未経験でダイレクト出版のプロダクト企画部に入社して1年経過 やったこと： 大阪で2ヶ月研修 ➔ FE（TypeScript, React）➔ BE（Go）➔ FE（現在） 感想： 結論、入社してよかった。やらかしもしたが、...</summary>
+  </entry>
+  <entry>
+    <title>AI時代のエンジニアが鍛えるべき「具体と抽象」という思考力</title>
+    <id>https://qiita.com/jota9613/items/b5c5412dcf9c6ff10c54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jota9613/items/b5c5412dcf9c6ff10c54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:49:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに いつもお世話になっている@Sicut_studyさんのコミュニティJISSENの 「具体と抽象」をテーマにしたイベントに参加してきました！ このイベントの中で学んだことをアウトプットしていこうと思います✨ イベントの流れ AIとエンジニアについて〜 ワーク①...</summary>
+  </entry>
+  <entry>
+    <title>同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由</title>
+    <id>https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/0a68cd4ab997e8c8213b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>同一人物がApple/Googleどちらでログインしても同じアカウントにする ― Firebase純正のlink(with:)を使わなかった理由 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、ログインに...</summary>
+  </entry>
+  <entry>
+    <title>Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた</title>
+    <id>https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/0f7d52531f4370484101?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Web/admin/iOSにE2Eテストを整備した話 ― 認証を迂回したら、次はテストコード自身の罠が待っていた 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、Web・admin・iOSという3つの異な...</summary>
+  </entry>
+  <entry>
+    <title>個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた</title>
+    <id>https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/9d8a5b91dbe3b81cb1b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>個人開発のiOS共通ライブラリをSSHフリー化した話 ― 「publicだから認証不要」の勘違いに、Dockerビルドだけが気づいていた 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）のiOS側は、UIKi...</summary>
+  </entry>
+  <entry>
+    <title>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた</title>
+    <id>https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/a8d8177d02cc4f7f2553?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた 前回の記事の最後で、「負荷や長時間稼働に対する挙動は、自動では見ていません」と書きました。個人開発しているMinecraftサーバー監視アプリ「MineW...</summary>
+  </entry>
+  <entry>
+    <title>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
+    <id>https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）の本番環境は、Argo Rollout...</summary>
+  </entry>
+  <entry>
+    <title>GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体</title>
+    <id>https://qiita.com/jqit-yukiono/items/efc0e2b10bb1aa0a3792?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/efc0e2b10bb1aa0a3792?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体 前回の記事で、個人開発のMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）のPRを、AIレビュ...</summary>
+  </entry>
+  <entry>
+    <title>「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話</title>
+    <id>https://qiita.com/jqit-yukiono/items/050ba069630b6d2b17da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/050ba069630b6d2b17da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話 自宅のProxmox上に構築したKubernetesクラスタで、CI/CD基盤（Jenkins、パッケージミラーのNexus、...</summary>
+  </entry>
+  <entry>
+    <title>「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか</title>
+    <id>https://qiita.com/jqit-yukiono/items/1bf18c5f749d05d8c2ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/1bf18c5f749d05d8c2ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、当初は「見るだけ」の読み取り専用の監視アプ...</summary>
+  </entry>
+  <entry>
+    <title>個人開発アプリ「MineWatch」の記事まとめ（随時更新）</title>
+    <id>https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/869751db9269dc2ce84a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>個人開発アプリ「MineWatch」の記事まとめ（随時更新） 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、iOS UIKit + FastAPI + Kubernetes）について書いた記事が増えてきたので、リンク集としてまとめ...</summary>
+  </entry>
+  <entry>
+    <title>GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末</title>
+    <id>https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jqit-yukiono/items/defe0f80ac4c354aeb7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T20:26:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>GitHub CodeQLが個人アカウントでは使えなかった話 ― 開発ツールを9本まとめて入れた棚卸しの顛末 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）で、ある日「未導入のツールが9個ある」と気づいて、...</summary>
+  </entry>
+  <entry>
+    <title>【JavaScript】Promise.resolveはPromiseでないオブジェクトもresolveするしそのせいで脆弱性がたくさんある</title>
+    <id>https://qiita.com/rana_kualu/items/4bf77973ab94453a2699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/rana_kualu/items/4bf77973ab94453a2699?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T19:59:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>どういうこと？ thenインジェクション Object.prototype.then = function(resolve, reject) { console.log('thenメソッド生やしてみた'); resolve(true); }; async fu...</summary>
+  </entry>
+  <entry>
+    <title>クロスプラットフォームアプリのためのiPhone Duoレビュー</title>
+    <id>https://zenn.dev/rdlabo/articles/iphone-duo-cross-platform-introduction</id>
+    <link href="https://zenn.dev/rdlabo/articles/iphone-duo-cross-platform-introduction" />
+    <updated>2026-09-28T19:47:31+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>iPhone Duoへの対応を調べるために、SwiftUIで小さな検証アプリを作って、シミュレーターでひたすら操作していました。ボタンを置き換えたり、モーダルを開いたり、画面を遷移させたり。調査だけで数日溶けました 😂 折り畳める端末なので、まず画面幅への対応が気になりますよね。けれど、実際に触ってみると、ツールバーやタブの配置、メニューの表示、背景のアニメーションまで、確認したいことが結構ありま…</summary>
+  </entry>
+  <entry>
+    <title>RX 5500 XTからV100S×4まで、4台の計算機でローカルLLMを測り比べた話</title>
+    <id>https://zenn.dev/c4n4242/articles/75659aebdd62d4</id>
+    <link href="https://zenn.dev/c4n4242/articles/75659aebdd62d4" />
+    <updated>2026-09-28T19:09:32+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>みなさんこんにちは。カノンと申します。 この記事では、とある事情で様々な計算機を使う機会があったので世代もメーカーもバラバラな4台の計算機にローカルLLMを載せて測り比べた結果を書き連ねていこうと思います。 ※ 数値はすべて2026年9月18〜19日の実測です。llama.cpp や ROCm は更新が速いので、今測ると違う値が出るかもしれません。 はじめに 今回比較した対象の計算機は次の4台にな…</summary>
+  </entry>
+  <entry>
+    <title>別会社の開発チームに AWS 環境を共有するのって大変だ</title>
+    <id>https://zenn.dev/dress_code/articles/f89590d105ba5f</id>
+    <link href="https://zenn.dev/dress_code/articles/f89590d105ba5f" />
+    <updated>2026-09-28T19:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>別会社の開発チームに AWS を触ってもらいたいとき、どうしてますか？ DRESS CODE（弊社のプロダクト）の開発にはパートナー企業のエンジニアにも参加してもらっているのですが、デプロイは GitHub Actions が全部やってくれるので、AWS の権限を渡さなくても開発は回ります。しかし、動作検証のフェーズにおいては「DB の中身を見たい」「バッチを流したい」「S3 に何が置かれたか確か…</summary>
+  </entry>
+  <entry>
+    <title>【勉強会】AI時代「考える力」をどう鍛える？具体抽象トレーニングに参加してきました</title>
+    <id>https://qiita.com/ryu0947/items/e319b0e849cae39ff67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu0947/items/e319b0e849cae39ff67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T18:22:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年9月27日にJISSENが主催するAI時代「考える力」をどう鍛える？具体抽象トレーニングの勉強会に参加してきました。 内容は「具体と抽象」にフォーカスし、AI時代にエンジニアとして考える力を鍛えることをテーマとしています。勉強会に参加して気づいたことや...</summary>
+  </entry>
+  <entry>
+    <title>LINEと診察券番号を安全に紐付ける医療連携設計</title>
+    <id>https://qiita.com/TechStudioLab/items/3a01ec0ebfd411419afa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/TechStudioLab/items/3a01ec0ebfd411419afa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T17:08:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 医療系のLINE連携を考えるとき、最初に悩むのはメッセージの送り方よりも「LINE上の利用者と、院内システムの患者をどう結び付けるか」です。 Messaging APIのWebhookからはLINEのuserIdを取得できます。一方、院内には診察券番号や患者I...</summary>
+  </entry>
+  <entry>
+    <title>Go 1.28でstring(int)周りの挙動が変わりそう</title>
+    <id>https://zenn.dev/aqyuki/articles/go-proposal-3939</id>
+    <link href="https://zenn.dev/aqyuki/articles/go-proposal-3939" />
+    <updated>2026-09-28T16:26:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年09月23日のProposal Review Meetingで珍しいProposalがProposal-Acceptedになったので今回はそのProposalについてまとめていこうと思います。 spec: remove string(int) #3939 今回承認されたProposalはspec: remove string(int)#3939です。このProposalで提案さ…</summary>
+  </entry>
+  <entry>
+    <title>Teams の GitHub Copilot が「コンテキストを読む」ようになったので、全部試してみた【2026年9月アプデ】</title>
+    <id>https://qiita.com/shahin0809/items/9b7e5a507739d728618b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shahin0809/items/9b7e5a507739d728618b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T16:17:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに GitHub Copilot のアップデートを追いかけるのが完全に日課になっているGH-CUG運営兼、マイクロソフト学生アンバサダーのShahinです！ ※発言は個人の見解です 本記事はdocumentベースにTeamsで検証したものです、もっとこんな活用...</summary>
+  </entry>
+  <entry>
+    <title>業務アプリを解析してOJT教材をAIに作らせた話</title>
+    <id>https://qiita.com/yasufumi-tsunaki/items/3be876d5920efb2b94f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yasufumi-tsunaki/items/3be876d5920efb2b94f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T14:42:29+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>概要 OJT研修の一環として、業務アプリを題材にしたAndroidアプリ開発教材をAIで生成し、新人に実際にコードを書いてもらいました。 その結果、新人が実際の業務ソースコードを開いた際に、構造や実装意図をスムーズに理解できる状態を作ることができました。 この取り組みで最...</summary>
+  </entry>
+  <entry>
+    <title>AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者</title>
+    <id>https://note.com/rk611/n/n56e6db823eb1</id>
+    <link href="https://note.com/rk611/n/n56e6db823eb1" />
+    <updated>2026-09-28T12:45:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>先日会食で聞いた怖い話。 ある企業から依頼している外注さんが、AIを使い始めてから明らかにクオリティが下がっており、AIを使うなとも言いづらいし、修正依頼するもいまいち噛み合わず、やりづらいので終了しようと思う、という話でした。 気になったのはその先で、話を聞く限り、どうもその外注の方はAI使ってクオリ...</summary>
+  </entry>
+  <entry>
+    <title>Playwright Test Agents × GitHub Actions：E2E テスト生成・修復の自動化</title>
+    <id>https://zenn.dev/sun_asterisk/articles/e9b50f09839def</id>
+    <link href="https://zenn.dev/sun_asterisk/articles/e9b50f09839def" />
+    <updated>2026-09-28T12:02:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Playwright 1.56 で追加された Playwright Test Agents は、E2E テストの計画・生成・修復を AI エージェントに任せる仕組みです。私たちは稼働中のプロジェクトで、このエージェントを GitHub Actions から無人で動かす仕組みを設計・実装し、検証しました。 本記事では、その設計と、どのプロジェクトでも試せる最小構成のサンプルを紹介します。次…</summary>
+  </entry>
+  <entry>
+    <title>探索できる人は何をしているの？『Explore It!』を読んで</title>
+    <id>https://zenn.dev/knowledgework/articles/6996274de49607</id>
+    <link href="https://zenn.dev/knowledgework/articles/6996274de49607" />
+    <updated>2026-09-28T12:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ナレッジワークでQAエンジニアをしている かとあず です。 探索的テストをすると、何かしらを見つけることが多くあります。細かい部分だったり、「そこを気にするんだ？」と言われそうなコーナーケースだったりします。しかし、「なぜそれに気づいたの？」と聞かれると、うまく説明できません。 反対に、「探索的テストをしました。何も見つかりませんでした。」となると、「品質がよかった」とは思えません。「それって本当…</summary>
+  </entry>
+  <entry>
+    <title>続・データサイエンティストのためのSkills:分析手法×診断可視化セット</title>
+    <id>https://zenn.dev/green_tea/articles/55d2761106ee74</id>
+    <link href="https://zenn.dev/green_tea/articles/55d2761106ee74" />
+    <updated>2026-09-28T11:50:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 先日、データサイエンスを実務で扱う人向けの AGENTS.md と Skills の作り方の紹介と、実装例を公開しました。 https://zenn.dev/green_tea/articles/d310e5cf809190 https://github.com/atsushi-green/ds-ai-coding-skills 想像以上に反響をいただき、とても嬉しく思っています。一方で…</summary>
+  </entry>
+  <entry>
+    <title>「AI時代「考える力」をどう鍛える？具体抽象トレーニング」に参加しました！</title>
+    <id>https://qiita.com/keikeigo/items/33a6b8eb77b6b54b6353?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/keikeigo/items/33a6b8eb77b6b54b6353?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-28T09:25:47+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 「AI時代「考える力」をどう鍛える？具体抽象トレーニング」という勉強会に参加してきました！ そこで感じたことや気づいたことがあるので書きたいと思います。 気づき マジックミラー効果 マジックミラー効果とは、抽象側からは具体側が見えるが、具体側からは抽象...</summary>
+  </entry>
+  <entry>
+    <title>「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に</title>
+    <id>https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html</id>
+    <link href="https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html" />
+    <updated>2026-09-28T01:02:18+09:00</updated>
+    <category term="Publickey" />
+    <summary>Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も</title>
+    <id>https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html</id>
+    <link href="https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html" />
+    <updated>2026-09-28T00:59:50+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...</summary>
+  </entry>
+  <entry>
+    <title>具体と抽象の勉強会に参加してきた話</title>
+    <id>https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-27T21:16:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに JISSENというコミュニティで「具体と抽象」に関する勉強会に参加してきたので、やったことや学びなどを記事として残しておこうと思います。今後もこの勉強会はやるみたいなので、具体で何をしたか等のネタバレは控えています。 勉強会は以下の記事の実践バージョンという感じ...</summary>
+  </entry>
+  <entry>
+    <title>Honoが良いとされる理由がちょっとわかった気がする、多分。ちょっとだけ</title>
+    <id>https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-27T21:09:34+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは、ふくちです。前回のブログを読んだうえで見ていただくと良いと思います。 Honoってあるじゃないですか。TypeScriptのWebフレームワークでめーちゃ有名なやつです。私はこの辺ガチエアプなので、具体的に何が良いのかわかってませんでした。ざっくり軽くて速...</summary>
+  </entry>
+  <entry>
+    <title>SOLID 原則と型の持つ責務</title>
+    <id>https://zenn.dev/sator_imaging/articles/834240491191ec</id>
+    <link href="https://zenn.dev/sator_imaging/articles/834240491191ec" />
+    <updated>2026-09-27T20:55:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI がどうにもまともなコードを生成しないので詰めていると、「SOLID 原則とか曖昧でちょっと・・・」と言われました。 その辺り諸々あるんですが、ココではその前段として型システムと責務について纏めます。 以下断定的に書いていますが、そうとは言い切れない例外や解釈を丸め過ぎている部分については本投稿では触れません。 C/C++ C にはそもそもクラスの概念がない。構造体だけで継承できない。（ポイン…</summary>
+  </entry>
+  <entry>
+    <title>すこし踏み込む CancellationToken</title>
+    <id>https://zenn.dev/poipoionigiri/articles/3826f7675d39fd</id>
+    <link href="https://zenn.dev/poipoionigiri/articles/3826f7675d39fd" />
+    <updated>2026-09-27T20:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>登壇してお話ししました C# Kaigi 2026で「すこし踏み込む CancellationToken —— .NETの実装とか他言語比較とか」というタイトルでお話ししてきました． CancellationToken の内部実装とか，Python，Go，Rustとの比較とかを通して，C#/.NETの協調的キャンセルの仕組みを紹介しました． 資料はこちら． https://speakerdeck.…</summary>
+  </entry>
+  <entry>
+    <title>VS Code の Claude Code 拡張機能、なんか更新多い…？</title>
+    <id>https://zenn.dev/headwaters/articles/15875671106c54</id>
+    <link href="https://zenn.dev/headwaters/articles/15875671106c54" />
+    <updated>2026-09-27T13:48:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>VS Code を開くと Claude Code の拡張機能が更新されている。 翌朝に開くとまた更新されている。 さすがに多くないかと思って、実際に数えた。 どれくらい出ているのか 更新の回数は、Marketplace の API で正確に数えられる。 拡張機能の全バージョンと、その公開時刻が返ってくる。 curl -s -X POST "https://marketplace.visualstu…</summary>
+  </entry>
+  <entry>
+    <title>DatabricksとSnowflakeどっち？を毎回聞かれるので、機能表じゃない選び方を書く</title>
+    <id>https://qiita.com/y0shidahr/items/a3da7952f0183d8d9208?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/y0shidahr/items/a3da7952f0183d8d9208?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-26T21:07:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>機能比較表を見ても決められない 業務でDatabricksとSnowflakeの両方を触っています。で、「結局どっち？」を定期的に聞かれます。 機能比較表はもう腐るほどあるんですが、あれを読んで決められた人を見たことがありません。理由ははっきりしていて、2026年時点で機...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索</title>
+    <id>https://zenn.dev/mazrean/articles/bd9b563ace18db</id>
+    <link href="https://zenn.dev/mazrean/articles/bd9b563ace18db" />
+    <updated>2026-09-26T20:26:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自分は Go Proposal Weekly Digest というサイトを個人で運用しています。 https://go-proposal-weekly-digest.mazrean.com Go 言語の Proposal と呼ばれる言語機能追加の提案を毎週 Claude Code がまとめるサイトで、公開してからそろそろ 8か月程度が立つものになります。 ありがたいことにユーザーが一定数付いて毎週…</summary>
+  </entry>
+  <entry>
+    <title>2026年9月25日に発表された新しい Microsoft Copilot についての整理</title>
+    <id>https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yoshioterada/items/7123aef3db7d1ba91fc3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-09-26T17:19:44+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年9月25日、Microsoft は Copilot の大規模アップデートを発表しました。 Introducing the new Copilot with Home, Code and Autopilot 今回の発表を一言でまとめると、 Micros...</summary>
+  </entry>
+  <entry>
+    <title>人工知能と小説新人賞審査</title>
+    <id>https://zenn.dev/enjoetoh/articles/ai-as-literary-judge</id>
+    <link href="https://zenn.dev/enjoetoh/articles/ai-as-literary-judge" />
+    <updated>2026-09-26T15:53:26+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「第9回ゲンロンSF新人賞」候補作短評余禄 ■ＡＩ…… 2026年現在において大きな話題として各分野におけるＡＩ利用がありますが、それは創作業界においても同じです。 自分としてはとりあえず、「ＡＩにも小説は書ける」という人は、「自分がどんな作品を小説と考えているのか、具体的なリストを挙げよ、話はそれからだ」という気持ちですが、それはそれとします。 昨年末あたりから、新人賞への投稿作の倍増が話題にな…</summary>
+  </entry>
+  <entry>
+    <title>OpenTelemetryで作るセルフサービステレメトリー基盤</title>
+    <id>https://zenn.dev/ymotongpoo/books/observability-platform-with-otel</id>
+    <link href="https://zenn.dev/ymotongpoo/books/observability-platform-with-otel" />
+    <updated>2026-09-26T08:38:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Platform Engineering Kaigi 2026の登壇「セルフサービスのオブザーバビリティ基盤をOpenTelemetryで作る」の解説資料です。SDKディストリビューションと自動計装、OpenTelemetry Collector、セマンティック規約を使い、開発チームが自分たちのテレメトリーを整備できる基盤を設計します。AIワークロードの観測と、AIエージェントによる障害調査への拡…</summary>
+  </entry>
+  <entry>
+    <title>Vercelの「インポートできます」メールは何を見て送られてくるのか 61リポジトリで確かめた</title>
+    <id>https://zenn.dev/devuloper/articles/vercel_import_candidates_email</id>
+    <link href="https://zenn.dev/devuloper/articles/vercel_import_candidates_email" />
+    <updated>2026-09-25T21:04:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>きっかけ GitHub にリポジトリを作って push すると、Vercel から「A new project in ○○ is available to import and deploy on Vercel.」というメールが届くことがあります。この記事は、このメールがどんな条件で送られてくるのかを、検証用の Organization に 61 個のリポジトリを作って調べた記録です。 発端は s…</summary>
+  </entry>
+  <entry>
+    <title>Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能</title>
+    <id>https://www.publickey1.jp/blog/26/goiderune.html</id>
+    <link href="https://www.publickey1.jp/blog/26/goiderune.html" />
+    <updated>2026-09-25T00:45:08+09:00</updated>
+    <category term="Publickey" />
+    <summary>開発ツールベンダのUnstablebuildは、Go言語製のIDE「Rune」をオープンソースで公開したことを発表しました。 Runeの画面 RuneはGo言語によるネイティブアプリケーションとして提供される高速なIDEです。GPUによる描...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare、Python Workersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など</title>
+    <id>https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html</id>
+    <link href="https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html" />
+    <updated>2026-09-24T00:26:46+09:00</updated>
+    <category term="Publickey" />
+    <summary>Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上でW...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み</title>
+    <id>https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html</id>
+    <link href="https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html" />
+    <updated>2026-09-24T00:23:11+09:00</updated>
+    <category term="Publickey" />
+    <summary>Anthropicは、Claude Codeの9月18日付けアップデートClaude Code 2.1.277で「AGENTS.md」の読み込みに対応したことを明らかにしました。 以下のように説明されています。 Added AGENTS...</summary>
+  </entry>
+  <entry>
+    <title>GoogleBookが話題なので前身ChromeOSのLinux環境のこと書いておく</title>
+    <id>https://anond.hatelabo.jp/20260922175414</id>
+    <link href="https://anond.hatelabo.jp/20260922175414" />
+    <updated>2026-09-22T18:27:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ChromeOS上で本格的なローカルLinux開発環境（Vimとかtmuxとか）を作ろうとすると、いろいろと特有の落とし穴にハマる。フォントが豆腐になったり、クリップボードが死んだり、パッケージ競合で環境が壊れたりするわけだ。 色々といじり倒して、自律型マルチエージェントAIの運用まで快適にこなせる環境ができたので、現...</summary>
+  </entry>
+  <entry>
+    <title>PlanetScale、PostgreSQLのシャーディングを自動化して1億1800万QPSを達成。新DBサービス「Neki」をプレビュー公開</title>
+    <id>https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html</id>
+    <link href="https://www.publickey1.jp/blog/26/planetscalepostgresql11800qpsdbneki.html" />
+    <updated>2026-09-18T00:59:39+09:00</updated>
+    <category term="Publickey" />
+    <summary>データベースサービスを提供しているPlanetScaleは、PostgreSQLのシャーディングを自動化してスケーラブルなデータベースサービスを提供する「Neki」をプレビュー公開しました。 118,538,803 queries per ...</summary>
+  </entry>
+  <entry>
+    <title>Devinが仮想環境でmacOSの提供開始。Macの実機不要でDevinがコード生成、テスト、デバッグ、実行、AppStore配信前のベータ公開まで実行</title>
+    <id>https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html</id>
+    <link href="https://www.publickey1.jp/blog/26/devinmacosmacdevinappstore.html" />
+    <updated>2026-09-17T01:00:51+09:00</updated>
+    <category term="Publickey" />
+    <summary>コーディングAIエージェントを提供するDevinが、Devinがホストする仮想環境内でのmacOSの提供を開始しました。 Devinはこれまで仮想環境内でUbuntu LinuxおよびWindowsを提供しており、ここにmacOSが加わりま...</summary>
+  </entry>
+  <entry>
+    <title>Android、パスキーをパスワードマネージャ間で転送可能に。Googleパスワードマネージャ、1Password、Bitwarden、Dashlaneなどが対応</title>
+    <id>https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html</id>
+    <link href="https://www.publickey1.jp/blog/26/androidgoogle1passwordbitwardendashlane.html" />
+    <updated>2026-09-17T00:51:54+09:00</updated>
+    <category term="Publickey" />
+    <summary>Googleは、Android上で利用可能なパスワードマネージャの間で、パスキーの転送を可能にしたと発表しました。 これにより、例えばGoogleパスワードマネージャに登録したパスキーを1PasswordやBitwardenなどの他のパスワ...</summary>
+  </entry>
+</feed>

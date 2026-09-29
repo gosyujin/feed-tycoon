@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  ~/Library/LaunchAgents/ に置くテンプレート。時刻(StartCalendarInterval)は好みで調整する。
+  ProgramArguments のパスは、Dropbox配下ではなくTCC非保護の ~/scripts/ にコピーした実体を指すこと(README参照)。
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.gosyujin.feed-tycoon-dispatch</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/kk/scripts/feed-tycoon-dispatch.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <array>
+        <dict><key>Minute</key><integer>0</integer></dict>
+        <dict><key>Minute</key><integer>30</integer></dict>
+    </array>
+    <key>StandardOutPath</key>
+    <string>/Users/kk/Library/Logs/feed-tycoon-dispatch-launchd.log</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/kk/Library/Logs/feed-tycoon-dispatch-launchd.log</string>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+name: Fetch feeds
+
+on:
+  schedule:
+    # 発火が不安定なため補助的な位置づけ。主な実行はローカルMacからの workflow_dispatch
+    # (scripts/feed-tycoon-dispatch.sh)。毎時ちょうどは混雑するので:17/:47にずらしている。
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: fetch-feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch feeds and write data/*
+        run: python3 scripts/fetch_feeds.py
+
+      - name: Commit updated data
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "Update feed data ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+            # ほぼ同時にdispatchされた別の実行とpushが競合することがあるため、
+            # rejectされたらrebaseして数回リトライする。
+            pushed=false
+            for i in 1 2 3 4 5; do
+              if git push; then
+                pushed=true
+                break
+              fi
+              echo "push rejected (attempt $i), rebasing onto latest main and retrying..."
+              git fetch origin main
+              git rebase origin/main
+              sleep $((RANDOM % 4 + 1))
+            done
+            if [ "$pushed" != "true" ]; then
+              echo "push failed after retries" >&2
+              exit 1
+            fi
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # 既定のGITHUB_TOKENでのpushは他ワークフローのpushトリガーを連鎖発火しないため、
+      # Pagesの再デプロイを明示的に起動する。
+      - name: Trigger Pages redeploy
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy-pages.yml --ref main
