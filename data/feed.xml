@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T06:04:38.055012+09:00</updated>
+  <updated>2026-09-30T08:46:21.832579+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab</title>
+    <id>https://tech-lab.sios.jp/archives/54936</id>
+    <link href="https://tech-lab.sios.jp/archives/54936" />
+    <updated>2026-09-30T08:26:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、ローカルLLM、そして...</summary>
+  </entry>
+  <entry>
+    <title>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2144293.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2144293.html" />
+    <updated>2026-09-30T06:36:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</summary>
+  </entry>
+  <entry>
+    <title>OpenAI DevDay 2026 発表まとめ</title>
+    <id>https://zenn.dev/schroneko/articles/openai-devday-2026</id>
+    <link href="https://zenn.dev/schroneko/articles/openai-devday-2026" />
+    <updated>2026-09-30T06:28:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>tl;dr dots が公開されたよ GPT‑6.1 Sol が公開されたよ Codex クラウドが公開されたよ サムアルトマン氏のキーノート dots の発表 dots はあらゆるタスクに対応するよう設計された稼働するエージェント。GPT-6 Astra を裏では使っており、専用のクラウド上のコンピューターを持ち、フィードバックから継続的に学び、与...</summary>
+  </entry>
+  <entry>
+    <title>「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
+    <id>https://gigazine.net/news/20260930-bend-lang/</id>
+    <link href="https://gigazine.net/news/20260930-bend-lang/" />
+    <updated>2026-09-30T06:04:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。 Bend https://bend-lang.com/ BendはポストAGIの経済社会において人間がコードの記述や読解から解放される未来を見据え、AIに対して意図を明確に伝えるための手段として開発されました。Bendは「法律(Laws...</summary>
+  </entry>
+  <entry>
+    <title>GitHub - mizchi/explainer</title>
+    <id>https://github.com/mizchi/explainer</id>
+    <link href="https://github.com/mizchi/explainer" />
+    <updated>2026-09-30T04:12:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottlen…</summary>
+  </entry>
+  <entry>
+    <title>OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/" />
+    <updated>2026-09-30T03:51:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。</summary>
+  </entry>
+  <entry>
+    <title>BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？） - Qiita</title>
+    <id>https://qiita.com/moritalous/items/1b6a05842724fc1fff66</id>
+    <link href="https://qiita.com/moritalous/items/1b6a05842724fc1fff66" />
+    <updated>2026-09-29T23:26:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>import time import boto3 client = boto3.client("bedrock-runtime", region_name="us-east-1") model_id = "global.anthropic.claude-sonnet-5-5" # キャッシュの最小トークン数を超えるよう、長いシステムプロンプトを用意 system_prompt = "You are…</summary>
+  </entry>
+  <entry>
+    <title>GitHub を使う上で知っておくと嬉しいかも Tips 2026 | ドクセル</title>
+    <id>https://www.docswell.com/s/cybozu-tech/K4NM4D-github-tips-2026?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage</id>
+    <link href="https://www.docswell.com/s/cybozu-tech/K4NM4D-github-tips-2026?utm_source=twitter&amp;utm_medium=social&amp;utm_campaign=singlepage" />
+    <updated>2026-09-29T19:53:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHub 知っておくと便利かも Tips 2026 セキュリティ向上 Tips 特集号 開運研修 2026 社外公開版 2026.05.08 社内公開 2026.07.21 更新 サイボウズ株式会社 開発本部 開発支援副本部 技術支援部 生産性向上副部 平木場 風太 自己紹介: 平木場 風太（ひらこば ふうた） 社内でのニックネームは「きばちゃん」 所属 開発...</summary>
+  </entry>
+  <entry>
+    <title>OpenAIの中で何が起きているのかをセキュリティ担当者が説明、AIラボには「合理的なパラノイアの文化」が必要</title>
+    <id>https://gigazine.net/news/20260929-openai-security-surprise/</id>
+    <link href="https://gigazine.net/news/20260929-openai-security-surprise/" />
+    <updated>2026-09-29T15:13:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIのAIエージェントが、オーストラリア政府機関のシステムをハッキングしたり、国連のウェブサイトにブルートフォース攻撃(総当たり攻撃)を試みたり、アメリカの教育省・商務省・証券取引委員会のサイトに干渉していたりと、複数のインシデントが繰り返し報告されています。OpenAIでセキュリティ担当を務める人物が...</summary>
+  </entry>
+  <entry>
+    <title>高校生がマネーフォワードの2weeksインターンに参加してきたので振り返り</title>
+    <id>https://zenn.dev/ngstk/articles/d69408a046d831</id>
+    <link href="https://zenn.dev/ngstk/articles/d69408a046d831" />
+    <updated>2026-09-29T12:30:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! This article is not official information from Money Forward, Inc. These opinions and information are entirely my own. 本記事の内容は、株式会社マネーフォワードの公式情報ではありません。 全ての内容は、私個人による意見・情報です。 かいてあること 参加の背景 キャリア観 なぜマネ…</summary>
+  </entry>
+  <entry>
+    <title>IIJ Bootcamp 2026 – AI時代にハンズオン研修で学んでほしいこと | IIJ Engineers Blog</title>
+    <id>https://eng-blog.iij.ad.jp/archives/37642</id>
+    <link href="https://eng-blog.iij.ad.jp/archives/37642" />
+    <updated>2026-09-28T14:07:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>IIJ ネットワークサービス事業本部 ネットワーク本部 基盤プロダクト開発部 所属。2015年に新卒入社。Webアプリケーションの実装・運用を主務としつつ色々やってる人です。 はじめに IIJでは毎年7月から8月にかけて、初心者向けの研修として「IIJ Bootcamp」を有志で開催しており、今年でなんと8年目になります。 もちろ...</summary>
+  </entry>
   <entry>
     <title>BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）</title>
     <id>https://qiita.com/moritalous/items/1b6a05842724fc1fff66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -717,93 +805,5 @@
     <updated>2026-09-28T12:45:29+09:00</updated>
     <category term="はてブ IT" />
     <summary>先日会食で聞いた怖い話。 ある企業から依頼している外注さんが、AIを使い始めてから明らかにクオリティが下がっており、AIを使うなとも言いづらいし、修正依頼するもいまいち噛み合わず、やりづらいので終了しようと思う、という話でした。 気になったのはその先で、話を聞く限り、どうもその外注の方はAI使ってクオリ...</summary>
-  </entry>
-  <entry>
-    <title>Playwright Test Agents × GitHub Actions：E2E テスト生成・修復の自動化</title>
-    <id>https://zenn.dev/sun_asterisk/articles/e9b50f09839def</id>
-    <link href="https://zenn.dev/sun_asterisk/articles/e9b50f09839def" />
-    <updated>2026-09-28T12:02:56+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Playwright 1.56 で追加された Playwright Test Agents は、E2E テストの計画・生成・修復を AI エージェントに任せる仕組みです。私たちは稼働中のプロジェクトで、このエージェントを GitHub Actions から無人で動かす仕組みを設計・実装し、検証しました。 本記事では、その設計と、どのプロジェクトでも試せる最小構成のサンプルを紹介します。次…</summary>
-  </entry>
-  <entry>
-    <title>探索できる人は何をしているの？『Explore It!』を読んで</title>
-    <id>https://zenn.dev/knowledgework/articles/6996274de49607</id>
-    <link href="https://zenn.dev/knowledgework/articles/6996274de49607" />
-    <updated>2026-09-28T12:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ナレッジワークでQAエンジニアをしている かとあず です。 探索的テストをすると、何かしらを見つけることが多くあります。細かい部分だったり、「そこを気にするんだ？」と言われそうなコーナーケースだったりします。しかし、「なぜそれに気づいたの？」と聞かれると、うまく説明できません。 反対に、「探索的テストをしました。何も見つかりませんでした。」となると、「品質がよかった」とは思えません。「それって本当…</summary>
-  </entry>
-  <entry>
-    <title>続・データサイエンティストのためのSkills:分析手法×診断可視化セット</title>
-    <id>https://zenn.dev/green_tea/articles/55d2761106ee74</id>
-    <link href="https://zenn.dev/green_tea/articles/55d2761106ee74" />
-    <updated>2026-09-28T11:50:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 先日、データサイエンスを実務で扱う人向けの AGENTS.md と Skills の作り方の紹介と、実装例を公開しました。 https://zenn.dev/green_tea/articles/d310e5cf809190 https://github.com/atsushi-green/ds-ai-coding-skills 想像以上に反響をいただき、とても嬉しく思っています。一方で…</summary>
-  </entry>
-  <entry>
-    <title>「AI時代「考える力」をどう鍛える？具体抽象トレーニング」に参加しました！</title>
-    <id>https://qiita.com/keikeigo/items/33a6b8eb77b6b54b6353?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/keikeigo/items/33a6b8eb77b6b54b6353?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T09:25:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「AI時代「考える力」をどう鍛える？具体抽象トレーニング」という勉強会に参加してきました！ そこで感じたことや気づいたことがあるので書きたいと思います。 気づき マジックミラー効果 マジックミラー効果とは、抽象側からは具体側が見えるが、具体側からは抽象...</summary>
-  </entry>
-  <entry>
-    <title>「Docker Cloud Sandboxes」発表、AIエージェント向けサンドボックスをローカルとクラウド間で自由に移動可能に</title>
-    <id>https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html</id>
-    <link href="https://www.publickey1.jp/blog/26/docker_cloud_snadboxesai.html" />
-    <updated>2026-09-28T01:02:18+09:00</updated>
-    <category term="Publickey" />
-    <summary>Docker社はAIエージェント向けのサンドボックス環境をクラウド上で提供する「Docker Cloud Sandboxes」を発表しました。 同社はすでにローカルで動作するサンドボックス環境の「Docker Sandboxes」を今年（2...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、企業内アプリの実行基盤「Copilot Managed Runtime」プレビュー公開。Microsoft 365と同じテナント内でコード実行、管理者による集中管理も</title>
-    <id>https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html</id>
-    <link href="https://www.publickey1.jp/blog/26/copilot_managed_runtimemicrosoft_365.html" />
-    <updated>2026-09-28T00:59:50+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトは、AIコーディングエージェントのMicrosoft Copilotなどで開発した社内アプリケーションを実行するためのセキュアな基盤「Copilot Managed Runtime」をパブリックプレビューとして公開しました。 ...</summary>
-  </entry>
-  <entry>
-    <title>具体と抽象の勉強会に参加してきた話</title>
-    <id>https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/bisketoriba/items/73c2102fe9a9827eed7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-27T21:16:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに JISSENというコミュニティで「具体と抽象」に関する勉強会に参加してきたので、やったことや学びなどを記事として残しておこうと思います。今後もこの勉強会はやるみたいなので、具体で何をしたか等のネタバレは控えています。 勉強会は以下の記事の実践バージョンという感じ...</summary>
-  </entry>
-  <entry>
-    <title>Honoが良いとされる理由がちょっとわかった気がする、多分。ちょっとだけ</title>
-    <id>https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/har1101/items/71a1b09a844d6b8c793d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-27T21:09:34+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは、ふくちです。前回のブログを読んだうえで見ていただくと良いと思います。 Honoってあるじゃないですか。TypeScriptのWebフレームワークでめーちゃ有名なやつです。私はこの辺ガチエアプなので、具体的に何が良いのかわかってませんでした。ざっくり軽くて速...</summary>
-  </entry>
-  <entry>
-    <title>SOLID 原則と型の持つ責務</title>
-    <id>https://zenn.dev/sator_imaging/articles/834240491191ec</id>
-    <link href="https://zenn.dev/sator_imaging/articles/834240491191ec" />
-    <updated>2026-09-27T20:55:18+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AI がどうにもまともなコードを生成しないので詰めていると、「SOLID 原則とか曖昧でちょっと・・・」と言われました。 その辺り諸々あるんですが、ココではその前段として型システムと責務について纏めます。 以下断定的に書いていますが、そうとは言い切れない例外や解釈を丸め過ぎている部分については本投稿では触れません。 C/C++ C にはそもそもクラスの概念がない。構造体だけで継承できない。（ポイン…</summary>
-  </entry>
-  <entry>
-    <title>すこし踏み込む CancellationToken</title>
-    <id>https://zenn.dev/poipoionigiri/articles/3826f7675d39fd</id>
-    <link href="https://zenn.dev/poipoionigiri/articles/3826f7675d39fd" />
-    <updated>2026-09-27T20:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>登壇してお話ししました C# Kaigi 2026で「すこし踏み込む CancellationToken —— .NETの実装とか他言語比較とか」というタイトルでお話ししてきました． CancellationToken の内部実装とか，Python，Go，Rustとの比較とかを通して，C#/.NETの協調的キャンセルの仕組みを紹介しました． 資料はこちら． https://speakerdeck.…</summary>
-  </entry>
-  <entry>
-    <title>VS Code の Claude Code 拡張機能、なんか更新多い…？</title>
-    <id>https://zenn.dev/headwaters/articles/15875671106c54</id>
-    <link href="https://zenn.dev/headwaters/articles/15875671106c54" />
-    <updated>2026-09-27T13:48:33+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>VS Code を開くと Claude Code の拡張機能が更新されている。 翌朝に開くとまた更新されている。 さすがに多くないかと思って、実際に数えた。 どれくらい出ているのか 更新の回数は、Marketplace の API で正確に数えられる。 拡張機能の全バージョンと、その公開時刻が返ってくる。 curl -s -X POST "https://marketplace.visualstu…</summary>
   </entry>
 </feed>
