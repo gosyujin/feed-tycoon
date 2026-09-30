@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T07:20:56.144506+09:00</updated>
+  <updated>2026-10-01T07:30:16.170367+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Codexを使うなら、/recap・/copy・/exportを押さえておきたい - じゃあ、おうちで学べる</title>
+    <id>https://syu-m-5151.hatenablog.com/entry/2026/09/29/161928</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2026/09/29/161928" />
+    <updated>2026-09-30T22:28:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Codex CLIには、会話を要約する /recap、出力をコピーする /copy、会話全体を書き出す /export があります。いずれも会話に蓄積された情報を扱う機能ですが、対象と用途が異なります。 この記事では、3つのコマンドの役割と、関連する /compact・/status・/diff との違いを整理します。要約、コピー、保存で何...</summary>
+  </entry>
   <entry>
     <title>セイコーマート、会員のほぼ半数に当たる情報漏えい 約57万人分</title>
     <id>https://www.itmedia.co.jp/news/article/2609/30/2000001906/</id>
@@ -28,7 +36,7 @@
     <link href="https://github.com/nanaism/yomiyasu" />
     <updated>2026-10-01T03:28:31+09:00</updated>
     <category term="はてブ IT" />
-    <summary>yomiyasuは、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い文章へ推敲するためのスキルです。 Codex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。 Built with curiosity at ALGO ARTIS ALGO ARTISについて 株式会社 ALGO ARTIS は、私たちが社会基...</summary>
+    <summary>『yomiyasu（よみやす）』は、AIが生成した日本語の不自然さを解消し、人間が読みやすく情報密度の高い日本語へ推敲するためのスキルです。 Codex、Claude Code、CursorをはじめとするAIコーディング環境に読み込ませて使用してください。 開発背景や言語学的病理の分析、複数のコーパスによる検証結果については、以下...</summary>
   </entry>
   <entry>
     <title>凸凹育児とエンジニアを両方やるということ - yprestoの非技術ブログ</title>
@@ -795,13 +803,5 @@
     <updated>2026-09-30T14:37:13+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Bitbucket PipelinesとCodePipelineを活用したECS(Fargate)自動デプロイ環境の構築 概要 株式会社Kaienで社内SEとして働いています。 現在、弊社ではオンプレミス環境や既存環境からAWSへの移行を進めており、私はその中で開発環境...</summary>
-  </entry>
-  <entry>
-    <title>ナビダイヤル、10月から通話料値上げ 携帯発信は1分33円→44円に</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001879/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001879/" />
-    <updated>2026-09-30T12:05:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NTTドコモビジネス（旧NTTコミュニケーションズ）は、企業のコールセンターや問い合わせ窓口などで使われる電話サービス「ナビダイヤル」の通話料を10月1日に改定する。携帯電話からの発信が対象で、現行の20秒当たり11円（税別10円）を30秒当たり22円（税別20円）に変更する。1分当たりでは33円から44円の値上げになる...</summary>
   </entry>
 </feed>
