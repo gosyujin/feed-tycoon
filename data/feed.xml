@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T02:00:14.704072+09:00</updated>
+  <updated>2026-10-01T02:30:12.245716+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み - LayerX エンジニアブログ</title>
+    <id>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</id>
+    <link href="https://tech.layerx.co.jp/entry/10minute_test_plan_gen" />
+    <updated>2026-09-30T18:30:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテ...</summary>
+  </entry>
+  <entry>
+    <title>AIに実装を任せると、設計の仕事はどう変わるか - Building Evolutionary Architectures, 2nd Edition の読書感想文 - じゃあ、おうちで学べる</title>
+    <id>https://syu-m-5151.hatenablog.com/entry/2026/09/30/162646</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2026/09/30/162646" />
+    <updated>2026-09-30T18:04:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 『Building Evolutionary Architectures, 2nd Edition』を読みました。要件や技術が変わり続ける中で、システムの設計をどう変えていくかを扱った本です。部品をどう分け、どうつなぎ、どこへデータを置くか。ここでいうアーキテクチャは、そうした全体の構造を指します。1か所を直すだけで済むか、ほかの部品...</summary>
+  </entry>
   <entry>
     <title>[石川温の「スマホ業界 Watch」] 楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響</title>
     <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html</id>
@@ -787,21 +803,5 @@
     <updated>2026-09-30T11:27:22+09:00</updated>
     <category term="はてブ IT" />
     <summary>楽天モバイルへのauローミング、10月からのエリアマップ公開</summary>
-  </entry>
-  <entry>
-    <title>【速報】声が「パブリシティ権」の保護対象と認める判決 津田健次郎さんの訴え退けるも東京地裁が初判断 TikTok運営会社に生成AI動画の削除求めた訴訟 | TBS NEWS DIG</title>
-    <id>https://newsdig.tbs.co.jp/articles/-/2977135</id>
-    <link href="https://newsdig.tbs.co.jp/articles/-/2977135" />
-    <updated>2026-09-30T13:57:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>生成AIで自身の声を無断で模倣した動画が公開されているとして、人気声優の津田健次郎さんが、動画共有アプリ「TikTok」の運営会社に動画の削除を求めた裁判で、東京地裁は声が「パブリシティ権」の保護の対象にな…</summary>
-  </entry>
-  <entry>
-    <title>新規プロダクトのバックエンド自動テスト戦略 ─UT 中心から API テスト中心へ─</title>
-    <id>https://zenn.dev/canary_techblog/articles/348d976da70857</id>
-    <link href="https://zenn.dev/canary_techblog/articles/348d976da70857" />
-    <updated>2026-09-30T09:45:25+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは！ 株式会社カナリーで新規プロダクトを開発している tom-uchida です。 新規プロダクトのバックエンドでは自動テストをユニットテスト（以下、UT）中心で整備してきたのですが、API 単位で仕様どおりに動作することを保証する仕組みがなかったため、runn による API テストを導入し、品質保証の主軸を UT から API テストへ切り替えました。本記事では、次の 3 点をご紹介で…</summary>
   </entry>
 </feed>
