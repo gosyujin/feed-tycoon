@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T21:00:16.970170+09:00</updated>
+  <updated>2026-09-30T21:30:16.496134+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ドメインの壁を超えて顧客価値を生み出すAI Native開発〜そして全社展開へ〜 - enechain Tech Blog</title>
+    <id>https://techblog.enechain.com/entry/ai-native-beyond-domain</id>
+    <link href="https://techblog.enechain.com/entry/ai-native-beyond-domain" />
+    <updated>2026-09-30T18:44:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに AI Native開発で見えたもの ドメインエキスパート中心のSDDとその課題 動くモックで営業→フィードバックループの早期化 開発期間と工数の削減 全社展開戦略 開発：ガイドレール・ゴールデンパス・ガードレール 運用：コンテキストエンジニアリングと標準化 組織：ドメインエキスパート中心の開発体制 全社への...</summary>
+  </entry>
+  <entry>
+    <title>タイムズカーシェアの情報流出について</title>
+    <id>https://anond.hatelabo.jp/20260930090618</id>
+    <link href="https://anond.hatelabo.jp/20260930090618" />
+    <updated>2026-09-30T09:08:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パスワードの平文が流出しているのではないか、という心配が拭えない。 公式からハッシュ化されて保持していたというアナウンスがあったことは承知しているけど、それでも。 以前、タイムズからユーザーに対して、脆弱なパスワードから複雑なパスワードに変更してください、という依頼アナウンスがあった。 その際に「平...</summary>
+  </entry>
   <entry>
     <title>ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話</title>
     <id>https://zenn.dev/knowledgework/articles/2691721311c2e4</id>
@@ -787,21 +803,5 @@
     <updated>2026-09-30T09:29:56+09:00</updated>
     <category term="はてブ IT" />
     <summary>この記事のポイント何が起きた: Microsoftが2026年9月29日、WSLコンテナを一般提供し、CLIとWindows向けAPIを正式投入した。なぜ重要か: Linuxコンテナの実行を通常のWSL環境から分け、Windowsの権限・管理・通信へ組み込む基盤となる。次に見るべき点: Composeの実装、配布チャネル表示の収束、Docker系ツールが必要と...</summary>
-  </entry>
-  <entry>
-    <title>OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定”</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/" />
-    <updated>2026-09-30T05:05:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIは9月29日（現地時間）、開発者向けカンファレンス「OpenAI DevDay 2026」の中で、リアルタイムの意思決定を提供する「Decisions API」のプレビュー版を発表した。直近で話題になっていたAIモデル「Jev」（ジェヴ）へ追従する動きとみられる。 Decisions APIは、あらかじめ定めた質問群と回答候補を廉価モデル「...</summary>
-  </entry>
-  <entry>
-    <title>GitHub を使う上で知っておくと嬉しいかも Tips 2026 | ドクセル</title>
-    <id>https://www.docswell.com/s/cybozu-tech/K4NM4D-github-tips-2026</id>
-    <link href="https://www.docswell.com/s/cybozu-tech/K4NM4D-github-tips-2026" />
-    <updated>2026-09-30T02:44:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GitHub 知っておくと便利かも Tips 2026 セキュリティ向上 Tips 特集号 開運研修 2026 社外公開版 2026.05.08 社内公開 2026.07.21 更新 サイボウズ株式会社 開発本部 開発支援副本部 技術支援部 生産性向上副部 平木場 風太 自己紹介: 平木場 風太（ひらこば ふうた） 社内でのニックネームは「きばちゃん」 所属 開発...</summary>
   </entry>
 </feed>
