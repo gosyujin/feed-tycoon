@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T02:30:12.245716+09:00</updated>
+  <updated>2026-10-01T03:00:14.836366+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AI時代のコードレビューは人に向けるな、仕組みに向けろ</title>
+    <id>https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero</id>
+    <link href="https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero" />
+    <updated>2026-09-30T19:03:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Technical Decisions and Reflections on "Test Maker" After Two Years of Development</summary>
+  </entry>
   <entry>
     <title>The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み - LayerX エンジニアブログ</title>
     <id>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</id>
@@ -795,13 +803,5 @@
     <updated>2026-09-30T14:56:28+09:00</updated>
     <category term="はてブ IT" />
     <summary>3行まとめ GitHub Actionsの依存関係はコミットSHAでバージョンをピン留めした方がよい しかし従来サポートされていた方法は扱いづらかった 公式の「gh actions-lock」コマンドを利用すると楽 従来のGitHub Actionsバージョン管理 GitHub Actionsの依存関係はバージョン指定とコミットSHA指定の2種類があり、後者の方が...</summary>
-  </entry>
-  <entry>
-    <title>楽天モバイルへのauローミング、10月からのエリアマップ公開</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2144337.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2144337.html" />
-    <updated>2026-09-30T11:27:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天モバイルへのauローミング、10月からのエリアマップ公開</summary>
   </entry>
 </feed>
