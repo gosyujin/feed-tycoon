@@ -258,7 +258,7 @@
       { class: 'entry' + (read ? ' entry--read' : '') + (verdict ? ' entry--hidden' : '') },
       link,
       meta,
-      entry.description ? el('p', { class: 'entry-desc', text: entry.description }) : null,
+      entry.description ? el('a', { class: 'entry-desc', href: entryHref(entry.url), text: entry.description }) : null,
       verdict
         ? el('p', { class: 'entry-reason', text: `${Filters.KIND_LABELS[verdict.kind]}: ${Filters.TYPE_LABELS[verdict.rule.type]}「${verdict.rule.value}」に一致` })
         : el('button', {
