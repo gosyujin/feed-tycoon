@@ -94,6 +94,17 @@
     return url.toString();
   }
 
+  // Raw URL(gist.githubusercontent.com/{user}/{hash}/raw/(commit/)?{file})から、Gist 本体ページの URL(#file- アンカー付き)を逆算する。
+  // アンカーは GitHub の仕様に合わせ、ファイル名を小文字にして英数字・_ 以外の連続を "-" にしたもの(gistfile1.txt → file-gistfile1-txt)。
+  // Gist の Raw URL でなければ null。
+  function gistPageUrl(rawUrl) {
+    const m = /^https:\/\/gist\.githubusercontent\.com\/([^/]+)\/([0-9a-fA-F]+)\/raw\/(.+)$/.exec(normalizeUrl(rawUrl || ''));
+    if (!m) return null;
+    const filename = m[3].split('/').filter(Boolean).pop();
+    if (!filename) return null;
+    return `https://gist.github.com/${m[1]}/${m[2]}#file-${filename.toLowerCase().replace(/[^a-z0-9_]+/g, '-')}`;
+  }
+
   async function fetchText(rawUrl, timeoutMs) {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), timeoutMs || 10000);
@@ -106,5 +117,5 @@
     }
   }
 
-  global.RulesIO = { rulesToCsv, parseCsv, parseRulesCsv, normalizeUrl, fetchText };
+  global.RulesIO = { rulesToCsv, parseCsv, parseRulesCsv, normalizeUrl, gistPageUrl, fetchText };
 })(window);

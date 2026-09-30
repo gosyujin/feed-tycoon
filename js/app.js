@@ -640,6 +640,14 @@
     $('import-status').textContent = message;
   }
 
+  // 登録済み(または入力した)Gist の URL から、Gist 本体ページへのリンクを出す。Gist でなければ空にする。
+  function refreshGistLink(url) {
+    const box = $('import-gist-link');
+    box.replaceChildren();
+    const pageUrl = RulesIO.gistPageUrl(url);
+    if (pageUrl) box.append(el('a', { href: pageUrl, target: '_blank', rel: 'noopener noreferrer', text: 'Gistページを開く' }));
+  }
+
   function renderSettings() {
     const kind = state.settingsKind;
     const tabs = $('settings-tabs');
@@ -671,7 +679,9 @@
     const rules = Filters.loadRules(kind);
     $('rule-count').textContent = rules.length;
     $('rule-list').replaceChildren(...rules.map(renderRuleRow));
-    $('import-url-input').value = readStorage(KEYS.importUrl(kind)) || '';
+    const importUrl = readStorage(KEYS.importUrl(kind)) || '';
+    $('import-url-input').value = importUrl;
+    refreshGistLink(importUrl);
     $('export-text').hidden = true;
   }
 
@@ -861,6 +871,7 @@
       const key = KEYS.importUrl(state.settingsKind);
       if (!url) {
         writeStorage(key, null);
+        refreshGistLink('');
         setImportStatus('自動インポートのURLを解除しました');
         return;
       }
@@ -872,6 +883,7 @@
           return;
         }
         writeStorage(key, url);
+        refreshGistLink(url);
         applyImport(result.rules, result.skipped);
       } catch (err) {
         setImportStatus(`取得に失敗しました(${err.message})`);
