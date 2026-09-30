@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T16:30:12.946367+09:00</updated>
+  <updated>2026-09-30T17:00:14.799213+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>もうMCPサーバは不要なのか？ 代わりになる技術を開発者が提唱</title>
+    <id>https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news047.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news047.html" />
+    <updated>2026-09-30T13:26:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>MCPはLLMが未成熟な時期に外部サービス接続用として普及したが、AIモデルの高度化で役割が縮小している。あるソフトウェアエンジニアは、多くのMCPサーバを廃し、これを介さない手法を取り入れるべきだと主張した。一体それは何だろうか。 「Model Context Protocol」（MCP）は、Anthropicが2024年11月に公開した、AIエ...</summary>
+  </entry>
+  <entry>
+    <title>デスクトップ付箋の老舗「付箋紙21」に6年ぶりの新作、64bit版が登場／「Delphi 13 CE」と「Claude」の力を借りて復活</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2144123.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2144123.html" />
+    <updated>2026-09-30T13:25:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>デスクトップ付箋の老舗「付箋紙21」に6年ぶりの新作、64bit版が登場／「Delphi 13 CE」と「Claude」の力を借りて復活</summary>
+  </entry>
+  <entry>
+    <title>イベント駆動マイクロサービス 第2版</title>
+    <id>https://www.oreilly.co.jp//books/9784814401826/</id>
+    <link href="https://www.oreilly.co.jp//books/9784814401826/" />
+    <updated>2026-09-30T00:13:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>TOPICS System/Network 発行年月日 2026年10月21日 発売予定 PRINT LENGTH 488 （予定） ISBN 978-4-8144-0182-6 原書 Building Event-Driven Microservices, 2E FORMAT Print イベント駆動マイクロサービスは、イベントストリームを活用し、組織全体で発生するデータや状態の変化にリアルタイ…</summary>
+  </entry>
   <entry>
     <title>「WSL 3.0」がリリース、3カ月のテストを経て「WSL containers」が正式版に／「Docker」なしでLinuxコンテナーを構築・実行、「wslc compose」の開発にも着手</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2144295.html</id>
@@ -95,20 +119,20 @@
     <summary>カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な...</summary>
   </entry>
   <entry>
-    <title>タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策</title>
-    <id>https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</id>
-    <link href="https://zenn.dev/gzer0/articles/timescar-leak-countermeasures" />
-    <updated>2026-09-30T10:43:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ...</summary>
-  </entry>
-  <entry>
     <title>https://bogus.jp/webapp_security_review.pdf</title>
     <id>https://bogus.jp/webapp_security_review.pdf</id>
     <link href="https://bogus.jp/webapp_security_review.pdf" />
     <updated>2026-09-30T09:56:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>https://bogus.jp/webapp_security_review.pdf</summary>
+  </entry>
+  <entry>
+    <title>タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策</title>
+    <id>https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</id>
+    <link href="https://zenn.dev/gzer0/articles/timescar-leak-countermeasures" />
+    <updated>2026-09-30T01:50:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026年9月25日、タイムズカーの Web システムが不正アクセスを受け、利用者の個人情報が流出したと発表されました。対象は約660万件で、そのうち約160万件では、運転免許証の画像など本人確認書類の画像も流出しました。 この記事では、公式発表で分かっている範囲をもとに、流出した情報で起こりうる被害と、利用者が自分でできる対策をまとめます。 ! 2026年9月30日時点の公式発表（9月29日の第…</summary>
   </entry>
   <entry>
     <title>AIの安全対策でトランプ大統領と業界が合意 企業内管理導入へ | NHKニュース</title>
@@ -463,14 +487,6 @@
     <summary>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</summary>
   </entry>
   <entry>
-    <title>OpenAI DevDay 2026 発表まとめ</title>
-    <id>https://zenn.dev/schroneko/articles/openai-devday-2026</id>
-    <link href="https://zenn.dev/schroneko/articles/openai-devday-2026" />
-    <updated>2026-09-30T06:28:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー...</summary>
-  </entry>
-  <entry>
     <title>「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
     <id>https://gigazine.net/news/20260930-bend-lang/</id>
     <link href="https://gigazine.net/news/20260930-bend-lang/" />
@@ -493,6 +509,14 @@
     <updated>2026-09-30T03:51:02+09:00</updated>
     <category term="はてブ IT" />
     <summary>米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。</summary>
+  </entry>
+  <entry>
+    <title>OpenAI DevDay 2026 発表まとめ</title>
+    <id>https://zenn.dev/schroneko/articles/openai-devday-2026</id>
+    <link href="https://zenn.dev/schroneko/articles/openai-devday-2026" />
+    <updated>2026-09-30T02:20:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 加筆中です。追記していきます。 tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速に…</summary>
   </entry>
   <entry>
     <title>BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？） - Qiita</title>
@@ -781,29 +805,5 @@
     <updated>2026-09-29T20:47:47+09:00</updated>
     <category term="はてブ IT" />
     <summary>インターネットイニシアティブ（IIJ）は9月28日、新人エンジニア向けハンズオン研修「IIJ Bootcamp」の2026年度版資料を公式エンジニアブログで紹介した。資料は社内限定の一部を除いて専用サイトで無料公開している。 IIJ Bootcampは、同社の有志が講師となって19年度から毎年開いている研修。IT系のどの分野でも必要に...</summary>
-  </entry>
-  <entry>
-    <title>タイムズカーで660万件の会員情報が流出した件、運転免許証画像の流出が悪用される危険性について指摘…CICの本人申告制度を活用すれば、信用情報の審査で注意してくれる</title>
-    <id>https://togetter.com/li/2751879</id>
-    <link href="https://togetter.com/li/2751879" />
-    <updated>2026-09-29T19:35:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>タイムズカー、660万件の会員情報流出 免許証画像も - CNET Japan タイムズモビリティは9月28日、カーシェアリングサービス「タイムズカー」のWebサイトへの不正アクセスについて、約660万件の会員情報が第三者に取得されたことを確認したと発表した。氏名や住所、運転免… CNET Japan アンテナ @aquadive うぎゃ…。 さ...</summary>
-  </entry>
-  <entry>
-    <title>タイムズカー 免許画像など漏えいは160万件“悪用に警戒を” | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20260929de53160</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20260929de53160" />
-    <updated>2026-09-29T19:21:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーシェアリングサービス「タイムズカー」のシステムに不正なアクセスがあり、およそ660万件の会員の個人情報が漏えいした問題で、会社は、このうち160万件は、運転免許証の画像など本人確認書類だったと確認…</summary>
-  </entry>
-  <entry>
-    <title>AIエージェント「Manus 2.0」リリース、さらにパーソナルAIエージェント向けアプリ「Cue」やプロフェッショナルなAIワークスペースを実現するデスクトップアプリ「Manus Studio」も</title>
-    <id>https://gigazine.net/news/20260929-manus-2-0/</id>
-    <link href="https://gigazine.net/news/20260929-manus-2-0/" />
-    <updated>2026-09-29T19:13:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アジア圏を中心にサービスを展開し、一度Metaとの買収合意に至った後に再び独立したという異色の経歴を持つAI起業のManusが、AIエージェントの「Manus 2.0」を発表しました。独立後初の大型アップデートということで、「ただのバージョンアップではない」とアピールされています。 Manus 2.0 のご紹介 https://manus.im/...</summary>
   </entry>
 </feed>
