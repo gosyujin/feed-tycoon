@@ -66,9 +66,9 @@
       <button id="settings-close" type="button" class="btn btn--small">閉じる</button>
     </div>
 
-    <div class="offline-cache-section">
-      <h3>オフライン用キャッシュ</h3>
-      <p class="hint">
+    <section class="modal-section offline-cache-section">
+      <h3>オフライン用キャッシュ<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-offline" aria-label="説明を表示">?</button></h3>
+      <p id="hint-offline" class="hint" hidden>
         一覧の表示順(フィルタ除外後)で上位n件のブックマークコメントを今すぐ取得し、
         機内モードなどオフラインでも読めるよう保存しておきます。
       </p>
@@ -77,46 +77,54 @@
         <button id="offline-cache-btn" type="button" class="btn btn--small">今すぐキャッシュする</button>
       </div>
       <p id="offline-cache-status" class="status"></p>
-    </div>
+    </section>
 
-    <nav id="settings-tabs" class="tabs"></nav>
-    <p class="hint">
-      タイトル・ドメイン・取得元・タグ・説明を対象に、部分一致(大文字小文字を区別しない)でミュート(非表示)します。
-      ユーザー・コメントはブックマークページのコメントにだけ効きます。URLのみ完全一致(記事単独を消す用途)。<br>
-      判定順序: 強制ミュート &gt; ミュート(ミュート解除で例外にできる) &gt; 表示。
-    </p>
-    <form id="settings-form" class="rule-form">
-      <select id="rule-type"></select>
-      <input id="rule-value" type="text" placeholder="一致させる文字列" autocomplete="off">
-      <button type="submit" class="btn">追加</button>
-    </form>
-    <details id="rule-list-details" class="rule-list-details">
-      <summary>登録ルール(<span id="rule-count">0</span>件)</summary>
-      <ul id="rule-list" class="rule-list"></ul>
-    </details>
-
-    <div class="import-export">
-      <p class="hint">
+    <section class="modal-section import-export">
+      <h3>インポート・エクスポート設定<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-import" aria-label="説明を表示">?</button></h3>
+      <p id="hint-import" class="hint" hidden>
+        対象は下の「ミュート設定」で選択中のリストです。<br>
         CSV形式(1行目ヘッダー任意): <code>type,value</code> / type は <span id="type-list"></span> のいずれか。<br>
         URL から取り込む場合は Gist の Raw URL を指定します(Secret Gist なら認証なしで取得できます)。設定したURLは起動時に自動で取り込みます。
       </p>
+      <p class="import-target">対象: <strong id="import-kind-current">ミュート</strong></p>
       <div class="import-export-row">
-        <button id="export-btn" type="button" class="btn btn--small">CSVダウンロード</button>
-        <button id="copy-btn" type="button" class="btn btn--small">クリップボードにコピー</button>
-        <button id="export-text-btn" type="button" class="btn btn--small">テキストで表示</button>
+        <button id="copy-btn" type="button" class="btn btn--small" title="クリップボードにコピー" aria-label="クリップボードにコピー">📋</button>
+        <button id="export-text-btn" type="button" class="btn btn--small">テキスト表示</button>
+        <button id="export-btn" type="button" class="btn btn--small">CSVエクスポート</button>
+      </div>
+      <textarea id="export-text" class="export-text" readonly hidden></textarea>
+      <form id="import-url-form" class="import-url-form">
+        <input id="import-url-input" type="url" placeholder="https://gist.githubusercontent.com/.../raw/filters.csv" autocomplete="off">
+        <button type="submit" class="btn btn--small">Gistから取得</button>
+        <a id="import-gist-link" class="btn btn--small" target="_blank" rel="noopener noreferrer" title="Gistページを開く" aria-label="Gistページを開く" hidden>↗</a>
+      </form>
+      <div class="import-export-row">
         <label class="btn btn--small file-label">
           CSVインポート
           <input id="import-file-input" type="file" accept=".csv,text/csv" hidden>
         </label>
       </div>
-      <textarea id="export-text" class="export-text" readonly hidden></textarea>
-      <form id="import-url-form" class="import-url-form">
-        <input id="import-url-input" type="url" placeholder="https://gist.githubusercontent.com/.../raw/filters.csv" autocomplete="off">
-        <button type="submit" class="btn btn--small">取得して保存</button>
-      </form>
-      <p id="import-gist-link" class="hint"></p>
       <p id="import-status" class="status"></p>
-    </div>
+    </section>
+
+    <section class="modal-section mute-settings">
+      <h3>ミュート設定<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-mute" aria-label="説明を表示">?</button></h3>
+      <nav id="settings-tabs" class="tabs"></nav>
+      <p id="hint-mute" class="hint" hidden>
+        タイトル・ドメイン・取得元・タグ・説明を対象に、部分一致(大文字小文字を区別しない)でミュート(非表示)します。
+        ユーザー・コメントはブックマークページのコメントにだけ効きます。URLのみ完全一致(記事単独を消す用途)。<br>
+        判定順序: 強制ミュート &gt; ミュート(ミュート解除で例外にできる) &gt; 表示。
+      </p>
+      <form id="settings-form" class="rule-form">
+        <select id="rule-type"></select>
+        <input id="rule-value" type="text" placeholder="一致させる文字列" autocomplete="off">
+        <button type="submit" class="btn">追加</button>
+      </form>
+      <details id="rule-list-details" class="rule-list-details">
+        <summary>登録ルール(<span id="rule-count">0</span>件)</summary>
+        <ul id="rule-list" class="rule-list"></ul>
+      </details>
+    </section>
   </div>
 </div>
 

@@ -677,10 +677,21 @@
   // 登録済み(または入力した)Gist の URL から、Gist 本体ページへのリンクを出す。Gist でなければ空にする。
   function refreshGistLink(url) {
     const box = $('import-gist-link');
-    box.replaceChildren();
     const pageUrl = RulesIO.gistPageUrl(url);
-    if (pageUrl) box.append(el('a', { href: pageUrl, target: '_blank', rel: 'noopener noreferrer', text: 'Gistページを開く' }));
+    box.hidden = !pageUrl;
+    if (pageUrl) box.href = pageUrl;
+    else box.removeAttribute('href');
   }
+
+  // ?ボタンで各セクションの説明(.hint)を開閉する(PC・タッチ共通)
+  document.querySelectorAll('.help-btn').forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const hint = $(btn.getAttribute('aria-controls'));
+      const open = hint.hidden;
+      hint.hidden = !open;
+      btn.setAttribute('aria-expanded', String(open));
+    });
+  });
 
   function renderSettings() {
     const kind = state.settingsKind;
@@ -716,6 +727,7 @@
     const importUrl = readStorage(KEYS.importUrl(kind)) || '';
     $('import-url-input').value = importUrl;
     refreshGistLink(importUrl);
+    $('import-kind-current').textContent = Filters.KIND_LABELS[kind];
     $('export-text').hidden = true;
   }
 
@@ -880,7 +892,7 @@
         await navigator.clipboard.writeText(RulesIO.rulesToCsv(Filters.loadRules(state.settingsKind)));
         setImportStatus('クリップボードにコピーしました');
       } catch (e) {
-        setImportStatus('コピーに失敗しました。「テキストで表示」を使ってください');
+        setImportStatus('コピーに失敗しました。「テキスト表示」を使ってください');
       }
     });
     $('export-text-btn').addEventListener('click', () => {
