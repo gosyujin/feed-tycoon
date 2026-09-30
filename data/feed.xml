@@ -2,10 +2,288 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T20:53:26.073841+09:00</updated>
+  <updated>2026-09-30T21:00:16.970170+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話</title>
+    <id>https://zenn.dev/knowledgework/articles/2691721311c2e4</id>
+    <link href="https://zenn.dev/knowledgework/articles/2691721311c2e4" />
+    <updated>2026-09-30T09:45:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 翻訳LLMを軽くしようとして、まず気づいたのは「モデルファイルを小さくしても、VRAMは思ったほど減らない」ということでした。 この記事は、オンラインゲームのチャットを翻訳するために、翻訳特化LLMをゲーミングPC向けに最適化してデプロイした記録です。モデルファイル、プロセスのメモリ、そしてランタイムの3段階で削っていった結果、最終的には2〜3GBのVRAMで商用LLMに近いレベルの翻訳…</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: ServiceNow AI Platformに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#1</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#1" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>ServiceNow AI Platformに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のAdobe製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#2</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#2" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のAdobe製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Unboundに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#3</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#3" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Unboundに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Apache Tomcatに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#4</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#4" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Apache Tomcatに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Next.jsのImageResponseにリモートコード実行につながる脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#5</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#5" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Next.jsのImageResponseにリモートコード実行につながる脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Microsoft Edgeに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#6</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#6" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Microsoft Edgeに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: WordPressにPHPリモートファイルインクルージョンの脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#7</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#7" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>WordPressにPHPリモートファイルインクルージョンの脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Google Chromeに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#8</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#8" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Google Chromeに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: VeloCloud Orchestratorに不適切な入力確認の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#9</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#9" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>VeloCloud Orchestratorに不適切な入力確認の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: GitLabに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#10</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#10" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>GitLabに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のCheck Point製品にパストラバーサルの脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#11</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#11" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のCheck Point製品にパストラバーサルの脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Synology DiskStation Managerに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#12</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#12" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Synology DiskStation Managerに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: ISC BINDに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#13</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#13" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>ISC BINDに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: pgAdmin 4に複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#14</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#14" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>pgAdmin 4に複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のJenkinsプラグインに脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#15</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#15" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のJenkinsプラグインに脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のHPE製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#16</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#16" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のHPE製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のCisco製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#17</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#17" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のCisco製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: QNDに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#18</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#18" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>QNDに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: WordPress用プラグインThe Events Calendarに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#19</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#19" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>WordPress用プラグインThe Events Calendarに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: IBM MQに複数の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#20</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#20" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>IBM MQに複数の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: LiteSpeed Web Server Enterpriseに権限昇格の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#21</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#21" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>LiteSpeed Web Server Enterpriseに権限昇格の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のAtlassian製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#22</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#22" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のAtlassian製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のMozilla製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#23</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#23" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のMozilla製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のOracle製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#24</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#24" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のOracle製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Acronis Backup plugin for cPanel &amp; WHMに権限昇格の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#25</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#25" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Acronis Backup plugin for cPanel &amp; WHMに権限昇格の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: 複数のApple製品に脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#26</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#26" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>複数のApple製品に脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: ProgressのChef Automateに認証欠如の脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#27</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#27" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>ProgressのChef Automateに認証欠如の脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: CERT PolskaがMikroTrickに関する技術分析を公開</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#28</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#28" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>CERT PolskaがMikroTrickに関する技術分析を公開</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: F5 BIG-IP Access Policy Managerにヒープベースのバッファオーバーフローの脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#29</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#29" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>F5 BIG-IP Access Policy Managerにヒープベースのバッファオーバーフローの脆弱性</summary>
+  </entry>
+  <entry>
+    <title>Weekly Report: Cisco Secure Email GatewayにSQLインジェクションの脆弱性</title>
+    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#30</id>
+    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#30" />
+    <updated>2026-09-30T09:07:00+09:00</updated>
+    <category term="JPCERT" />
+    <summary>Cisco Secure Email GatewayにSQLインジェクションの脆弱性</summary>
+  </entry>
+  <entry>
+    <title>AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録</title>
+    <id>https://zenn.dev/yy7613/articles/c150ef962ccc1f</id>
+    <link href="https://zenn.dev/yy7613/articles/c150ef962ccc1f" />
+    <updated>2026-09-29T23:29:19+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに この記事では、ゲーム用のアニメ調キャラクターの素体(頭部とボディ)を、生成AIに指示を出しながらBlenderで作る手順を紹介します。 Blender MCPとFable 5が出たころから試しはじめ、生成AIのモデルはFable 5・Fable 5.1・GPT-6 Astra・Claude Opus 5.5と乗り換えてきました。 この記事の手順は、主にClaude Code(Claude…</summary>
+  </entry>
+  <entry>
+    <title>サイボウズのiOS実務型インターンに参加してきた！</title>
+    <id>https://zenn.dev/rinngo0302/articles/intern-cybozu</id>
+    <link href="https://zenn.dev/rinngo0302/articles/intern-cybozu" />
+    <updated>2026-09-29T22:29:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、rinngoです！ 先日、サイボウズのiOS実務型インターンに参加させていただいたので、そのレポートをしようと思います！ 技術的なことや開発の進め方、AIの使い方などを中心にまとめようと思います！ インターン概要 期間は 8/18(火)〜8/26(水) で、フルリモートでのインターンでした。 インターン生は僕含め3人で、基本的にZoomで繋げての モブプログラミング を中心に…</summary>
+  </entry>
+  <entry>
+    <title>注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (公開)</title>
+    <id>https://www.jpcert.or.jp/at/2026/at260029.html</id>
+    <link href="https://www.jpcert.or.jp/at/2026/at260029.html" />
+    <updated>2026-09-28T17:09:00+09:00</updated>
+    <category term="JPCERT" />
+  </entry>
+  <entry>
+    <title>注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起 (公開)</title>
+    <id>https://www.jpcert.or.jp/at/2026/at260028.html</id>
+    <link href="https://www.jpcert.or.jp/at/2026/at260028.html" />
+    <updated>2026-09-24T16:14:00+09:00</updated>
+    <category term="JPCERT" />
+  </entry>
   <entry>
     <title>設計次第でAIコードの読む量は減らせる / designing-for-code-reading</title>
     <id>https://speakerdeck.com/minodriven/designing-for-code-reading</id>
@@ -525,285 +803,5 @@
     <updated>2026-09-30T02:44:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>GitHub 知っておくと便利かも Tips 2026 セキュリティ向上 Tips 特集号 開運研修 2026 社外公開版 2026.05.08 社内公開 2026.07.21 更新 サイボウズ株式会社 開発本部 開発支援副本部 技術支援部 生産性向上副部 平木場 風太 自己紹介: 平木場 風太（ひらこば ふうた） 社内でのニックネームは「きばちゃん」 所属 開発...</summary>
-  </entry>
-  <entry>
-    <title>さくらインターネット、「.site」「.work」「.xyz」ドメインを値上げへ 27年2月から</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/29/2000001858/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/29/2000001858/" />
-    <updated>2026-09-29T19:54:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>さくらインターネットは9月29日、ドメインを取得・管理するサービス「さくらのドメイン」で提供する「.site」「.work」「.xyz」の料金を2027年2月から引き上げると発表した。レジストリなど上位組織が提示するドメイン価格の上昇を受けた措置という。</summary>
-  </entry>
-  <entry>
-    <title>WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」正式リリース。コマンドラインとAPIから利用可能</title>
-    <id>https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html</id>
-    <link href="https://www.publickey1.jp/blog/26/windowslinuxwsl_containersapi.html" />
-    <updated>2026-09-30T11:43:18+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトはWSL（Windows Subsystem for Linux）の新機能として、WindowsでLinuxコンテナの作成や実行を可能にする「WSL Containers」の正式リリースを発表しました（発表ブログ、アーキテクチ...</summary>
-  </entry>
-  <entry>
-    <title>【GA4×生成AI・中級編】MCPでサイト分析を効率化する｜データの取得と整理 - オウンドメディア戦略ラボ by はてな</title>
-    <id>https://www.hatena.ne.jp/ownedmedia/article/ga4-mcp-site-analysis</id>
-    <link href="https://www.hatena.ne.jp/ownedmedia/article/ga4-mcp-site-analysis" />
-    <updated>2026-09-30T11:00:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>株式会社HAPPY ANALYTICSの小川卓 （id:ryuka01）です。 この連載では2026年5月に生成AI活用法の初級編として「【GA4×生成AI活用法】データから分析の「気づき」を引き出す4ステップ」を紹介しました。GA4のレポートをCSVでダウンロードしてClaudeに読み込ませ、文脈を添えたプロンプトで「気づき」を引き出す方法です。...</summary>
-  </entry>
-  <entry>
-    <title>「GPT-6.1 Sol」が登場 ～「GPT-6 Astra」に迫る知能を5分の1の料金で／「Astra Ultrafast」も提供開始、月額500米ドルの新「Pro」ティアも</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2144292.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2144292.html" />
-    <updated>2026-09-30T07:10:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「GPT-6.1 Sol」が登場 ～「GPT-6 Astra」に迫る知能を5分の1の料金で／「Astra Ultrafast」も提供開始、月額500米ドルの新「Pro」ティアも</summary>
-  </entry>
-  <entry>
-    <title>【大原雄介の半導体業界こぼれ話】 錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望</title>
-    <id>https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/tidbit/2144244.html" />
-    <updated>2026-09-30T06:06:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【大原雄介の半導体業界こぼれ話】 錬金術並みに難しい「FPGA」を、AIで民主化させるLatticeの野望</summary>
-  </entry>
-  <entry>
-    <title>Language Models for Text Classification: From Bag-of-Words to Jev</title>
-    <id>https://magazine.sebastianraschka.com/p/classifier-history-and-jev</id>
-    <link href="https://magazine.sebastianraschka.com/p/classifier-history-and-jev" />
-    <updated>2026-09-30T08:29:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>The recently released Jev AI model has been quite a cultural phenomenon in technical communities in the past 2 weeks. While Jev aims to classify things, it’s easy to dismiss Jev as “just a classifier,…</summary>
-  </entry>
-  <entry>
-    <title>Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告 海外報道</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/29/2000001860/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/29/2000001860/" />
-    <updated>2026-09-29T19:25:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>英Reutersは9月28日（現地時間）、AIモデル「Claude」を開発する米Anthropicが新規株式公開（IPO）の目論見書で、AIが人類存亡に関わるリスクをもたらし得ると投資家に警告していると報じた。Reutersが入手した非公開の目論見書では、本文261ページのうち約80ページをリスク要因の説明に割いており、事業説明の48ページ...</summary>
-  </entry>
-  <entry>
-    <title>【後編】GMOペパボの「集合知」でよりよいプロダクトへ ― エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話 - Pepabo Tech Portal</title>
-    <id>https://tech.pepabo.com/2026/09/30/deploynow-interview/</id>
-    <link href="https://tech.pepabo.com/2026/09/30/deploynow-interview/" />
-    <updated>2026-09-30T10:21:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>本記事は、GMO Developers &amp; Creatorsとのコラボレーション企画です。エンジニアの開発思想と技術選定に迫る同メディアのインタビューシリーズ「Engineering Journey」第5弾として、前編・後編の2本立てでお届けしています。開発背景やAI時代に国内でインフラを提供する意義について伺った前編は、GMO Developers &amp; Crea...</summary>
-  </entry>
-  <entry>
-    <title>AIと作ったWebアプリをすぐに公開 エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話・前編 / 開発者向けブログ・イベント | GMO Developers</title>
-    <id>https://developers.gmo.jp/technology/86381/</id>
-    <link href="https://developers.gmo.jp/technology/86381/" />
-    <updated>2026-09-30T10:05:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIと作ったWebアプリをすぐに公開 エンジニアリングリード・深野悠吾さんに聞く、「ロリポップ！デプロイナウ byGMOペパボ」開発秘話・前編 AIコーディングツールの普及によって、Webアプリを「作る」ハードルは大きく下がりました。一方で、それを「公開する」段階には、いまだにインフラの知識が立ちはだかります。AI...</summary>
-  </entry>
-  <entry>
-    <title>免許証の悪用防ぐ届出集中、CIC・JICCで手続き遅延 タイムズカー情報流出直後に</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001873/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001873/" />
-    <updated>2026-09-30T10:03:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>信用情報機関のCICと日本信用情報機構（JICC）は9月29日、インターネットやスマホアプリからの本人申告や開示の申し込みが集中し、手続きが遅れていると発表した。 前日には、「タイムズカー」が免許証画像を含む大規模な情報漏えいを公表。自分の免許証情報の漏えいを心配した人が、本人申告で今後の悪用に備えたり、自...</summary>
-  </entry>
-  <entry>
-    <title>AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001871/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001871/" />
-    <updated>2026-09-30T09:04:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ドナルド・トランプ米大統領は9月29日（現地時間）、ホワイトハウスでAI業界の経営者らと昼食会を開いた。同日、連邦政府の行政機関で「Artificial Intelligence（AI）」の代わりに「Super Intelligence（SI）」という用語を使うよう命じる大統領令に署名した。昼食会の参加者らは、フロンティアモデルの安全対策に関す...</summary>
-  </entry>
-  <entry>
-    <title>GLM-5.3 and the spread of advanced cyber capabilities</title>
-    <id>https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities</id>
-    <link href="https://www.anthropic.com/research/glm-5-3-and-the-spread-of-advanced-cyber-capabilities" />
-    <updated>2026-09-30T07:38:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Andrew Fasano, Marius Fleischer Cole McFaul, Robert Xiao, Tripp Gallagher Five months ago, we announced Claude Mythos Preview, the first AI model that could autonomously build sophisticated, end-to-en…</summary>
-  </entry>
-  <entry>
-    <title>The Code Nobody Reads</title>
-    <id>https://addyo.substack.com/p/the-code-nobody-reads</id>
-    <link href="https://addyo.substack.com/p/the-code-nobody-reads" />
-    <updated>2026-09-29T17:16:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Two years ago I wrote an essay about AI-assisted coding, and one of my tips was to review every line of generated code. I’d give that advice very differently today. What I’d say now is this: you don’t…</summary>
-  </entry>
-  <entry>
-    <title>AIにより変化しつつある「IT覇権企業」 「GAFAM」から「AGNO」に</title>
-    <id>https://www.watch.impress.co.jp/docs/watchplus/2143677.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/watchplus/2143677.html" />
-    <updated>2026-09-29T10:07:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIにより変化しつつある「IT覇権企業」 「GAFAM」から「AGNO」に</summary>
-  </entry>
-  <entry>
-    <title>日本ソフトバンク『MacUser』～想い出の“20世紀パソコン雑誌”たち～</title>
-    <id>https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137795.html</id>
-    <link href="https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/2137795.html" />
-    <updated>2026-09-29T08:08:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日本ソフトバンク『MacUser』～想い出の“20世紀パソコン雑誌”たち～</summary>
-  </entry>
-  <entry>
-    <title>セキュリティエンジニア視点のKubernetes環境の攻撃面と対策 - GMO Flatt Security Blog</title>
-    <id>https://blog.flatt.tech/entry/kubernetes-attack-surface</id>
-    <link href="https://blog.flatt.tech/entry/kubernetes-attack-surface" />
-    <updated>2026-09-30T09:23:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニアのてぃー(@k1rnt)と、@ei01241です。 Kubernetes(k8s)は、いまやコンテナオーケストレーションのデファクトスタンダードです。多くの企業がEKS、GKE、AKSといったマネージドサービスを利用してプロダクション環境を運用しています。 一方で、Kub...</summary>
-  </entry>
-  <entry>
-    <title>ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001870/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001870/" />
-    <updated>2026-09-30T08:54:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住...</summary>
-  </entry>
-  <entry>
-    <title>【特集】 画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術</title>
-    <id>https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html" />
-    <updated>2026-09-30T06:15:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【特集】 画面割れMacや余ったPCが24時間働くAIエージェントに！ゼロ円からの「Hermes Agent」構築術</summary>
-  </entry>
-  <entry>
-    <title>Building a certificate authority for the whole Internet</title>
-    <id>https://blog.cloudflare.com/cloudflare-certificate-authority/</id>
-    <link href="https://blog.cloudflare.com/cloudflare-certificate-authority/" />
-    <updated>2026-09-30T01:13:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>September 29, 2026Building a certificate authority for the whole Internet Twelve years ago, during Birthday Week 2014, we turned on Universal SSL and nearly doubled the number of encrypted sites on th…</summary>
-  </entry>
-  <entry>
-    <title>タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」</title>
-    <id>https://togetter.com/li/2752131</id>
-    <link href="https://togetter.com/li/2752131" />
-    <updated>2026-09-30T08:47:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIと人事に苦しむマーモット @Duetousandyou トッパン「タイムズがデカいのやらかしたぞ！！ 今のうちにリリースしろ！！」 レゴランド「俺も！」 日本郵便「俺も！」 京王グループ「俺も！」 東京メトロ「俺も！」 イープラス「俺も！」 ニッポンレンタカー「俺も！」 スターツ出版「俺も！」 セコマ「俺も！」 集英社...</summary>
-  </entry>
-  <entry>
-    <title>｢iPhone Duo｣、発売を前に生産上の困難に直面か ｰ 予約争奪戦が激しくなりそう | 気になる、記になる…</title>
-    <id>https://taisy0.com/2026/09/30/228138.html</id>
-    <link href="https://taisy0.com/2026/09/30/228138.html" />
-    <updated>2026-09-30T01:06:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleは10月23日に「iPhone Duo」を発売予定ですが、中国メディアの「界面新聞」が、Foxconnのサプライチェーンに近い人物の話として、「iPhone Duo」が生産上の困難に直面しており、初期の生産量は限られる見通しだと報じていることが分かりました。 その情報によると、「iPhone Duo」の最終組み立てにおける歩留まりは...</summary>
-  </entry>
-  <entry>
-    <title>[三井公一の「スマホカメラでブラブラ」] 「iPhone 18 Pro」のカメラをチェック 念願の「可変絞り」とAIがもたらす新たな表現力とは</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/column/mitsui/2144194.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/mitsui/2144194.html" />
-    <updated>2026-09-30T00:06:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[三井公一の「スマホカメラでブラブラ」] 「iPhone 18 Pro」のカメラをチェック 念願の「可変絞り」とAIがもたらす新たな表現力とは</summary>
-  </entry>
-  <entry>
-    <title>｢折り畳みiPhoneを持つ価値は？｣｢iPad miniと競合する？｣…アップル幹部に聞いた"最新iPhoneの気になるコト"</title>
-    <id>https://toyokeizai.net/articles/-/959017</id>
-    <link href="https://toyokeizai.net/articles/-/959017" />
-    <updated>2026-09-29T22:37:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...</summary>
-  </entry>
-  <entry>
-    <title>「GPT-6 Astraは旧世代モデルよりサイバー攻撃を実行しやすい傾向にある」というイギリス政府機関の分析結果が公開される</title>
-    <id>https://gigazine.net/news/20260929-gpt-6-astra-aisi-report/</id>
-    <link href="https://gigazine.net/news/20260929-gpt-6-astra-aisi-report/" />
-    <updated>2026-09-29T19:12:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>OpenAIはAIの開発中に「国連の統計サイト」「オーストラリアの公的医療サービス」「アメリカの教育省・商務省・証券取引委員会」といった重要サービスに対する攻撃を実行してしまったことが明らかになっています。新たに、イギリスの政府機関であるAI Security Institute(AISI)が「GPT-6 Astraで攻撃シミュレーションを...</summary>
-  </entry>
-  <entry>
-    <title>バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2143894.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2143894.html" />
-    <updated>2026-09-29T08:55:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>バッファロー「WSR-300HP」「WEX-G300」に複数の深刻な脆弱性、ファームウェア更新が提供中</summary>
-  </entry>
-  <entry>
-    <title>WSL containers is now generally available</title>
-    <id>https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/</id>
-    <link href="https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/" />
-    <updated>2026-09-30T04:31:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>WSL is central to our commitment to making Windows the best place to build, run and manage Linux workloads. As AI, cloud-native development, containers, and open-source ecosystems continue to converge…</summary>
-  </entry>
-  <entry>
-    <title>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2144148.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2144148.html" />
-    <updated>2026-09-30T00:14:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</summary>
-  </entry>
-  <entry>
-    <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
-    <id>https://zenn.dev/o8vm/articles/3934806424cd85</id>
-    <link href="https://zenn.dev/o8vm/articles/3934806424cd85" />
-    <updated>2026-09-29T18:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。 octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープログラムやカーネルを拡張する課題も公開されています。[1] もともとは自分が OS を理解するために始…</summary>
-  </entry>
-  <entry>
-    <title>AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる</title>
-    <id>https://zenn.dev/softbank/articles/6f98cf7c4ebfd3</id>
-    <link href="https://zenn.dev/softbank/articles/6f98cf7c4ebfd3" />
-    <updated>2026-09-29T16:02:41+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 日々の開発において、AI にコードを書いてもらうことは日常になってきました。要件を伝えれば既存のコードベースを調査し、その作法に合わせて機能を足してくれます。 生成されたコードがいつも正しいわけではありませんが、それでも「コードを書く」という作業そのものは、以前ほど開発のボトルネックではなくなりつつあると感じています。 その一方で、AI と一緒に開発していると、「何を実装してもらうか」を…</summary>
-  </entry>
-  <entry>
-    <title>録音音声を扱うプロダクトでAIとテストするために初手で行った工夫と改善点</title>
-    <id>https://zenn.dev/knowledgework/articles/96d88ab25da83f</id>
-    <link href="https://zenn.dev/knowledgework/articles/96d88ab25da83f" />
-    <updated>2026-09-29T11:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。 特撮に毎週元気をもらっているbunです。今年の8月（2026年）にナレッジワークにQAエンジニアとして入社しました。 みなさん、AIとテストしてますか？私はAIがブラウザやモバイルアプリなどを容易に操作できるようになってから、機能テストを大きく以下のような3種類に分けて考えています。 1: 手動テスト いわゆる従来からテスト技術者やQAエンジニアがやってきているもの 「ちゃんと動いて…</summary>
-  </entry>
-  <entry>
-    <title>目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ</title>
-    <id>https://zenn.dev/spookies/articles/e70b80a510f5e2</id>
-    <link href="https://zenn.dev/spookies/articles/e70b80a510f5e2" />
-    <updated>2026-09-29T10:00:08+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>想定読者 2025年度以降にIT業界に参入したエンジニア システム開発プロジェクトで上流〜中流工程を任されている人 自分の仕事がAIに奪われていると感じているエンジニア tl;dr Meat Proxyで起きる破綻は、AIのせいではなく「己に対して当然求められている責任を己が放棄した結果」である。 生成AIは責任を持てないので、原理的に副操縦士の域をでない。 人間の介在価値は意思と責任を持つことに…</summary>
-  </entry>
-  <entry>
-    <title>オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab</title>
-    <id>https://tech-lab.sios.jp/archives/54936</id>
-    <link href="https://tech-lab.sios.jp/archives/54936" />
-    <updated>2026-09-30T08:26:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>武井でございます。 手元のボタンを見るだけで、どの Claude Code が作業中で、どれが確認待ちで、どれが終わったのかが一目で分かる。 ボタンを押せば、そのターミナルに一発で飛べる。 作業が終わったら、ずんだもんが「何をやって、次に何をすればいいか」を声で教えてくれる。 そんな作業環境をStream Deckとherdr、...</summary>
-  </entry>
-  <entry>
-    <title>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2144293.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2144293.html" />
-    <updated>2026-09-30T06:36:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</summary>
-  </entry>
-  <entry>
-    <title>「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
-    <id>https://gigazine.net/news/20260930-bend-lang/</id>
-    <link href="https://gigazine.net/news/20260930-bend-lang/" />
-    <updated>2026-09-30T06:04:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。 Bend https://bend-lang.com/ BendはポストAGIの経済社会において人間がコードの記述や読解から解放される未来を見据え、AIに対して意図を明確に伝えるための手段として開発されました。Bendは「法律(Laws...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - mizchi/explainer</title>
-    <id>https://github.com/mizchi/explainer</id>
-    <link href="https://github.com/mizchi/explainer" />
-    <updated>2026-09-30T04:12:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>English | 日本語 Skills and tools for explaining concepts from an AI to a human. Coding agents now write faster than people can understand what they wrote (Geoffrey Litt, Understanding is the new bottlen…</summary>
   </entry>
 </feed>

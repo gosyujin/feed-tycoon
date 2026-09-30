@@ -1,0 +1,51 @@
+{
+  "sources": [
+    {
+      "id": "publickey",
+      "name": "Publickey",
+      "type": "rss",
+      "url": "https://www.publickey1.jp/atom.xml",
+      "tags": [
+        "tech",
+        "news"
+      ]
+    },
+    {
+      "id": "hateb-it",
+      "name": "はてブ IT",
+      "type": "rss",
+      "url": "https://b.hatena.ne.jp/hotentry/it.rss",
+      "tags": [
+        "tech",
+        "aggregator"
+      ]
+    },
+    {
+      "id": "zenn",
+      "name": "Zenn トレンド",
+      "type": "rss",
+      "url": "https://zenn.dev/feed",
+      "tags": [
+        "tech",
+        "article"
+      ]
+    },
+    {
+      "id": "qiita",
+      "name": "Qiita トレンド",
+      "type": "rss",
+      "url": "https://qiita.com/popular-items/feed",
+      "tags": [
+        "tech",
+        "article"
+      ]
+    },
+    {
+      "id": "www-jpcert-or-jp-rss",
+      "name": "JPCERT",
+      "type": "rss",
+      "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
+      "tags": []
+    }
+  ]
+}

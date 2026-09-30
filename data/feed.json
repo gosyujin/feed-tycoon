@@ -1,5 +1,504 @@
 [
   {
+    "title": "ゲーミングPC向けで LLMとデプロイ環境を最適化してみた話",
+    "url": "https://zenn.dev/knowledgework/articles/2691721311c2e4",
+    "domain": "zenn.dev",
+    "description": "はじめに 翻訳LLMを軽くしようとして、まず気づいたのは「モデルファイルを小さくしても、VRAMは思ったほど減らない」ということでした。 この記事は、オンラインゲームのチャットを翻訳するために、翻訳特化LLMをゲーミングPC向けに最適化してデプロイした記録です。モデルファイル、プロセスのメモリ、そしてランタイムの3段階で削っていった結果、最終的には2〜3GBのVRAMで商用LLMに近いレベルの翻訳…",
+    "publishedAt": "2026-09-30T09:45:00+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/knowledgework/articles/2691721311c2e4",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: ServiceNow AI Platformに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#1",
+    "domain": "www.jpcert.or.jp",
+    "description": "ServiceNow AI Platformに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%231",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のAdobe製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#2",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のAdobe製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%232",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Unboundに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#3",
+    "domain": "www.jpcert.or.jp",
+    "description": "Unboundに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%233",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Apache Tomcatに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#4",
+    "domain": "www.jpcert.or.jp",
+    "description": "Apache Tomcatに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%234",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Next.jsのImageResponseにリモートコード実行につながる脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#5",
+    "domain": "www.jpcert.or.jp",
+    "description": "Next.jsのImageResponseにリモートコード実行につながる脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%235",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Microsoft Edgeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#6",
+    "domain": "www.jpcert.or.jp",
+    "description": "Microsoft Edgeに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%236",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: WordPressにPHPリモートファイルインクルージョンの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#7",
+    "domain": "www.jpcert.or.jp",
+    "description": "WordPressにPHPリモートファイルインクルージョンの脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%237",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Google Chromeに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#8",
+    "domain": "www.jpcert.or.jp",
+    "description": "Google Chromeに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%238",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: VeloCloud Orchestratorに不適切な入力確認の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#9",
+    "domain": "www.jpcert.or.jp",
+    "description": "VeloCloud Orchestratorに不適切な入力確認の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%239",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: GitLabに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#10",
+    "domain": "www.jpcert.or.jp",
+    "description": "GitLabに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2310",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のCheck Point製品にパストラバーサルの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#11",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のCheck Point製品にパストラバーサルの脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2311",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Synology DiskStation Managerに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#12",
+    "domain": "www.jpcert.or.jp",
+    "description": "Synology DiskStation Managerに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2312",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: ISC BINDに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#13",
+    "domain": "www.jpcert.or.jp",
+    "description": "ISC BINDに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2313",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: pgAdmin 4に複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#14",
+    "domain": "www.jpcert.or.jp",
+    "description": "pgAdmin 4に複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2314",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のJenkinsプラグインに脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#15",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のJenkinsプラグインに脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2315",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のHPE製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#16",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のHPE製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2316",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のCisco製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#17",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のCisco製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2317",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: QNDに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#18",
+    "domain": "www.jpcert.or.jp",
+    "description": "QNDに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2318",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: WordPress用プラグインThe Events Calendarに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#19",
+    "domain": "www.jpcert.or.jp",
+    "description": "WordPress用プラグインThe Events Calendarに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2319",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: IBM MQに複数の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#20",
+    "domain": "www.jpcert.or.jp",
+    "description": "IBM MQに複数の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2320",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: LiteSpeed Web Server Enterpriseに権限昇格の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#21",
+    "domain": "www.jpcert.or.jp",
+    "description": "LiteSpeed Web Server Enterpriseに権限昇格の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2321",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のAtlassian製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#22",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のAtlassian製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2322",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のMozilla製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#23",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のMozilla製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2323",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のOracle製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#24",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のOracle製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2324",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Acronis Backup plugin for cPanel & WHMに権限昇格の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#25",
+    "domain": "www.jpcert.or.jp",
+    "description": "Acronis Backup plugin for cPanel & WHMに権限昇格の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2325",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: 複数のApple製品に脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#26",
+    "domain": "www.jpcert.or.jp",
+    "description": "複数のApple製品に脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2326",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: ProgressのChef Automateに認証欠如の脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#27",
+    "domain": "www.jpcert.or.jp",
+    "description": "ProgressのChef Automateに認証欠如の脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2327",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: CERT PolskaがMikroTrickに関する技術分析を公開",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#28",
+    "domain": "www.jpcert.or.jp",
+    "description": "CERT PolskaがMikroTrickに関する技術分析を公開",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2328",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: F5 BIG-IP Access Policy Managerにヒープベースのバッファオーバーフローの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#29",
+    "domain": "www.jpcert.or.jp",
+    "description": "F5 BIG-IP Access Policy Managerにヒープベースのバッファオーバーフローの脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2329",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Weekly Report: Cisco Secure Email GatewayにSQLインジェクションの脆弱性",
+    "url": "https://www.jpcert.or.jp/wr/2026/wr260930.html#30",
+    "domain": "www.jpcert.or.jp",
+    "description": "Cisco Secure Email GatewayにSQLインジェクションの脆弱性",
+    "publishedAt": "2026-09-30T09:07:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/wr/2026/wr260930.html%2330",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録",
+    "url": "https://zenn.dev/yy7613/articles/c150ef962ccc1f",
+    "domain": "zenn.dev",
+    "description": "はじめに この記事では、ゲーム用のアニメ調キャラクターの素体(頭部とボディ)を、生成AIに指示を出しながらBlenderで作る手順を紹介します。 Blender MCPとFable 5が出たころから試しはじめ、生成AIのモデルはFable 5・Fable 5.1・GPT-6 Astra・Claude Opus 5.5と乗り換えてきました。 この記事の手順は、主にClaude Code(Claude…",
+    "publishedAt": "2026-09-29T23:29:19+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/yy7613/articles/c150ef962ccc1f",
+    "bookmarkCount": 1
+  },
+  {
+    "title": "サイボウズのiOS実務型インターンに参加してきた！",
+    "url": "https://zenn.dev/rinngo0302/articles/intern-cybozu",
+    "domain": "zenn.dev",
+    "description": "はじめに こんにちは、rinngoです！ 先日、サイボウズのiOS実務型インターンに参加させていただいたので、そのレポートをしようと思います！ 技術的なことや開発の進め方、AIの使い方などを中心にまとめようと思います！ インターン概要 期間は 8/18(火)〜8/26(水) で、フルリモートでのインターンでした。 インターン生は僕含め3人で、基本的にZoomで繋げての モブプログラミング を中心に…",
+    "publishedAt": "2026-09-29T22:29:44+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/rinngo0302/articles/intern-cybozu",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "注意喚起: NetScaler ADCおよびNetScaler Gatewayにおける複数の脆弱性（CVE-2026-88771、CVE-2026-88772等）に関する注意喚起 (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260029.html",
+    "domain": "www.jpcert.or.jp",
+    "description": null,
+    "publishedAt": "2026-09-28T17:09:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/at/2026/at260029.html",
+    "bookmarkCount": 2
+  },
+  {
+    "title": "注意喚起: F5 BIG-IP Access Policy Managerにおけるヒープベースのバッファオーバーフローの脆弱性（CVE-2026-94127）に関する注意喚起 (公開)",
+    "url": "https://www.jpcert.or.jp/at/2026/at260028.html",
+    "domain": "www.jpcert.or.jp",
+    "description": null,
+    "publishedAt": "2026-09-24T16:14:00+09:00",
+    "source": "JPCERT",
+    "sourceId": "www-jpcert-or-jp-rss",
+    "tags": [],
+    "firstSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jpcert.or.jp/at/2026/at260028.html",
+    "bookmarkCount": 2
+  },
+  {
     "title": "設計次第でAIコードの読む量は減らせる / designing-for-code-reading",
     "url": "https://speakerdeck.com/minodriven/designing-for-code-reading",
     "domain": "speakerdeck.com",
@@ -12,9 +511,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:53:26.073841+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/minodriven/designing-for-code-reading",
-    "bookmarkCount": 6
+    "bookmarkCount": 8
   },
   {
     "title": "ChatGPTなどの汎用AIに本物の車を運転させたら「実車では？」と気付いて運転を拒否、最終的に走らせた方法とは",
@@ -29,7 +528,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:53:26.073841+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260930-chatgpt-drive-car/",
     "bookmarkCount": 10
   },
@@ -46,9 +545,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:53:26.073841+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2144291.html",
-    "bookmarkCount": 6
+    "bookmarkCount": 7
   },
   {
     "title": "情報セキュリティ白書2026 | 書籍・刊行物 | IPA 独立行政法人 情報処理推進機構",
@@ -63,9 +562,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:30:13.706641+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.ipa.go.jp/publish/wp-security/2026.html",
-    "bookmarkCount": 11
+    "bookmarkCount": 12
   },
   {
     "title": "「写真で一言 ボケて」きょう午後8時にサービス終了 18年・1億超のボケに幕",
@@ -80,7 +579,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:30:13.706641+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/30/2000001904/",
     "bookmarkCount": 15
   },
@@ -97,7 +596,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:30:13.706641+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/30/2000001884/",
     "bookmarkCount": 6
   },
@@ -114,9 +613,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:30:13.706641+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260930121339",
-    "bookmarkCount": 22
+    "bookmarkCount": 24
   },
   {
     "title": "タイムズカー情報漏洩 集団訴訟｜参加希望者受付中",
@@ -131,9 +630,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T20:00:15.764894+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/timescar-lawsuit.com/",
-    "bookmarkCount": 38
+    "bookmarkCount": 42
   },
   {
     "title": "待望のエネループ用USB-C充電器が登場 - 家電 Watch",
@@ -148,9 +647,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T19:30:14.798102+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kaden.watch.impress.co.jp/docs/news/2144373.html",
-    "bookmarkCount": 27
+    "bookmarkCount": 28
   },
   {
     "title": "AIと風通しの悪い日々 - Lambdaカクテル",
@@ -165,9 +664,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T19:00:14.644718+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.3qe.us/entry/2026/09/30/174024",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "Technics、ワイヤレスヘッドフォンにも“磁性流体ドライバー”。「EAH-A1000」",
@@ -216,9 +715,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T19:00:14.644718+09:00",
-    "lastSeenAt": "2026-09-30T20:30:13.706641+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20260930-pixelleak/",
-    "bookmarkCount": 12
+    "bookmarkCount": 13
   },
   {
     "title": "トランプ大統領が連邦政府内で「AI(人工知能)」表記の代わりに「SI(超知能)」表記を義務化する大統領令に署名",
@@ -267,7 +766,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T18:30:14.564395+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/column/macinfo/2144467.html",
     "bookmarkCount": 21
   },
@@ -335,7 +834,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T18:00:14.478353+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2752268",
     "bookmarkCount": 22
   },
@@ -352,7 +851,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T18:00:14.478353+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/labcode/books/c4f81b6a2d9e37",
     "bookmarkCount": 0
   },
@@ -420,9 +919,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T17:30:14.265045+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/30/2000001879/",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "ハニーポット観測：長年悪用されている脆弱性のご紹介",
@@ -709,9 +1208,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T16:30:12.946367+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2144295.html",
-    "bookmarkCount": 116
+    "bookmarkCount": 117
   },
   {
     "title": "はてな匿名ダイアリーがChatGPTから使えるようになりました - はてラボ 開発者ブログ",
@@ -726,9 +1225,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T16:30:12.946367+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/labo.hatenastaff.com/entry/2026/09/30/151500",
-    "bookmarkCount": 217
+    "bookmarkCount": 225
   },
   {
     "title": "評価をAIに委ねたとき、人の役割はどこに残るのか｜hashiyaman",
@@ -760,7 +1259,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T16:00:14.399207+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/access3151fq/items/70a93f08bffd9c5f09a5",
     "bookmarkCount": 50
   },
@@ -811,7 +1310,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T15:00:59.293337+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/canary_techblog/articles/348d976da70857",
     "bookmarkCount": 0
   },
@@ -828,7 +1327,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T15:00:59.293337+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hayatosc/articles/ca-intern-universe",
     "bookmarkCount": 1
   },
@@ -879,9 +1378,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T15:00:13.759737+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/30/2000001877/",
-    "bookmarkCount": 156
+    "bookmarkCount": 160
   },
   {
     "title": "https://bogus.jp/webapp_security_review.pdf",
@@ -913,9 +1412,9 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T15:00:13.759737+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/gzer0/articles/timescar-leak-countermeasures",
-    "bookmarkCount": 161
+    "bookmarkCount": 167
   },
   {
     "title": "AIの安全対策でトランプ大統領と業界が合意 企業内管理導入へ | NHKニュース",
@@ -1015,7 +1514,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T12:30:09.768948+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2752150",
     "bookmarkCount": 46
   },
@@ -1032,7 +1531,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T12:30:09.768948+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2144347.html",
     "bookmarkCount": 59
   },
@@ -1066,7 +1565,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T12:30:09.768948+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/xenospectrum.com/wsl-containers-ga-architecture-docker-boundaries/",
     "bookmarkCount": 75
   },
@@ -1153,7 +1652,7 @@
     "firstSeenAt": "2026-09-30T12:00:14.172069+09:00",
     "lastSeenAt": "2026-09-30T12:00:14.172069+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.hatena.ne.jp/ownedmedia/article/ga4-mcp-site-analysis",
-    "bookmarkCount": 23
+    "bookmarkCount": 24
   },
   {
     "title": "「GPT-6.1 Sol」が登場 ～「GPT-6 Astra」に迫る知能を5分の1の料金で／「Astra Ultrafast」も提供開始、月額500米ドルの新「Pro」ティアも",
@@ -1270,7 +1769,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T11:00:12.991088+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/30/2000001873/",
     "bookmarkCount": 234
   },
@@ -1389,7 +1888,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T10:30:14.155716+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2609/30/2000001870/",
     "bookmarkCount": 146
   },
@@ -1406,7 +1905,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T10:30:14.155716+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2144262.html",
     "bookmarkCount": 114
   },
@@ -1440,7 +1939,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T09:30:12.796057+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2752131",
     "bookmarkCount": 283
   },
@@ -1576,9 +2075,9 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T09:00:16.885986+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/o8vm/articles/3934806424cd85",
-    "bookmarkCount": 30
+    "bookmarkCount": 31
   },
   {
     "title": "AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる",
@@ -1593,7 +2092,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T09:00:16.885986+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/softbank/articles/6f98cf7c4ebfd3",
     "bookmarkCount": 2
   },
@@ -1627,7 +2126,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T09:00:16.885986+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/spookies/articles/e70b80a510f5e2",
     "bookmarkCount": 2
   },
@@ -1644,9 +2143,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T08:46:21.832579+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech-lab.sios.jp/archives/54936",
-    "bookmarkCount": 493
+    "bookmarkCount": 496
   },
   {
     "title": "【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で",
@@ -1695,7 +2194,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T08:46:21.832579+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/github.com/mizchi/explainer",
     "bookmarkCount": 219
   },
@@ -1712,7 +2211,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-09-30T08:46:21.832579+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/article/2609/30/2000001864/",
     "bookmarkCount": 185
   },
@@ -1729,7 +2228,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T08:46:21.832579+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/schroneko/articles/openai-devday-2026",
     "bookmarkCount": 103
   },
@@ -2511,7 +3010,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/sora_kumo/articles/cloudflare-to-cf",
     "bookmarkCount": 47
   },
@@ -2528,7 +3027,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tokium_dev/articles/ai-agent-usage-limit-long-sessions",
     "bookmarkCount": 1
   },
@@ -2562,7 +3061,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mconfjp/articles/transaction-action-order",
     "bookmarkCount": 107
   },
@@ -2596,9 +3095,9 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/ababup1192/articles/77b844dcfc1529",
-    "bookmarkCount": 52
+    "bookmarkCount": 53
   },
   {
     "title": "大きなボトルネックをごろごろ見つける方法 - 優秀なエンジニアになる",
@@ -2613,7 +3112,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/339/articles/56ef43afde8bd2",
     "bookmarkCount": 6
   },
@@ -2647,7 +3146,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/oukayuka/articles/15years-git-then-jujutsu",
     "bookmarkCount": 234
   },
@@ -3004,7 +3503,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/dress_code/articles/f89590d105ba5f",
     "bookmarkCount": 69
   },
@@ -3123,7 +3622,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/knowledgework/articles/6996274de49607",
     "bookmarkCount": 25
   },
@@ -3310,7 +3809,7 @@
       "article"
     ],
     "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
+    "lastSeenAt": "2026-09-30T21:00:16.970170+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mazrean/articles/bd9b563ace18db",
     "bookmarkCount": 229
   },
