@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T08:46:21.832579+09:00</updated>
+  <updated>2026-09-30T09:00:16.885986+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>WSL containers is now generally available</title>
+    <id>https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/</id>
+    <link href="https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/" />
+    <updated>2026-09-30T04:31:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>WSL is central to our commitment to making Windows the best place to build, run and manage Linux workloads. As AI, cloud-native development, containers, and open-source ecosystems continue to converge…</summary>
+  </entry>
+  <entry>
+    <title>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2144148.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2144148.html" />
+    <updated>2026-09-30T00:14:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>約108万円で320B LLM をオフライン実行できる「EVO-X5 Pro」</summary>
+  </entry>
+  <entry>
+    <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
+    <id>https://zenn.dev/o8vm/articles/3934806424cd85</id>
+    <link href="https://zenn.dev/o8vm/articles/3934806424cd85" />
+    <updated>2026-09-29T18:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。 octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープログラムやカーネルを拡張する課題も公開されています。[1] もともとは自分が OS を理解するために始…</summary>
+  </entry>
+  <entry>
+    <title>AI 駆動開発で「設計」はどこに書くのか ― 振る舞いをテストで検証できる「仕様」にしてみる</title>
+    <id>https://zenn.dev/softbank/articles/6f98cf7c4ebfd3</id>
+    <link href="https://zenn.dev/softbank/articles/6f98cf7c4ebfd3" />
+    <updated>2026-09-29T16:02:41+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 日々の開発において、AI にコードを書いてもらうことは日常になってきました。要件を伝えれば既存のコードベースを調査し、その作法に合わせて機能を足してくれます。 生成されたコードがいつも正しいわけではありませんが、それでも「コードを書く」という作業そのものは、以前ほど開発のボトルネックではなくなりつつあると感じています。 その一方で、AI と一緒に開発していると、「何を実装してもらうか」を…</summary>
+  </entry>
+  <entry>
+    <title>録音音声を扱うプロダクトでAIとテストするために初手で行った工夫と改善点</title>
+    <id>https://zenn.dev/knowledgework/articles/96d88ab25da83f</id>
+    <link href="https://zenn.dev/knowledgework/articles/96d88ab25da83f" />
+    <updated>2026-09-29T11:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。 特撮に毎週元気をもらっているbunです。今年の8月（2026年）にナレッジワークにQAエンジニアとして入社しました。 みなさん、AIとテストしてますか？私はAIがブラウザやモバイルアプリなどを容易に操作できるようになってから、機能テストを大きく以下のような3種類に分けて考えています。 1: 手動テスト いわゆる従来からテスト技術者やQAエンジニアがやってきているもの 「ちゃんと動いて…</summary>
+  </entry>
+  <entry>
+    <title>目を醒ませ 僕らの信頼が生成AIに侵略されてるぞ</title>
+    <id>https://zenn.dev/spookies/articles/e70b80a510f5e2</id>
+    <link href="https://zenn.dev/spookies/articles/e70b80a510f5e2" />
+    <updated>2026-09-29T10:00:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>想定読者 2025年度以降にIT業界に参入したエンジニア システム開発プロジェクトで上流〜中流工程を任されている人 自分の仕事がAIに奪われていると感じているエンジニア tl;dr Meat Proxyで起きる破綻は、AIのせいではなく「己に対して当然求められている責任を己が放棄した結果」である。 生成AIは責任を持てないので、原理的に副操縦士の域をでない。 人間の介在価値は意思と責任を持つことに…</summary>
+  </entry>
   <entry>
     <title>オレのClaude Code作業環境、控えめにいって最高すぎる〜Stream Deckでherdrを操作、完了はずんだもんが読み上げ〜 | SIOS Tech Lab</title>
     <id>https://tech-lab.sios.jp/archives/54936</id>
@@ -28,7 +76,7 @@
     <link href="https://zenn.dev/schroneko/articles/openai-devday-2026" />
     <updated>2026-09-30T06:28:47+09:00</updated>
     <category term="はてブ IT" />
-    <summary>tl;dr dots が公開されたよ GPT‑6.1 Sol が公開されたよ Codex クラウドが公開されたよ サムアルトマン氏のキーノート dots の発表 dots はあらゆるタスクに対応するよう設計された稼働するエージェント。GPT-6 Astra を裏では使っており、専用のクラウド上のコンピューターを持ち、フィードバックから継続的に学び、与...</summary>
+    <summary>tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー...</summary>
   </entry>
   <entry>
     <title>「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
@@ -455,14 +503,6 @@
     <summary>はじめに SELECT AIに自然言語で質問すると、SQL自体は生成されるものの、期待とは違うテーブルが使われることがあります。 たとえば「2026年の売上を顧客別に集計して」と質問したとき、データベース内に次のテーブルがあったらどうでしょうか。 受注を管理するORDE...</summary>
   </entry>
   <entry>
-    <title>Cloudflare の CLI を wrangler から cf に移行する</title>
-    <id>https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</id>
-    <link href="https://zenn.dev/sora_kumo/articles/cloudflare-to-cf" />
-    <updated>2026-09-29T14:43:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate…</summary>
-  </entry>
-  <entry>
     <title>オープンAI、最新AI「アストラ6.1」の公開取りやめ 安全面で問題</title>
     <id>https://www.afpbb.com/articles/-/3654970</id>
     <link href="https://www.afpbb.com/articles/-/3654970" />
@@ -477,6 +517,14 @@
     <updated>2026-09-29T13:47:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>AnthropicがAIモデル「Claude Sonnet 5.5」をリリースしました。前世代モデルのClaude Sonnet 5と比べて性能が向上しつつ30％の高速化も達成しているとのこと。ベンチマークテストではGPT-6 Solのスコアを上回っています。 Introducing Claude Sonnet 5.5 \ Anthropic https://www.anthropic.com/c…</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare の CLI を wrangler から cf に移行する</title>
+    <id>https://zenn.dev/sora_kumo/articles/cloudflare-to-cf</id>
+    <link href="https://zenn.dev/sora_kumo/articles/cloudflare-to-cf" />
+    <updated>2026-09-29T13:43:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Cloudflare から次世代の統合 CLI ツール cf（現在 v1.0.0-beta）が登場しました。 従来の wrangler（wrangler.json / wrangler.jsonc / wrangler.toml）から、TypeScript ベースの型安全な設定ファイル cloudflare.config.ts への移行が推奨されています。 公式には cf migrate…</summary>
   </entry>
   <entry>
     <title>「Geminiの「Gem」廃止へ、11月17日から「スキル」へ刷新</title>
@@ -757,53 +805,5 @@
     <updated>2026-09-28T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>別会社の開発チームに AWS を触ってもらいたいとき、どうしてますか？ DRESS CODE（弊社のプロダクト）の開発にはパートナー企業のエンジニアにも参加してもらっているのですが、デプロイは GitHub Actions が全部やってくれるので、AWS の権限を渡さなくても開発は回ります。しかし、動作検証のフェーズにおいては「DB の中身を見たい」「バッチを流したい」「S3 に何が置かれたか確か…</summary>
-  </entry>
-  <entry>
-    <title>【勉強会】AI時代「考える力」をどう鍛える？具体抽象トレーニングに参加してきました</title>
-    <id>https://qiita.com/ryu0947/items/e319b0e849cae39ff67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryu0947/items/e319b0e849cae39ff67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T18:22:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年9月27日にJISSENが主催するAI時代「考える力」をどう鍛える？具体抽象トレーニングの勉強会に参加してきました。 内容は「具体と抽象」にフォーカスし、AI時代にエンジニアとして考える力を鍛えることをテーマとしています。勉強会に参加して気づいたことや...</summary>
-  </entry>
-  <entry>
-    <title>LINEと診察券番号を安全に紐付ける医療連携設計</title>
-    <id>https://qiita.com/TechStudioLab/items/3a01ec0ebfd411419afa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/TechStudioLab/items/3a01ec0ebfd411419afa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T17:08:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 医療系のLINE連携を考えるとき、最初に悩むのはメッセージの送り方よりも「LINE上の利用者と、院内システムの患者をどう結び付けるか」です。 Messaging APIのWebhookからはLINEのuserIdを取得できます。一方、院内には診察券番号や患者I...</summary>
-  </entry>
-  <entry>
-    <title>Go 1.28でstring(int)周りの挙動が変わりそう</title>
-    <id>https://zenn.dev/aqyuki/articles/go-proposal-3939</id>
-    <link href="https://zenn.dev/aqyuki/articles/go-proposal-3939" />
-    <updated>2026-09-28T16:26:11+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026年09月23日のProposal Review Meetingで珍しいProposalがProposal-Acceptedになったので今回はそのProposalについてまとめていこうと思います。 spec: remove string(int) #3939 今回承認されたProposalはspec: remove string(int)#3939です。このProposalで提案さ…</summary>
-  </entry>
-  <entry>
-    <title>Teams の GitHub Copilot が「コンテキストを読む」ようになったので、全部試してみた【2026年9月アプデ】</title>
-    <id>https://qiita.com/shahin0809/items/9b7e5a507739d728618b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shahin0809/items/9b7e5a507739d728618b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T16:17:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GitHub Copilot のアップデートを追いかけるのが完全に日課になっているGH-CUG運営兼、マイクロソフト学生アンバサダーのShahinです！ ※発言は個人の見解です 本記事はdocumentベースにTeamsで検証したものです、もっとこんな活用...</summary>
-  </entry>
-  <entry>
-    <title>業務アプリを解析してOJT教材をAIに作らせた話</title>
-    <id>https://qiita.com/yasufumi-tsunaki/items/3be876d5920efb2b94f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yasufumi-tsunaki/items/3be876d5920efb2b94f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T14:42:29+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>概要 OJT研修の一環として、業務アプリを題材にしたAndroidアプリ開発教材をAIで生成し、新人に実際にコードを書いてもらいました。 その結果、新人が実際の業務ソースコードを開いた際に、構造や実装意図をスムーズに理解できる状態を作ることができました。 この取り組みで最...</summary>
-  </entry>
-  <entry>
-    <title>AIでクオリティが落ちた外注さんが、自分では気づけてないという怖い話｜片山良平＠Eldipa代表、paiza創業者</title>
-    <id>https://note.com/rk611/n/n56e6db823eb1</id>
-    <link href="https://note.com/rk611/n/n56e6db823eb1" />
-    <updated>2026-09-28T12:45:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>先日会食で聞いた怖い話。 ある企業から依頼している外注さんが、AIを使い始めてから明らかにクオリティが下がっており、AIを使うなとも言いづらいし、修正依頼するもいまいち噛み合わず、やりづらいので終了しようと思う、という話でした。 気になったのはその先で、話を聞く限り、どうもその外注の方はAI使ってクオリ...</summary>
   </entry>
 </feed>
