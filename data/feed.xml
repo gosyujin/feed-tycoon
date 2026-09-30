@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T15:00:13.759737+09:00</updated>
+  <updated>2026-09-30T15:00:59.293337+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>新規プロダクトのバックエンド自動テスト戦略 ─UT 中心から API テスト中心へ─</title>
+    <id>https://zenn.dev/canary_techblog/articles/348d976da70857</id>
+    <link href="https://zenn.dev/canary_techblog/articles/348d976da70857" />
+    <updated>2026-09-30T09:45:25+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！ 株式会社カナリーで新規プロダクトを開発している tom-uchida です。 新規プロダクトのバックエンドでは自動テストをユニットテスト（以下、UT）中心で整備してきたのですが、API 単位で仕様どおりに動作することを保証する仕組みがなかったため、runn による API テストを導入し、品質保証の主軸を UT から API テストへ切り替えました。本記事では、次の 3 点をご紹介で…</summary>
+  </entry>
+  <entry>
+    <title>サイバーエージェントのバックエンドインターンUNIVERSEに参加し、優秀賞をいただきました</title>
+    <id>https://zenn.dev/hayatosc/articles/ca-intern-universe</id>
+    <link href="https://zenn.dev/hayatosc/articles/ca-intern-universe" />
+    <updated>2026-09-29T20:37:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>参加したインターン 『バックエンドエンジニア向けチーム開発インターンシップ UNIVERSE』に参加しました。 https://www.cyberagent.co.jp/careers/students/event/detail/id=33044 バックエンドエンジニア向け チーム開発インターンシップ（UNIVERSE）では、【メディア】【ゲーム】【広告】の3つの事業から提供されるお題のうち1テー…</summary>
+  </entry>
+  <entry>
+    <title>11年生本番データ飛ばす</title>
+    <id>https://zenn.dev/ficilcom/articles/prod_db_reset_incident</id>
+    <link href="https://zenn.dev/ficilcom/articles/prod_db_reset_incident" />
+    <updated>2026-09-25T09:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 早いもので、エンジニア歴 11 年目になりました。これまでの人生で、本番データを飛ばしたことは一度もありませんでした。 それが、シルバーウィーク明けの初日に起きました。 連休明けの記憶なんて当てにならないということです。連休前に何をして、どの URL を触っていたかなんて、正直ほぼ覚えていませんでした。失敗談と、これから入れる対策の備忘録です。 使っているのはだいたいこれです。 Turb…</summary>
+  </entry>
   <entry>
     <title>【速報】声が「パブリシティ権」の保護対象と認める判決 津田健次郎さんの訴え退けるも東京地裁が初判断 TikTok運営会社に生成AI動画の削除求めた訴訟 - ライブドアニュース</title>
     <id>https://news.livedoor.com/article/detail/32448712/</id>
@@ -23,20 +47,20 @@
     <summary>カーシェア「タイムズカー」で、退会者を含む約660万アカウントの情報が漏えいした問題をめぐり、パーク24は取材に対して、漏えいの対象となった退会者の個人情報を、退会後7年間保存していた理由について、「法人税法に基づく取引記録の保管義務のため」と説明した。ただ免許証画像の保存は法人税法に根拠はなく、「な...</summary>
   </entry>
   <entry>
-    <title>タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策</title>
-    <id>https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</id>
-    <link href="https://zenn.dev/gzer0/articles/timescar-leak-countermeasures" />
-    <updated>2026-09-30T10:43:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>クレジットカード情報は、流出していないと発表されています。 分かっていないこと 不正アクセスの原因と経路（調査中） 一人ひとりについて、どの書類の画像が流出したか（2週間程度で個別に報告予定） 流出した情報が、すでに悪用されているかどうか 考えられる被害 起こりやすい順に並べます。 1. タイムズカーを装っ...</summary>
-  </entry>
-  <entry>
     <title>https://bogus.jp/webapp_security_review.pdf</title>
     <id>https://bogus.jp/webapp_security_review.pdf</id>
     <link href="https://bogus.jp/webapp_security_review.pdf" />
     <updated>2026-09-30T09:56:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>https://bogus.jp/webapp_security_review.pdf</summary>
+  </entry>
+  <entry>
+    <title>タイムズカーの不正アクセスで免許証画像が流出した人へ：考えられる被害と今日からできる対策</title>
+    <id>https://zenn.dev/gzer0/articles/timescar-leak-countermeasures</id>
+    <link href="https://zenn.dev/gzer0/articles/timescar-leak-countermeasures" />
+    <updated>2026-09-30T01:50:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026年9月25日、タイムズカーの Web システムが不正アクセスを受け、利用者の個人情報が流出したと発表されました。対象は約660万件で、運転免許証の画像など本人確認書類の画像も含まれています。 この記事では、公式発表で分かっている範囲をもとに、流出した情報で起こりうる被害と、利用者が自分でできる対策をまとめます。 ! 2026年9月30日時点の公式発表にもとづく内容です。原因や個別の流出範囲…</summary>
   </entry>
   <entry>
     <title>AIの安全対策でトランプ大統領と業界が合意 企業内管理導入へ | NHKニュース</title>
@@ -391,14 +415,6 @@
     <summary>【速報】「Windows 11 2026 Update」（バージョン 26H2）の一般提供が開始／「バージョン 24H2/25H2」からは切り替えパッチ「eKB」で</summary>
   </entry>
   <entry>
-    <title>OpenAI DevDay 2026 発表まとめ</title>
-    <id>https://zenn.dev/schroneko/articles/openai-devday-2026</id>
-    <link href="https://zenn.dev/schroneko/articles/openai-devday-2026" />
-    <updated>2026-09-30T06:28:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速にトー...</summary>
-  </entry>
-  <entry>
     <title>「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title>
     <id>https://gigazine.net/news/20260930-bend-lang/</id>
     <link href="https://gigazine.net/news/20260930-bend-lang/" />
@@ -421,6 +437,14 @@
     <updated>2026-09-30T03:51:02+09:00</updated>
     <category term="はてブ IT" />
     <summary>米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。</summary>
+  </entry>
+  <entry>
+    <title>OpenAI DevDay 2026 発表まとめ</title>
+    <id>https://zenn.dev/schroneko/articles/openai-devday-2026</id>
+    <link href="https://zenn.dev/schroneko/articles/openai-devday-2026" />
+    <updated>2026-09-30T02:20:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 加筆中です。追記していきます。 tl;dr OpenAI DevDay 2026 がサンフランシスコで開催されたよ サンフランシスコ現地から情報をお送りするよ ひと通りのリソースをまとめたけど、まずは Recap ページを見るといいよ 24 時間常時稼働のエージェント dots が発表されたよ GPT-6 Astra に近い性能を低コストで使える GPT-6.1 Sol が公開されたよ 高速に…</summary>
   </entry>
   <entry>
     <title>BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？） - Qiita</title>
@@ -781,29 +805,5 @@
     <updated>2026-09-29T16:57:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>先日こんな記事を書いていたんだけど、最近話題になってるChromeOSとAndroidの基盤統合（いわゆるGooglebook OS構想）と、ChromeOS 147からデフォルトになった新アーキテクチャ「Baguette」 の話をLinuxギーク目線でするわ。 世間やガジェットメディアは「新GooglebookでAndroidアプリがもっとサクサク動くようになるね...</summary>
-  </entry>
-  <entry>
-    <title>このイラスト、何に見える？とLINEで母に聞いてみたら…全美大生の地雷を踏み抜いてておもろい「そういうことじゃないんだよっ！」「母親はAI使いがち」</title>
-    <id>https://togetter.com/li/2751892</id>
-    <link href="https://togetter.com/li/2751892" />
-    <updated>2026-09-29T16:52:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>深野(イラレ練習中) @yesdeep_MA 自分でも理解してる問題点を指摘されるの、友達とかに教えてもらう分には全く地雷じゃ無いんだけど親にはイラッとしてしまう 母親は美術系の出身じゃないからだろうか チャッピーは論外。殺傷モノ。 2026-09-28 23:36:43</summary>
-  </entry>
-  <entry>
-    <title>免許証画像が漏れると何が“ヤバい”のか タイムズカーで最大約660万件の個人情報漏えいで考えられる「3つのリスク」</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2609/29/news085.html" />
-    <updated>2026-09-29T16:41:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>パーク24グループが運営するカーシェアリングサービス「タイムズカー」で、最大約660万件に上るとされる大規模な個人情報流出が発生した。流出したデータの中には、氏名や住所といった基本情報だけでなく、「運転免許証の画像」などの本人確認書類が含まれている可能性があり、影響の大きさが懸念されている。 本記事で...</summary>
-  </entry>
-  <entry>
-    <title>AI時代にはこれまで以上に「顔の良さ」が重要になる可能性がある、AIは人間以上に顔の偏見が強いため</title>
-    <id>https://gigazine.net/news/20260929-ai-use-facial-features-criminality-performance/</id>
-    <link href="https://gigazine.net/news/20260929-ai-use-facial-features-criminality-performance/" />
-    <updated>2026-09-29T16:02:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>人間は他者を評価する時にその人の「顔」に影響を受けやすいことがわかっており、ルックスが魅力的な人ほど成績が高くなったり、犯罪で捕まった際の刑期が短くなったりする傾向があります。さまざまな現場にAIを導入すればこうした偏見(バイアス)を排除できると考えるかもしれませんが、OpenAI・Google・AnthropicのAIモ...</summary>
   </entry>
 </feed>
