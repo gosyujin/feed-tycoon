@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T13:00:14.471668+09:00</updated>
+  <updated>2026-09-30T13:30:11.918130+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>[AWS] AgenticRAGの判断をJevにしたら、爆速にはならなかったけど主導権が返ってきた - Qiita</title>
+    <id>https://qiita.com/kikuziro/items/6ca269daa54c74e3bf1d?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share</id>
+    <link href="https://qiita.com/kikuziro/items/6ca269daa54c74e3bf1d?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share" />
+    <updated>2026-09-30T07:33:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>🧭 はじめに 以前RAGにJevを使うと効率がよくなるという記事を書きました。 今回はそれをAgenticRAGへ持ち込むとどうなるのか踏み込んでみました。 📌 TL;DR 判断をJevに置き換えれば爆速になると思ったら思いのほか速くなりませんでした 理由はAgenticRAGが判断と次のクエリ作りを1回のLLMリクエストでまとめて済ませて...</summary>
+  </entry>
   <entry>
     <title>ランサムウェア攻撃による京王電鉄グループのシステム障害についてまとめてみた - piyolog</title>
     <id>https://piyolog.hatenadiary.jp/entry/2026/09/30/021814</id>
@@ -591,20 +599,20 @@
     <summary>レノボ、4K液晶&amp;ジェスチャーAI搭載の「Lenovo Yoga Tab」2モデルを発表</summary>
   </entry>
   <entry>
+    <title>コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表</title>
+    <id>https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html</id>
+    <link href="https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html" />
+    <updated>2026-09-30T05:29:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agents」を発表しました。 Claude CodeやGoogle Antigravityなどに代表されるコーディングエージェントは優れたプログラミング能力を備えていま…</summary>
+  </entry>
+  <entry>
     <title>Google Cloud、AIエージェントからの大量アクセスをPostgreSQLのプライマリDBから切り離せる「PostgreSQL for agents in AlloyDB」発表</title>
     <id>https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html</id>
     <link href="https://www.publickey1.jp/blog/26/google_cloudaipostgresqldbpostgresql_for_agents_in_alloydb.html" />
     <updated>2026-09-30T00:46:18+09:00</updated>
     <category term="Publickey" />
     <summary>Google Cloudは、本番環境で動作しているPostgreSQLの処理に影響を与えないよう、AIエージェントからの読み取りワークロード用にサンドボックス化されたPostgreSQLのデータベースインスタンスを数秒でプロビジョニングする...</summary>
-  </entry>
-  <entry>
-    <title>コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表</title>
-    <id>https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html</id>
-    <link href="https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html" />
-    <updated>2026-09-30T00:44:15+09:00</updated>
-    <category term="Publickey" />
-    <summary>Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agent...</summary>
   </entry>
   <entry>
     <title>パーク24、運転免許証画像など情報流出数は160万件 - 日本経済新聞</title>
@@ -797,13 +805,5 @@
     <updated>2026-09-29T13:00:21+09:00</updated>
     <category term="はてブ IT" />
     <summary>p.hatena.ne.jp みんなはてなパークス使っているか？ 759ブクマもされているじゃないか。はてなの、満を持しての新サービスだぞ。たくさんのはてなーたちがこぞって書き込み、大盛況、新しいウェブの居場所だ、ってなってなきゃいけないんじゃいのか。 それなのに、今のはてなパークスときたらジャングリアより羊がいな...</summary>
-  </entry>
-  <entry>
-    <title>Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】</title>
-    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2143988.html" />
-    <updated>2026-09-29T12:51:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Google、ChromeOSを2034年に廃止へ。既定方針ながらおおっぴらに告知しない理由とは？【やじうまWatch】</summary>
   </entry>
 </feed>
