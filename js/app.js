@@ -714,6 +714,11 @@
       )
     );
 
+    const kindSelect = $('import-kind-select');
+    if (!kindSelect.options.length) {
+      Filters.KINDS.forEach((k) => kindSelect.append(el('option', { value: k, text: Filters.KIND_LABELS[k] })));
+    }
+
     const typeSelect = $('rule-type');
     if (!typeSelect.options.length) {
       Filters.TYPES.forEach((t) => typeSelect.append(el('option', { value: t, text: Filters.TYPE_LABELS[t] })));
@@ -723,7 +728,7 @@
     const rules = Filters.loadRules(kind);
     $('rule-count').textContent = rules.length;
     $('rule-list').replaceChildren(...rules.map(renderRuleRow));
-    $('import-kind-current').textContent = Filters.KIND_LABELS[kind];
+    $('import-kind-select').value = kind;
     $('export-text').hidden = true;
   }
 
@@ -879,6 +884,13 @@
       onRulesChanged();
     });
 
+    $('import-kind-select').addEventListener('change', (e) => {
+      state.settingsKind = e.target.value;
+      state.editingId = null;
+      setImportStatus('');
+      renderSettings();
+    });
+
     $('export-btn').addEventListener('click', () => {
       const csv = RulesIO.rulesToCsv(Filters.loadRules(state.settingsKind));
       const url = URL.createObjectURL(new Blob([csv], { type: 'text/csv' }));
@@ -963,7 +975,7 @@
         renderSettings();
         onRulesChanged();
         refreshFilterSyncFields();
-        setImportStatus(describeFilterSyncResult(result));
+        $('filter-sync-status').textContent += ` / ${describeFilterSyncResult(result)}`;
       } catch (err) {
         renderFilterSyncStatus();
         $('filter-sync-status').textContent = `失敗: ${err.message}`;

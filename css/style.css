@@ -129,6 +129,7 @@ a.bm-count:hover { text-decoration: underline; }
 .modal-panel * { box-sizing: border-box; min-width: 0; }
 .modal-section { margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--border); }
 .modal-section h3 { margin: 0 0 8px; font-size: 14px; }
+.modal-section h4 { margin: 14px 0 6px; font-size: 13px; }
 .modal-section .hint { margin: 0 0 12px; }
 .modal-section .status:empty { display: none; }
 .help-btn { margin-left: 6px; padding: 0 2px; border: none; border-bottom: 1px dashed var(--muted); border-radius: 0; background: none; color: var(--muted); font-size: 13px; line-height: 1.2; cursor: pointer; }

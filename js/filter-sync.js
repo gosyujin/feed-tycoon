@@ -51,7 +51,7 @@
 
   // foreign: リモートにあった未対応type行(上書きで消さないよう一緒に書き出す)
   function localCsv(kind, foreign) {
-    return toCsv(Filters.sortRules([...Filters.loadRules(kind), ...(foreign || [])]));
+    return toCsv(Filters.sortRules(Filters.uniqueRules([...Filters.loadRules(kind), ...(foreign || [])])));
   }
 
   // リモートの各CSVをローカルへマージする。
@@ -83,6 +83,7 @@
     try {
       const res = await Gist.get(state.gistId);
       const merged = await mergeFromRemote(res.json);
+      for (const kind of Filters.KINDS) Filters.dedupeRules(kind);
       let pushed = 0;
       let etag = res.etag;
       if (Gist.getToken()) {

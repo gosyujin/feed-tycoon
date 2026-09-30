@@ -97,6 +97,26 @@
     return `${type}:${value.toLowerCase()}`;
   }
 
+  // 同じ type + value(大文字小文字を無視)の重複を除く。先に出たものを残す。
+  function uniqueRules(rules) {
+    const seen = new Set();
+    return rules.filter((r) => {
+      const key = ruleKey(r.type, r.value);
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
+
+  // ローカルに既にある重複を掃除する。戻り値は取り除いた件数。
+  function dedupeRules(kind) {
+    assertKind(kind);
+    const rules = loadRules(kind);
+    const unique = uniqueRules(rules);
+    if (unique.length !== rules.length) saveRules(kind, unique);
+    return rules.length - unique.length;
+  }
+
   // 追加できたら true。値が空、または同じ type + value(大文字小文字を無視)が既にあれば false。
   function addRule(kind, type, value) {
     assertKind(kind);
@@ -207,6 +227,8 @@
     removeRule,
     importRules,
     sortRules,
+    uniqueRules,
+    dedupeRules,
     judge,
     isHidden,
   };

@@ -79,28 +79,6 @@
       <p id="offline-cache-status" class="status"></p>
     </section>
 
-    <section class="modal-section import-export">
-      <h3>インポート・エクスポート設定<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-import" aria-label="説明を表示">?</button></h3>
-      <p id="hint-import" class="hint" hidden>
-        対象は下の「ミュート設定」で選択中のリストです。<br>
-        CSV形式(1行目ヘッダー任意): <code>type,value</code> / type は <span id="type-list"></span> のいずれか。<br>
-      </p>
-      <p class="import-target">対象: <strong id="import-kind-current">ミュート</strong></p>
-      <div class="import-export-row">
-        <button id="copy-btn" type="button" class="btn btn--small" title="クリップボードにコピー" aria-label="クリップボードにコピー">📋</button>
-        <button id="export-text-btn" type="button" class="btn btn--small">テキスト表示</button>
-        <button id="export-btn" type="button" class="btn btn--small">CSVエクスポート</button>
-      </div>
-      <textarea id="export-text" class="export-text" readonly hidden></textarea>
-      <div class="import-export-row">
-        <label class="btn btn--small file-label">
-          CSVインポート
-          <input id="import-file-input" type="file" accept=".csv,text/csv" hidden>
-        </label>
-      </div>
-      <p id="import-status" class="status"></p>
-    </section>
-
     <section class="modal-section token-section">
       <h3>GitHubトークン(Gist用)<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-token" aria-label="説明を表示">?</button></h3>
       <p id="hint-token" class="hint" hidden>
@@ -113,8 +91,14 @@
       </div>
     </section>
 
-    <section class="modal-section sync-section">
-      <h3>フィルタの同期(Gist・3種まとめて)<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-filter-sync" aria-label="説明を表示">?</button></h3>
+
+    <section class="modal-section import-export">
+      <h3>インポート・エクスポート設定<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-import" aria-label="説明を表示">?</button></h3>
+      <p id="hint-import" class="hint" hidden>
+        対象は「手動操作」の選択、または下の「ミュート設定」のタブと連動します。<br>
+        CSV形式(1行目ヘッダー任意): <code>type,value</code> / type は <span id="type-list"></span> のいずれか。<br>
+      </p>
+      <h4 class="sub-heading">フィルタの同期(Gist・3種まとめて)<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-filter-sync" aria-label="説明を表示">?</button></h4>
       <p id="hint-filter-sync" class="hint" hidden>
         ミュート・ミュート解除・強制ミュートをシークレットGistに保存して端末間・hateb-tycoonと共有します。
         Gist ID(またはGistのURL)だけ入力してください。同期はリモートとローカルの和集合で、削除は同期されません(消すときはGist側のCSVを編集)。
@@ -130,6 +114,22 @@
         <button id="filter-sync-create-btn" type="button" class="btn btn--small">Gistを作成</button>
       </div>
       <p id="filter-sync-status" class="status"></p>
+
+      <h4>手動操作</h4>
+      <p class="import-target">対象: <select id="import-kind-select"></select></p>
+      <div class="import-export-row">
+        <button id="copy-btn" type="button" class="btn btn--small" title="クリップボードにコピー" aria-label="クリップボードにコピー">📋</button>
+        <button id="export-text-btn" type="button" class="btn btn--small">テキスト表示</button>
+        <button id="export-btn" type="button" class="btn btn--small">CSVエクスポート</button>
+      </div>
+      <textarea id="export-text" class="export-text" readonly hidden></textarea>
+      <div class="import-export-row">
+        <label class="btn btn--small file-label">
+          CSVインポート
+          <input id="import-file-input" type="file" accept=".csv,text/csv" hidden>
+        </label>
+      </div>
+      <p id="import-status" class="status"></p>
     </section>
 
     <section class="modal-section mute-settings">
