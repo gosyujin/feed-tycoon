@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T00:30:13.185639+09:00</updated>
+  <updated>2026-10-01T01:00:16.164538+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
+    <id>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</id>
+    <link href="https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/" />
+    <updated>2026-09-30T19:36:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 Announcing d1, our first decision model. It's the first model to outperform Jev on @huggingface's D…</summary>
+  </entry>
   <entry>
     <title>マクドナルドはAI価格設定システムで店舗ごとの「最適価格」を算出している、バーガーキングなど他店舗の価格も考慮</title>
     <id>https://gigazine.net/news/20260930-mcdonalds-push-ai-price-big-mac/</id>
@@ -795,13 +803,5 @@
     <updated>2026-09-29T20:37:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>参加したインターン 『バックエンドエンジニア向けチーム開発インターンシップ UNIVERSE』に参加しました。 https://www.cyberagent.co.jp/careers/students/event/detail/id=33044 バックエンドエンジニア向け チーム開発インターンシップ（UNIVERSE）では、【メディア】【ゲーム】【広告】の3つの事業から提供されるお題のうち1テー…</summary>
-  </entry>
-  <entry>
-    <title>11年生本番データ飛ばす</title>
-    <id>https://zenn.dev/ficilcom/articles/prod_db_reset_incident</id>
-    <link href="https://zenn.dev/ficilcom/articles/prod_db_reset_incident" />
-    <updated>2026-09-25T09:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 早いもので、エンジニア歴 11 年目になりました。これまでの人生で、本番データを飛ばしたことは一度もありませんでした。 それが、シルバーウィーク明けの初日に起きました。 連休明けの記憶なんて当てにならないということです。連休前に何をして、どの URL を触っていたかなんて、正直ほぼ覚えていませんでした。失敗談と、これから入れる対策の備忘録です。 使っているのはだいたいこれです。 Turb…</summary>
   </entry>
 </feed>
