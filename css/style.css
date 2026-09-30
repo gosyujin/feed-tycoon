@@ -135,8 +135,8 @@ a.bm-count:hover { text-decoration: underline; }
 .help-btn[aria-expanded="true"] { color: var(--accent); border-bottom-color: var(--accent); }
 .import-target { margin: 0; font-size: 13px; color: var(--muted); }
 a.btn { text-decoration: none; color: inherit; }
-.import-url-form { flex-wrap: nowrap; align-items: center; }
-.import-url-form .btn { flex: 0 0 auto; white-space: nowrap; }
+.gist-row { flex-wrap: nowrap; align-items: center; }
+.gist-row .btn { flex: 0 0 auto; white-space: nowrap; }
 .mute-settings #settings-tabs { margin-bottom: 10px; }
 .modal-header { display: flex; align-items: center; justify-content: space-between; }
 .modal-header h2 { margin: 0; font-size: 17px; }
@@ -144,8 +144,8 @@ a.btn { text-decoration: none; color: inherit; }
 .hint[hidden] { display: none; }
 code { padding: 0 4px; background: var(--bg); border-radius: 4px; }
 
-.rule-form, .import-url-form, .import-export-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
-.rule-form input, .import-url-form input, .rule-row input { flex: 1; min-width: 0; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: inherit; }
+.rule-form, .gist-row, .import-export-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0; }
+.rule-form input, .gist-row input, .rule-row input { flex: 1; min-width: 0; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: inherit; }
 .rule-form select, .rule-row select { padding: 5px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: inherit; }
 .rule-list-details { margin: 8px 0; }
 .rule-list { list-style: none; margin: 6px 0 0; padding: 0; max-height: 40vh; overflow-y: auto; }

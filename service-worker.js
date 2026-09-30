@@ -23,6 +23,8 @@ const SHELL_FILES = [
   'js/filters.js',
   'js/rules-io.js',
   'js/visited.js',
+  'js/gist.js',
+  'js/filter-sync.js',
   'js/hatena-api.js',
   'js/app.js',
 ];

@@ -18,7 +18,6 @@
     hideRead: 'feed-tycoon:hideRead',
     lastVisit: 'feed-tycoon:lastVisit',
     commentLayout: 'feed-tycoon:commentLayout',
-    importUrl: (kind) => `feed-tycoon:importUrl:${kind}`,
   };
 
   const state = {
@@ -674,10 +673,10 @@
     $('import-status').textContent = message;
   }
 
-  // 登録済み(または入力した)Gist の URL から、Gist 本体ページへのリンクを出す。Gist でなければ空にする。
-  function refreshGistLink(url) {
-    const box = $('import-gist-link');
-    const pageUrl = RulesIO.gistPageUrl(url);
+  // Gist ID から、Gist 本体ページへのリンクを出す。IDが空なら隠す。
+  function refreshGistLink(gistId) {
+    const box = $('filter-gist-link');
+    const pageUrl = Gist.pageUrl(gistId);
     box.hidden = !pageUrl;
     if (pageUrl) box.href = pageUrl;
     else box.removeAttribute('href');
@@ -724,9 +723,6 @@
     const rules = Filters.loadRules(kind);
     $('rule-count').textContent = rules.length;
     $('rule-list').replaceChildren(...rules.map(renderRuleRow));
-    const importUrl = readStorage(KEYS.importUrl(kind)) || '';
-    $('import-url-input').value = importUrl;
-    refreshGistLink(importUrl);
     $('import-kind-current').textContent = Filters.KIND_LABELS[kind];
     $('export-text').hidden = true;
   }
@@ -797,8 +793,11 @@
 
   function applyImport(rules, unsupported) {
     const added = Filters.importRules(state.settingsKind, rules);
-    const note = unsupported ? `、未対応の種別${unsupported}件は無視` : '';
-    setImportStatus(`${added}件を追加しました(登録済み${rules.length - added}件${note})`);
+    const registered = rules.length - added;
+    const notes = [];
+    if (registered > 0) notes.push(`登録済み${registered}件`);
+    if (unsupported > 0) notes.push(`未対応の種別${unsupported}件は無視`);
+    setImportStatus(`${added}件を追加しました` + (notes.length > 0 ? `(${notes.join('、')})` : ''));
     renderSettings();
     onRulesChanged();
   }
@@ -907,46 +906,83 @@
       e.target.value = '';
       if (!file) return;
       const result = RulesIO.parseRulesCsv(await file.text());
-      if (result.error) setImportStatus(result.error);
-      else applyImport(result.rules, result.skipped);
+      if (result.errors.length > 0) setImportStatus(`インポート失敗: ${result.errors.slice(0, 5).join(' / ')}`);
+      else applyImport(result.rules, result.ignored);
     });
 
-    $('import-url-form').addEventListener('submit', async (e) => {
-      e.preventDefault();
-      const url = $('import-url-input').value.trim();
-      const key = KEYS.importUrl(state.settingsKind);
-      if (!url) {
-        writeStorage(key, null);
-        refreshGistLink('');
-        setImportStatus('自動インポートのURLを解除しました');
-        return;
-      }
-      setImportStatus('取得中…');
-      try {
-        const result = RulesIO.parseRulesCsv(await RulesIO.fetchText(url));
-        if (result.error) {
-          setImportStatus(result.error);
-          return;
-        }
-        writeStorage(key, url);
-        refreshGistLink(url);
-        applyImport(result.rules, result.skipped);
-      } catch (err) {
-        setImportStatus(`取得に失敗しました(${err.message})`);
-      }
-    });
+    bindFilterSync();
   }
 
-  // 起動時に、登録済みの Gist から各リストを取り込む(最初の描画を待たせるのは最大3秒。失敗しても通常起動)。
-  async function importOnStartup() {
-    const tasks = Filters.KINDS.map(async (kind) => {
-      const url = readStorage(KEYS.importUrl(kind));
-      if (!url) return;
-      const result = RulesIO.parseRulesCsv(await RulesIO.fetchText(url, STARTUP_IMPORT_TIMEOUT_MS));
-      if (result.rules) Filters.importRules(kind, result.rules);
+  // ---- フィルタの同期(Gist) ----
+
+  function renderFilterSyncStatus() {
+    const cfg = FilterSync.getConfig();
+    if (!cfg.gistId) {
+      $('filter-sync-status').textContent = '未設定';
+      return;
+    }
+    const mode = Gist.getToken() ? '読み書き' : '読み取り専用';
+    const at = cfg.lastSyncAt ? `最終同期 ${new Date(cfg.lastSyncAt).toLocaleString()}` : '未同期';
+    $('filter-sync-status').textContent = cfg.lastError ? `${mode} / ${at} / エラー: ${cfg.lastError}` : `${mode} / ${at}`;
+  }
+
+  function refreshFilterSyncFields() {
+    const cfg = FilterSync.getConfig();
+    $('filter-gist-input').value = cfg.gistId;
+    refreshGistLink(cfg.gistId);
+    renderFilterSyncStatus();
+  }
+
+  function describeFilterSyncResult(r) {
+    const parts = [`${r.added}件を取り込み`];
+    if (r.pushed > 0) parts.push(`Gistへ${r.pushed}ファイルを書き込み`);
+    else if (!r.canPush) parts.push('トークン未設定のため書き込みなし');
+    if (r.ignored > 0) parts.push(`未対応の種別${r.ignored}件は無視`);
+    let text = parts.join('、');
+    if (r.errors.length > 0) text += ` / 不正なCSVは取り込まず上書きもしていません(${r.errors.join(' / ')})`;
+    return text;
+  }
+
+  function bindFilterSync() {
+    const tokenInput = $('gist-token-input');
+    const gistInput = $('filter-gist-input');
+    FilterSync.init({ parseCsv: RulesIO.parseRulesCsv, toCsv: RulesIO.rulesToCsv });
+    tokenInput.value = Gist.getToken();
+    refreshFilterSyncFields();
+
+    tokenInput.addEventListener('change', () => {
+      Gist.setToken(tokenInput.value);
+      renderFilterSyncStatus();
     });
-    const timeout = new Promise((resolve) => setTimeout(resolve, STARTUP_IMPORT_TIMEOUT_MS));
-    await Promise.race([Promise.allSettled(tasks), timeout]);
+    gistInput.addEventListener('input', () => refreshGistLink(Gist.parseGistId(gistInput.value)));
+
+    async function run(action) {
+      Gist.setToken(tokenInput.value);
+      try {
+        const result = await action();
+        renderSettings();
+        onRulesChanged();
+        refreshFilterSyncFields();
+        setImportStatus(describeFilterSyncResult(result));
+      } catch (err) {
+        renderFilterSyncStatus();
+        $('filter-sync-status').textContent = `失敗: ${err.message}`;
+      }
+    }
+
+    $('filter-sync-save-btn').addEventListener('click', () => {
+      FilterSync.configure({ gistId: gistInput.value });
+      $('filter-sync-status').textContent = '同期中…';
+      return run(() => FilterSync.sync());
+    });
+    $('filter-sync-create-btn').addEventListener('click', () => {
+      FilterSync.configure({ gistId: '' });
+      $('filter-sync-status').textContent = '作成中…';
+      return run(async () => {
+        await FilterSync.createGist();
+        return FilterSync.sync();
+      });
+    });
   }
 
   // ---------------------------------------------------------------- 初期化
@@ -1025,7 +1061,7 @@
     bindViews();
     updateLayoutToggleUI();
     showRoute();
-    await importOnStartup();
+    await FilterSync.syncOnStartup(STARTUP_IMPORT_TIMEOUT_MS);
     await loadData();
     writeStorage(KEYS.lastVisit, String(Date.now()));
     registerServiceWorker();

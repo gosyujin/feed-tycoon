@@ -14,7 +14,7 @@
 ```
 feed-tycoon/
 ├── sources.json                # 取得元の定義(id / name / type / url / tags)
-├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV・Gist, visited.js: 既読, hatena-api.js: コメント取得, app.js: 画面)
+├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV, gist.js / filter-sync.js: Gist同期, visited.js: 既読, hatena-api.js: コメント取得, app.js: 画面)
 ├── service-worker.js           # オフライン対応(アプリ本体と data/*.json をキャッシュ)
 ├── data/                       # Actions が更新する生成物(feed.json, feed.xml, meta.json)
 ├── scripts/
@@ -44,8 +44,13 @@ feed-tycoon/
 - ETag / Last-Modified を `data/meta.json` に保存し、次回は条件付きで取得する(304 なら既存を維持)。
 - 取得に失敗したソースは既存データを維持し、`meta.json` に `ok: false` を記録する(画面のフッターに表示)。0 件だった場合は Actions のログに警告が出る。全ソース失敗時のみ Actions を失敗させる。
 - フィルタの種別(`title` / `domain` / `url` / `source` / `tag` / `description`)は `js/filters.js` の `TYPE_LABELS` が唯一の定義。増やすときは `matchRule` の `case` も足す。UI・CSV の検証は自動で追随する。
-- CSV(`type,value`)は hateb-tycoon と共通で、同じ Gist を共有できる。自アプリが持たない `type` の行は、エラーにせず無視する(取り込み結果では、既存ルールと重複した「登録済み」と区別して表示する。feed-tycoon 固有: `source` / `tag` / `description`、hateb-tycoon 側は `user` / `comment` を含む)。value が空・列数不正の行は従来どおり全体を取り込まない。
-- フィルタ条件は Gist に置く前提(公開しない)。設定画面の「取得して保存」で登録した Raw URL は、起動時に各リストへ自動で取り込まれる(追加のみで、削除は反映されない。最大 3 秒待ち、失敗しても通常起動)。
+- CSV(`type,value`)は hateb-tycoon と共通。自アプリが持たない `type` の行は、エラーにせず無視する(取り込み結果に「未対応の種別N件は無視」と出す)。value が空・列数不正の行があると、その CSV は全体を取り込まない。
+- フィルタは**シークレット Gist で端末間・hateb-tycoon と共有**する(仕様は hateb-tycoon の `docs/gist-sync-spec.md`)。設定するのは Gist ID(URL でも可)だけ。1 つの Gist に `tycoon-filter-<kind>.csv`(mute / unmute / forceMute、アプリ名は含めない)を置く。実装は `js/gist.js`(API・トークン)と `js/filter-sync.js`(同期)。
+  - 「保存して同期」= リモートを取り込み(マージ)→ トークンがあれば、差分のあるファイルだけ和集合で上書き。削除は同期されない(消すときは Gist 側の CSV を編集)。壊れた CSV はその種類を取り込まず、上書きもしない。
+  - 共有ファイルのため、リモートにあった未対応 type の行は上書き時にそのまま書き戻す(`ignoredRules`)。
+  - 起動時は取り込みのみ(保存済み ETag で `If-None-Match`、304 なら何もしない。最大 3 秒待ち、失敗しても通常起動)。読み取りにトークンは不要で、トークンが空の端末は読み取り専用。
+  - トークンは classic PAT の `gist` スコープ(fine-grained は Gist 非対応)。設定画面の独立欄に入れ、`localStorage['feed-tycoon:gistToken']` に保存する。
+  - 旧仕様(種類ごとの Raw URL 登録と起動時の自動取り込み)は廃止済み。旧 URL の内容は、新しい Gist へ「保存して同期」で積み上げ直す。
 - **はてなブックマークへのリンクは `<a href>` にしてはいけない。** iPhone の Safari では、`href` が `b.hatena.ne.jp/entry/...` の `<a>` が `display: none`(0×0)になり、画面に出ない。コンテンツブロッカー(広告ブロック用フィルター)が、はてなブックマークのボタン類を隠すルールに当たっていると考えられる。Mac の Chrome では表示されるため気づきにくい。クラス名(`users` → `bm-count`)を変えても直らず、別の URL の `<a>` や `<button>` は同じ環境で表示された。そのため、一覧の「n users」は自前のブックマークページへの内部リンク(`#/entry?url=…`)にし、ブックマークページ内の「はてなブックマークページ →」は `<button>` にしてクリックで `window.open()` している(`js/app.js` の `renderCard` / `renderEntryView`)。副作用として、後者は長押し・右クリックによる「リンクをコピー」などが使えない。
 - 上の切り分けは、`?debug=1` で診断行を出す一時的な変更(JS の版、データの件数、要素の `display`、`<a>` / `<button>` のプローブ)で行った(コミット `1682b47` 参照)。同様に「要素はあるのに見えない」表示差が出たときは、`getComputedStyle` で `display` とサイズを端末側から取ると原因を絞れる。
 - **ブックマークページ**のコメントは、`https://b.hatena.ne.jp/entry/jsonlite/?url=…` を JSONP(`<script>` 挿入)で取得する(`js/hatena-api.js`)。**callback 名は呼び出しごとにランダムでなければならない**(固定名にするとはてな API が無応答になる。hateb-tycoon で実験確認済み)。取得に成功するたび解析済みデータを `localStorage` にキャッシュし、オフライン時などはそちらへフォールバックする(最大 300 件)。コメント側のフィルタは `title` / `domain` / `user` / `comment` で評価し、`url` は含めない(含めると URL ルールが全コメントに当たる)。

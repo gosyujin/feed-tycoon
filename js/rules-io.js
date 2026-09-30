@@ -1,5 +1,5 @@
 /**
- * フィルタルールの CSV 入出力と、Gist Raw URL の取得を担当するモジュール。
+ * フィルタルールの CSV 入出力を担当するモジュール。
  * CSV は `type,value` の 2 列(1行目のヘッダーは任意)。DOM には触れない。
  */
 (function (global) {
@@ -9,7 +9,7 @@
 
   function rulesToCsv(rules) {
     const lines = ['type,value'].concat(rules.map((r) => `${csvEscape(r.type)},${csvEscape(r.value)}`));
-    return lines.join('\n') + '\n';
+    return lines.join('\r\n') + '\r\n';
   }
 
   // RFC 4180 相当の最小実装(ダブルクォート内のカンマ・改行・"" に対応)。
@@ -53,69 +53,33 @@
     return rows.filter((r) => !(r.length === 1 && r[0].trim() === ''));
   }
 
-  // 1行でも不正なら全体を取り込まない。ただし未知の type の行は、hateb-tycoon など他アプリと
-  // CSV を共有できるようスキップする(件数は skipped)。戻り値は { rules, skipped } または { error }。
+  // 1行でも不正なら全体を取り込まない(errors に理由が入り、rules は空)。ただし未対応の type の行は、
+  // hateb-tycoon など他アプリと CSV を共有できるようエラーにせず、件数を ignored に数え、行自体は
+  // ignoredRules に残す(Gist 同期の上書き時に相手アプリのルールを消さず書き戻すため)。
   function parseRulesCsv(text) {
-    const rows = parseCsv(text.replace(/^﻿/, ''));
+    const rows = parseCsv(String(text || '').replace(/^\uFEFF/, ''));
     if (rows.length > 0 && rows[0][0].trim().toLowerCase() === 'type' && (rows[0][1] || '').trim().toLowerCase() === 'value') {
       rows.shift();
     }
+    if (rows.length === 0) return { rules: [], errors: ['データが空です'], ignored: 0, ignoredRules: [] };
+    const errors = [];
     const rules = [];
-    let skipped = 0;
+    const ignoredRules = [];
     for (let i = 0; i < rows.length; i++) {
       const type = (rows[i][0] || '').trim();
       const value = (rows[i][1] || '').trim();
       if (rows[i].length !== 2 || !type || !value) {
-        return { error: `形式が不正です(データ${i + 1}行目)。type と value は空以外にしてください。` };
+        errors.push(`形式が不正です(データ${i + 1}行目)。type と value は空以外にしてください。`);
+        continue;
       }
       if (!global.Filters.TYPES.includes(type)) {
-        skipped++;
+        ignoredRules.push({ type, value });
         continue;
       }
       rules.push({ type, value });
     }
-    return { rules, skipped };
+    return { rules: errors.length > 0 ? [] : rules, errors, ignored: ignoredRules.length, ignoredRules };
   }
 
-  // gist.github.com の URL は CORS ヘッダーを返さないため、gist.githubusercontent.com の Raw URL に直す。
-  function normalizeUrl(raw) {
-    let url;
-    try {
-      url = new URL(raw.trim());
-    } catch (e) {
-      return raw.trim();
-    }
-    if (url.hostname === 'gist.github.com') {
-      const parts = url.pathname.split('/').filter(Boolean);
-      if (!parts.includes('raw')) parts.splice(2, 0, 'raw');
-      url.hostname = 'gist.githubusercontent.com';
-      url.pathname = '/' + parts.join('/');
-    }
-    return url.toString();
-  }
-
-  // Raw URL(gist.githubusercontent.com/{user}/{hash}/raw/(commit/)?{file})から、Gist 本体ページの URL(#file- アンカー付き)を逆算する。
-  // アンカーは GitHub の仕様に合わせ、ファイル名を小文字にして英数字・_ 以外の連続を "-" にしたもの(gistfile1.txt → file-gistfile1-txt)。
-  // Gist の Raw URL でなければ null。
-  function gistPageUrl(rawUrl) {
-    const m = /^https:\/\/gist\.githubusercontent\.com\/([^/]+)\/([0-9a-fA-F]+)\/raw\/(.+)$/.exec(normalizeUrl(rawUrl || ''));
-    if (!m) return null;
-    const filename = m[3].split('/').filter(Boolean).pop();
-    if (!filename) return null;
-    return `https://gist.github.com/${m[1]}/${m[2]}#file-${filename.toLowerCase().replace(/[^a-z0-9_]+/g, '-')}`;
-  }
-
-  async function fetchText(rawUrl, timeoutMs) {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), timeoutMs || 10000);
-    try {
-      const res = await fetch(normalizeUrl(rawUrl), { signal: controller.signal, cache: 'no-cache' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      return await res.text();
-    } finally {
-      clearTimeout(timer);
-    }
-  }
-
-  global.RulesIO = { rulesToCsv, parseCsv, parseRulesCsv, normalizeUrl, gistPageUrl, fetchText };
+  global.RulesIO = { rulesToCsv, parseCsv, parseRulesCsv };
 })(window);

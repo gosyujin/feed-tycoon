@@ -84,7 +84,6 @@
       <p id="hint-import" class="hint" hidden>
         対象は下の「ミュート設定」で選択中のリストです。<br>
         CSV形式(1行目ヘッダー任意): <code>type,value</code> / type は <span id="type-list"></span> のいずれか。<br>
-        URL から取り込む場合は Gist の Raw URL を指定します(Secret Gist なら認証なしで取得できます)。設定したURLは起動時に自動で取り込みます。
       </p>
       <p class="import-target">対象: <strong id="import-kind-current">ミュート</strong></p>
       <div class="import-export-row">
@@ -93,11 +92,6 @@
         <button id="export-btn" type="button" class="btn btn--small">CSVエクスポート</button>
       </div>
       <textarea id="export-text" class="export-text" readonly hidden></textarea>
-      <form id="import-url-form" class="import-url-form">
-        <input id="import-url-input" type="url" placeholder="https://gist.githubusercontent.com/.../raw/filters.csv" autocomplete="off">
-        <button type="submit" class="btn btn--small">Gistから取得</button>
-        <a id="import-gist-link" class="btn btn--small" target="_blank" rel="noopener noreferrer" title="Gistページを開く" aria-label="Gistページを開く" hidden>↗</a>
-      </form>
       <div class="import-export-row">
         <label class="btn btn--small file-label">
           CSVインポート
@@ -105,6 +99,37 @@
         </label>
       </div>
       <p id="import-status" class="status"></p>
+    </section>
+
+    <section class="modal-section token-section">
+      <h3>GitHubトークン(Gist用)<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-token" aria-label="説明を表示">?</button></h3>
+      <p id="hint-token" class="hint" hidden>
+        Gistへの書き込み用トークンです(classic PATの<code>gist</code>スコープ。fine-grained PATはGist非対応)。
+        空のままの端末は読み取り専用になります(Gistの取り込みだけ。読み取りにトークンは不要)。
+        トークンはこの端末のlocalStorageに保存されます。
+      </p>
+      <div class="gist-row">
+        <input id="gist-token-input" type="password" placeholder="トークン(読み取り専用なら空)" autocomplete="off">
+      </div>
+    </section>
+
+    <section class="modal-section sync-section">
+      <h3>フィルタの同期(Gist・3種まとめて)<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-filter-sync" aria-label="説明を表示">?</button></h3>
+      <p id="hint-filter-sync" class="hint" hidden>
+        ミュート・ミュート解除・強制ミュートをシークレットGistに保存して端末間・hateb-tycoonと共有します。
+        Gist ID(またはGistのURL)だけ入力してください。同期はリモートとローカルの和集合で、削除は同期されません(消すときはGist側のCSVを編集)。
+        起動時は取り込みだけ行い、書き込みは「保存して同期」のときだけです(上のトークンが必要)。<br>
+        <strong>読み書きする端末</strong>: トークンを入力。Gist IDが空なら「Gistを作成」で新規作成できます。
+      </p>
+      <div class="gist-row">
+        <input id="filter-gist-input" type="text" placeholder="Gist ID または URL" autocomplete="off">
+        <a id="filter-gist-link" class="btn btn--small" target="_blank" rel="noopener noreferrer" title="Gistページを開く" aria-label="Gistページを開く" hidden>↗</a>
+      </div>
+      <div class="import-export-row">
+        <button id="filter-sync-save-btn" type="button" class="btn btn--small">保存して同期</button>
+        <button id="filter-sync-create-btn" type="button" class="btn btn--small">Gistを作成</button>
+      </div>
+      <p id="filter-sync-status" class="status"></p>
     </section>
 
     <section class="modal-section mute-settings">
@@ -136,6 +161,8 @@
 <script src="js/filters.js"></script>
 <script src="js/rules-io.js"></script>
 <script src="js/visited.js"></script>
+<script src="js/gist.js"></script>
+<script src="js/filter-sync.js"></script>
 <script src="js/hatena-api.js"></script>
 <script src="js/app.js"></script>
 </body>

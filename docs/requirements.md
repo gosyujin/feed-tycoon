@@ -89,7 +89,7 @@ hateb-tycoon の `js/filters.js` を流用元とする。
 - 重複判定は type + value(大文字小文字を無視)。常に `type`、`value` の昇順でソートして保存する。
 - 保存先は `localStorage`(キー: `feed-tycoon:mute` / `:unmute` / `:forceMute`)。`loadRules` / `saveRules` の 2 か所に閉じ込める。
 - CSV import / export(`type,value`、ヘッダー任意。1 行でも不正なら全体を取り込まない)。
-- Gist の Raw URL からのインポート(`gist.github.com/.../raw/...` は `gist.githubusercontent.com` へ自動変換)。起動時の自動インポートで、最大 3 秒待ち、失敗しても通常起動する。Private(Secret)Gist を端末間同期に使う。
+- Gist 同期: シークレット Gist の Gist ID だけを設定し、`tycoon-filter-<kind>.csv` で mute / unmute / forceMute を端末間・hateb-tycoon と共有する(仕様は hateb-tycoon の `docs/gist-sync-spec.md`)。「保存して同期」で取り込み+和集合で上書き、起動時は取り込みのみ(ETag・最大 3 秒待ち・失敗しても通常起動)。未対応 type の行は取り込まず、上書き時に書き戻す。
 - 件数の可視化(例: `120 件を表示中(フィルタ30件を非表示)`)。
 
 ### 変更する仕様
