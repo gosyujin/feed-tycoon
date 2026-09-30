@@ -102,6 +102,34 @@ class MergePruneTest(unittest.TestCase):
         ff.ET.fromstring(xml)
 
 
+class SourcesTest(unittest.TestCase):
+    def test_normalize_source_defaults_and_validation(self):
+        ok = ff.normalize_source({"id": "jpcert", "url": "https://www.jpcert.or.jp/rss/jpcert.rdf"})
+        self.assertEqual(ok["name"], "www.jpcert.or.jp")
+        self.assertEqual(ok["tags"], [])
+        for bad in (
+            {"id": "a", "url": "file:///etc/passwd"},
+            {"id": "a", "url": "http://localhost/feed"},
+            {"id": "a", "url": "http://169.254.169.254/latest"},
+            {"id": "a", "url": "http://10.0.0.1/feed"},
+            {"id": "", "url": "https://example.com/feed"},
+            {"id": "a"},
+            "not a dict",
+        ):
+            self.assertIsNone(ff.normalize_source(bad), bad)
+
+    def test_normalize_sources_drops_invalid_and_duplicate_ids(self):
+        result = ff.normalize_sources(
+            [
+                {"id": "a", "url": "https://example.com/1"},
+                {"id": "a", "url": "https://example.com/2"},
+                {"id": "b", "url": "ftp://example.com/3"},
+            ]
+        )
+        self.assertEqual([s["url"] for s in result], ["https://example.com/1"])
+        self.assertEqual(ff.normalize_sources(None), [])
+
+
 class BookmarkTest(unittest.TestCase):
     def test_entry_url(self):
         self.assertEqual(ff.hatena_entry_url("https://example.com/a?b=1"), "https://b.hatena.ne.jp/entry/s/example.com/a?b=1")

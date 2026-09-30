@@ -13,8 +13,8 @@
 
 ```
 feed-tycoon/
-├── sources.json                # 取得元の定義(id / name / type / url / tags)
-├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV, gist.js / filter-sync.js: Gist同期, visited.js: 既読, hatena-api.js: コメント取得, app.js: 画面)
+├── sources.json                # 取得元の初期値・フォールバック(id / name / type / url / tags)。通常は Gist で管理
+├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV, gist.js / filter-sync.js: Gist同期, sources-sync.js: 取得元一覧, visited.js: 既読, hatena-api.js: コメント取得, app.js: 画面)
 ├── service-worker.js           # オフライン対応(アプリ本体と data/*.json をキャッシュ)
 ├── data/                       # Actions が更新する生成物(feed.json, feed.xml, meta.json)
 ├── scripts/
@@ -29,7 +29,7 @@ feed-tycoon/
 
 ## 使い方
 
-- 取得元は `sources.json` の `sources` に足す(RSS 2.0 / RSS 1.0 / Atom は自動判別)。`name` は `source`、`tags` は `tag` フィルタの対象になる。
+- 取得元(RSS 2.0 / RSS 1.0 / Atom は自動判別)は、設定画面(⚙)の「取得元」で URL を追加・削除する。`name` は `source`、`tags` は `tag` フィルタの対象になる。一覧の保存先と初回設定は「技術的な注意点」の取得元の項を参照。
 - ローカルで取得: `python3 scripts/fetch_feeds.py`
 - ローカルで確認: `python3 -m http.server` で配信して `index.html` を開く(`file://` では `fetch` が使えない)。ブラウザやサーバーが静的ファイルをキャッシュすることがあるので、古い表示が出たら別ポートで起動し直す。
 - テスト: `python3 -m unittest discover -s tests`
@@ -43,6 +43,11 @@ feed-tycoon/
 - 並びは `firstSeenAt` 基準、同時刻なら `publishedAt`。新規取り込み時に `publishedAt` が保持期間より古い記事は捨てる。
 - ETag / Last-Modified を `data/meta.json` に保存し、次回は条件付きで取得する(304 なら既存を維持)。
 - 取得に失敗したソースは既存データを維持し、`meta.json` に `ok: false` を記録する(画面のフッターに表示)。0 件だった場合は Actions のログに警告が出る。全ソース失敗時のみ Actions を失敗させる。
+- **取得元一覧は Gist(`feed-tycoon-sources.json`)で管理する。** フィルタと同じ Gist に置き、設定画面の「取得元」が読み書きする(書き込みにはトークンが必要)。取得は Actions が行うので、Actions の変数 `FEED_GIST_ID`(Settings > Secrets and variables > Actions > Variables)に同じ Gist ID を登録しておく。リポジトリは public なので、ID をファイルには書かない。
+  - `fetch_feeds.py` の読み込み順は、Gist > 前回 Gist から読めた一覧(`data/sources-resolved.json`)> `sources.json`。Gist が一時的に読めなくても、追加したフィードとその記事を落とさないため。Gist にファイルがまだ無い間は `sources.json` を使う(設定画面もこの一覧を初期値として出し、最初の追加・削除で Gist に書き込む)。
+  - フィルタ CSV と違い和集合ではなく、保存のたびに Gist を読み直して変更し上書きする(削除も同期するため)。同時編集は後勝ち。
+  - 反映は次回の取得から(最大 30 分ほど)。画面には `meta.json` にまだ無いフィードを「反映待ち」と出す。タブは記事から動的に作るので、増減に自動で追随する(追加直後は記事が入るまでタブが出ない)。取得元を消すとその記事も次回の更新で消える。
+  - 取得側は http(s) 以外、localhost・IP アドレス・`.local` 宛の URL を拒否する(`normalize_source`。ビューア側の `parseFeedUrl` も同条件)。id は URL から自動採番。名前や URL が変わったソースは ETag を捨てて取り直す。
 - フィルタの種別(`title` / `domain` / `url` / `source` / `tag` / `description`)は `js/filters.js` の `TYPE_LABELS` が唯一の定義。増やすときは `matchRule` の `case` も足す。UI・CSV の検証は自動で追随する。
 - CSV(`type,value`)は hateb-tycoon と共通。自アプリが持たない `type` の行は、エラーにせず無視する(取り込み結果に「未対応の種別N件は無視」と出す)。value が空・列数不正の行があると、その CSV は全体を取り込まない。
 - フィルタは**シークレット Gist で端末間・hateb-tycoon と共有**する(仕様は hateb-tycoon の `docs/gist-sync-spec.md`)。設定するのは Gist ID(URL でも可)だけ。1 つの Gist に `tycoon-filter-<kind>.csv`(mute / unmute / forceMute、アプリ名は含めない)を置く。実装は `js/gist.js`(API・トークン)と `js/filter-sync.js`(同期)。

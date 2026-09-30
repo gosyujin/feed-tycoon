@@ -659,6 +659,7 @@
     state.editingId = null;
     $('settings-modal').hidden = false;
     renderSettings();
+    refreshSources();
     // 直前のプリセットが残らないよう、歯車から開き直したときは既定(先頭の種別・空)に戻す。
     $('rule-type').value = type || Filters.TYPES[0];
     $('rule-value').value = value !== undefined ? value : '';
@@ -923,6 +924,83 @@
     });
 
     bindFilterSync();
+    bindSources();
+  }
+
+  // ---- 取得元(フィード)の管理(Gist) ----
+
+  function setSourceStatus(message) {
+    $('source-status').textContent = message;
+  }
+
+  function renderSourceList(sources) {
+    const canEdit = !!Gist.getToken();
+    const fetched = (state.meta && state.meta.sources) || {};
+    $('source-list').replaceChildren(
+      ...sources.map((s) =>
+        el(
+          'li',
+          { class: 'rule-row' },
+          el('span', { class: 'rule-type', text: s.name }),
+          el('span', { class: 'rule-value', title: s.url, text: s.url }),
+          state.meta && !fetched[s.id] ? el('span', { class: 'rule-type', text: '反映待ち' }) : null,
+          canEdit ? el('button', { type: 'button', class: 'btn btn--small', onclick: () => changeSources((list) => list.filter((x) => x.id !== s.id), `「${s.name}」を削除しました`) }, '削除') : null
+        )
+      )
+    );
+  }
+
+  // 取得元一覧を読み直して表示する(設定画面を開いたとき)。
+  async function refreshSources() {
+    const gistId = FilterSync.getConfig().gistId;
+    const canEdit = !!gistId && !!Gist.getToken();
+    $('source-form').hidden = !canEdit;
+    $('source-list').replaceChildren();
+    if (!gistId) {
+      setSourceStatus('Gist IDを設定すると管理できます(下の「フィルタの同期」)');
+      return;
+    }
+    setSourceStatus('読み込み中…');
+    try {
+      const { sources } = await SourcesSync.load(gistId);
+      renderSourceList(sources);
+      setSourceStatus(canEdit ? `${sources.length}件` : `${sources.length}件(追加・削除にはトークンが必要です)`);
+    } catch (err) {
+      setSourceStatus(`読み込みに失敗: ${err.message}`);
+    }
+  }
+
+  // 読み直し → change(list) で変更 → 保存。別端末での変更を巻き戻さないよう、毎回Gistから読む。
+  async function changeSources(change, doneMessage) {
+    const gistId = FilterSync.getConfig().gistId;
+    setSourceStatus('保存中…');
+    try {
+      const { sources } = await SourcesSync.load(gistId);
+      const next = change(sources);
+      await SourcesSync.save(gistId, next);
+      renderSourceList(next);
+      setSourceStatus(`${doneMessage}(${next.length}件)。反映は次回の更新からです`);
+      return true;
+    } catch (err) {
+      setSourceStatus(`失敗: ${err.message}`);
+      return false;
+    }
+  }
+
+  function bindSources() {
+    $('source-form').addEventListener('submit', async (e) => {
+      e.preventDefault();
+      let added = null;
+      const ok = await changeSources((list) => {
+        added = SourcesSync.buildSource(list, $('source-url').value, $('source-name').value);
+        return [...list, added];
+      }, 'x');
+      if (ok) {
+        setSourceStatus(`「${added.name}」を追加しました。反映は次回の更新からです`);
+        $('source-url').value = '';
+        $('source-name').value = '';
+      }
+    });
   }
 
   // ---- フィルタの同期(Gist) ----
@@ -965,6 +1043,7 @@
     tokenInput.addEventListener('change', () => {
       Gist.setToken(tokenInput.value);
       renderFilterSyncStatus();
+      refreshSources();
     });
     gistInput.addEventListener('input', () => refreshGistLink(Gist.parseGistId(gistInput.value)));
 
@@ -976,6 +1055,7 @@
         onRulesChanged();
         refreshFilterSyncFields();
         $('filter-sync-status').textContent += ` / ${describeFilterSyncResult(result)}`;
+        refreshSources();
       } catch (err) {
         renderFilterSyncStatus();
         $('filter-sync-status').textContent = `失敗: ${err.message}`;

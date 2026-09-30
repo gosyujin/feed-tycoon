@@ -25,6 +25,7 @@ const SHELL_FILES = [
   'js/visited.js',
   'js/gist.js',
   'js/filter-sync.js',
+  'js/sources-sync.js',
   'js/hatena-api.js',
   'js/app.js',
 ];

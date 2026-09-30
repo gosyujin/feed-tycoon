@@ -51,6 +51,8 @@ Pages: index.html(data/feed.json を読んで表示。フィルタは localStora
 | `tags` | ラベルの配列。フィルタの `tag` 対象になる |
 | `selectors` | `html` 型のみ。記事リンク・タイトルのセレクタ |
 
+取得元は設定画面から自由に追加・削除できる。一覧はフィルタと同じ Gist の `feed-tycoon-sources.json` に置き、Actions の変数 `FEED_GIST_ID` で取得側に渡す。`sources.json` は初期値兼フォールバック(詳細は README)。以下は `sources.json` の形式(Gist のファイルも同じ `sources` 配列)。
+
 ファイル形式は、標準ライブラリだけで読めるよう YAML/TOML ではなく JSON にした(手元の Python 3.9 に `tomllib` が無く、YAML パーサも標準に無いため)。コメントは `note` フィールドで代用する。
 
 RSS のないサイトは、CSS セレクタ方式で自前抽出する(feed43 の代替)。標準ライブラリの `html.parser` には CSS セレクタが無いため、実装時に方式を決める。
@@ -133,7 +135,8 @@ hateb-tycoon の `js/filters.js` を流用元とする。
 5. ✅ RSS ソース(Publickey / はてブ IT / Zenn トレンド / Qiita トレンド)
 6. ⬜ `html` 型(セレクタ抽出)ソース
 7. ✅ ブックマークページ(はてなブックマークのコメント一覧)、一覧の自動継ぎ足し、Service Worker によるオフライン対応、hateb-tycoon 形式のフッター
-8. ⬜ 記事の要約(下記「検討中」)
+8. ✅ 取得元の追加・削除(設定画面、Gist 同期)
+9. ⬜ 記事の要約(下記「検討中」)
 
 ## 検討中
 

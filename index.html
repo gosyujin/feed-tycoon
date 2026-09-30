@@ -132,6 +132,22 @@
       <p id="import-status" class="status"></p>
     </section>
 
+    <section class="modal-section sources-section">
+      <h3>取得元(フィード)<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-sources" aria-label="説明を表示">?</button></h3>
+      <p id="hint-sources" class="hint" hidden>
+        RSS / Atom のURLを追加・削除できます。一覧は上の「フィルタの同期」と同じGistの<code>feed-tycoon-sources.json</code>に保存され、
+        追加・削除にはトークンが必要です(Gist IDも必須)。取得はGitHub Actionsが行うため、反映は次回の更新(最大30分ほど)になります。
+        取得元を消すと、その記事も次回の更新で一覧から消えます。
+      </p>
+      <form id="source-form" class="rule-form">
+        <input id="source-url" type="url" placeholder="フィードのURL(例: https://www.jpcert.or.jp/rss/jpcert.rdf)" autocomplete="off" required>
+        <input id="source-name" type="text" placeholder="表示名(省略可)" autocomplete="off">
+        <button type="submit" class="btn">追加</button>
+      </form>
+      <p id="source-status" class="status"></p>
+      <ul id="source-list" class="rule-list"></ul>
+    </section>
+
     <section class="modal-section mute-settings">
       <h3>ミュート設定<button type="button" class="help-btn" aria-expanded="false" aria-controls="hint-mute" aria-label="説明を表示">?</button></h3>
       <nav id="settings-tabs" class="tabs"></nav>
@@ -163,6 +179,7 @@
 <script src="js/visited.js"></script>
 <script src="js/gist.js"></script>
 <script src="js/filter-sync.js"></script>
+<script src="js/sources-sync.js"></script>
 <script src="js/hatena-api.js"></script>
 <script src="js/app.js"></script>
 </body>
