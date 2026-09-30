@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-09-30T10:00:13.651260+09:00</updated>
+  <updated>2026-09-30T10:30:14.155716+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>セキュリティエンジニア視点のKubernetes環境の攻撃面と対策 - GMO Flatt Security Blog</title>
+    <id>https://blog.flatt.tech/entry/kubernetes-attack-surface</id>
+    <link href="https://blog.flatt.tech/entry/kubernetes-attack-surface" />
+    <updated>2026-09-30T09:23:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは。GMO Flatt Security株式会社 セキュリティエンジニアのてぃー(@k1rnt)と、@ei01241です。 Kubernetes(k8s)は、いまやコンテナオーケストレーションのデファクトスタンダードです。多くの企業がEKS、GKE、AKSといったマネージドサービスを利用してプロダクション環境を運用しています。 一方で、Kub...</summary>
+  </entry>
+  <entry>
+    <title>ドラッグ＆ドロップ操作ミスで……TOPPAN、損保ジャパン契約者17万人分のデータを他社に誤送付</title>
+    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001870/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001870/" />
+    <updated>2026-09-30T08:54:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>誤送付されたデータは、カナ氏名と、保険料控除用証券番号、業務IDの3項目。証券番号は損保ジャパン固有の識別番号で、第三者がこの番号だけで個人や契約内容を特定・照会できない。業務IDは、控除証明書の発行年、損害保険会社の識別番号、対象契約の証券番号を組み合わせた、証明書単位のユニークキー。 漢字氏名や住...</summary>
+  </entry>
+  <entry>
+    <title>【特集】 画面割れMacや余剰PCで動く！Hermes Agentで始める“格安”箱庭AIエージェント</title>
+    <id>https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2144262.html" />
+    <updated>2026-09-30T06:15:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【特集】 画面割れMacや余剰PCで動く！Hermes Agentで始める“格安”箱庭AIエージェント</summary>
+  </entry>
+  <entry>
+    <title>Building a certificate authority for the whole Internet</title>
+    <id>https://blog.cloudflare.com/cloudflare-certificate-authority/</id>
+    <link href="https://blog.cloudflare.com/cloudflare-certificate-authority/" />
+    <updated>2026-09-30T01:13:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>September 29, 2026Building a certificate authority for the whole Internet Twelve years ago, during Birthday Week 2014, we turned on Universal SSL and nearly doubled the number of encrypted sites on th…</summary>
+  </entry>
   <entry>
     <title>タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」</title>
     <id>https://togetter.com/li/2752131</id>
@@ -773,37 +805,5 @@
     <updated>2026-09-28T20:26:30+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>個人開発のMinecraft監視アプリに負荷試験をしてみた ― 読み取り専用のAPIが、実は毎回DBへ書き込んでいた 前回の記事の最後で、「負荷や長時間稼働に対する挙動は、自動では見ていません」と書きました。個人開発しているMinecraftサーバー監視アプリ「MineW...</summary>
-  </entry>
-  <entry>
-    <title>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話</title>
-    <id>https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jqit-yukiono/items/8d17257a9778a086c7cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T20:26:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Argo RolloutsのBlue-Greenは「2つの環境の交代」じゃなかった ― 名前に引きずられて誤解していた話 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）の本番環境は、Argo Rollout...</summary>
-  </entry>
-  <entry>
-    <title>GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体</title>
-    <id>https://qiita.com/jqit-yukiono/items/efc0e2b10bb1aa0a3792?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jqit-yukiono/items/efc0e2b10bb1aa0a3792?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T20:26:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>GitHub Actionsの自動マージが、次のworkflowを起動しない ― 2ヶ月「直っていない」と思い込んでいたバグの正体 前回の記事で、個人開発のMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）のPRを、AIレビュ...</summary>
-  </entry>
-  <entry>
-    <title>「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話</title>
-    <id>https://qiita.com/jqit-yukiono/items/050ba069630b6d2b17da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jqit-yukiono/items/050ba069630b6d2b17da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T20:26:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「別々のアプリが似た症状で落ちる」を手がかりに、NFS越しのSonarQube・Nexus・Jenkinsが繰り返しクラッシュする原因を追った話 自宅のProxmox上に構築したKubernetesクラスタで、CI/CD基盤（Jenkins、パッケージミラーのNexus、...</summary>
-  </entry>
-  <entry>
-    <title>「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか</title>
-    <id>https://qiita.com/jqit-yukiono/items/1bf18c5f749d05d8c2ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jqit-yukiono/items/1bf18c5f749d05d8c2ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-28T20:26:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「見るだけ」から「操作できる」へ ― MinecraftサーバーへのRCON実行を、個人開発でどう安全に作ったか 個人開発しているMinecraftサーバー監視アプリ「MineWatch」（公式サイト、アプリの全体像はこちら）は、当初は「見るだけ」の読み取り専用の監視アプ...</summary>
   </entry>
 </feed>
