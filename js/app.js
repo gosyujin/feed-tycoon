@@ -28,7 +28,6 @@
     query: '',
     entryQuery: '',
     hideRead: readStorage(KEYS.hideRead) === '1',
-    showHidden: false,
     previousVisit: Number(readStorage(KEYS.lastVisit)) || 0,
     loadedAt: 0,
     settingsKind: 'mute',
@@ -52,6 +51,7 @@
   const $ = (id) => document.getElementById(id);
   let scrollObserver = null;
   let offlineCachingInProgress = false;
+  let tabsResizeTimer = null;
 
   function readStorage(key) {
     try {
@@ -157,7 +157,10 @@
     render();
     renderFooter();
     // ブックマークページを直接開いた場合、一覧データが揃ってから概要(RSS の description)を出す。
-    if (state.view === 'entry') applyEntryContext();
+    if (state.view === 'entry') {
+      applyEntryContext();
+      updateEntryNavButtons();
+    }
   }
 
   // ---------------------------------------------------------------- 一覧
@@ -182,7 +185,7 @@
       if (state.activeSource && entry.sourceId !== state.activeSource) continue;
       if (!matchesQuery(entry)) continue;
       if (verdict.hidden) {
-        filtered.push({ entry, verdict });
+        filtered.push(entry);
       } else if (state.hideRead && Visited.isRead(entry.url)) {
         readHidden++;
       } else {
@@ -202,6 +205,8 @@
         {
           type: 'button',
           class: 'tab' + (state.activeSource === id ? ' tab--active' : ''),
+          'data-label': label,
+          'data-count': count,
           onclick: () => {
             state.activeSource = id;
             resetAndRender();
@@ -213,10 +218,60 @@
     const seen = new Map();
     state.entries.forEach((e) => seen.set(e.sourceId, e.source));
     seen.forEach((name, id) => nav.append(tab(id, name, sourceCounts.get(id) || 0)));
+    fitSourceTabs();
+  }
+
+  // タブは常に 1 行に収める。各タブのラベルを実測しながら、「最低 2 文字は残し、はみ出す分だけ
+  // 一番長いラベルから 1 文字ずつ削る」方式で必要最小限に省略する(それでも収まらなければ件数も外す)。hateb-tycoon と同じ方式。
+  function fitSourceTabs() {
+    const nav = $('source-tabs');
+    const buttons = Array.from(nav.querySelectorAll('.tab'));
+    if (buttons.length === 0) return;
+    let withCount = true;
+    const setText = (btn, label) => {
+      btn.textContent = withCount ? `${label} (${btn.dataset.count})` : label;
+    };
+    buttons.forEach((btn) => setText(btn, btn.dataset.label));
+
+    const available = nav.clientWidth;
+    if (!available) return;
+
+    const GAP = 6;
+    const MIN_CHARS = 2;
+    const totalWidth = () => buttons.reduce((sum, btn) => sum + btn.getBoundingClientRect().width, 0) + GAP * (buttons.length - 1);
+    // 現在表示中のラベル(省略済みなら末尾の「…」を除いた長さ)
+    const shown = new Map(buttons.map((btn) => [btn, btn.dataset.label]));
+
+    let guard = 300;
+    while (totalWidth() > available && guard-- > 0) {
+      let target = null;
+      let maxLen = MIN_CHARS;
+      for (const btn of buttons) {
+        const len = shown.get(btn).replace(/…$/, '').length;
+        if (len > maxLen) {
+          maxLen = len;
+          target = btn;
+        }
+      }
+      if (!target) {
+        // 2 文字まで削っても収まらないときの最終手段として、件数も外す(件数はステータス行に出る)。
+        if (!withCount) break;
+        withCount = false;
+        buttons.forEach((btn) => {
+          shown.set(btn, btn.dataset.label);
+          setText(btn, btn.dataset.label);
+        });
+        continue;
+      }
+      const base = shown.get(target).replace(/…$/, '');
+      const next = `${base.slice(0, -1)}…`;
+      shown.set(target, next);
+      setText(target, next);
+    }
   }
 
   function renderCard(item) {
-    const { entry, verdict } = item;
+    const { entry } = item;
     const isNew = state.previousVisit > 0 && Date.parse(entry.firstSeenAt) > state.previousVisit;
     const read = Visited.isRead(entry.url);
     const link = el('a', {
@@ -248,30 +303,28 @@
       // 自前のブックマークページへの内部リンク。b.hatena.ne.jp を href に持つ <a> は、
       // iPhone Safari のコンテンツブロッカーに隠される(README 参照)ので、外部リンクにはしない。
       entry.bookmarkUrl
-        ? el('a', { class: 'bm-count', href: entryHref(entry.url), text: `${entry.bookmarkCount || 0} users →` })
+        ? el('a', { class: 'bm-count', href: entryHref(entry.url), text: `${entry.bookmarkCount || 0} users` })
         : null,
       (entry.tags || []).map((t) => el('span', { class: 'tag', text: t }))
     );
 
     const card = el(
       'article',
-      { class: 'entry' + (read ? ' entry--read' : '') + (verdict ? ' entry--hidden' : '') },
+      { class: 'entry' + (read ? ' entry--read' : '') },
       link,
       meta,
       entry.description ? el('a', { class: 'entry-desc', href: entryHref(entry.url), text: entry.description }) : null,
-      verdict
-        ? el('p', { class: 'entry-reason', text: `${Filters.KIND_LABELS[verdict.kind]}: ${Filters.TYPE_LABELS[verdict.rule.type]}「${verdict.rule.value}」に一致` })
-        : el('button', {
-            type: 'button',
-            class: 'btn btn--x',
-            title: 'この記事をミュート',
-            'aria-label': 'この記事をミュート',
-            onclick: () => {
-              Filters.addRule('mute', 'url', entry.url);
-              render();
-            },
-            text: '×',
-          })
+      el('button', {
+        type: 'button',
+        class: 'btn btn--x',
+        title: 'この記事をミュート',
+        'aria-label': 'この記事をミュート',
+        onclick: () => {
+          Filters.addRule('mute', 'url', entry.url);
+          render();
+        },
+        text: '×',
+      })
     );
     return card;
   }
@@ -327,12 +380,12 @@
     renderSourceTabs(sourceCounts);
 
     const keep = Math.max(state.renderedCount, PAGE_SIZE);
-    state.items = state.showHidden ? filtered : visible;
+    state.items = visible;
     state.renderedCount = 0;
     const list = $('entry-list');
     list.replaceChildren();
     if (state.items.length === 0) {
-      list.append(el('p', { class: 'empty', text: state.showHidden ? 'フィルタで隠れた記事はありません' : '表示する記事がありません' }));
+      list.append(el('p', { class: 'empty', text: '表示する記事がありません' }));
     } else {
       setupScrollObserver();
       while (state.renderedCount < Math.min(keep, state.items.length)) renderNextPage();
@@ -341,13 +394,7 @@
     const parts = [];
     if (filtered.length) parts.push(`フィルタ${filtered.length}件`);
     if (readHidden) parts.push(`既読${readHidden}件`);
-    $('list-status').textContent = state.showHidden
-      ? `フィルタで隠れた ${filtered.length} 件を表示中`
-      : `${visible.length} 件を表示中` + (parts.length ? `(${parts.join('・')}を非表示)` : '');
-
-    const btn = $('show-hidden-btn');
-    btn.hidden = filtered.length === 0 && !state.showHidden;
-    btn.textContent = state.showHidden ? '通常表示に戻る' : '隠した記事を見る';
+    $('list-status').textContent = `${visible.length} 件を表示中` + (parts.length ? `(${parts.join('・')}を非表示)` : '');
   }
 
   // 一覧の絞り込み・切り替えが変わったときは、先頭から継ぎ足し直す。
@@ -478,6 +525,27 @@
     });
   }
 
+  // 前後の記事は、一覧(取得元タブ・検索・既読非表示を適用済みの state.items)の並びで数える。
+  // その場でフィルタに登録した記事は state.items からすぐには消えないため、都度 isHidden で判定して読み飛ばす。
+  function findRelativeEntryIndex(url, delta) {
+    if (!url) return -1;
+    const index = state.items.findIndex((item) => item.entry.url === url);
+    if (index === -1) return -1;
+    let next = index + delta;
+    while (next >= 0 && next < state.items.length && Filters.isHidden(state.items[next].entry)) next += delta;
+    return next >= 0 && next < state.items.length ? next : -1;
+  }
+
+  function updateEntryNavButtons() {
+    $('entry-prev-btn').disabled = findRelativeEntryIndex(state.entryUrl, -1) === -1;
+    $('entry-next-btn').disabled = findRelativeEntryIndex(state.entryUrl, 1) === -1;
+  }
+
+  function goToRelativeEntry(delta) {
+    const index = findRelativeEntryIndex(state.entryUrl, delta);
+    if (index !== -1) location.hash = entryHref(state.items[index].entry.url);
+  }
+
   function resetFilterButton() {
     const btn = $('entry-filter-btn');
     btn.textContent = 'このページをフィルタに登録する';
@@ -496,6 +564,7 @@
     updateLayoutToggleUI();
     resetFilterButton();
     applyEntryContext();
+    updateEntryNavButtons();
     if (!url) {
       $('bm-status').textContent = 'URLが指定されていません。';
       return;
@@ -680,17 +749,16 @@
 
   // ---- オフライン用キャッシュ ----
 
-  async function runOfflineCache() {
+  // 設定モーダル内のボタンとヘッダーのクイックボタンの両方から呼ばれるため、進捗の表示先(setStatus)だけ差し替える。
+  async function runOfflineCache(setStatus) {
     const input = $('offline-cache-count');
     const requested = Math.floor(Number(input.value));
     const count = Number.isFinite(requested) ? Math.min(Math.max(requested, 1), 200) : 50;
     input.value = count;
-    const setStatus = (text) => {
-      $('offline-cache-status').textContent = text;
-    };
 
     offlineCachingInProgress = true;
     $('offline-cache-btn').disabled = true;
+    $('offline-cache-quick-btn').disabled = true;
     const targets = state.entries.filter((e) => !Filters.isHidden(e)).slice(0, count);
 
     let success = 0;
@@ -712,6 +780,7 @@
           : `${success}件をキャッシュしました`
     );
     $('offline-cache-btn').disabled = false;
+    $('offline-cache-quick-btn').disabled = false;
     offlineCachingInProgress = false;
   }
 
@@ -722,7 +791,28 @@
       if (e.target === $('settings-modal')) closeSettings();
     });
     $('offline-cache-btn').addEventListener('click', () => {
-      if (!offlineCachingInProgress) runOfflineCache();
+      if (offlineCachingInProgress) return;
+      runOfflineCache((text) => {
+        $('offline-cache-status').textContent = text;
+      });
+    });
+
+    // ヘッダーのクイックボタンは、実行中でなく既にポップオーバーが開いている場合(前回の結果を表示したまま)は閉じるだけのトグルにする。
+    const popover = $('offline-cache-popover');
+    $('offline-cache-quick-btn').addEventListener('click', () => {
+      if (!offlineCachingInProgress && !popover.hidden) {
+        popover.hidden = true;
+        return;
+      }
+      popover.hidden = false;
+      if (offlineCachingInProgress) return;
+      runOfflineCache((text) => {
+        $('offline-cache-popover-status').textContent = text;
+      });
+    });
+    document.addEventListener('click', (e) => {
+      if (popover.hidden || $('offline-cache-quick').contains(e.target)) return;
+      popover.hidden = true;
     });
 
     $('settings-form').addEventListener('submit', (e) => {
@@ -820,16 +910,14 @@
       writeStorage(KEYS.hideRead, state.hideRead ? '1' : '0');
       resetAndRender();
     });
-    $('show-hidden-btn').addEventListener('click', () => {
-      state.showHidden = !state.showHidden;
-      resetAndRender();
-    });
 
     const goToList = () => {
       location.hash = '#/';
     };
     $('entry-back').addEventListener('click', goToList);
     $('entry-back-bottom').addEventListener('click', goToList);
+    $('entry-prev-btn').addEventListener('click', () => goToRelativeEntry(-1));
+    $('entry-next-btn').addEventListener('click', () => goToRelativeEntry(1));
     $('entry-filter-btn').addEventListener('click', () => {
       if (!state.entryUrl) return;
       Filters.addRule('mute', 'url', state.entryUrl);
@@ -853,6 +941,10 @@
     });
 
     window.addEventListener('hashchange', showRoute);
+    window.addEventListener('resize', () => {
+      clearTimeout(tabsResizeTimer);
+      tabsResizeTimer = setTimeout(fitSourceTabs, 150);
+    });
     // ページが前面に戻ったとき、しばらく経っていれば最新を読み直す(push の代わり)。
     document.addEventListener('visibilitychange', () => {
       if (document.visibilityState === 'visible' && Date.now() - state.loadedAt > REFRESH_AFTER_MS) loadData();

@@ -51,10 +51,11 @@ input, select, textarea { font-size: 16px; }
   border-bottom: 1px solid var(--border);
 }
 
-.app-title { margin: 0; font-size: 18px; white-space: nowrap; }
+.app-title { margin: 0; font-size: 1.25rem; white-space: nowrap; flex-shrink: 0; }
+.app-title a { color: var(--text); text-decoration: none; }
 .header-search { flex: 1; min-width: 0; padding: 6px 10px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: inherit; }
 
-main { max-width: 860px; margin: 0 auto; padding: 12px 16px 24px; }
+main { max-width: 860px; margin: 0 auto; padding: 12px 16px 64px; }
 
 .btn {
   padding: 6px 12px;
@@ -71,7 +72,11 @@ main { max-width: 860px; margin: 0 auto; padding: 12px 16px 24px; }
 .file-label { display: inline-block; }
 .more-btn { display: block; margin: 16px auto 0; }
 
-.tabs { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 8px; }
+.toolbar { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: nowrap; margin-bottom: 8px; }
+/* タブは常に 1 行に収め、はみ出す分は js/app.js の fitSourceTabs() でラベルを省略して調整する。
+   設定モーダル内のタブ(mute / unmute / forceMute)は調整しないため、折り返す。 */
+.tabs { display: flex; flex-wrap: nowrap; gap: 6px; flex: 1 1 auto; min-width: 0; margin: 4px 0 8px; overflow: hidden; }
+#settings-tabs { flex-wrap: wrap; overflow: visible; }
 .tab {
   padding: 3px 10px;
   border: 1px solid var(--border);
@@ -81,6 +86,8 @@ main { max-width: 860px; margin: 0 auto; padding: 12px 16px 24px; }
   font: inherit;
   font-size: 13px;
   cursor: pointer;
+  flex: 0 0 auto;
+  white-space: nowrap;
 }
 .tab--active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
@@ -98,7 +105,6 @@ main { max-width: 860px; margin: 0 auto; padding: 12px 16px 24px; }
   border-radius: 8px;
 }
 .entry--read { opacity: 0.55; }
-.entry--hidden { border-style: dashed; }
 .entry-title { font-weight: 600; text-decoration: none; overflow-wrap: anywhere; }
 .entry-title:hover { text-decoration: underline; }
 .entry-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-top: 2px; color: var(--muted); font-size: 12px; }
@@ -106,7 +112,6 @@ main { max-width: 860px; margin: 0 auto; padding: 12px 16px 24px; }
 .meta-link:hover { color: var(--accent); text-decoration: underline; }
 .entry-desc { display: block; margin: 4px 0 0; color: var(--muted); font-size: 13px; text-decoration: none; overflow-wrap: anywhere; }
 a.entry-desc:hover { color: var(--text, inherit); }
-.entry-reason { margin: 4px 0 0; color: var(--danger); font-size: 12px; }
 a.bm-count { color: var(--danger); font-weight: 600; text-decoration: none; white-space: nowrap; }
 a.bm-count:hover { text-decoration: underline; }
 .badge-new { padding: 0 6px; border-radius: 4px; background: var(--new); color: #fff; font-size: 11px; font-weight: 700; }
@@ -114,7 +119,9 @@ a.bm-count:hover { text-decoration: underline; }
 .btn--x { position: absolute; top: 6px; right: 6px; padding: 0 8px; color: var(--muted); }
 .empty { color: var(--muted); text-align: center; padding: 24px 0; }
 
-.app-footer { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 8px; max-width: 860px; margin: 0 auto; padding: 8px 16px 24px; color: var(--muted); font-size: 12px; }
+/* 右寄せで常に画面下に固定する(hateb-tycoon と同じ)。下のコンテンツを押せるよう、リンク以外は pointer-events: none。 */
+.app-footer { position: fixed; left: 10px; right: 10px; bottom: 8px; text-align: right; font-size: 11px; line-height: 1.4; color: var(--muted); font-family: monospace; overflow-wrap: anywhere; pointer-events: none; }
+.app-footer a { pointer-events: auto; }
 
 .modal { position: fixed; inset: 0; z-index: 20; display: flex; align-items: flex-start; justify-content: center; padding: 24px 12px; overflow-y: auto; background: rgba(0, 0, 0, 0.45); }
 .modal[hidden] { display: none; }
@@ -135,7 +142,8 @@ code { padding: 0 4px; background: var(--bg); border-radius: 4px; }
 .export-text { width: 100%; height: 8em; margin: 4px 0; padding: 6px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: ui-monospace, monospace; line-height: 1.4; }
 
 @media (max-width: 520px) {
-  .app-title { font-size: 16px; }
+  .app-title { font-size: 1.05rem; }
+  .tab { padding: 3px 6px; font-size: 0.72rem; }
   .rule-type { width: 4.5em; }
 }
 
@@ -172,3 +180,14 @@ code { padding: 0 4px; background: var(--bg); border-radius: 4px; }
 .offline-cache-section h3 { margin: 8px 0 4px; font-size: 14px; }
 .offline-cache-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 6px 0; }
 .offline-cache-row input { width: 5em; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: inherit; }
+
+/* ヘッダーのオフライン用キャッシュ(クイックボタン + 進捗のポップオーバー) */
+.offline-cache-quick { position: relative; display: inline-flex; flex-shrink: 0; }
+.offline-cache-popover { position: absolute; top: calc(100% + 6px); right: 0; z-index: 20; width: max-content; max-width: min(260px, calc(100vw - 32px)); padding: 10px 12px; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.18); }
+.offline-cache-popover .status { margin: 0; }
+
+/* ブックマークページ下部のボタン(前後の記事・一覧に戻る)。スマホの片手操作を想定した全幅ボタン */
+.entry-nav-buttons { display: flex; gap: 8px; margin-top: 16px; }
+.entry-nav-btn { flex: 1 1 50%; padding: 14px 8px; font-size: 1rem; text-align: center; }
+.entry-nav-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+#entry-back-bottom { display: block; width: 100%; margin-top: 16px; padding: 14px 8px; font-size: 1rem; text-align: center; }

@@ -103,7 +103,7 @@ hateb-tycoon の `js/filters.js` を流用元とする。
 ### 第一弾に追加する機能
 
 - ルールの編集(削除して再登録しなくてよいようにする)
-- フィルタで隠した記事の一覧表示(何が消えたか分かるようにする)
+- ~~フィルタで隠した記事の一覧表示~~(hateb-tycoon に合わせて画面から外した。件数だけステータス行に出る)
 - 既読の非表示(記事ごとに既読を記録し、既読を隠せるようにする)
 
 ### 見送る機能
@@ -129,7 +129,7 @@ hateb-tycoon の `js/filters.js` を流用元とする。
 1. ✅ `sources.json` と取得スクリプト(`scripts/fetch_feeds.py`)。RSS 2.0 / RSS 1.0 / Atom、ETag・If-Modified-Since、蓄積・プルーニング、`feed.xml` 生成
 2. ✅ Actions(`feed-sync.yml` / `deploy-pages.yml`)とローカル dispatch 用スクリプト
 3. ✅ ビューア(一覧、取得元タブ、検索、NEW バッジ、前面に戻ったときの再読込)
-4. ✅ フィルタ(mute / unmute / forceMute、CSV、Gist 同期)と、編集・隠した記事の一覧・既読の非表示
+4. ✅ フィルタ(mute / unmute / forceMute、CSV、Gist 同期)と、編集・既読の非表示(隠した記事の一覧表示は後に廃止)
 5. ✅ RSS ソース(Publickey / はてブ IT / Zenn トレンド / Qiita トレンド)
 6. ⬜ `html` 型(セレクタ抽出)ソース
 7. ✅ ブックマークページ(はてなブックマークのコメント一覧)、一覧の自動継ぎ足し、Service Worker によるオフライン対応、hateb-tycoon 形式のフッター

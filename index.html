@@ -10,19 +10,26 @@
 <header class="app-header">
   <h1 class="app-title"><a id="app-title-link" href="#/">feed-tycoon</a></h1>
   <input id="header-search" type="search" class="header-search" autocomplete="off">
+  <div id="offline-cache-quick" class="offline-cache-quick">
+    <button id="offline-cache-quick-btn" type="button" class="btn btn--icon" aria-label="オフライン用キャッシュを今すぐ取得" title="オフライン用キャッシュを今すぐ取得">⬇️</button>
+    <div id="offline-cache-popover" class="offline-cache-popover" hidden>
+      <p id="offline-cache-popover-status" class="status"></p>
+    </div>
+  </div>
   <button id="settings-btn" type="button" class="btn btn--icon" aria-label="フィルタ設定" title="フィルタ設定">⚙</button>
 </header>
 
 <main>
   <section id="view-list">
-    <nav id="source-tabs" class="tabs"></nav>
+    <div class="toolbar">
+      <nav id="source-tabs" class="tabs"></nav>
+    </div>
     <div class="list-status-row">
       <p id="list-status" class="status"></p>
       <div class="list-controls">
-        <button id="show-hidden-btn" type="button" class="btn btn--small" hidden></button>
         <label class="visited-toggle">
           <input type="checkbox" id="hide-read-checkbox">
-          既読を隠す
+          既読なら非表示
         </label>
       </div>
     </div>
@@ -44,6 +51,10 @@
       </div>
     </div>
     <ul id="comment-list" class="comment-list"></ul>
+    <div class="entry-nav-buttons">
+      <button id="entry-prev-btn" type="button" class="btn entry-nav-btn">← 前の記事へ</button>
+      <button id="entry-next-btn" type="button" class="btn entry-nav-btn">次の記事へ →</button>
+    </div>
     <button id="entry-back-bottom" type="button" class="btn btn--small">← 一覧に戻る</button>
   </section>
 </main>
