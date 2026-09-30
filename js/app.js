@@ -546,6 +546,40 @@
     if (index !== -1) location.hash = entryHref(state.items[index].entry.url);
   }
 
+  // 一覧: 左右どちらでも「先頭から見て最初の未読」記事へ移動する(既読は読み飛ばす)。
+  // ブックマークページ: 左右で一覧上の前後の記事へ移動する(既読未読は問わない)。
+  function isTypingTarget(el) {
+    if (!el) return false;
+    const tag = el.tagName;
+    return tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT' || el.isContentEditable;
+  }
+
+  function goToFirstUnread() {
+    const target = state.items.find((item) => !Visited.isRead(item.entry.url));
+    if (!target) return false;
+    location.hash = entryHref(target.entry.url);
+    return true;
+  }
+
+  function onArrowKey(e) {
+    if (e.key !== 'ArrowLeft' && e.key !== 'ArrowRight') return;
+    if (e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+    if (isTypingTarget(document.activeElement)) return;
+    if (!$('settings-modal').hidden) return;
+
+    let handled = false;
+    if (state.view === 'list') {
+      handled = goToFirstUnread();
+    } else {
+      const index = findRelativeEntryIndex(state.entryUrl, e.key === 'ArrowLeft' ? -1 : 1);
+      if (index !== -1) {
+        location.hash = entryHref(state.items[index].entry.url);
+        handled = true;
+      }
+    }
+    if (handled) e.preventDefault();
+  }
+
   function resetFilterButton() {
     const btn = $('entry-filter-btn');
     btn.textContent = 'このページをフィルタに登録する';
@@ -952,6 +986,7 @@
       if (btn) openSettings('mute', 'user', btn.dataset.user);
     });
 
+    window.addEventListener('keydown', onArrowKey);
     window.addEventListener('hashchange', showRoute);
     window.addEventListener('resize', () => {
       clearTimeout(tabsResizeTimer);
