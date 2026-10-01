@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-02T01:00:14.993133+09:00</updated>
+  <updated>2026-10-02T01:30:25.379012+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>DeepSeekがHuaweiと提携しAscend向け「TileLang」など6つのAI開発ツールをオープンソースで公開、NVIDIAのCUDA依存低減を狙う</title>
+    <id>https://gigazine.net/news/20261001-deepseek-huawei-ascend/</id>
+    <link href="https://gigazine.net/news/20261001-deepseek-huawei-ascend/" />
+    <updated>2026-10-01T17:08:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>中国のAI企業であるDeepSeekがHuaweiと協力し、Huawei製AIチップ「Ascend」向けのプログラミング基盤を公開しました。公開されたソフトウェアには高性能な演算プログラムを開発しやすくする「TileLang」や行列計算ライブラリ「DeepGEMM Ascend」などが含まれており、いずれもオープンソースで公開されています。DeepSeek...</summary>
+  </entry>
+  <entry>
+    <title>AI生成タンパク質に「見えない透かし」を埋め込む「SynthID Bio」が登場、機能を保ったまま生成元を確認可能に</title>
+    <id>https://gigazine.net/news/20261001-google-deepmind-synthid-bio/</id>
+    <link href="https://gigazine.net/news/20261001-google-deepmind-synthid-bio/" />
+    <updated>2026-10-01T11:17:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google DeepMindが2026年9月30日、AIが設計したタンパク質などに検出可能な「透かし」を埋め込む技術「SynthID Bio」を発表しました。タンパク質の働きを維持しながらAIによる設計物だと識別できる仕組みで、デジタル上のデータだけでなく実際に合成されたタンパク質からも透かしを確認できるとされています。 SynthID B...</summary>
+  </entry>
   <entry>
     <title>ハードウェアに合わせて自動最適化してオープンモデルを最大2倍高速化するAIエージェント向け推論エンジン「Magnitude」、Appleシリコン・NVIDIA・AMD・CPUに対応</title>
     <id>https://gigazine.net/news/20261001-magnitude/</id>
@@ -570,8 +586,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-09-30T21:12:41+09:00</updated>
-    <category term="Zenn トレンド" />
+    <updated>2026-10-01T02:48:11+09:00</updated>
+    <category term="はてブ IT" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -770,9 +786,17 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T03:28:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
+    <updated>2026-10-01T04:49:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
+  </entry>
+  <entry>
+    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
+    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
+    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
+    <updated>2026-09-30T20:30:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -781,29 +805,5 @@
     <updated>2026-09-30T20:07:24+09:00</updated>
     <category term="はてブ IT" />
     <summary>デリバリー・テイクアウトサービス「menu」が9月30日午後8時、約6年半の歴史に幕を下ろす。運営のmenu社（東京都新宿区）は同日午前、公式Xアカウントで「本日、2026年9月30日20時をもちまして、menuはサービスを終了いたします」と投稿した。「支えてくださったすべてのみなさまに、スタッフ一同、心より感謝申し上げま...</summary>
-  </entry>
-  <entry>
-    <title>Web 標準動向 2026年9月版</title>
-    <id>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609</id>
-    <link href="https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609" />
-    <updated>2026-09-30T18:00:08+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは！ サイボウズ株式会社 デザインテクノロジストの saku (@sakupi01) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web 標…</summary>
-  </entry>
-  <entry>
-    <title>ヘキサゴナルアーキテクチャを実装レベルで確かめてみた（その1）ポート・アダプター・アプリケーションはコードではどうなるのか</title>
-    <id>https://zenn.dev/aws_japan/articles/hexagonal-architecture-lambda-1</id>
-    <link href="https://zenn.dev/aws_japan/articles/hexagonal-architecture-lambda-1" />
-    <updated>2026-09-30T10:04:42+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ヘキサゴナルアーキテクチャ（Ports and Adapters）は、解説を読むと六角形の図と「アプリケーションを中心に置き、ポートとアダプターで外の世界とつなぐ」という説明で理解できた気になるのですが、いざ自分で書こうとすると、ポートは具体的にどんなクラスにすればよいのか、アダプターとの境目はどこか、そしてそこまでして何が楽になるのか、というところで手が止まる、ということがあるのではないでしょう…</summary>
-  </entry>
-  <entry>
-    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
-    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
-    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
-    <updated>2026-09-29T11:40:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…</summary>
   </entry>
 </feed>
