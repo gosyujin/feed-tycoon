@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T22:30:17.771441+09:00</updated>
+  <updated>2026-10-01T23:00:20.592982+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>学生が無料枠だけでRAGシステムを作った話</title>
+    <id>https://zenn.dev/bigshine/articles/ai-librarian-free-tier</id>
+    <link href="https://zenn.dev/bigshine/articles/ai-librarian-free-tier" />
+    <updated>2026-09-30T22:05:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>概要 Azure for Students・Supabase Free・GitHub Actions・Oracle Cloud Always Freeを組み合わせて、RAGシステムを無料で作成 1ページのMarkdown化にかかるコストは約$0.006。応答用のモデル仕様を含めても年間$100のAzure for Studentsクレジットで十分運用可能 作ったもの 今回作成するのは、RAGシステ…</summary>
+  </entry>
   <entry>
     <title>Anthropicの営業チームはClaudeの自動返信で成約件数を2.5倍にした</title>
     <id>https://gigazine.net/news/20261001-inbound-claude-managed-agents/</id>
@@ -498,8 +506,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-10-01T02:48:11+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-09-30T21:12:41+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -698,17 +706,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T04:49:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
-  </entry>
-  <entry>
-    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
-    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
-    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
-    <updated>2026-09-30T20:30:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...</summary>
+    <updated>2026-10-01T03:28:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -733,6 +733,14 @@
     <updated>2026-09-30T10:04:42+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>ヘキサゴナルアーキテクチャ（Ports and Adapters）は、解説を読むと六角形の図と「アプリケーションを中心に置き、ポートとアダプターで外の世界とつなぐ」という説明で理解できた気になるのですが、いざ自分で書こうとすると、ポートは具体的にどんなクラスにすればよいのか、アダプターとの境目はどこか、そしてそこまでして何が楽になるのか、というところで手が止まる、ということがあるのではないでしょう…</summary>
+  </entry>
+  <entry>
+    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
+    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
+    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
+    <updated>2026-09-29T11:40:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…</summary>
   </entry>
   <entry>
     <title>Codexを使うなら、/recap・/copy・/exportを押さえておきたい - じゃあ、おうちで学べる</title>
@@ -797,13 +805,5 @@
     <updated>2026-09-30T17:56:26+09:00</updated>
     <category term="はてブ IT" />
     <summary>集英社は9月28日、同社のファッション誌メディアで活動するブロガーの情報管理・連絡用システム「HAPPY PLUS COMMUNITY」に不正アクセスがあったと発表した。ブロガー2835人分の個人情報のほか、同システムから送信したメールの情報や取引先情報も漏えいしたという。 漏えいした個人情報には、氏名、メールアドレス、住...</summary>
-  </entry>
-  <entry>
-    <title>高崎市が約3800台の端末から「Google Workspace」へ直接接続 ネットワークをどう変えた？</title>
-    <id>https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news046.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2609/30/news046.html" />
-    <updated>2026-09-30T10:59:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>クラウドサービスや生成AIの業務利用が広がる一方、特に自治体などセキュリティを重視してインターネット接続を制限してきた組織では、既存のネットワーク構成とクラウド活用をどう両立するかが課題になる。 群馬県高崎市は、職員が利用する端末やオンプレミス型グループウェア、庁内ネットワークが更新時期を迎えたこと...</summary>
   </entry>
 </feed>
