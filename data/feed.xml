@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T17:30:13.582795+09:00</updated>
+  <updated>2026-10-01T18:00:13.363409+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Gemini 4 Argon：フロンティア知能の新時代</title>
+    <id>https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/</id>
+    <link href="https://blog.google/intl/ja-jp/company-news/technology/gemini4argon/" />
+    <updated>2026-10-01T09:09:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Gemini 4 Argon は、実世界のソフトウェアエンジニアリング、法務や財務といった企業のナレッジワーク、そしてサイバーセキュリティにおける複雑なワークフローにおいて、最先端のパフォーマンスを発揮します。 本日、新しいフロンティア モデル Gemini 4 Argon を発表します。 Gemini 4 Argon は、複雑かつ長期的なワー...</summary>
+  </entry>
   <entry>
     <title>佐川急便、不正アクセスで個人情報流出か 送り主・届け先の氏名や住所など、約100日分の荷物データ対象</title>
     <id>https://www.itmedia.co.jp/news/article/2610/01/2000001933/</id>
@@ -290,8 +298,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-10-01T02:48:11+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-09-30T21:12:41+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -490,9 +498,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T04:49:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
+    <updated>2026-10-01T03:28:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -797,13 +805,5 @@
     <updated>2026-09-30T21:22:42+09:00</updated>
     <category term="はてブ IT" />
     <summary>スポーツ賭博を提供するDraftKingsが、負ける可能性の高い人々に無料の賭けやボーナスを提供するような広告を配信していることが分かりました。独自の機械学習モデルを構築し、ギャンブルが下手な人をターゲットにしていたと伝えられています。 At DraftKings, AI Targets the Gamblers Likeliest to Lose - The New Yor...</summary>
-  </entry>
-  <entry>
-    <title>WSLコンテナ正式リリース: WindowsでのLinux開発が一気に加速する理由 | ソフトアンテナ</title>
-    <id>https://softantenna.com/blog/wsl-containers-ga-summary/</id>
-    <link href="https://softantenna.com/blog/wsl-containers-ga-summary/" />
-    <updated>2026-09-30T20:34:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Microsoftは9月29日(現地時間)、「WSLコンテナ(WSL containers)」を正式にリリースしました。Windows上でLinuxコンテナを直接扱える仕組みで、AI開発やクラウドネイティブなワークロードをローカル環境でより自然に運用できるようになります。 WSLコンテナを有効化すると、新しいCLI「wslc.exe」やAPIが利用可能になりま...</summary>
   </entry>
 </feed>
