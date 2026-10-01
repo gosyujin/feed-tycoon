@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T19:30:18.053154+09:00</updated>
+  <updated>2026-10-01T20:00:22.124862+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>“3.5秒よそ見”で運転者に警告 新規生産車に警報機の搭載を義務化へ 居眠り警告も 国交省</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/01/2000001921/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/01/2000001921/" />
+    <updated>2026-10-01T14:52:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>国土交通省は9月30日、新たに生産する自動車に対し、運転者の眠気や脇見を検知して警報する装置（ドライバーモニタリングシステム）の搭載を義務付けると発表した。新型車は2031年9月から、既存モデルを引き続き生産する「継続生産車」は33年9月から対象となる。 ドライバーモニタリングシステムは、カメラなどで運転者...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の使用量はどう数えられているのか ── Max 20x で実測した重みは API 料金表と違った</title>
+    <id>https://zenn.dev/tksfjt1024/articles/25c0ab111c277c</id>
+    <link href="https://zenn.dev/tksfjt1024/articles/25c0ab111c277c" />
+    <updated>2026-10-01T11:34:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code を Pro や Max のプランで使うと、使った分だけ「使用量制限」の枠を消費します。この制限には、5 時間ごとにリセットされる「5時間のセッション制限」と、週ごとにリセットされる「週間使用制限」の 2 つがあります[1]。この 5 時間枠と週間枠が何でどれだけ減るのかを、条件を揃えた実験で測り、使用量の計算式を求めました。 主な結果は次のとおりです。 cache read…</summary>
+  </entry>
+  <entry>
+    <title>オブザーバビリティのAIエージェントをどう評価するか</title>
+    <id>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</id>
+    <link href="https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop" />
+    <updated>2026-10-01T09:00:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。 この記事では、Graf…</summary>
+  </entry>
+  <entry>
+    <title>HTML-in-Canvas で DOM を画像化し、動画にも書き出す</title>
+    <id>https://zenn.dev/chot/articles/html-in-canvas-dom-to-video</id>
+    <link href="https://zenn.dev/chot/articles/html-in-canvas-dom-to-video" />
+    <updated>2026-09-30T20:20:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに ここでは、提案中の API である HTML-in-Canvas で DOM を画像化する方法と、その応用として CSS アニメーションを動画としてエクスポートする方法を紹介します。 https://github.com/WICG/html-in-canvas ! HTML-in-Canvas は仕様策定中で、API の名前や引数が Chromium のバージョンごとに変わっています。こ…</summary>
+  </entry>
   <entry>
     <title>免許悪用防止届け一部休止 タイムズカー画像流出で | NEWSjp</title>
     <id>https://news.jp/i/1478299651827581816</id>
@@ -346,8 +378,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-10-01T02:48:11+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-09-30T21:12:41+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -546,9 +578,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T04:49:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
+    <updated>2026-10-01T03:28:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -773,37 +805,5 @@
     <updated>2026-09-30T18:04:16+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに 『Building Evolutionary Architectures, 2nd Edition』を読みました。要件や技術が変わり続ける中で、システムの設計をどう変えていくかを扱った本です。部品をどう分け、どうつなぎ、どこへデータを置くか。ここでいうアーキテクチャは、そうした全体の構造を指します。1か所を直すだけで済むか、ほかの部品...</summary>
-  </entry>
-  <entry>
-    <title>[石川温の「スマホ業界 Watch」] 楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2144589.html" />
-    <updated>2026-09-30T20:17:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[石川温の「スマホ業界 Watch」] 楽天へのauローミングがいよいよ終了、都市部は約4割減か。マップで探る通信品質への影響</summary>
-  </entry>
-  <entry>
-    <title>ベンチマークでJev超えな意思決定モデル「d1」が登場</title>
-    <id>https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/</id>
-    <link href="https://gigazine.net/news/20260930-d1-decision-model-liquid-ai/" />
-    <updated>2026-09-30T19:36:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI開発企業のLiquid AIが意思決定モデル「d1」をリリースしました。2026年9月に登場して大きな話題となっている「Jev」と同様の機能を備えており、性能テストでJevを上回ったとのことです。 Announcing d1, our first decision model. It's the first model to outperform Jev on @huggingface's D…</summary>
-  </entry>
-  <entry>
-    <title>マクドナルドはAI価格設定システムで店舗ごとの「最適価格」を算出している、バーガーキングなど他店舗の価格も考慮</title>
-    <id>https://gigazine.net/news/20260930-mcdonalds-push-ai-price-big-mac/</id>
-    <link href="https://gigazine.net/news/20260930-mcdonalds-push-ai-price-big-mac/" />
-    <updated>2026-09-30T15:09:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>世界各国に店舗を展開するマクドナルドがアメリカや一部の海外市場において、「AIを使ったメニューの最適価格の算出」を行っていると海外メディアのロイターが報じました。中には店舗同士がわずか2マイル(約3.2km)しか離れていないのに、ビッグマックの価格が1.2ドル(約190円)も違うケースがあるとのことです。 Inside M...</summary>
-  </entry>
-  <entry>
-    <title>芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学</title>
-    <id>https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</id>
-    <link href="https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html" />
-    <updated>2026-09-30T20:44:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学</summary>
   </entry>
 </feed>
