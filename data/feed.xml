@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-02T07:30:13.366256+09:00</updated>
+  <updated>2026-10-02T08:00:14.052592+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -367,6 +367,14 @@
     <summary>Gポイントは2001年に開始され、累計会員737万人を超えるというポイントサービス。ECサイトや旅行予約、アンケート回答などでためることができ、Amazonギフトカードや主要電子マネー、現金、航空マイル（ANAやJALなど）へ交換できる。 「会員識別子」は一般に、サービスが会員一人ひとりを区別するために割り振る番号など...</summary>
   </entry>
   <entry>
+    <title>オブザーバビリティのAIエージェントをどう評価するか</title>
+    <id>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</id>
+    <link href="https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop" />
+    <updated>2026-10-01T18:39:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に...</summary>
+  </entry>
+  <entry>
     <title>“3.5秒よそ見”で運転者に警告 新規生産車に警報機の搭載を義務化へ 居眠り警告も 国交省</title>
     <id>https://www.itmedia.co.jp/news/article/2610/01/2000001921/</id>
     <link href="https://www.itmedia.co.jp/news/article/2610/01/2000001921/" />
@@ -381,14 +389,6 @@
     <updated>2026-10-01T11:34:27+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Claude Code を Pro や Max のプランで使うと、使った分だけ「使用量制限」の枠を消費します。この制限には、5 時間ごとにリセットされる「5時間のセッション制限」と、週ごとにリセットされる「週間使用制限」の 2 つがあります[1]。この 5 時間枠と週間枠が何でどれだけ減るのかを、条件を揃えた実験で測り、使用量の計算式を求めました。 主な結果は次のとおりです。 cache read…</summary>
-  </entry>
-  <entry>
-    <title>オブザーバビリティのAIエージェントをどう評価するか</title>
-    <id>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</id>
-    <link href="https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop" />
-    <updated>2026-10-01T09:00:00+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。 この記事では、Graf…</summary>
   </entry>
   <entry>
     <title>HTML-in-Canvas で DOM を画像化し、動画にも書き出す</title>
