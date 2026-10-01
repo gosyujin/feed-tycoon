@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T21:30:20.241568+09:00</updated>
+  <updated>2026-10-01T22:00:19.114980+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>OpenAI、推論過程を狙った組織的な“蒸留”行為を阻止 「Kimi」開発元の関係者が関与と主張</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/01/2000001929/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/01/2000001929/" />
+    <updated>2026-10-01T15:16:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米OpenAIは9月30日（現地時間）、同社のAIモデルから保護された推論過程を抜き出そうとする組織的な行為を特定し、阻止したと発表した。この行為は“敵対的蒸留”（あるモデルの出力や推論を無断かつ体系的に利用し、別のモデルの訓練や再現、性能向上に役立てること）に当たるとしている。活動の中核については、AIアシス...</summary>
+  </entry>
+  <entry>
+    <title>RTX Spark搭載「Surface Laptop Ultra」がお披露目か Microsoftが10月7日にイベント開催</title>
+    <id>https://www.itmedia.co.jp/pcuser/articles/2610/01/news048.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2610/01/news048.html" />
+    <updated>2026-10-01T12:24:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Microsoftが、カリフォルニア州サンフランシスコにおいて10月7日（現地時間）にWindowsとSurfaceに関する発表イベントを開催する。 本件を報じているThe Vergeのトム・ウォーレン氏などによれば、本イベントにはMicrosoft CEOのサティア・ナデラ氏とWindows＋Devices部門担当EVPのパヴァン・ダヴルリ氏に加え、NVIDIA CE...</summary>
+  </entry>
+  <entry>
+    <title>RedditがAIボット対策としてRSSフィードを廃止し公開APIへのアクセスを終了すると発表</title>
+    <id>https://gigazine.net/news/20261001-reddit-killing-rss-feeds-end-public-api/</id>
+    <link href="https://gigazine.net/news/20261001-reddit-killing-rss-feeds-end-public-api/" />
+    <updated>2026-10-01T11:37:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>現地時間の2026年9月30日(水)、RedditがRSSフィードのサポート終了を発表しました。 Continuing our infrastructure updates: What’s changing in the coming months : r/modnews https://www.reddit.com/r/modnews/comments/1wubgvt/continuing_ou…</summary>
+  </entry>
+  <entry>
+    <title>「FDE」は常駐SEのすげ替えなのか “人月商売の死”を打破したい国内SIer、打開策は意外なところに？</title>
+    <id>https://www.itmedia.co.jp/business/articles/2610/01/news040.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2610/01/news040.html" />
+    <updated>2026-10-01T08:35:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>FP技能士センター正会員。中央大学卒業後、フィンテックスタートアップにて金融商品取引業者の設立や事業会社向けサービス構築を手がけたのち、広告DX会社を創業。サム・アルトマン氏創立のWorld財団における日本コミュニティスペシャリストを経てX Capital株式会社へ参画。 「FDE」という言葉を聞く機会が増えた。Forwa...</summary>
+  </entry>
   <entry>
     <title>Google Storeで「Pixel 10a」が1万2900円値上げ 9万2800円から</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2610/01/news081.html</id>
@@ -773,37 +805,5 @@
     <updated>2026-09-30T16:54:22+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Claude Sonnet 5.5 が 2026-09-28 に出ました。単価は Sonnet 5 と同じ $2 / $10 です。 公式はこう書いています。 In our testing, it costs up to 30% less per task than it...</summary>
-  </entry>
-  <entry>
-    <title>「当てる」だけでは足りない ― Numeraiに学ぶ、クオンツ戦略を評価する5つの原則</title>
-    <id>https://qiita.com/tikeda123/items/c807ba2c1bb2f5d6210b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tikeda123/items/c807ba2c1bb2f5d6210b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-30T12:38:23+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 新しい予測モデルを作り、バックテストの成績もよかった。ところが、既存の戦略と組み合わせても、ほとんど改善しない。 別のモデルを作ったつもりでも、実は同じ情報に反応し、同じ局面で利益を出し、同じ局面で損をしていた。そんな可能性がある。 問うべきは「このモデル...</summary>
-  </entry>
-  <entry>
-    <title>AIが出したMarkdownの表が100行になって詰んだので、VS Code拡張機能を作ってみた</title>
-    <id>https://qiita.com/shinkai_/items/92822c13f81d1a000285?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shinkai_/items/92822c13f81d1a000285?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-30T12:12:01+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Markdownの表を見やすくするVS Code拡張機能を作成しました。 実行イメージ 最近、設計書をMarkdownで作成することが多くなりました。 MarkdownはテキストベースなのでGitで管理しやすく、差分も見やすいです。 AIに設計書のレビュ...</summary>
-  </entry>
-  <entry>
-    <title>【Pyunto Robotics】そろそろフィジカルAIの時代に備えて、スマホからロボットを呼び出そう！</title>
-    <id>https://qiita.com/kyuko/items/c113aebe145ddf691796?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kyuko/items/c113aebe145ddf691796?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-30T12:02:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは！ひさふるです。 みなさん、ロボティクスについて触れたことはありますか？ 生成AIが社会で一般的になりずいぶん経ちますが、ロボティクス分野は正直まだまだ...といった印象ですよね。 しかし、AIの判断能力をロボティクスに応用したフィジカルAIという概念が提唱されて...</summary>
-  </entry>
-  <entry>
-    <title>Kubernetes の nftables モードについて</title>
-    <id>https://qiita.com/yosshi_/items/406da8322313c93f0a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yosshi_/items/406da8322313c93f0a2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-30T03:40:54+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに kube-proxy に nftables モードが入って、GA してからもうしばらく経ちます。ノード数・Pod数が多いクラスタでは iptables のルール同期が遅れるという長年の悩みがあり、それを直すための変更なので、影響の大きさが気になって調べてみました...</summary>
   </entry>
 </feed>
