@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T13:30:16.715643+09:00</updated>
+  <updated>2026-10-01T14:00:13.094243+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「能動的サイバー防御」きょう開始 警察・自衛隊などが攻撃元サーバを無害化 高市首相も狙いを説明</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/01/2000001918/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/01/2000001918/" />
+    <updated>2026-10-01T12:38:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>政府は10月1日、「サイバー対処能力強化法」と同整備法の一部施行に伴い、重大なサイバー攻撃を未然に防ぐ「能動的サイバー防御」の運用を始めた。国や基幹インフラへの攻撃を確認した場合、警察や自衛隊がネットワークを介して発信元のサーバにアクセスし、不正プログラムの消去や、攻撃者がサーバを使えなくする設定変...</summary>
+  </entry>
+  <entry>
+    <title>AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表</title>
+    <id>https://built.itmedia.co.jp/bt/articles/2609/30/news112.html</id>
+    <link href="https://built.itmedia.co.jp/bt/articles/2609/30/news112.html" />
+    <updated>2026-10-01T07:56:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIで紙図面を一瞬でCAD化 日本HPが「建設図面の最新版が分かる」プリンタ新機能を発表：設計×AI（1/3 ページ） 日本HPは、建設業界向けクラウドプラットフォーム「HP Build Workspace 日本語版」の提供を開始した。紙図面とデジタル図面を一元管理し、QRコードによる最新版確認やAIによる図面ベクター化で現場の分断を...</summary>
+  </entry>
   <entry>
     <title>ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札 - MonotaRO Tech Blog</title>
     <id>https://tech-blog.monotaro.com/entry/2026/10/01/090000</id>
@@ -34,8 +50,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-09-30T21:12:41+09:00</updated>
-    <category term="Zenn トレンド" />
+    <updated>2026-10-01T02:48:11+09:00</updated>
+    <category term="はてブ IT" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -234,9 +250,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T03:28:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
+    <updated>2026-10-01T04:49:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -789,21 +805,5 @@
     <updated>2026-09-30T09:07:00+09:00</updated>
     <category term="JPCERT" />
     <summary>複数のMozilla製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のOracle製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#24</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#24" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のOracle製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Acronis Backup plugin for cPanel &amp; WHMに権限昇格の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#25</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#25" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Acronis Backup plugin for cPanel &amp; WHMに権限昇格の脆弱性</summary>
   </entry>
 </feed>
