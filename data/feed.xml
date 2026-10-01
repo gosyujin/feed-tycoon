@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T23:00:20.592982+09:00</updated>
+  <updated>2026-10-01T23:30:24.701925+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>VRAM 32GBの「Intel Arc Pro B70」で「Hermes Agent」のローカルAIを実行、4ビット量子化したQwen3.8-27Bを動かしてみた</title>
+    <id>https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/</id>
+    <link href="https://gigazine.net/news/20261001-hermes-agent-arc-pro-b70/" />
+    <updated>2026-10-01T14:59:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェント「Hermes Agent」は、ウェブ検索やブラウザ操作、コマンド実行などのツールをAIが自律的に使いながらタスクを進められるのが特徴です。これまでGIGAZINEでは、実際にHermes Agentをインストールして「GIGAZINEの記事を取得して要約する」といった作業を任せたり、ローカルAIモデルをHermes Agentの頭脳と...</summary>
+  </entry>
+  <entry>
+    <title>Intel・NVIDIAのコンパイラを支えた6人の会社EDG、38年分のC++コードをオープンソースに</title>
+    <id>https://joho-todai.com/edg-compiler-cpp-open-source/</id>
+    <link href="https://joho-todai.com/edg-compiler-cpp-open-source/" />
+    <updated>2026-10-01T14:17:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Intel、NVIDIA、Microsoftのコンパイラ製品を裏で支えてきたC++フロントエンドの開発元Edison Design Groupが、会社としての歴史を閉じた。38年分のコードはThe C++ Allianceに移管され、現地時間9月30日にオープンソースとして公開された。 この記事のポイント 何が起きた: C++コンパイラフロントエンド専業のEdison De...</summary>
+  </entry>
   <entry>
     <title>学生が無料枠だけでRAGシステムを作った話</title>
     <id>https://zenn.dev/bigshine/articles/ai-librarian-free-tier</id>
@@ -506,8 +522,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-09-30T21:12:41+09:00</updated>
-    <category term="Zenn トレンド" />
+    <updated>2026-10-01T02:48:11+09:00</updated>
+    <category term="はてブ IT" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -706,9 +722,17 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T03:28:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
+    <updated>2026-10-01T04:49:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
+  </entry>
+  <entry>
+    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
+    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
+    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
+    <updated>2026-09-30T20:30:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -733,14 +757,6 @@
     <updated>2026-09-30T10:04:42+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>ヘキサゴナルアーキテクチャ（Ports and Adapters）は、解説を読むと六角形の図と「アプリケーションを中心に置き、ポートとアダプターで外の世界とつなぐ」という説明で理解できた気になるのですが、いざ自分で書こうとすると、ポートは具体的にどんなクラスにすればよいのか、アダプターとの境目はどこか、そしてそこまでして何が楽になるのか、というところで手が止まる、ということがあるのではないでしょう…</summary>
-  </entry>
-  <entry>
-    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
-    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
-    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
-    <updated>2026-09-29T11:40:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…</summary>
   </entry>
   <entry>
     <title>Codexを使うなら、/recap・/copy・/exportを押さえておきたい - じゃあ、おうちで学べる</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-01T05:28:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>Back Innovation &amp; AI See all in Innovation &amp; AI Models &amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Noteboo…</summary>
-  </entry>
-  <entry>
-    <title>アンケート結果をダウンロードしたら他社の従業員情報が…… ベネフィット・ワン、1万3460人分漏えい</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001908/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001908/" />
-    <updated>2026-09-30T22:38:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>福利厚生サービスを手掛けるベネフィット・ワンは9月30日、企業・団体の担当者向けサービス「ベネワン・プラットフォーム」で個人情報が漏えいしたと発表した。対象は2322企業・団体の1万3460人。担当者がアンケート結果をダウンロードする際、本来アクセスできない他社などの従業員情報が表示される状態になっていたと...</summary>
-  </entry>
-  <entry>
-    <title>集英社のブロガー管理システムに不正アクセス 2835人分の個人情報漏えい、結婚状況や子の有無も</title>
-    <id>https://www.itmedia.co.jp/news/article/2609/30/2000001898/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2609/30/2000001898/" />
-    <updated>2026-09-30T17:56:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>集英社は9月28日、同社のファッション誌メディアで活動するブロガーの情報管理・連絡用システム「HAPPY PLUS COMMUNITY」に不正アクセスがあったと発表した。ブロガー2835人分の個人情報のほか、同システムから送信したメールの情報や取引先情報も漏えいしたという。 漏えいした個人情報には、氏名、メールアドレス、住...</summary>
   </entry>
 </feed>
