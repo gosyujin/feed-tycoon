@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T20:00:22.124862+09:00</updated>
+  <updated>2026-10-01T20:30:16.277766+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>日本原子力機構に不正アクセス 研究者の個人情報が漏えい | NEWSjp</title>
+    <id>https://news.jp/i/1478318653420880862</id>
+    <link href="https://news.jp/i/1478318653420880862" />
+    <updated>2026-10-01T19:02:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本原子力研究開発機構は1日、茨城県東海村にある研究用原子炉「JRR3」の利用手続きサイトに不正アクセスがあり、外部の研究者の運転免許証画像など計2419件の登録情報が漏えいしたと公表した。施設の安全や警備に影響する情報は含まれないという。 機構によると、漏えいした情報のうち免許証やパスポートの画像、健康...</summary>
+  </entry>
+  <entry>
+    <title>長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」</title>
+    <id>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/css/css-supports-named-feature.html/index.html</id>
+    <link href="https://coliss.com/wp-content/cache/all/articles/build-websites/operation/css/css-supports-named-feature.html/index.html" />
+    <updated>2026-10-01T10:16:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>CSSの@supportsはブラウザがその機能をサポートしているか検出するのに便利ですが、単独の機能しか検出ができません。 たとえば、gapは現在はflexboxでサポートされていますが、当初はCSS Gridのみでした。そのため、@supports (display: flex) and (gap: 1em) のように記述しても、flexboxでgapを使えるかではなく、そ...</summary>
+  </entry>
+  <entry>
+    <title>「Gポイント」不正アクセスで一時停止 「会員識別子」約7万件漏えいか KDDI不正会計問題のジー・プランが運営</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/01/2000001913/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/01/2000001913/" />
+    <updated>2026-10-01T08:57:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Gポイントは2001年に開始され、累計会員737万人を超えるというポイントサービス。ECサイトや旅行予約、アンケート回答などでためることができ、Amazonギフトカードや主要電子マネー、現金、航空マイル（ANAやJALなど）へ交換できる。 「会員識別子」は一般に、サービスが会員一人ひとりを区別するために割り振る番号など...</summary>
+  </entry>
   <entry>
     <title>“3.5秒よそ見”で運転者に警告 新規生産車に警報機の搭載を義務化へ 居眠り警告も 国交省</title>
     <id>https://www.itmedia.co.jp/news/article/2610/01/2000001921/</id>
@@ -378,8 +402,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-09-30T21:12:41+09:00</updated>
-    <category term="Zenn トレンド" />
+    <updated>2026-10-01T02:48:11+09:00</updated>
+    <category term="はてブ IT" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -578,9 +602,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T03:28:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
+    <updated>2026-10-01T04:49:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -781,29 +805,5 @@
     <updated>2026-09-30T12:11:42+09:00</updated>
     <category term="はてブ IT" />
     <summary>[スタパ齋藤のApple野郎] 120gでTTL対応！ 超小型ストロボ「Godox iT30Pro」がすっげく便利。AIに教わった影対策も試してみたッ</summary>
-  </entry>
-  <entry>
-    <title>AI時代のコードレビューは人に向けるな、仕組みに向けろ</title>
-    <id>https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero</id>
-    <link href="https://speakerdeck.com/texmeijin/ai-jidai-no-kodo-rebyu-ha-hito-ni-mukeru-na-shikumi-ni-mukero" />
-    <updated>2026-09-30T19:03:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Technical Decisions and Reflections on "Test Maker" After Two Years of Development</summary>
-  </entry>
-  <entry>
-    <title>The 10 Minute Test Plan Generate. Claudeと社内ナレッジでテスト計画の叩き台を10分で生成する仕組み - LayerX エンジニアブログ</title>
-    <id>https://tech.layerx.co.jp/entry/10minute_test_plan_gen</id>
-    <link href="https://tech.layerx.co.jp/entry/10minute_test_plan_gen" />
-    <updated>2026-09-30T18:30:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、LayerXバクラク事業部QA部のコヤマンです。 以前投稿したこちらの記事でご紹介した品質基準活用の取り組みの続きです。 品質の言語化のススメー早期テストの原則をClaude Code Agent Skillsで実現する試み - LayerX エンジニアブログ 「常に最新の仕様と品質基準＋QAのノウハウを踏まえてリスクベースドなテ...</summary>
-  </entry>
-  <entry>
-    <title>AIに実装を任せると、設計の仕事はどう変わるか - Building Evolutionary Architectures, 2nd Edition の読書感想文 - じゃあ、おうちで学べる</title>
-    <id>https://syu-m-5151.hatenablog.com/entry/2026/09/30/162646</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2026/09/30/162646" />
-    <updated>2026-09-30T18:04:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 『Building Evolutionary Architectures, 2nd Edition』を読みました。要件や技術が変わり続ける中で、システムの設計をどう変えていくかを扱った本です。部品をどう分け、どうつなぎ、どこへデータを置くか。ここでいうアーキテクチャは、そうした全体の構造を指します。1か所を直すだけで済むか、ほかの部品...</summary>
   </entry>
 </feed>
