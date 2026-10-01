@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T15:00:16.761491+09:00</updated>
+  <updated>2026-10-01T15:30:13.993808+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ロボットは人間の肉体労働の74％をすでに実行可能だが「人間より安く働ける仕事」に限るとわずか0.3％という調査結果</title>
+    <id>https://gigazine.net/news/20261001-robot-job/</id>
+    <link href="https://gigazine.net/news/20261001-robot-job/" />
+    <updated>2026-10-01T13:36:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIの登場で頭脳労働がAIに取って代わられるというのは何となく想像できますが、肉体労働はまだまだ人間に任せられるところが多いように思えます。Anthropicの調査では、実は既にロボットが肉体労働のほとんどを担うことが可能だと判明したそうです。 Can we predict the jobs robots will do? \ Anthropic https://www.a...</summary>
+  </entry>
   <entry>
     <title>上司のために誕生日会でプレゼントするキーホルダーのデザインを1枚だけ描くことに…出社したら似たキーホルダーが沢山あり質問したら「AIに読ませて他の種類を作った」と</title>
     <id>https://togetter.com/li/2752607</id>
@@ -82,8 +90,8 @@
     <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
     <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
     <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-10-01T02:48:11+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-09-30T21:12:41+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
   </entry>
   <entry>
@@ -282,9 +290,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T04:49:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
+    <updated>2026-10-01T03:28:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -797,13 +805,5 @@
     <updated>2026-09-30T09:07:00+09:00</updated>
     <category term="JPCERT" />
     <summary>QNDに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: WordPress用プラグインThe Events Calendarに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#19</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#19" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>WordPress用プラグインThe Events Calendarに複数の脆弱性</summary>
   </entry>
 </feed>
