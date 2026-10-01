@@ -301,7 +301,7 @@
       el('span', { text: formatTime(entry.publishedAt || entry.firstSeenAt) }),
       // 自前のブックマークページへの内部リンク。b.hatena.ne.jp を href に持つ <a> は、
       // iPhone Safari のコンテンツブロッカーに隠される(README 参照)ので、外部リンクにはしない。
-      entry.bookmarkUrl
+      entry.bookmarkUrl && entry.bookmarkCount > 0
         ? el('a', { class: 'bm-count', href: entryHref(entry.url), text: `${entry.bookmarkCount || 0} users` })
         : null,
       (entry.tags || []).map((t) => el('span', { class: 'tag', text: t }))
