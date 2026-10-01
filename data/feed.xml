@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-01T13:00:12.019945+09:00</updated>
+  <updated>2026-10-01T13:30:16.715643+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ArgoCD のログインを 1 分から数十ミリ秒に ── AI 駆動開発で広げたプラットフォームの手札 - MonotaRO Tech Blog</title>
+    <id>https://tech-blog.monotaro.com/entry/2026/10/01/090000</id>
+    <link href="https://tech-blog.monotaro.com/entry/2026/10/01/090000" />
+    <updated>2026-10-01T10:11:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは、モノタロウでコンテナ基盤グループに所属している田中です。 以前の記事では、ArgoCDを活用した検証環境の自動生成について紹介しました。今回は、その ArgoCD 運用の裏側で発生していた「ログインに時間がかかりすぎる問題」と「Google 障害でリリースができなくなる問題」を、AI 駆動開発を活用...</summary>
+  </entry>
+  <entry>
+    <title>AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】</title>
+    <id>https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/aistream/2144656.html" />
+    <updated>2026-10-01T08:45:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】</summary>
+  </entry>
+  <entry>
+    <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
+    <id>https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</id>
+    <link href="https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef" />
+    <updated>2026-10-01T08:45:42+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。gontaです。 GCP上でサービスを作っていて、インフラはTerraformで管理しています。 先日、使わなくなった環境変数を削除してterraform applyしたところ、本番が落ちました。（まだリリースはしていない） 調べてみたら、1ヶ月半前のコンテナイメージが本番で動いていました。 原因はTerraformの使い方というか、コンテナをTerraformで扱うときの構造的な話の…</summary>
+  </entry>
+  <entry>
+    <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
+    <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
+    <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
+    <updated>2026-09-30T21:12:41+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
+  </entry>
+  <entry>
+    <title>キャラクターを画面内の指定領域に収めるカメラ位置の計算方法</title>
+    <id>https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</id>
+    <link href="https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm" />
+    <updated>2026-09-30T18:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 3Dキャラクターの写真や動画を撮影できるアプリやツールを開発・運用していると、画面内の指定領域に被写体を自動的に収めて撮影したいことがあります。さらに、指定領域内で被写体ができるだけ大きく映るようにしたい、キャラクターの体格・ポーズ・アニメーションなどの変化にフレーミングを追従させたい、という場合もあります。 この記事では「被写体を画面内のフレーミング領域に収めるカメラ位置の求め方」につ…</summary>
+  </entry>
+  <entry>
+    <title>Kaggle Biohub Cell Trackingコンペ振り返り ー361st Place Solution</title>
+    <id>https://zenn.dev/fusic/articles/d1ebeadcaeb2e2</id>
+    <link href="https://zenn.dev/fusic/articles/d1ebeadcaeb2e2" />
+    <updated>2026-09-30T13:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Fusicのレオナです。 今回は、Kaggleの「Biohub - Cell Tracking During Development」[1]に参加しました。最終結果は4,017チーム中361位、スコア0.920で銅メダルでした。締切時点のPublic Leaderboard（以下、Public LB）は0.954で544位だったので、Private Leaderboard（以下、Priv…</summary>
+  </entry>
   <entry>
     <title>ビル・ゲイツが「AI規制はサイバー攻撃やバイオテロを防ぐために必要」「AIは人間の仕事を奪う」とインタビューで語る</title>
     <id>https://gigazine.net/news/20261001-bill-gates-warning-ai-ezra-klein/</id>
@@ -186,9 +234,9 @@
     <title>AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました</title>
     <id>https://zenn.dev/algoartis/articles/0b1c731881b25c</id>
     <link href="https://zenn.dev/algoartis/articles/0b1c731881b25c" />
-    <updated>2026-10-01T04:49:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>興味深いことに、かつてAIの典型とされていた「〜しましょう」「することが可能です」「また、」といった表現は、2026年時点ではむしろ減少していました。 初期の定型句が書き手やモデル側で警戒されるようになった結果、より巧妙で無自覚な表現、すなわち「作業を比喩で言う動詞」や「直訳調の言い回し」へと病理が潜行...</summary>
+    <updated>2026-10-01T03:28:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR 本日、AI生成された臭くて読みにくい日本語を、自然で読みやすい日本語へ書き直すスキル『yomiyasu（よみやす）』をリリースしました。 従来のAI-Slop対策スキルで用いられてきた 「単語を禁止する」手法から改善し、統語構造（=誰が・何を・どうした）の復元と、比喩動詞の具体化に特化していることが特徴です。 Claude Code, Codex, Cursorなどの主要なAI Age…</summary>
   </entry>
   <entry>
     <title>フードデリバリー「menu」きょう午後8時にサービス終了 公式X「心より感謝」</title>
@@ -757,53 +805,5 @@
     <updated>2026-09-30T09:07:00+09:00</updated>
     <category term="JPCERT" />
     <summary>Acronis Backup plugin for cPanel &amp; WHMに権限昇格の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のApple製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#26</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#26" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のApple製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: ProgressのChef Automateに認証欠如の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#27</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#27" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>ProgressのChef Automateに認証欠如の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: CERT PolskaがMikroTrickに関する技術分析を公開</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#28</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#28" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>CERT PolskaがMikroTrickに関する技術分析を公開</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: F5 BIG-IP Access Policy Managerにヒープベースのバッファオーバーフローの脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#29</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#29" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>F5 BIG-IP Access Policy Managerにヒープベースのバッファオーバーフローの脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Cisco Secure Email GatewayにSQLインジェクションの脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr260930.html#30</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr260930.html#30" />
-    <updated>2026-09-30T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Cisco Secure Email GatewayにSQLインジェクションの脆弱性</summary>
-  </entry>
-  <entry>
-    <title>AI×Blenderでゲーム用キャラ素体の作成に挑戦した記録</title>
-    <id>https://zenn.dev/yy7613/articles/c150ef962ccc1f</id>
-    <link href="https://zenn.dev/yy7613/articles/c150ef962ccc1f" />
-    <updated>2026-09-29T23:29:19+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに この記事では、ゲーム用のアニメ調キャラクターの素体(頭部とボディ)を、生成AIに指示を出しながらBlenderで作る手順を紹介します。 Blender MCPとFable 5が出たころから試しはじめ、生成AIのモデルはFable 5・Fable 5.1・GPT-6 Astra・Claude Opus 5.5と乗り換えてきました。 この記事の手順は、主にClaude Code(Claude…</summary>
   </entry>
 </feed>
