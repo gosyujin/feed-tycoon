@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-02T16:00:14.223569+09:00</updated>
+  <updated>2026-10-02T16:30:14.808581+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <id>https://tech-blog.rakus.co.jp/entry/20261002/k8s</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20261002/k8s" />
+    <updated>2026-10-02T15:51:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理...</summary>
+  </entry>
+  <entry>
+    <title>Qwen3.8-Flash-NextがゲーミングPCで爆速に動く「Strata」登場</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2145142.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2145142.html" />
+    <updated>2026-10-02T13:34:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Qwen3.8-Flash-NextがゲーミングPCで爆速に動く「Strata」登場</summary>
+  </entry>
   <entry>
     <title>OpenPOI API — 日本全国337万件のPOI検索API</title>
     <id>https://openpoiapi.com/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-01T15:47:26+09:00</updated>
     <category term="はてブ IT" />
     <summary>『現地確認記録』は、AI生成のタグが付いた、一人称視点で描かれるアナログホラー映像作品。本作では、通常の調査員では対応困難と判断された事案にのみ投入される現地対処員・佐藤周一の記録を映している。佐藤は、「恐怖反応」「危険認識」「身体能力」の項目すべてが一般的な基準から大きく逸脱しており、「異常には...</summary>
-  </entry>
-  <entry>
-    <title>佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中 ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2144755.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2144755.html" />
-    <updated>2026-10-01T12:01:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中 ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中</summary>
-  </entry>
-  <entry>
-    <title>なぜ日本の衛星は欧州の小型ロケットを選ぶのか 広がる打上げの選択肢</title>
-    <id>https://www.watch.impress.co.jp/docs/topic/2142975.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/2142975.html" />
-    <updated>2026-10-01T08:30:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>なぜ日本の衛星は欧州の小型ロケットを選ぶのか 広がる打上げの選択肢</summary>
   </entry>
 </feed>

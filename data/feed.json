@@ -1,5 +1,39 @@
 [
   {
+    "title": "Kubernetesの「境界」と「粒度」を引き直す 〜社内プラットフォームの設計判断〜 - RAKUS Developers Blog | ラクス エンジニアブログ",
+    "url": "https://tech-blog.rakus.co.jp/entry/20261002/k8s",
+    "domain": "tech-blog.rakus.co.jp",
+    "description": "■ 目次 はじめに このブログの概要 対象読者と前提知識 1. なぜ、そうなっていたのか？ オンプレミスという前提 Kubernetes導入で得られたもの 残った4つの課題 「境界」と「粒度」 2. 境界をどう引き直したのか？ Namespaceの割り当て先 Tenant境界の導入 セルフサービスでの環境発行 エコシステムのテナント分離 論理...",
+    "publishedAt": "2026-10-02T15:51:08+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-02T16:30:14.808581+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech-blog.rakus.co.jp/entry/20261002/k8s",
+    "bookmarkCount": 10
+  },
+  {
+    "title": "Qwen3.8-Flash-NextがゲーミングPCで爆速に動く「Strata」登場",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2145142.html",
+    "domain": "pc.watch.impress.co.jp",
+    "description": "Qwen3.8-Flash-NextがゲーミングPCで爆速に動く「Strata」登場",
+    "publishedAt": "2026-10-02T13:34:07+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-02T16:30:14.808581+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2145142.html",
+    "bookmarkCount": 10
+  },
+  {
     "title": "OpenPOI API — 日本全国337万件のPOI検索API",
     "url": "https://openpoiapi.com/",
     "domain": "openpoiapi.com",
@@ -12,9 +46,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T16:00:14.223569+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/openpoiapi.com/",
-    "bookmarkCount": 4
+    "bookmarkCount": 8
   },
   {
     "title": "当社メールサーバーの不正利用による不審メール送信について",
@@ -46,9 +80,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T15:30:12.392644+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/atmarkit.itmedia.co.jp/ait/articles/2610/02/news004.html",
-    "bookmarkCount": 10
+    "bookmarkCount": 13
   },
   {
     "title": "DHH’s opening keynote at Rails World 2026: “The most confusing funeral I’ve ever experienced” : Global Nerdy",
@@ -80,9 +114,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T14:30:14.897803+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/02/2000001953/",
-    "bookmarkCount": 15
+    "bookmarkCount": 16
   },
   {
     "title": "「キャリアは一本道ではなく振り子のように」マネージャーとプレイヤーの行き来がもたらす価値 - レバテックLAB",
@@ -97,9 +131,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T14:00:13.712949+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/levtech.jp/media/detail_937/",
-    "bookmarkCount": 11
+    "bookmarkCount": 12
   },
   {
     "title": "「iPhone Duo」のディスプレイに経年劣化で生じる「折り目」は3200円で交換可能",
@@ -114,9 +148,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T14:00:13.712949+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261002-iphone-duo-cover-layer/",
-    "bookmarkCount": 14
+    "bookmarkCount": 16
   },
   {
     "title": "はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ",
@@ -131,9 +165,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T14:00:13.712949+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/labo.hatenastaff.com/entry/2026/10/02/113000",
-    "bookmarkCount": 47
+    "bookmarkCount": 51
   },
   {
     "title": "AIがもたらすのは明るい未来？ それとも破滅？ IT界隈の著名人の見解をマッピングしたサイト【やじうまWatch】",
@@ -150,7 +184,7 @@
     "firstSeenAt": "2026-10-02T13:30:13.020129+09:00",
     "lastSeenAt": "2026-10-02T13:30:13.020129+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/internet.watch.impress.co.jp/docs/yajiuma/2145050.html",
-    "bookmarkCount": 5
+    "bookmarkCount": 8
   },
   {
     "title": "文字画像APNGメーカー｜TRPG WEBツール観測所",
@@ -165,9 +199,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T13:30:13.020129+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/",
-    "bookmarkCount": 37
+    "bookmarkCount": 47
   },
   {
     "title": "ローソンの“ふり”ではなく本物のメールサーバーを悪用 不審メール約70万件を送信 | おたくま経済新聞",
@@ -182,9 +216,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T13:00:14.082657+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/otakuma.net/archives/2026100202.html",
-    "bookmarkCount": 45
+    "bookmarkCount": 59
   },
   {
     "title": "ソフトバンク通信20年の歩みとAI-RAN――周波数制約からのインフラ構築と次世代戦略",
@@ -201,7 +235,7 @@
     "firstSeenAt": "2026-10-02T13:00:14.082657+09:00",
     "lastSeenAt": "2026-10-02T15:30:12.392644+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/k-tai.watch.impress.co.jp/docs/news/2144997.html",
-    "bookmarkCount": 11
+    "bookmarkCount": 12
   },
   {
     "title": "Incremental HTTP",
@@ -216,9 +250,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T12:30:13.686004+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/kazuho/incremental-http",
-    "bookmarkCount": 27
+    "bookmarkCount": 28
   },
   {
     "title": "日本、技術革新で世界12位 国連の指標、首位はスイス | NEWSjp",
@@ -233,9 +267,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T12:30:13.686004+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.jp/i/1477759594615079383",
-    "bookmarkCount": 18
+    "bookmarkCount": 20
   },
   {
     "title": "PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化 - AUTOMATON",
@@ -267,7 +301,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T12:30:13.686004+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech-blog.voicy.jp/entry/2026/09/30/231259",
     "bookmarkCount": 17
   },
@@ -286,7 +320,7 @@
     "firstSeenAt": "2026-10-02T12:30:13.686004+09:00",
     "lastSeenAt": "2026-10-02T13:30:13.020129+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/article/2610/01/2000001936/",
-    "bookmarkCount": 12
+    "bookmarkCount": 14
   },
   {
     "title": "ロリポップ！ゼロトラストリンクを使った安全なRDS接続 - Pepabo Tech Portal",
@@ -301,7 +335,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T12:00:14.035306+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech.pepabo.com/2026/10/02/how-to-connect-rds-lolipop-ztl/",
     "bookmarkCount": 18
   },
@@ -354,7 +388,7 @@
     "firstSeenAt": "2026-10-02T11:30:13.076504+09:00",
     "lastSeenAt": "2026-10-02T12:00:14.035306+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261002-ai-human-extinction-five-scenarios/",
-    "bookmarkCount": 14
+    "bookmarkCount": 16
   },
   {
     "title": "政府運営の出会い系サービスで採用されたノーベル賞受賞者考案のアルゴリズムとは？",
@@ -386,7 +420,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T11:00:18.829035+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/02/2000001949/",
     "bookmarkCount": 22
   },
@@ -403,9 +437,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T11:00:18.829035+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/02/2000001947/",
-    "bookmarkCount": 28
+    "bookmarkCount": 29
   },
   {
     "title": "モデルはコモディティになる。差をつけるのは Work IQ - 吉田の備忘録",
@@ -522,9 +556,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T10:00:11.415130+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.watch.impress.co.jp/docs/news/2145024.html",
-    "bookmarkCount": 54
+    "bookmarkCount": 55
   },
   {
     "title": "CSSのrandom()関数でつくる、不規則なデザイン表現 - ICS MEDIA",
@@ -539,7 +573,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T10:00:11.415130+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ics.media/entry/261001/",
     "bookmarkCount": 31
   },
@@ -556,9 +590,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T10:00:11.415130+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/type.jp/et/feature/31798/",
-    "bookmarkCount": 45
+    "bookmarkCount": 49
   },
   {
     "title": "サイバーセキュリティ関係法令Q&Aハンドブック Ver.3.0 - NCO",
@@ -573,9 +607,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T10:00:11.415130+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/security-portal.cyber.go.jp/guidance/law-handbook/index.html",
-    "bookmarkCount": 100
+    "bookmarkCount": 101
   },
   {
     "title": "12GB VRAMで125Bモデルを動かす「Strata」の概要｜npaka",
@@ -590,9 +624,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:30:14.219748+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/note.com/npaka/n/n4a1185074686",
-    "bookmarkCount": 154
+    "bookmarkCount": 162
   },
   {
     "title": "AI時代の勉強法(2026)",
@@ -607,9 +641,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:16:00.190804+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/iwashi.co/2026/10/01/how-to-study-in-ai-era",
-    "bookmarkCount": 460
+    "bookmarkCount": 477
   },
   {
     "title": "新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge",
@@ -624,9 +658,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:16:00.190804+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/10/02/5544.html",
-    "bookmarkCount": 82
+    "bookmarkCount": 87
   },
   {
     "title": "Pi 1.0 | Earendil",
@@ -641,7 +675,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:16:00.190804+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/earendil.com/posts/pi-1-0/",
     "bookmarkCount": 34
   },
@@ -658,7 +692,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:16:00.190804+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/huggingface.co/Cloudflare/clef",
     "bookmarkCount": 51
   },
@@ -675,9 +709,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:16:00.190804+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20260514203244",
-    "bookmarkCount": 109
+    "bookmarkCount": 111
   },
   {
     "title": "Jevライクな意思決定モデルをローカル実行できるOllama風アプリ「Ollaya」が登場",
@@ -709,9 +743,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T09:00:17.794523+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/",
-    "bookmarkCount": 121
+    "bookmarkCount": 126
   },
   {
     "title": "OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた",
@@ -743,9 +777,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T08:30:33.797143+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/01/2000001943/",
-    "bookmarkCount": 43
+    "bookmarkCount": 44
   },
   {
     "title": "Claude Codeは、コードを書かない人こそ使える。散らかったフォルダもWindowsのエラーも「頼むだけ」で片づいた | ライフハッカー・ジャパン",
@@ -760,9 +794,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T08:30:33.797143+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.lifehacker.jp/article/2610-use-claude-code-every-day-tasks-nothing-coding/",
-    "bookmarkCount": 71
+    "bookmarkCount": 76
   },
   {
     "title": "新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた",
@@ -896,9 +930,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-02T04:30:18.277773+09:00",
-    "lastSeenAt": "2026-10-02T16:00:14.223569+09:00",
+    "lastSeenAt": "2026-10-02T16:30:14.808581+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/TamakiSeki/items/ac268db56f92b991970b",
-    "bookmarkCount": 123
+    "bookmarkCount": 128
   },
   {
     "title": "Appleのジョン・ターナスCEOは新製品のリリース頻度をもっと上げようと考えている",
@@ -983,7 +1017,7 @@
     "firstSeenAt": "2026-10-02T03:00:14.108690+09:00",
     "lastSeenAt": "2026-10-02T14:00:13.712949+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/",
-    "bookmarkCount": 80
+    "bookmarkCount": 81
   },
   {
     "title": "Amazonの配達員向けスマートグラスは生成AIマッピング用に配送先の私有地でも静止画を撮影、2027年までに2万人以上の配達員が着用へ",
@@ -1493,7 +1527,7 @@
     "firstSeenAt": "2026-10-01T20:30:16.277766+09:00",
     "lastSeenAt": "2026-10-02T10:00:11.415130+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.jp/i/1478318653420880862",
-    "bookmarkCount": 76
+    "bookmarkCount": 77
   },
   {
     "title": "長年の悩みがこれで解決！ CSSで機能を組み合わせたときにブラウザがサポートしているか検出できる新機能「@supports named-feature()」",
@@ -1663,7 +1697,7 @@
     "firstSeenAt": "2026-10-01T19:00:17.720996+09:00",
     "lastSeenAt": "2026-10-02T11:30:13.076504+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.denfaminicogamer.jp/news/261001u",
-    "bookmarkCount": 205
+    "bookmarkCount": 206
   },
   {
     "title": "佐川急便「お荷物問い合わせサービス」に不正アクセス、一部利用を制限中 ヤマト運輸でも「クロネコ代金後払いサービス」に不正アクセスで停止中",
@@ -1731,7 +1765,7 @@
     "firstSeenAt": "2026-10-01T17:30:13.582795+09:00",
     "lastSeenAt": "2026-10-02T09:00:17.794523+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/01/2000001933/",
-    "bookmarkCount": 133
+    "bookmarkCount": 132
   },
   {
     "title": "中古アニメグッズ「らしんばん」に不正アクセス 口座情報や本人確認書類の番号など漏えいの恐れ",
@@ -1748,7 +1782,7 @@
     "firstSeenAt": "2026-10-01T17:30:13.582795+09:00",
     "lastSeenAt": "2026-10-02T03:00:14.108690+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/01/2000001927/",
-    "bookmarkCount": 51
+    "bookmarkCount": 50
   },
   {
     "title": "吉野家HD、バイト応募者の個人情報5366件漏えい 元委託先に不正アクセス 契約終了もデータ残存",
@@ -2157,40 +2191,6 @@
     "lastSeenAt": "2026-10-02T01:30:25.379012+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261001-robot-job/",
     "bookmarkCount": 51
-  },
-  {
-    "title": "上司のために誕生日会でプレゼントするキーホルダーのデザインを1枚だけ描くことに…出社したら似たキーホルダーが沢山あり質問したら「AIに読ませて他の種類を作った」と",
-    "url": "https://togetter.com/li/2752607",
-    "domain": "togetter.com",
-    "description": "ぬめぬめ @slimy_slug777 上司に、誕生日会にプレゼントするキーホルダーのデザインを頼まれたんだけど、期日が30日の午前中までだって。 しかも、子供に選ばせたいから沢山描いて欲しいって。 絵を描かない人ってほんとにわかってないなと思う。無茶振りがすぎるんだよ。 もちろんお断りした。 ふざけんな笑 2026-09-29...",
-    "publishedAt": "2026-10-01T12:57:38+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-01T15:00:16.761491+09:00",
-    "lastSeenAt": "2026-10-01T21:30:20.241568+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2752607",
-    "bookmarkCount": 23
-  },
-  {
-    "title": "Reddit、RSSフィードを11月13日に終了 公開APIも2027年3月に閉鎖へ",
-    "url": "https://www.itmedia.co.jp/news/article/2610/01/2000001919/",
-    "domain": "www.itmedia.co.jp",
-    "description": "米Redditは9月30日（現地時間）、RSSフィードのサポートを11月13日に終了すると発表した。また、従来の公開データAPIについても2027年3月までにアクセスを終了し、これを使うアプリやボットを開発者プラットフォーム「Developer Platform」に移行させる方針を示した。いずれも8月に発表したインフラ刷新計画の一環で、ス...",
-    "publishedAt": "2026-10-01T12:38:04+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-01T15:00:16.761491+09:00",
-    "lastSeenAt": "2026-10-01T20:30:16.277766+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/01/2000001919/",
-    "bookmarkCount": 36
   },
   {
     "title": "terraform applyしたら、1ヶ月半前のコードが本番に出ていた",
