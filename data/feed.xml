@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-02T08:30:33.797143+09:00</updated>
+  <updated>2026-10-02T09:00:17.794523+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン</title>
+    <id>https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/</id>
+    <link href="https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/" />
+    <updated>2026-10-01T23:05:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>リサーチプロジェクトはすぐに混沌としてしまうものです。 だからこそ、思考やアイデアをスムーズにつなぎ、使いやすいツールが必要です。それが私にとっての「Obsidian」なのです。 1. 双方向リンクでノート同士をつなげられるWordのような直線的なツールでは、ノート同士を論理的に結びつけられず、スクロールで迷子に...</summary>
+  </entry>
   <entry>
     <title>OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title>
     <id>https://gigazine.net/news/20261001-openai-ignored-warnings/</id>
@@ -391,14 +399,6 @@
     <summary>Gポイントは2001年に開始され、累計会員737万人を超えるというポイントサービス。ECサイトや旅行予約、アンケート回答などでためることができ、Amazonギフトカードや主要電子マネー、現金、航空マイル（ANAやJALなど）へ交換できる。 「会員識別子」は一般に、サービスが会員一人ひとりを区別するために割り振る番号など...</summary>
   </entry>
   <entry>
-    <title>オブザーバビリティのAIエージェントをどう評価するか</title>
-    <id>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</id>
-    <link href="https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop" />
-    <updated>2026-10-01T18:39:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に...</summary>
-  </entry>
-  <entry>
     <title>“3.5秒よそ見”で運転者に警告 新規生産車に警報機の搭載を義務化へ 居眠り警告も 国交省</title>
     <id>https://www.itmedia.co.jp/news/article/2610/01/2000001921/</id>
     <link href="https://www.itmedia.co.jp/news/article/2610/01/2000001921/" />
@@ -413,6 +413,14 @@
     <updated>2026-10-01T11:34:27+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Claude Code を Pro や Max のプランで使うと、使った分だけ「使用量制限」の枠を消費します。この制限には、5 時間ごとにリセットされる「5時間のセッション制限」と、週ごとにリセットされる「週間使用制限」の 2 つがあります[1]。この 5 時間枠と週間枠が何でどれだけ減るのかを、条件を揃えた実験で測り、使用量の計算式を求めました。 主な結果は次のとおりです。 cache read…</summary>
+  </entry>
+  <entry>
+    <title>オブザーバビリティのAIエージェントをどう評価するか</title>
+    <id>https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop</id>
+    <link href="https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop" />
+    <updated>2026-10-01T09:00:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。 この記事では、Graf…</summary>
   </entry>
   <entry>
     <title>HTML-in-Canvas で DOM を画像化し、動画にも書き出す</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-01T01:29:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>“ひきこもりリスク”とゲーム内での“交流の好み”の関係を調査した「ゲーム研究者」にインタビュー。「一人になりたい」と想う背景は？キャラとの“思い出”にはどんな意味がある？色々訊いてみた 今年7月、奈良先端科学技術大学院大学などの研究チームが「日本のゲーマーにおける社会的周縁化リスクと社会的交流傾向の負の...</summary>
-  </entry>
-  <entry>
-    <title>Gboard チームからの新しいキーボードのご提案 2026</title>
-    <id>https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/</id>
-    <link href="https://blog.google/intl/ja-jp/products/android-chrome-play/gboard-2026/" />
-    <updated>2026-10-01T10:25:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>第 15 回目となる Google からの新しいキーボードのご提案シリーズは、あなたを中心とした流れるような入力体験を通じて、みなさまの日常に潤いをお届けします。 Gboard は、優れた変換性能にくわえて、お好きな写真を背景にできるテーマ機能、翻訳機能や校正支援機能などの便利な機能をそなえたスマートフォンやタブレ...</summary>
   </entry>
 </feed>
