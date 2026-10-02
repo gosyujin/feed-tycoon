@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T07:30:15.068745+09:00</updated>
+  <updated>2026-10-03T08:00:17.411883+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる</title>
+    <id>https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023" />
+    <updated>2026-10-02T17:42:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...</summary>
+  </entry>
   <entry>
     <title>Strands Decider 2Bについて理解する</title>
     <id>https://zenn.dev/fusic/articles/db6e62832a4a1f</id>
@@ -170,9 +178,9 @@
     <title>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？</title>
     <id>https://zenn.dev/sc30gsw/books/080faba713547b</id>
     <link href="https://zenn.dev/sc30gsw/books/080faba713547b" />
-    <updated>2026-10-02T22:19:46+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillといった全項目を解説。 さらに、自分のアプリに検証スキルを作る方法から、調査・設計・計画をエージェントと進める方法まで、全30章で扱います。 読み終えたと…</summary>
+    <updated>2026-10-02T23:24:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？ AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillとい...</summary>
   </entry>
   <entry>
     <title>日本企業「ハッキングされないでくれ」ランキング - Qiita</title>
@@ -797,13 +805,5 @@
     <updated>2026-09-29T11:40:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…</summary>
-  </entry>
-  <entry>
-    <title>アマゾン「Kindle」一新 最軽量16GBやアルミデザイン、カラーモデル</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2145024.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2145024.html" />
-    <updated>2026-10-02T08:56:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アマゾン「Kindle」一新 最軽量16GBやアルミデザイン、カラーモデル</summary>
   </entry>
 </feed>
