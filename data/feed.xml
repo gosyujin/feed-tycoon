@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T08:00:17.411883+09:00</updated>
+  <updated>2026-10-03T08:30:13.866700+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Linuxネットワーク標準教科書 ダウンロード | Linux技術者認定試験 リナック | LPI-Japan</title>
+    <id>https://linuc.org/textbooks/network/</id>
+    <link href="https://linuc.org/textbooks/network/" />
+    <updated>2026-10-03T07:00:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ネットワークの仕組みを実習を通して基礎から学べる教材 「Linuxネットワーク標準教科書」は、Linux技術者教育に利用していただくことを目的として、LPI-Japanが無料で公開しています。 ネットワークの仕組みを実習を通して基礎から学べる教材です。実際にLinuxを操作して理解できます。 本教科書は、多くの教育機関から...</summary>
+  </entry>
+  <entry>
+    <title>レジデンシャルプロキシ対策｜警察庁Webサイト</title>
+    <id>https://www.npa.go.jp/bureau/cyber/what-we-do/alliance.html</id>
+    <link href="https://www.npa.go.jp/bureau/cyber/what-we-do/alliance.html" />
+    <updated>2026-10-02T21:36:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>レジデンシャルプロキシ対策アライアンス 社会全体でのレジデンシャルプロキシに係る不正なIoT機器のセキュリティ対策を推進するため、多岐に渡る主体が連携して対応を協議する「レジデンシャルプロキシ対策アライアンス」を設立しています。 設立概要（令和８年７月21日） 家庭用IoT機器を悪用したサイバー攻撃への官民...</summary>
+  </entry>
   <entry>
     <title>AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる</title>
     <id>https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-01T00:04:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>Amazonは9月30日、ストリーミングメディアプレーヤーの新モデル「Fire TV Stick 4K」を発売しました。価格は11,980円（税込)。 同梱の新「Fire TVリモコン」は、単体2,980円（税込）でも販売します。 ■ 4Kモデル初のスリム設計、電源アダプタ不要新しいFire TV Stick 4Kは、2026年4月発表のエントリー製品「Fire TV Stic...</summary>
-  </entry>
-  <entry>
-    <title>新規プロダクトのバックエンド自動テスト戦略 ─UT 中心から API テスト中心へ─</title>
-    <id>https://zenn.dev/canary_techblog/articles/348d976da70857</id>
-    <link href="https://zenn.dev/canary_techblog/articles/348d976da70857" />
-    <updated>2026-09-30T09:45:25+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは！ 株式会社カナリーで新規プロダクトを開発している tom-uchida です。 新規プロダクトのバックエンドでは自動テストをユニットテスト（以下、UT）中心で整備してきたのですが、API 単位で仕様どおりに動作することを保証する仕組みがなかったため、runn による API テストを導入し、品質保証の主軸を UT から API テストへ切り替えました。本記事では、次の 3 点をご紹介で…</summary>
-  </entry>
-  <entry>
-    <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
-    <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
-    <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
-    <updated>2026-09-29T11:40:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…</summary>
   </entry>
 </feed>
