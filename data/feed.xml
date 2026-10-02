@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-02T11:30:13.076504+09:00</updated>
+  <updated>2026-10-02T12:00:14.035306+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ロリポップ！ゼロトラストリンクを使った安全なRDS接続 - Pepabo Tech Portal</title>
+    <id>https://tech.pepabo.com/2026/10/02/how-to-connect-rds-lolipop-ztl/</id>
+    <link href="https://tech.pepabo.com/2026/10/02/how-to-connect-rds-lolipop-ztl/" />
+    <updated>2026-10-02T11:34:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、ロリポップ・ムームードメイン事業部 第三事業開発チーム 兼 技術部 技術基盤チームプリンシパルエンジニアのじっぱー(@buty4649)です。 最近はもっぱらELDEN RING NIGHTREIGNだけをプレイしていて他のゲームや趣味に手を付けられない今日この頃です。 さて、私が携わっているロリポップ！ゼロトラストリン...</summary>
+  </entry>
+  <entry>
+    <title>免許悪用防止届け一部休止 タイムズカー画像流出で</title>
+    <id>https://www.47news.jp/15021490.html</id>
+    <link href="https://www.47news.jp/15021490.html" />
+    <updated>2026-10-01T21:17:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>個人の債務情報を管理する日本信用情報機構（JICC）は1日、運転免許証などを紛失した際に不正利用を防ぐための届け出で、スマートフォンアプリからの申し込みを一時休止すると発表した。カーシェアリングサービス「タイムズカー」のシステムへの不正アクセスで免許証画像が約160万件流出し、申し込みが殺到した。当面は...</summary>
+  </entry>
+  <entry>
+    <title>「空飛ぶレグザだ！」100型レグザを大型クレーンで、マンション8階へ搬入する密着動画</title>
+    <id>https://av.watch.impress.co.jp/docs/news/2144554.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/news/2144554.html" />
+    <updated>2026-10-01T17:54:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「空飛ぶレグザだ！」100型レグザを大型クレーンで、マンション8階へ搬入する密着動画</summary>
+  </entry>
   <entry>
     <title>AIが人類を滅ぼすとしたら？研究者が考える5つのシナリオ</title>
     <id>https://gigazine.net/news/20261002-ai-human-extinction-five-scenarios/</id>
@@ -55,14 +79,6 @@
     <summary>BS民放5社の4K番組、WOWOWオンデマンドで無料配信開始。A-PAB会見「BS4Kの新時代がはじまろうとしている」</summary>
   </entry>
   <entry>
-    <title>新規プロダクトのバックエンド自動テスト戦略 ─UT 中心から API テスト中心へ─</title>
-    <id>https://zenn.dev/canary_techblog/articles/348d976da70857</id>
-    <link href="https://zenn.dev/canary_techblog/articles/348d976da70857" />
-    <updated>2026-10-01T16:17:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>このうち API テストの仕組み自体は以前から用意していたのですが、書くかどうかは各自の判断とする試験運用にとどまっていました。そのため、API 単位の品質保証は UT に頼るしかない、という状態が続いていました。 1. テスト戦略：UT 中心から API テスト中心へ 1.1 UT 中心の品質保証で自信を持てなかった理由 UT 中...</summary>
-  </entry>
-  <entry>
     <title>Google、新フロンティアモデル「Gemini 4 Argon」を発表 ～まずはサイバー防衛担当者向けに提供／「GPT-6 Astra」や「Claude Fable 5.1」「Claude Opus 5.5」に匹敵・凌駕する性能</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2144700.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/news/2144700.html" />
@@ -79,12 +95,20 @@
     <summary>Amazonは9月30日、ストリーミングメディアプレーヤーの新モデル「Fire TV Stick 4K」を発売しました。価格は11,980円（税込)。 同梱の新「Fire TVリモコン」は、単体2,980円（税込）でも販売します。 ■ 4Kモデル初のスリム設計、電源アダプタ不要新しいFire TV Stick 4Kは、2026年4月発表のエントリー製品「Fire TV Stic...</summary>
   </entry>
   <entry>
+    <title>新規プロダクトのバックエンド自動テスト戦略 ─UT 中心から API テスト中心へ─</title>
+    <id>https://zenn.dev/canary_techblog/articles/348d976da70857</id>
+    <link href="https://zenn.dev/canary_techblog/articles/348d976da70857" />
+    <updated>2026-09-30T09:45:25+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！ 株式会社カナリーで新規プロダクトを開発している tom-uchida です。 新規プロダクトのバックエンドでは自動テストをユニットテスト（以下、UT）中心で整備してきたのですが、API 単位で仕様どおりに動作することを保証する仕組みがなかったため、runn による API テストを導入し、品質保証の主軸を UT から API テストへ切り替えました。本記事では、次の 3 点をご紹介で…</summary>
+  </entry>
+  <entry>
     <title>テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話</title>
     <id>https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0</id>
     <link href="https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0" />
-    <updated>2026-09-30T20:30:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んで...</summary>
+    <updated>2026-09-29T11:40:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…</summary>
   </entry>
   <entry>
     <title>アマゾン「Kindle」一新 最軽量16GBやアルミデザイン、カラーモデル</title>
@@ -781,29 +805,5 @@
     <updated>2026-09-30T16:49:36+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Windows 11 の Explorer にはタブがあって、グループ毎に開いておくと便利なのですが、間違って閉じちゃったり、離席してる時に Windows Update で閉じられちゃったりすると目も当てられません。そしてグループをタブで開くためのコマンドライ...</summary>
-  </entry>
-  <entry>
-    <title>Flutter × Google Routes APIで訪問順を組み立てる</title>
-    <id>https://qiita.com/TechStudioLab/items/75d656fb7bc7d777fb5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/TechStudioLab/items/75d656fb7bc7d777fb5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-30T08:01:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 訪問介護のように、一日に複数の場所を回る業務をアプリにするとき、地図へピンを立てるところまでは比較的素直に作れます。難しくなるのは、その次です。 「Aさん宅、Bさん宅、Cさん宅を今日はどの順番で回るか」を扱おうとすると、単なる地図表示では足りません。住所の一覧...</summary>
-  </entry>
-  <entry>
-    <title>退会者の免許証画像が660万件も漏洩。あなたの会社にも「消されていないデータ」がないか？</title>
-    <id>https://qiita.com/udowanllc/items/c2b6a59a78d3c0b8e5ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/udowanllc/items/c2b6a59a78d3c0b8e5ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-30T04:44:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>2026年9月の情報漏洩から見る「持たないデータは漏れない」 TL;DR 2026年9月、タイムズカー（約660万件）・Gyazo（約2,362万件）・デジタル庁など大規模漏洩が続いた 原因は3つに集約できる。既知の脆弱性の放置、本番DB以外からの流出、使っていない...</summary>
-  </entry>
-  <entry>
-    <title>jQueryの定番処理をReactへ移す対比リファレンス</title>
-    <id>https://qiita.com/TechStudioLab/items/b106c8b04287c3142c50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/TechStudioLab/items/b106c8b04287c3142c50?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-09-29T21:04:01+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに jQueryからReactへの移行に関わっていると、最初に困るのはJSXの書き方そのものではありません。 $('.button').on('click', ...) はReactで何になるのか。addClass() はどうするのか。$.ajax() はfetc...</summary>
   </entry>
 </feed>
