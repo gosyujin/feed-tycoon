@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-02T09:00:17.794523+09:00</updated>
+  <updated>2026-10-02T09:16:00.190804+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AI時代の勉強法(2026)</title>
+    <id>https://iwashi.co/2026/10/01/how-to-study-in-ai-era</id>
+    <link href="https://iwashi.co/2026/10/01/how-to-study-in-ai-era" />
+    <updated>2026-10-02T08:26:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに つい最近、今の勉強法を簡単に記したXのポストをした。本記事では、もう少し掘り下げてまとめて書いてみようと思う。2026年のスナップショットであり、来年以降に読み返したら面白いかもしれないので。 なおこの記事は、文章の誤字脱字チェック以外には生成AIを活用しておらず、すべて手でタイプしている。 基...</summary>
+  </entry>
+  <entry>
+    <title>新Kindle 計6モデル発売 頁めくりリモコンKindle Click、物理ボタンつきカバーも | テクノエッジ TechnoEdge</title>
+    <id>https://www.techno-edge.net/article/2026/10/02/5544.html</id>
+    <link href="https://www.techno-edge.net/article/2026/10/02/5544.html" />
+    <updated>2026-10-02T07:41:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Amazonは10月1日、電子書籍リーダー「Kindle」「Kindle Paperwhite」「Kindle Colorsoft」の新モデルとアクセサリを発表しました。 無印 Kindleは3シリーズそれぞれに標準モデルと、アルミニウム背面と32GBストレージを備える上位モデルで計6機種。すでに購入できます。 ■ 全モデル薄型化、無印Kindleもフラットデザイン...</summary>
+  </entry>
+  <entry>
+    <title>Pi 1.0 | Earendil</title>
+    <id>https://earendil.com/posts/pi-1-0/</id>
+    <link href="https://earendil.com/posts/pi-1-0/" />
+    <updated>2026-10-02T06:47:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Today we are proudly shipping Pi 1.0: a hardened, minimal, extensible agent harness that you can make your own. Hundreds of thousands of people around the world use Pi every week. Many of you submit i…</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare/clef · Hugging Face</title>
+    <id>https://huggingface.co/Cloudflare/clef</id>
+    <link href="https://huggingface.co/Cloudflare/clef" />
+    <updated>2026-10-02T06:28:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>","pad_token":" ","unk_token":null},"chat_template_jinja":"{%- set image_count = namespace(value=0) %}\n{%- set video_count = namespace(value=0) %}\n{%- macro render_content(content, do_vision_count,…</summary>
+  </entry>
+  <entry>
+    <title>『六韜』「隣国の使者が有能なら何も与えず無能なら大いに歓待せよ」というのはデマだぞ</title>
+    <id>https://anond.hatelabo.jp/20260514203244</id>
+    <link href="https://anond.hatelabo.jp/20260514203244" />
+    <updated>2026-10-02T00:45:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>トランプが訪中したところ、盛大なパレードで歓待を受けた。これに対して六韜の一節と言われる文言を貼る人が多いが、実はこれはデマなので指摘するぞ。 https://togetter.com/li/2696932 この一節はネットで広く知られているし、外交や国際関係、安全保障畑の人らも良く引用している。だから増田もずっと信じていた。 ...</summary>
+  </entry>
+  <entry>
+    <title>Jevライクな意思決定モデルをローカル実行できるOllama風アプリ「Ollaya」が登場</title>
+    <id>https://gigazine.net/news/20261001-ollaya-run-decision-model/</id>
+    <link href="https://gigazine.net/news/20261001-ollaya-run-decision-model/" />
+    <updated>2026-10-01T21:19:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年9月15日に登場した意思決定モデル「Jev」は高速かつ高精度で有用なことから大きな注目を集めており、同様の機能を備えた意思決定モデルが続々と発表されています。そんな意思決定モデルをローカルで動作させる実行アプリ「Ollaya」が登場しました。 Ollaya · Run decision models locally https://ollaya.dev/ Jev...</summary>
+  </entry>
   <entry>
     <title>思考を整理できる便利ツール「Obsidian」を愛用する6つの理由 | ライフハッカー・ジャパン</title>
     <id>https://www.lifehacker.jp/article/2610-obsidian-deep-research-hpq/</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-01T08:45:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>AIに投げつけた暴言、その先に。カスハラ対策と、LLMに見つかった「痛み軸」【生成AIストリーム】</summary>
-  </entry>
-  <entry>
-    <title>terraform applyしたら、1ヶ月半前のコードが本番に出ていた</title>
-    <id>https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef</id>
-    <link href="https://zenn.dev/gonta_ganbareyo/articles/6256bf2008b2ef" />
-    <updated>2026-10-01T08:45:42+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。gontaです。 GCP上でサービスを作っていて、インフラはTerraformで管理しています。 先日、使わなくなった環境変数を削除してterraform applyしたところ、本番が落ちました。（まだリリースはしていない） 調べてみたら、1ヶ月半前のコンテナイメージが本番で動いていました。 原因はTerraformの使い方というか、コンテナをTerraformで扱うときの構造的な話の…</summary>
-  </entry>
-  <entry>
-    <title>『構文解析のしくみ』が出版されました（出版にあたって宣伝と裏話）</title>
-    <id>https://zenn.dev/kmizu/articles/2026-09-parser-book</id>
-    <link href="https://zenn.dev/kmizu/articles/2026-09-parser-book" />
-    <updated>2026-09-30T21:12:41+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは！水島です。 2026年9月28日に、ZEN大学出版会から『構文解析のしくみ 電卓から言語処理系まで自分で書く』という本を出しました。 出版社のページ：https://zen.ac.jp/press/books/b_0019 通販ページ： Amazon：https://amzn.asia/d/030QeHhu 最短で10月7日配達（2026/09/30現在） 楽天ブックス：ht…</summary>
-  </entry>
-  <entry>
-    <title>キャラクターを画面内の指定領域に収めるカメラ位置の計算方法</title>
-    <id>https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm</id>
-    <link href="https://zenn.dev/reality_tech/articles/camera-auto-framing-algorithm" />
-    <updated>2026-09-30T18:00:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 3Dキャラクターの写真や動画を撮影できるアプリやツールを開発・運用していると、画面内の指定領域に被写体を自動的に収めて撮影したいことがあります。さらに、指定領域内で被写体ができるだけ大きく映るようにしたい、キャラクターの体格・ポーズ・アニメーションなどの変化にフレーミングを追従させたい、という場合もあります。 この記事では「被写体を画面内のフレーミング領域に収めるカメラ位置の求め方」につ…</summary>
-  </entry>
-  <entry>
-    <title>Kaggle Biohub Cell Trackingコンペ振り返り ー361st Place Solution</title>
-    <id>https://zenn.dev/fusic/articles/d1ebeadcaeb2e2</id>
-    <link href="https://zenn.dev/fusic/articles/d1ebeadcaeb2e2" />
-    <updated>2026-09-30T13:00:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Fusicのレオナです。 今回は、Kaggleの「Biohub - Cell Tracking During Development」[1]に参加しました。最終結果は4,017チーム中361位、スコア0.920で銅メダルでした。締切時点のPublic Leaderboard（以下、Public LB）は0.954で544位だったので、Private Leaderboard（以下、Priv…</summary>
-  </entry>
-  <entry>
-    <title>ビル・ゲイツが「AI規制はサイバー攻撃やバイオテロを防ぐために必要」「AIは人間の仕事を奪う」とインタビューで語る</title>
-    <id>https://gigazine.net/news/20261001-bill-gates-warning-ai-ezra-klein/</id>
-    <link href="https://gigazine.net/news/20261001-bill-gates-warning-ai-ezra-klein/" />
-    <updated>2026-10-01T07:01:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>by Bill Gates Microsoftの創業者であり億万長者のビル・ゲイツ氏は近年、さまざまな場面でAIに対する懸念を表明しています。日刊紙のニューヨーク・タイムズに掲載されたジャーナリストのエズラ・クライン氏とのインタビューでも、ゲイツ氏はAIのさまざまなリスクや必要な対策、そしてAIが人類にもたらす利益について語...</summary>
-  </entry>
-  <entry>
-    <title>“ひきこもりリスク”とゲーム内での“交流の好み”の関係を調査した「ゲーム研究者」にインタビュー。「一人になりたい」と想う背景は？キャラとの“思い出”にはどんな意味がある？色々訊いてみた - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/interviewsjp/20260929-470452/</id>
-    <link href="https://automaton-media.com/articles/interviewsjp/20260929-470452/" />
-    <updated>2026-10-01T01:29:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>“ひきこもりリスク”とゲーム内での“交流の好み”の関係を調査した「ゲーム研究者」にインタビュー。「一人になりたい」と想う背景は？キャラとの“思い出”にはどんな意味がある？色々訊いてみた 今年7月、奈良先端科学技術大学院大学などの研究チームが「日本のゲーマーにおける社会的周縁化リスクと社会的交流傾向の負の...</summary>
   </entry>
 </feed>
