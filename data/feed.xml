@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T11:00:14.041622+09:00</updated>
+  <updated>2026-10-03T11:30:15.491816+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/03/2000001983/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001983/" />
+    <updated>2026-10-03T09:45:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Appleは10月2日（現地時間）、macOSの「フルディスクアクセス」（Full Disk Access）権限について、ユーザーがアプリにこの権限を与える際の制御を強化する方針を開発者向けサイトで発表した。具体的な導入時期や仕組みは明らかにしていない。 Appleによると、同社は開発者に強力なAPIを提供する一方、ユーザーのプラ...</summary>
+  </entry>
+  <entry>
+    <title>中国へのGPU密輸はなぜ続くのか、そしてなぜアメリカ政府は取り締まることができないのか？</title>
+    <id>https://gigazine.net/news/20261002-gpu-black-market-in-china/</id>
+    <link href="https://gigazine.net/news/20261002-gpu-black-market-in-china/" />
+    <updated>2026-10-02T22:33:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アメリカが先端AI半導体の対中輸出を制限する一方、第三国の企業や物流網を通じて中国へ不正に送る事件が相次いでいます。アメリカ当局の摘発では、購入者や最終用途を偽り、大量のGPUやサーバーを調達する手口が明らかになりました。AIの軍事利用を抑えるための規制を、複雑な国際取引の中でどう徹底するかが課題になっ...</summary>
+  </entry>
   <entry>
     <title>OpenAIの｢暴走｣問題、影響100件超の可能性 カリフォルニア州も調査 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOGN02CC70S6A001C2000000/</id>
@@ -282,9 +298,9 @@
     <title>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？</title>
     <id>https://zenn.dev/sc30gsw/books/080faba713547b</id>
     <link href="https://zenn.dev/sc30gsw/books/080faba713547b" />
-    <updated>2026-10-02T23:24:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？ AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillとい...</summary>
+    <updated>2026-10-02T22:19:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillといった全項目を解説。 さらに、自分のアプリに検証スキルを作る方法から、調査・設計・計画をエージェントと進める方法まで、全39章で扱います。 読み終えたと…</summary>
   </entry>
   <entry>
     <title>日本企業「ハッキングされないでくれ」ランキング - Qiita</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-02T08:26:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>PS5の超解像技術「QSSR」発表、いきなり『ゴースト・オブ・ヨウテイ』『マーベル ウルヴァリン』に実装。PS5 Proじゃなく“通常版PS5”向けの、新たなAI高画質化 ソニー・インタラクティブエンタテインメントは10月2日、通常版PS5に向けた新技術「クイックスペクトルスーパーレゾリューション（QSSR）」を発表した。 ソニ...</summary>
-  </entry>
-  <entry>
-    <title>「AI生成コードがダメすぎる」それは既存実装のせい。Voicyのバックエンド・リアーキテクトのすべて - Voicy Tech Blog</title>
-    <id>https://tech-blog.voicy.jp/entry/2026/09/30/231259</id>
-    <link href="https://tech-blog.voicy.jp/entry/2026/09/30/231259" />
-    <updated>2026-10-02T00:47:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>千田 (@thousanda_io) です。 先日、「専門エンジニアを廃止した ─ Voicy開発統括が半年で実行した3つの構造改革 - Voicy Tech Blog」という記事の「バックエンド：noahのAIネイティブ化」節で、Voicyのバックエンドについて触れられていました。 今回は、これをより詳しく紹介します。 本記事にはAIが生成した文章は含...</summary>
-  </entry>
-  <entry>
-    <title>人間は「取締役2人だけ」 実務をAIが担う新会社、セキュリティサービスのHENNGE</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2610/01/2000001936/" />
-    <updated>2026-10-01T20:46:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>セキュリティサービスなどを手掛けるHENNGE（東京都渋谷区）は10月1日、AI活用におけるガバナンス・コスト管理を支援する新会社「HENNGE AI」を設立したと発表した。取締役の2人を除いて従業員を配置せず、自律的にタスクをこなすAIエージェントが実務を担う。 HENNGE AIでは、複数のAIモデルへの接続を一元化して管理す...</summary>
   </entry>
 </feed>
