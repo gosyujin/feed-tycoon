@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T13:00:13.661190+09:00</updated>
+  <updated>2026-10-03T13:30:15.002521+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>WordPress Coreの脆弱性CVE-2026-87902についてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/10/03/001121</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/03/001121" />
+    <updated>2026-10-03T00:43:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年9月22日、WordPressは、WordPress Coreに深刻な脆弱性が確認されたとして、修正版を公開、さらに4.7系までの古い系列にも同様に修正を提供しました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? WordPress Coreのページテンプレートの解決(get_page_template())で、認証不要の攻撃者が、一定...</summary>
+  </entry>
+  <entry>
+    <title>はてな匿名ダイアリー、“AI増田”増えるかも ChatGPTから直接投稿、早くも賛否</title>
+    <id>https://ascii.jp/elem/000/004/439/4439065/</id>
+    <link href="https://ascii.jp/elem/000/004/439/4439065/" />
+    <updated>2026-10-01T16:23:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はてなは9月30日、「はてな匿名ダイアリー」をChatGPTから利用できるプラグインを実験的に公開した。ChatGPTとの会話から匿名ダイアリー、いわゆる「増田」の記事を検索、閲覧できるほか、そのまま投稿することもできる。 利用にはChatGPTの「カスタマイズ」からプラグインを追加し、はてなIDで連携する。例えば「三大○○...</summary>
+  </entry>
+  <entry>
+    <title>Optimizing objects with null prototypes</title>
+    <id>https://adventures.nodeland.dev/archive/optimizing-objects-with-null-prototypes/</id>
+    <link href="https://adventures.nodeland.dev/archive/optimizing-objects-with-null-prototypes/" />
+    <updated>2026-09-30T19:11:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Hey Everyone! This week I got deep into a V8 detail that ended up costing us real, measurable throughput in Node core — and I want to walk you through it, because the fix is not what most people would…</summary>
+  </entry>
   <entry>
     <title>「アバハウス」全顧客の情報漏えいか 会員・受注DBに不正アクセス 「不審な返金メール届いた」報告で判明（ITmedia NEWS） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/ac9e4ee9a0665df9c13f72c3972e980da6276911</id>
@@ -338,9 +362,9 @@
     <title>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？</title>
     <id>https://zenn.dev/sc30gsw/books/080faba713547b</id>
     <link href="https://zenn.dev/sc30gsw/books/080faba713547b" />
-    <updated>2026-10-02T22:19:46+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillといった全項目を解説。 さらに、自分のアプリに検証スキルを作る方法から、調査・設計・計画をエージェントと進める方法まで、全39章で扱います。 読み終えたと…</summary>
+    <updated>2026-10-02T23:24:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？ AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillとい...</summary>
   </entry>
   <entry>
     <title>日本企業「ハッキングされないでくれ」ランキング - Qiita</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-02T12:44:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>Apple初の折りたたみ式スマートフォン「iPhone Duo」は、他のApple製品と同様に修理サービスのAppleCareに対応しています。AppleCareではバッテリーやディスプレイなど損傷箇所を細かく分類して別個に修理することが可能なのですが、iPhone Duoには他のiPhoneとは違う「カバー層」なる部位が存在することが分かっていま...</summary>
-  </entry>
-  <entry>
-    <title>はてな匿名ダイアリーがClaudeからも使えるようになりました - はてラボ 開発者ブログ</title>
-    <id>https://labo.hatenastaff.com/entry/2026/10/02/113000</id>
-    <link href="https://labo.hatenastaff.com/entry/2026/10/02/113000" />
-    <updated>2026-10-02T11:39:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はてな匿名ダイアリー20周年の取り組みのひとつとして、実験的に新しい技術への対応を進めています。 先日お知らせしたChatGPTに続き、Claudeからもはてな匿名ダイアリーを利用できるようになりました。 Claudeとの会話の中から、はてな匿名ダイアリーの投稿を探したり、読んだり、投稿*1したりできます。 Claudeからは...</summary>
-  </entry>
-  <entry>
-    <title>AIがもたらすのは明るい未来？ それとも破滅？ IT界隈の著名人の見解をマッピングしたサイト【やじうまWatch】</title>
-    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2145050.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2145050.html" />
-    <updated>2026-10-02T10:43:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIがもたらすのは明るい未来？ それとも破滅？ IT界隈の著名人の見解をマッピングしたサイト【やじうまWatch】</summary>
-  </entry>
-  <entry>
-    <title>文字画像APNGメーカー｜TRPG WEBツール観測所</title>
-    <id>https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/</id>
-    <link href="https://kumachansteps.github.io/trpg-web-tools/tools/text-apng-maker/" />
-    <updated>2026-10-02T07:02:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>文字画像APNGメーカー｜TRPG WEBツール観測所</summary>
   </entry>
 </feed>
