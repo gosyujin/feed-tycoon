@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T04:30:48.834840+09:00</updated>
+  <updated>2026-10-04T04:32:07.914919+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -423,6 +423,14 @@
     <summary>靴メーカーのムーンスターは10月2日、同社のシステムサーバが外部から不正アクセスを受け、オンラインストアを利用した顧客の氏名、住所、電話番号、メールアドレス、過去の注文情報が漏えいした可能性があると発表した。 3月26日に公表した不正アクセスの疑いの続報。約半年後に漏えいの可能性を報告した。</summary>
   </entry>
   <entry>
+    <title>実務において敵対的レビューはどの程度有効なのか</title>
+    <id>https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef</id>
+    <link href="https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef" />
+    <updated>2026-10-03T03:40:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>目次 背景 やったこと 検証結果 考察 付記：レビューと自動修正のループで指摘が収束しない問題 感想 1. 背景 AI エージェントにコードレビューをさせる手法のひとつとして、敵対的レビューが広まっています。差分を通常どおりレビューして問題を探すだけでなく、「この変更で誤った結果やエラーを起こす入力や状況は何...</summary>
+  </entry>
+  <entry>
     <title>アルゴリズムの最先端に挑戦：「四色定理」はどこまでバランスよく塗れるのか？ - Qiita</title>
     <id>https://qiita.com/square1001/items/4714dd9e2ddb97c32057</id>
     <link href="https://qiita.com/square1001/items/4714dd9e2ddb97c32057" />
@@ -437,14 +445,6 @@
     <updated>2026-10-02T15:12:27+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>この記事について TiDB では v8.5.0 から Index Advisor という機能が利用できるようになりました。この機能を使うことで、対象クエリに対して適切なインデックスを見つけやすくなります。Index Advisor は特定クエリだけでなく、過去一定期間のクエリの実行状況から、実行頻度の高いクエリに対するインデックスを推薦することも可能であるため、日常的なクエリチューニングに利用する…</summary>
-  </entry>
-  <entry>
-    <title>実務において敵対的レビューはどの程度有効なのか</title>
-    <id>https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef</id>
-    <link href="https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef" />
-    <updated>2026-10-01T19:48:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>目次 背景 やったこと 検証結果 考察 付記：レビューと自動修正のループで指摘が収束しない問題 感想 1. 背景 AI エージェントにコードレビューをさせる手法のひとつとして、敵対的レビューが広まっています。差分を通常どおりレビューして問題を探すだけでなく、「この変更で誤った結果やエラーを起こす入力や状況は何か」を探す役割のエージェントを別に立て、両者の指摘を実コードで確かめてから確定させる方式で…</summary>
   </entry>
   <entry>
     <title>Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ 「AIエージェントの進化でリスクが大幅に増大」</title>
