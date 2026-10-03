@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T21:00:16.497224+09:00</updated>
+  <updated>2026-10-03T21:30:12.908992+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Windowsで再生中の音声をWhisperで文字起こしする：Meetilyの仕組みを100行未満のRustで再現する</title>
+    <id>https://zenn.dev/tmtk/articles/edc992e6a24b65</id>
+    <link href="https://zenn.dev/tmtk/articles/edc992e6a24b65" />
+    <updated>2026-10-03T17:03:54+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Meetily（会議の録音、文字起こし、要約をすべてPCの中で行うオープンソースの会議アシスタント）のコードを読みました。Windows版のMeetilyは、会議アプリやブラウザが再生している音を「WASAPIのループバック」（PCが再生している音を、そのまま録音するWindowsの仕組み）で取り込み、Whisper（OpenAIが公開している音声認識モデル）などで文字にしています。 た…</summary>
+  </entry>
+  <entry>
+    <title>UnityでなぜC# 10以降を使うライブラリが動くのか</title>
+    <id>https://zenn.dev/s4k1/articles/ba87c0ff3c1d47</id>
+    <link href="https://zenn.dev/s4k1/articles/ba87c0ff3c1d47" />
+    <updated>2026-10-03T15:05:15+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. Unity対応ライブラリと「C# 9対応」の食い違い UnityでZLogger、R3、MemoryPackなどのライブラリを使っていると、Unity向けのパッケージと.NET向けの実装が同じリポジトリに並んでいるのを見かけます。そのコードには、C# 10以降で追加された機能も使われています。 わかりやすい例がZLoggerです。ログを書き込む次のAPIは、C# 10のカスタム文字列補間ハン…</summary>
+  </entry>
   <entry>
     <title>Jev-IDS: System One Models for Network Intrusion Detection</title>
     <id>https://arxiv.org/abs/2610.01079</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-02T13:22:20+09:00</updated>
     <category term="はてブ IT" />
     <summary>メモリメーカーのMicronが、メモリとストレージの供給不足は2027年と2028年にさらに深刻化するとの見通しを示しました。サンジェイ・メロートラCEOは需要と供給が均衡する時期を見通せないと説明し、不足が2028年以降も続く可能性を示唆しています。また、2027年向けの高帯域幅メモリ(HBM)について、顧客が2026年よりも...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeを自分好みにカスタムできるMod機能が登場</title>
-    <id>https://gigazine.net/news/20261002-claude-code-customize-mod/</id>
-    <link href="https://gigazine.net/news/20261002-claude-code-customize-mod/" />
-    <updated>2026-10-02T12:24:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIコーディングエージェントのClaude Codeに、動作やUIを自分好みにカスタムできるMod機能が追加されました。ModはTypeScriptで記述可能で、Claude Code自身にModの作成を依頼することもできます。 Claude Code mods / claude.dev Blog https://claude.dev/mods/ Customize Claude Code wit…</summary>
-  </entry>
-  <entry>
-    <title>Androidにも「マイナアプリ」提供へ 20日から 物理カードなしでも本人確認など可能に</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/02/2000001968/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001968/" />
-    <updated>2026-10-02T15:36:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は10月2日、「Androidのマイナンバーカード」の提供を20日に始める予定だと発表した。既存の「Androidスマホ用電子証明書搭載サービス」を刷新するもので、Android端末でも実物のカードを提示せずに、スマートフォンで対面の本人確認や年齢確認などを受けられるようになる。 従来のサービスでは、マイナンバー...</summary>
   </entry>
 </feed>
