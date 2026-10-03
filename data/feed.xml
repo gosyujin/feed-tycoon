@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T01:45:57.540308+09:00</updated>
+  <updated>2026-10-04T02:00:15.195129+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>CSS の margin-trim でコンテナーの端の余白を取り除く</title>
+    <id>https://azukiazusa.dev/blog/css-margin-trim/</id>
+    <link href="https://azukiazusa.dev/blog/css-margin-trim/" />
+    <updated>2026-10-03T00:01:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026 年 9 月 27 日時点で、margin-trim はすべての主要ブラウザーで利用できる機能ではありません。Safari 16.4 で導入されていますが、Chromium や Firefox では未対応です。 カードの上下に余分な余白ができる まずは、margin-trim を使わない場合の余白を確認しましょう。次のカードには、見出しと 2 つの段落があり...</summary>
+  </entry>
   <entry>
     <title>「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap</title>
     <id>https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T15:30:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>現代の最新の車は「車輪のついたスマートフォン」と言われることもあるほど多機能で膨大なデータを処理しており、どこを走ったか、どれくらいの速度で加速したか、どれくらいの強さでブレーキをかけたか、どれくらい急に曲がったかなどの情報が記録されています。自動車メーカーが集めた運転データを第三者に販売してい...</summary>
-  </entry>
-  <entry>
-    <title>ニッポンレンタカーで別の不正アクセス発覚 新たに55人分情報漏えいか 免許証番号やクレカ4ケタも</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/02/2000001952/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001952/" />
-    <updated>2026-10-02T12:44:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ニッポンレンタカーは10月1日、「ニッポンレンタカーアプリ」のシステムに、前回発表した件とは別手法の不正アクセスがあり、会員55人の個人情報を第三者が閲覧したおそれがあると発表した。 9月26日に公表した前回の事案では、41人の会員の情報が閲覧されたおそれが発覚していた。その事案を調査する過程で、別手法によ...</summary>
   </entry>
 </feed>
