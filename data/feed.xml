@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T18:00:12.145641+09:00</updated>
+  <updated>2026-10-03T18:30:13.653762+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>無料でAWSをローカルでシミュレーションできるエミュレーター「MiniStack」、60以上のAWSサービスを単一ポートで利用可能でマルチアカウント＆マルチリージョン対応、セルフホスト可能</title>
+    <id>https://gigazine.net/news/20261003-ministack/</id>
+    <link href="https://gigazine.net/news/20261003-ministack/" />
+    <updated>2026-10-03T12:06:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AWSを利用するアプリを開発する場合、動作確認のたびにAWS上へS3・DynamoDB・Lambdaなどのリソースを作成すると、環境の構築・削除・利用料金の管理などが必要になります。そこで、AWSのAPIをPC上で再現し、AWS CLIやTerraformなどから60以上のAWSサービスをローカル環境だけで無料で利用できるエミュレーター「MiniStac...</summary>
+  </entry>
   <entry>
     <title>ついに時代が来る？--「Linux」がデスクトップの主役になる5つの理由</title>
     <id>https://japan.zdnet.com/article/35253148/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T13:24:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>Mac・DGX SparkでLLM推論を最大3倍高速化する「TensorFold」の概要をまとめました。 1. TensorFoldとは1-1. TensorFoldとは「TensorFold」は、Apple Siliconと対応するNVIDIA GPUで動作するオープンソースのLLM推論エンジンです。特徴は、Speculative Decodingによる生成の高速化です。さらにApple Sil…</summary>
-  </entry>
-  <entry>
-    <title>第一生命に不正アクセス 従業員情報12万人分漏えいか 退職者も対象</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/02/2000001971/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001971/" />
-    <updated>2026-10-02T17:01:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>第一ライフグループと第一生命保険は10月2日、2社が使う人事システムが不正アクセスを受け、従業員情報約12万人分が漏えいした可能性があると発表した。うち7万人分は退職者の情報という。 漏えいした可能性がある情報は、対象者の従業員番号、氏名、住所、電話番号、性別、所属、職位、職務、上長の名前。2社からグルー...</summary>
   </entry>
 </feed>
