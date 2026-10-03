@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T09:30:15.241312+09:00</updated>
+  <updated>2026-10-03T10:00:16.362248+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>自作GPTにKVキャッシュを実装し、プロンプトキャッシュの仕組みを学んだ - $shibayu36-&gt;blog;</title>
+    <id>https://blog.shibayu36.org/entry/2026/10/02/214736</id>
+    <link href="https://blog.shibayu36.org/entry/2026/10/02/214736" />
+    <updated>2026-10-02T22:19:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>『つくりながら学ぶ！LLM自作入門』を理解するために、1層1ヘッドの最小構成のGPTから少しずつ発展させながら実装を進めている。前回の記事で、自作GPTに日本語GPT-2モデルを読み込み生成まで出来た。 『つくりながら学ぶ！LLM自作入門』を1層1ヘッドの最小構成から始めてみている 1層1ヘッドのGPTを4層に発展させ、生成...</summary>
+  </entry>
+  <entry>
+    <title>「Androidのマイナンバーカード」は10月20日スタート予定 今の「スマホ用電子証明書」と何が違う？</title>
+    <id>https://www.itmedia.co.jp/mobile/articles/2610/02/news071.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2610/02/news071.html" />
+    <updated>2026-10-02T21:52:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>デジタル庁は10月2日、Androidスマートフォン向けの「≪Androidのマイナンバーカード」を10月20日から提供する予定であることを明らかにした。このカードは「Google ウォレット」アプリに格納して利用するもので、一定の基準を満たすセキュリティチップを搭載した機種で利用可能となる見通しだが、具体的な対応機種はサー...</summary>
+  </entry>
+  <entry>
+    <title>Introducing Strands Decider 2B: a small, open source, decision model</title>
+    <id>https://strandsagents.com/blog/introducing-strands-decider/</id>
+    <link href="https://strandsagents.com/blog/introducing-strands-decider/" />
+    <updated>2026-10-02T08:31:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Introducing Strands Decider 2B: a small, open source, decision modelStrands Decider 2B is a small, open source, decision model optimized for fast experimentation, local development, and innovation. Ea…</summary>
+  </entry>
   <entry>
     <title>新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita</title>
     <id>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-01T20:02:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>政府開発の出会い系サービスや、入学者選考、医師の研修先を決めるマッチング制度などで採用されているマッチングアルゴリズムが「ゲール-シャープレーアルゴリズム」です。このアルゴリズムを使ってどのように男女のマッチングが行われるのかを、専門家が解説しています。 Singapore's govt dating app runs on a Nobel...</summary>
-  </entry>
-  <entry>
-    <title>「Kindle」シリーズ4モデルを刷新 全モデルで画面の段差なくしフラットに 2万9980円から</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/02/2000001949/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001949/" />
-    <updated>2026-10-02T09:53:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Amazonは10月1日（現地時間）、電子書籍リーダー「Kindle」シリーズの4モデルを刷新し、日本でも販売すると発表した。全モデルでディスプレイとベゼルの段差をなくしたフラットな前面デザインを採用し、前モデルより薄くした。一部のモデルでは軽量化や高速化も図った。日本での販売価格は2万9980円から5万6980円（税...</summary>
-  </entry>
-  <entry>
-    <title>ローソンのメールサーバが踏み台に、不審メール約70万件送信 件名「RE」など</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/02/2000001947/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/02/2000001947/" />
-    <updated>2026-10-02T09:14:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>同社が確認した不審メールは、件名が「Mutual Benefit」または「RE」で、英文で金銭の取得を示唆し、メールでの連絡や個人情報の提供などを求める内容。 他の内容で送信している可能性もある。送信元アドレスの表示を第三者に見えるよう偽装したケースもあるという。 現時点で情報流出やデータセンター内への侵入、デー...</summary>
-  </entry>
-  <entry>
-    <title>モデルはコモディティになる。差をつけるのは Work IQ - 吉田の備忘録</title>
-    <id>https://memo.tyoshida.me/copilot/work-iq-explained/</id>
-    <link href="https://memo.tyoshida.me/copilot/work-iq-explained/" />
-    <updated>2026-10-02T07:22:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIについて話すとき、私たちはつい「どのモデルが一番賢いか」という話をしてしまいます。GPTなのか、Claudeなのか、次のモデルはどれだけベンチマークが上がったのか。もちろんモデル性能は重要です。しかし、企業におけるAI活用を考えるとき、私はこの議論だけでは本質を捉えられないと思っています。 これからモデル...</summary>
   </entry>
 </feed>
