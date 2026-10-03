@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T22:00:14.892792+09:00</updated>
+  <updated>2026-10-03T22:30:14.563102+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ドコモがほぼ全ての料金プランを値上げ それよりも端末の値上げが気になるこの頃</title>
+    <id>https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html" />
+    <updated>2026-10-03T13:46:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ITmedia Mobileにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia Mobile Weekly Top10」。今回は2026年9月24日から9月30日までの7日間について集計し、まとめました。 今回のアクセス数の1位は、12月にNTTドコモが実施する“料金値上げ”に関する解説記事でした。 この記事にもある通り、NTTドコモ...</summary>
+  </entry>
+  <entry>
+    <title>AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける</title>
+    <id>https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/</id>
+    <link href="https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/" />
+    <updated>2026-10-03T11:17:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 Updates to Full Disk Access in macOS - Latest News - Apple Developer https://developer.apple.com/news/?id=p6zjojqw…</summary>
+  </entry>
   <entry>
     <title>貧乏な子どもが“稼げる大人”になる条件とは？ 米ハーバード大などがFacebook7000万アカウント超から分析 2022年にNature掲載</title>
     <id>https://www.itmedia.co.jp/news/article/2610/03/2000001935/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-02T13:07:01+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに Next.js v16 には use cache: private というディレクティブがあり、cookies() などリクエスト固有の値を読んだ関数の結果をキャッシュできます。 その結果がサーバーに残らないということはドキュメントに書かれています。 In production, matching calls within one request can reuse the same r…</summary>
-  </entry>
-  <entry>
-    <title>「Gemini 4 Argon」とは 性能評価にみるAstra／Fable／Opusとの違い 一般提供は年内？</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2610/02/2000001954/" />
-    <updated>2026-10-02T12:24:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Googleは9月30日（現地時間、以下同）、同社の新たな最先端モデル「Gemini 4 Argon」（以下、Argon）を発表した。Google DeepMindの評価資料では、米OpenAIの「GPT-6 Astra」（以下、Astra）、米Anthropicの「Claude Fable 5.1」（以下、Fable 5.1）と「Claude Opus 5.5」（以下、Opus 5.5）を相手…</summary>
-  </entry>
-  <entry>
-    <title>glibc の strlen は文字列範囲外を読むことで高速に計算する</title>
-    <id>https://zenn.dev/peloeil/articles/glibc-strlen-2023</id>
-    <link href="https://zenn.dev/peloeil/articles/glibc-strlen-2023" />
-    <updated>2026-10-02T02:56:12+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに strlen は、文字列の先頭から終端文字 \0 の直前までの byte 数を返す関数です。自分で実装するなら、1byte ずつ読んで \0 が見つかるまで数えるのが自然だと思います。glibc では、この探索を高速化するために、複数 byte をまとめて読み、ビット演算を使って終端文字を探しています。その読み込みは、文字列の範囲内に収まるとは限りません。 このように複数 byte をま…</summary>
   </entry>
 </feed>
