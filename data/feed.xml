@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T21:36:28.655426+09:00</updated>
+  <updated>2026-10-03T22:00:14.892792+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>貧乏な子どもが“稼げる大人”になる条件とは？ 米ハーバード大などがFacebook7000万アカウント超から分析 2022年にNature掲載</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/03/2000001935/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001935/" />
+    <updated>2026-10-03T14:54:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同...</summary>
+  </entry>
+  <entry>
+    <title>ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致</title>
+    <id>https://gigazine.net/news/20261002-opendlss-nr/</id>
+    <link href="https://gigazine.net/news/20261002-opendlss-nr/" />
+    <updated>2026-10-02T20:12:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAが発表したAIによるアップスケーリング技術「DLSS 5」を「Vulkan」で再実装するプロジェクト「OpenDLSS-NR」が登場しました。 GitHub - maanHimself/OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against…</summary>
+  </entry>
   <entry>
     <title>アマゾンが新型の「Fire TV Stick 4K」、電源アダプター不要に</title>
     <id>https://k-tai.watch.impress.co.jp/docs/news/2145167.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-02T02:56:12+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに strlen は、文字列の先頭から終端文字 \0 の直前までの byte 数を返す関数です。自分で実装するなら、1byte ずつ読んで \0 が見つかるまで数えるのが自然だと思います。glibc では、この探索を高速化するために、複数 byte をまとめて読み、ビット演算を使って終端文字を探しています。その読み込みは、文字列の範囲内に収まるとは限りません。 このように複数 byte をま…</summary>
-  </entry>
-  <entry>
-    <title>microCMS をやめて、Raspberry Pi で Payload CMS を動かす</title>
-    <id>https://zenn.dev/85store/articles/574a1a07233283</id>
-    <link href="https://zenn.dev/85store/articles/574a1a07233283" />
-    <updated>2026-10-01T22:59:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>古着屋のサイト（Next.js 16 / Vercel）のブログとバナーを、microCMS から自宅の Raspberry Pi で動かす Payload CMS に移しました。 結論から言うと、ポイントは「サイトは Pi を一切読まない」ことです。CMS は公開のたびに中身を JSON にして Cloudflare R2 に書き出し、サイトはその JSON だけを読みます。Pi が止まっても困…</summary>
-  </entry>
-  <entry>
-    <title>テキストを生成しない爆速AI「意思決定モデル」が続々。Clefなど3本まとめ</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2145211.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2145211.html" />
-    <updated>2026-10-02T15:27:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>テキストを生成しない爆速AI「意思決定モデル」が続々。Clefなど3本まとめ</summary>
   </entry>
 </feed>
