@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-03T22:30:14.563102+09:00</updated>
+  <updated>2026-10-03T23:00:13.854884+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>MacBook Pro（OLED）や新型iPad miniなど複数の新製品を今月発表？ - iPhone Mania</title>
+    <id>https://iphone-mania.jp/mac-606895/</id>
+    <link href="https://iphone-mania.jp/mac-606895/" />
+    <updated>2026-10-03T08:43:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleが現在、macOS 27.2 Golden Gateをインストールした有機EL（OLED）ディスプレイ搭載MacBook Proの社内テストを行っており、早ければ10月中にも発表される可能性があると、Bloombergのマーク・ガーマン記者が予想しています。 その場合、Appleは10月中にスマートホームハブ、新型iPad mini、OLEDディスプレイ搭載Mac...</summary>
+  </entry>
+  <entry>
+    <title>バグの発見と修正を支援するオープンソースの AI ハーネス、Mantis のスタートガイド | Google Cloud 公式ブログ</title>
+    <id>https://cloud.google.com/blog/ja/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs</id>
+    <link href="https://cloud.google.com/blog/ja/products/identity-security/getting-started-with-the-mantis-harness-to-find-and-fix-bugs" />
+    <updated>2026-10-02T18:33:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Yulong ZhangSenior Staff Security Engineer, Google ※この投稿は米国時間 2026 年 9 月 3 日に、Google Cloud blog に投稿されたものの抄訳です。 AI モデルは、人間の手をほとんど、あるいはまったく介さずに脆弱性を発見して悪用する能力を持っていることが判明しています。防御側が AI を活用して優位性を確保でき...</summary>
+  </entry>
   <entry>
     <title>ドコモがほぼ全ての料金プランを値上げ それよりも端末の値上げが気になるこの頃</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2610/03/news013.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-02T19:49:59+09:00</updated>
     <category term="はてブ IT" />
     <summary>カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け、運転免許証の画像などが漏えいした問題で、集団訴訟に向けて弁護士が開設したサイトに登録した人が1万人以上にのぼることが分かりました…</summary>
-  </entry>
-  <entry>
-    <title>無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加</title>
-    <id>https://gigazine.net/news/20261002-pi-1-0/</id>
-    <link href="https://gigazine.net/news/20261002-pi-1-0/" />
-    <updated>2026-10-02T17:55:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されていま...</summary>
-  </entry>
-  <entry>
-    <title>`use cache: private` のキャッシュはブラウザに残ることもある</title>
-    <id>https://zenn.dev/chot/articles/362b7a2420ef1a</id>
-    <link href="https://zenn.dev/chot/articles/362b7a2420ef1a" />
-    <updated>2026-10-02T13:07:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Next.js v16 には use cache: private というディレクティブがあり、cookies() などリクエスト固有の値を読んだ関数の結果をキャッシュできます。 その結果がサーバーに残らないということはドキュメントに書かれています。 In production, matching calls within one request can reuse the same r…</summary>
   </entry>
 </feed>
