@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T11:00:38.053326+09:00</updated>
+  <updated>2026-10-04T11:30:13.568976+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>レーザービーム式蚊撃ち器の予約受付が開始される</title>
+    <id>https://gigazine.net/news/20261004-photon-matrix/</id>
+    <link href="https://gigazine.net/news/20261004-photon-matrix/" />
+    <updated>2026-10-04T08:12:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer ente…</summary>
+  </entry>
+  <entry>
+    <title>【メモ】pstack (Claude Code 移植版pstack-claude) のスタック構成とオーケストレーションを読む</title>
+    <id>https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo</id>
+    <link href="https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo" />
+    <updated>2026-10-03T15:50:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで扱う pstack はコミュニティによる移植版のプラグインで、更新が頻繁です。本文の記述は執筆時点(2026年10月, pstack-claude v0.9.63 / Claude Code v2.1.288 で確認)のものなので、最新の構成はリポジトリをご確認ください。 はじめ...</summary>
+  </entry>
   <entry>
     <title>GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.</title>
     <id>https://github.com/egma-ai/jev-code-reviewer</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-02T10:22:09+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Rustのコミュニティには様々なものがあります。 是非、複数のコミュニティに入ってRustを盛り上げましょう。 この記事では、継続的に活動しており、かつ現在も運営されているRustコミュニティを掲載しています。 私が見落としているコミュニティがありましたら、ぜひ...</summary>
-  </entry>
-  <entry>
-    <title>OIDCとSAMLを初心者向けに整理</title>
-    <id>https://qiita.com/mshr_n17/items/bc46ca73775cd9b1c98e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mshr_n17/items/bc46ca73775cd9b1c98e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T08:17:11+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AWSやWebシステムを勉強していると、 OIDC SAML SSO OAuth IdP SP といった言葉をよく目にします。 特に「OIDCとSAMLは何が違うのか」「SSOとはどう関係するのか」が分かりにくかったため、この記事ではそれぞれの役割を整理しま...</summary>
-  </entry>
-  <entry>
-    <title>アルバイト先で使うPNGファイルを調査してみた</title>
-    <id>https://qiita.com/ikema_sec/items/42b6c9e203eb22fe15a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ikema_sec/items/42b6c9e203eb22fe15a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T08:05:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>調査するPNGファイル 私のアルバイト先のプログラミング教室では、 Microsoft Makecode Arcade という環境を使って生徒がゲーム制作を行っています。 制作したゲームはエクスポートしたり、インポートして続きから制作できるのですが、保存されるファイルが ...</summary>
   </entry>
 </feed>
