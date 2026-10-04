@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T00:00:11.639516+09:00</updated>
+  <updated>2026-10-05T00:30:15.590787+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SlothMon</title>
+    <id>https://kuuhugu.github.io/SlothMon/</id>
+    <link href="https://kuuhugu.github.io/SlothMon/" />
+    <updated>2026-10-03T16:02:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>スマホやタブレットを、 PC のサブディスプレイに。 SlothMon は Windows に仮想ディスプレイを作成し、Wi-Fi 経由でスマホやタブレットのブラウザに画面を映すアプリです。スマホ側のアプリインストールは一切不要。QR コードを読み取るだけで即座にサブ画面として使え、タッチやペン操作にも対応します。</summary>
+  </entry>
   <entry>
     <title>世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果</title>
     <id>https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T22:01:20+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Github Actionsのymlの記述について 問題 全部&amp;&amp;で繋いでたけど無理がある 解決 run: | echo “a” echo “b” 終わりに</summary>
-  </entry>
-  <entry>
-    <title>CICDからfirebase deployする</title>
-    <id>https://qiita.com/J-T_ky2g/items/808fa3be60346859ce68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/808fa3be60346859ce68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T22:00:46+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに CICDから自動でfirebaseにデプロイしたい 問題 ローカルとは環境違うのでコマンドに対話形式ではなく認証情報を渡さないといけない。ローカルだとブラウザからログインして認証している 解決 １. firebase login:ciでトークンを作る...</summary>
   </entry>
 </feed>
