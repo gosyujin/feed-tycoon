@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T17:30:13.481884+09:00</updated>
+  <updated>2026-10-04T18:00:15.626989+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「雑に扱うと面倒、と思わせるのは大事」大手金融機関に無限のAI対応やられ実質ノー回答だったので「消費者庁に電話するしかねーな」とつぶやいたら、人間に繋がった</title>
+    <id>https://togetter.com/li/2753906</id>
+    <link href="https://togetter.com/li/2753906" />
+    <updated>2026-10-04T15:58:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本経済新聞 電子版（日経電子版） @nikkei 三井住友銀行、Oliveの電話問い合わせの72%をAIだけで解決 nikkei.com/article/DGXZQO… AIオペレーターは24時間365日稼働。夜間や年末年始も対応可能です。有人対応と同様の応答品質を確保しているといいます。人とAIの役割分担をどう進めてきたのでしょうか。 2026-10-01 16...</summary>
+  </entry>
   <entry>
     <title>ゴールシークプロンプトとは ― AIに質問させて成果物を作る方法を、テンプレートと実例で解説</title>
     <id>https://qiita.com/nogataka/items/3bd4598ddf5c3e9c2b3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-03T02:57:08+09:00</updated>
     <category term="はてブ IT" />
     <summary>1. 研究成果の紹介 本記事では、私が 2026 年 7 月に投稿した論文 The Balanced Four-Color Theorem について紹介させていただきます。米田優峻氏 (@e869120)1 および指導教員の河原林健一先生 2 との共著論文となります。 Ken-ichi Kawarabayashi, Hirotaka Yoneda, Masataka Yoneda. "The Ba…</summary>
-  </entry>
-  <entry>
-    <title>TiDBのIndex Advisorを始めるために知っておきたいこと</title>
-    <id>https://zenn.dev/shigeyuki/articles/51b095f4831f00</id>
-    <link href="https://zenn.dev/shigeyuki/articles/51b095f4831f00" />
-    <updated>2026-10-02T15:12:27+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事について TiDB では v8.5.0 から Index Advisor という機能が利用できるようになりました。この機能を使うことで、対象クエリに対して適切なインデックスを見つけやすくなります。Index Advisor は特定クエリだけでなく、過去一定期間のクエリの実行状況から、実行頻度の高いクエリに対するインデックスを推薦することも可能であるため、日常的なクエリチューニングに利用する…</summary>
   </entry>
 </feed>
