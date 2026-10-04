@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T22:00:13.677786+09:00</updated>
+  <updated>2026-10-04T22:30:13.467718+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Apple、macOSに新たに「フルディスクアクセス」の制御機能を導入へ AIエージェントのリスク対処のため - こぼねみ</title>
+    <id>https://www.kobonemi.com/entry/2026/10/03/macOS-27-Full-Disk-Access-Additional-Controls</id>
+    <link href="https://www.kobonemi.com/entry/2026/10/03/macOS-27-Full-Disk-Access-Additional-Controls" />
+    <updated>2026-10-03T09:00:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleは日本時間10月3日、開発者向け最新ニュースで、AIエージェントがもたらす新たなリスクを踏まえ、macOSの「フルディスクアクセス」設定に「追加の制御機能」を導入すると発表しました。 今回の発表は、Meta MuseやOpenAI Dotsといった常時稼働型のAIエージェントの台頭に伴い、プライバシーに関する懸念が高まって...</summary>
+  </entry>
   <entry>
     <title>OpenAIの安全担当従業員が辞職、「会社の文化が崩壊している」と主張</title>
     <id>https://gigazine.net/news/20261004-openai-safety-employee-resigns-culture-broken/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T13:19:37+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Power Platform でアプリを作っていると「このリストにはどんな列があるんだっけ？」「この列の内部列名はなんだっけ？」と確認したくなることがあります。特にチームで開発や運用を行う場合は、利用しているデータソースや列情報を設計書として残しておくと非常に便...</summary>
-  </entry>
-  <entry>
-    <title>Codex Security ・ Claude Security 入門｜npaka</title>
-    <id>https://note.com/npaka/n/n2b9c36c471b6</id>
-    <link href="https://note.com/npaka/n/n2b9c36c471b6" />
-    <updated>2026-10-01T13:08:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Codex Security」と「Claude Security」を使って、AIで自社サービスの脆弱性を発見・検証する方法を簡単にまとめました。 1. はじめにWebサービスでは、氏名やメールアドレス、住所など、多くの重要なデータを扱います。情報流出のニュースを見ると、自分たちのサービスにも、気付いていない脆弱性が残っているのでは...</summary>
   </entry>
 </feed>
