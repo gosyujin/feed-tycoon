@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T22:30:13.467718+09:00</updated>
+  <updated>2026-10-04T23:00:13.155098+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応</title>
+    <id>https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</id>
+    <link href="https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html" />
+    <updated>2026-10-05T00:56:27+09:00</updated>
+    <category term="Publickey" />
+    <summary>PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is join...</summary>
+  </entry>
+  <entry>
+    <title>MyGo — Desktop apps in Go, with a web frontend or native UI</title>
+    <id>https://mygo.egoist.dev/</id>
+    <link href="https://mygo.egoist.dev/" />
+    <updated>2026-10-03T21:33:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>type Greeter struct{} // Greet returns a greeting. func (Greeter) Greet(name string) string { return "Hello, " + name } func main() { mygo.Bind(Greeter{}) mygo.App.WhenReady(func() { mygo.NewWindow(my…</summary>
+  </entry>
+  <entry>
+    <title>Google Cloud、ローカルマシンにインストールできる大規模分散型マルチモデルDB「Spanner Omni」正式版リリースを発表</title>
+    <id>https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html</id>
+    <link href="https://www.publickey1.jp/blog/26/google_clouddbspanner_omni.html" />
+    <updated>2026-10-02T03:28:43+09:00</updated>
+    <category term="Publickey" />
+    <summary>Google Cloudは、大規模分散データベースとしてリレーショナルモデルだけでなくグラフ型やキーバリュー型、ベクトル検索、テキスト検索などのマルチモデルに対応したデータベースソフトウェア「Spanner Omni」の正式版リリースを発表...</summary>
+  </entry>
   <entry>
     <title>Apple、macOSに新たに「フルディスクアクセス」の制御機能を導入へ AIエージェントのリスク対処のため - こぼねみ</title>
     <id>https://www.kobonemi.com/entry/2026/10/03/macOS-27-Full-Disk-Access-Additional-Controls</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-02T20:47:39+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Web Push通知を実装していて、VAPID公開鍵を Uint8Array に変換して pushManager.subscribe() に渡したところ、次の型エラーが出ました。 Type error: Type 'Uint8Array</summary>
-  </entry>
-  <entry>
-    <title>複数のAIエージェントを並行して動かすADE「Orca」が快適だった</title>
-    <id>https://qiita.com/hiroshi_ito9854/items/4cedc17bcf058a04dba4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hiroshi_ito9854/items/4cedc17bcf058a04dba4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T19:04:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに こんにちは 最近、Claude Codeを動かす環境をGhosttyからOrcaに乗り換えました。 この記事では、Orcaの概要、worktree作成時にgit管理外のファイルをコピーする方法、スマホからエージェントを操作する方法を紹介します！ Orcaとは ...</summary>
-  </entry>
-  <entry>
-    <title>Jevとは何か。スマートなif文でソフトウェアに知性を組み込む</title>
-    <id>https://qiita.com/goofmint/items/11b89a372fbb9b625d12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/goofmint/items/11b89a372fbb9b625d12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T16:01:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>本記事は、CodeRabbitのお届けするポッドキャストTHE MERGEより、Jev Explained: Intelligence infused 'If-Statements' for Your Code | Allie form TypeSafe AIの日本語解説で...</summary>
-  </entry>
-  <entry>
-    <title>Power Automate で SharePoint Lists の列情報（列名・内部名・列の説明）を Excel に出力する</title>
-    <id>https://qiita.com/YurimyMiyu/items/c3d063c5adbf585ae133?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/YurimyMiyu/items/c3d063c5adbf585ae133?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T13:19:37+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Power Platform でアプリを作っていると「このリストにはどんな列があるんだっけ？」「この列の内部列名はなんだっけ？」と確認したくなることがあります。特にチームで開発や運用を行う場合は、利用しているデータソースや列情報を設計書として残しておくと非常に便...</summary>
   </entry>
 </feed>
