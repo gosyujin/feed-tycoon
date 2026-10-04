@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T12:30:15.397582+09:00</updated>
+  <updated>2026-10-04T13:00:12.155444+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要</title>
+    <id>https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</id>
+    <link href="https://gigazine.net/news/20261004-cloudflare-quick-tunnels/" />
+    <updated>2026-10-04T12:07:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ...</summary>
+  </entry>
   <entry>
     <title>最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？</title>
     <id>https://togetter.com/li/2753802</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T11:51:40+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに この記事では、IBM AI Launchpad（ai-services）を v0.3 から v0.4.0 へアップデートする手順を実際の実行ログをもとに紹介します。 v0.4.0からは、公式のドキュメント上で ai-services という名称から IBM AI...</summary>
-  </entry>
-  <entry>
-    <title>【AWS】Ruby on RailsアプリケーションをLambda Web Adapterで動かしてみた</title>
-    <id>https://qiita.com/PDC-Kurashinak/items/b56cd95751c9f70327cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/PDC-Kurashinak/items/b56cd95751c9f70327cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-02T10:43:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>どうもこんにちは。 最近ずっとAmazon Bedrock AgentCoreやらLambda Durable FunctionsやらCDKを触っていたので、本来の領域であるRuby on Railsを忘れかけていたくらっちです。 といってもRuby on Rails単体で...</summary>
   </entry>
 </feed>
