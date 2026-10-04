@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T08:00:12.756024+09:00</updated>
+  <updated>2026-10-05T08:30:12.787597+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる手順</title>
+    <id>https://zenn.dev/yoshihiko555/articles/ea2db6070058b3</id>
+    <link href="https://zenn.dev/yoshihiko555/articles/ea2db6070058b3" />
+    <updated>2026-10-05T02:22:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Modsは、Claude Codeの公式の拡張の仕組みだ。Claude Codeの中で動くTypeScript（またはJavaScript）の関数で、画面にペインを足したり、プロンプトやツール呼び出しを書き換えたりできる。2026年10月1日（米国時間）のv2.1.287で正式にリリースされた（公式ブログ、リリースノート）。 私は発表の数日後に、公開されているmodを3つ入れた。この…</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare の判定モデル Clef を Workers AI で触ってみた</title>
+    <id>https://zenn.dev/akari1106/articles/b6d3180cc50dfe</id>
+    <link href="https://zenn.dev/akari1106/articles/b6d3180cc50dfe" />
+    <updated>2026-10-04T23:36:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Cloudflare が 2026年10月1日に、判定用のモデル「Clef」と「Clef-flash」を発表しました。 この記事は、2つのモデルを Workers AI から呼び出して、簡単な実験をした記録です。 Jevは私は触り済みなのそれ前提感あるかもです。一旦として、Clef を触ったよ、の話になります。 公式の情報は次のページで確認できます。 発表記事: Introducing…</summary>
+  </entry>
+  <entry>
+    <title>既存OSSのnginxをOpenRestyへ差し替え、Entra IDとアプリ内ユーザーを追跡できるログを作った話</title>
+    <id>https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa</id>
+    <link href="https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa" />
+    <updated>2026-10-04T21:34:49+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 案件の背景 IaaS（VM）の構築と監視・運用保守の経験が中心だった自分が、PaaSやコンテナを使ったアーキテクチャの設計・構築を担当した際に、工夫したことをまとめておこうと思います。 2025年4月頃から、DifyのOSS版をAzureで運用するためのサービス選定から構築、運用準備までを担当していました。 2026年10月現在、自分の周りでは当時ほどDifyの名前を聞かなくなりました。…</summary>
+  </entry>
+  <entry>
+    <title>PythonとCasADiで学ぶLie群上の最適化</title>
+    <id>https://zenn.dev/takuya_fukatsu/articles/069f5b78d7597f</id>
+    <link href="https://zenn.dev/takuya_fukatsu/articles/069f5b78d7597f" />
+    <updated>2026-10-04T17:35:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事のコードは Jupyter Notebook として GitHub で公開しています。Google Colab でそのまま実行できます。 ロボットやドローンの姿勢（回転）を変数とする最適化問題を、Python と CasADi で解けるようになることを目指して、手を動かしながら学ぶノートブックです。 回転行列は、足し算で更新すると回転行列でなくなってしまううえ、R^\top R = I…</summary>
+  </entry>
+  <entry>
+    <title>VueUseのIssue対応記録: v-element-sizeの修正から見るResizeObserverの値をwatchする際の注意点</title>
+    <id>https://zenn.dev/metasyntax/articles/vueuse-v-element-size-border-box</id>
+    <link href="https://zenn.dev/metasyntax/articles/vueuse-v-element-size-border-box" />
+    <updated>2026-10-04T17:04:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>本文は自筆しています。 TL;DR VueUseのコントリビュータ記録です。 修正の PR は vueuse/vueuse#5524 です。 ResizeObserver は、observe() を呼ぶと、要素のサイズが変わっていなくてもコールバックを1度呼びます その前に同じ値が ref に入っていると、コールバックが呼ばれても ref は watch に変更を通知しません box: 'bord…</summary>
+  </entry>
+  <entry>
+    <title>Key Vault参照は本当に得か — Terraform stateから秘密値を外す設計判断</title>
+    <id>https://zenn.dev/kmryst/articles/azure-key-vault-terraform-state-design</id>
+    <link href="https://zenn.dev/kmryst/articles/azure-key-vault-terraform-state-design" />
+    <updated>2026-10-04T14:38:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>API キーやクライアントシークレットを Secret に入れても、その値を Terraform に渡していれば state に残ることがあります。sensitive = true は CLI の表示を伏せるだけで、保存される場所が減るわけではありません。 Azure Container Apps で動かしている個人開発のチャットアプリで、アプリ間の API キーと、サインインに使うクライアントシ…</summary>
+  </entry>
+  <entry>
+    <title>【202610版】 Webアプリ開発初心者がKiroでAI駆動開発をしてみた</title>
+    <id>https://zenn.dev/gob7ppcsvx/articles/ae6d8fc5ca495b</id>
+    <link href="https://zenn.dev/gob7ppcsvx/articles/ae6d8fc5ca495b" />
+    <updated>2026-10-04T11:59:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>今年度から内製開発でAI駆動開発ツール・Kiro (kiro-cli) が使えるようになったらしい。 フロントエンド開発未経験で業務ツール内製に投入されたので、"AI駆動開発"に挑戦してみた。 現時点のメモ。 なお、まかされたのはJavaScriptフレームワークを利用したシングルページWebアプリでした。 たぶん一番大事なこと コンテキストを良質かつ必要十分に保つ。 プロフェッショナルAI駆動開…</summary>
+  </entry>
+  <entry>
+    <title>生成AIと進める探索的データ分析（2026.10.03 第122回Tokyo.R勉強会）</title>
+    <id>https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai</id>
+    <link href="https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai" />
+    <updated>2026-10-03T23:40:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>https://tokyor.connpass.com/event/407749/</summary>
+  </entry>
+  <entry>
+    <title>完全版 Claude Mods 入門 | Claude Codeを自由にカスタマイズする</title>
+    <id>https://zenn.dev/nogu66/articles/claude-mods-complete-guide</id>
+    <link href="https://zenn.dev/nogu66/articles/claude-mods-complete-guide" />
+    <updated>2026-10-02T08:48:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>noguです。 2026年10月1日、Claude CodeのClaude Modsが正式に発表されました。 https://x.com/ClaudeDevs/status/2105721434807083061?s=20 これは、TypeScriptの関数を用いて、Claude Codeの機能や見た目を自由かつ安全にカスタマイズできる拡張機能の仕組みです。個人的に、この機能はかなり将来性の高い機…</summary>
+  </entry>
   <entry>
     <title>最近プロジェクトマネジメントで感じたこと - Qiita</title>
     <id>https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb</id>
@@ -106,9 +178,9 @@
     <title>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通</title>
     <id>https://zenn.dev/qnighy/articles/json-ambiguity</id>
     <link href="https://zenn.dev/qnighy/articles/json-ambiguity" />
-    <updated>2026-10-04T18:27:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。...</summary>
+    <updated>2026-10-04T17:18:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。」です。 JSON とは JSON (JavaScript Object Notation) はテキストベースでスキーマレスな、構造化されたデータ交換用フォーマットです。 JavaScript の Expression 構文のサ…</summary>
   </entry>
   <entry>
     <title>米Anker、小型で高性能のNanoシリーズからAVS＆PPSに対応しiPhone 18 Proの高速充電や最大65WでMacBookも充電できるUSB急速充電器「Anker Nano Charger Neo」を発売。</title>
@@ -733,77 +805,5 @@
     <updated>2026-10-03T13:46:04+09:00</updated>
     <category term="はてブ IT" />
     <summary>ITmedia Mobileにおける1週間の記事アクセス数を集計し、上位10記事を紹介する「ITmedia Mobile Weekly Top10」。今回は2026年9月24日から9月30日までの7日間について集計し、まとめました。 今回のアクセス数の1位は、12月にNTTドコモが実施する“料金値上げ”に関する解説記事でした。 この記事にもある通り、NTTドコモ...</summary>
-  </entry>
-  <entry>
-    <title>AppleがAIエージェントのリスクを鑑みMacのフルディスクアクセスに制限を設ける</title>
-    <id>https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/</id>
-    <link href="https://gigazine.net/news/20261003-apple-limit-mac-full-disk-access-ai-agents-risk/" />
-    <updated>2026-10-03T11:17:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>現地時間の2026年10月2日、AppleはAIエージェントがもたらすリスクに対応するため、macOSにおけるフルディスクアクセスに新たな制限を導入すると発表しました。 Updates to Full Disk Access in macOS - Latest News - Apple Developer https://developer.apple.com/news/?id=p6zjojqw…</summary>
-  </entry>
-  <entry>
-    <title>貧乏な子どもが“稼げる大人”になる条件とは？ 米ハーバード大などがFacebook7000万アカウント超から分析 2022年にNature掲載</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/03/2000001935/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/03/2000001935/" />
-    <updated>2026-10-03T14:54:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同...</summary>
-  </entry>
-  <entry>
-    <title>ゲームを高解像度化するNVIDIAの「DLSS 5」をVulkanで再実装した「OpenDLSS-NR」、なんとオリジナルとビット単位で完全に一致</title>
-    <id>https://gigazine.net/news/20261002-opendlss-nr/</id>
-    <link href="https://gigazine.net/news/20261002-opendlss-nr/" />
-    <updated>2026-10-02T20:12:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIAが発表したAIによるアップスケーリング技術「DLSS 5」を「Vulkan」で再実装するプロジェクト「OpenDLSS-NR」が登場しました。 GitHub - maanHimself/OpenDLSS-NR: A Vulkan reimplementation of NVIDIA's DLSS 5 Neural Rendering network, bit-exact against…</summary>
-  </entry>
-  <entry>
-    <title>アマゾンが新型の「Fire TV Stick 4K」、電源アダプター不要に</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2145167.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2145167.html" />
-    <updated>2026-10-02T18:00:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アマゾンが新型の「Fire TV Stick 4K」、電源アダプター不要に</summary>
-  </entry>
-  <entry>
-    <title>Windowsで再生中の音声をWhisperで文字起こしする：Meetilyの仕組みを100行未満のRustで再現する</title>
-    <id>https://zenn.dev/tmtk/articles/edc992e6a24b65</id>
-    <link href="https://zenn.dev/tmtk/articles/edc992e6a24b65" />
-    <updated>2026-10-03T17:03:54+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Meetily（会議の録音、文字起こし、要約をすべてPCの中で行うオープンソースの会議アシスタント）のコードを読みました。Windows版のMeetilyは、会議アプリやブラウザが再生している音を「WASAPIのループバック」（PCが再生している音を、そのまま録音するWindowsの仕組み）で取り込み、Whisper（OpenAIが公開している音声認識モデル）などで文字にしています。 た…</summary>
-  </entry>
-  <entry>
-    <title>UnityでなぜC# 10以降を使うライブラリが動くのか</title>
-    <id>https://zenn.dev/s4k1/articles/ba87c0ff3c1d47</id>
-    <link href="https://zenn.dev/s4k1/articles/ba87c0ff3c1d47" />
-    <updated>2026-10-03T15:05:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>1. Unity対応ライブラリと「C# 9対応」の食い違い UnityでZLogger、R3、MemoryPackなどのライブラリを使っていると、Unity向けのパッケージと.NET向けの実装が同じリポジトリに並んでいるのを見かけます。そのコードには、C# 10以降で追加された機能も使われています。 わかりやすい例がZLoggerです。ログを書き込む次のAPIは、C# 10のカスタム文字列補間ハン…</summary>
-  </entry>
-  <entry>
-    <title>Jev-IDS: System One Models for Network Intrusion Detection</title>
-    <id>https://arxiv.org/abs/2610.01079</id>
-    <link href="https://arxiv.org/abs/2610.01079" />
-    <updated>2026-10-03T08:19:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Machine-learning Network Intrusion Detection Systems (IDS) depend on substantial labeled datasets and task-specific training, whereas Large Language Models (LLMs) detection can analyze flow records di…</summary>
-  </entry>
-  <entry>
-    <title>無料メールアプリ「Thunderbird for iOS」の詳細がついに判明、iPhone・iPad向けにアカウント自動設定やバックグラウンド同期を開発中で数カ月以内のコミュニティテストを目指す</title>
-    <id>https://gigazine.net/news/20261002-thunderbird-for-ios/</id>
-    <link href="https://gigazine.net/news/20261002-thunderbird-for-ios/" />
-    <updated>2026-10-02T20:39:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>無料のメールクライアント「Thunderbird」を開発するThunderbirdチームが2026年10月1日にiPhone・iPad向けの「Thunderbird for iOS」の開発状況を公開しました。メールアカウントの簡単な追加やバックグラウンド同期、メールの閲覧・作成といった開発中の主要機能が明らかになっています。 Thunderbird for iOS: A First...</summary>
-  </entry>
-  <entry>
-    <title>2026 年 10 月前半の LLM 利用状況</title>
-    <id>https://voluntas.ghost.io/2026-10-first-half-llm/</id>
-    <link href="https://voluntas.ghost.io/2026-10-first-half-llm/" />
-    <updated>2026-10-03T17:13:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Clo…</summary>
   </entry>
 </feed>
