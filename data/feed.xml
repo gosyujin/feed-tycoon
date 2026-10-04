@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-04T16:00:14.618771+09:00</updated>
+  <updated>2026-10-04T16:30:13.258691+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIエージェントハーネス「Pi 1.0」のクイックスタート｜npaka</title>
+    <id>https://note.com/npaka/n/nc6ace5304805</id>
+    <link href="https://note.com/npaka/n/nc6ace5304805" />
+    <updated>2026-10-03T23:16:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。 1. Pi 1.02026年10月1日、EarendilはAIエージェントハーネス「Pi 1.0」を公開しました。Piは、ターミナル上で動作する軽量で拡張可能なAIエージェントハーネスで、自然言語の指示に従ってファイル操作やコマンド実行を行います。 OpenAI、Anthropic...</summary>
+  </entry>
   <entry>
     <title>毒キノコ、食用信じて食中毒 「AIで判定」に潜むリスク - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUD144QC0U6A910C2000000/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T17:42:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも、コ...</summary>
-  </entry>
-  <entry>
-    <title>Strands Decider 2Bについて理解する</title>
-    <id>https://zenn.dev/fusic/articles/db6e62832a4a1f</id>
-    <link href="https://zenn.dev/fusic/articles/db6e62832a4a1f" />
-    <updated>2026-10-02T22:37:55+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Fusicのレオナです。 Strands Agentsは、AWSが開発し、オープンソースとして公開しているAIエージェント開発用SDKです。LLMに与える指示と利用可能なツールを定義することで、状況に応じてツールを選び、その実行結果を踏まえながら処理を進めるエージェントを構築できます。AWS専用のSDKではなく、Amazon Bedrock以外のモデルAPIやローカルモデルにも対応してい…</summary>
   </entry>
 </feed>
