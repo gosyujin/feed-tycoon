@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T16:08:41.389439+09:00</updated>
+  <updated>2026-10-05T16:30:14.034062+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>俺のAIプログラミング手法(2026/10/05)</title>
+    <id>https://zenn.dev/mizchi/articles/ai-coding-loop-formal</id>
+    <link href="https://zenn.dev/mizchi/articles/ai-coding-loop-formal" />
+    <updated>2026-10-05T15:52:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレ...</summary>
+  </entry>
   <entry>
     <title>大和証券、22万件情報漏えいか 顧客約11万人の口座番号も</title>
     <id>https://www.itmedia.co.jp/news/article/2610/05/2000002005/</id>
@@ -466,9 +474,9 @@
     <title>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通</title>
     <id>https://zenn.dev/qnighy/articles/json-ambiguity</id>
     <link href="https://zenn.dev/qnighy/articles/json-ambiguity" />
-    <updated>2026-10-04T17:18:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。」です。 JSON とは JSON (JavaScript Object Notation) はテキストベースでスキーマレスな、構造化されたデータ交換用フォーマットです。 JavaScript の Expression 構文のサ…</summary>
+    <updated>2026-10-04T18:27:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。...</summary>
   </entry>
   <entry>
     <title>米Anker、小型で高性能のNanoシリーズからAVS＆PPSに対応しiPhone 18 Proの高速充電や最大65WでMacBookも充電できるUSB急速充電器「Anker Nano Charger Neo」を発売。</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-02T06:56:31+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>こんにちは。Holy_KTQ(@u-10bei)と申します。 2025年度は、医療分野に特化したLLMの開発プロジェクトで、安全性評価を担当していました。 はじめに 開発の途中、既存のオープンウェイトモデルに医療分野のデータで追加学習を施した中間バージョンを、汎用の安全性...</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントハーネス「Pi 1.0」のクイックスタート｜npaka</title>
-    <id>https://note.com/npaka/n/nc6ace5304805</id>
-    <link href="https://note.com/npaka/n/nc6ace5304805" />
-    <updated>2026-10-03T23:16:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIエージェントハーネス「Pi 1.0」のクイックスタートをまとめました。 1. Pi 1.02026年10月1日、EarendilはAIエージェントハーネス「Pi 1.0」を公開しました。Piは、ターミナル上で動作する軽量で拡張可能なAIエージェントハーネスで、自然言語の指示に従ってファイル操作やコマンド実行を行います。 OpenAI、Anthropic...</summary>
   </entry>
 </feed>
