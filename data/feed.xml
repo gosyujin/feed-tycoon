@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T02:00:20.459410+09:00</updated>
+  <updated>2026-10-06T02:30:19.401517+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWSにログインする方法8選</title>
+    <id>https://zenn.dev/aws_japan/articles/aws-login-methods</id>
+    <link href="https://zenn.dev/aws_japan/articles/aws-login-methods" />
+    <updated>2026-10-05T11:06:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この表から読み取れるベストプラクティスは、失効しない長期的なクレデンシャルを端末に置かないことです。長期アクセスキーは削除するまで有効なので、漏れればそのまま使われ続けます。一時クレデンシャルも漏れれば使われますが、最長でも 12 時間で失効します。 また、MFA が求められるのは、コンソールや IAM Ident...</summary>
+  </entry>
   <entry>
     <title>大阪公立大システム障害 ランサムウエアによるサイバー攻撃か | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261005de54843</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-03T23:40:05+09:00</updated>
     <category term="はてブ IT" />
     <summary>https://tokyor.connpass.com/event/407749/</summary>
-  </entry>
-  <entry>
-    <title>完全版 Claude Mods 入門 | Claude Codeを自由にカスタマイズする</title>
-    <id>https://zenn.dev/nogu66/articles/claude-mods-complete-guide</id>
-    <link href="https://zenn.dev/nogu66/articles/claude-mods-complete-guide" />
-    <updated>2026-10-02T08:48:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>noguです。 2026年10月1日、Claude CodeのClaude Modsが正式に発表されました。 https://x.com/ClaudeDevs/status/2105721434807083061?s=20 これは、TypeScriptの関数を用いて、Claude Codeの機能や見た目を自由かつ安全にカスタマイズできる拡張機能の仕組みです。個人的に、この機能はかなり将来性の高い機…</summary>
   </entry>
 </feed>
