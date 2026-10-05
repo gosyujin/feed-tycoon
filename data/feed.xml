@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T14:00:13.020429+09:00</updated>
+  <updated>2026-10-05T14:30:12.880422+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【速報】大和証券に不正アクセス、22万件漏えいか</title>
+    <id>https://www.47news.jp/15038299.html</id>
+    <link href="https://www.47news.jp/15038299.html" />
+    <updated>2026-10-05T13:29:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>大和証券グループ本社は5日、不正アクセスにより、個人を特定できない情報を含め約22万件の情報が漏えいした可能性があると発表した。</summary>
+  </entry>
+  <entry>
+    <title>CloudflareがJevっぽい意思決定モデル「Clef」を公開、画像入力に対応しベンチマークではJev超えだがJev作者はベンチマークそのものに懐疑的</title>
+    <id>https://gigazine.net/news/20261005-clef-cloudflare-decision-model/</id>
+    <link href="https://gigazine.net/news/20261005-clef-cloudflare-decision-model/" />
+    <updated>2026-10-05T13:27:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Cloudflareが意思決定モデル「Clef」をオープンモデルとして公開しました。意思決定モデルの流行の切っ掛けとなったJevと異なり、画像の入力にも対応しているのが特徴です。 Introducing Clef: our open-source decision models, and new RL fine-tuning platform | Cloudflare Blog https://b…</summary>
+  </entry>
+  <entry>
+    <title>日経社員のGoogle Workspaceに不正ログイン 1646人分の個人情報漏えいか</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/05/2000001994/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/05/2000001994/" />
+    <updated>2026-10-05T11:02:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本経済新聞社は10月4日、社員が業務で使っていたクラウドサービス「Google Workspace」のアカウントに7月下旬以降、外部から不正なログインがあり、社員や取引先などのメールアドレスや氏名など1646人分が漏えいした可能性があると発表した。 不正ログインは、8月上旬に米Googleからの通知で判明。すぐにパスワードを...</summary>
+  </entry>
+  <entry>
+    <title>相次ぐ不正アクセス、AIが原因？ 専門家に聞く (1/3)</title>
+    <id>https://ascii.jp/elem/000/004/439/4439846/</id>
+    <link href="https://ascii.jp/elem/000/004/439/4439846/" />
+    <updated>2026-10-05T10:07:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>タイムズカー、京王電鉄など、大企業を狙ったサイバー攻撃が相次いでいる。 パーク24は9月28日、タイムズカーのWebシステムが不正アクセスを受け、約660万アカウントの情報が第三者に取得されたと発表した。京王電鉄も9月26日、グループのサーバーがランサムウェア攻撃を受け、一部システムに障害が発生したと発表してい...</summary>
+  </entry>
   <entry>
     <title>dbt Chartsで作れるグラフを試してみた【dbt v2】【DuckDB】</title>
     <id>https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog</id>
@@ -378,9 +410,9 @@
     <title>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通</title>
     <id>https://zenn.dev/qnighy/articles/json-ambiguity</id>
     <link href="https://zenn.dev/qnighy/articles/json-ambiguity" />
-    <updated>2026-10-04T17:18:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。」です。 JSON とは JSON (JavaScript Object Notation) はテキストベースでスキーマレスな、構造化されたデータ交換用フォーマットです。 JavaScript の Expression 構文のサ…</summary>
+    <updated>2026-10-04T18:27:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。...</summary>
   </entry>
   <entry>
     <title>米Anker、小型で高性能のNanoシリーズからAVS＆PPSに対応しiPhone 18 Proの高速充電や最大65WでMacBookも充電できるUSB急速充電器「Anker Nano Charger Neo」を発売。</title>
@@ -773,37 +805,5 @@
     <updated>2026-10-04T12:50:38+09:00</updated>
     <category term="はてブ IT" />
     <summary>AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における"Mythos Moment"を考える ソフトウェアにはリファクタリングという考え方がある。コードは開発が続くにつれ、どうやっても散らかってしまい、読みにくくなってゆく。部屋に物が増えると絶対に散らかるのと同じである。 すると、少しの変更を行...</summary>
-  </entry>
-  <entry>
-    <title>AWS DevOps Agent Skills を作成するためのベストプラクティス | Amazon Web Services</title>
-    <id>https://aws.amazon.com/jp/blogs/news/best-practices-for-writing-aws-devops-agent-skills/</id>
-    <link href="https://aws.amazon.com/jp/blogs/news/best-practices-for-writing-aws-devops-agent-skills/" />
-    <updated>2026-10-04T09:08:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Amazon Web Services ブログ AWS DevOps Agent Skills を作成するためのベストプラクティス 深夜 2 時にインシデントが発生したとき、オンコール担当者がどれだけ的確に対応できるかは、そのシステムについてどのような知識を持っているかに左右されます。最初に見るべきメトリクスはどれか、このサービスの「平常時」は...</summary>
-  </entry>
-  <entry>
-    <title>localhostを爆速でインターネットへ安全に公開する「Cloudflare Quick Tunnels」、たった1つのコマンドで暗号化された公開URLを作成可能でアカウント・DNSレコード・ポート開放は一切不要</title>
-    <id>https://gigazine.net/news/20261004-cloudflare-quick-tunnels/</id>
-    <link href="https://gigazine.net/news/20261004-cloudflare-quick-tunnels/" />
-    <updated>2026-10-04T12:07:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PC上で開発中のWebアプリを外部から確認するには、ポート開放やサーバー設定などの手間がかかります。以前レビューした「Cloudflare Tunnel」からさらに手軽になり、アカウント登録不要かつコマンド1つで利用可能でAI向けのJSON出力にも対応した「Cloudflare Quick Tunnels」を実際に使ってみました。 Cloudflare Quick ...</summary>
-  </entry>
-  <entry>
-    <title>最近は商業誌の仕事でも普通にAIを使って効率化することが増えたので、どんどん触っておいた方がいいと推奨する→AI画像が問題になるが、叩き台など作業効率化はありでは？</title>
-    <id>https://togetter.com/li/2753802</id>
-    <link href="https://togetter.com/li/2753802" />
-    <updated>2026-10-04T09:47:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>東町 青従🏏クリケット漫画 @higashimatiaoto 漫画家志望の人に一言 最近は商業誌の仕事でも普通にAIを使って効率化することが増えました。 Xでの反AI派の言うことを鵜呑みにして頑なにAIを使うのはダメだと思い込んで使い方を知らないままでいると将来ほんとに仕事がなくなるので、今のうちにどんどん触っておいてくだ...</summary>
-  </entry>
-  <entry>
-    <title>レーザービーム式蚊撃ち器の予約受付が開始される</title>
-    <id>https://gigazine.net/news/20261004-photon-matrix/</id>
-    <link href="https://gigazine.net/news/20261004-photon-matrix/" />
-    <updated>2026-10-04T08:12:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer ente…</summary>
   </entry>
 </feed>
