@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T03:30:14.334763+09:00</updated>
+  <updated>2026-10-06T04:00:17.080238+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SystemVerilogの話 | ドクセル</title>
+    <id>https://www.docswell.com/s/ds54e/K8W631-2025-09-07-212222</id>
+    <link href="https://www.docswell.com/s/ds54e/K8W631-2025-09-07-212222" />
+    <updated>2026-10-05T23:04:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>自己紹介 • ASIC, ASSPてきな • アナデジ混載系 • 検証エンジニア （リスペクト元: AUDIYさん） 何か小さくて黒っぽい 集積回路みたいなやつ にゃーんと言いながら SystemVerilogで戦ってます</summary>
+  </entry>
   <entry>
     <title>AWSにログインする方法8選</title>
     <id>https://zenn.dev/aws_japan/articles/aws-login-methods</id>
@@ -450,9 +458,9 @@
     <title>俺のAIプログラミング手法(2026/10/05)</title>
     <id>https://zenn.dev/mizchi/articles/ai-coding-loop-formal</id>
     <link href="https://zenn.dev/mizchi/articles/ai-coding-loop-formal" />
-    <updated>2026-10-05T13:59:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレーションを評価する AI の行動ログを観察して、評価指標を正しく終えているか、 テストとCIを…</summary>
+    <updated>2026-10-05T15:52:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレ...</summary>
   </entry>
   <entry>
     <title>大和証券、22万件情報漏えいか 顧客約11万人の口座番号も</title>
@@ -543,6 +551,14 @@
     <summary>タイムズカー、京王電鉄など、大企業を狙ったサイバー攻撃が相次いでいる。 パーク24は9月28日、タイムズカーのWebシステムが不正アクセスを受け、約660万アカウントの情報が第三者に取得されたと発表した。京王電鉄も9月26日、グループのサーバーがランサムウェア攻撃を受け、一部システムに障害が発生したと発表してい...</summary>
   </entry>
   <entry>
+    <title>本当に「判断」していますか？</title>
+    <id>https://zenn.dev/dyoshikawa/articles/do-you-desicion</id>
+    <link href="https://zenn.dev/dyoshikawa/articles/do-you-desicion" />
+    <updated>2026-10-05T14:48:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに @dyoshikawaです。 昨今、 「AI時代はタスクはAIにやらせ、人間は判断に集中する」 といったことをよく聞きますが、個人的にはモヤモヤがあります。 ひとつは、対象への理解なしに妥当な判断ができるのか、という点です。 もうひとつは、自分自身もですし、身の回りやSNSで見かける投稿などからも感じることで...</summary>
+  </entry>
+  <entry>
     <title>dbt Chartsで作れるグラフを試してみた【dbt v2】【DuckDB】</title>
     <id>https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog</id>
     <link href="https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog" />
@@ -557,14 +573,6 @@
     <updated>2026-10-05T09:19:09+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 生成AIが盛り上がり続けて数年、どんどん新しい言葉が出てくる。 RAGという概念が出てきたと思ったら、最近はナレッジグラフ、オントロジー、GraphRAGなど聞き慣れない言葉が次々出てきた。 しかし、これらのトレンドを時系列で整理して追ってみると、意外と一つの線となって繋がることがわかる。 今回は、最近注目されているGraphRAGに焦点をあて、ゼロから理解することを目指す。 詳しくは後…</summary>
-  </entry>
-  <entry>
-    <title>本当に「判断」していますか？</title>
-    <id>https://zenn.dev/dyoshikawa/articles/do-you-desicion</id>
-    <link href="https://zenn.dev/dyoshikawa/articles/do-you-desicion" />
-    <updated>2026-10-05T07:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに @dyoshikawaです。 昨今、 「AI時代はタスクはAIにやらせ、人間は判断に集中する」 といったことをよく聞きますが、個人的にはモヤモヤがあります。 ひとつは、対象への理解なしに妥当な判断ができるのか、という点です。 もうひとつは、自分自身もですし、身の回りやSNSで見かける投稿などからも感じることですが、その判断でさえAIへの丸投げに近づいていっているのではないかということです…</summary>
   </entry>
   <entry>
     <title>Remix 3 正式版おめでとう。</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-04T11:59:14+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>今年度から内製開発でAI駆動開発ツール・Kiro (kiro-cli) が使えるようになったらしい。 フロントエンド開発未経験で業務ツール内製に投入されたので、"AI駆動開発"に挑戦してみた。 現時点のメモ。 なお、まかされたのはJavaScriptフレームワークを利用したシングルページWebアプリでした。 たぶん一番大事なこと コンテキストを良質かつ必要十分に保つ。 プロフェッショナルAI駆動開…</summary>
-  </entry>
-  <entry>
-    <title>生成AIと進める探索的データ分析（2026.10.03 第122回Tokyo.R勉強会）</title>
-    <id>https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai</id>
-    <link href="https://speakerdeck.com/tatamiya/seisei-ai-to-susumeru-tansakuteki-deta-bunseki-2026-10-03-dai-122-kai-tokyo-r-benkyoukai" />
-    <updated>2026-10-03T23:40:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>https://tokyor.connpass.com/event/407749/</summary>
   </entry>
 </feed>
