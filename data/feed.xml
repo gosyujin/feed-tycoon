@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T22:00:18.368311+09:00</updated>
+  <updated>2026-10-05T22:30:15.268570+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表</title>
+    <id>https://www.publickey1.jp/blog/26/googlegvisorcncf.html</id>
+    <link href="https://www.publickey1.jp/blog/26/googlegvisorcncf.html" />
+    <updated>2026-10-06T00:27:19+09:00</updated>
+    <category term="Publickey" />
+    <summary>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op...</summary>
+  </entry>
+  <entry>
+    <title>iOS27の「ショートカット」に35以上の新アクション・機能改善が追加！ - iPhone Mania</title>
+    <id>https://iphone-mania.jp/ios-607006/</id>
+    <link href="https://iphone-mania.jp/ios-607006/" />
+    <updated>2026-10-05T17:55:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>iOS27では、iPhoneの高速化や、ロック画面の新機能、子どもの安全機能など様々な強化が行われています。 「ショートカット」アプリでは、作成手順をスムーズにする新機能をはじめ、35以上の新規アクションや既存機能の強化、新たなオートメーション条件が追加されました。 本記事では、追加された新機能や改善ポイントを...</summary>
+  </entry>
+  <entry>
+    <title>パチンコ店の入場抽選アプリ「777CON-PASS」に不正アクセス 行動エリアやプロフ写真など流出か</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/05/2000002003/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/05/2000002003/" />
+    <updated>2026-10-05T16:02:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オンラインゲームの開発・運営を手掛けるサミーネットワークス（東京都品川区）は10月2日、同社が運営するパチンコ・パチスロ店向け入場抽選アプリ「777CON-PASS」で第三者による不正アクセスがあり、利用者の個人情報が流出した可能性があると発表した。位置情報から生成した行動エリアやプロフィール写真などが対象に...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeのルーティンを利用した開発フローの自動化 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <id>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines" />
+    <updated>2026-10-05T15:24:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>目次 はじめに サマリ 人間はタスクを完全には並列処理できない 以前にも承認待ちの課題は存在していた 作った仕組みと設計上の工夫 issueの選定条件を明確にする 1回の実行で1 issueだけ扱う 複数のリポジトリを横断してコンテキストを集める まとめ 参考文献 はじめに AIにコードを書いてもらえるようになると、実装は...</summary>
+  </entry>
+  <entry>
+    <title>結局、Looped Transformerってなんや？ - Qiita</title>
+    <id>https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e</id>
+    <link href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e" />
+    <updated>2026-10-05T11:16:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>何かと最近見かける Looped Transformer。 仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。 少なくとも僕は、名前だけ見て Transformerの同じ層を何回か通すやつでしょ くらいで止まっていました。 そこで今回は、 なぜ同じTransformerを繰り返すのか 理...</summary>
+  </entry>
   <entry>
     <title>Googleが黒塗りで報告したデータセンターの水使用量と最大電力容量がコピペによって明らかに</title>
     <id>https://gigazine.net/news/20261005-google-data-center-usage/</id>
@@ -765,45 +805,5 @@
     <updated>2026-10-04T20:04:42+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>プログラミングスクールJISOUを運営している渡邉 臣さん（@Sicut_study ）の以下記事を読んで率直に思った今の心境や、学び・気づいたこと、ネクストアクションをアウトプットします。 まず、自分はどんな人間なのか エンジニア歴は8年ほどで、現在はエンジニアチ...</summary>
-  </entry>
-  <entry>
-    <title>【Linux初心者向け】コマンドの成功・失敗を確認する方法｜$?と&amp;&amp;・||を実例で解説</title>
-    <id>https://qiita.com/reo_infraengineer/items/1c52821dc01e48fd2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/reo_infraengineer/items/1c52821dc01e48fd2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-04T19:26:54+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは、Reoです。 現在はフリーランスのインフラエンジニアとして働きながら、インフラ特化の学習サービス「InfraDojo（インフラ道場）」を運営しています。 Linuxでコマンドを実行したあと、 「何も表示されなかったけど、成功したの？」 「前の処理が失敗したら、次...</summary>
-  </entry>
-  <entry>
-    <title>Error: Error evaluating Node.js code CssSyntaxError: tailwindcss:: "./typography" is not exportedエラーが出る</title>
-    <id>https://qiita.com/takahiro_honda/items/611a617b86ea332c496d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takahiro_honda/items/611a617b86ea332c496d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-04T17:43:54+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Next.js と Tailwind CSS v4 で作っているブログに、Typography プラグイン（@tailwindcss/typography）を導入しようとしたところ、ビルドエラーが発生しました。 備忘録として残します。 問題 globals.c...</summary>
-  </entry>
-  <entry>
-    <title>LLMのJSON Schemaを厳しくしても業務検証を消せない理由</title>
-    <id>https://qiita.com/TechStudioLab/items/0bbf128791023cc90893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/TechStudioLab/items/0bbf128791023cc90893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-04T15:42:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Structured OutputsでJSON Schemaに一致する出力を得られるなら、アプリ側のvalidationも消せそうに見えます。消せるのは、主に「JSONとして壊れている」「必須キーがない」「enum外の値が来る」といった形式上の失敗です。 start_da...</summary>
-  </entry>
-  <entry>
-    <title>マンガを作るワークフローの全貌（2026年9月時点）</title>
-    <id>https://qiita.com/yuji_yasuhara/items/08ee1072f5038f4a12d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yuji_yasuhara/items/08ee1072f5038f4a12d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-04T10:36:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この文章は 人間が書いています。 完成したマンガを先に読みたい人は この記事のいちばん最後にあります。 はじめに AIの力でマンガを描きやすくなりましたが、思い通りの結果を得るには様々な工夫が必要です。おそらくそれは、この先AIが進化してもそんなに変わらないのではない...</summary>
-  </entry>
-  <entry>
-    <title>Rust 1.96の新RangeでSpanをCopyにできる理由</title>
-    <id>https://qiita.com/TechStudioLab/items/d4005fe56d1c7e4f82ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/TechStudioLab/items/d4005fe56d1c7e4f82ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-03T21:02:39+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>開始位置と終了位置しか持たない Span なら、Copy にできそうに見えます。ところが std::ops::Range をそのまま持たせると #[derive(Copy)] は通りません。 理由は Range のフィールドではなく、旧 Range が範囲を...</summary>
   </entry>
 </feed>
