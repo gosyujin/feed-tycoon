@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T20:30:16.926694+09:00</updated>
+  <updated>2026-10-05T21:00:14.086119+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「大起水産アプリ」に不正アクセス、17万人の個人情報漏えいか 大阪の回転寿司チェーン</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/05/2000002008/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/05/2000002008/" />
+    <updated>2026-10-05T17:16:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>回転寿司チェーン「大起水産回転寿司」や鮮魚店「街のみなと」を運営する大起水産（大阪府堺市）は10月5日、来店予約やクーポン機能などを備えたスマートフォンアプリ「大起水産公式アプリ」のシステムが第三者から不正アクセスを受け、退会者含む17万4933人の個人情報が漏えいした可能性があると発表した。 漏えいした...</summary>
+  </entry>
+  <entry>
+    <title>「サイバーセキュリティ関係法令Q&amp;Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2145149.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2145149.html" />
+    <updated>2026-10-05T07:32:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「サイバーセキュリティ関係法令Q&amp;Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応</summary>
+  </entry>
   <entry>
     <title>「焼肉きんぐ」個人情報約1079万件が漏えい 公式アプリのシステムに不正アクセス ほぼ全会員分に相当</title>
     <id>https://www.itmedia.co.jp/news/article/2610/05/2000002011/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-04T23:12:34+09:00</updated>
     <category term="はてブ IT" />
     <summary>IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜粋して紹介しましょう。 約5500人が回答、最多は米国、年齢の中央値は36歳 アンケート調査は今年...</summary>
-  </entry>
-  <entry>
-    <title>Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応</title>
-    <id>https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html</id>
-    <link href="https://www.publickey1.jp/blog/26/supabase1sqlitetursoaidb.html" />
-    <updated>2026-10-04T23:14:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Supabase、1サーバあたり数百万ものSQLiteをホストする「Turso」買収を発表。AIエージェントで加速するDB需要に対応 PostgreSQLをベースにしたデータベースサービス「Supabase」などを提供しているSupabaseは、SQLiteをベースとしたデータベースサービスを提供する「Turso」を買収したことを発表しました。 Turso is joi...</summary>
-  </entry>
-  <entry>
-    <title>MyGo — Desktop apps in Go, with a web frontend or native UI</title>
-    <id>https://mygo.egoist.dev/</id>
-    <link href="https://mygo.egoist.dev/" />
-    <updated>2026-10-03T21:33:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>type Greeter struct{} // Greet returns a greeting. func (Greeter) Greet(name string) string { return "Hello, " + name } func main() { mygo.Bind(Greeter{}) mygo.App.WhenReady(func() { mygo.NewWindow(my…</summary>
   </entry>
 </feed>
