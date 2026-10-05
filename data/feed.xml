@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T04:40:21.962087+09:00</updated>
+  <updated>2026-10-06T06:10:39.709992+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた</title>
+    <id>https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T04:05:52+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Claude Code や Codex などの AI エージェントに、API キーを使う作業を頼みたいことがあります。そのとき、利用者は鍵をどう渡せばよいのでしょうか。対話文に貼る、.env に書いて読ませる、.zshrc の環境変数にしておく……。渡し方によって、鍵に起...</summary>
+  </entry>
+  <entry>
+    <title>最近サイバー攻撃多いから、基本対策を見直そう</title>
+    <id>https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T23:28:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは、翡翠です。 去年セキュリティ業界へ入ったばかりの新人です。まだまだ勉強中の身なので至らない点もあるかと思いますが、今わかること・できることを自分なりにまとめたいと思います。 2026年9月下旬以降、大手企業などで不正アクセスや情報漏洩などのニュースが一気に増えた...</summary>
+  </entry>
+  <entry>
+    <title>Vitestで 関数またはメソッド toBeInTheDocument() は未解決です</title>
+    <id>https://qiita.com/J-T_ky2g/items/6df712d6eff81c71d4fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/6df712d6eff81c71d4fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T20:31:37+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Vitestの話 問題 要素があるかを期待したい 解決 toBeDefined()を使って解決 終わりに Google検索時のAIにjest関係の型を導入するよう案内された。が、公式を見たらVitest標準でできた</summary>
+  </entry>
+  <entry>
+    <title>ESLint: 'expect' is not defined. (no-undef)</title>
+    <id>https://qiita.com/J-T_ky2g/items/23e4abab5738c4d0603d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/23e4abab5738c4d0603d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T20:28:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Vitestの話 問題 eslint警告が出ている 解決 IDEの補完でjestのexpectをimportしていた import { test, vi, expect } from 'vitest' とvitestからのインポート追加して解決 ...</summary>
+  </entry>
+  <entry>
+    <title>【入社エントリ】入社して2ヶ月を振り返ってみた</title>
+    <id>https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T16:29:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは！Shizen Connectにジョインして、あっという間に2ヶ月が経過しました。 毎日新しいことの連続でバタバタしつつも、すごく充実した日々を送っています！ 今回は自分の備忘録も兼ねて、入社からの2ヶ月間の振り返りと、そもそも「なぜ私がこの会社に入社したのか？」...</summary>
+  </entry>
+  <entry>
+    <title>大容量のカスタムイメージのインポート・エクスポートをしてみる。</title>
+    <id>https://qiita.com/tkonishi/items/4ebce01f830297c00d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/tkonishi/items/4ebce01f830297c00d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T15:22:16+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>これまで、OCIコンピュートではカスタム・イメージのエクスポートやインポートのサイズ上限は400GBとなっていましたが、この上限が緩和され1TBまでインポートやエクスポート可能となりました！ カスタムイメージの制限 https://docs.oracle.com/ja-j...</summary>
+  </entry>
+  <entry>
+    <title>【Db2 Genius Hub】導入前に知っておきたいサイジングの考え方 ～実環境から見積もってみた～</title>
+    <id>https://qiita.com/ISE_Db2LUW_Club/items/18b8bb948847ccfbc93a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ISE_Db2LUW_Club/items/18b8bb948847ccfbc93a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T10:30:04+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>目次 はじめに Db2 Genius Hub の構成を整理する REPODB の主要テーブルカテゴリ DMC と Genius Hub の関係 実測データから見る REPODB のサイズ感 実測環境の概要 テーブル別実測サイズ（上位 10） 収集間隔の実測値...</summary>
+  </entry>
+  <entry>
+    <title>「実装に問題が無いか調査して」は意味が無い? AIレビューが空振りする理由と効果的な指示のテンプレ</title>
+    <id>https://qiita.com/nolanlover0527/items/2e4e3322c5c36545a246?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nolanlover0527/items/2e4e3322c5c36545a246?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T08:53:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに AIに実装を任せたあと、とりあえずこう投げていませんか。 「あなたが実装した内容が問題ないか調査して」 このあと返ってくるのは、たいてい丁寧な報告です。 「確認しました。大きな問題は見当たりません」 安心してマージしたら、テスト環境や本番でエラーが発生....</summary>
+  </entry>
+  <entry>
+    <title>LLM-as-a-Collaborator入門：AIを「回答者」ではなく共同設計者として使う</title>
+    <id>https://qiita.com/mellowlaunch/items/384021f3e015945fe29d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/mellowlaunch/items/384021f3e015945fe29d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T07:24:26+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」 本書は、AIエージェン...</summary>
+  </entry>
+  <entry>
+    <title>MVPから実際に使いやすいポートフォリオへ｜開発で学んだこと</title>
+    <id>https://qiita.com/fighthinako/items/9deb4bbaa452926a83c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/fighthinako/items/9deb4bbaa452926a83c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-04T16:56:37+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>MVPから実際に使いやすいポートフォリオへ｜開発で学んだこと 今回作成したポートフォリオはこちらです。 GitHub： アプリ： はじめに 私はエンジニアへの転職を目指して勉強する前、製造補助として製造業務と事務作業を行っていました。 仕事をする中で、多くの...</summary>
+  </entry>
+  <entry>
+    <title>エイリアスを設定したのにVS Codeでジャンプできなかった原因</title>
+    <id>https://qiita.com/watanabe_trtr/items/c622860ff50e0d7d0b65?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/watanabe_trtr/items/c622860ff50e0d7d0b65?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-04T12:03:57+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Vite環境でパスエイリアス（@utils/... など）を設定して開発していたところ、以下のような現象に遭遇した。 アプリ自体は問題なくビルドされ、ブラウザでも正常に動作する 他のエイリアス（@hooks や @modules など）はVS Code上で Cmd + ク...</summary>
+  </entry>
+  <entry>
+    <title>BEエンジニアがなんであんなにチクチクした言い回しでムカつくのかを言語化してみた💢</title>
+    <id>https://qiita.com/jota9613/items/6633e8618d8427e412c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jota9613/items/6633e8618d8427e412c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-03T12:21:01+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに FEエンジニアとしてBEエンジニアとやりとりをしている中で、 「なんかイラつくな」 「言ってることは分かるんだけど、ムカつくな」と思っていました。 ただ、技術的に間違ったことを言われているわけではなく じゃあ自分は何に引っかかっているんだろう？と思ったので、言語...</summary>
+  </entry>
   <entry>
     <title>SystemVerilogの話 | ドクセル</title>
     <id>https://www.docswell.com/s/ds54e/K8W631-2025-09-07-212222</id>
@@ -458,9 +554,9 @@
     <title>俺のAIプログラミング手法(2026/10/05)</title>
     <id>https://zenn.dev/mizchi/articles/ai-coding-loop-formal</id>
     <link href="https://zenn.dev/mizchi/articles/ai-coding-loop-formal" />
-    <updated>2026-10-05T13:59:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレーションを評価する AI の行動ログを観察して、評価指標を正しく終えているか、 テストとCIを…</summary>
+    <updated>2026-10-05T15:52:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>棚卸し的な記事です。 人間の役割を定義する モデルの性能を評価する 無茶振りしてどこまで出来るか観察 何ができて、何ができなかったことがドメイン知識になる ループを構築する 自動化して得られた時間で、評価指標を改善する 評価指標を作る どの数値を改善すべきか、トレードオフは何を優先すべきか ループのイテレ...</summary>
   </entry>
   <entry>
     <title>大和証券、22万件情報漏えいか 顧客約11万人の口座番号も</title>
@@ -551,6 +647,14 @@
     <summary>タイムズカー、京王電鉄など、大企業を狙ったサイバー攻撃が相次いでいる。 パーク24は9月28日、タイムズカーのWebシステムが不正アクセスを受け、約660万アカウントの情報が第三者に取得されたと発表した。京王電鉄も9月26日、グループのサーバーがランサムウェア攻撃を受け、一部システムに障害が発生したと発表してい...</summary>
   </entry>
   <entry>
+    <title>本当に「判断」していますか？</title>
+    <id>https://zenn.dev/dyoshikawa/articles/do-you-desicion</id>
+    <link href="https://zenn.dev/dyoshikawa/articles/do-you-desicion" />
+    <updated>2026-10-05T14:48:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに @dyoshikawaです。 昨今、 「AI時代はタスクはAIにやらせ、人間は判断に集中する」 といったことをよく聞きますが、個人的にはモヤモヤがあります。 ひとつは、対象への理解なしに妥当な判断ができるのか、という点です。 もうひとつは、自分自身もですし、身の回りやSNSで見かける投稿などからも感じることで...</summary>
+  </entry>
+  <entry>
     <title>dbt Chartsで作れるグラフを試してみた【dbt v2】【DuckDB】</title>
     <id>https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog</id>
     <link href="https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog" />
@@ -565,14 +669,6 @@
     <updated>2026-10-05T09:19:09+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 生成AIが盛り上がり続けて数年、どんどん新しい言葉が出てくる。 RAGという概念が出てきたと思ったら、最近はナレッジグラフ、オントロジー、GraphRAGなど聞き慣れない言葉が次々出てきた。 しかし、これらのトレンドを時系列で整理して追ってみると、意外と一つの線となって繋がることがわかる。 今回は、最近注目されているGraphRAGに焦点をあて、ゼロから理解することを目指す。 詳しくは後…</summary>
-  </entry>
-  <entry>
-    <title>本当に「判断」していますか？</title>
-    <id>https://zenn.dev/dyoshikawa/articles/do-you-desicion</id>
-    <link href="https://zenn.dev/dyoshikawa/articles/do-you-desicion" />
-    <updated>2026-10-05T07:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに @dyoshikawaです。 昨今、 「AI時代はタスクはAIにやらせ、人間は判断に集中する」 といったことをよく聞きますが、個人的にはモヤモヤがあります。 ひとつは、対象への理解なしに妥当な判断ができるのか、という点です。 もうひとつは、自分自身もですし、身の回りやSNSで見かける投稿などからも感じることですが、その判断でさえAIへの丸投げに近づいていっているのではないかということです…</summary>
   </entry>
   <entry>
     <title>Remix 3 正式版おめでとう。</title>
@@ -709,101 +805,5 @@
     <updated>2026-10-05T08:57:28+09:00</updated>
     <category term="はてブ IT" />
     <summary>9月下旬に相次いだ日本郵便・ヤマト・佐川・セイコーマート・タイムズカー・ニッポンレンタカーの不正アクセスを並べ、被害範囲の境界と発覚のきっかけから共通する攻撃パターンを推測します。攻撃者は先に正常な利用パターンを読み、アプリの正規の経路でデータを読んでいたのではないか。...</summary>
-  </entry>
-  <entry>
-    <title>Models - Blue Archive Wiki</title>
-    <id>https://bluearchive.wiki/wiki/Models</id>
-    <link href="https://bluearchive.wiki/wiki/Models" />
-    <updated>2026-10-05T06:52:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Below are the 3d character models from the game. Please note that the model viewer renders models differently from in-game, so colors can be off. You may also see other oddities. Please report issues…</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントによる通信が1700％増、Cloudflareが課金基盤を整備──ステーブルコイン決済対応 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <id>https://forbesjapan.com/articles/detail/105823</id>
-    <link href="https://forbesjapan.com/articles/detail/105823" />
-    <updated>2026-10-05T03:34:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIエージェントの急増で、ウェブの利用構造と収益モデルが変わり始めている。Cloudflare（クラウドフレア）では、AIエージェントからの1日当たりアクセス要求が過去1年間で1700％超増え、同社が処理するトラフィックの半分超を人間以外による通信が占めた。同社は、AIエージェントがウェブページやデータ、APIなどを利用...</summary>
-  </entry>
-  <entry>
-    <title>Crafting Apps: open-source creative tools</title>
-    <id>https://getartcraft.com/apps</id>
-    <link href="https://getartcraft.com/apps" />
-    <updated>2026-10-03T22:51:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Seven apps. One craft.Image editing, vector illustration, video, photography, PDFs, motion graphics and page layout. Native, open-source apps from the ArtCraft team, built in Rust and free to use.</summary>
-  </entry>
-  <entry>
-    <title>株式会社LayerXに入社しました - $shibayu36-&gt;blog;</title>
-    <id>https://blog.shibayu36.org/entry/2026/10/05/074417</id>
-    <link href="https://blog.shibayu36.org/entry/2026/10/05/074417" />
-    <updated>2026-10-05T08:13:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026/10/01から株式会社LayerXに入社しました。バクラクでAIエージェント関連の機能開発に携わっていく予定です。 layerx.co.jp bakuraku.jp 3年ほど前から@serimaさんに継続的に声をかけてもらっていて、LayerXへの温度感は少しずつ上がっていました。そこにタイミングが来たため入社を決めました。特に大きな理由は次...</summary>
-  </entry>
-  <entry>
-    <title>何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWin、Mac、Linux、Web対応で無料</title>
-    <id>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html</id>
-    <link href="https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/7-adobe-apps-open-sourced.html/index.html" />
-    <updated>2026-10-05T08:05:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>これには思わず二度見、いや三度見しました！ Photoshop, Illustrator, Premiere Pro, Lightroom, Acrobat Pro, After Effects, InDesignのAdobeのアプリ7種類をAdobeのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に再現したオープンソースのアプリを紹介します。 しかも、すべてのアプ...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる手順</title>
-    <id>https://zenn.dev/yoshihiko555/articles/ea2db6070058b3</id>
-    <link href="https://zenn.dev/yoshihiko555/articles/ea2db6070058b3" />
-    <updated>2026-10-05T02:22:57+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude Modsは、Claude Codeの公式の拡張の仕組みだ。Claude Codeの中で動くTypeScript（またはJavaScript）の関数で、画面にペインを足したり、プロンプトやツール呼び出しを書き換えたりできる。2026年10月1日（米国時間）のv2.1.287で正式にリリースされた（公式ブログ、リリースノート）。 私は発表の数日後に、公開されているmodを3つ入れた。この…</summary>
-  </entry>
-  <entry>
-    <title>Cloudflare の判定モデル Clef を Workers AI で触ってみた</title>
-    <id>https://zenn.dev/akari1106/articles/b6d3180cc50dfe</id>
-    <link href="https://zenn.dev/akari1106/articles/b6d3180cc50dfe" />
-    <updated>2026-10-04T23:36:56+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Cloudflare が 2026年10月1日に、判定用のモデル「Clef」と「Clef-flash」を発表しました。 この記事は、2つのモデルを Workers AI から呼び出して、簡単な実験をした記録です。 Jevは私は触り済みなのそれ前提感あるかもです。一旦として、Clef を触ったよ、の話になります。 公式の情報は次のページで確認できます。 発表記事: Introducing…</summary>
-  </entry>
-  <entry>
-    <title>既存OSSのnginxをOpenRestyへ差し替え、Entra IDとアプリ内ユーザーを追跡できるログを作った話</title>
-    <id>https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa</id>
-    <link href="https://zenn.dev/gritio28tech/articles/7b48f4db2d2bfa" />
-    <updated>2026-10-04T21:34:49+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 案件の背景 IaaS（VM）の構築と監視・運用保守の経験が中心だった自分が、PaaSやコンテナを使ったアーキテクチャの設計・構築を担当した際に、工夫したことをまとめておこうと思います。 2025年4月頃から、DifyのOSS版をAzureで運用するためのサービス選定から構築、運用準備までを担当していました。 2026年10月現在、自分の周りでは当時ほどDifyの名前を聞かなくなりました。…</summary>
-  </entry>
-  <entry>
-    <title>PythonとCasADiで学ぶLie群上の最適化</title>
-    <id>https://zenn.dev/takuya_fukatsu/articles/069f5b78d7597f</id>
-    <link href="https://zenn.dev/takuya_fukatsu/articles/069f5b78d7597f" />
-    <updated>2026-10-04T17:35:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事のコードは Jupyter Notebook として GitHub で公開しています。Google Colab でそのまま実行できます。 ロボットやドローンの姿勢（回転）を変数とする最適化問題を、Python と CasADi で解けるようになることを目指して、手を動かしながら学ぶノートブックです。 回転行列は、足し算で更新すると回転行列でなくなってしまううえ、R^\top R = I…</summary>
-  </entry>
-  <entry>
-    <title>VueUseのIssue対応記録: v-element-sizeの修正から見るResizeObserverの値をwatchする際の注意点</title>
-    <id>https://zenn.dev/metasyntax/articles/vueuse-v-element-size-border-box</id>
-    <link href="https://zenn.dev/metasyntax/articles/vueuse-v-element-size-border-box" />
-    <updated>2026-10-04T17:04:33+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>本文は自筆しています。 TL;DR VueUseのコントリビュータ記録です。 修正の PR は vueuse/vueuse#5524 です。 ResizeObserver は、observe() を呼ぶと、要素のサイズが変わっていなくてもコールバックを1度呼びます その前に同じ値が ref に入っていると、コールバックが呼ばれても ref は watch に変更を通知しません box: 'bord…</summary>
-  </entry>
-  <entry>
-    <title>Key Vault参照は本当に得か — Terraform stateから秘密値を外す設計判断</title>
-    <id>https://zenn.dev/kmryst/articles/azure-key-vault-terraform-state-design</id>
-    <link href="https://zenn.dev/kmryst/articles/azure-key-vault-terraform-state-design" />
-    <updated>2026-10-04T14:38:18+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>API キーやクライアントシークレットを Secret に入れても、その値を Terraform に渡していれば state に残ることがあります。sensitive = true は CLI の表示を伏せるだけで、保存される場所が減るわけではありません。 Azure Container Apps で動かしている個人開発のチャットアプリで、アプリ間の API キーと、サインインに使うクライアントシ…</summary>
-  </entry>
-  <entry>
-    <title>【202610版】 Webアプリ開発初心者がKiroでAI駆動開発をしてみた</title>
-    <id>https://zenn.dev/gob7ppcsvx/articles/ae6d8fc5ca495b</id>
-    <link href="https://zenn.dev/gob7ppcsvx/articles/ae6d8fc5ca495b" />
-    <updated>2026-10-04T11:59:14+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>今年度から内製開発でAI駆動開発ツール・Kiro (kiro-cli) が使えるようになったらしい。 フロントエンド開発未経験で業務ツール内製に投入されたので、"AI駆動開発"に挑戦してみた。 現時点のメモ。 なお、まかされたのはJavaScriptフレームワークを利用したシングルページWebアプリでした。 たぶん一番大事なこと コンテキストを良質かつ必要十分に保つ。 プロフェッショナルAI駆動開…</summary>
   </entry>
 </feed>
