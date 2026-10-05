@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T09:30:12.666088+09:00</updated>
+  <updated>2026-10-05T10:00:29.292241+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している</title>
+    <id>https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/</id>
+    <link href="https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/" />
+    <updated>2026-10-05T07:17:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>iPhoneには、ロック状態のまま一定時間が経過すると自動的に再起動する「非アクティブ時再起動」という機能が搭載されています。そんな非アクティブ時再起動を無効化して、警察が押収したiPhoneからのデータ抽出を容易するためのツールが開発されたと、海外メディアの404 Mediaが報じました。 Cops Can Bypass iPhone’s ...</summary>
+  </entry>
   <entry>
     <title>最近の不正アクセスのパターンから読む — 攻撃開始が見えない「静かな侵入」</title>
     <id>https://aikido-community.jp/articles/quiet-business-app-database-access</id>
@@ -122,9 +130,9 @@
     <title>完全版 Claude Mods 入門 | Claude Codeを自由にカスタマイズする</title>
     <id>https://zenn.dev/nogu66/articles/claude-mods-complete-guide</id>
     <link href="https://zenn.dev/nogu66/articles/claude-mods-complete-guide" />
-    <updated>2026-10-02T08:48:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>noguです。 2026年10月1日、Claude CodeのClaude Modsが正式に発表されました。 https://x.com/ClaudeDevs/status/2105721434807083061?s=20 これは、TypeScriptの関数を用いて、Claude Codeの機能や見た目を自由かつ安全にカスタマイズできる拡張機能の仕組みです。個人的に、この機能はかなり将来性の高い機…</summary>
+    <updated>2026-10-02T10:01:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>noguです。 2026年10月1日、Claude CodeのClaude Modsが正式に発表されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見た目を自由かつ安全にカスタマイズできる拡張機能の仕組みです。個人的に、この機能はかなり将来性の高い機能だと感じています。 本記事では、Claude Modsの機能について深掘りす...</summary>
   </entry>
   <entry>
     <title>最近プロジェクトマネジメントで感じたこと - Qiita</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-03T15:30:05+09:00</updated>
     <category term="はてブ IT" />
     <summary>AI増田判定、便利すぎて本文を読まなくて済むようになってる 9月30日、はてな匿名ダイアリーがChatGPTから検索、閲覧、投稿できるようになった。10月2日にはClaudeからも使えるようになった。 はてな匿名ダイアリーがChatGPTから使えるようになりました はてな匿名ダイアリーがClaudeからも使えるようになりました 案の...</summary>
-  </entry>
-  <entry>
-    <title>CSS の margin-trim でコンテナーの端の余白を取り除く</title>
-    <id>https://azukiazusa.dev/blog/css-margin-trim/</id>
-    <link href="https://azukiazusa.dev/blog/css-margin-trim/" />
-    <updated>2026-10-03T00:01:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026 年 9 月 27 日時点で、margin-trim はすべての主要ブラウザーで利用できる機能ではありません。Safari 16.4 で導入されていますが、Chromium や Firefox では未対応です。 カードの上下に余分な余白ができる まずは、margin-trim を使わない場合の余白を確認しましょう。次のカードには、見出しと 2 つの段落があり...</summary>
   </entry>
 </feed>
