@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T13:30:33.100384+09:00</updated>
+  <updated>2026-10-05T14:00:13.020429+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>dbt Chartsで作れるグラフを試してみた【dbt v2】【DuckDB】</title>
+    <id>https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog</id>
+    <link href="https://zenn.dev/ryatora/articles/dbt-charts-chart-catalog" />
+    <updated>2026-10-05T09:47:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. 概要 1.1 本記事の目的 2026年9月、dbt Labsからdbt Charts[1]がパブリックベータとして公開されました[2]。本記事では、実際にどんなグラフをどこまで描けるのかを確かめるため、NBA（アメリカのプロバスケットボールリーグ）のデータを使って、いろいろなグラフを作ってみました。 2章で準備をして、3章でグラフを種類ごとに作ります。4章では、dbt Chartsでは描けな…</summary>
+  </entry>
+  <entry>
+    <title>GraphRAGをゼロから詳しく解説する【ナレッジグラフ・オントロジー】</title>
+    <id>https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c</id>
+    <link href="https://zenn.dev/tetsuro731/articles/6efe77a20b8c1c" />
+    <updated>2026-10-05T09:19:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 生成AIが盛り上がり続けて数年、どんどん新しい言葉が出てくる。 RAGという概念が出てきたと思ったら、最近はナレッジグラフ、オントロジー、GraphRAGなど聞き慣れない言葉が次々出てきた。 しかし、これらのトレンドを時系列で整理して追ってみると、意外と一つの線となって繋がることがわかる。 今回は、最近注目されているGraphRAGに焦点をあて、ゼロから理解することを目指す。 詳しくは後…</summary>
+  </entry>
+  <entry>
+    <title>本当に「判断」していますか？</title>
+    <id>https://zenn.dev/dyoshikawa/articles/do-you-desicion</id>
+    <link href="https://zenn.dev/dyoshikawa/articles/do-you-desicion" />
+    <updated>2026-10-05T07:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに @dyoshikawaです。 昨今、 「AI時代はタスクはAIにやらせ、人間は判断に集中する」 といったことをよく聞きますが、個人的にはモヤモヤがあります。 ひとつは、対象への理解なしに妥当な判断ができるのか、という点です。 もうひとつは、自分自身もですし、身の回りやSNSで見かける投稿などからも感じることですが、その判断でさえAIへの丸投げに近づいていっているのではないかということです…</summary>
+  </entry>
+  <entry>
+    <title>Remix 3 正式版おめでとう。</title>
+    <id>https://zenn.dev/alaxusweb/articles/c2d446f1218635</id>
+    <link href="https://zenn.dev/alaxusweb/articles/c2d446f1218635" />
+    <updated>2026-10-04T21:38:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Remix が10月にメジャーアップデートリリース🎉（v3） https://remix.run/ うぇーい、とノリでアップデートに挑んで苦しんだお話。 個人で作っているWebアプリを、Remix 3 のbeta（3.0.0-beta.4）で動かしています。 Remix 3 が正式版（3.0.0）になったので、そのまま版を上げたところ、配信のビルドが48 件のエラーで止まりました。型を確かめると、…</summary>
+  </entry>
+  <entry>
+    <title>ネットの反社界隈が最近銃を欲しがってる理由</title>
+    <id>https://anond.hatelabo.jp/20261004201027</id>
+    <link href="https://anond.hatelabo.jp/20261004201027" />
+    <updated>2026-10-04T20:18:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>https://anond.hatelabo.jp/20261003094619 の追記だが 一応県外にいる元射撃仲間(学生射撃部時代一緒だった)知人のところにもこの手のSNSでよく見かけるインフルエンサー系反社・トクリュウっぽい連中が盛んに話を聞きに来ているようで、 怖いもの見たさと、いざって時は仲間内の団体とかに注意喚起をするために、話を...</summary>
+  </entry>
+  <entry>
+    <title>勘で置いていたWi-Fiを、数理最適化で配置してみた</title>
+    <id>https://zenn.dev/dalab/articles/66f067626d33de</id>
+    <link href="https://zenn.dev/dalab/articles/66f067626d33de" />
+    <updated>2026-10-02T14:27:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>0. はじめに 仕事をしていて、「この場所はWi-Fiが安定しているのに、少し移動するとつながりにくい」と感じたことはないでしょうか。 オフィス内の電波強度は、アクセスポイント（AP）の配置や壁・什器などの影響によって場所ごとに異なります。 そこで、ふと「これって数理最適化で解けるのでは」と思い、実装してみました。Wifiの電波強度は距離と障害物（壁）で決まる非常にシンプルなモデルで近似しました。…</summary>
+  </entry>
   <entry>
     <title>食べログアプリ開発で実践したハーネスエンジニアリング - Tabelog Tech Blog</title>
     <id>https://tech-blog.tabelog.com/entry/harness-engineering-tabelog-app-iosdc-2026</id>
@@ -330,9 +378,9 @@
     <title>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通</title>
     <id>https://zenn.dev/qnighy/articles/json-ambiguity</id>
     <link href="https://zenn.dev/qnighy/articles/json-ambiguity" />
-    <updated>2026-10-04T18:27:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。...</summary>
+    <updated>2026-10-04T17:18:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。」です。 JSON とは JSON (JavaScript Object Notation) はテキストベースでスキーマレスな、構造化されたデータ交換用フォーマットです。 JavaScript の Expression 構文のサ…</summary>
   </entry>
   <entry>
     <title>米Anker、小型で高性能のNanoシリーズからAVS＆PPSに対応しiPhone 18 Proの高速充電や最大65WでMacBookも充電できるUSB急速充電器「Anker Nano Charger Neo」を発売。</title>
@@ -757,53 +805,5 @@
     <updated>2026-10-04T08:12:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>スキャナーで蚊を検知して手で蚊を叩くよりも速くビームを発射する装置「Photon Matrix」の予約受付が始まりました。 国产PhotonMatrix便携式激光灭蚊设备爆单，海外众筹超250万美元-电子工程专辑 https://www.eet-china.com/news/202605289975.html Chinese-developed laser mosquito killer ente…</summary>
-  </entry>
-  <entry>
-    <title>【メモ】pstack (Claude Code 移植版pstack-claude) のスタック構成とオーケストレーションを読む</title>
-    <id>https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo</id>
-    <link href="https://zenn.dev/uehaj/articles/claude-code-pstack-structure-memo" />
-    <updated>2026-10-03T15:50:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで扱う pstack はコミュニティによる移植版のプラグインで、更新が頻繁です。本文の記述は執筆時点(2026年10月, pstack-claude v0.9.63 / Claude Code v2.1.288 で確認)のものなので、最新の構成はリポジトリをご確認ください。 はじめ...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - egma-ai/jev-code-reviewer: Review behavior, not just diffs. Jev prioritizes human attention; OpenAI explains the changes. Local CLI + agent skill + GitHub extension.</title>
-    <id>https://github.com/egma-ai/jev-code-reviewer</id>
-    <link href="https://github.com/egma-ai/jev-code-reviewer" />
-    <updated>2026-09-26T21:11:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Most PRs that are generated by agents today get YOLO merged because its hard for human mind to comprehend when your agent just suddenly shows up with 230 file changes. This is an attempt to reduce the…</summary>
-  </entry>
-  <entry>
-    <title>「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/04/2000001986/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/04/2000001986/" />
-    <updated>2026-10-04T08:32:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIで主要モデルのリリースごとに公開する安全性報告書の執筆を統括していたデビッド・ロビンソン氏は10月3日（現地時間）、米The Atlanticに「I Quit OpenAI Because Its Culture Is Broken」（OpenAIの文化が壊れているから辞めた）と題した記事を寄稿し、今週同社を退社したことを明らかにした。 同氏は、AI企業...</summary>
-  </entry>
-  <entry>
-    <title>自然言語で操作し、結果を検証するテストフレームワーク e2e</title>
-    <id>https://azukiazusa.dev/blog/e2e-ai-testing/</id>
-    <link href="https://azukiazusa.dev/blog/e2e-ai-testing/" />
-    <updated>2026-10-03T23:23:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>e2e は自然言語による操作と、要素を指定した操作・アサーションを組み合わせられるテストフレームワークです。この記事では Todo アプリを対象に、AI に操作を任せて結果をコードで検証するテストを作成します。 E2E（End-to-End）テストでは、ユーザーがアプリケーションを操作する一連の流れを検証します。Playwright...</summary>
-  </entry>
-  <entry>
-    <title>地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる</title>
-    <id>https://togetter.com/li/2753759</id>
-    <link href="https://togetter.com/li/2753759" />
-    <updated>2026-10-04T06:01:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。 あわせて...</summary>
-  </entry>
-  <entry>
-    <title>高市首相がAppleに要請――「自殺防止機能の搭載を」 生成AIへの相談増加を受け</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2610/03/news015.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2610/03/news015.html" />
-    <updated>2026-10-03T18:12:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Appleティム・クック前CEOからお手紙をいただきました」――10月2日、高市早苗首相はXを通じて、Appleとの間で交わされた子どもの安全対策や自殺防止に向けた取り組みに関するやりとりについて公開した。 高市氏は若者の間で生成AIへの相談が増加している現状や海外での深刻な事例を挙げ、デバイスに自殺防止機能などの...</summary>
   </entry>
 </feed>
