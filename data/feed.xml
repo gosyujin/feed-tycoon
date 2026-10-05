@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-05T22:30:15.268570+09:00</updated>
+  <updated>2026-10-05T23:00:14.403314+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など</title>
+    <id>https://www.publickey1.jp/blog/26/cloudflare_containersai6.html</id>
+    <link href="https://www.publickey1.jp/blog/26/cloudflare_containersai6.html" />
+    <updated>2026-10-06T00:29:53+09:00</updated>
+    <category term="Publickey" />
+    <summary>Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...</summary>
+  </entry>
+  <entry>
+    <title>Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘</title>
+    <id>https://gigazine.net/news/20261005-debian-security-advisory/</id>
+    <link href="https://gigazine.net/news/20261005-debian-security-advisory/" />
+    <updated>2026-10-05T17:20:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。 Debian alert DSA-6528-1 (kernel) [LWN.net] https://lwn.net/Articles/1097401/ [SECURITY…</summary>
+  </entry>
   <entry>
     <title>Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表</title>
     <id>https://www.publickey1.jp/blog/26/googlegvisorcncf.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-04T21:59:22+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>何かと最近見かける Looped Transformer。 仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。 少なくとも僕は、名前だけ見て Transformerの同じ層を何回か通すやつでしょ くらい...</summary>
-  </entry>
-  <entry>
-    <title>具体・抽象トレーニングに参加して学んだこと</title>
-    <id>https://qiita.com/like-mountain/items/e8334382a5fc84e0d64e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/like-mountain/items/e8334382a5fc84e0d64e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-04T20:26:24+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年9月27日に、具体・抽象トレーニングのイベントに参加してきました。 学んだことと感じたことをまとめておきます。 抽象とは 抜き出すことと捨てることは、セット。 抽象とは、物事の中から共通する部分を抜き出すこと 「捨象」という言葉もあって、こち...</summary>
-  </entry>
-  <entry>
-    <title>「エンジニア不要論の真実！」を読んでみて</title>
-    <id>https://qiita.com/taki-umi/items/1ab4bce268e4aa6e7794?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/taki-umi/items/1ab4bce268e4aa6e7794?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-04T20:04:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>プログラミングスクールJISOUを運営している渡邉 臣さん（@Sicut_study ）の以下記事を読んで率直に思った今の心境や、学び・気づいたこと、ネクストアクションをアウトプットします。 まず、自分はどんな人間なのか エンジニア歴は8年ほどで、現在はエンジニアチ...</summary>
   </entry>
 </feed>
