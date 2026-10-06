@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T19:30:50.577797+09:00</updated>
+  <updated>2026-10-06T20:00:16.263297+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>相次ぐ不正アクセス受け、古川デジタル相がコメント 国民に3つのサイバー対策呼び掛け</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/06/2000002060/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/06/2000002060/" />
+    <updated>2026-10-06T18:48:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>デジタル庁の古川俊治大臣は10月6日の記者会見で、相次ぐ不正アクセスによる個人情報の流出を受け、パスワードの管理など被害を防ぐための対策を国民に呼び掛けた。 古川大臣は、流出する情報は氏名や住所にとどまらず、IDやパスワード、クレジットカード情報、運転免許証などに及ぶ場合があり、なりすましや不正送金、...</summary>
+  </entry>
+  <entry>
+    <title>GitHub Actionsのキャッシュがあふれるので、不要になった2種類を自動削除する</title>
+    <id>https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup</id>
+    <link href="https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup" />
+    <updated>2026-10-06T15:35:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。 はじめに 前回の記事では、毎回タイムアウトしていた脆弱性スキャンのCIを約2分まで縮めた経緯を書きました。その際、保存したキャッシュが容量不足で削除されてしまう問題があったため、保存容量の上限を引き上げて、不要なキャッシュを自動削除するようにしました。今回はその対応を紹介します。 https://…</summary>
+  </entry>
+  <entry>
+    <title>エージェントの記憶はどこに置くか —— Skills・AGENTS.md・引き継ぎノートをClaude CodeとIBM Bobで検証した</title>
+    <id>https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af</id>
+    <link href="https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af" />
+    <updated>2026-10-06T14:59:59+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事のまとめ Claude CodeとIBM Bobで同じリポジトリを動かし、コーディングエージェントの「記憶の置き場所」について3つの検証をしました。 検証 確かめたこと 結果 1. Skills descriptionの書き方で、Skillの呼ばれやすさは変わるか 変わらなかった。手順型のSkillは全試行で呼ばれた 2. 引き継ぎノート ノートで、セッションやツールをまたいで作業を再開で…</summary>
+  </entry>
+  <entry>
+    <title>嘘を嘘と見抜けない？ Clef / Clef-Flashの判定性能を7タスクでJevと比較</title>
+    <id>https://zenn.dev/canly/articles/e4f0527fcfd6b3</id>
+    <link href="https://zenn.dev/canly/articles/e4f0527fcfd6b3" />
+    <updated>2026-10-06T12:37:22+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Jevの登場以降、確率で判断を返すAIモデルの話題が増えてきました。Layaや、Jev互換のAPIを備えたKevなど、オープンソースのモデルも公開されています。今回試すのは、その流れに加わったCloudflareのClefです。まずは判定精度を確かめて、売りである速さは次回、条件を揃えて検証したいと思っています。 速く判断できても、嘘を嘘と見抜けなかったら、安心して任せられるのでしょうか。今回は、…</summary>
+  </entry>
   <entry>
     <title>ゆうちょ銀、ファミマのATMを終了 27年1月から</title>
     <id>https://www.watch.impress.co.jp/docs/news/2145985.html</id>
@@ -39,7 +71,7 @@
     <summary>［半角/全角］キーなしで日本語・英語を打ち分ける無料日本語入力アプリ「Meltype」が登場／タイプすれば勝手によしなに変換されていく</summary>
   </entry>
   <entry>
-    <title>個人情報流出なぜ相次ぐ? 専門家“異様な状況”AI悪用可能性も | NHKニュース</title>
+    <title>個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261006de55037</id>
     <link href="https://news.web.nhk/newsweb/na/nd-20261006de55037" />
     <updated>2026-10-06T17:38:54+09:00</updated>
@@ -773,37 +805,5 @@
     <updated>2026-10-05T20:31:37+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Vitestの話 問題 要素があるかを期待したい 解決 toBeDefined()を使って解決 終わりに Google検索時のAIにjest関係の型を導入するよう案内された。が、公式を見たらVitest標準でできた</summary>
-  </entry>
-  <entry>
-    <title>ESLint: 'expect' is not defined. (no-undef)</title>
-    <id>https://qiita.com/J-T_ky2g/items/23e4abab5738c4d0603d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/23e4abab5738c4d0603d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T20:28:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Vitestの話 問題 eslint警告が出ている 解決 IDEの補完でjestのexpectをimportしていた import { test, vi, expect } from 'vitest' とvitestからのインポート追加して解決 ...</summary>
-  </entry>
-  <entry>
-    <title>【入社エントリ】入社して2ヶ月を振り返ってみた</title>
-    <id>https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T16:29:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは！Shizen Connectにジョインして、あっという間に2ヶ月が経過しました。 毎日新しいことの連続でバタバタしつつも、すごく充実した日々を送っています！ 今回は自分の備忘録も兼ねて、入社からの2ヶ月間の振り返りと、そもそも「なぜ私がこの会社に入社したのか？」...</summary>
-  </entry>
-  <entry>
-    <title>大容量のカスタムイメージのインポート・エクスポートをしてみる。</title>
-    <id>https://qiita.com/tkonishi/items/4ebce01f830297c00d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tkonishi/items/4ebce01f830297c00d57?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T15:22:16+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>これまで、OCIコンピュートではカスタム・イメージのエクスポートやインポートのサイズ上限は400GBとなっていましたが、この上限が緩和され1TBまでインポートやエクスポート可能となりました！ カスタムイメージの制限 https://docs.oracle.com/ja-j...</summary>
-  </entry>
-  <entry>
-    <title>【Db2 Genius Hub】導入前に知っておきたいサイジングの考え方 ～実環境から見積もってみた～</title>
-    <id>https://qiita.com/ISE_Db2LUW_Club/items/18b8bb948847ccfbc93a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ISE_Db2LUW_Club/items/18b8bb948847ccfbc93a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T10:30:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>目次 はじめに Db2 Genius Hub の構成を整理する REPODB の主要テーブルカテゴリ DMC と Genius Hub の関係 実測データから見る REPODB のサイズ感 実測環境の概要 テーブル別実測サイズ（上位 10） 収集間隔の実測値...</summary>
   </entry>
 </feed>
