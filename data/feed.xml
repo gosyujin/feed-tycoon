@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T00:00:10.752461+09:00</updated>
+  <updated>2026-10-07T00:30:17.356419+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現</title>
+    <id>https://gigazine.net/news/20261006-tavus-griffin/</id>
+    <link href="https://gigazine.net/news/20261006-tavus-griffin/" />
+    <updated>2026-10-06T22:10:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。 Griffin: The First Human Interaction Model | Tavus ...</summary>
+  </entry>
+  <entry>
+    <title>llama.cpp 0.6.0公開。GLM-5.3-Flash対応やMetal高速化</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2145872.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2145872.html" />
+    <updated>2026-10-06T13:50:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>llama.cpp 0.6.0公開。GLM-5.3-Flash対応やMetal高速化</summary>
+  </entry>
   <entry>
     <title>川崎重工、ロボット企業へトランスフォーム 全事業にフィジカルAI - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUC040EZ0U6A001C2000000/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-05T23:12:40+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>概要 以下のようなユーザーが検索した作品名の人気キーワード機能の内容になります。 この作品名の人気キーワードをクリックすると作品検索結果画面に移動し、そのキーワードで検索した結果を表示しています。 技術スタック Vue Laravel Redis PostgreSQL 大まかな処理の流れ ・処理1 ユーザーが画面上で作品名を検索 ↓ Laravelで、 Redisのキューに作品名検索ログを登録する…</summary>
-  </entry>
-  <entry>
-    <title>ロボットモデルなしでアームを動かす — Claude × MCP で SO-101 を直接操作する</title>
-    <id>https://zenn.dev/oggata/articles/0893726c1ebf3d</id>
-    <link href="https://zenn.dev/oggata/articles/0893726c1ebf3d" />
-    <updated>2026-10-05T21:19:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ロボットモデルなしでアームを動かす — Claude × MCP で SO-101 を直接操作する 今回は、ロボット用の学習を一切していない汎用 LLM（Claude）に、カメラ映像を見ながら直接アームを動かさせることに挑戦する。使うのは、LeRobot の Python API と、Claude Desktop から外部ツールを呼び出すための MCP（Model Context Protocol…</summary>
-  </entry>
-  <entry>
-    <title>日立製作所とアンソロピックが提携、「米国AIの軍門に降った」と思う人が知らない事実</title>
-    <id>https://diamond.jp/articles/-/400443</id>
-    <link href="https://diamond.jp/articles/-/400443" />
-    <updated>2026-10-05T20:40:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日立製作所の笠戸事業所（山口県下松市）で製造されたJR九州の885系特急電車。独自開発したアルミダブルスキン構造の次世代鉄道車両システム「A-train」が採用されている Photo:PIXTA 日立製作所が米Anthropicとの戦略的提携を発表しました。このニュースを見て、「日立ほどの企業でも基盤AIでは米国の軍門に降ったのか...</summary>
   </entry>
 </feed>
