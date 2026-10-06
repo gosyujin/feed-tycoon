@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T22:30:16.675578+09:00</updated>
+  <updated>2026-10-06T23:00:16.351959+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装</title>
+    <id>https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html</id>
+    <link href="https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html" />
+    <updated>2026-10-07T00:47:53+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy...</summary>
+  </entry>
+  <entry>
+    <title>FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測</title>
+    <id>https://www.publickey1.jp/blog/26/fdeai7fde.html</id>
+    <link href="https://www.publickey1.jp/blog/26/fdeai7fde.html" />
+    <updated>2026-10-07T00:43:31+09:00</updated>
+    <category term="Publickey" />
+    <summary>米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）によって開発されたAIエージェントの70％が2028年までに企業に使われずに放棄されるだろう（Gartner Predi...</summary>
+  </entry>
+  <entry>
+    <title>チームみらい安野氏「サイバー攻撃能力の高いAIモデルが拡散」 相次ぐ情報漏えい受け「対応を急ぐ必要がある」</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2610/06/2000002065/" />
+    <updated>2026-10-06T21:14:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>チームみらいの安野貴博党首は10月6日、サイバー攻撃能力の高いAIモデルが拡散しているとの認識を示した。「データの漏えい事故も相次いでおり、対応を急ぐ必要がある」と指摘している。自身のXアカウント（@takahiroanno）に投稿した。 安野氏は、米AnthropicのAIモデル「Claude Mythos」に関連し、4月に国会で「Mythos...</summary>
+  </entry>
   <entry>
     <title>技術ブログの衰退、もしくはこれから</title>
     <id>https://zenn.dev/northward/scraps/4981c56d70dbaf</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-05T17:26:58+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは。株式会社ラディウス･ファイブでバックエンド、GPUインフラ、フロントエンド、あといろいろやってるだけのエンジニアではない人です。 https://www.copainter.ai/ ウィルキンソンのジンジャ無糖は美味しいので買いましょう。 https://amzn.asia/d/01vS9hzH Cloudflare Birthday Week みなさんはちゃんとCloudflare…</summary>
-  </entry>
-  <entry>
-    <title>オブジェクト指向UIデザインをAgent Skillにして、Claudeが作るUIはどう変わるかの検証</title>
-    <id>https://zenn.dev/emuni/articles/ooui-agent-skill</id>
-    <link href="https://zenn.dev/emuni/articles/ooui-agent-skill" />
-    <updated>2026-10-05T15:09:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、株式会社エムニの黒川です。 普段は業務用Webアプリケーションの開発に携わっており、主に実装を担当しています。 昨今、UIの実装においてもClaude CodeなどのAIエージェントを活用する場面が増えています。 プロンプトから画面のプロトタイプが生成される開発のスピード感は魅力ですが、生成されたUIを改善する際、エージェントへの修正指示が「もっと見やすく」のような感覚的な表現になりが…</summary>
-  </entry>
-  <entry>
-    <title>Go と Swift のコンストラクタを突き詰めると、言語思想にたどり着いた</title>
-    <id>https://zenn.dev/s0nmy/articles/d3a0873deb08ec</id>
-    <link href="https://zenn.dev/s0nmy/articles/d3a0873deb08ec" />
-    <updated>2026-10-05T10:49:39+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 今年の夏に、Go と Swift の 初心者向け 5days インターンに参加しました。 アーキテクチャを意識した Go と、オブジェクト指向に苦戦した Swift と相対的な内容でした。 それを終えた今、ずっと頭の中がゴチャゴチャしていたのがここです。 Goの NewUser() Swiftの init 正直なところ、最初は「どれもインスタンスを作るやつ」くらいの理解で書いていました。…</summary>
-  </entry>
-  <entry>
-    <title>日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261004de54358</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261004de54358" />
-    <updated>2026-10-05T09:04:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。 メールアドレスなどの情報が漏えいしたとみられるとい…</summary>
   </entry>
 </feed>
