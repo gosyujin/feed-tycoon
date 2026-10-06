@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T17:00:12.982719+09:00</updated>
+  <updated>2026-10-06T17:30:17.355736+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【備忘録】Snowflake SQL Tips集</title>
+    <id>https://qiita.com/takeshi_Qiita/items/18f0a35a3b23f31bdabf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takeshi_Qiita/items/18f0a35a3b23f31bdabf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T15:40:31+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Snowflake上に複数のデータマートの作成をしました。その過程で「これは他の案件でも使える」と感じた関数・構造・パターンを、備忘録として残します。 想定読者: SELECT / JOIN / GROUP BY / CASE は一通り書けるようになった方。...</summary>
+  </entry>
+  <entry>
+    <title>児童性的虐待画像(CSAM)の法的定義に該当するAI生成画像が2026年上半期だけで6310枚も見つかったとIWFが発表、2025年全体より40％も増加</title>
+    <id>https://gigazine.net/news/20261006-iwf-reports-huge-rise-ai-csam/</id>
+    <link href="https://gigazine.net/news/20261006-iwf-reports-huge-rise-ai-csam/" />
+    <updated>2026-10-06T13:49:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>インターネット上での性的虐待コンテンツを最小限に抑えるために活動を行っている非営利団体のインターネット監視財団(IWF)が、AI生成の児童性的虐待画像(CSAM)が急増していることを報告しました。IWFによると、AI生成のCSAMは2025年比で40％も増加しています。 Our analysts have found more photorealistic child sexu...</summary>
+  </entry>
+  <entry>
+    <title>耳で聞く！Python で学ぶ マクロ経済学 入門 25</title>
+    <id>https://qiita.com/maskot1977/items/f9fb6943b55166ce32b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/f9fb6943b55166ce32b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T12:34:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご質問のソース動画のタイトルおよび詳細な内容について解説します。 動画タイトル 『Pythonで暴く財源不足の正体 : Pythonで学ぶマクロ経済学入門 Podcas...</summary>
+  </entry>
+  <entry>
+    <title>自作したAIエージェントをいつものSlackから使いたい！Private Agent Factoryで作ったAIエージェントをSlackから呼び出してみた</title>
+    <id>https://qiita.com/ssfujita/items/705bbd677c692927548c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ssfujita/items/705bbd677c692927548c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T11:25:37+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに AIエージェントを作ったものの、 「結局、専用のチャット画面を開かないと使えない」 となってしまうと、日常業務で使ってもらうハードルは意外と高くなります。 できれば利用者には新しい操作方法を覚えてもらうのではなく、SlackやTeamsなど、普段から使い慣れてい...</summary>
+  </entry>
+  <entry>
+    <title>[AWS SAA対策] S3・EBS・RDSの暗号化を"本質"から理解する</title>
+    <id>https://qiita.com/masa0121/items/c5001315fbaf98452ee1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/masa0121/items/c5001315fbaf98452ee1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T11:00:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AWS 暗号化まとめ（S3 / EBS / RDS） ― SAAで差がつくポイントだけを整理する ― AWS の暗号化は SAA の中でも「理解したつもりになりやすい」領域です。 特に S3 / EBS / RDS の暗号化方式の違いは、試験/実務でも判断を誤りやすいポ...</summary>
+  </entry>
+  <entry>
+    <title>New RelicでPostgreSQLのクエリ発行元アプリを特定する - NRDOTとAPMの連携方法</title>
+    <id>https://qiita.com/kobadain/items/f0e6820661fa6f8c1e26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kobadain/items/f0e6820661fa6f8c1e26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T10:42:36+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>New RelicではDatabase 360のNRDOTを用いてデータベースを監視できます。今回はNRDOTとAPMを連携し、PostgreSQLのクエリや待機イベントを発行元アプリと関連付ける設定と確認方法を紹介します。 はじめに 問題発生時やエラー、パフォーマンス解...</summary>
+  </entry>
+  <entry>
+    <title>Vue.js初心者がトースト通知を実装してみた〜alertとの違いと基本的な仕組み〜</title>
+    <id>https://qiita.com/sanonichi/items/f47b010339b0bb1779b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/sanonichi/items/f47b010339b0bb1779b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T10:14:21+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Vue.js初心者がトースト通知を実装してみた〜alertとの違いと基本的な仕組み〜 はじめに こんにちは。株式会社パレットリンクの@sanonichiです。 私は、Webアプリの開発を行う中で、登録や更新が完了したことをユーザーに伝える通知機能について学びました。 研...</summary>
+  </entry>
+  <entry>
+    <title>Azure Firewall Explicit Proxyを実機検証してわかった、ドキュメントに書いていない挙動まとめ</title>
+    <id>https://qiita.com/kiyoshi_sugawara/items/3c1ae01b9332ba3ef0da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kiyoshi_sugawara/items/3c1ae01b9332ba3ef0da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T09:58:58+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年8月、Azure更新情報にて Azure Firewall の Explicit Proxy 機能が GA(一般提供開始)されました。 Azure Firewallは既定では「透過型プロキシ」として動作します。UDR(ユーザー定義ルート)でトラフィッ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の WebFetch は、長いページの10万字より後ろを読まずに「書いていない」と答えていた</title>
+    <id>https://qiita.com/suwa_nobu/items/35a1824f5b1d41caa10f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/suwa_nobu/items/35a1824f5b1d41caa10f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T09:37:26+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Claude Code 2.1.290（2026-10-05）の changelog に、こう書かれています。 Fixed WebFetch silently dropping page text past 100,000 characters; it now says ...</summary>
+  </entry>
+  <entry>
+    <title>(新登場)Nova 2.5 Sonic爆誕：東京リージョンにもきている</title>
+    <id>https://qiita.com/yama3133/items/5ce2572730be29eb89fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yama3133/items/5ce2572730be29eb89fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T09:07:27+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Nova 2.5 Sonicが登場しました。 バージニア北部だけかと思いきや、東京リージョンまできています。 実際にAWSマネコン上で触ってみましたので速報という形でお届けします。 100%人間の手で書いてます 早速確認 東京リージョンでAWSマネジメ...</summary>
+  </entry>
+  <entry>
+    <title>エンジニアなら知っておけ！！ファイルシステムとパーティションの基本</title>
+    <id>https://qiita.com/miku_JK_Jb/items/13073a5f517af0f59bfe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/miku_JK_Jb/items/13073a5f517af0f59bfe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T23:56:09+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はい、miku_JK_Jbです。 今回は、自作OSの開発作業の中で勉強したり、実際に設計などで参考になった、 ファイルシステムとパーティションの基本について解説していく。 普段PCを使っていると、ファイルを保存したり、コピーしたり、削除したりするのは当たり前のようにできる。...</summary>
+  </entry>
+  <entry>
+    <title>AI時代の手抜きは「アウトプット出しすぎ」らしいので考えてみた件</title>
+    <id>https://qiita.com/morry_48/items/c5c388153c7506109c69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/morry_48/items/c5c388153c7506109c69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T23:10:29+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに どうも。鳩胸になりたい文鳥です。 AI時代の手抜きは「アウトプット出しすぎ」らしい 先日のポストで流れてきた動画が気になりました。 ShopifyのTobi Lütke氏が、ポッドキャストでこんな感じのことを言っています。 昔の手抜き → アウトプット...</summary>
+  </entry>
+  <entry>
+    <title>【inotify】ファイルを上書き保存するだけで情報が漏洩する</title>
+    <id>https://qiita.com/rana_kualu/items/323aecccca77ab3d308e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/rana_kualu/items/323aecccca77ab3d308e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T20:20:37+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>inotifyは、ファイルの変更を感知して報告するシステムです。 ファイルが開かれた、更新された、といったイベントを監視することができますが、ファイルの中身を見ることはできません。 inotifyは2005年にLinuxに導入されました。 またAndroid・Windows...</summary>
+  </entry>
+  <entry>
+    <title>Kubernetes 1.37でデフォルトで有効になったStorage Version Migrationについて</title>
+    <id>https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T17:33:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに CRD の古い API バージョン (v1alpha1 など) を .status.storedVersions から外したい、あるいは暗号化キーをローテーションしたいと思っても、etcd に古いスキーマ・古い鍵のまま眠っているオブジェクトがある限り、それはでき...</summary>
+  </entry>
+  <entry>
+    <title>Kiro × Agent Toolkit for AWS で「実環境から構成図を生成」してみた</title>
+    <id>https://qiita.com/oukayuu/items/d9c853880372b1d999a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/oukayuu/items/d9c853880372b1d999a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-05T17:27:23+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>要点 Agent Toolkit for AWS（AWS公式のMCPサーバー群）を Kiro に接続すると、 AIエージェントが AWS の現状を直接読み取ってくれる 操作は すべて読み取り専用。AIに「読み取りだけで」と伝えれば、確認しながら進む 集めた「実機の事実...</summary>
+  </entry>
+  <entry>
+    <title>【登壇レポート】「JAWS-UG 茨城 #17 秋の推しAWSサービスLTまつり！」でAmazon Connect Customerを推してきました</title>
+    <id>https://qiita.com/yosuke-suzuki/items/57944289a533bd6a7585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yosuke-suzuki/items/57944289a533bd6a7585?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-04T23:18:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに こんにちは！アマコネ芸人です。 2026年9月30日にオンラインで開催された、JAWS-UG茨城の第17回「秋の推しAWSサービスLTまつり！」にて、登壇させていただきました。 本記事では発表した内容を簡単にまとめます。 登壇資料 「Amazon Con...</summary>
+  </entry>
   <entry>
     <title>Suicaの新コード決済「テッペイ」10月20日開始 上限2万円を超える</title>
     <id>https://www.watch.impress.co.jp/docs/news/2146007.html</id>
@@ -677,133 +805,5 @@
     <updated>2026-10-05T23:04:59+09:00</updated>
     <category term="はてブ IT" />
     <summary>自己紹介 • ASIC, ASSPてきな • アナデジ混載系 • 検証エンジニア （リスペクト元: AUDIYさん） 何か小さくて黒っぽい 集積回路みたいなやつ にゃーんと言いながら SystemVerilogで戦ってます</summary>
-  </entry>
-  <entry>
-    <title>AWSにログインする方法8選</title>
-    <id>https://zenn.dev/aws_japan/articles/aws-login-methods</id>
-    <link href="https://zenn.dev/aws_japan/articles/aws-login-methods" />
-    <updated>2026-10-02T13:16:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに AWS へのログイン方法は、この数年で選択肢が増えました。マネジメントコンソールに入るだけでも IAM Identity Center、IAM ユーザー、外部 IdP からのフェデレーション、ルートユーザーがあり、ターミナルや SDK から使う方法には aws configure sso、2025 年 11 月に追加された aws login、AWS CloudShell、従来からの長期…</summary>
-  </entry>
-  <entry>
-    <title>大阪公立大システム障害 ランサムウエアによるサイバー攻撃か | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261005de54843</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261005de54843" />
-    <updated>2026-10-05T19:44:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>大規模なシステム障害で授業が休講している大阪公立大学は、5日に記者会見を開き、身代金要求型のコンピューターウイルス「ランサムウエア」によるサイバー攻撃を受けたという見方を示しました。 大阪市と堺市…</summary>
-  </entry>
-  <entry>
-    <title>タイムズカー、情報保護法を軽視 160万件の免許証画像流出 | NEWSjp</title>
-    <id>https://news.jp/i/1479745429830238822</id>
-    <link href="https://news.jp/i/1479745429830238822" />
-    <updated>2026-10-05T18:16:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーシェアリングサービス「タイムズカー」への不正アクセスにより約160万件の運転免許証の画像が漏えいした問題で、画像の保存期間を「退会から7年」と設定していたことが5日、運営するパーク24への取材で分かった。個人情報保護法はデータが不要になった事業者に「遅滞なく消去するよう努めなければならない」と要請し...</summary>
-  </entry>
-  <entry>
-    <title>API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた - Qiita</title>
-    <id>https://qiita.com/songchong/items/02672765fe53f911a1a0</id>
-    <link href="https://qiita.com/songchong/items/02672765fe53f911a1a0" />
-    <updated>2026-10-05T09:15:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</summary>
-  </entry>
-  <entry>
-    <title>AIでサイバー攻撃のコスト激減 数行の指示だけで27社に侵入、カード情報60万件超が流出 - 週刊アスキー</title>
-    <id>https://weekly.ascii.jp/elem/000/004/439/4439882/</id>
-    <link href="https://weekly.ascii.jp/elem/000/004/439/4439882/" />
-    <updated>2026-10-05T17:05:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>わずか数行の指示を出すだけで、AIが脆弱性を探し、侵入し、カード情報まで盗み出す──。サイバー攻撃の自動化が実戦段階に迫っている。 セキュリティ企業Gambit Securityの9月22日の報告によると、金銭目的の攻撃者が複数のオープンソースAIエージェントを使い、数百店のオンラインショップを攻撃した。2026年9月10～15...</summary>
-  </entry>
-  <entry>
-    <title>Cloudflare ContainersがAIエージェント向けに刷新。起動が6倍速、ファイルシステムのスナップショット機能など</title>
-    <id>https://www.publickey1.jp/blog/26/cloudflare_containersai6.html</id>
-    <link href="https://www.publickey1.jp/blog/26/cloudflare_containersai6.html" />
-    <updated>2026-10-06T00:29:53+09:00</updated>
-    <category term="Publickey" />
-    <summary>Cloudflareは、同社のエッジロケーションでコンテナ型仮想マシンを実行可能にする「Cloudflare Containers」をAIエージェント向けに刷新したことを発表しました。 これまでよりも起動速度が6倍となり、環境構築が容易にな...</summary>
-  </entry>
-  <entry>
-    <title>Linuxカーネルの脆弱性が一挙1313件も報告される、AI普及で「個々の脆弱性を追う対策は限界」との指摘</title>
-    <id>https://gigazine.net/news/20261005-debian-security-advisory/</id>
-    <link href="https://gigazine.net/news/20261005-debian-security-advisory/" />
-    <updated>2026-10-05T17:20:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Linuxカーネルに関する1313件ものCVEがDebianのセキュリティアップデートで一挙に列挙されました。影響には権限昇格やサービス拒否攻撃、情報漏えいが含まれており、Debianは修正版カーネルへの更新を推奨しています。 Debian alert DSA-6528-1 (kernel) [LWN.net] https://lwn.net/Articles/1097401/ [SECURITY…</summary>
-  </entry>
-  <entry>
-    <title>Google、サンドボックス型コンテナランタイムの「gVisor」をCNCFに寄贈したと発表</title>
-    <id>https://www.publickey1.jp/blog/26/googlegvisorcncf.html</id>
-    <link href="https://www.publickey1.jp/blog/26/googlegvisorcncf.html" />
-    <updated>2026-10-06T00:27:19+09:00</updated>
-    <category term="Publickey" />
-    <summary>Googleはサンドボックス型コンテナランタイムの「gVisor」をCloud Native Computing Foundation（CNCF）に寄贈したことを発表しました。 gVisorはコンテナ型仮想マシンの業界標準であるOCI（Op...</summary>
-  </entry>
-  <entry>
-    <title>iOS27の「ショートカット」に35以上の新アクション・機能改善が追加！ - iPhone Mania</title>
-    <id>https://iphone-mania.jp/ios-607006/</id>
-    <link href="https://iphone-mania.jp/ios-607006/" />
-    <updated>2026-10-05T17:55:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>iOS27では、iPhoneの高速化や、ロック画面の新機能、子どもの安全機能など様々な強化が行われています。 「ショートカット」アプリでは、作成手順をスムーズにする機能をはじめ、新規アクションや既存機能の強化、新たなオートメーション条件などあわせて35以上の新機能が追加されました。 本記事では、追加された新機能...</summary>
-  </entry>
-  <entry>
-    <title>パチンコ店の入場抽選アプリ「777CON-PASS」に不正アクセス 行動エリアやプロフ写真など流出か</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/05/2000002003/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/05/2000002003/" />
-    <updated>2026-10-05T16:02:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>オンラインゲームの開発・運営を手掛けるサミーネットワークス（東京都品川区）は10月2日、同社が運営するパチンコ・パチスロ店向け入場抽選アプリ「777CON-PASS」で第三者による不正アクセスがあり、利用者の個人情報が流出した可能性があると発表した。位置情報から生成した行動エリアやプロフィール写真などが対象に...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeのルーティンを利用した開発フローの自動化 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <id>https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20261005/claude-code-routines" />
-    <updated>2026-10-05T15:24:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>目次 はじめに サマリ 人間はタスクを完全には並列処理できない 以前にも承認待ちの課題は存在していた 作った仕組みと設計上の工夫 issueの選定条件を明確にする 1回の実行で1 issueだけ扱う 複数のリポジトリを横断してコンテキストを集める まとめ 参考文献 はじめに AIにコードを書いてもらえるようになると、実装は...</summary>
-  </entry>
-  <entry>
-    <title>結局、Looped Transformerってなんや？ - Qiita</title>
-    <id>https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e</id>
-    <link href="https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e" />
-    <updated>2026-10-05T11:16:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>何かと最近見かける Looped Transformer。 仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。 少なくとも僕は、名前だけ見て Transformerの同じ層を何回か通すやつでしょ くらいで止まっていました。 そこで今回は、 なぜ同じTransformerを繰り返すのか 理...</summary>
-  </entry>
-  <entry>
-    <title>Googleが黒塗りで報告したデータセンターの水使用量と最大電力容量がコピペによって明らかに</title>
-    <id>https://gigazine.net/news/20261005-google-data-center-usage/</id>
-    <link href="https://gigazine.net/news/20261005-google-data-center-usage/" />
-    <updated>2026-10-05T20:11:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleがアメリカ・ネブラスカ州リンカーンで2026年に稼働を開始したデータセンターについて、ネブラスカ州水・エネルギー・環境局(DWEE)に年次報告書を提出しました。データセンターがどれだけの電力と水を使用しているかは一部の州法に基づいて企業秘密にできると主張してGoogleは当該部分の数値を黒塗りで「非公開」...</summary>
-  </entry>
-  <entry>
-    <title>【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b</id>
-    <link href="https://news.yahoo.co.jp/articles/4d139d586213ccab1bea8ea57e005e6689c4ab6b" />
-    <updated>2026-10-05T17:18:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【速報】「多くの方々にご不便とご心配かけ、深くお詫び」大阪公立大が謝罪 ランサムウェアによるサイバー攻撃か 基盤システム障害で全授業が休講中 対面授業は9日以降再開予定（MBSニュース） - Yahoo!ニュース</summary>
-  </entry>
-  <entry>
-    <title>無料のAdobe代替アプリ集「ArtCraft Crafting Apps」、オープンソースでPhotoshop・Illustrator・Premiere・Lightroom・Acrobat・After Effects・InDesignの代替を目指す</title>
-    <id>https://gigazine.net/news/20261005-artcraft-crafting-apps/</id>
-    <link href="https://gigazine.net/news/20261005-artcraft-crafting-apps/" />
-    <updated>2026-10-05T16:26:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIによる画像・動画制作ソフトを開発するArtCraftが、Adobe Creative Cloudのクリエイティブツール群をオープンソースソフト「Crafting Apps」として作り直そうとするプロジェクトを進めています。Crafting AppsはPhotoshopやIllustratorなどのAdobeスイートと同じ操作体系でありながら、各アプリがRustで一から開発され...</summary>
-  </entry>
-  <entry>
-    <title>大起水産 不正アクセスで約17万5000人分の個人情報漏えいか | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261005de54848</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261005de54848" />
-    <updated>2026-10-05T19:45:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>大阪・堺市に本社がある関西のすしチェーン「大起水産」は、外部から不正アクセスを受け、会社の公式アプリに登録されているおよそ17万5000人分の個人情報が外部に漏えいした可能性があると発表しました。現時…</summary>
   </entry>
 </feed>
