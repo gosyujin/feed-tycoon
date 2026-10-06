@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-06T22:00:19.785053+09:00</updated>
+  <updated>2026-10-06T22:30:16.675578+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>技術ブログの衰退、もしくはこれから</title>
+    <id>https://zenn.dev/northward/scraps/4981c56d70dbaf</id>
+    <link href="https://zenn.dev/northward/scraps/4981c56d70dbaf" />
+    <updated>2026-10-06T19:00:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>データをどのように集めているかなどの詳しい説明は以下の記事に書いています。ざっくり言えば、 2026年に投稿された約52,000件の記事のデータを収集しています。 投稿時刻、ユーザーが押したLikeの数(=非ログインLikeを含まないLikeの数)や所属Publicationの情報などを集め、このスクラップに貼っている各画像を作成し...</summary>
+  </entry>
   <entry>
     <title>Windowsアプリの開発・配布CLIツール「winapp」、「Windows Sandbox」に対応／「Native AOT」アプリの1コマンド実行、「.NET 10」の単一ファイル機能などもサポート</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2145828.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-05T09:04:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>日本経済新聞社は社員が使っていた業務用ソフトのアカウントがサイバー攻撃を受け、社員になりすましたメールおよそ9000件が送信されたと発表しました。 メールアドレスなどの情報が漏えいしたとみられるとい…</summary>
-  </entry>
-  <entry>
-    <title>.NETランタイムのコンテナビルド</title>
-    <id>https://zenn.dev/prozolic/articles/617fa9127c0229</id>
-    <link href="https://zenn.dev/prozolic/articles/617fa9127c0229" />
-    <updated>2026-10-05T07:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに ちょっと前に、dotnet/runtimeのローカルビルド(Windows)の方法について、まとめました。 https://zenn.dev/prozolic/articles/40596be65d333f ありがたいことにこの記事を見て、実際にビルドしてみてくれた方などがいて、私自身嬉しいと感じているところです。 ただし、色々なライブラリやツールを入れたり、不可思議なエラーなどが発生し…</summary>
   </entry>
 </feed>
