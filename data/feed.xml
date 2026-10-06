@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T00:30:17.356419+09:00</updated>
+  <updated>2026-10-07T01:00:16.468548+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>iPhone向けアプリ開発者、2027年4月以降はiPhone Duo対応スクリーンショットの提出が必須に。対応済ビルドの提出は既に受付開始 - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/newsjp/20261006-472024/</id>
+    <link href="https://automaton-media.com/articles/newsjp/20261006-472024/" />
+    <updated>2026-10-06T17:49:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleは10月5日、iPhone Duoの発売を10月23日に控え、同デバイス向けの準備に関してアプリ開発者に案内した。この中では、2027年4月以降にApp Storeに提出されるすべてのアプリについて、iPhone Duo対応スクリーンショットの提出が義務付けられることも告知されている。 iPhone Duoは、最新のA20 Proチップを搭載する、A...</summary>
+  </entry>
+  <entry>
+    <title>Geminiの擁護🤗</title>
+    <id>https://anond.hatelabo.jp/20261006152403</id>
+    <link href="https://anond.hatelabo.jp/20261006152403" />
+    <updated>2026-10-06T15:24:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>YAVAY！なんか炎上してる…？ [B! AI] Geminiの使いどころ🥹 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261006101040 フロンティアAIモデルの印象 GoogleはDeepMindに投資したり、TPU（Tensor Processing Unit）を開発したりと、黎明期からAIに力を入れています。 なので、Goo…</summary>
+  </entry>
   <entry>
     <title>ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現</title>
     <id>https://gigazine.net/news/20261006-tavus-griffin/</id>
@@ -212,7 +228,7 @@
     <link href="https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics" />
     <updated>2026-10-06T15:19:59+09:00</updated>
     <category term="はてブ IT" />
-    <summary>9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと感じていました。タイムズカー、セイコーマート、東京メトロ、OZmallと数日おきに続き、10月に入ると焼肉きんぐです。SNSでも、さすがに多すぎるのではという声や、AIが攻撃に使われているのではという声をよく見かけました。 ただ、「よく見る」と「増え...</summary>
+    <summary>2026年10月6日追記：いま話題になっているのは9〜10月の事案なのに、件数については2026年6月までの統計でしか検討できておらず、不十分でした。そこで9月の件数を自分で数え直し、記事の最後に「追記：9月のペースをどう見るか」として補足しています。 9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと...</summary>
   </entry>
   <entry>
     <title>【備忘録】Snowflake SQL Tips集</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-06T08:08:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>ウェブやクラウドを支える通信プロトコル「TCP」はAI向けデータセンターの通信には適していないとして、スタンフォード大学のジョン・オースターハウト名誉教授がトランスポートプロトコル「Homa」への移行を訴えています。Homaは短いメッセージを優先的に処理することで通信遅延を抑える仕組みを備えており、既存のTCP...</summary>
-  </entry>
-  <entry>
-    <title>こんな時代だから Seasar2 を構築してみようか</title>
-    <id>https://zenn.dev/tokium_dev/articles/4dbec90075dab0</id>
-    <link href="https://zenn.dev/tokium_dev/articles/4dbec90075dab0" />
-    <updated>2026-10-06T06:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude CodeやCodexに聞けば、知らない技術でもそれっぽいものが完成します。 課題はありつつも、基本的には便利な世の中になったものです。 便利になった反面、スキル習得のための学習の機会は奪われてしまったかもしれません。 それでも前に進み続け、気づけば『あれ？どうやって勉強すればいいんだ？』というお声も聞くようになりました。 個人的には、組織的に学習の機会を意図的に設計する必要があるので…</summary>
-  </entry>
-  <entry>
-    <title>ユーザー検索した作品名の人気キーワード機能</title>
-    <id>https://zenn.dev/npm_tech/articles/c589433eb5ef52</id>
-    <link href="https://zenn.dev/npm_tech/articles/c589433eb5ef52" />
-    <updated>2026-10-05T23:12:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>概要 以下のようなユーザーが検索した作品名の人気キーワード機能の内容になります。 この作品名の人気キーワードをクリックすると作品検索結果画面に移動し、そのキーワードで検索した結果を表示しています。 技術スタック Vue Laravel Redis PostgreSQL 大まかな処理の流れ ・処理1 ユーザーが画面上で作品名を検索 ↓ Laravelで、 Redisのキューに作品名検索ログを登録する…</summary>
   </entry>
 </feed>
