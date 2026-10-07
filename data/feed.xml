@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T13:00:13.402015+09:00</updated>
+  <updated>2026-10-07T13:30:12.280384+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002055/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002055/" />
+    <updated>2026-10-07T12:23:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeの軽い作業をCodexへ回す：規則を書くだけでは0件でした</title>
+    <id>https://zenn.dev/yamato_snow/articles/claude-code-codex-sol-delegation</id>
+    <link href="https://zenn.dev/yamato_snow/articles/claude-code-codex-sol-delegation" />
+    <updated>2026-10-07T09:33:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code に「軽い作業は Codex に回してね」と CLAUDE.md で頼んだのに、1件も回らない。 そんな状態になっていませんか？ 私の環境がまさにそれでした。 規則を書いた翌日に会話記録を数えたら、実務で起動したサブエージェント46件のうち、Codex へ回した件数は0件、、、 ここから書くのは、委譲が回り始めるまでに入れた3つの仕組みと、試験を監査して見つけた問題です⚠️…</summary>
+  </entry>
+  <entry>
+    <title>GitHub - openai/math</title>
+    <id>https://github.com/openai/math</id>
+    <link href="https://github.com/openai/math" />
+    <updated>2026-10-07T08:20:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model. As part of model development, we evaluate our models on open research problems. W…</summary>
+  </entry>
+  <entry>
+    <title>iOSアプリ開発でGit Worktreeを使ってもCompilation Cacheを効かせたい</title>
+    <id>https://zenn.dev/sryu/articles/worktree-compilation-cache</id>
+    <link href="https://zenn.dev/sryu/articles/worktree-compilation-cache" />
+    <updated>2026-10-07T02:15:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Coding Agent主軸での開発をするようになってから、Git Worktreeを使う機会が増えました。 しかし、iOSアプリ開発では、worktreeを切るとDerivedDataのpathが変わるため、Clean Buildをすることになります。 そこで今回は、iOSアプリ開発でworktreeを切っても、Compilation Cacheを再利用してビルドする方法について解説します。 X…</summary>
+  </entry>
+  <entry>
+    <title>Mods で Claude Code のセッションごとに管理できるメモ帳を作った</title>
+    <id>https://zenn.dev/yesodco/articles/da634d752874b2</id>
+    <link href="https://zenn.dev/yesodco/articles/da634d752874b2" />
+    <updated>2026-10-06T17:47:17+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 株式会社イエソドで機能開発チームのリーダー兼エンジニアをしている坂口と申します。 私は開発に Claude Code のデスクトップアプリを使っているのですが、作業の途中でメモを残したくなることがよくあります。いまの作業が終わったら依頼したいことなどの簡単なメモです。 元々 Raycast Notes でメモを取っていたのですが、開いているセッションが増えると、どのメモがどのセッションの…</summary>
+  </entry>
   <entry>
     <title>[本日の一品]汚れたバッグを床に直接置かないための「ori-pact」バッグスタンド</title>
     <id>https://k-tai.watch.impress.co.jp/docs/column/todays_goods/2146143.html</id>
@@ -765,45 +805,5 @@
     <updated>2026-10-06T16:11:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>［半角/全角］キーなしで日本語・英語を打ち分ける無料日本語入力アプリ「Meltype」が登場／タイプすれば勝手によしなに変換されていく</summary>
-  </entry>
-  <entry>
-    <title>個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261006de55037</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261006de55037" />
-    <updated>2026-10-06T17:38:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不正アクセスで企業から大量の個人情報が漏えいする被害が相次いでいます。 セキュリティー会社ではことし7月以降、被害が増加していることから、サイバー攻撃にAIが悪用されている可能性が高いとして、対策を強…</summary>
-  </entry>
-  <entry>
-    <title>漏洩ラッシュは本当にラッシュなのか 公的統計と公式発表で確かめてみた</title>
-    <id>https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics</id>
-    <link href="https://zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics" />
-    <updated>2026-10-06T12:21:22+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 2026年10月6日追記：いま話題になっているのは9〜10月の事案なのに、件数については2026年6月までの統計でしか検討できておらず、不十分でした。そこで9月の件数を自分で数え直し、記事の最後に「追記：9月のペースをどう見るか」として補足しています。 9月の終わりごろから、情報漏洩のニュースをやたらとよく見るなと感じていました。タイムズカー、セイコーマート、東京メトロ、OZmallと数日おき…</summary>
-  </entry>
-  <entry>
-    <title>【備忘録】Snowflake SQL Tips集</title>
-    <id>https://qiita.com/takeshi_Qiita/items/18f0a35a3b23f31bdabf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takeshi_Qiita/items/18f0a35a3b23f31bdabf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T15:40:31+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Snowflake上に複数のデータマートの作成をしました。その過程で「これは他の案件でも使える」と感じた関数・構造・パターンを、備忘録として残します。 想定読者: SELECT / JOIN / GROUP BY / CASE は一通り書けるようになった方。...</summary>
-  </entry>
-  <entry>
-    <title>児童性的虐待画像(CSAM)の法的定義に該当するAI生成画像が2026年上半期だけで6310枚も見つかったとIWFが発表、2025年全体より40％も増加</title>
-    <id>https://gigazine.net/news/20261006-iwf-reports-huge-rise-ai-csam/</id>
-    <link href="https://gigazine.net/news/20261006-iwf-reports-huge-rise-ai-csam/" />
-    <updated>2026-10-06T13:49:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>インターネット上での性的虐待コンテンツを最小限に抑えるために活動を行っている非営利団体のインターネット監視財団(IWF)が、AI生成の児童性的虐待画像(CSAM)が急増していることを報告しました。IWFによると、AI生成のCSAMは2025年比で40％も増加しています。 Our analysts have found more photorealistic child sexu...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！Python で学ぶ マクロ経済学 入門 25</title>
-    <id>https://qiita.com/maskot1977/items/f9fb6943b55166ce32b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/f9fb6943b55166ce32b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T12:34:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご質問のソース動画のタイトルおよび詳細な内容について解説します。 動画タイトル 『Pythonで暴く財源不足の正体 : Pythonで学ぶマクロ経済学入門 Podcas...</summary>
   </entry>
 </feed>
