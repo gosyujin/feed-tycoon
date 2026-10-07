@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T23:00:15.818096+09:00</updated>
+  <updated>2026-10-07T23:30:16.981321+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>IDCFクラウドへの不正アクセス、ランサムウェア攻撃と明らかに 運営会社が回答</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002106/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002106/" />
+    <updated>2026-10-07T20:27:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソフトバンク子会社のIDCフロンティア（東京都千代田区）が提供する法人向けクラウドサービス「IDCFクラウド」の障害が、ランサムウェア攻撃によるものだったことが10月7日、ITmedia NEWSの取材で分かった。同社は同日、福島県白河市にある「東日本第1リージョン」が不正アクセスを受け、システムに障害が発生していると...</summary>
+  </entry>
+  <entry>
+    <title>ChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれているとの指摘</title>
+    <id>https://gigazine.net/news/20261007-chatgpt-adding-real-cartoonists-signatures-fake/</id>
+    <link href="https://gigazine.net/news/20261007-chatgpt-adding-real-cartoonists-signatures-fake/" />
+    <updated>2026-10-07T20:07:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>生成AIによる画像生成能力はますます進化しており、まるで人間のイラストレーターやマンガ家が描いたような画像を容易に生成することが可能です。ハーバード大学のジャーナリズム機関であるNieman Jounalism Labが、OpenAIのChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれていると報じました。 ChatGPT i...</summary>
+  </entry>
+  <entry>
+    <title>AIによって開発されたオープンソースのAIアクセラレータ「openTPU」が登場</title>
+    <id>https://gigazine.net/news/20261007-opentpu/</id>
+    <link href="https://gigazine.net/news/20261007-opentpu/" />
+    <updated>2026-10-07T19:10:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIを使ってAI向けハードウェアを設計するオープンソースプロジェクト「openTPU」が公開されています。openTPUは、AIモデルを高速に動かすための専用アクセラレーターをAIエージェントも活用しながら開発する試みで、Qwen3やQwen3.5、Gemma 4など複数の言語モデルを実際のFPGAカード上で動かすことに成功しています。 Git...</summary>
+  </entry>
+  <entry>
+    <title>無償の解凍・圧縮ツール「7-Zip」がv26.04に、“いくつかの不具合と脆弱性”を修正／</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2146365.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2146365.html" />
+    <updated>2026-10-07T17:44:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>無償の解凍・圧縮ツール「7-Zip」がv26.04に、“いくつかの不具合と脆弱性”を修正／</summary>
+  </entry>
+  <entry>
+    <title>A Terminal Protocol for Program Status (OSC 7501)</title>
+    <id>https://mitchellh.com/writing/program-status-osc7501</id>
+    <link href="https://mitchellh.com/writing/program-status-osc7501" />
+    <updated>2026-10-07T08:55:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>I wrote a specification for a new terminal escape sequence: OSC 7501, the Program Status Protocol. It lets any program tell the terminal what it's doing: idle, working, waiting on the user, finished,…</summary>
+  </entry>
+  <entry>
+    <title>大和証券、問い合わせ管理サービスへの不正アクセスで約11万人の利用者情報漏えいの可能性 委託先のサーバーに不正アクセスが発生</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2145818.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2145818.html" />
+    <updated>2026-10-06T00:03:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>大和証券、問い合わせ管理サービスへの不正アクセスで約11万人の利用者情報漏えいの可能性 委託先のサーバーに不正アクセスが発生</summary>
+  </entry>
   <entry>
     <title>爆増する不正侵入と個人情報流出の恐るべき全自動手口、自律型AIエージェントが1件あたり激安4000円台で数百のオンラインサイトを延々と攻撃し続けている戦慄の実態が白日の下に</title>
     <id>https://gigazine.net/news/20261007-ai-agents-autonomous-attack/</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-07T08:07:20+09:00</updated>
     <category term="はてブ IT" />
     <summary>『ザ・バンド かつて僕らは兄弟だった』や『ナワリヌイ』などのドキュメンタリー映画の監督として知られる新鋭ダニエル・ロアーが、AIをテーマとするドキュメンタリー映画を手がけたと知り、是非観たいと思っていたところ、『ジ・AIドック オア・ハウ・アイ・ビケイム・アン・アポカロプティミスト』という腹立たしいほ...</summary>
-  </entry>
-  <entry>
-    <title>Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude」から「Workspace」のファイルを作成・編集できるコネクターもベータ公開</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2146192.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2146192.html" />
-    <updated>2026-10-07T06:57:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude」から「Workspace」のファイルを作成・編集できるコネクターもベータ公開</summary>
-  </entry>
-  <entry>
-    <title>【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選</title>
-    <id>https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2146136.html" />
-    <updated>2026-10-07T06:30:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選</summary>
-  </entry>
-  <entry>
-    <title>シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/06/2000002067/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/06/2000002067/" />
-    <updated>2026-10-06T20:51:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>シチズン時計は10月6日、問い合わせ受付業務の委託先に不正アクセスがあり、約10万人分の個人情報が漏えいした可能性があると発表した。対象は、同社の腕時計ブランド「シチズン」「ブローバ」「フレデリック・コンスタント」の各Webサイトに設置したフォームで受け付けた問い合わせ情報。自社システムへの不正アクセス...</summary>
-  </entry>
-  <entry>
-    <title>これぞ理想だよね。充電不要のスマートリングが登場</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2145963.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2145963.html" />
-    <updated>2026-10-06T17:23:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>これぞ理想だよね。充電不要のスマートリングが登場</summary>
-  </entry>
-  <entry>
-    <title>LLM Wikiの組織運用に向けて ── 陳腐化を防ぐ更新の仕組み - LayerX エンジニアブログ</title>
-    <id>https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops</id>
-    <link href="https://tech.layerx.co.jp/entry/enterprise-llm-wiki-ops" />
-    <updated>2026-10-06T14:17:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに LayerX バクラク事業部 Platform Engineering 部 Enabling グループの shibutani です。 「この機能、実際にはどう動くんだっけ？」という問いは、QAがテストの期待結果を書くときにも、CSがお客様からの問い合わせに答えるときにも、日常的に発生します。答えを探す先はNotionの設計仕様書、Zendeskのヘルプ記...</summary>
-  </entry>
-  <entry>
-    <title>Google、原発大手Constellationと20年の電力購入契約 「他の電力利用者に負担なし」</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002068/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002068/" />
-    <updated>2026-10-07T07:01:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Googleと米原発大手のConstellation Energyは10月6日（現地時間）、Constellationが保有する既存の原子力発電所の出力を増強し、米東部の送電網「PJM」に計890メガワット（MW）の新たな発電容量を追加する長期契約を締結したと発表した。Googleのデータセンター拡大に伴う電力需要に対応するもので、期間は20年間。Goo...</summary>
   </entry>
 </feed>
