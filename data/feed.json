@@ -1,5 +1,124 @@
 [
   {
+    "title": "OpenAI社が10/7に公開した問題の中で私がとりあえず驚いた結果の紹介 - INTEGERS",
+    "url": "https://integers.hatenablog.com/entry/2026/10/07/121652",
+    "domain": "integers.hatenablog.com",
+    "description": "本日、OpenAI社が数学に関する数百の論文を公表しました。 論文の中身はまだ見ていないですが、overviews.pdf で主張されているタイトルと内容だけで判断して、私が個人的に驚いた問題を紹介します。 なお、「私自身が絶対に解くんだ！」と思っていた問題は一つも含まれていませんでした。（そのうちの一つであった「 の...",
+    "publishedAt": "2026-10-07T14:46:33+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/integers.hatenablog.com/entry/2026/10/07/121652",
+    "bookmarkCount": 7
+  },
+  {
+    "title": "CPUが2コアだとjestは終わらない — in-band実行とpendingのままのMutation",
+    "url": "https://zenn.dev/hopetekigozaru/articles/jest-ci-hang-2core-tanstack-query",
+    "domain": "zenn.dev",
+    "description": "CI のモバイルのテストは、30 分のタイムアウトまで終わらなかった。手元で同じ jest を叩くと、1483 件がちゃんと緑で終わる。違いは CPU のコア数だけだった。 この記事は、React Native（Expo）と TanStack Query のアプリで起きた「CI でだけ jest が終わらない」問題の調査記録だ。原因は次の 2 つの組み合わせだった。 CI ランナーが 2 コアなの…",
+    "publishedAt": "2026-10-07T14:27:55+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hopetekigozaru/articles/jest-ci-hang-2core-tanstack-query",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "アイオー、CDレコと本格スピーカーが合体。「CDレコプレーヤー」",
+    "url": "https://av.watch.impress.co.jp/docs/news/2145682.html",
+    "domain": "av.watch.impress.co.jp",
+    "description": "アイオー、CDレコと本格スピーカーが合体。「CDレコプレーヤー」",
+    "publishedAt": "2026-10-07T11:55:44+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/av.watch.impress.co.jp/docs/news/2145682.html",
+    "bookmarkCount": 4
+  },
+  {
+    "title": "レビューの口伝を40ルールに棚卸ししてAIレビューに載せた",
+    "url": "https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
+    "domain": "zenn.dev",
+    "description": "はじめに こんにちは、e-dashでエンジニアをしている Kezuka です。 レビューで口伝されていたバックエンドの作法を棚卸しして、AIレビュー用のスキルにしました。 半年運用した結果を実測しています。期待と違う結果が出たので、その記録と次の課題を書きます。 書かれていないルールが、レビューで伝わっていた バックエンドは Go とクリーンアーキテクチャです。Go らしい書き方に加えて、会社固有…",
+    "publishedAt": "2026-10-07T11:38:08+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Building Git infrastructure for agent-scale development",
+    "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "domain": "github.blog",
+    "description": "Every day on GitHub, millions of developers build the products their customers rely on, contribute to open source, and pursue personal projects. GitHub’s architecture has changed steadily over the yea…",
+    "publishedAt": "2026-10-07T11:04:20+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+    "bookmarkCount": 6
+  },
+  {
+    "title": "巨大 SQL を実行したら DB 負荷が高まったエンジニアの備忘録",
+    "url": "https://zenn.dev/ryoya_cre8tor/articles/0cdc8623498f11",
+    "domain": "zenn.dev",
+    "description": "3行まとめ OR 条件を数万個並べた SQL は、実行に入る前の planning だけで、条件の数に比例したメモリと、二乗で増える時間を使う このメモリは work_mem の対象外で、上げても下げても変わらない。planner のメモリに上限をかける設定は見つからず、確実なのは SQL の形を変えること 配列を渡す ANY にすると planner から見た条件の数が減り、件数が増えても SQ…",
+    "publishedAt": "2026-10-07T09:30:37+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/ryoya_cre8tor/articles/0cdc8623498f11",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "LINE配信の直後に1万人が来ても落ちないように、負荷試験を回しながら直した話【Vercel × Supabase】",
+    "url": "https://zenn.dev/yoshinani_dev/articles/0a938da9346c93",
+    "domain": "zenn.dev",
+    "description": "今回は、LINE ミニアプリで「LINE の配信を受け取った会員が一斉に開いて、ルーレットを回す」ときに、どこまで耐えられるかを負荷試験で測り、直した記録を紹介します。 技術構成編で紹介した、Next.js（Vercel）+ Supabase + Prisma 7 の構成です。リリース直前に「大量の同時アクセスに耐えられる構成になってる？」と聞かれて、正直に答えると「確かめていません」だったので、…",
+    "publishedAt": "2026-10-06T19:44:39+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/yoshinani_dev/articles/0a938da9346c93",
+    "bookmarkCount": 0
+  },
+  {
     "title": "【Excel】正規表現って何？ Copilotが「[0-9]」や「¥.」などを多用した式を使ってきた【いまさら聞けないExcelの使い方講座】",
     "url": "https://forest.watch.impress.co.jp/docs/serial/exceltips/2146176.html",
     "domain": "forest.watch.impress.co.jp",
@@ -14,7 +133,7 @@
     "firstSeenAt": "2026-10-07T20:00:16.617911+09:00",
     "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/serial/exceltips/2146176.html",
-    "bookmarkCount": 5
+    "bookmarkCount": 6
   },
   {
     "title": "ソフトバンク子会社に不正アクセス 法人向けクラウドサービスで障害 - 日本経済新聞",
@@ -31,7 +150,7 @@
     "firstSeenAt": "2026-10-07T19:30:14.037441+09:00",
     "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC076WG0X01C26A0000000/",
-    "bookmarkCount": 6
+    "bookmarkCount": 8
   },
   {
     "title": "はてなブックマークAndroidアプリで Android 11 以下のサポートを終了します - はてなブックマーク開発ブログ",
@@ -46,9 +165,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T19:30:14.037441+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/bookmark.hatenastaff.com/entry/2026/10/07/120045",
-    "bookmarkCount": 9
+    "bookmarkCount": 10
   },
   {
     "title": "最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
@@ -63,9 +182,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T19:00:13.989033+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/joisino.hatenablog.com/entry/filler",
-    "bookmarkCount": 40
+    "bookmarkCount": 53
   },
   {
     "title": "損保ジャパン、約6万件漏えいか 大和証券・シチズンと同じ委託先への不正アクセスで",
@@ -80,7 +199,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T18:30:15.691292+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002099/",
     "bookmarkCount": 20
   },
@@ -97,9 +216,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T18:30:15.691292+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261007-google-embeddinggemma-2/",
-    "bookmarkCount": 11
+    "bookmarkCount": 14
   },
   {
     "title": "Googleが画像生成AI「Nano Banana 2.1」を公開、人物の一貫性や編集機能が向上",
@@ -114,9 +233,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T18:30:15.691292+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261007-nano-banana-2-1/",
-    "bookmarkCount": 10
+    "bookmarkCount": 12
   },
   {
     "title": "【速報】損保ジャパン、6万件の顧客情報漏えいか",
@@ -131,9 +250,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T17:30:15.222783+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.47news.jp/15049544.html",
-    "bookmarkCount": 60
+    "bookmarkCount": 66
   },
   {
     "title": "Strands Deciderハンズオン！",
@@ -335,9 +454,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T17:00:17.672112+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/security.macnica.co.jp/blog/2026/10/web-incidents2026.html",
-    "bookmarkCount": 155
+    "bookmarkCount": 189
   },
   {
     "title": "関西国際大に不正アクセス、学生の記録などが外部流出か 授業や手続きにも支障",
@@ -354,7 +473,7 @@
     "firstSeenAt": "2026-10-07T17:00:17.672112+09:00",
     "lastSeenAt": "2026-10-07T19:30:14.037441+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002088/",
-    "bookmarkCount": 14
+    "bookmarkCount": 15
   },
   {
     "title": "HIS子会社からパスポート情報流出か、最大627人分 昨年の不正アクセスを公表",
@@ -369,9 +488,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T16:30:13.281608+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002090/",
-    "bookmarkCount": 41
+    "bookmarkCount": 42
   },
   {
     "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 - ライブドアニュース",
@@ -403,9 +522,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T16:17:30.422483+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.47news.jp/15049148.html",
-    "bookmarkCount": 145
+    "bookmarkCount": 159
   },
   {
     "title": "OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表",
@@ -420,9 +539,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T16:17:30.422483+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261007-openai-rogue-agent/",
-    "bookmarkCount": 18
+    "bookmarkCount": 20
   },
   {
     "title": "OpenAIが社内AIモデルで722本の未解決問題に関する数学的成果を発表、新たな数学的ブレークスルーへ",
@@ -439,7 +558,7 @@
     "firstSeenAt": "2026-10-07T16:17:30.422483+09:00",
     "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261007-openai-mathematics/",
-    "bookmarkCount": 12
+    "bookmarkCount": 14
   },
   {
     "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
@@ -471,9 +590,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T16:00:14.031050+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/104911",
-    "bookmarkCount": 51
+    "bookmarkCount": 55
   },
   {
     "title": "「IDCFクラウド」東日本第1リージョンで不正アクセスによる障害発生",
@@ -488,9 +607,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T15:30:15.384807+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/internet.watch.impress.co.jp/docs/news/2146385.html",
-    "bookmarkCount": 37
+    "bookmarkCount": 40
   },
   {
     "title": "IIJmioのeSIMがフル解禁ッ!!! eSIMデビューに嬉しいケータイWatch特別キャンペーンで“回線の冗長化”を進めよう︕[Sponsored]",
@@ -522,9 +641,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T14:30:12.374827+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.idcf.jp/news/topics/20261007001",
-    "bookmarkCount": 102
+    "bookmarkCount": 109
   },
   {
     "title": "自治体やJクラブのWebサイトが閲覧不能に、各地で相次ぐ──茨城県・小平市・京都サンガなど",
@@ -539,9 +658,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T14:30:12.374827+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002085/",
-    "bookmarkCount": 28
+    "bookmarkCount": 29
   },
   {
     "title": "【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG",
@@ -556,9 +675,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T14:30:12.374827+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/newsdig.tbs.co.jp/articles/-/2995228",
-    "bookmarkCount": 184
+    "bookmarkCount": 195
   },
   {
     "title": "1億件超えの「楽天会員」情報が闇フォーラムで販売？ 楽天「漏えいは確認されていない」",
@@ -575,7 +694,7 @@
     "firstSeenAt": "2026-10-07T14:30:12.374827+09:00",
     "lastSeenAt": "2026-10-07T16:17:30.422483+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002083/",
-    "bookmarkCount": 17
+    "bookmarkCount": 18
   },
   {
     "title": "教養とは、トークンを減らす技術である。清水亮氏が語るAI時代のエンジニアの資質",
@@ -592,7 +711,7 @@
     "firstSeenAt": "2026-10-07T14:30:12.374827+09:00",
     "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/codezine.jp/article/detail/29838",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "Google広告の代理店アカウントに不正アクセス 顧客アカウントからカジノ広告無断配信 パスキー設定も侵入許す",
@@ -607,7 +726,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T14:00:12.763873+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002086/",
     "bookmarkCount": 43
   },
@@ -626,7 +745,7 @@
     "firstSeenAt": "2026-10-07T14:00:12.763873+09:00",
     "lastSeenAt": "2026-10-07T19:00:13.989033+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002074/",
-    "bookmarkCount": 23
+    "bookmarkCount": 24
   },
   {
     "title": "バイブコーディングで作った公開中のWebアプリ、9割に脆弱性 MSの研究者など調査",
@@ -641,9 +760,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T13:30:12.280384+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/07/2000002055/",
-    "bookmarkCount": 175
+    "bookmarkCount": 185
   },
   {
     "title": "Claude Codeの軽い作業をCodexへ回す：規則を書くだけでは0件でした",
@@ -692,7 +811,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T13:30:12.280384+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/sryu/articles/worktree-compilation-cache",
     "bookmarkCount": 0
   },
@@ -709,9 +828,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T13:30:12.280384+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/yesodco/articles/da634d752874b2",
-    "bookmarkCount": 5
+    "bookmarkCount": 7
   },
   {
     "title": "[本日の一品]汚れたバッグを床に直接置かないための「ori-pact」バッグスタンド",
@@ -828,7 +947,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T12:00:13.255908+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kevin_namba/books/afe09c60f698e8",
     "bookmarkCount": 1
   },
@@ -862,9 +981,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T11:00:13.368057+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ai.freelance-job.com/article/6abf64466f60ae186b88065e",
-    "bookmarkCount": 89
+    "bookmarkCount": 91
   },
   {
     "title": "「マイクロソフトに言ってください案件」社内SEをやっていた際「Excelファイルを保存せず閉じたら、確認画面が表示されず編集内容が消えた」というクレームを受けた",
@@ -896,9 +1015,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T09:49:27.947108+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/iphone-mania.jp/mac-607083/",
-    "bookmarkCount": 76
+    "bookmarkCount": 79
   },
   {
     "title": "Weekly Report: Google Chromeに複数の脆弱性",
@@ -1140,7 +1259,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T09:30:13.359929+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/shunei/articles/google-maps-embed-billing",
     "bookmarkCount": 0
   },
@@ -1159,7 +1278,7 @@
     "firstSeenAt": "2026-10-07T09:30:13.359929+09:00",
     "lastSeenAt": "2026-10-07T18:30:15.691292+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.cloudnative.co.jp/articles/data-breach-blast-radius-checklist/",
-    "bookmarkCount": 50
+    "bookmarkCount": 51
   },
   {
     "title": "OOPとFPの使い分けを、図書館の貸出管理システム作って確かめてみた",
@@ -1174,7 +1293,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T09:30:13.359929+09:00",
-    "lastSeenAt": "2026-10-07T12:00:13.255908+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/satoru_o/articles/2804938058ab47",
     "bookmarkCount": 0
   },
@@ -1208,7 +1327,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T09:30:13.359929+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/shikamaru/articles/ef90e326ab8163",
     "bookmarkCount": 0
   },
@@ -1225,7 +1344,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T09:30:13.359929+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/neurogica/articles/a37c2fdb8bc0d4",
     "bookmarkCount": 0
   },
@@ -1276,9 +1395,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T09:00:13.992725+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/wirelesswire.jp/2026/10/94606/",
-    "bookmarkCount": 94
+    "bookmarkCount": 96
   },
   {
     "title": "Anthropic、「Claude for Google Workspace」アドオンをリリース／「Claude」から「Workspace」のファイルを作成・編集できるコネクターもベータ公開",
@@ -1293,9 +1412,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T09:00:13.992725+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2146192.html",
-    "bookmarkCount": 90
+    "bookmarkCount": 91
   },
   {
     "title": "【特集】 古いスマホを捨てないで！ゲーム専用機にサブモニター、無線マイクなど活用法8選",
@@ -1310,9 +1429,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T09:00:13.992725+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/topic/feature/2146136.html",
-    "bookmarkCount": 267
+    "bookmarkCount": 271
   },
   {
     "title": "シチズン時計、委託先への不正アクセスで約10万人分の個人情報漏えいか 大和証券と同じサービスが原因に",
@@ -1361,9 +1480,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T09:00:13.992725+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech.layerx.co.jp/entry/enterprise-llm-wiki-ops",
-    "bookmarkCount": 92
+    "bookmarkCount": 93
   },
   {
     "title": "Google、原発大手Constellationと20年の電力購入契約 「他の電力利用者に負担なし」",
@@ -1429,9 +1548,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T08:00:12.950468+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/yama3133/items/071119dfea9ed24d0948",
-    "bookmarkCount": 276
+    "bookmarkCount": 277
   },
   {
     "title": "FAQシステム「i-ask」への不正アクセスによる個人情報漏えいに関するお詫びとお知らせ | 株式会社スカラコミュニケーションズ",
@@ -1531,9 +1650,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T07:30:12.178593+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/",
-    "bookmarkCount": 361
+    "bookmarkCount": 365
   },
   {
     "title": "Fableを使いこなせない",
@@ -1548,9 +1667,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-07T07:00:14.157045+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261006200248",
-    "bookmarkCount": 265
+    "bookmarkCount": 267
   },
   {
     "title": "AI利用のうち32％で安いモデルを使ったときの方が総コストが高くなったことが判明",
@@ -1584,7 +1703,7 @@
     "firstSeenAt": "2026-10-07T06:30:13.412059+09:00",
     "lastSeenAt": "2026-10-07T19:30:14.037441+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.oricon.co.jp/news/2484761/full/",
-    "bookmarkCount": 110
+    "bookmarkCount": 109
   },
   {
     "title": "出版取次の日販、米AI企業への書籍販売を認める 業界団体に回答：朝日新聞",
@@ -1890,7 +2009,7 @@
     "firstSeenAt": "2026-10-07T00:30:17.356419+09:00",
     "lastSeenAt": "2026-10-07T08:30:12.858448+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261006-tavus-griffin/",
-    "bookmarkCount": 25
+    "bookmarkCount": 26
   },
   {
     "title": "llama.cpp 0.6.0公開。GLM-5.3-Flash対応やMetal高速化",
@@ -1956,9 +2075,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-06T23:00:16.351959+09:00",
-    "lastSeenAt": "2026-10-07T20:00:16.617911+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/fdeai7fde.html",
-    "bookmarkCount": 161
+    "bookmarkCount": 162
   },
   {
     "title": "マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装",
@@ -1992,7 +2111,7 @@
     "firstSeenAt": "2026-10-06T23:00:16.351959+09:00",
     "lastSeenAt": "2026-10-07T13:30:12.280384+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/article/2610/06/2000002065/",
-    "bookmarkCount": 183
+    "bookmarkCount": 182
   },
   {
     "title": "技術ブログの衰退、もしくはこれから",
@@ -2058,9 +2177,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T21:30:15.643337+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/northward/articles/decline-of-tech-blogs",
-    "bookmarkCount": 41
+    "bookmarkCount": 40
   },
   {
     "title": "見えないものを探る要求要件定義に必要な基本的思考 / invisible-requirement-thinking",
@@ -2077,7 +2196,7 @@
     "firstSeenAt": "2026-10-06T21:00:16.271761+09:00",
     "lastSeenAt": "2026-10-07T11:30:12.957059+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/minodriven/invisible-requirement-thinking",
-    "bookmarkCount": 193
+    "bookmarkCount": 192
   },
   {
     "title": "楽天の会員情報が漏洩している？ 広報は「確認されていない」と回答（山口健太） - エキスパート - Yahoo!ニュース",
@@ -2313,9 +2432,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T18:00:14.867858+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tawachan/articles/japan-data-breach-rush-2026-statistics",
-    "bookmarkCount": 234
+    "bookmarkCount": 235
   },
   {
     "title": "【備忘録】Snowflake SQL Tips集",
@@ -2675,57 +2794,6 @@
     "bookmarkCount": 79
   },
   {
-    "title": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相：時事ドットコム",
-    "url": "https://www.jiji.com/jc/article?k=2026100600559&g=eco",
-    "domain": "www.jiji.com",
-    "description": "不正アクセス頻発「自分の情報は自分で守って」 古川デジタル相 時事通信 政治部2026年10月06日14時02分配信 記者会見する古川俊治デジタル相＝６日、デジタル庁 古川俊治デジタル相は６日の記者会見で、大和証券など民間企業で頻発する不正アクセスによる個人情報の流出事案について「サイバー攻撃は企業や組織だけの...",
-    "publishedAt": "2026-10-06T14:32:06+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-06T15:30:14.186483+09:00",
-    "lastSeenAt": "2026-10-07T09:00:13.992725+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.jiji.com/jc/article?k=2026100600559&g=eco",
-    "bookmarkCount": 814
-  },
-  {
-    "title": "快適さは誰かの犠牲のうえに成り立っている。 - Everything you've ever Dreamed",
-    "url": "https://delete-all.hatenablog.com/entry/2026/10/06/130000",
-    "domain": "delete-all.hatenablog.com",
-    "description": "「超大手企業の独身寮がじつに素晴らしい」という記事を読んだ。きっと素晴らしい寮なのだろう。大変結構。僕は給食会社の営業部長だ。あまり知られていないけれど寮管理業務は給食会社の事業のひとつだ。社員食堂とあわせて受託するケースが多い。僕自身、寮管理業務契約を取ったことも、現場に入ったこともあるので寮...",
-    "publishedAt": "2026-10-06T14:05:03+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-06T15:30:14.186483+09:00",
-    "lastSeenAt": "2026-10-07T06:30:13.412059+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/delete-all.hatenablog.com/entry/2026/10/06/130000",
-    "bookmarkCount": 136
-  },
-  {
-    "title": "なぜ急に不正アクセスが増えたの？という疑問、「AIで既知の脆弱性を見つけて攻撃する作業が大量自動化された」説が一番しっくりくる？「AIツールの組み合わせが怖い」",
-    "url": "https://togetter.com/li/2754716",
-    "domain": "togetter.com",
-    "description": "モノアイ @mono_i_love なぜ急に不正アクセスが増えたの？という疑問への答えは、 「AIで既知の脆弱性を見つけて攻撃する作業が大量自動化された」説が一番しっくりくる。 弱いサーバーやVPN機器をネット中から探し、既知の脆弱性を素早く攻撃に使う。 9月はそこに各社の公表が重なり、不正アクセス急増として表面化した...",
-    "publishedAt": "2026-10-06T12:00:42+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-06T15:30:14.186483+09:00",
-    "lastSeenAt": "2026-10-06T23:00:16.351959+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2754716",
-    "bookmarkCount": 58
-  },
-  {
     "title": "論文サマリ「腕運動の協調：実験的に確認された数学モデル」Flash and Hogan",
     "url": "https://zenn.dev/zhidao/articles/2bbdf37363dec1",
     "domain": "zenn.dev",
@@ -2823,7 +2891,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T09:00:15.567117+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tokium_dev/articles/4dbec90075dab0",
     "bookmarkCount": 1
   },
@@ -2874,7 +2942,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T09:00:15.567117+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/radius5/articles/20261004-j3v7cl3f",
     "bookmarkCount": 1
   },
@@ -2891,7 +2959,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T09:00:15.567117+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/emuni/articles/ooui-agent-skill",
     "bookmarkCount": 2
   },
@@ -3469,9 +3537,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-05T16:30:14.034062+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/ai-coding-loop-formal",
-    "bookmarkCount": 469
+    "bookmarkCount": 470
   },
   {
     "title": "dbt Chartsで作れるグラフを試してみた【dbt v2】【DuckDB】",
@@ -3503,7 +3571,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-05T14:00:13.020429+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tetsuro731/articles/6efe77a20b8c1c",
     "bookmarkCount": 3
   },
@@ -3520,7 +3588,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-05T14:00:13.020429+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/dyoshikawa/articles/do-you-desicion",
     "bookmarkCount": 68
   },
@@ -3571,7 +3639,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-05T08:30:12.787597+09:00",
-    "lastSeenAt": "2026-10-07T18:00:17.553156+09:00",
+    "lastSeenAt": "2026-10-07T20:30:17.937229+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/yoshihiko555/articles/ea2db6070058b3",
     "bookmarkCount": 26
   },
@@ -5926,74 +5994,6 @@
     "lastSeenAt": "2026-09-30T08:46:21.832579+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/sator_imaging/articles/834240491191ec",
     "bookmarkCount": 2
-  },
-  {
-    "title": "すこし踏み込む CancellationToken",
-    "url": "https://zenn.dev/poipoionigiri/articles/3826f7675d39fd",
-    "domain": "zenn.dev",
-    "description": "登壇してお話ししました C# Kaigi 2026で「すこし踏み込む CancellationToken —— .NETの実装とか他言語比較とか」というタイトルでお話ししてきました． CancellationToken の内部実装とか，Python，Go，Rustとの比較とかを通して，C#/.NETの協調的キャンセルの仕組みを紹介しました． 資料はこちら． https://speakerdeck.…",
-    "publishedAt": "2026-09-27T20:00:05+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T08:46:21.832579+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/poipoionigiri/articles/3826f7675d39fd",
-    "bookmarkCount": 1
-  },
-  {
-    "title": "VS Code の Claude Code 拡張機能、なんか更新多い…？",
-    "url": "https://zenn.dev/headwaters/articles/15875671106c54",
-    "domain": "zenn.dev",
-    "description": "VS Code を開くと Claude Code の拡張機能が更新されている。 翌朝に開くとまた更新されている。 さすがに多くないかと思って、実際に数えた。 どれくらい出ているのか 更新の回数は、Marketplace の API で正確に数えられる。 拡張機能の全バージョンと、その公開時刻が返ってくる。 curl -s -X POST \"https://marketplace.visualstu…",
-    "publishedAt": "2026-09-27T13:48:33+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T20:53:26.073841+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/headwaters/articles/15875671106c54",
-    "bookmarkCount": 1
-  },
-  {
-    "title": "Cloudflare 上で Jev で作るほぼ0円運用可能な高品質なページ内検索",
-    "url": "https://zenn.dev/mazrean/articles/bd9b563ace18db",
-    "domain": "zenn.dev",
-    "description": "自分は Go Proposal Weekly Digest というサイトを個人で運用しています。 https://go-proposal-weekly-digest.mazrean.com Go 言語の Proposal と呼ばれる言語機能追加の提案を毎週 Claude Code がまとめるサイトで、公開してからそろそろ 8か月程度が立つものになります。 ありがたいことにユーザーが一定数付いて毎週…",
-    "publishedAt": "2026-09-26T20:26:39+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-10-01T13:00:12.019945+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mazrean/articles/bd9b563ace18db",
-    "bookmarkCount": 240
-  },
-  {
-    "title": "人工知能と小説新人賞審査",
-    "url": "https://zenn.dev/enjoetoh/articles/ai-as-literary-judge",
-    "domain": "zenn.dev",
-    "description": "「第9回ゲンロンSF新人賞」候補作短評余禄 ■ＡＩ…… 2026年現在において大きな話題として各分野におけるＡＩ利用がありますが、それは創作業界においても同じです。 自分としてはとりあえず、「ＡＩにも小説は書ける」という人は、「自分がどんな作品を小説と考えているのか、具体的なリストを挙げよ、話はそれからだ」という気持ちですが、それはそれとします。 昨年末あたりから、新人賞への投稿作の倍増が話題にな…",
-    "publishedAt": "2026-09-26T15:53:26+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-09-30T01:25:59.949781+09:00",
-    "lastSeenAt": "2026-09-30T13:30:11.918130+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/enjoetoh/articles/ai-as-literary-judge",
-    "bookmarkCount": 76
   },
   {
     "title": "Go言語で書かれた高速なIDE「Rune」、オープンソースで公開。ターミナルとコマンドプロンプト中心の開発環境、複数リモートノードをローカルのように操作可能",
