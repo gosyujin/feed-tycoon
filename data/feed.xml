@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T14:00:12.763873+09:00</updated>
+  <updated>2026-10-07T14:30:12.374827+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア</title>
+    <id>https://www.idcf.jp/news/topics/20261007001</id>
+    <link href="https://www.idcf.jp/news/topics/20261007001" />
+    <updated>2026-10-07T14:02:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月7日 このたび、当社クラウドサービス「IDCFクラウド」の一部のシステムに対する第三者からの不正アクセスにより、 サービスの一部に障害が発生しています。対象のお客さまには個別にご連絡させていただいています。 現在、障害解消に向けて調査対応を進めており、障害が発生していないその他の領域の安全性確...</summary>
+  </entry>
+  <entry>
+    <title>自治体やJクラブのWebサイトが閲覧不能に、各地で相次ぐ──茨城県・小平市・京都サンガなど</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002085/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002085/" />
+    <updated>2026-10-07T13:50:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>10月7日朝から、自治体やJリーグクラブ、東武動物公園などのWebサイトが相次いで閲覧できない状態になっている。茨城県は「クラウドの障害」、京都サンガF.C.と清水エスパルスはサーバ管理会社の不具合を原因に挙げている。 茨城県は午前10時22分、県のWebサイトを閲覧できない状態が続いていると公式Xアカウントで告知...</summary>
+  </entry>
+  <entry>
+    <title>【独自】“日本は世界最悪のコンピュータセキュリティ体制” ハッカー集団「Qilin」中心メンバー拘束で取材に応じる アサヒビールなどにサイバー攻撃 | TBS NEWS DIG</title>
+    <id>https://newsdig.tbs.co.jp/articles/-/2995228</id>
+    <link href="https://newsdig.tbs.co.jp/articles/-/2995228" />
+    <updated>2026-10-07T13:48:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>去年、アサヒビールへのサイバー攻撃を行ったハッカー集団「Qilin」。その中心メンバーが拘束されたことをめぐり、QilinがJNNの取材に応じました。アサヒグループホールディングスなど世界の企業にサイバー攻撃を…</summary>
+  </entry>
+  <entry>
+    <title>1億件超えの「楽天会員」情報が闇フォーラムで販売？ 楽天「漏えいは確認されていない」</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002083/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002083/" />
+    <updated>2026-10-07T13:06:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>盗んだデータなどが売買されるサイバー犯罪フォーラムに、楽天の会員情報とするデータ約1億100万件を販売すると主張する投稿が現れ、これを報じた一部メディアの記事がSNS上で拡散している。この件について楽天グループは、ITmedia NEWSの取材に対し「情報漏えいが発生したという事実は確認されておりません」と回答し、...</summary>
+  </entry>
+  <entry>
+    <title>教養とは、トークンを減らす技術である。清水亮氏が語るAI時代のエンジニアの資質</title>
+    <id>https://codezine.jp/article/detail/29838</id>
+    <link href="https://codezine.jp/article/detail/29838" />
+    <updated>2026-10-07T09:23:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「バイブコーディング」という言葉が生まれたのは2025年2月のことだ。それから1年半あまりで、AIはプロトタイプどころか表計算ソフトのクローンまで30分で書き上げるようになった。この変化をエンジニアであり経営者でもある立場から見てきたギリア株式会社ファウンダーの清水亮氏は、いま何を思うのか。AI専門メディア...</summary>
+  </entry>
   <entry>
     <title>Google広告の代理店アカウントに不正アクセス 顧客アカウントからカジノ広告無断配信 パスキー設定も侵入許す</title>
     <id>https://www.itmedia.co.jp/news/article/2610/07/2000002086/</id>
@@ -765,45 +805,5 @@
     <updated>2026-10-06T18:48:20+09:00</updated>
     <category term="はてブ IT" />
     <summary>デジタル庁の古川俊治大臣は10月6日の記者会見で、相次ぐ不正アクセスによる個人情報の流出を受け、パスワードの管理など被害を防ぐための対策を国民に呼び掛けた。 古川大臣は、流出する情報は氏名や住所にとどまらず、IDやパスワード、クレジットカード情報、運転免許証などに及ぶ場合があり、なりすましや不正送金、...</summary>
-  </entry>
-  <entry>
-    <title>GitHub Actionsのキャッシュがあふれるので、不要になった2種類を自動削除する</title>
-    <id>https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup</id>
-    <link href="https://zenn.dev/yesodco/articles/yesod-github-actions-cache-cleanup" />
-    <updated>2026-10-06T15:35:10+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。 はじめに 前回の記事では、毎回タイムアウトしていた脆弱性スキャンのCIを約2分まで縮めた経緯を書きました。その際、保存したキャッシュが容量不足で削除されてしまう問題があったため、保存容量の上限を引き上げて、不要なキャッシュを自動削除するようにしました。今回はその対応を紹介します。 https://…</summary>
-  </entry>
-  <entry>
-    <title>エージェントの記憶はどこに置くか —— Skills・AGENTS.md・引き継ぎノートをClaude CodeとIBM Bobで検証した</title>
-    <id>https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af</id>
-    <link href="https://zenn.dev/enterprise_ai/articles/b8856a49d7f6af" />
-    <updated>2026-10-06T14:59:59+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事のまとめ Claude CodeとIBM Bobで同じリポジトリを動かし、コーディングエージェントの「記憶の置き場所」について3つの検証をしました。 検証 確かめたこと 結果 1. Skills descriptionの書き方で、Skillの呼ばれやすさは変わるか 変わらなかった。手順型のSkillは全試行で呼ばれた 2. 引き継ぎノート ノートで、セッションやツールをまたいで作業を再開で…</summary>
-  </entry>
-  <entry>
-    <title>嘘を嘘と見抜けない？ Clef / Clef-Flashの判定性能を7タスクでJevと比較</title>
-    <id>https://zenn.dev/canly/articles/e4f0527fcfd6b3</id>
-    <link href="https://zenn.dev/canly/articles/e4f0527fcfd6b3" />
-    <updated>2026-10-06T12:37:22+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Jevの登場以降、確率で判断を返すAIモデルの話題が増えてきました。Layaや、Jev互換のAPIを備えたKevなど、オープンソースのモデルも公開されています。今回試すのは、その流れに加わったCloudflareのClefです。まずは判定精度を確かめて、売りである速さは次回、条件を揃えて検証したいと思っています。 速く判断できても、嘘を嘘と見抜けなかったら、安心して任せられるのでしょうか。今回は、…</summary>
-  </entry>
-  <entry>
-    <title>ゆうちょ銀、ファミマのATMを終了 27年1月から</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2145985.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2145985.html" />
-    <updated>2026-10-06T17:25:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ゆうちょ銀、ファミマのATMを終了 27年1月から</summary>
-  </entry>
-  <entry>
-    <title>JR東のコード決済「テッペイ」10月20日開始 上限30万円まで決済可能に</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/06/2000002048/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/06/2000002048/" />
-    <updated>2026-10-06T17:10:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JR東日本は10月6日、モバイルSuicaアプリで使える新たなコード決済サービス「teppay」（テッペイ）を20日午前11時以降、順次始めると発表した。Suicaの上限額である2万円を超える買い物や、家族や友人などユーザー間での残高の受け渡しが可能になる。 teppayの機能は、モバイルSuicaアプリに自動で加わる形のため、新た...</summary>
   </entry>
 </feed>
