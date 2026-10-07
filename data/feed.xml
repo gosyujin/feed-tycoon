@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T18:30:15.691292+09:00</updated>
+  <updated>2026-10-07T19:00:13.989033+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
+    <id>https://joisino.hatenablog.com/entry/filler</id>
+    <link href="https://joisino.hatenablog.com/entry/filler" />
+    <updated>2026-10-07T17:57:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことで...</summary>
+  </entry>
   <entry>
     <title>損保ジャパン、約6万件漏えいか 大和証券・シチズンと同じ委託先への不正アクセスで</title>
     <id>https://www.itmedia.co.jp/news/article/2610/07/2000002099/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-06T14:50:16+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Prismaをインストールしたらエラーが発生しました。 問題 実行したコマンド npx prisma@latest orm init --yes --target postgres --authoring psl --write-env エラー内容（一部...</summary>
-  </entry>
-  <entry>
-    <title>Google ドライブとドキュメント、Markdownファイルを直接編集可能に 変換不要で共同編集</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2145948.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2145948.html" />
-    <updated>2026-10-06T13:39:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Google ドライブとドキュメント、Markdownファイルを直接編集可能に 変換不要で共同編集</summary>
   </entry>
 </feed>
