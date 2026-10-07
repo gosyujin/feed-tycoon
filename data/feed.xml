@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T09:30:13.359929+09:00</updated>
+  <updated>2026-10-07T09:49:27.947108+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「マイクロソフトに言ってください案件」社内SEをやっていた際「Excelファイルを保存せず閉じたら、確認画面が表示されず編集内容が消えた」というクレームを受けた</title>
+    <id>https://togetter.com/li/2754949</id>
+    <link href="https://togetter.com/li/2754949" />
+    <updated>2026-10-07T01:22:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「マイクロソフトに言ってください案件」社内SEをやっていた際「Excelファイルを保存せず閉じたら、確認画面が表示されず編集内容が消えた」というクレームを受けた</summary>
+  </entry>
+  <entry>
+    <title>MacからAI機能を削除し12GB節約できるオープンソースツールが話題に - iPhone Mania</title>
+    <id>https://iphone-mania.jp/mac-607083/</id>
+    <link href="https://iphone-mania.jp/mac-607083/" />
+    <updated>2026-10-06T22:55:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>macOS27から人工知能（AI）関連の機能を取り除くことができるツール「RemoveMacAI」が注目を集めています。“無用”なAI機能を除去することで節約できるストレージ容量は12GBとのことで、なかなか魅力的です。 Apple Intelligenceの完全無効化＆除去ツール macOS27では、Apple Intelligenceを完全に無効化するためのトグル...</summary>
+  </entry>
   <entry>
     <title>Weekly Report: Google Chromeに複数の脆弱性</title>
     <id>https://www.jpcert.or.jp/wr/2026/wr261007.html#1</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-05T23:10:29+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに どうも。鳩胸になりたい文鳥です。 AI時代の手抜きは「アウトプット出しすぎ」らしい 先日のポストで流れてきた動画が気になりました。 ShopifyのTobi Lütke氏が、ポッドキャストでこんな感じのことを言っています。 昔の手抜き → アウトプット...</summary>
-  </entry>
-  <entry>
-    <title>【inotify】ファイルを上書き保存するだけで情報が漏洩する</title>
-    <id>https://qiita.com/rana_kualu/items/323aecccca77ab3d308e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/rana_kualu/items/323aecccca77ab3d308e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T20:20:37+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>inotifyは、ファイルの変更を感知して報告するシステムです。 ファイルが開かれた、更新された、といったイベントを監視することができますが、ファイルの中身を見ることはできません。 inotifyは2005年にLinuxに導入されました。 またAndroid・Windows...</summary>
-  </entry>
-  <entry>
-    <title>Kubernetes 1.37でデフォルトで有効になったStorage Version Migrationについて</title>
-    <id>https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yosshi_/items/a10146e8541f8b447cce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T17:33:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに CRD の古い API バージョン (v1alpha1 など) を .status.storedVersions から外したい、あるいは暗号化キーをローテーションしたいと思っても、etcd に古いスキーマ・古い鍵のまま眠っているオブジェクトがある限り、それはでき...</summary>
   </entry>
 </feed>
