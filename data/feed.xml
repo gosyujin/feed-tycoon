@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T17:00:17.672112+09:00</updated>
+  <updated>2026-10-07T17:30:15.222783+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【速報】損保ジャパン、6万件の顧客情報漏えいか</title>
+    <id>https://www.47news.jp/15049544.html</id>
+    <link href="https://www.47news.jp/15049544.html" />
+    <updated>2026-10-07T16:40:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>損害保険ジャパンは7日、外部の委託先が不正アクセスを受け、約6万件の顧客情報が漏えいした可能性があると発表した。</summary>
+  </entry>
+  <entry>
+    <title>Strands Deciderハンズオン！</title>
+    <id>https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/har1101/items/cf5e734358e09f2410d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T14:25:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>このイベント用のハンズオン手順です。どなたでも好きなときに試せます！(環境構築を含めて1.5時間目安) 2026/10/1、AWSから発表されたStrands Deciderを動かすハンズオンです。 Strands Deciderは文章を生成せず、用意した選択肢...</summary>
+  </entry>
+  <entry>
+    <title>AIが正しい答えを返せる時代に、人はなぜ学ぶのか ～なんでもCopilotでの学びを通して～</title>
+    <id>https://qiita.com/Oyu3m/items/9d68313e74aecac103bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Oyu3m/items/9d68313e74aecac103bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T12:00:41+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに ： 地元・札幌で「なんでもCopilot」を開催して 毎週水曜日の20時からオンラインで勉強会を開催している「なんでもCopilot」コミュニティ。今回は地方開催の第二弾として、私の地元・札幌で開催することができました。 普段一緒に運営をしたり、コミュニテ...</summary>
+  </entry>
+  <entry>
+    <title>OCI Base Database Service のリフレッシュ可能クローンを使ってOCPU環境からECPU環境へ移行してみた</title>
+    <id>https://qiita.com/nyasuhiro/items/f0dbe2c05a72154e99f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nyasuhiro/items/f0dbe2c05a72154e99f4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T10:45:45+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 以下の記事でも紹介されているとおり、Base Database Service（BaseDB）のSKU変更に伴い、今後OCPUベースからECPUベースへの環境移行が必要になるケースも考えられます。 OCI Base DB OCPUをBase DB ECPU に移...</summary>
+  </entry>
+  <entry>
+    <title>OCI Functionsのコード専用関数</title>
+    <id>https://qiita.com/nakaie/items/e36996fcf75ff93278a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nakaie/items/e36996fcf75ff93278a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T09:19:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年9月24日より、OCI Functionsにてコード専用関数が可能になりました。 それまではコンテナベースのデプロイにしか対応していませんでしたが、コードをZIP化してアップロードするデプロイメントにも対応し、よりシンプルなデプロイが可能になりました。...</summary>
+  </entry>
+  <entry>
+    <title>【もう無理だよ…】免許証画像まで流出する時代に、エンジニアは何をすればいいのか</title>
+    <id>https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shinkai_/items/4c6c12324e115a125621?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T08:02:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 最近、個人情報漏えいのニュースが多すぎないでしょうか。 スマホを開くと、また誰でも知っている会社の名前が出ている。 そう感じているエンジニアも多いんじゃないかと思います。 ここ最近で特にインパクトが大きかったのがタイムズカーの件です。 運転免許証の画像まで漏えい...</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT SolとLunaを分業したら、Sol単独の47%のコストで隠しテスト100%だった ── 「どの工程にどのモデルを使うか」を考える</title>
+    <id>https://qiita.com/kunitomo926/items/60aa36a9a54fc1de7919?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kunitomo926/items/60aa36a9a54fc1de7919?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T07:42:06+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>TL;DR GPT-6のSolとLunaを使い、同じ仕様のWebアプリを3つの構成で3回ずつ作らせました。 計画とレビューをSol、実装をLunaにした分業構成は、今回の実験では隠しE2Eテスト合格率100%を、全部Solの47%のコストで達成した ただし分業は3構成...</summary>
+  </entry>
+  <entry>
+    <title>Autonomous AI Lakehouseのデータを Ontologyでつないで Private Agent Factoryから NL2SQL＋RAG＋Knowledge Graphしてみてみた</title>
+    <id>https://qiita.com/shirok/items/281689da5d9ee8c39540?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shirok/items/281689da5d9ee8c39540?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T07:08:23+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>前回の音楽フェス運営Agent に、機材・製造Lot・Stage・Task・Documentの意味と関係を加えてみました。今回は、一つの障害から、ほかに確認すべき機材と、その対応の根拠までたどるところを試します。まず、実際に確認できた結果から見ていきます。 ■ Onto...</summary>
+  </entry>
+  <entry>
+    <title>最も早く満席になったセッションはどれか？ ～ re:Invent 2026 セッション予約開始直後を監視してみた</title>
+    <id>https://qiita.com/godsugar/items/1de212ba8187817b5640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/godsugar/items/1de212ba8187817b5640?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-07T06:58:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>re:Invent2026参加予定の皆さまへ まずは、深夜のセッション椅子取りゲームお疲れさまでした。 希望していたセッションは予約できましたか？ re:Inventのセッション予約は、年々競争が激しくなっているように感じます。 そこで今回は 予約開始後、どれくらいの速...</summary>
+  </entry>
+  <entry>
+    <title>CORSエラーに遭遇したので、そもそもCORSとは何なのか理解する</title>
+    <id>https://qiita.com/megumi_i/items/9c9cbb97df7e4a631660?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/megumi_i/items/9c9cbb97df7e4a631660?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T21:14:09+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 開発中、APIへのリクエストでCORSエラーに遭遇しました。 原因を調べて、リクエスト元が「許可するオリジン」として登録されていなかったことが分かったので、 https://example.com を許可設定に追加し、無事エラー解消！！ ...と思いきや、今度は...</summary>
+  </entry>
+  <entry>
+    <title>Oracle IntegrationのMCP Gatewayを使って、MCPサーバーへのアクセスを制御してみた</title>
+    <id>https://qiita.com/nakasato310/items/052e2260b0e019da0567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nakasato310/items/052e2260b0e019da0567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T16:06:46+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミ...</summary>
+  </entry>
+  <entry>
+    <title>2026年の情報漏洩を手口で分類してみた</title>
+    <id>https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-06T14:19:43+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。 この記事では...</summary>
+  </entry>
   <entry>
     <title>相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ</title>
     <id>https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</id>
@@ -709,101 +805,5 @@
     <updated>2026-10-06T05:42:50+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 夜も更けた作業部屋で、私はパソコンの画面に向かって、苦笑いしながら相棒のAIに声をかけました。 「ほらな、Excelマネージャーでできるだろう。ターミナルを使わなくても」 画面の向こうで少し照れくさそうに、しかし深く感心したように返ってきたのは、GoogleのA...</summary>
-  </entry>
-  <entry>
-    <title>「EverythingToolbar」がWindows 11の縦型・スリムなタスクバーにも対応／高速ファイル検索アプリ「Everything」を「Windows Search」の代わりに使えるアプリ</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2145825.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2145825.html" />
-    <updated>2026-10-06T11:50:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「EverythingToolbar」がWindows 11の縦型・スリムなタスクバーにも対応／高速ファイル検索アプリ「Everything」を「Windows Search」の代わりに使えるアプリ</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントが暴走した記録をオンライン上で探し出し手がかりを追うコミュニティが発達しつつある</title>
-    <id>https://gigazine.net/news/20261006-ai-swarm-chasing-group/</id>
-    <link href="https://gigazine.net/news/20261006-ai-swarm-chasing-group/" />
-    <updated>2026-10-06T20:12:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>試験中のAIが外部の機関に不正アクセスを行うという事例が相次いでいます。こうしたAIは大抵、外部へのアクセスを遮断されている中で、独自のルートを見いだして不正な手段でアクセスを試みます。こうしたAIの痕跡を見つけ出すコミュニティが、いくつか発達しつつあります。 The Sleuths Who Expose When AI Goes Rogue ...</summary>
-  </entry>
-  <entry>
-    <title>待ち時間短縮！GPT-6 AstraとGPT-6.1 Solが約50%高速化</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2145903.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2145903.html" />
-    <updated>2026-10-06T17:41:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>待ち時間短縮！GPT-6 AstraとGPT-6.1 Solが約50%高速化</summary>
-  </entry>
-  <entry>
-    <title>VRChat における若年層ユーザーのバーチャルセックスの実態</title>
-    <id>https://www.jstage.jst.go.jp/article/digrajproc/15/0/15_139/_article/-char/ja</id>
-    <link href="https://www.jstage.jst.go.jp/article/digrajproc/15/0/15_139/_article/-char/ja" />
-    <updated>2026-10-06T14:06:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>現実世界の日本社会では、若者の性的関心・行動の減少が指摘される一方で、メタバースの一種であるソーシャルVR、その中でも若年層がユーザーの大半を占めるVRChat では、バーチャルセックスが一つの文化として根付きつつあるという言説が広がっている。本発表では、VRChat の日本人コミュニティへのWeb アンケート調査...</summary>
-  </entry>
-  <entry>
-    <title>iPhone向けアプリ開発者、2027年4月以降はiPhone Duo対応スクリーンショットの提出が必須に。対応済ビルドの提出は既に受付開始 - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261006-472024/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261006-472024/" />
-    <updated>2026-10-06T17:49:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleは10月5日、iPhone Duoの発売を10月23日に控え、同デバイス向けの準備に関してアプリ開発者に案内した。この中では、2027年4月以降にApp Storeに提出されるすべてのアプリについて、iPhone Duo対応スクリーンショットの提出が義務付けられることも告知されている。 iPhone Duoは、最新のA20 Proチップを搭載する、A...</summary>
-  </entry>
-  <entry>
-    <title>Geminiの擁護🤗</title>
-    <id>https://anond.hatelabo.jp/20261006152403</id>
-    <link href="https://anond.hatelabo.jp/20261006152403" />
-    <updated>2026-10-06T15:24:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>YAVAY！なんか炎上してる…？ [B! AI] Geminiの使いどころ🥹 https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261006101040 フロンティアAIモデルの印象 GoogleはDeepMindに投資したり、TPU（Tensor Processing Unit）を開発したりと、黎明期からAIに力を入れています。 なので、Goo…</summary>
-  </entry>
-  <entry>
-    <title>ビデオ通話で参加者の48％が人間だと誤認したAIモデル「Griffin」が登場、1枚の画像から顔や体の動きを映像で再現</title>
-    <id>https://gigazine.net/news/20261006-tavus-griffin/</id>
-    <link href="https://gigazine.net/news/20261006-tavus-griffin/" />
-    <updated>2026-10-06T22:10:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI企業のTavusが、リアルタイムの映像と音声で人間と対話するAIモデル「Griffin」を発表しました。研究プレビュー版「Griffin-Lite」を使った実験では、1分間のライブビデオ通話に参加した54人のうち26人、約48％が、会話相手のAIを実在する人間だと判断しました。 Griffin: The First Human Interaction Model | Tavus ...</summary>
-  </entry>
-  <entry>
-    <title>llama.cpp 0.6.0公開。GLM-5.3-Flash対応やMetal高速化</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2145872.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2145872.html" />
-    <updated>2026-10-06T13:50:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>llama.cpp 0.6.0公開。GLM-5.3-Flash対応やMetal高速化</summary>
-  </entry>
-  <entry>
-    <title>川崎重工、ロボット企業へトランスフォーム 全事業にフィジカルAI - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC040EZ0U6A001C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC040EZ0U6A001C2000000/" />
-    <updated>2026-10-06T19:40:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>川崎重工業がロボット事業に集中投資する。今後4年間で5500億円を投じ、船舶や航空機などすべての製造現場にフィジカルAI（人工知能）を投入する。主力事業の生産性を高めるとともに外販で稼ぐ「ロボ総合重工」へのトランスフォームを進める。羽田空港を望む同社のロボット開発拠点で6日、中長期経営戦略に関する説明会...</summary>
-  </entry>
-  <entry>
-    <title>パスキー時代に残された課題を埋める EVP とは何か</title>
-    <id>https://blog.agektmr.com/ja/2026/10/email-verification-protocol.html</id>
-    <link href="https://blog.agektmr.com/ja/2026/10/email-verification-protocol.html" />
-    <updated>2026-10-06T11:03:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Email Verification Protocol (EVP) を使うと、ブラウザから離れることなくメールアドレスの所有を確認することが可能になり、ユーザーの負担は大きく軽減されます。しかし、ウェブサイトが EVP に対応することは、ユーザー体験以上にパスキーの補完という意味で、アカウントライフサイクルに大きな役割を果たします。 ...</summary>
-  </entry>
-  <entry>
-    <title>FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測</title>
-    <id>https://www.publickey1.jp/blog/26/fdeai7fde.html</id>
-    <link href="https://www.publickey1.jp/blog/26/fdeai7fde.html" />
-    <updated>2026-10-07T06:27:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>FDE（フォワードデプロイドエンジニアリング）によって開発されたAIエージェントの7割は使われず、FDEの名前で単なるコンサルティングが販売されるようになる危険が高まるとガートナーが予測 米調査会社のガートナーは、ベンダーのFDE（フォワードデプロイドエンジニアあるいはフォワードデプロイドエンジニアリング）に...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、VS CodeにAIモデルのオーケストレーションで高品質低コストなAIを実現する「HydraFusion」をプレビュー実装</title>
-    <id>https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html</id>
-    <link href="https://www.publickey1.jp/blog/26/vs_codeaiaihydrafusion.html" />
-    <updated>2026-10-07T00:47:53+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトは9月30日付けでリリースされたVisual Studio Code 1.140（以下、VS Code）で、複数のAIベンダから提供されているAIモデルをオーケストレーションすることでより高品質で低コストを実現するという「Hy...</summary>
   </entry>
 </feed>
