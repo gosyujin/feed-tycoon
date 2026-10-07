@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T08:00:14.293508+09:00</updated>
+  <updated>2026-10-08T08:30:18.434162+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>2026年 情報漏洩Tier表</title>
+    <id>https://ai.itokoba.com/security-tier/</id>
+    <link href="https://ai.itokoba.com/security-tier/" />
+    <updated>2026-10-07T20:58:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年に公表された国内の事案・国内で利用されるサービス。掲載数は会社数・独立した事件数とは異なります。続報に応じて更新します。 公表日は続報・報道の掲載日を含みます。出典は各事案の詳細記事に掲載しています。 共有</summary>
+  </entry>
   <entry>
     <title>IDCFクラウドへのランサムウェア攻撃についてまとめてみた - piyolog</title>
     <id>https://piyolog.hatenadiary.jp/entry/2026/10/08/070606</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-07T02:15:27+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Coding Agent主軸での開発をするようになってから、Git Worktreeを使う機会が増えました。 しかし、iOSアプリ開発では、worktreeを切るとDerivedDataのpathが変わるため、Clean Buildをすることになります。 そこで今回は、iOSアプリ開発でworktreeを切っても、Compilation Cacheを再利用してビルドする方法について解説します。 X…</summary>
-  </entry>
-  <entry>
-    <title>Mods で Claude Code のセッションごとに管理できるメモ帳を作った</title>
-    <id>https://zenn.dev/yesodco/articles/da634d752874b2</id>
-    <link href="https://zenn.dev/yesodco/articles/da634d752874b2" />
-    <updated>2026-10-06T17:47:17+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 株式会社イエソドで機能開発チームのリーダー兼エンジニアをしている坂口と申します。 私は開発に Claude Code のデスクトップアプリを使っているのですが、作業の途中でメモを残したくなることがよくあります。いまの作業が終わったら依頼したいことなどの簡単なメモです。 元々 Raycast Notes でメモを取っていたのですが、開いているセッションが増えると、どのメモがどのセッションの…</summary>
   </entry>
 </feed>
