@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T07:00:15.559070+09:00</updated>
+  <updated>2026-10-08T07:30:13.701682+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ホームラボの GPU ノードの監視環境を構築する</title>
+    <id>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</id>
+    <link href="https://zenn.dev/hyeonjae/articles/46d734a43c2c93" />
+    <updated>2026-10-07T23:04:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>GPU ノードをホームラボで運用していたところ、トス証券の技術ブログ記事「トス証券が GPU-aware を超えて GPU-native クラスターを構築した方法」で紹介されている運用基準を目にしました。そこで、ホームラボの環境に合わせて規模を縮小し、GPU の状態を監視することにしました。 現在、ノード 1 台に GPU が 2 枚載っていますが、GPU の状態を個別に監視してはいませんでした。…</summary>
+  </entry>
+  <entry>
+    <title>1本の記事をテキストマイニングで読み解く：頻出語・TF-IDF・章節の語彙構造</title>
+    <id>https://zenn.dev/tyasuakwa/articles/613c9d1f9834ce</id>
+    <link href="https://zenn.dev/tyasuakwa/articles/613c9d1f9834ce" />
+    <updated>2026-10-07T21:04:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに テキストデータを分析することでわかるのは単語の頻度だけではない。ここでは1本の記事をとりあげテキストデータの分析した例を紹介する。分析対象は、ペンギンのデータセットを題材にした次のブログ記事である。[1]。 https://note.com/jdsc/n/na0d33485db75 以下では、頻出語からTF-IDF、章節間の語彙的な近さ、簡易的な意味空間まで、この記事の語彙構造を段階的に…</summary>
+  </entry>
+  <entry>
+    <title>嫌われるデザインの歴史</title>
+    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
+    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
+    <updated>2026-10-06T13:17:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのように、当時は愛されていて今見ると懐かしいだけのものもある。 嫌われるのは、流行が考えな…</summary>
+  </entry>
   <entry>
     <title>【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル</title>
     <id>https://pc.watch.impress.co.jp/docs/news/2146579.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-06T22:56:47+09:00</updated>
     <category term="はてブ IT" />
     <summary>CircleCI × Postman 共催ウェビナー｜ 2026年10月6日 AI時代の品質管理 CIコストを抑える検証フローの作り方 岡本 秀高 ( @hidetaka_dev ) CircleCI 合同会社 Senior Field Engineer 1 自己紹介 Hidetaka Okamoto（岡本秀高） • CircleCI Senior Field Engineer • AWS Com…</summary>
-  </entry>
-  <entry>
-    <title>GitHub Copilotに既存コードを修正・更新させる手順 ～仕様変更も不具合修正もAIで</title>
-    <id>https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2117324.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/shseri/vscghcopilot/2117324.html" />
-    <updated>2026-10-06T18:32:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GitHub Copilotに既存コードを修正・更新させる手順 ～仕様変更も不具合修正もAIで</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002071/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002071/" />
-    <updated>2026-10-07T10:43:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIは10月6日（現地時間）、社内のフロンティアモデルが生み出した数学の新たな成果をまとめて公開したと発表した。論文の原稿や証明支援系「Lean」で書かれた形式証明などをGitHubのリポジトリで公開している。 GitHubのリポジトリには現時点で722本の原稿が収録されている。OpenAIによると、多くの原稿にはLeanに...</summary>
-  </entry>
-  <entry>
-    <title>Decisions | OpenAI API</title>
-    <id>https://developers.openai.com/api/docs/guides/decisions</id>
-    <link href="https://developers.openai.com/api/docs/guides/decisions" />
-    <updated>2026-10-07T07:35:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.</summary>
   </entry>
 </feed>
