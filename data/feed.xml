@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T11:30:12.957059+09:00</updated>
+  <updated>2026-10-07T12:00:13.255908+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>OpenAI、社内AIがリーマン予想の関連難問を証明と主張 論文722本をGitHubで公開</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002071/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002071/" />
+    <updated>2026-10-07T10:43:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米OpenAIは10月6日（現地時間）、社内のフロンティアモデルが生み出した数学の新たな成果をまとめて公開したと発表した。論文の原稿や証明支援系「Lean」で書かれた形式証明などをGitHubのリポジトリで公開している。 GitHubのリポジトリには現時点で722本の原稿が収録されている。OpenAIによると、多くの原稿にはLeanに...</summary>
+  </entry>
+  <entry>
+    <title>Decisions | OpenAI API</title>
+    <id>https://developers.openai.com/api/docs/guides/decisions</id>
+    <link href="https://developers.openai.com/api/docs/guides/decisions" />
+    <updated>2026-10-07T07:35:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.</summary>
+  </entry>
+  <entry>
+    <title>リアーキテクチャから Datadog 導入へ 〜動かす基盤の次は、見る基盤を整える〜</title>
+    <id>https://speakerdeck.com/okkun_sh/kara-datadog-dounyuu-he-ugokasu-kiban-no-tsugi-ha-miru-kiban-o-totonoeru</id>
+    <link href="https://speakerdeck.com/okkun_sh/kara-datadog-dounyuu-he-ugokasu-kiban-no-tsugi-ha-miru-kiban-o-totonoeru" />
+    <updated>2026-10-07T01:31:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Beyond borders and beyond the search box: How to win the global "messy middle" with AI-driven SEO</summary>
+  </entry>
+  <entry>
+    <title>マーケティングエンジニア入門</title>
+    <id>https://zenn.dev/kevin_namba/books/afe09c60f698e8</id>
+    <link href="https://zenn.dev/kevin_namba/books/afe09c60f698e8" />
+    <updated>2026-10-06T18:00:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>マーケティングエンジニア(Growth Engineer / GTM Engineer)とは、マーケティングや営業活動を自動運転するためにツールや AI を整備する AI 時代の新たな職種です。 この本では、AI Agent の概念である Skill やハーネス、オントロジーなどについて触れながら、実際にマーケティングの業務を棚卸して、自動化するための方法を紹介します。 サンプルとなる Skill…</summary>
+  </entry>
   <entry>
     <title>「念のためは怖いのですよ」タイムズカーが同業他社より長めに免許証画像を保管していたと判明→理由はあるようだが「オフライン等で保管すべき」「暗号化できるはず」</title>
     <id>https://togetter.com/li/2754931</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-06T10:42:36+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>New RelicではDatabase 360のNRDOTを用いてデータベースを監視できます。今回はNRDOTとAPMを連携し、PostgreSQLのクエリや待機イベントを発行元アプリと関連付ける設定と確認方法を紹介します。 はじめに 問題発生時やエラー、パフォーマンス解...</summary>
-  </entry>
-  <entry>
-    <title>Vue.js初心者がトースト通知を実装してみた〜alertとの違いと基本的な仕組み〜</title>
-    <id>https://qiita.com/sanonichi/items/f47b010339b0bb1779b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sanonichi/items/f47b010339b0bb1779b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T10:14:21+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Vue.js初心者がトースト通知を実装してみた〜alertとの違いと基本的な仕組み〜 はじめに こんにちは。株式会社パレットリンクの@sanonichiです。 私は、Webアプリの開発を行う中で、登録や更新が完了したことをユーザーに伝える通知機能について学びました。 研...</summary>
-  </entry>
-  <entry>
-    <title>Azure Firewall Explicit Proxyを実機検証してわかった、ドキュメントに書いていない挙動まとめ</title>
-    <id>https://qiita.com/kiyoshi_sugawara/items/3c1ae01b9332ba3ef0da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kiyoshi_sugawara/items/3c1ae01b9332ba3ef0da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T09:58:58+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年8月、Azure更新情報にて Azure Firewall の Explicit Proxy 機能が GA(一般提供開始)されました。 Azure Firewallは既定では「透過型プロキシ」として動作します。UDR(ユーザー定義ルート)でトラフィッ...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の WebFetch は、長いページの10万字より後ろを読まずに「書いていない」と答えていた</title>
-    <id>https://qiita.com/suwa_nobu/items/35a1824f5b1d41caa10f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/suwa_nobu/items/35a1824f5b1d41caa10f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T09:37:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Claude Code 2.1.290（2026-10-05）の changelog に、こう書かれています。 Fixed WebFetch silently dropping page text past 100,000 characters; it now says ...</summary>
-  </entry>
-  <entry>
-    <title>(新登場)Nova 2.5 Sonic爆誕：東京リージョンにもきている</title>
-    <id>https://qiita.com/yama3133/items/5ce2572730be29eb89fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yama3133/items/5ce2572730be29eb89fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T09:07:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Nova 2.5 Sonicが登場しました。 バージニア北部だけかと思いきや、東京リージョンまできています。 実際にAWSマネコン上で触ってみましたので速報という形でお届けします。 100%人間の手で書いてます 早速確認 東京リージョンでAWSマネジメ...</summary>
   </entry>
 </feed>
