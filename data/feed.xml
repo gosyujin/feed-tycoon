@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T00:00:10.425473+09:00</updated>
+  <updated>2026-10-08T00:30:17.088950+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
+    <id>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</id>
+    <link href="https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html" />
+    <updated>2026-10-08T00:59:06+09:00</updated>
+    <category term="Publickey" />
+    <summary>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...</summary>
+  </entry>
+  <entry>
+    <title>最近のmacOSは変な変換候補をバシバシ出してくる、どうすればそうなるんですか？→ATOKやazooKeyなどIMEの変更を考えた方がいいと情報が集まる</title>
+    <id>https://togetter.com/li/2755259</id>
+    <link href="https://togetter.com/li/2755259" />
+    <updated>2026-10-07T20:56:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近のmacOSは変な変換候補をバシバシ出してくる、どうすればそうなるんですか？→ATOKやazooKeyなどIMEの変更を考えた方がいいと情報が集まる</summary>
+  </entry>
+  <entry>
+    <title>plamo-3-translate: フロンティア級の翻訳特化LLM｜株式会社Preferred Networks</title>
+    <id>https://www.preferred.jp/ja/blog/tech/plamo-3-translate-product-release</id>
+    <link href="https://www.preferred.jp/ja/blog/tech/plamo-3-translate-product-release" />
+    <updated>2026-10-07T15:25:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>表1: plamo-2-translateとplamo-3-translateの性能比較日英・英日の性能計測には次のベンチマークを用いています。 WMT24++ [5]WMT24（Ninth Conference on Machine Translation）で用いられた評価データを基に、英語から55の言語・方言への翻訳を評価できるよう拡張したベンチマークです。今回は日本語トラックを対象と...</summary>
+  </entry>
+  <entry>
+    <title>google/embeddinggemma-2 · Hugging Face</title>
+    <id>https://huggingface.co/google/embeddinggemma-2</id>
+    <link href="https://huggingface.co/google/embeddinggemma-2" />
+    <updated>2026-10-07T08:29:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>","eos_token":" ","mask_token":" ","pad_token":" ","unk_token":" "},"chat_template_jinja":"{%- for msg in messages if msg.get('role') == 'system' -%}{%- if msg.get('content') is string -%}{{ msg['cont…</summary>
+  </entry>
   <entry>
     <title>Claude Code / Codex のトークン節約：同じ枠でもっと使える</title>
     <id>https://zenn.dev/gakken_leap/articles/c67ca43199e63d</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-06T23:47:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>シンジです。ここ最近ニュースが情報漏えいで溢れていますが、発表しているのは氷山の一角に過ぎません。話題になることなく対応しているケースがほとんどです。 担当者は地獄です。休みも返上し、睡眠時間も削っていることでしょう。本当にご苦労様です。 ところでこうは思いませんか。なぜ我が社は大丈夫なのか。そも...</summary>
-  </entry>
-  <entry>
-    <title>OOPとFPの使い分けを、図書館の貸出管理システム作って確かめてみた</title>
-    <id>https://zenn.dev/satoru_o/articles/2804938058ab47</id>
-    <link href="https://zenn.dev/satoru_o/articles/2804938058ab47" />
-    <updated>2026-10-06T23:38:08+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに OOP の基本を、銀行口座・通知・価格計算(Strategy)といった題材で一つずつ学んできました。その総合演習として、「実際にありそうなシステムを超ミニマム版で作ってみる」という企画を立て、Python で図書館の貸出管理を作りました。今回は OOP に FP の考え方も取り入れ、設計に絞ってまとめます。 結論として、純粋関数にできるコアなロジックは関数に、インターフェースや境界になる…</summary>
-  </entry>
-  <entry>
-    <title>Keras入門 第４回 Kerasモデルの量子化(LiteRT)</title>
-    <id>https://zenn.dev/hoshinagi1219/articles/6c2446701595cc</id>
-    <link href="https://zenn.dev/hoshinagi1219/articles/6c2446701595cc" />
-    <updated>2026-10-06T22:23:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>星杜なぎさです。 今回は、Kerasモデルの量子化についてまとめてみました。 環境 google colaboratory Python : 3.13.15 keras：3.13.2 tensorflow：2.21.0 ai-edge-litert：2.2.0 1. 準備 1.1 ライブラリの読み込み 2026年10月6日現在、google colaboratoryにはai-edge-litert…</summary>
-  </entry>
-  <entry>
-    <title>LLMを使用した Web システムの単体テスト自動化について</title>
-    <id>https://zenn.dev/shikamaru/articles/ef90e326ab8163</id>
-    <link href="https://zenn.dev/shikamaru/articles/ef90e326ab8163" />
-    <updated>2026-10-06T21:00:14+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに フリーランスで Web 系の SE をしている しかまる です。 いま参画しているプロジェクトで Web システムの AI 駆動開発をしていて、その過程で Claude Code のブラウザ操作を使った単体テストの自動化という試みを行いました。 この記事では、その実験の内容と結果を紹介します。 実際のプロジェクトの Web システムはお見せできないため、今回はローカルにテスト用の Web…</summary>
-  </entry>
-  <entry>
-    <title>時系列予測の第一歩？ OLTPとOLAP</title>
-    <id>https://zenn.dev/neurogica/articles/a37c2fdb8bc0d4</id>
-    <link href="https://zenn.dev/neurogica/articles/a37c2fdb8bc0d4" />
-    <updated>2026-10-06T19:36:19+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事は Neurogica Tech Blog の転載です。 はじめに システムを作るとき、最初はたいてい、アプリサーバとRDB（PostgreSQLやMySQLなど）の2つだけというシンプルな構成から始まる。 しかし、システムがスケールすると次第に様々な要望が出てくる。 「月ごとに請求額を計算したいから、あの顧客の利用回数を集計してくれ」 「どの時期にどの商品が売れていたのか知りたいから月ご…</summary>
   </entry>
 </feed>
