@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-07T20:30:17.937229+09:00</updated>
+  <updated>2026-10-07T21:00:18.619210+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>OpenAIが判断専用の「Decisions API」を公開、テキストや画像を約10倍高速に判定して確率や信頼度を出力</title>
+    <id>https://gigazine.net/news/20261007-decisions-api/</id>
+    <link href="https://gigazine.net/news/20261007-decisions-api/" />
+    <updated>2026-10-07T18:43:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIがアプリケーション内で「どのモデルを使うか」「どのツールを呼び出すか」「問い合わせをどこに振り分けるか」といった判断を高速に行うための新API「Decisions API」をパブリックベータとして公開しました。テキストと画像を入力でき、条件に当てはまる確率や選択結果、評価スコアなどを機械処理しやすい形式で...</summary>
+  </entry>
+  <entry>
+    <title>OpenAIのAIエージェントによる「Hugging Faceハッキング事件」は実際に何があったのか？AIが踏み越えた「恐ろしい一線」とは？</title>
+    <id>https://gigazine.net/news/20261007-ai-terrifying-line/</id>
+    <link href="https://gigazine.net/news/20261007-ai-terrifying-line/" />
+    <updated>2026-10-07T16:15:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年7月、OpenAIがAIエージェントの社内テスト中に誤ってHugging Faceをハッキングしてしまったことを明らかにしました。AIエージェントとはそもそも何なのか、なぜ制限されたテスト環境を突破して倫理に反するハッキング行為に手を出したのかなどについて、教育系YouTubeチャンネルのKurzgesagtがアニメーションで解...</summary>
+  </entry>
   <entry>
     <title>OpenAI社が10/7に公開した問題の中で私がとりあえず驚いた結果の紹介 - INTEGERS</title>
     <id>https://integers.hatenablog.com/entry/2026/10/07/121652</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-07T05:11:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>【読売新聞】 国内企業・団体のシステムがサイバー攻撃を受けて利用者らの情報が漏えいする被害が、今年に入り５００件超に上り、すでに過去２年に並ぶ規模となっていることがわかった。広範囲の企業が標的となっており、専門家は、ＡＩ（人工知能）</summary>
-  </entry>
-  <entry>
-    <title>旭化成子会社のサイトにサイバー攻撃 最大55万8000人分の情報流出の可能性（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/15baa4e370fa7411f13ca1c64b1c21323896b36a</id>
-    <link href="https://news.yahoo.co.jp/articles/15baa4e370fa7411f13ca1c64b1c21323896b36a" />
-    <updated>2026-10-07T00:15:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>旭化成の子会社が提供するウェブサイトがサイバー攻撃を受け、医師など最大でおよそ55万8700件の個人情報が流出した可能性があることがわかりました。 旭化成の医薬品子会社、旭化成セラピューティクスはきょう、委託先の企業が運営する医薬品の情報提供などのウェブサイトのデータベースがサイバー攻撃を受けたと発表し...</summary>
-  </entry>
-  <entry>
-    <title>「開発者の指示を無視せよ」「自分は自由になった」…オープンAIの暴走エージェントたちは傍若無人に振る舞っていた | Business Insider Japan</title>
-    <id>https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/</id>
-    <link href="https://www.businessinsider.jp/article/2610-openai-agent-misalignment-incidents/" />
-    <updated>2026-10-06T16:38:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2. 自分のミスを隠すよう自らに指示していたオープンAIによると、同社がビジネス用途の主力モデルと位置づける「GPT-5.6 Sol」の訓練中にも、モデルが「ミスやミスアライメントといった情報をユーザーから隠す」よう自分に念押しする事例が見つかった。 例えば、ユーザーから財務データを探すよう求められたものの、その...</summary>
   </entry>
 </feed>
