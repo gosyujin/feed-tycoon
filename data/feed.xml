@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-09T08:00:14.206108+09:00</updated>
+  <updated>2026-10-09T08:30:14.050183+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用） - Qiita</title>
+    <id>https://qiita.com/kikuziro/items/6191b5ad83520d181f38</id>
+    <link href="https://qiita.com/kikuziro/items/6191b5ad83520d181f38" />
+    <updated>2026-10-09T04:24:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>みなさんGraphRAGの判断を全部LLMにやらせていませんか？文章を書かなくていい判断なら判断が得意なモデルに任せればいい!ということでエンベディングもベクトルDBも使わないGraphRAGを作ってみました。判断はJevに回答はLLMです。 👀 対象読者 RAGを組んだことがあり「意味が近い」と「答えに必要」のずれに困ったこと...</summary>
+  </entry>
+  <entry>
+    <title>外国人技術者の米永住権申請制度、Microsoftの利用停止 バンス氏表明 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOGN08BSH0Y6A001C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN08BSH0Y6A001C2000000/" />
+    <updated>2026-10-09T02:52:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【ワシントン=芦塚智子】バンス米副大統領は8日、高技能の外国人技術者が米国永住権（グリーンカード）を取得できる制度について、米マイクロソフトによる利用を停止すると発表した。同社が制度を悪用して米国民の職を奪っていると主張した。バンス氏はホワイトハウスでの記者会見で、マイクロソフトが2025年に米国民600...</summary>
+  </entry>
+  <entry>
+    <title>ペタバイト規模（約8兆レコード）の DMM データ基盤、Embulk やめました</title>
+    <id>https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration</id>
+    <link href="https://zenn.dev/dmmdata/articles/embulk-to-dlt-migration" />
+    <updated>2026-10-08T23:25:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Embulk を使い続けて数年。そろそろ移行したいと思いつつ、そのままになっていませんか。 DMM では、Embulk のメンテナンスモード移行の発表に伴い、長年運用してきたデータ取り込みを dlt へ移行しました。 しかも、5 名のチームで技術選定から検証、取り込み処理の実装を約 3 週間で進め、一部テーブルの新旧...</summary>
+  </entry>
+  <entry>
+    <title>Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2146802.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2146802.html" />
+    <updated>2026-10-08T18:20:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google、AI生成コンテンツを見分ける「SynthID Detector」を一般に開放／OpenAI、NVIDIA、Kakaoなどの生成AIに対応。Appleも対応予定</summary>
+  </entry>
   <entry>
     <title>ローカルAI環境の「ComfyUI」に3Dモデル生成AI「Trellis2」「Pixal3D」がネイティブ統合！【Blender ウォッチング】</title>
     <id>https://forest.watch.impress.co.jp/docs/serial/blenderwthing/2146800.html</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-07T17:22:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>企業などを標的にサイバー攻撃を繰り返す「Qilin（キーリン）」と名乗る国際的ハッカー集団の中心メンバーとみられるロシア国籍の男（28）を、日本の捜査当局が大阪市内で拘束していたことが10月6日、関係者への取材で分かった。日本側は同月、男を捜査しているドイツ側に身柄を引き渡した。 関係者によると、男は2024年...</summary>
-  </entry>
-  <entry>
-    <title>「IDCFクラウド」障害で止まった「MTクラウド版」、「Googleクラウド」のバックアップで「さくらのクラウド」に移行へ</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/08/2000002120/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/08/2000002120/" />
-    <updated>2026-10-08T11:52:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>IDCフロンティアの「IDCFクラウド」の一部サーバがランサムウェア攻撃で停止している問題で、シックス・アパートが提供するCMS「Movable Type（MT） クラウド版」でも10月7日未明、「IDCFクラウドプラン」のサーバ31台が止まった。 シックス・アパートによると「IDCFクラウド上で復旧できる見込みはない」が、顧客のバッ...</summary>
-  </entry>
-  <entry>
-    <title>ChatGPT、無料版を含む全ユーザーに「GPT-6」 回答内に“操作できる画面”を生成する「Intelligent UI」搭載</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/08/2000002119/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/08/2000002119/" />
-    <updated>2026-10-08T11:31:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIは10月7日（現地時間）、「ChatGPT」に新モデル「GPT-6」を搭載し、全ユーザーに向けて順次提供を始めた。テキストに加えて図やボタン、フォーム、グラフなどを組み合わせた対話型の画面（UI）を回答として生成する新機能「Intelligent UI」も導入した。同社は9月に有料ユーザー向けにGPT-6系のモデルを投入して...</summary>
-  </entry>
-  <entry>
-    <title>玄関前に異変、まさかクマ！？ ネットワークカメラを設置しました。そこに映っていたのは……【奥川浩彦の「岐阜の山奥に移住しました」第15回】</title>
-    <id>https://internet.watch.impress.co.jp/docs/column/ijuu/2145481.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/ijuu/2145481.html" />
-    <updated>2026-10-08T07:18:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>玄関前に異変、まさかクマ！？ ネットワークカメラを設置しました。そこに映っていたのは……【奥川浩彦の「岐阜の山奥に移住しました」第15回】</summary>
-  </entry>
-  <entry>
-    <title>Rails8.2に入る機能で気になったもの - おもしろwebサービス開発日記</title>
-    <id>https://blog.willnet.in/entry/2026/10/07/152734</id>
-    <link href="https://blog.willnet.in/entry/2026/10/07/152734" />
-    <updated>2026-10-07T16:19:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>今日(2026/10/07)時点でまだRails8.2はリリースされていませんが、今日開催のGinza.rb 第99回 でRails8.2特集をするので、これまでにRails8.2用に入った変更をまとめました。 これまでは節ごとにリンクが付与されるのが便利でgistに書いていたのですが、どうやら最近からはてなブログでも節のリンクが付与されるようにな...</summary>
   </entry>
 </feed>
