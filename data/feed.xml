@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T17:30:15.527482+09:00</updated>
+  <updated>2026-10-08T18:00:14.572684+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ローカル実行可能で画像入力もOKな意思決定モデル「d1-3B」と音声入力も可能な「d1-omni-600M」が登場、OpenAIのDecisions APIより高速実行</title>
+    <id>https://gigazine.net/news/20261008-d1-3b-omni-600m/</id>
+    <link href="https://gigazine.net/news/20261008-d1-3b-omni-600m/" />
+    <updated>2026-10-08T17:05:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI開発企業のLiquid AIが意思決定モデル「d1-3B」と「d1-omni-600M」をリリースしました。無料でダウンロードしてローカルで実行できます。 Open d1: Edge decision models for text, vision, and audio | Blog | Liquid AI https://www.liquid.ai/blog/d1-open 2026年9月に…</summary>
+  </entry>
+  <entry>
+    <title>「ソフトウェアエンジニアリングの基礎」から見る読書マップ | フューチャー技術ブログ</title>
+    <id>https://future-architect.github.io/articles/20261008a/</id>
+    <link href="https://future-architect.github.io/articles/20261008a/" />
+    <updated>2026-10-08T10:36:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに『ソフトウェアエンジニアリングの基礎 ―コーダーからエンジニアになるための実践ガイド』（村上列訳、オライリー・ジャパン、2026年9月）を読了しました。 ジュニアなエンジニアが成長するために知っておくべきことが非常によくまとまっており、共感する部分が多かったので、読んでみての感想を残しておきたい...</summary>
+  </entry>
   <entry>
     <title>なぜ最新のIoT家電は2.4GHzが主流なのか？Wi-Fi周波数の選定理由と技術的背景</title>
     <id>https://qiita.com/sc-noguchi/items/b791f8cd3885816e2b4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -463,14 +479,6 @@
     <summary>Published: October 6, 2026 We're excited to announce that Chrome is shipping decoding support for the JPEG XL (.jxl) image format starting from Chrome 155. JPEG XL is a next-generation image format de…</summary>
   </entry>
   <entry>
-    <title>嫌われるデザインの歴史</title>
-    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
-    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
-    <updated>2026-10-08T10:44:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ...</summary>
-  </entry>
-  <entry>
     <title>ホームラボの GPU ノードの監視環境を構築する</title>
     <id>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</id>
     <link href="https://zenn.dev/hyeonjae/articles/46d734a43c2c93" />
@@ -485,6 +493,14 @@
     <updated>2026-10-07T21:04:02+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに テキストデータを分析することでわかるのは単語の頻度だけではない。ここでは1本の記事をとりあげテキストデータの分析した例を紹介する。分析対象は、ペンギンのデータセットを題材にした次のブログ記事である。[1]。 https://note.com/jdsc/n/na0d33485db75 以下では、頻出語からTF-IDF、章節間の語彙的な近さ、簡易的な意味空間まで、この記事の語彙構造を段階的に…</summary>
+  </entry>
+  <entry>
+    <title>嫌われるデザインの歴史</title>
+    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
+    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
+    <updated>2026-10-06T13:17:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのように、当時は愛されていて今見ると懐かしいだけのものもある。 嫌われるのは、流行が考えな…</summary>
   </entry>
   <entry>
     <title>【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル</title>
@@ -682,9 +698,9 @@
     <title>AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
     <id>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</id>
     <link href="https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html" />
-    <updated>2026-10-08T00:59:06+09:00</updated>
-    <category term="Publickey" />
-    <summary>Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しまし...</summary>
+    <updated>2026-10-08T00:52:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表 Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しました。 これまでPostgreSQLにデー…</summary>
   </entry>
   <entry>
     <title>最近のmacOSは変な変換候補をバシバシ出してくる、どうすればそうなるんですか？→ATOKやazooKeyなどIMEの変更を考えた方がいいと情報が集まる</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-07T14:09:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>タイムズカーやGMO、焼肉きんぐなど、2026年9月以降に日本の企業が不正アクセスによってユーザーの個人情報を流出させるインシデントが相次いで発生しており、AIの悪用が急速に進んでいるのではないかといわれています。セキュリティ企業のGambit Securityがある攻撃者の中継サーバーを入手して調査したところ、「Hermes...</summary>
-  </entry>
-  <entry>
-    <title>Apple Watch Series 12 / Ultra4の「手洗いタイマー」が見当たらないだが… | ギズモード・ジャパン</title>
-    <id>https://www.gizmodo.jp/article/2610-apple-watch-series12-ultra4-handwash-timer/</id>
-    <link href="https://www.gizmodo.jp/article/2610-apple-watch-series12-ultra4-handwash-timer/" />
-    <updated>2026-10-07T11:37:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>手洗いを自動検知してくれるタイマー機能が見つからない…Image: AppleAppleはWWDC 2020でwatchOS 7をお披露目した際に、新機能として「手洗いタイマー」を発表しました。 手を洗う動作に加えて、水と手の音などを検知すると、手洗いタイマーのアニメーションが流れるもので、発表当時は新型コロナが流行していた時期だっ...</summary>
-  </entry>
-  <entry>
-    <title>ハーネスエンジニアリングの仕組みで実現するUIの品質担保【デザインハーネスの組み立て方】</title>
-    <id>https://codezine.jp/article/detail/29615</id>
-    <link href="https://codezine.jp/article/detail/29615" />
-    <updated>2026-10-06T10:31:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIエージェントに確実に仕事をさせるため、制約・検証・フィードバックの装置で挙動を包み込む仕組みを「ハーネス」と呼びます。このハーネスエンジニアリングの考え方をデザイン領域に当てはめたものが「デザインハーネス」です。作ってよいものの範囲を定め、判断の前提を渡し、生成物が基準を満たすか確かめ、その結...</summary>
   </entry>
 </feed>
