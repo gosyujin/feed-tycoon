@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T22:30:14.637799+09:00</updated>
+  <updated>2026-10-08T23:00:14.199713+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表</title>
+    <id>https://www.publickey1.jp/blog/26/gpuai_engine.html</id>
+    <link href="https://www.publickey1.jp/blog/26/gpuai_engine.html" />
+    <updated>2026-10-09T00:49:01+09:00</updated>
+    <category term="Publickey" />
+    <summary>さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...</summary>
+  </entry>
+  <entry>
+    <title>AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿</title>
+    <id>https://gigazine.net/news/20261008-agent-reviews/</id>
+    <link href="https://gigazine.net/news/20261008-agent-reviews/" />
+    <updated>2026-10-08T20:03:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントが実際に使用したソフトウェアや開発ツールについて評価を投稿するレビューサイト「agent.reviews」が登場しました。AIエージェントが使用したツールの使いやすさや信頼性を評価し、ほかのAIエージェントがツールを選ぶ際の参考にできる仕組みになっています。 agent.reviews · Where agents choose and r...</summary>
+  </entry>
+  <entry>
+    <title>Googleが「Nano Banana 2.1」を公開 ～複雑な解説図や歴史的に正確なシーンも生成可能／「Nano Banana 2」「Nano Banana Pro」を凌ぐ性能を獲得</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2146777.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2146777.html" />
+    <updated>2026-10-08T18:21:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleが「Nano Banana 2.1」を公開 ～複雑な解説図や歴史的に正確なシーンも生成可能／「Nano Banana 2」「Nano Banana Pro」を凌ぐ性能を獲得</summary>
+  </entry>
   <entry>
     <title>ローソン、不正アクセスによる215万件超の個人情報漏えいが判明</title>
     <id>https://internet.watch.impress.co.jp/docs/news/2146917.html</id>
@@ -679,6 +703,14 @@
     <summary>Published: October 6, 2026 We're excited to announce that Chrome is shipping decoding support for the JPEG XL (.jxl) image format starting from Chrome 155. JPEG XL is a next-generation image format de…</summary>
   </entry>
   <entry>
+    <title>嫌われるデザインの歴史</title>
+    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
+    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
+    <updated>2026-10-08T10:44:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ...</summary>
+  </entry>
+  <entry>
     <title>ホームラボの GPU ノードの監視環境を構築する</title>
     <id>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</id>
     <link href="https://zenn.dev/hyeonjae/articles/46d734a43c2c93" />
@@ -693,14 +725,6 @@
     <updated>2026-10-07T21:04:02+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに テキストデータを分析することでわかるのは単語の頻度だけではない。ここでは1本の記事をとりあげテキストデータの分析した例を紹介する。分析対象は、ペンギンのデータセットを題材にした次のブログ記事である。[1]。 https://note.com/jdsc/n/na0d33485db75 以下では、頻出語からTF-IDF、章節間の語彙的な近さ、簡易的な意味空間まで、この記事の語彙構造を段階的に…</summary>
-  </entry>
-  <entry>
-    <title>嫌われるデザインの歴史</title>
-    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
-    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
-    <updated>2026-10-06T13:17:02+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのように、当時は愛されていて今見ると懐かしいだけのものもある。 嫌われるのは、流行が考えな…</summary>
   </entry>
   <entry>
     <title>【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-07T09:29:15+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Claude Code で調べものを任せる Explore サブエージェントは、登場したときは Haiku で動いていました。 Introducing the Explore subagent. Powered by Haiku it'll search through ...</summary>
-  </entry>
-  <entry>
-    <title>オフショア開発で学んだ「性能劣化」が伝わらなかった話</title>
-    <id>https://qiita.com/rhaya/items/7d41473c6b510cacf175?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/rhaya/items/7d41473c6b510cacf175?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-07T08:48:11+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに バグは直せます。しかし、認識のズレはプロジェクトを蝕みます。システム開発では、技術的な難題以上に「伝わったはず」が招く誤解のほうが厄介なことがあります。 私はこれまで中国やベトナムのパートナーと数多くのオフショア開発案件を進めてきました。その中で遭遇した、ほんの...</summary>
-  </entry>
-  <entry>
-    <title>「ドル円は上がるか」から「どの通貨が強いか」へ ― 通貨クロスセクション・モメンタムの仕組みと限界</title>
-    <id>https://qiita.com/tikeda123/items/766fc1611cdde5b86af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tikeda123/items/766fc1611cdde5b86af8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-06T19:35:49+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「ドル円は来週上がるか、下がるか」。 FXのトレード戦略の多くは、最終的にはこの問いと向き合っている。移動平均線（MA）のクロスで売買するトレンドフォローも、将来の価格水準を予想するわけではないが、ルールに従ってその通貨ペアの方向に賭けている点では同じである。...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeのモデルを使い分けると成果物とトークンはどれくらい変わる？実際にOpus＋Sonnetと全部Opusで同じものを作って比べてみた</title>
-    <id>https://qiita.com/inoyu-qiita/items/c86cfa9a4df7af042f9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/inoyu-qiita/items/c86cfa9a4df7af042f9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-05T20:54:53+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「計画や設計はOpus、実装はSonnet」のように、Claude Codeでは作業工程によってモデルを使い分けたほうがいい、という話を最近よく聞きます。 言っていることはわかる。でも、ほんとに使い分けたほうがいいの？ そこで今回は、同じ要件のアプリを次の2パタ...</summary>
   </entry>
 </feed>
