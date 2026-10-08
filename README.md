@@ -15,6 +15,7 @@
 feed-tycoon/
 ├── sources.json                # 取得元の初期値・フォールバック(id / name / type / url / tags)。通常は Gist で管理
 ├── index.html, css/, js/       # ビューア(filters.js: 判定, rules-io.js: CSV, gist.js / filter-sync.js: Gist同期, sources-sync.js: 取得元一覧, visited.js: 既読, hatena-api.js: コメント取得, app.js: 画面)
+├── favicon.png, apple-touch-icon.png  # ファビコン(64px)と iOS ホーム画面用アイコン(180px)
 ├── service-worker.js           # オフライン対応(アプリ本体と data/*.json をキャッシュ)
 ├── data/                       # Actions が更新する生成物(feed.json, feed.xml, meta.json)
 ├── scripts/
