@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T16:30:13.286234+09:00</updated>
+  <updated>2026-10-08T17:00:15.958949+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>TP-Linkがルーターのセキュリティを偽り中国との関係を開示しなかったとしてアイオワ州など4州が提訴、TP-Linkは中国との関係を真っ向から否定</title>
+    <id>https://gigazine.net/news/20261008-us-4-states-sue-tp-link/</id>
+    <link href="https://gigazine.net/news/20261008-us-4-states-sue-tp-link/" />
+    <updated>2026-10-08T16:03:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アメリカのアイオワ州、フロリダ州、ネブラスカ州、モンタナ州がそれぞれ、ネットワーク機器を販売するTP-Linkを提訴しました。いずれも、TP-Linkが中国政府と関連があることを隠していると主張しています。 Attorney General Brenna Bird Sues TP-Link Systems for Violating Iowa Consumer Fraud Act and Allo…</summary>
+  </entry>
+  <entry>
+    <title>「こんなゲームを作りたい」と文章で伝えるだけでゲームが完成、Googleがプログラミング不要のゲーム作成サービス「Playground」を公開</title>
+    <id>https://gigazine.net/news/20261008-google-playground/</id>
+    <link href="https://gigazine.net/news/20261008-google-playground/" />
+    <updated>2026-10-08T14:37:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleは2026年10月7日、作りたいゲームの内容を文章で伝えるだけでオリジナルゲームを作成できるサービス「Playground」を発表しました。プログラミングの知識がなくてもキャラクターやルールを自由に設定でき、完成したゲームを友人と共有したり、ほかのユーザーが作ったゲームで遊んだりすることも可能です。 Create ...</summary>
+  </entry>
   <entry>
     <title>Codex Cloud shipped with Tailscale support. Nobody told us.</title>
     <id>https://tailscale.com/blog/codex-cloud-tailscale</id>
@@ -327,14 +343,6 @@
     <summary>Published: October 6, 2026 We're excited to announce that Chrome is shipping decoding support for the JPEG XL (.jxl) image format starting from Chrome 155. JPEG XL is a next-generation image format de…</summary>
   </entry>
   <entry>
-    <title>嫌われるデザインの歴史</title>
-    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
-    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
-    <updated>2026-10-08T10:44:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのよ...</summary>
-  </entry>
-  <entry>
     <title>ホームラボの GPU ノードの監視環境を構築する</title>
     <id>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</id>
     <link href="https://zenn.dev/hyeonjae/articles/46d734a43c2c93" />
@@ -349,6 +357,14 @@
     <updated>2026-10-07T21:04:02+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに テキストデータを分析することでわかるのは単語の頻度だけではない。ここでは1本の記事をとりあげテキストデータの分析した例を紹介する。分析対象は、ペンギンのデータセットを題材にした次のブログ記事である。[1]。 https://note.com/jdsc/n/na0d33485db75 以下では、頻出語からTF-IDF、章節間の語彙的な近さ、簡易的な意味空間まで、この記事の語彙構造を段階的に…</summary>
+  </entry>
+  <entry>
+    <title>嫌われるデザインの歴史</title>
+    <id>https://zenn.dev/blackmose/articles/de0170a13be930</id>
+    <link href="https://zenn.dev/blackmose/articles/de0170a13be930" />
+    <updated>2026-10-06T13:17:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのように、当時は愛されていて今見ると懐かしいだけのものもある。 嫌われるのは、流行が考えな…</summary>
   </entry>
   <entry>
     <title>【速報】RTX Spark搭載Surfaceが正式発表、18コア/24GBモデルや20コア/128GBモデル</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-07T16:38:09+09:00</updated>
     <category term="はてブ IT" />
     <summary>ソフトバンク子会社でデータセンター事業者のIDCフロンティアは7日、一部のシステムが外部から不正アクセスを受けたと発表した。法人向けのクラウドサービスで障害が発生し、一部の顧客に影響が生じているという。同社は調査や復旧を進めている。同日の午前3時40分ごろに同社のクラウドサービス「IDCFクラウド」のシステ...</summary>
-  </entry>
-  <entry>
-    <title>はてなブックマークAndroidアプリで Android 11 以下のサポートを終了します - はてなブックマーク開発ブログ</title>
-    <id>https://bookmark.hatenastaff.com/entry/2026/10/07/120045</id>
-    <link href="https://bookmark.hatenastaff.com/entry/2026/10/07/120045" />
-    <updated>2026-10-07T14:29:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>いつもはてなブックマークをご利用いただき誠にありがとうございます。 2026年10月中にリリース予定のはてなブックマークAndroidアプリ バージョン5.85より、対応OSをAndroid 12以上に変更し、Android 11以下のサポートを終了いたします。 Android 11以下をご利用の場合、バージョン5.85以降のアプリへアップデートでき...</summary>
-  </entry>
-  <entry>
-    <title>最近のLLMは黙って考えられるようになっている - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
-    <id>https://joisino.hatenablog.com/entry/filler</id>
-    <link href="https://joisino.hatenablog.com/entry/filler" />
-    <updated>2026-10-07T17:57:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことで...</summary>
   </entry>
 </feed>
