@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T16:00:19.322420+09:00</updated>
+  <updated>2026-10-08T16:30:13.286234+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Codex Cloud shipped with Tailscale support. Nobody told us.</title>
+    <id>https://tailscale.com/blog/codex-cloud-tailscale</id>
+    <link href="https://tailscale.com/blog/codex-cloud-tailscale" />
+    <updated>2026-10-08T01:42:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The launch process for Tailscale’s integration into Codex Cloud, which OpenAI released this week, started with a Slack message from a Tailscale engineer: “Did we work with OpenAI on this?” A few minut…</summary>
+  </entry>
   <entry>
     <title>マイクロソフト「日本でランサム攻撃が大幅増」 | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261008de56458</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-07T17:57:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>LLM の「思考」といえば思考の連鎖 (Chain of Thought; CoT) が有名ですが、思考の連鎖はいわば「喋りながら考えている」ことに相当します。これに対して、最近の LLM は「黙って」考えられるようになってきています。 鍵となるのはフィラートークン (filler tokens) です。これは「.」などの意味のないトークンのことで...</summary>
-  </entry>
-  <entry>
-    <title>損保ジャパン、約6万件漏えいか 大和証券・シチズンと同じ委託先への不正アクセスで</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002099/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002099/" />
-    <updated>2026-10-07T17:27:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>損害保険ジャパンは10月7日、事業者向け通信機能付きドライブレコーダー「SMILING ROAD」の問い合わせ対応で使っている外部委託先のシステムが不正アクセスを受け、顧客情報が漏えいした可能性があると発表した。SMILING ROADを導入した企業の従業員らが寄せた問い合わせ延べ約6万件が対象。 漏えいした可能性があるのは...</summary>
   </entry>
 </feed>
