@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T19:00:15.362708+09:00</updated>
+  <updated>2026-10-08T19:30:15.700266+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SynthID Detector</title>
+    <id>https://synthid.com/</id>
+    <link href="https://synthid.com/" />
+    <updated>2026-10-08T11:11:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>SynthID Detector</summary>
+  </entry>
   <entry>
     <title>ヤマト、箱ごと溶解して機密文書を処理 「ECOBox」個人向けを全国展開</title>
     <id>https://www.watch.impress.co.jp/docs/news/2146734.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-07T20:07:32+09:00</updated>
     <category term="はてブ IT" />
     <summary>生成AIによる画像生成能力はますます進化しており、まるで人間のイラストレーターやマンガ家が描いたような画像を容易に生成することが可能です。ハーバード大学のジャーナリズム機関であるNieman Jounalism Labが、OpenAIのChatGPTが生成したマンガに「実在するマンガ家の署名」が含まれていると報じました。 ChatGPT i...</summary>
-  </entry>
-  <entry>
-    <title>AIによって開発されたオープンソースのAIアクセラレータ「openTPU」が登場</title>
-    <id>https://gigazine.net/news/20261007-opentpu/</id>
-    <link href="https://gigazine.net/news/20261007-opentpu/" />
-    <updated>2026-10-07T19:10:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIを使ってAI向けハードウェアを設計するオープンソースプロジェクト「openTPU」が公開されています。openTPUは、AIモデルを高速に動かすための専用アクセラレーターをAIエージェントも活用しながら開発する試みで、Qwen3やQwen3.5、Gemma 4など複数の言語モデルを実際のFPGAカード上で動かすことに成功しています。 Git...</summary>
   </entry>
 </feed>
