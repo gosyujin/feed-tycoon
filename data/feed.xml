@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T20:30:14.440321+09:00</updated>
+  <updated>2026-10-08T21:00:15.043628+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>オープンソースAIエージェント「Hermes Agent」が2400万回以上ダウンロードされる人気に、開発元のNous Researchが約142億円を調達して企業向け事業を拡大</title>
+    <id>https://gigazine.net/news/20261008-nous-research-fundraise/</id>
+    <link href="https://gigazine.net/news/20261008-nous-research-fundraise/" />
+    <updated>2026-10-08T17:21:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オープンソースのAIエージェント「Hermes Agent」を開発するNous Researchが2026年10月7日に9000万ドル(約142億円)の資金調達を発表しました。企業評価額は15億ドル(約2370億円)に達しており、調達した資金を活用して企業向けの「Hermes for Businesses」の開発を進めるとのことです。 A Note on Our Fundraise | Nous…</summary>
+  </entry>
+  <entry>
+    <title>AIが書いたコードを目視で追うのはやめよう──「工場の品質検査」から考えるこれからのコードレビュー | パーティーハード株式会社</title>
+    <id>https://ptyhard.co.jp/blog/2026/10/code-review</id>
+    <link href="https://ptyhard.co.jp/blog/2026/10/code-review" />
+    <updated>2026-10-08T16:01:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Claude Code や Codex などの生成AIツールが開発現場に導入され、コードの初稿を作成する時間は短縮されました。しかし、コードの生成速度が向上した一方で、プルリクエストのレビュー待ちが滞留し、テックリードや開発責任者が疲弊する現場が増えています。 AIコーディングが引き起こすレビューの滞留たとえばCRUD処理...</summary>
+  </entry>
+  <entry>
+    <title>AI学習用に書籍を大量販売、適法でも出版社反発 業界ルール望む声 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUC070XP0X01C26A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC070XP0X01C26A0000000/" />
+    <updated>2026-10-07T22:26:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>人工知能（AI）開発の米アンソロピックが、出版取次大手から大量の書籍を購入していたことが波紋を広げている。日米の著作権法上、紙の本をAI学習に使うことは適法となることが多い。出版社が強く反発する中、対価を得られるルールや仕組みづくりを求める声があがる。アンソロピック「書籍調達、一般的な手法」取次大手...</summary>
+  </entry>
   <entry>
     <title>【速報】ローソンに不正アクセス、215万件漏えい</title>
     <id>https://www.47news.jp/15055808.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-07T19:59:42+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026/10/07 「良い職歴書の書き方」勉強会 https://forkwell.connpass.com/event/407263/</summary>
-  </entry>
-  <entry>
-    <title>ClaudeがGoogleドキュメントやGoogleスプレッドシートと接続可能に</title>
-    <id>https://gigazine.net/news/20261007-claude-for-google-workspace/</id>
-    <link href="https://gigazine.net/news/20261007-claude-for-google-workspace/" />
-    <updated>2026-10-07T13:45:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Anthropicが、Claude向けのアドオン「Claude for Google Workspace」をパブリックベータとしてリリースしました。GoogleドキュメントやGoogleスプレッドシート、GoogleスライドにClaudeを接続して直接ファイルを編集できます。 Claude - Google Workspace Marketplace https://workspace.googl…</summary>
-  </entry>
-  <entry>
-    <title>AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表</title>
-    <id>https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html</id>
-    <link href="https://www.publickey1.jp/blog/26/awsduckdbaurora_postgresqletl.html" />
-    <updated>2026-10-08T00:52:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AWS、DuckDBをAurora PostgreSQLに統合。ETL不要で直接データレイクを読み取り可能にしたと発表 Amazon Web Services（AWS）は、Amazon Aurora PostgreSQLにDuckDBを統合し、Apache Icebergなどで構築したデータレイクのデータを直接読み取って処理できるようになったことを発表しました。 これまでPostgreSQLにデー…</summary>
-  </entry>
-  <entry>
-    <title>最近のmacOSは変な変換候補をバシバシ出してくる、どうすればそうなるんですか？→ATOKやazooKeyなどIMEの変更を考えた方がいいと情報が集まる</title>
-    <id>https://togetter.com/li/2755259</id>
-    <link href="https://togetter.com/li/2755259" />
-    <updated>2026-10-07T20:56:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>最近のmacOSは変な変換候補をバシバシ出してくる、どうすればそうなるんですか？→ATOKやazooKeyなどIMEの変更を考えた方がいいと情報が集まる</summary>
   </entry>
 </feed>
