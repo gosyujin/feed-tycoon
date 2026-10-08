@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-08T08:30:18.434162+09:00</updated>
+  <updated>2026-10-08T09:00:15.105777+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>[AWS 秋のクラウドオペレーション祭り 2026]AWS DevOps Agentで変わる�リリースと運用対応� ~リリース管理機能と� Directed actions のご紹介~</title>
+    <id>https://speakerdeck.com/furuton/aws-aki-no-matsuri-2026-aws-devops-agent-de-kawaru-ririsu-to-unyou-ririsu-kanri-kinou-to-directed-actions-no-goshoukai</id>
+    <link href="https://speakerdeck.com/furuton/aws-aki-no-matsuri-2026-aws-devops-agent-de-kawaru-ririsu-to-unyou-ririsu-kanri-kinou-to-directed-actions-no-goshoukai" />
+    <updated>2026-10-07T23:50:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月7日に実施した "AWS 秋のクラウドオペレーション祭り 2026 〜AI をクラウド運用にも活用しよう〜" にて発表させて頂いた際の資料です https://aws-experience.com/apj/smb/event/fa8c49a0-d540-4525-a043-31c…</summary>
+  </entry>
   <entry>
     <title>2026年 情報漏洩Tier表</title>
     <id>https://ai.itokoba.com/security-tier/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-07T08:20:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>This repository contains mathematical manuscripts and supporting proof artifacts produced by an internal OpenAI model. As part of model development, we evaluate our models on open research problems. W…</summary>
-  </entry>
-  <entry>
-    <title>iOSアプリ開発でGit Worktreeを使ってもCompilation Cacheを効かせたい</title>
-    <id>https://zenn.dev/sryu/articles/worktree-compilation-cache</id>
-    <link href="https://zenn.dev/sryu/articles/worktree-compilation-cache" />
-    <updated>2026-10-07T02:15:27+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Coding Agent主軸での開発をするようになってから、Git Worktreeを使う機会が増えました。 しかし、iOSアプリ開発では、worktreeを切るとDerivedDataのpathが変わるため、Clean Buildをすることになります。 そこで今回は、iOSアプリ開発でworktreeを切っても、Compilation Cacheを再利用してビルドする方法について解説します。 X…</summary>
   </entry>
 </feed>
