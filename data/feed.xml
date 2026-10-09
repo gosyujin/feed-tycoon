@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T00:30:14.928077+09:00</updated>
+  <updated>2026-10-10T01:00:13.806630+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ドコモの顧客情報1億件超がダークウェブに？ 同社「流出は確認していない」</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002177/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002177/" />
+    <updated>2026-10-09T22:59:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NTTドコモは10月9日、同社の「dポイント」に関連する約1億1000万件の顧客情報がダークウェブ上で販売されているとするSNS上の投稿について、調査の結果、同様の事実は確認していないと発表した。 Xでは8日ごろから、dポイントの顧客情報がサイバー攻撃によって流出し、ダークウェブ上で販売されているとする投稿が拡散し...</summary>
+  </entry>
+  <entry>
+    <title>RailsプロダクトにおけるDDD試験導入のリアル — なぜ本格採用を見送り、ActiveRecord中心の設計を選択したのか - stmn tech blog</title>
+    <id>https://tech.stmn.co.jp/entry/2026/10/09/121328</id>
+    <link href="https://tech.stmn.co.jp/entry/2026/10/09/121328" />
+    <updated>2026-10-09T13:34:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>スタメンでCTOしております、@tnir (X: @takuya_stmn, note: @takuya_stmn) です。 2023年9月、スタメン技術ブログで次の記事を公開しました。 ドメイン駆動設計は何を解決する手法なのか 記事では、TUNAG の技術的負債解消に向けてドメイン駆動設計（DDD）の導入を検討している、と書きました。その後の対外的な印象と...</summary>
+  </entry>
   <entry>
     <title>国家サイバー統括室、情報漏えい対策を呼びかけ 委託先管理や不要データ削除も</title>
     <id>https://www.watch.impress.co.jp/docs/news/2147073.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-09T02:45:45+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \in \mathbb{R}^{N_x}と y_1, \dot y_1 \in \mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \dot y_1) と与えられていて…</summary>
-  </entry>
-  <entry>
-    <title>【重要】当社よりお送りした「個人情報の流出に関するお知らせ」メールについて | 株式会社アドベンチャー</title>
-    <id>https://jp.adventurekk.com/news/apology-unauthorized-access-data-leak/</id>
-    <link href="https://jp.adventurekk.com/news/apology-unauthorized-access-data-leak/" />
-    <updated>2026-10-08T22:58:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月8日 株式会社アドベンチャー 本日、当社は一部のお客様に対し、「【重要】不正アクセスによるお客様情報流出のお詫びとパスワード変更のお願い / [Important] Apology for Information Leak Due to Unauthorized Access and Request to Change Your Password」という件名の電子メールをお送りいた…</summary>
-  </entry>
-  <entry>
-    <title>「ELYZA-Thinking-1.0-llm-jp-4」シリーズの学習方法と評価結果</title>
-    <id>https://zenn.dev/elyza/articles/79a3d4ed4be915</id>
-    <link href="https://zenn.dev/elyza/articles/79a3d4ed4be915" />
-    <updated>2026-10-08T18:03:14+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに ELYZA RSI Researchの趙、Ma、遠田です。 ELYZAは、AIがAI自身の能力や開発プロセスを反復的に改善する「再帰的自己改善（Recursive Self-Improvement, RSI）」に向けた研究開発組織として、ELYZA RSI Research を設立しました。ELYZA RSI Researchでは、「AIによるAI開発」に取り組んでおり、安全性に配慮した…</summary>
   </entry>
 </feed>
