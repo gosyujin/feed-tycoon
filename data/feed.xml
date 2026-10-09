@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-09T16:00:18.099706+09:00</updated>
+  <updated>2026-10-09T16:30:15.105291+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>JR東、「えきねっと」などで漏えいか メルアドなど最大206万件 IDCFクラウドへの不正アクセスで</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002171/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002171/" />
+    <updated>2026-10-09T15:26:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JR東日本は10月9日、列車予約サービス「えきねっと」と会員制サービス「大人の休日倶楽部」のにおいて、最大約206万件の利用者情報が漏えいした可能性があると発表した。7日にIDCフロンティアが公表した不正アクセスが原因で、メール配信用の外部サービスに保存していた利用者の情報が第三者に閲覧・取得された恐れがあ...</summary>
+  </entry>
+  <entry>
+    <title>免許写真で口座開設、金融庁が廃止前倒しを要請 サイバー攻撃多発で - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUB0916F0Z01C26A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUB0916F0Z01C26A0000000/" />
+    <updated>2026-10-09T14:32:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>金融庁は9日、サイバー攻撃による大規模な個人情報漏洩が多発しているのを受けて金融機関に対策の強化を要請した。銀行などの口座開設にあたって運転免許証といった身分証明書の撮影を通じた本人確認を止め、マイナンバーカードなどのICチップの読み取りに移行するよう求める。9日付で銀行や証券、保険会社に注意喚起し...</summary>
+  </entry>
+  <entry>
+    <title>これには驚いた！ 今度はExcelやWordやPower Pointをオープンソースで再構築、Win、Mac、Linux、Web対応で無料</title>
+    <id>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html</id>
+    <link href="https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/3-microsoft-apps-open-sourced.html/index.html" />
+    <updated>2026-10-09T14:32:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデートしている中、なんとExcelやWordやPower Pointも同様にMicrosoftのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に...</summary>
+  </entry>
+  <entry>
+    <title>音声対話のための音声合成・音声認識エンジン、speech.cppを作ってみた話</title>
+    <id>https://nyosegawa.com/posts/speech-cpp/</id>
+    <link href="https://nyosegawa.com/posts/speech-cpp/" />
+    <updated>2026-10-09T12:37:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は音声対話のために作った音声合成と音声認識のエンジン、speech.cppについてまとめていきたいと思います。 作ったもの speech.cppは、音声合成と音声認識のモデルをggmlの上で動かすC++のエンジンです。MacではMetal、WindowsとLinuxではVulkanでGPUを使い、GPUがなけ...</summary>
+  </entry>
   <entry>
     <title>IDCフロンティア社で発生した不正アクセスに伴うメール配信用外部サービスからのメールアドレス等の漏えい可能性について</title>
     <id>https://www.jreast.co.jp/press/2026/20261009_ho02.pdf</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-08T13:31:08+09:00</updated>
     <category term="はてブ IT" />
     <summary>Microsoftがローカルでの実行を念頭に開発したAIモデル「MAI-Code-1.1-Flash」を発表しました。また、WindowsのAI機能を強化してPC上でローカル実行するAIとクラウド上で動作するAIを組み合わせた「Hybrid Intelligence(ハイブリッドインテリジェンス)」を実現する姿勢も示しています。 Building Windows for hybrid int...</summary>
-  </entry>
-  <entry>
-    <title>AI生成画像やAI生成動画を見分けるGoogleサービス「SynthID Detector」が誰でも使用可能に、Google・OpenAI・AppleのどのAIかも判別可能</title>
-    <id>https://gigazine.net/news/20261008-synth-id-ai-content/</id>
-    <link href="https://gigazine.net/news/20261008-synth-id-ai-content/" />
-    <updated>2026-10-08T13:30:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GoogleはAIで生成されたコンテンツを迅速かつ効率的に識別するための検証ポータル「SynthID Detector」を2025年5月に発表しました。これまではテスター向けに限定公開されていましが、2026年10月7日に一般公開されて誰でも利用可能となったので実際に使ってみました。 SynthID Detector https://synthid.com/ Google exp...</summary>
-  </entry>
-  <entry>
-    <title>サイバー攻撃 SKE48のファン向けメールサービス利用できず | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261008de56796</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261008de56796" />
-    <updated>2026-10-08T20:36:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ソフトバンク子会社のクラウドサービスがサイバー攻撃を受けた影響で、名古屋・栄を拠点にするアイドルグループ「SKE48」のファン向けのメールサービスが利用できなくなっていることが分かりました。 ソフ…</summary>
-  </entry>
-  <entry>
-    <title>世界の猫好きに「デジタル上のアイデンティティ」を インターリンク、新ドメイン「.neko」をICANNに申請</title>
-    <id>https://prtimes.jp/main/html/rd/p/000000603.000006942.html</id>
-    <link href="https://prtimes.jp/main/html/rd/p/000000603.000006942.html" />
-    <updated>2026-10-08T19:17:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>株式会社インターリンク（以下インターリンク）は、子会社である株式会社インターリンクシステム創成研究所（以下ISII）が、ICANN（Internet Corporation for Assigned Names and Numbers）が実施する新gTLDプログラム「2026 Round」において、新たなトップレベルドメイン（TLD）「.neko」を申請したことをお知らせしま...</summary>
-  </entry>
-  <entry>
-    <title>Web制作者は要チェック！ 余分なマージンを取り除くmargin-trimプロパティなど、Chrome 155で追加されたCSSの新機能</title>
-    <id>https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html/index.html</id>
-    <link href="https://coliss.com/wp-content/cache/all/articles/build-websites/operation/work/chrome-155-adds-4-new-css-feature.html/index.html" />
-    <updated>2026-10-08T09:32:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>10/7にアップデートされたChrome 155に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目すべきは、カウンターのスタイルをインラインで定義できるsymbols()関数、装飾線の見栄えをよくするtext-decoration-skip-spacesプロパティ、コンテナ内の余分なマージンを取り除くmargin-trimプロパ...</summary>
   </entry>
 </feed>
