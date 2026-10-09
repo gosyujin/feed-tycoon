@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-09T08:30:14.050183+09:00</updated>
+  <updated>2026-10-09T09:00:13.389761+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ローソン、215万件の個人情報漏えい 「ユーザー本人に情報を表示する機構」に不正アクセス</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002148/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002148/" />
+    <updated>2026-10-09T08:21:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ローソンは10月8日、ローソンのアプリやWEBサービスを利用するための共通アカウント「ローソンID」が第三者による不正アクセスを受け、215万5345件分の個人情報が漏えいしたと発表した。メールアドレスと氏名のほか、プレゼントの応募などで入力していた場合は性別、電話番号、住所、メルマガ取得情報も漏れた。 加えて...</summary>
+  </entry>
+  <entry>
+    <title>IDCFクラウド障害、顧客データ「取り出し・復元困難」 復元は顧客側のバックアップ頼み</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002147/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002147/" />
+    <updated>2026-10-09T08:07:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>対象は「tesla」「henry」「pascal」「joule」の4ゾーンで、顧客は495の企業や自治体に及ぶ。7日午前3時40分ごろから障害が継続。仮想サーバが停止し、再起動もできなくなっている。 同社は4ゾーンの利用者に対し、別環境を準備して再構築を案内しているが、データの復元は、「お客様が保持しているバックアップデータか...</summary>
+  </entry>
+  <entry>
+    <title>不正アクセスが世界で急増、9月以降に情報漏洩3億人 攻撃にAIの影 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUC0728W0X01C26A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC0728W0X01C26A0000000/" />
+    <updated>2026-10-09T06:22:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>世界で不正アクセスが急増している。9月からの約1カ月間で、少なくとも延べ3億人超の個人情報の漏洩が公表されたことが8日、わかった。人工知能（AI）の関与が疑われる事例があった。防御側もAIを生かして脅威に備えることが必要となる。9月以降、10万人以上の個人情報漏洩が明らかとなった事案を日本経済新聞が集計した...</summary>
+  </entry>
+  <entry>
+    <title>OpenAI 数学研究カタログ — 日本語訳</title>
+    <id>https://files.catbox.moe/0d0xl7.pdf</id>
+    <link href="https://files.catbox.moe/0d0xl7.pdf" />
+    <updated>2026-10-07T22:44:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>MATHEMATICS OpenAI OpenAI 数学研究カタログ 日本語訳 722原稿にまとめられた372の成果群 2026年10月6日 論文集の概要。成果は分野別にまとめてあり、項目番号はカタログ内の順序に従い、順位を示すものでは ない。各概要の後に論文PDFへのリンクを示す。 訳について：添付された overview.pdf の全項目の見出しと概要...</summary>
+  </entry>
   <entry>
     <title>判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用） - Qiita</title>
     <id>https://qiita.com/kikuziro/items/6191b5ad83520d181f38</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-08T09:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>1.はじめに データアナリティクスラボ株式会社 データソリューション事業部の藤田です。 今回は三次元再構成の基礎的な内容の記事を執筆いたしました。 本記事では、「三次元再構成とは何か？」 や 「どのような流れで行われるのか？」 などの基礎的な知識に加えて、「なぜ再構成が可能なのか？」 の原理についても数式を交えて解説していきます。 2.三次元再構成とは 皆さんは日ごろからスマホやカメラで写真を撮る…</summary>
-  </entry>
-  <entry>
-    <title>APIセキュリティ、どこから見直す？ OWASPとNISTを使った点検の始め方 - 赤帽エンジニアブログ</title>
-    <id>https://rheb.hatenablog.com/entry/2026/10/07/235338</id>
-    <link href="https://rheb.hatenablog.com/entry/2026/10/07/235338" />
-    <updated>2026-10-08T07:54:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。レッドハットコンサルティングチームの木嶋です。 最近ニュースでは、情報漏洩事件が日々話題になっていますね。 AIの高度化に伴い、攻撃側によるAIの活用についても報告されるようになりました。 話題に上がる事件の中には、APIが攻撃経路の一つとなったと考えられるケースも含まれています。 この機会に今...</summary>
-  </entry>
-  <entry>
-    <title>Snowflake Agent Identity 徹底解説</title>
-    <id>https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction</id>
-    <link href="https://zenn.dev/finatext/articles/snowflake-agent-identity-introduction" />
-    <updated>2026-10-08T07:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは！ナウキャストのデータエンジニアのけびんです。 Claude Code のようなコーディングエージェントから Snowflake を触る機会が増えてきました。便利な一方で、接続には 人間ユーザーのキーペアや PAT をそのままエージェントに渡している ケースもあるのではないでしょうか。 この方法では、Snowflake から見るとエージェントの操作は人間の操作と区別できず、エー…</summary>
-  </entry>
-  <entry>
-    <title>プレス発表 令和8年度前期試験の申込受付におけるアクセス集中による障害発生について | プレスリリース | IPA 独立行政法人 情報処理推進機構</title>
-    <id>https://www.ipa.go.jp/pressrelease/2026/press20261008.html</id>
-    <link href="https://www.ipa.go.jp/pressrelease/2026/press20261008.html" />
-    <updated>2026-10-08T09:15:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>10月6日（火曜日）に発生した情報処理技術者試験・情報処理安全確保支援士試験の令和8年度前期試験の申込受付でのアクセス集中によるシステム負荷の影響によって、一部の受験申込みにおいて正しい処理が行われていないことが判明いたしました。 お申込みされた皆様には、多大なご迷惑とご心配をおかけしておりますこと、...</summary>
-  </entry>
-  <entry>
-    <title>国際的ハッカー集団「Qilin」中心メンバーを大阪で拘束 ドイツ当局に身柄を引き渡し</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/07/2000002093/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/07/2000002093/" />
-    <updated>2026-10-07T17:22:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>企業などを標的にサイバー攻撃を繰り返す「Qilin（キーリン）」と名乗る国際的ハッカー集団の中心メンバーとみられるロシア国籍の男（28）を、日本の捜査当局が大阪市内で拘束していたことが10月6日、関係者への取材で分かった。日本側は同月、男を捜査しているドイツ側に身柄を引き渡した。 関係者によると、男は2024年...</summary>
   </entry>
 </feed>
