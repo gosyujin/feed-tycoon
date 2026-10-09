@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T01:00:13.806630+09:00</updated>
+  <updated>2026-10-10T01:30:15.120981+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Deno is joining Cloudflare</title>
+    <id>https://blog.cloudflare.com/deno-joins-cloudflare/</id>
+    <link href="https://blog.cloudflare.com/deno-joins-cloudflare/" />
+    <updated>2026-10-09T22:25:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The Deno team is joining Cloudflare to radically simplify self-hosting Workers and Durable Objects so developers can use the same primitives in more places. For what this means and how it came about,…</summary>
+  </entry>
+  <entry>
+    <title>ヤマハ・スズキも漏えいか 交流サイト基盤「コミューン」不正アクセス、計30万会員に影響の恐れ</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002178/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002178/" />
+    <updated>2026-10-09T19:40:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オンラインコミュニティー作成サービスを手掛けるコミューン（東京都品川区）は10月9日、「Commune」「Commune for Work」といったサービスが不正アクセスを受け、約30万7000会員分の情報が漏えいした可能性があると発表した。同社のサービスを使って交流サイトを運営していたスズキやヤマハもそれぞれ影響を公表してい...</summary>
+  </entry>
+  <entry>
+    <title>Microsoft 365の「Family」と「Premium」プランでOneDriveの容量が「1人1TB×最大6人」から「全員で2TB」に減少</title>
+    <id>https://gigazine.net/news/20261009-microsoft-cloud-storage/</id>
+    <link href="https://gigazine.net/news/20261009-microsoft-cloud-storage/" />
+    <updated>2026-10-09T14:38:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Microsoft 365 FamilyおよびPremiumサブスクリプションに登録している場合、最大5人まで他のユーザーとサブスクリプションを共有することが可能で、各ユーザー1TBずつ合計6TBのOneDriveクラウドストレージが利用できました。Microsoftは2026年10月8日にサポート文書を変更し、Microsoft 365 FamilyまたはPremiumのユーザ...</summary>
+  </entry>
   <entry>
     <title>ドコモの顧客情報1億件超がダークウェブに？ 同社「流出は確認していない」</title>
     <id>https://www.itmedia.co.jp/news/article/2610/09/2000002177/</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-06T13:17:02+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに どの時代にも「ああ、あの頃のやつね」と一目でバレるデザインがある。 2000年前後ならワードアートの虹色文字、2010年代ならパワポのデフォルトテンプレート、そして2024年以降はAIが量産する紫グラデーションと角丸カード。 ただ、流行したデザインがそのまま嫌われるわけではない。スキューモーフィズムのように、当時は愛されていて今見ると懐かしいだけのものもある。 嫌われるのは、流行が考えな…</summary>
-  </entry>
-  <entry>
-    <title>PS5のゲームをWindowsとLinuxでプレイ可能にするオープンソースのツール「AnyPS5」</title>
-    <id>https://gigazine.net/news/20261009-anyps5/</id>
-    <link href="https://gigazine.net/news/20261009-anyps5/" />
-    <updated>2026-10-09T07:04:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AnyPS5はPlayStation 5(PS5)のゲームをLinuxおよびWindowsでプレイ可能にすることを目的としたツールです。AnyPS5はエミュレーションや独立したランタイムプロセスを必要とせず、PS5のゲームをターゲットシステムのネイティブフォーマットに変換するリリンカーと、動的リンクに適したシステムPRXライブラリによって構成...</summary>
-  </entry>
-  <entry>
-    <title>ブックオフグループ 最大で643万件の会員情報漏えいの可能性 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261009de56955</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261009de56955" />
-    <updated>2026-10-09T08:56:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>中古書籍の販売などを手がける「ブックオフグループホールディングス」は、子会社が提供する会員情報を管理するシステムに不正アクセスがあり、最大で643万件の会員の情報が漏えいした可能性があると発表しました…</summary>
-  </entry>
-  <entry>
-    <title>半陽的微分代数方程式の解を微分する：VJP編</title>
-    <id>https://zenn.dev/wheatear11/articles/c293bb49ad3ae7</id>
-    <link href="https://zenn.dev/wheatear11/articles/c293bb49ad3ae7" />
-    <updated>2026-10-09T02:45:45+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \in \mathbb{R}^{N_x}と y_1, \dot y_1 \in \mathbb{R}^{N_y}の関数として J = J(x_1, y_1, \dot y_1) と与えられていて…</summary>
   </entry>
 </feed>
