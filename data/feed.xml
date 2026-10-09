@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-09T14:30:12.365504+09:00</updated>
+  <updated>2026-10-09T15:00:16.087855+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>金融庁、本人確認の「ICチップ一本化」へ早期移行を要請 免許証画像の漏えい相次ぎ</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002166/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002166/" />
+    <updated>2026-10-09T13:46:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>金融庁は10月9日、不正アクセスで運転免許証など本人確認書類の画像を含む顧客情報の漏えいが相次いでいるとして、オンラインで完結する本人確認（eKYC）について、ICチップ読み取りへの早期移行を求めた。 政府は犯罪収益移転防止法施行規則の改正により、27年4月1日から本人確認書類の画像送信を受ける方法は廃止し、...</summary>
+  </entry>
+  <entry>
+    <title>急増する不正アクセスにJPCERTが注意喚起 寄せられた情報から判明した「攻撃傾向」とは</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002156/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002156/" />
+    <updated>2026-10-09T11:27:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>不正アクセスによる個人情報の漏えいが、9月前後から国内で相次いでいる。被害の拡大を受け、サイバー攻撃への対応支援などを行うJPCERTコーディネーションセンター（JPCERT/CC）は10月8日、注意喚起を公表した。技術情報の共有不足を指摘した上で、普段から発生するランサムウェア攻撃などとは別に、特に増加している恐...</summary>
+  </entry>
   <entry>
     <title>格安航空券検索skyticket | スカイチケットで航空券検索比較</title>
     <id>https://skyticket.jp/news/maintenance/67603/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-08T20:09:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>ローソンは8日、アカウントサービス「ローソンID」に不正アクセスがあり、利用者の個人情報が漏えいしたと発表した。対象人数は約215万5千件に上る。</summary>
-  </entry>
-  <entry>
-    <title>KaggleっぽいSelf-Play RLの論文を紹介</title>
-    <id>https://zenn.dev/mkj/articles/generals-io-self-play-rl</id>
-    <link href="https://zenn.dev/mkj/articles/generals-io-self-play-rl" />
-    <updated>2026-10-08T11:50:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、松尾研究所の奥村です。 最近、Kaggleではシミュレーションコンペが相次いで開催されています（Orbit Wars、The Pokémon Company - PTCG AI Battle Challenge Simulation、Kaggriculture）。私もシミュレーションコンペが好きで、自分が提出したbotがリーダーボードを駆け上っていくのを眺めるのが楽しいです。…</summary>
-  </entry>
-  <entry>
-    <title>GCPとAWSの埋め込みモデル6つを比較して監視カメラ動画を日本語で検索する</title>
-    <id>https://zenn.dev/fusic/articles/89daab70352eb7</id>
-    <link href="https://zenn.dev/fusic/articles/89daab70352eb7" />
-    <updated>2026-10-08T11:39:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、Fusicの大宮です。 今回は、固定の監視カメラなどの映像から「ベンチから立ち上がって歩き出す人」「白い車が駐車場に入ってきて停まる様子」のように、日本語の文章で場面を探したいというテーマで技術検証をしました。 流れは以下の通りです。 動画を Gemini に渡して、5秒ごとの説明文を日本語で生成させる その説明文を埋め込みモデルでベクトルにする 日本語の質問文もベクトルにし…</summary>
   </entry>
 </feed>
