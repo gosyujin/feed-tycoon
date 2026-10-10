@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T10:30:13.666742+09:00</updated>
+  <updated>2026-10-10T11:00:13.410066+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ウチのAIは「有料フォント買いましょうか」と言い出したからフリーフォント探そうね？お財布は預けてないよ？と釘を刺したら、なんかフォント自作しよったわ</title>
+    <id>https://togetter.com/li/2756407</id>
+    <link href="https://togetter.com/li/2756407" />
+    <updated>2026-10-10T09:50:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はるか/C108土曜東2"ツ07b"＆日曜西1"と20b" @YT_HARUKA ウチのAIは有料フォント買いましょうかとか言い出したからお前にそんな権限は無いからね？フリーフォント探そうね？お財布は預けて無いよ？ って釘刺したら、なんかフォント自作しよったわ 2026-10-09 15:10:19</summary>
+  </entry>
+  <entry>
+    <title>CloudflareのDurable Objectsでデッドループして破産しないために知っておきたいこと</title>
+    <id>https://zenn.dev/karamage/articles/f1c3ef67dbd4b3</id>
+    <link href="https://zenn.dev/karamage/articles/f1c3ef67dbd4b3" />
+    <updated>2026-10-10T00:12:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>料金を大きく左右するのは、休眠（Hibernation）できるかどうかです。 条件を満たした状態で約10秒アイドルが続くと、オブジェクトは休眠しますし、休眠できないまま放置されたオブジェクトも、70〜140秒ほどでチェックアウトさせられます。 厄介なのは、未完了のI/Oや setTimeout 、 setInterval が残っている場合です...</summary>
+  </entry>
+  <entry>
+    <title>日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入</title>
+    <id>https://av.watch.impress.co.jp/docs/news/2147140.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/news/2147140.html" />
+    <updated>2026-10-09T21:18:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入</summary>
+  </entry>
+  <entry>
+    <title>ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2146983.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2146983.html" />
+    <updated>2026-10-09T14:40:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ローカルAIを持ち歩ける16型2in1、MSIのRTX Spark機が10月下旬発売</summary>
+  </entry>
   <entry>
     <title>バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？</title>
     <id>https://gigazine.net/news/20261010-data-backups-arent-simple/</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-09T12:36:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026/10/09 2026年10月9日 株式会社アドベンチャー このたび、当社が運営する比較予約サイト”skyticket”のシステムが第三者による不正アクセスを受け、お客様の個人情報が外部に流出したこと、または流出したおそれがあることが判明いたしました。お客様をはじめ関係者の皆様に多大なるご迷惑とご心配をおかけいたします...</summary>
-  </entry>
-  <entry>
-    <title>怪しいメールやSMSが届いたら、ChatGPTに「これって詐欺？」と聞いてみよう【読めば身に付くネットリテラシー】</title>
-    <id>https://internet.watch.impress.co.jp/docs/column/netliteracy/2146586.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/netliteracy/2146586.html" />
-    <updated>2026-10-09T12:10:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>怪しいメールやSMSが届いたら、ChatGPTに「これって詐欺？」と聞いてみよう【読めば身に付くネットリテラシー】</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントにMicrosoft Fabricを操作させる ― Fabric CLIとSkills for Fabric</title>
-    <id>https://zenn.dev/headwaters/articles/12175106cd8c79</id>
-    <link href="https://zenn.dev/headwaters/articles/12175106cd8c79" />
-    <updated>2026-10-09T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Claude Code のようなコーディングエージェントに Microsoft Fabric の開発を手伝わせようとすると、二つの問題があります。一つは操作の手段です。Fabric の操作は Web の画面で行うことが多いので、エージェントが端末から使える手段を別に用意する必要があります。もう一つは知識です。エージェントは、Fabric 固有の API の呼び方や、Notebook の定…</summary>
-  </entry>
-  <entry>
-    <title>Renovate の更新 PR を AI エージェントにレビューさせ、自動マージまでつなげる</title>
-    <id>https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346</id>
-    <link href="https://zenn.dev/greendrop/articles/2026-10-09-4664c51706f346" />
-    <updated>2026-10-09T07:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに AI エージェントが登場してから、作りたいものが増えていませんか。 アイデアを思いついてから動くものができるまでの時間が、大きく縮みました。仕事でも、機能追加がこれまでにないスピードで実装されていると感じます。少ない人数でできることが増えた結果、AI エージェントの登場前より、チームの人数が減っている現場もあるのではないでしょうか。 一方で、ライブラリのアップデートはどうでしょうか。 D…</summary>
-  </entry>
-  <entry>
-    <title>有線が届かないデスクトップPCをWi-Fi化した話</title>
-    <id>https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed</id>
-    <link href="https://zenn.dev/ultrasupara/articles/7daaaf4f7aceed" />
-    <updated>2026-10-08T22:10:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 有線LANが届かない部屋のデスクトップPC（Kali Linux）を、Wi-Fiでつなぐまでの記録です。 発端は、PCを置いた部屋までルーターからLANケーブルが届かなかったことです。「無線子機を買わないとかな」と思ったところから、手持ちの機材とターミナルの出力を頼りに環境を調べていきました。 結論から言うと、追加したのはPCIeのWi-Fiカード1枚だけでした。存在を把握していなかった…</summary>
   </entry>
 </feed>
