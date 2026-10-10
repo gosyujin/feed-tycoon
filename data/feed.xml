@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T06:00:13.447089+09:00</updated>
+  <updated>2026-10-11T06:30:13.388900+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ゼロトラストを導入していたはずのデジタル庁に不正アクセス……原因は導入後の「見えない借金」にあった</title>
+    <id>https://enterprisezine.jp/article/detail/25178</id>
+    <link href="https://enterprisezine.jp/article/detail/25178" />
+    <updated>2026-10-10T08:38:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「わが社はゼロトラスト導入済みです」──この言葉を、当方はここ7年で数え切れないほど聞いてきました。ゼットスケーラーで250社を超える企業のゼロトラスト実装ワークショップを主導し、日本企業の現場を間近に見てきた立場から申し上げると、この「導入済み」はかなり危うい言葉です。多くの場合、それはリモートアク...</summary>
+  </entry>
   <entry>
     <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
     <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
@@ -266,9 +274,9 @@
     <title>若手エンジニアに必要だと感じた「AIを使う力」</title>
     <id>https://zenn.dev/muit_techblog/articles/6ea28887c79457</id>
     <link href="https://zenn.dev/muit_techblog/articles/6ea28887c79457" />
-    <updated>2026-10-08T17:29:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニ…</summary>
+    <updated>2026-10-09T19:44:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...</summary>
   </entry>
   <entry>
     <title>スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-08T21:35:27+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに ブラウザーでドラムマシンを作るとき、サンプル音源を再生する方法だけが選択肢ではありません。音の波形をその場で計算すれば、音色の仕組みをコードにしながら、パラメーターを動かして音を変える体験も作れます。 この記事では、ブラウザー上で動く 2オペレーター FM（周波...</summary>
-  </entry>
-  <entry>
-    <title>Win32は死なズ #3 高DPIに対応させる</title>
-    <id>https://qiita.com/mamPol/items/7abef4a65d0e3d198adf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mamPol/items/7abef4a65d0e3d198adf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-08T19:23:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>最近のWindowsでWin32アプリを作るなら、高DPI対応はほぼ避けて通れません。 「Win32は死なズ」 第三回は高DPI対応をWin32で行う場合について書いてみようと思います。 この記事は厳密には、固定的な高DPI対応というより、モニターごとにDPIが変わる環...</summary>
   </entry>
 </feed>
