@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T21:30:13.598619+09:00</updated>
+  <updated>2026-10-10T21:39:41.840998+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -50,9 +50,9 @@
     <title>Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した</title>
     <id>https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles</id>
     <link href="https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles" />
-    <updated>2026-10-08T20:42:21+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 株式会社GENDA 開発部エンジニアの奥山です。 Claude Haiku 5.5 が出ました。 https://www.anthropic.com/claude-haiku-5-5 Haiku で effort を指定できるのは 5.5 が初めてで、単価は Haiku 4.5 のちょうど 1/10 になっています。 モデル input / output（per MTok） Sonnet…</summary>
+    <updated>2026-10-09T16:09:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>価格は公式の料金ページより。 Haiku 5.5 はプロンプトが 100,000 トークンを超えると $0.50 / $2.50 に上がります。 私は Claude Code のサブエージェントを .claude/agents/ に置いていて、そのうち 3 つを Sonnet 以下のモデルで動かしています。 テスト実行役の test-runner、調査役の code-explore、実装役の fa…</summary>
   </entry>
   <entry>
     <title>アンソロピックのAI、米警察に虚偽の情報提供 不正にビザ申請も - 日本経済新聞</title>
@@ -90,9 +90,9 @@
     <title>若手エンジニアに必要だと感じた「AIを使う力」</title>
     <id>https://zenn.dev/muit_techblog/articles/6ea28887c79457</id>
     <link href="https://zenn.dev/muit_techblog/articles/6ea28887c79457" />
-    <updated>2026-10-08T17:29:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニ…</summary>
+    <updated>2026-10-09T19:44:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...</summary>
   </entry>
   <entry>
     <title>スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か</title>
