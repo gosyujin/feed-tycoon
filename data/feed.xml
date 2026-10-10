@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T13:00:12.712589+09:00</updated>
+  <updated>2026-10-10T13:30:14.147911+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>コミューンの「Commune」への不正アクセスについてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/10/10/075729</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/10/075729" />
+    <updated>2026-10-10T08:22:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月9日、コミューンは、同社が運営する「Commune」「Commune for Work」が外部の第三者による不正アクセスを受け、一部のコミュニティで会員情報が外部の第三者に漏えいしたと公表しました。ここでは関連する情報をまとめます。 全コミュニティを停止 不正アクセスは2026年10月5日18時ごろに始まった。コミューン...</summary>
+  </entry>
+  <entry>
+    <title>委託先システムへの不正アクセスに伴う情報漏えいに関するお知らせとお詫び｜LINEヤフー株式会社</title>
+    <id>https://www.lycorp.co.jp/ja/privacy-security/announcement/020892/</id>
+    <link href="https://www.lycorp.co.jp/ja/privacy-security/announcement/020892/" />
+    <updated>2026-10-09T22:54:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>このたび、当社委託先であるコミューン株式会社提供のコミュニティプラットフォーム「Commune」において、第三者による不正アクセスが発生し、その影響により、当社の提供する事業者向けデスクリサーチツール「DS.INSIGHT」内のコミュニティ機能「DS.LAB」を利用している一部のユーザー情報が、閲覧・取得された可能性が...</summary>
+  </entry>
+  <entry>
+    <title>AI時代に、あえて「一人で全部」をやめる。SansanがPdMを5つの専門ロールに分ける理由 - Sansan Tech Blog</title>
+    <id>https://buildersbox.corp-sansan.com/entry/2026/10/09/130000</id>
+    <link href="https://buildersbox.corp-sansan.com/entry/2026/10/09/130000" />
+    <updated>2026-10-09T15:32:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIの発展によって、プロダクトマネジャー（以下PdM）が一人で担える仕事の範囲は広がっています。プロトタイプをつくり、コードを書き、顧客の声を整理し、Go-to-Marketまで考える。「これからは一人のPdMが、より多くを担う」。それがAI時代の定石に見えます。 Sansanが選んだのは、一見するとその流れに逆行する戦略で...</summary>
+  </entry>
   <entry>
     <title>「今回は違う」サイバー猛攻撃 企業はIT資産の総点検を - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUC0922R0Z01C26A0000000/</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-09T14:32:26+09:00</updated>
     <category term="はてブ IT" />
     <summary>今週はCrafting Appsの記事ばかりになっています。 Photoshopを再構築したオープンソース版「PhotoCraft」の日本語対応など、Adobeのアプリ7種類を毎日のようにアップデートしている中、なんとExcelやWordやPower Pointも同様にMicrosoftのコードを一切使用せずに、完全に新しいコードを使用して各アプリの機能を忠実に...</summary>
-  </entry>
-  <entry>
-    <title>音声対話のための音声合成・音声認識エンジン、speech.cppを作ってみた話</title>
-    <id>https://nyosegawa.com/posts/speech-cpp/</id>
-    <link href="https://nyosegawa.com/posts/speech-cpp/" />
-    <updated>2026-10-09T12:37:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は音声対話のために作った音声合成と音声認識のエンジン、speech.cppについてまとめていきたいと思います。 作ったもの speech.cppは、音声合成と音声認識のモデルをggmlの上で動かすC++のエンジンです。MacではMetal、WindowsとLinuxではVulkanでGPUを使い、GPUがなけ...</summary>
-  </entry>
-  <entry>
-    <title>IDCフロンティア社で発生した不正アクセスに伴うメール配信用外部サービスからのメールアドレス等の漏えい可能性について</title>
-    <id>https://www.jreast.co.jp/press/2026/20261009_ho02.pdf</id>
-    <link href="https://www.jreast.co.jp/press/2026/20261009_ho02.pdf" />
-    <updated>2026-10-09T15:08:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2 0 2 6 年 1 0 月 9 日 東日本旅客鉄道株式会社 IDC フロンティア社で発生した不正アクセスに伴うメール配信用外部サービスからの メールアドレス等の漏えい可能性について このたび、IDC フロンティア社で発生した不正アクセスに伴い、えきねっと会員・大人 の休日倶楽部会員へのメール配信用外部サービスが一部使用で...</summary>
-  </entry>
-  <entry>
-    <title>国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す | 株式会社サイバーセキュリティクラウド</title>
-    <id>https://www.cscloud.co.jp/news/report/202610099351/?lang=en</id>
-    <link href="https://www.cscloud.co.jp/news/report/202610099351/?lang=en" />
-    <updated>2026-10-09T13:50:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026.10.09 国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す 公開日：2026年10月9日 セキュリティインテリジェンス本部 西川 彰 2026年9月前後から国内組織で相次いでいる不正アクセス事案に関連し、株式会社マクニカが公開した「重点...</summary>
   </entry>
 </feed>
