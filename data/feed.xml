@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T10:00:08.464829+09:00</updated>
+  <updated>2026-10-10T10:30:13.666742+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>バックアップはなぜ難しいのか、ファイルをコピーするだけでは済まない理由とは？</title>
+    <id>https://gigazine.net/news/20261010-data-backups-arent-simple/</id>
+    <link href="https://gigazine.net/news/20261010-data-backups-arent-simple/" />
+    <updated>2026-10-10T09:02:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>故障や操作ミスなどによって大切なデータが失われることがあるため、日頃からバックアップを取っておくことは重要です。しかし、データのバックアップは単にファイルを別の場所にコピーするだけでは十分とは限りません。ソフトウェアエンジニアのアレクサンダル・フィリポフスキー氏が、バックアップの仕組みを整えるに...</summary>
+  </entry>
+  <entry>
+    <title>脆弱性情報を入手するPowerShellコマンドで即座に情報収集する</title>
+    <id>https://news.mynavi.jp/techplus/article/20261009-5099943/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20261009-5099943/" />
+    <updated>2026-10-09T18:33:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ITが浸透するにつれ、毎日のようにセキュリティに関する情報が飛び交うが、多くがソフトウェアの脆弱性に起因する。OSですら毎月のように懸念される脆弱性を防ぐための更新プログラムなどのパッチを提供しているが、新しく発見される脆弱性とそれを防ぐ世界各地の研究者との攻防は毎日のように繰り広げられている。 1980...</summary>
+  </entry>
   <entry>
     <title>知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」</title>
     <id>https://togetter.com/li/2756400</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-08T22:10:50+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 有線LANが届かない部屋のデスクトップPC（Kali Linux）を、Wi-Fiでつなぐまでの記録です。 発端は、PCを置いた部屋までルーターからLANケーブルが届かなかったことです。「無線子機を買わないとかな」と思ったところから、手持ちの機材とターミナルの出力を頼りに環境を調べていきました。 結論から言うと、追加したのはPCIeのWi-Fiカード1枚だけでした。存在を把握していなかった…</summary>
-  </entry>
-  <entry>
-    <title>Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した</title>
-    <id>https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles</id>
-    <link href="https://zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles" />
-    <updated>2026-10-08T20:42:21+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 株式会社GENDA 開発部エンジニアの奥山です。 Claude Haiku 5.5 が出ました。 https://www.anthropic.com/claude-haiku-5-5 Haiku で effort を指定できるのは 5.5 が初めてで、単価は Haiku 4.5 のちょうど 1/10 になっています。 モデル input / output（per MTok） Sonnet…</summary>
-  </entry>
-  <entry>
-    <title>Codex+エージェント群で構築した自律型開発ループ：ロリポップ！AIゲートウェイ開発の舞台裏 - Pepabo Tech Portal</title>
-    <id>https://tech.pepabo.com/2026/10/09/ai-gateway/</id>
-    <link href="https://tech.pepabo.com/2026/10/09/ai-gateway/" />
-    <updated>2026-10-09T12:16:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年度に新卒エンジニアとして入社しました、ロリポップ・ムームードメイン事業部 第一事業開発チームのゆっきーです。8月25日にリリースした「ロリポップ！AIゲートウェイ」の開発を担当しています。 今回の開発では、Codex+エージェント群による自律的な開発ループを構築しました。人間が寝ている間もエージェントが...</summary>
   </entry>
 </feed>
