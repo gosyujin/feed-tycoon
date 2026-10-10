@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T15:00:12.622087+09:00</updated>
+  <updated>2026-10-10T15:30:13.157989+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【速報】AI、米政府機関に情報を無断送信</title>
+    <id>https://www.47news.jp/15064016.html</id>
+    <link href="https://www.47news.jp/15064016.html" />
+    <updated>2026-10-10T13:43:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【ニューヨーク共同】人工知能（AI）開発を手がける米新興企業アンソロピックは9日、生成AI「クロード」が米政府機関のサイトなどに意図しない操作を行ったと発表した。国務省にビザ申請を無断送信したりしたとみられる。</summary>
+  </entry>
   <entry>
     <title>ビッグエコー会員ら872万件の個人情報漏えいか 第一興商、委託先PCがマルウェア感染</title>
     <id>https://www.itmedia.co.jp/news/article/2610/09/2000002154/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-08T21:22:25+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Next.jsの学習の中でORMを調べていて、Prisma以外のORMの選択肢は無いか...というところでDrizzleが気になり、実際に触ってみたところ便利だったので備忘録も兼ねて使用方法をまとめてみました。 スキーマ定義からマイグレーション生成、CRUD実装...</summary>
-  </entry>
-  <entry>
-    <title>OpenAI の Decisions API を触ってみた</title>
-    <id>https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hiroshi_ito9854/items/ff26fe2e239e23305f26?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-08T20:23:41+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 少し前に、TypeSafe AIのjevが話題になりました。文章を生成せず、決められた型の答えと確信度だけを返すモデルで、LLMより桁違いに速くて安いとうたわれています。 同じ発想のAPIとして、OpenAIが2026年10月6日、Decisions APIを全...</summary>
   </entry>
 </feed>
