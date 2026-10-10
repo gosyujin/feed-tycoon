@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T16:00:14.456122+09:00</updated>
+  <updated>2026-10-10T16:30:14.401121+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「制約」がAIの判断のブレを抑制する。Goプログラムの生成で実験してみた。</title>
+    <id>https://qiita.com/shinchi-p/items/84bc4e25ea393be33880?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shinchi-p/items/84bc4e25ea393be33880?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T15:37:22+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>ULSパブリス 進地 です。 連載第一回、第二回では、それぞれ、業務知識を文章でAIに渡してみた結果、業務知識をGoの型と遷移表でAIに渡してみた結果をみてきました。 第一回: 差戻された申請は、もう一度出せますか？ AIの答えは「出せない」 第二回: 差戻したら、それまで...</summary>
+  </entry>
   <entry>
     <title>【速報】AI、米政府機関に情報を無断送信</title>
     <id>https://www.47news.jp/15064016.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-08T23:06:12+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>やったことと結論 Amazon EC2（t4g.xlarge）向けに公開された「Strands Decider ハンズオン」を、AWS Lambda MicroVMs 上の自作 code-server 環境へ移植し、一連の演習ステップを完走しました。 検証を通じて確認でき...</summary>
-  </entry>
-  <entry>
-    <title>Drizzleを使用したマイグレーション &amp; DB操作 + drizzle-orm/zodによるバリデーション</title>
-    <id>https://qiita.com/zuma_75/items/8161ba3d2ace88b50846?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/zuma_75/items/8161ba3d2ace88b50846?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-08T21:22:25+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Next.jsの学習の中でORMを調べていて、Prisma以外のORMの選択肢は無いか...というところでDrizzleが気になり、実際に触ってみたところ便利だったので備忘録も兼ねて使用方法をまとめてみました。 スキーマ定義からマイグレーション生成、CRUD実装...</summary>
   </entry>
 </feed>
