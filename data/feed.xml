@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T18:00:13.653726+09:00</updated>
+  <updated>2026-10-10T18:30:13.667812+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>個人情報漏洩が日常になってしまった世界でどうしていくべきか</title>
+    <id>https://nyosegawa.com/posts/data-leak-era/</id>
+    <link href="https://nyosegawa.com/posts/data-leak-era/" />
+    <updated>2026-10-10T16:36:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は個人情報がどんどん流出していく時代に、わたしたちは何をすればいいのかを考えていきたいと思います。 今週だけでも さいきん個人情報の漏洩のニュースが本当に多いです。10月7日から9日にかけては政府機関が相次いで「不正アクセスによる漏洩が続いている」と注意を...</summary>
+  </entry>
+  <entry>
+    <title>AI駆動開発の時代になったのでトヨタ生産方式から見直す</title>
+    <id>https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu</id>
+    <link href="https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu" />
+    <updated>2026-10-10T00:18:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。</summary>
+  </entry>
   <entry>
     <title>GitHub - jdx/jactionlint: :octocat: Static checker for GitHub Actions workflow files</title>
     <id>https://github.com/jdx/jactionlint</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-09T11:47:29+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Notion のチケットや Slack 上から Claude Code に仕事を依頼できる仕組みを、Claude Code Routines を使って実装し、チーム内で運用しています。 Claude Code Routines は、あらかじめ保存しておいたプロンプトで Claude Code のセッションをクラウド上に起動する機能です。API の呼び出しや、スケジュールでの定期実行、GitHub…</summary>
-  </entry>
-  <entry>
-    <title>印刷物基準の文字組みをウェブの世界で。日本デザインセンター様から生まれたiOS用文字組みエンジンをJavaScriptに移植しました。 | non-standard world株式会社</title>
-    <id>https://www.non-standardworld.co.jp/stone-engine-js/</id>
-    <link href="https://www.non-standardworld.co.jp/stone-engine-js/" />
-    <updated>2026-10-09T17:06:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>できることすべてこのページ上で実際に組まれています。文字にマウスを乗せると赤くなるのは、1文字ずつがSVGの要素になっているからです。 縦書きと縦中横2 桁以下の数字は正体で並べ、3 桁以上の数字と英字は 90 度回転します。句読点や括弧は縦組み用のグリフに置き換わります。 コードを見る&lt;StoneText direction="t...</summary>
-  </entry>
-  <entry>
-    <title>JR東日本「えきねっと」「大人の休日倶楽部」で個人情報約206万件が漏えいの可能性、IDCFクラウドへの攻撃の影響で</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2147170.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2147170.html" />
-    <updated>2026-10-09T16:23:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JR東日本「えきねっと」「大人の休日倶楽部」で個人情報約206万件が漏えいの可能性、IDCFクラウドへの攻撃の影響で</summary>
   </entry>
 </feed>
