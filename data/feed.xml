@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T19:30:12.471931+09:00</updated>
+  <updated>2026-10-10T20:00:14.224437+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>分析の民主化を支えるメタデータ整備の実践</title>
+    <id>https://speakerdeck.com/kakehashi/democratizing-data-with-metadata</id>
+    <link href="https://speakerdeck.com/kakehashi/democratizing-data-with-metadata" />
+    <updated>2026-10-10T09:20:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Data Engineering Summit 2026 https://data-engineering-summit.findy-tools.io/2026 での登壇資料です</summary>
+  </entry>
+  <entry>
+    <title>IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/10/2000002187/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/10/2000002187/" />
+    <updated>2026-10-10T08:24:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>IDCフロンティアは10月9日、不正アクセスによる障害が起きているクラウドサービス「IDCFクラウド」について、親会社のソフトバンクの法人部門を窓口として顧客対応を進めていると発表した。 10月7日午前9時に緊急対策本部を設置。ソフトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案...</summary>
+  </entry>
   <entry>
     <title>日本人の大腸がん、約半数に“腸内細菌の毒素”が関与 40歳以下の発症は7割 東大・阪大が200人を全ゲノム解析</title>
     <id>https://www.itmedia.co.jp/news/article/2610/10/2000002035/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-09T15:07:23+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026.10.09 国内で相次ぐ不正アクセス、AIエージェントによる攻撃の可能性 約40分間で326のIPアドレスを使い分け、1,200件超のアクセスを繰り返す 公開日：2026年10月9日 セキュリティインテリジェンス本部 西川 彰 2026年9月前後から国内組織で相次いでいる不正アクセス事案に関連し、株式会社マクニカが公開した「重点...</summary>
-  </entry>
-  <entry>
-    <title>Claude、SQL不要でデータ分析可能に - ダッシュボードを自動生成する新機能</title>
-    <id>https://news.mynavi.jp/techplus/article/20261009-5099252/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20261009-5099252/" />
-    <updated>2026-10-09T17:31:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Anthropicは10月8日、Build live dashboards and animate explainers with Claude において、生成AI「Claude」の新機能「Claude Dashboards」と「Claude Motion」をベータ版として公開した。 Claude Dashboardsは、企業のデータ分析を支援する新機能。データウェアハウスや業務アプリケーションを…</summary>
-  </entry>
-  <entry>
-    <title>約 0.5 GiB のダウンロードで SSD に 6 GiB 書いていた — Steam のゲーム更新 1 件を実測し、減らせる場所を探した</title>
-    <id>https://zenn.dev/berobero/articles/steam-update-ssd-writes</id>
-    <link href="https://zenn.dev/berobero/articles/steam-update-ssd-writes" />
-    <updated>2026-10-09T12:32:28+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 3 行まとめ Steam の実際の更新 1 件（『Rust』の専用サーバー版、開発版ブランチ間の差分、steamcmd で測定）で、ダウンロードは約 0.5 GiB だったのに、SSD には約 6 GiB が書かれた。ゲームを入れ直す量より 1 割ほど多い。 主な原因は、大きなファイルの中身が少しずれるだけで、ファイルを丸ごと書き直すことと見られる。試した範囲では、ファイルシステムの機能（Re…</summary>
   </entry>
 </feed>
