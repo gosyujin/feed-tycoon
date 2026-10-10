@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T18:30:13.667812+09:00</updated>
+  <updated>2026-10-10T19:00:13.012317+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>日本人の大腸がん、約半数に“腸内細菌の毒素”が関与 40歳以下の発症は7割 東大・阪大が200人を全ゲノム解析</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/10/2000002035/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/10/2000002035/" />
+    <updated>2026-10-10T14:13:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...</summary>
+  </entry>
   <entry>
     <title>個人情報漏洩が日常になってしまった世界でどうしていくべきか</title>
     <id>https://nyosegawa.com/posts/data-leak-era/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-09T12:32:28+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! 3 行まとめ Steam の実際の更新 1 件（『Rust』の専用サーバー版、開発版ブランチ間の差分、steamcmd で測定）で、ダウンロードは約 0.5 GiB だったのに、SSD には約 6 GiB が書かれた。ゲームを入れ直す量より 1 割ほど多い。 主な原因は、大きなファイルの中身が少しずれるだけで、ファイルを丸ごと書き直すことと見られる。試した範囲では、ファイルシステムの機能（Re…</summary>
-  </entry>
-  <entry>
-    <title>Notion や Slack から AI に仕事を依頼できる仕組みを Claude Code Routines で作った</title>
-    <id>https://zenn.dev/terass_dev/articles/6e6562d54d5505</id>
-    <link href="https://zenn.dev/terass_dev/articles/6e6562d54d5505" />
-    <updated>2026-10-09T11:47:29+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Notion のチケットや Slack 上から Claude Code に仕事を依頼できる仕組みを、Claude Code Routines を使って実装し、チーム内で運用しています。 Claude Code Routines は、あらかじめ保存しておいたプロンプトで Claude Code のセッションをクラウド上に起動する機能です。API の呼び出しや、スケジュールでの定期実行、GitHub…</summary>
   </entry>
 </feed>
