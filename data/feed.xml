@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T17:00:12.731785+09:00</updated>
+  <updated>2026-10-10T17:30:14.081083+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【Prisma 8】Docker起動時にTodoアプリへ初期データを投入する</title>
+    <id>https://qiita.com/keikeigo/items/eddf5a3d844174f72c3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/keikeigo/items/eddf5a3d844174f72c3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-10T16:06:21+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 現在Todoアプリを React/Hono/Prisma/PostgreSQL/Docker で作成しています。 その際に初期データの投入機能をつけたので備忘録として残しておきます。 前提 DockerですでにTodoアプリが完成している Prisma v8...</summary>
+  </entry>
+  <entry>
+    <title>事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business</title>
+    <id>https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business</id>
+    <link href="https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business" />
+    <updated>2026-10-10T10:29:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…</summary>
+  </entry>
+  <entry>
+    <title>【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）</title>
+    <id>https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T23:12:41+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに DDD（ドメイン駆動設計）でよく登場する「値オブジェクト」は、classで実装する例が多く見られます。しかしReactでは、classのインスタンスはstate管理やシリアライズ（Server Components、localStorage、状態管理ライブラリな...</summary>
+  </entry>
+  <entry>
+    <title>とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない</title>
+    <id>https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T22:33:04+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 仮でコードを書いてみたい 問題 これでは最初の変数しかエラー抑制されない /* eslint-disable @typescript-eslint/no-unused-vars */ /* @ts-expect-error テスト用 */ const...</summary>
+  </entry>
+  <entry>
+    <title>自分を描くRubyは、どうやって自分を覚えているのか — OUROBOROSのQuineを紐解く①</title>
+    <id>https://qiita.com/kyubey1228/items/b7be9aecb0fcf7057643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kyubey1228/items/b7be9aecb0fcf7057643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T16:42:49+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Rubyのコードが輪の形に並び、そのRubyを実行すると、少し形の違う輪が出力される。これを繰り返すと、24回目で最初のコードへ戻る。 そんな周期Quine「OUROBOROS」を作りました。 公開作品はこちらです。 作品では、そのコードをWebGLで描き、描画したピクセル...</summary>
+  </entry>
+  <entry>
+    <title>IBM i のちいさな非互換発見 WRKDSKSTSコマンド</title>
+    <id>https://qiita.com/gomAnomalocaris/items/b560b30132c32a25f982?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/gomAnomalocaris/items/b560b30132c32a25f982?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T15:39:52+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>小ネタです。 必要があり調べていましたら、 WRKDSKSTSコマンドのストレージ容量の単位がIBM i 7.3まではMB、7.4以降ではGBに変更されていました。 IBM i 7.3 のスクショが無いのでが探します‥ ** IBM i 7.4 のWRKDSKSTS 愛弟子...</summary>
+  </entry>
+  <entry>
+    <title>【Vite】Could not resolve entry module “react-router” の解決方法</title>
+    <id>https://qiita.com/shun123/items/07f09fd8602cc186d8ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shun123/items/07f09fd8602cc186d8ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T13:15:14+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに React Router を v7 に上げたところ、Vite の本番ビルドが Could not resolve entry module "react-router". で失敗するようになりました。 最初は「node_modules のインストールがうまくいっ...</summary>
+  </entry>
+  <entry>
+    <title>UnityのMemory Profilerでスナップショット取得を自動化し、メモリリーク傾向を簡易調査するツールを作ってみた</title>
+    <id>https://qiita.com/SuguruHasegawa/items/9d6b559cc9874dc27c06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/SuguruHasegawa/items/9d6b559cc9874dc27c06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T09:50:26+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Unityでメモリ調査を行う際に便利なのが Memory Profiler です。 私自身もメモリ調査に利用していますが、次のような点を手間に感じていました。 定期的にスナップショットを取得する必要がある シーンごとに何度も確認する必要がある 複数の結果を比較...</summary>
+  </entry>
+  <entry>
+    <title>サプライチェーン攻撃の40年 AI時代の依存を守る入門ガイド</title>
+    <id>https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T07:53:16+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに npm install を打つとき、その先で何百ものパッケージの作者を信頼していることを意識する人は多くありません。ところが 2025〜2026 年の npm や PyPI の主な事件を並べると、そのいずれでも侵入口になったのは目新しい脆弱性よりも、開発者が信頼...</summary>
+  </entry>
+  <entry>
+    <title>AI を「確認待ち」で止めない：Claude Code の /goal に 1 行足して、判断を draft PR に置いた話</title>
+    <id>https://qiita.com/engchina/items/d53167a2d37a24294e98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/engchina/items/d53167a2d37a24294e98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-08T18:16:03+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>最初に 前回、Claude Code にレビューと Issue の登録だけをさせ、Codex に Issue を 1 件ずつ直させる開発フローを書きました。 その後、このフローをさらに進めて、 Issue を作る 作業ブランチで直す PR を作る CI が通ったら...</summary>
+  </entry>
+  <entry>
+    <title>【Spring Boot 4】ゼロから作るタスク管理API ①環境構築〜Hello World、テストまで</title>
+    <id>https://qiita.com/y-matsuo/items/e47b0aa113df1e6f6fad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/y-matsuo/items/e47b0aa113df1e6f6fad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-08T18:03:34+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Javaの実務経験はありますが、Spring Bootはまったくの初学者です。 このシリーズでは、Spring Bootをゼロから学びながら「JWT認証付きのタスク管理REST API」を完成させるまでの過程を、全8本の記事にまとめていきます。 # テー...</summary>
+  </entry>
+  <entry>
+    <title>DGX Sparkで探る、検証・改善可能なAI × Harness－4</title>
+    <id>https://qiita.com/maokiXXX/items/171341aa8813db32e213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maokiXXX/items/171341aa8813db32e213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-08T11:32:08+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>【第4部】DGX Sparkを動かして見えてきた、ローカルAI運用の「見えないコスト」 電力・GPU・通信をObservabilityする はじめに これまで、DGX Sparkを使ってローカルAIの環境を少しずつ構築してきました。 第1部では、一体のHermes ...</summary>
+  </entry>
   <entry>
     <title>bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ</title>
     <id>https://future-architect.github.io/articles/20261009a/</id>
@@ -709,101 +805,5 @@
     <updated>2026-10-09T12:16:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>TOHOシネマズが「カーペット下のLANケーブルが“踏まれて断線”→敷き直し」から脱却 70館以上でどう実現した？：限られた人数で全国の館内ネットワークを効率的に管理するには TOHOシネマズは、全国72館の業務用ネットワークを有線LAN中心で運用しており、LANケーブルの断線や敷き直しが負担になっていた。ネットワーク担...</summary>
-  </entry>
-  <entry>
-    <title>JR東でも600万件漏洩か ビューカード所有者や「えきねっと」会員など</title>
-    <id>https://www.sankei.com/article/20261009-7NY6BDKTKJKKDKMPWBMAGPKY3E/</id>
-    <link href="https://www.sankei.com/article/20261009-7NY6BDKTKJKKDKMPWBMAGPKY3E/" />
-    <updated>2026-10-09T16:32:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JR東日本は9日、クレジットカードのビューカードなどグループのサービスで延べ約609万件のメールアドレスなどの個人情報が漏洩した恐れがあると発表した。原因はソフトバンク子会社のIDCフロンティア（東京）が提供する法人向けクラウドサービスが不正アクセスを受けたため。 氏名や住所、カード番号は流出していないと...</summary>
-  </entry>
-  <entry>
-    <title>「USBケーブルを変えるとオーディオの音が変わる」と真剣に議論している人たちもいるがそんなことはありえない？→何をもって「変わった」と判断するのか</title>
-    <id>https://togetter.com/li/2755925</id>
-    <link href="https://togetter.com/li/2755925" />
-    <updated>2026-10-09T13:53:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>DJ Nobby【経済ニュース解説者 / ラジオDJ】 @djnobby USBケーブルを変えるとオーディオの音が変わる！って真剣に議論してる人たちのスレを見て笑っちゃった。 ・USBケーブルで音は変わりません ・WAVとFLACで音に違いはありません ・ワイヤレスイヤホンでロスレス音源聴く意味はゼロ ・CDの縁を緑のマーカーで塗るのは...</summary>
-  </entry>
-  <entry>
-    <title>アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261009de57294</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261009de57294" />
-    <updated>2026-10-09T17:13:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>企業への不正アクセスによる被害が相次ぐ中、アメリカでも、不正アクセスによって、個人の運転免許証などの情報が漏えいする被害が明らかになっています。 南部ルイジアナ州に本社があるID確認のサービスを手…</summary>
-  </entry>
-  <entry>
-    <title>「スカイチケット」に不正アクセス、計1467万件の個人情報流出 ハッシュ化されたパスワードも</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002168/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002168/" />
-    <updated>2026-10-09T14:57:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>旅行予約サイト「skyticket」（スカイチケット）を運営するアドベンチャー（東京都渋谷区）は10月9日、サーバ、業務管理システム、バス予約サービスの計3件で不正アクセスがあったと発表した。流出・閲覧の恐れがあるものを含め、合計の対象件数は約1467万件に上る。対象には返金先の口座情報やバス予約情報も含まれる。...</summary>
-  </entry>
-  <entry>
-    <title>return await は付けても付けなくても同じ？ try の中では catch と finally の動きが変わる</title>
-    <id>https://qiita.com/ennagara128/items/6abdd7057d7b50dba194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/6abdd7057d7b50dba194?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T13:22:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>async 関数の最後で return await fetchData() と書くと、「await は要らない、return fetchData() で同じ」と言われることがあります。ESLint にも、return await を警告する no-return-await ...</summary>
-  </entry>
-  <entry>
-    <title>「最大30日」と回答する前に、Amazon BedrockでOpenAIのモデルに送った文がどこに何日残るか確かめた話（2026年版）</title>
-    <id>https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ntaka329/items/1ad9131353e51c5b99fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T10:52:13+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GMOコネクトの永田です。 生成AIを使う機能のセキュリティ確認で、「AIの事業者に送った文は、不正利用の監視のために最大30日保存される」という回答案を確かめることになりました。OpenAI の API について、以前からよく聞く数字です。そのまま通してよいと...</summary>
-  </entry>
-  <entry>
-    <title>【学習メモ】EC2からS3へのアクセスを例に、AWS IAMを整理する</title>
-    <id>https://qiita.com/ito_kohhh/items/3063faabb4731fae880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ito_kohhh/items/3063faabb4731fae880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T09:54:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 基本はWebアプリケーションをメイン業務としている私ですが 最近業務の中でもアプリケーションに近いところについてはAWSを触り始めました。 AIと一緒にやればやれないことはないのですが、基礎的なところの理解が正直ふんわりしている感覚が拭えなかったので 今回は具体...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の Explore を Haiku にする設定は、2.1.293 に上げるだけで Haiku 5.5 になった。費用は34〜43%減</title>
-    <id>https://qiita.com/suwa_nobu/items/837c03e66ba03ee636ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/suwa_nobu/items/837c03e66ba03ee636ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T09:33:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>前回の記事で、Explore サブエージェントを Haiku に戻す設定を紹介しました。 .claude/agents/Explore.md に model: haiku と書くだけのものです。 そのあと、Claude Code 2.1.293（2026-10-07）の c...</summary>
-  </entry>
-  <entry>
-    <title>Strands Deciderハンズオン！ イベントメモ</title>
-    <id>https://qiita.com/tsukamoto/items/66e3f8767ba4bac55a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tsukamoto/items/66e3f8767ba4bac55a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T09:01:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年10月8日の「JAWS-UG東京 Strands Deciderハンズオン」のイベントメモです。 ハンズオン手順書が公開されているので、当日口頭でガイドや捕捉された内容があると、これから試してみたい人（私とか…え？）が嬉しいかもと思って、作成しました。...</summary>
-  </entry>
-  <entry>
-    <title>攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト</title>
-    <id>https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T07:11:35+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティを研究しているKoukyosyumeiです。 ここ数日、セキュリティインシデントに関するニュースを目にする機会が増えています。こうしたニュースを見ると、「自分のWebサービスは大丈夫だろうか？」と考える方も多いのでは...</summary>
-  </entry>
-  <entry>
-    <title>Windows端末の操作ログを標準機能だけでCloudWatch Logsに集める</title>
-    <id>https://qiita.com/infra365/items/9856ab92f4f29c97d5d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/infra365/items/9856ab92f4f29c97d5d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T05:26:44+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 誰がいつどのサーバへ接続し、端末上で何を実行したかを記録として残したいことがあります。今回は追加のソフトウェアを使わず、AWSの標準機能だけでWindows端末のログを取得する方法を検証しました。 水色が端末側で設定するもの、緑がAWS側のサービスです。 Ac...</summary>
-  </entry>
-  <entry>
-    <title>判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）</title>
-    <id>https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kikuziro/items/6191b5ad83520d181f38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T02:49:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事のチャンクデータには名探偵コナンのデータを登録しています（ほかにONE PIECEと名探偵プリキュア!も少し）。 名探偵コナンを知らない方はアニメまたは単行本全巻読破してからこの記事を読むことをおすすめします。 みなさんGraphRAGの判断を全部LLMにや...</summary>
   </entry>
 </feed>
