@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-10T14:30:11.986252+09:00</updated>
+  <updated>2026-10-10T14:59:23.550717+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ビッグエコー会員ら872万件の個人情報漏えいか 第一興商、委託先PCがマルウェア感染</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002154/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002154/" />
+    <updated>2026-10-09T11:27:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>第一興商は10月8日、カラオケ店「ビッグエコー」などの店舗で会員登録や予約をした客の情報と従業員情報計約872万4000件が漏えいした可能性があると発表した。 個人情報の取り扱いを委託している日本コロムビアグループの従業員の端末がマルウェアに感染。この端末に一時的に、第一興商の顧客情報を保管しており、これら...</summary>
+  </entry>
   <entry>
     <title>サイバー攻撃なぜ日本が標的に…？ AIの進化で「日本語の壁」突破が容易に 日本の個人情報は“信頼性が高く、高値で売れる”【#みんなのギモン】（日テレNEWS NNN） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/9994a417729e7636b595de2e73618e9c408467ca</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-08T20:23:41+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 少し前に、TypeSafe AIのjevが話題になりました。文章を生成せず、決められた型の答えと確信度だけを返すモデルで、LLMより桁違いに速くて安いとうたわれています。 同じ発想のAPIとして、OpenAIが2026年10月6日、Decisions APIを全...</summary>
-  </entry>
-  <entry>
-    <title>【3秒遅れたら負けるw】格闘ゲームで学ぶWebSocketとポーリングの違い</title>
-    <id>https://qiita.com/jota9613/items/212ac2067f9a0172ea8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jota9613/items/212ac2067f9a0172ea8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-08T14:47:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 実務でポーリングを実装していたのですが理解が曖昧だったので復習のためブログをかこうと思いました！ ついでに調べたらWebSocketという通信の方法も出てきたので違いを比べていこうと思います！ ポーリングとは 一定時間ごとにサーバへ情報を確認しにいく仕組みのこ...</summary>
   </entry>
 </feed>
