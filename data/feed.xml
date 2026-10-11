@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T19:00:14.055304+09:00</updated>
+  <updated>2026-10-11T19:30:16.656212+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHub Actions上で証明書を付与するサプライチェーン構築 | おそらくはそれさえも平凡な日々</title>
+    <id>https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html</id>
+    <link href="https://songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html" />
+    <updated>2026-10-11T18:26:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>とにかく数多のサプライチェーンインシデントが発生しており、OSSを公開・頒布している身からすると、より気を使わなければいけない状況です。 例えば、配布しているバイナリやアーカイブ、パッケージなどの成果物(artifact)の信頼性を保証するために、それが、どのソースを元に、どの環境及びワークフローでビルドされ...</summary>
+  </entry>
+  <entry>
+    <title>Hono in this era</title>
+    <id>https://slides.yusu.ke/honoconf-2026</id>
+    <link href="https://slides.yusu.ke/honoconf-2026" />
+    <updated>2026-10-11T18:03:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>::title:: Hono in this era Yusuke Wada Hono Conference 2026 ・ October 11, 2026 ::center size=1.5 bg=white:: 時代 ::center:: Hono Conference 2025 2025/10/18 npmダウンロード数 2025年10月 → 1,110万 / 月 2026年9月 → 2.6…</summary>
+  </entry>
+  <entry>
+    <title>神戸の開発者が小型シンセ「FM-1」の非公式ファームウェアを公開、音源は13種類 - FabScene（ファブシーン）</title>
+    <id>https://fabscene.com/new/make/felucca-m-vave-fm-1-custom-firmware-13-synth-engines-hugelton/?PageSpeed=noscript</id>
+    <link href="https://fabscene.com/new/make/felucca-m-vave-fm-1-custom-firmware-13-synth-engines-hugelton/?PageSpeed=noscript" />
+    <updated>2026-10-10T22:38:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>神戸の開発者が小型シンセ「FM-1」の非公式ファームウェアを公開、音源は13種類 2026 10/10 M-VAVEの小型シンセサイザー「FM-1」の純正ソフトを入れ替え、13種類の音源を切り替えて使える楽器にするファームウェア「Felucca」がGitHubで公開された。作ったのは、神戸の楽器設計事務所Hügelton InstrumentsのLeo Kuroshit...</summary>
+  </entry>
   <entry>
     <title>エージェントにコミット整理を教えるgit-surgeonが良さげかも | kawarimidoll.com</title>
     <id>https://kawarimidoll.com/posts/202610051/</id>
@@ -346,9 +370,9 @@
     <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
     <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
     <link href="https://zenn.dev/mattn/articles/6e9996319ac099" />
-    <updated>2026-10-11T02:16:42+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されてい…</summary>
+    <updated>2026-10-11T02:16:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...</summary>
   </entry>
   <entry>
     <title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-09T15:37:22+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>ULSパブリス 進地 です。 連載第一回、第二回では、それぞれ、業務知識を文章でAIに渡してみた結果、業務知識をGoの型と遷移表でAIに渡してみた結果をみてきました。 第一回: 差戻された申請は、もう一度出せますか？ AIの答えは「出せない」 第二回: 差戻したら、それまで...</summary>
-  </entry>
-  <entry>
-    <title>【速報】AI、米政府機関に情報を無断送信</title>
-    <id>https://www.47news.jp/15064016.html</id>
-    <link href="https://www.47news.jp/15064016.html" />
-    <updated>2026-10-10T13:43:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【ニューヨーク共同】人工知能（AI）開発を手がける米新興企業アンソロピックは9日、生成AI「クロード」が米政府機関のサイトなどに意図しない操作を行ったと発表した。国務省にビザ申請を無断送信したりしたとみられる。</summary>
-  </entry>
-  <entry>
-    <title>ビッグエコー会員ら872万件の個人情報漏えいか 第一興商、委託先PCがマルウェア感染</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/09/2000002154/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/09/2000002154/" />
-    <updated>2026-10-09T11:27:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>第一興商は10月8日、カラオケ店「ビッグエコー」などの店舗で会員登録や予約をした客の情報と従業員情報計約872万4000件が漏えいした可能性があると発表した。 個人情報の取り扱いを委託している日本コロムビアグループの従業員の端末がマルウェアに感染。この端末に一時的に、第一興商の顧客情報を保管しており、これら...</summary>
-  </entry>
-  <entry>
-    <title>サイバー攻撃なぜ日本が標的に…？ AIの進化で「日本語の壁」突破が容易に 日本の個人情報は“信頼性が高く、高値で売れる”【#みんなのギモン】（日テレNEWS NNN） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/9994a417729e7636b595de2e73618e9c408467ca</id>
-    <link href="https://news.yahoo.co.jp/articles/9994a417729e7636b595de2e73618e9c408467ca" />
-    <updated>2026-10-10T11:00:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日テレNEWS NNN旅行予約サイトなどを運営するアドベンチャーは9日、「スカイチケット」のシステムが不正アクセスを受け、会員の情報、およそ1464万件が外部に流出したことを明らかにしました。 【動画で見る】サイバー攻撃 なぜ日本標的に？ 相次ぐサイバー攻撃の被害 去年10月以降“15億件以上”の攻撃とも 今回の#みんな...</summary>
   </entry>
 </feed>
