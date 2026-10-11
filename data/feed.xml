@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T07:03:27.688764+09:00</updated>
+  <updated>2026-10-12T07:30:13.633863+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Opus 5.5のおかげで3Dプリンターを活用できるようになった - Write and Run</title>
+    <id>https://diary.hatenablog.jp/entry/2026/10/11/204055</id>
+    <link href="https://diary.hatenablog.jp/entry/2026/10/11/204055" />
+    <updated>2026-10-12T00:00:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>3D CAD が苦手だ。始めて触ったのは小学4年生のときだったと思う。六角大王と Metasequoia のどちらを先に触ったかは記憶が曖昧である。 3D プリンタを買った。2年以上前のことである。Bambu A1 mini は白物家電の領域に到達しつつある、セールをしているから今すぐ買え、というようなことを言われたような気がする。 買...</summary>
+  </entry>
+  <entry>
+    <title>証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話</title>
+    <id>https://toruoka.xyz/202610_security_key/</id>
+    <link href="https://toruoka.xyz/202610_security_key/" />
+    <updated>2026-10-11T21:13:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>みなさん、証券口座やその他重要なパスワードはどのように管理していますか？今どきは多くの方がパスワードマネージャーを使用して管理しているかと思います。僕もそのひとり。今はiCloudにパスワードを一元管理しています。 そういう人たちにとって、少しぞわっとなるニュースが先日報道されました。それがこれ。 証券...</summary>
+  </entry>
   <entry>
     <title>【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた</title>
     <id>https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -383,14 +399,6 @@
     <summary>「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0/hayamimi: 早耳 - Real-time multi...</summary>
   </entry>
   <entry>
-    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
-    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
-    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
-    <updated>2026-10-11T10:59:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態...</summary>
-  </entry>
-  <entry>
     <title>「妻とsetlogをやり始めたら、これが思った以上に良い効果を生んでいる」お互いの生活がビジュアルで伝わると会話もスムーズになると気づいた</title>
     <id>https://togetter.com/li/2756515</id>
     <link href="https://togetter.com/li/2756515" />
@@ -405,6 +413,14 @@
     <updated>2026-10-08T17:35:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>TOPICS Database , System/Network 発行年月日 2026年11月05日 PRINT LENGTH 664 ISBN 978-4-8144-0180-2 原書 Designing Data-Intensive Applications, 2nd Edition FORMAT Print 現代の分散システム設計において、データの扱いは重要な課題です。システムは、スケーラビ…</summary>
+  </entry>
+  <entry>
+    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
+    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
+    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
+    <updated>2026-10-05T17:06:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態を、規制当局が訓練の仕組みとして維持させています。 この記事では、FAA（米国連邦航空局）、EASA…</summary>
   </entry>
   <entry>
     <title>システムのアップデートでデプロイが失敗し、営業時間中に本番環境を予告なしに削除した人がいて全社の業務が停止「どうすればよかったのか？」→業務フローに問題がある？</title>
@@ -719,14 +735,6 @@
     <summary>JR東日本は9日、「えきねっと」と「大人の休日倶楽部」の会員のべ約206万件のメールアドレスなどの個人情報が漏洩（ろうえい）した可能性があることを明らかにした。ソフトバンクの子会社IDCフロンティア…</summary>
   </entry>
   <entry>
-    <title>AIで浮いた時間を「もっと作る」に使っていませんか</title>
-    <id>https://zenn.dev/idealog/articles/a3e9cf4299b1cf</id>
-    <link href="https://zenn.dev/idealog/articles/a3e9cf4299b1cf" />
-    <updated>2026-10-11T17:27:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 作るスピードと量は...</summary>
-  </entry>
-  <entry>
     <title>「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本</title>
     <id>https://zenn.dev/zhidao/articles/e5982e81b6dbbf</id>
     <link href="https://zenn.dev/zhidao/articles/e5982e81b6dbbf" />
@@ -749,6 +757,14 @@
     <updated>2026-10-09T22:08:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 社外のベンダーを Entra ID にゲスト（B2B）として招き、AWS の EC2 にオンプレミス データ ゲートウェイを立ててもらう構成で、ゲートウェイの登録が2回止まりました。 ベンダー（ゲスト）のアカウントでは登録できなかった テナントの社員のアカウントに切り替えると、サインインが 0xCAA80000 で止まった この2つの原因と対応をまとめます。ベンダーをゲストで招いて Po…</summary>
+  </entry>
+  <entry>
+    <title>AIで浮いた時間を「もっと作る」に使っていませんか</title>
+    <id>https://zenn.dev/idealog/articles/a3e9cf4299b1cf</id>
+    <link href="https://zenn.dev/idealog/articles/a3e9cf4299b1cf" />
+    <updated>2026-10-09T19:40:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 ! 本記事は筆者個人の考えであり、正解を示すものではありません。また後半で「役割」の話にも触れますが、特定の職種…</summary>
   </entry>
   <entry>
     <title>dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-10T08:45:21+09:00</updated>
     <category term="はてブ IT" />
     <summary>バレスニ氏はXで、退職時の面談で、外部の安全性研究組織と話しすぎていたため会社として信頼できなくなったと告げられ、知的財産を漏えいしたかのような示唆を受けたと説明した。同氏は知的財産を共有したことはなく、業務は上司や研究部門の幹部、取締役会と調整して進めていたと主張している。3人は、AIの推論を監視...</summary>
-  </entry>
-  <entry>
-    <title>自作キーボードビルダー (DIY Keyboard Builder)</title>
-    <id>https://takashi.company/kbdsim/</id>
-    <link href="https://takashi.company/kbdsim/" />
-    <updated>2026-10-09T19:48:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自作キーボードビルダーDIY Keyboard Builder 読み込み中</summary>
-  </entry>
-  <entry>
-    <title>若手エンジニアに必要だと感じた「AIを使う力」</title>
-    <id>https://zenn.dev/muit_techblog/articles/6ea28887c79457</id>
-    <link href="https://zenn.dev/muit_techblog/articles/6ea28887c79457" />
-    <updated>2026-10-08T17:29:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニ…</summary>
   </entry>
 </feed>
