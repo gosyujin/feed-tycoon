@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T13:00:14.344525+09:00</updated>
+  <updated>2026-10-11T13:30:12.745047+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
+    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
+    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
+    <updated>2026-10-11T10:59:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態...</summary>
+  </entry>
+  <entry>
+    <title>「妻とsetlogをやり始めたら、これが思った以上に良い効果を生んでいる」お互いの生活がビジュアルで伝わると会話もスムーズになると気づいた</title>
+    <id>https://togetter.com/li/2756515</id>
+    <link href="https://togetter.com/li/2756515" />
+    <updated>2026-10-10T16:42:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>谷口恒平 @taniguchikohei 妻とsetlogをしている。これが思った以上に良い効果を生んでいる。 setlogとは1時間に2秒だけ映像を撮り、短いテロップを入れて相手と共有できるアプリ。1日ごとに二分割の画面が出来上がり、スプリットスクリーンでそれぞれの行動が映し出される。不特定多数に見られることはない。 良かった...</summary>
+  </entry>
+  <entry>
+    <title>データ指向アプリケーションデザイン 第2版</title>
+    <id>https://www.oreilly.co.jp//books/9784814401802/</id>
+    <link href="https://www.oreilly.co.jp//books/9784814401802/" />
+    <updated>2026-10-08T17:35:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>TOPICS Database , System/Network 発行年月日 2026年11月05日 PRINT LENGTH 664 ISBN 978-4-8144-0180-2 原書 Designing Data-Intensive Applications, 2nd Edition FORMAT Print 現代の分散システム設計において、データの扱いは重要な課題です。システムは、スケーラビ…</summary>
+  </entry>
   <entry>
     <title>システムのアップデートでデプロイが失敗し、営業時間中に本番環境を予告なしに削除した人がいて全社の業務が停止「どうすればよかったのか？」→業務フローに問題がある？</title>
     <id>https://togetter.com/li/2756739</id>
@@ -146,9 +170,9 @@
     <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
     <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
     <link href="https://zenn.dev/mattn/articles/6e9996319ac099" />
-    <updated>2026-10-11T02:16:42+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されてい…</summary>
+    <updated>2026-10-11T02:16:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...</summary>
   </entry>
   <entry>
     <title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title>
@@ -402,9 +426,9 @@
     <title>若手エンジニアに必要だと感じた「AIを使う力」</title>
     <id>https://zenn.dev/muit_techblog/articles/6ea28887c79457</id>
     <link href="https://zenn.dev/muit_techblog/articles/6ea28887c79457" />
-    <updated>2026-10-08T17:29:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニ…</summary>
+    <updated>2026-10-09T19:44:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...</summary>
   </entry>
   <entry>
     <title>スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-09T18:33:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>ITが浸透するにつれ、毎日のようにセキュリティに関する情報が飛び交うが、多くがソフトウェアの脆弱性に起因する。OSですら毎月のように懸念される脆弱性を防ぐための更新プログラムなどのパッチを提供しているが、新しく発見される脆弱性とそれを防ぐ世界各地の研究者との攻防は毎日のように繰り広げられている。 1980...</summary>
-  </entry>
-  <entry>
-    <title>知り合いがAIに作らせたクローラーに大量のサイトを読み込ませたら、プロンプトインジェクションを受けてPCがマルウェアに感染「こういう事故はこれから増えていく気が…」</title>
-    <id>https://togetter.com/li/2756400</id>
-    <link href="https://togetter.com/li/2756400" />
-    <updated>2026-10-10T08:42:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Mr.Genki | marketing &amp; webdesign @genki_iii 知り合いがAIに作らせたクローラーに大量のサイトを読ませたら、プロンプトインジェクションを食らってPCがマルウェアに感染してた。AIで誰でも簡単に作れるようになった分、開発やセキュリティの知識がないまま動かす人も増えていて、こういう事故はこれから増えていく気...</summary>
-  </entry>
-  <entry>
-    <title>AIで検索した「判例」、実は存在せず 出版社が絶版・回収を発表：朝日新聞</title>
-    <id>https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html</id>
-    <link href="https://www.asahi.com/articles/ASVB93F4YVB9UCVL01TM.html" />
-    <updated>2026-10-09T22:45:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>出版社の高文研は、9月に刊行した島袋純・琉球大教授の著書「無責任の体系と沖縄戦」に事実と異なる記述があったとして、絶版として回収すると公式サイトで発表した。発表は9月24日付。 高文研によると、島袋…</summary>
-  </entry>
-  <entry>
-    <title>Building effective agent automations / claude.dev Blog</title>
-    <id>https://claude.dev/blog/building-effective-agent-automations/</id>
-    <link href="https://claude.dev/blog/building-effective-agent-automations/" />
-    <updated>2026-10-09T08:06:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>As AI accelerates our work, it's getting harder to keep up. At Anthropic, simple agent automations are frequently used to help. They often run on a schedule, gather context in the background, and proa…</summary>
   </entry>
 </feed>
