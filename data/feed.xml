@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T23:30:12.896107+09:00</updated>
+  <updated>2026-10-12T00:00:09.499659+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる</title>
+    <id>https://togetter.com/li/2756939</id>
+    <link href="https://togetter.com/li/2756939" />
+    <updated>2026-10-11T21:39:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>堀井雄二 @YujiHorii その昔、PCで『ポートピア連続殺人事件』を作った時は、自分で物語を考え、絵も描いて、プログラムもして、ひとりでゲームを作りました。そして今、ＡＩを使えば、絵を描けなくても、プログラムしなくても、ＡＩに指図するだけで、ひとりで、そこそこのゲームを作れてしまいます。ホントびっくりで...</summary>
+  </entry>
+  <entry>
+    <title>個人がCAD「SolveCraft」を無料公開、Fusionの部品76個を再現 - FabScene（ファブシーン）</title>
+    <id>https://fabscene.com/new/make/solvecraft-open-source-parametric-3d-cad-rust-fusion-76-parts-mcp/</id>
+    <link href="https://fabscene.com/new/make/solvecraft-open-source-parametric-3d-cad-rust-fusion-76-parts-mcp/" />
+    <updated>2026-10-10T21:25:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オートデスクの3D CAD「Fusion」と同じような手順で部品を設計できるオープンソースのCAD「SolveCraft」が、GitHubで公開された。作ったのは開発者のbherbruck氏だ。同氏はプログラミング言語Rustで書き、AIエージェントがCADを操作するための窓口も組み込んだ。 操作の流れはFusionに近い。利用者は平面にスケッチを描...</summary>
+  </entry>
   <entry>
     <title>止まらない不正アクセス ローソン215万件、ココナラやSansanでも情報漏えい</title>
     <id>https://japan.cnet.com/article/35253437/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-09T13:15:14+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに React Router を v7 に上げたところ、Vite の本番ビルドが Could not resolve entry module "react-router". で失敗するようになりました。 最初は「node_modules のインストールがうまくいっ...</summary>
-  </entry>
-  <entry>
-    <title>UnityのMemory Profilerでスナップショット取得を自動化し、メモリリーク傾向を簡易調査するツールを作ってみた</title>
-    <id>https://qiita.com/SuguruHasegawa/items/9d6b559cc9874dc27c06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/SuguruHasegawa/items/9d6b559cc9874dc27c06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T09:50:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Unityでメモリ調査を行う際に便利なのが Memory Profiler です。 私自身もメモリ調査に利用していますが、次のような点を手間に感じていました。 定期的にスナップショットを取得する必要がある シーンごとに何度も確認する必要がある 複数の結果を比較...</summary>
-  </entry>
-  <entry>
-    <title>サプライチェーン攻撃の40年 AI時代の依存を守る入門ガイド</title>
-    <id>https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T07:53:16+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに npm install を打つとき、その先で何百ものパッケージの作者を信頼していることを意識する人は多くありません。ところが 2025〜2026 年の npm や PyPI の主な事件を並べると、そのいずれでも侵入口になったのは目新しい脆弱性よりも、開発者が信頼...</summary>
   </entry>
 </feed>
