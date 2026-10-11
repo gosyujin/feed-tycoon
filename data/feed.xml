@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T05:00:14.150503+09:00</updated>
+  <updated>2026-10-12T05:30:13.434096+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた</title>
+    <id>https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T21:51:19+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。 実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、...</summary>
+  </entry>
+  <entry>
+    <title>2026年10月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+    <id>https://qiita.com/ennagara128/items/69ce0dbcc0d4ce88052e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ennagara128/items/69ce0dbcc0d4ce88052e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T21:09:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 すでにWEBデザイナーの8割は不要である ht...</summary>
+  </entry>
+  <entry>
+    <title>Firestore エミュレーターが重すぎたので、Java なしで動く互換エミュレーターを Rust で作った</title>
+    <id>https://qiita.com/nomunomu0504/items/f764426407431c183016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nomunomu0504/items/f764426407431c183016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T15:35:19+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Firestore のローカル開発や CI で使う公式エミュレーターが重くてつらかったので、Rust で互換エミュレーター hidane（火種） を作りました。2026 年 10 月に最初のリリース v0.1.0 を出しています。 この記事では、公式エミュレーターの何が重か...</summary>
+  </entry>
+  <entry>
+    <title>【Supabase】プロジェクトの利用を停止された時の対処方法</title>
+    <id>https://qiita.com/ryu0947/items/141f8bae4f0f11e207e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu0947/items/141f8bae4f0f11e207e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T13:47:21+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 学習用にReactで作っているTodoアプリのデータの保存にSupabaseを利用しています。 Supabaseから「プロジェクトを一時停止する」という不穏なメールが届いたのでその原因と対処方法をまとめます。 Supabaseのプロジェクトが一時停止された原因...</summary>
+  </entry>
+  <entry>
+    <title>個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと</title>
+    <id>https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T13:10:09+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>個人開発したiOSアプリ「Limitime」をApp Storeに公開して、約2か月が経ちました。 8月15日にリリースして、ダウンロード数はようやく100を超えました。 100DL。 大きなサービスから見れば、ほとんど誤差のような数字です。 ただ、広告予算も知名度もほぼな...</summary>
+  </entry>
+  <entry>
+    <title>【初投稿】Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った</title>
+    <id>https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T13:03:01+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った GitHub Trending に上がったリポジトリを、毎朝日本語で要約するサイト「github新聞」を作った。 要約は Claude Code の...</summary>
+  </entry>
+  <entry>
+    <title>自分用のDesklyにRemote MCPとOAuthを付けた。Claude Codeからの読み書きと、スマホでつまずいたこと</title>
+    <id>https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T12:58:38+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>自分用のDesklyにRemote MCPとOAuthを付け、Cloudflare Workers上の入口をClaude Codeから読み書きできるところまで進めました。つまずいたのは、同意のボタンと、直したはずの道具をスマホが古いまま覚えていたことです。 https:/...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する</title>
+    <id>https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T10:43:20+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>この記事でやること Claude Code を複数のプロジェクトで並行して使っていると、「どのフォルダで何が動いていて、どれが確認待ちで止まっているか」が分からなくなります。 そこで、次の3つができるローカル専用のダッシュボードを Next.js で作りました。 Cla...</summary>
+  </entry>
+  <entry>
+    <title>「30年前のシングルスレッドに巨大知能をねじ込む狂気」を冷徹に批判した上で、私たちがExcel VBAを捨てる理由がどこにもなくなった朝の話</title>
+    <id>https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T10:26:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 前作の記事を書き上げ、Qiitaに投稿したのは、日曜日の早朝のことでした。 Claudeがお休みに入ったためGeminiと二人で開発を再開し、「エグゼクティブデザインで」の一言で表が一瞬で美化される仕組みと、裏で自律ループを回して解説動画を3本作った顛末をまとめ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜</title>
+    <id>https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T08:33:23+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇 しかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。 日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Cla...</summary>
+  </entry>
+  <entry>
+    <title>TypeScriptでクラスを書くとTS1294: This syntax is not allowed when erasableSyntaxOnly is enabled.</title>
+    <id>https://qiita.com/J-T_ky2g/items/18484567749476d57974?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/18484567749476d57974?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-11T04:20:21+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに なんとなくで書いたもので構文エラー。他言語の書き方だったかも 問題 この書き方エラー export class Todo { constructor( public id: string, public title: string,...</summary>
+  </entry>
+  <entry>
+    <title>Chromeのパスキーはどうやって移す？Mac版Chromeでは書き出せなかった話</title>
+    <id>https://qiita.com/ktdatascience/items/8f9d364452bf659b03c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ktdatascience/items/8f9d364452bf659b03c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-10T10:02:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Chrome に保存したパスキーを、iPhone のパスワードアプリ（iCloud キーチェーン）へ移しました。要点は3つです。 Mac 版 Chrome の「パスワードをエクスポート」は CSV しか出せず、パスキーは入らない まとめて移すなら、iPhone...</summary>
+  </entry>
+  <entry>
+    <title>仕様の行き違いを防ぐ 認識合わせメモ1枚のテンプレート</title>
+    <id>https://qiita.com/vaon-luandv/items/cf1c2e896ad40e49e216?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/vaon-luandv/items/cf1c2e896ad40e49e216?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-09T10:32:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 打ち合わせのあとで「そういう意味ではありませんでした」が起きるチーム向けの記事です。発注側と開発側が別の会社のとき、特に拠点や母語が違うときに使えます。 内容は3つです。リポジトリに置いてそのまま使えるMarkdownのテンプレート、あいまいな言葉の言い換え表、...</summary>
+  </entry>
   <entry>
     <title>GitHub - p10node/k10s: Kubernetes TUI you can click. Instant search, logs/exec/port-forward, 7 themes, context-aware AI. Single Go binary.</title>
     <id>https://github.com/p10node/k10s</id>
@@ -701,109 +805,5 @@
     <updated>2026-10-08T17:29:40+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うことで実装や調査を効率化できる場面が多くありました。一方で、使えば使うほど「若手エンジニ…</summary>
-  </entry>
-  <entry>
-    <title>スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2610/10/news013.html" />
-    <updated>2026-10-10T07:47:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>スマホの「実質価格」高騰の恐れ、iPhone 18 Proは2倍高く？ 総務省の残価設定ルール厳格化は“誰のため”か：石野純也のMobile Eye（1/2 ページ） 端末購入の仕組みとして定着しつつある残価設定型の分割払いだが、その残価の算出方法を巡って事業者間の意見が割れている。9月25日に、総務省の「利用者視点を踏まえたモ...</summary>
-  </entry>
-  <entry>
-    <title>分析の民主化を支えるメタデータ整備の実践</title>
-    <id>https://speakerdeck.com/kakehashi/democratizing-data-with-metadata</id>
-    <link href="https://speakerdeck.com/kakehashi/democratizing-data-with-metadata" />
-    <updated>2026-10-10T09:20:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Data Engineering Summit 2026 https://data-engineering-summit.findy-tools.io/2026 での登壇資料です</summary>
-  </entry>
-  <entry>
-    <title>IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/10/2000002187/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/10/2000002187/" />
-    <updated>2026-10-10T08:24:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>IDCフロンティアは10月9日、不正アクセスによる障害が起きているクラウドサービス「IDCFクラウド」について、親会社のソフトバンクの法人部門を窓口として顧客対応を進めていると発表した。 10月7日午前9時に緊急対策本部を設置。ソフトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案...</summary>
-  </entry>
-  <entry>
-    <title>日本人の大腸がん、約半数に“腸内細菌の毒素”が関与 40歳以下の発症は7割 東大・阪大が200人を全ゲノム解析</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/10/2000002035/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/10/2000002035/" />
-    <updated>2026-10-10T14:13:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...</summary>
-  </entry>
-  <entry>
-    <title>個人情報漏洩が日常になってしまった世界でどうしていくべきか</title>
-    <id>https://nyosegawa.com/posts/data-leak-era/</id>
-    <link href="https://nyosegawa.com/posts/data-leak-era/" />
-    <updated>2026-10-10T16:36:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は個人情報がどんどん流出していく時代に、わたしたちは何をすればいいのかを考えていきたいと思います。 今週だけでも さいきん個人情報の漏洩のニュースが本当に多いです。10月7日から9日にかけては政府機関が相次いで「不正アクセスによる漏洩が続いている」と注意を...</summary>
-  </entry>
-  <entry>
-    <title>AI駆動開発の時代になったのでトヨタ生産方式から見直す</title>
-    <id>https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu</id>
-    <link href="https://speakerdeck.com/terurou/ai-kudou-kaihatsu-no-jidai-ni-nata-node-toyota-seisan-houshiki-kara-minaosu" />
-    <updated>2026-10-10T00:18:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026-10-09 AI駆動開発勉強会 名古屋支部#2 の発表資料です。</summary>
-  </entry>
-  <entry>
-    <title>GitHub - jdx/jactionlint: :octocat: Static checker for GitHub Actions workflow files</title>
-    <id>https://github.com/jdx/jactionlint</id>
-    <link href="https://github.com/jdx/jactionlint" />
-    <updated>2026-10-09T22:12:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>jactionlint is a static checker for GitHub Actions workflow files and an actively maintained fork of rhysd/actionlint, with upstream pull requests and fixes merged here. Try it online! Features: Synta…</summary>
-  </entry>
-  <entry>
-    <title>【Prisma 8】Docker起動時にTodoアプリへ初期データを投入する</title>
-    <id>https://qiita.com/keikeigo/items/eddf5a3d844174f72c3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/keikeigo/items/eddf5a3d844174f72c3a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T16:06:21+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 現在Todoアプリを React/Hono/Prisma/PostgreSQL/Docker で作成しています。 その際に初期データの投入機能をつけたので備忘録として残しておきます。 前提 DockerですでにTodoアプリが完成している Prisma v8...</summary>
-  </entry>
-  <entry>
-    <title>事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business</title>
-    <id>https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business</id>
-    <link href="https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business" />
-    <updated>2026-10-10T10:29:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…</summary>
-  </entry>
-  <entry>
-    <title>【React】zodのbrandで値オブジェクトを実装する（classを使わない方法）</title>
-    <id>https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shun123/items/24f5d01004bc5ac8ea9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T23:12:41+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに DDD（ドメイン駆動設計）でよく登場する「値オブジェクト」は、classで実装する例が多く見られます。しかしReactでは、classのインスタンスはstate管理やシリアライズ（Server Components、localStorage、状態管理ライブラリな...</summary>
-  </entry>
-  <entry>
-    <title>とりあえずTypeScriptのコード書いて挙動を確認したいだけなのに、eslint警告「TS6133: 変数名 is declared but its value is never read.」が出てdisableしても1つ目の変数しか抑制されない</title>
-    <id>https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/4d3c2a748373b1bf9ed0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T22:33:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 仮でコードを書いてみたい 問題 これでは最初の変数しかエラー抑制されない /* eslint-disable @typescript-eslint/no-unused-vars */ /* @ts-expect-error テスト用 */ const...</summary>
-  </entry>
-  <entry>
-    <title>自分を描くRubyは、どうやって自分を覚えているのか — OUROBOROSのQuineを紐解く①</title>
-    <id>https://qiita.com/kyubey1228/items/b7be9aecb0fcf7057643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kyubey1228/items/b7be9aecb0fcf7057643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T16:42:49+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Rubyのコードが輪の形に並び、そのRubyを実行すると、少し形の違う輪が出力される。これを繰り返すと、24回目で最初のコードへ戻る。 そんな周期Quine「OUROBOROS」を作りました。 公開作品はこちらです。 作品では、そのコードをWebGLで描き、描画したピクセル...</summary>
-  </entry>
-  <entry>
-    <title>IBM i のちいさな非互換発見 WRKDSKSTSコマンド</title>
-    <id>https://qiita.com/gomAnomalocaris/items/b560b30132c32a25f982?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/gomAnomalocaris/items/b560b30132c32a25f982?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T15:39:52+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>小ネタです。 必要があり調べていましたら、 WRKDSKSTSコマンドのストレージ容量の単位がIBM i 7.3まではMB、7.4以降ではGBに変更されていました。 IBM i 7.3 のスクショが無いのでが探します‥ ** IBM i 7.4 のWRKDSKSTS 愛弟子...</summary>
   </entry>
 </feed>
