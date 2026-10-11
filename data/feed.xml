@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T17:30:12.986724+09:00</updated>
+  <updated>2026-10-11T18:00:14.150682+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「いいね」が正直わからん</title>
+    <id>https://anond.hatelabo.jp/20261011075112</id>
+    <link href="https://anond.hatelabo.jp/20261011075112" />
+    <updated>2026-10-11T07:52:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>お気に入り的なハート、はてなのスターもそうだ みんなどういう時に押してるの？ よいと思ったら押せばいいと思うのだが、なんかそこもしっくりこない 笑ったとか興味を惹かれて読んだとかもちろんあるのだがインターネット上では基本的にすべて素通りしている感覚が強い</summary>
+  </entry>
+  <entry>
+    <title>実体験から学ぶ分析エージェントの開発と運⽤</title>
+    <id>https://speakerdeck.com/recruitengineers/data-engineering-summit2026-zenyasai-yamamoto</id>
+    <link href="https://speakerdeck.com/recruitengineers/data-engineering-summit2026-zenyasai-yamamoto" />
+    <updated>2026-10-10T10:30:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026/10/8に、Data Engineering Summit 2026 前夜祭で発表した山本の資料になります。</summary>
+  </entry>
   <entry>
     <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title>
     <id>https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -306,9 +322,9 @@
     <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
     <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
     <link href="https://zenn.dev/mattn/articles/6e9996319ac099" />
-    <updated>2026-10-11T02:16:42+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されてい…</summary>
+    <updated>2026-10-11T02:16:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...</summary>
   </entry>
   <entry>
     <title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-09T21:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>検証環境: ruby 3.3.8 (Debian の apt パッケージ) / ruby 4.0.7 (ソースからビルド) rspec-mocks 3.13.8 (2026-10-09 時点の最新安定版) rspec-core 3.13.6 比較用: rspec-mocks 3.12.6 (元記事の版) / rspec 4.0.0.beta1 一式 (core・expectations・mocks…</summary>
-  </entry>
-  <entry>
-    <title>初AIコーディング記録：Brain第1世代でLinuxを動くようにした話</title>
-    <id>https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d</id>
-    <link href="https://zenn.dev/tnishinaga/articles/ee0b6cf4f8683d" />
-    <updated>2026-10-09T19:29:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>タイトルの通り、今流行りのAIと一緒にBrain第1世代でLinuxを動くようにしました。 どういう作戦を立てて何をやったか、どういうトラブルが起きてどう対処したか、良かった点と反省点について記録しておきます。 もっと良い方法があるよなどあれば教えていただけると嬉しいです。 なお、この文章はすべて人間が心を込めて書いています。 開発環境 エディタ Zed コーディングエージェント Codex モデ…</summary>
-  </entry>
-  <entry>
-    <title>AWS Cost ExplorerのAmazon Bedrock製品属性で、できることとできないことを確認してみた</title>
-    <id>https://zenn.dev/fusic/articles/c34f48e0ab811e</id>
-    <link href="https://zenn.dev/fusic/articles/c34f48e0ab811e" />
-    <updated>2026-10-09T19:22:57+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Fusicのレオナです。 2026年10月8日に、AWS Cost ExplorerなどでAmazon Bedrockの費用を製品属性で分けられるようになりました[1]。対象はAWS Cost Explorer、AWS Budgets、AWS Cost Management Dashboardsの3つです。 Amazon Bedrockを複数人で使うと、どのモデルにいくらかかっているかに…</summary>
   </entry>
 </feed>
