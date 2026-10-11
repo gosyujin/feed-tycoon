@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T18:30:13.653326+09:00</updated>
+  <updated>2026-10-11T19:00:14.055304+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>エージェントにコミット整理を教えるgit-surgeonが良さげかも | kawarimidoll.com</title>
+    <id>https://kawarimidoll.com/posts/202610051/</id>
+    <link href="https://kawarimidoll.com/posts/202610051/" />
+    <updated>2026-10-11T13:33:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Git primitives for autonomous coding agents. Contribute to raine/git-surgeon development by creating an account on GitHub. 機能 Rust製のgitの変更を非対話的に操作できるCLIです。 gitはgit add のようにファイル単位でステージング・コミットするだけでなく、 g…</summary>
+  </entry>
+  <entry>
+    <title>Boris Tane</title>
+    <id>https://boristane.com/blog/self-improving-software-is-inevitable/</id>
+    <link href="https://boristane.com/blog/self-improving-software-is-inevitable/" />
+    <updated>2026-10-11T10:39:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The release you shipped this morning already surfaced what's wrong with it. It's been telling you all day, across multiple surfaces. The only reason prod is still failing is you. Agents write the vast…</summary>
+  </entry>
+  <entry>
+    <title>サイバーセキュリティーの常識が崩れた…「個人情報」の流出を防ぐ“身も蓋もない方法”</title>
+    <id>https://diamond.jp/articles/-/400815</id>
+    <link href="https://diamond.jp/articles/-/400815" />
+    <updated>2026-10-09T15:29:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カーシェアのタイムズカーを運営するパーク24で最大660万件の顧客情報が流出して以降、多くの情報漏洩が発覚している 撮影：編集部 タイムズカーをはじめ、大企業で個人情報の流出が相次いでいる。なぜ、これほど被害が止まらないのか。AIの登場でサイバー防衛の前提が崩れつつある今、企業に求められるのは、これまで...</summary>
+  </entry>
   <entry>
     <title>「いいね」が正直わからん</title>
     <id>https://anond.hatelabo.jp/20261011075112</id>
@@ -322,9 +346,9 @@
     <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
     <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
     <link href="https://zenn.dev/mattn/articles/6e9996319ac099" />
-    <updated>2026-10-11T02:16:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...</summary>
+    <updated>2026-10-11T02:16:42+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されてい…</summary>
   </entry>
   <entry>
     <title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-10T11:00:02+09:00</updated>
     <category term="はてブ IT" />
     <summary>日テレNEWS NNN旅行予約サイトなどを運営するアドベンチャーは9日、「スカイチケット」のシステムが不正アクセスを受け、会員の情報、およそ1464万件が外部に流出したことを明らかにしました。 【動画で見る】サイバー攻撃 なぜ日本標的に？ 相次ぐサイバー攻撃の被害 去年10月以降“15億件以上”の攻撃とも 今回の#みんな...</summary>
-  </entry>
-  <entry>
-    <title>【interview】Itaq ～普通の人達よりも劣った文化と枠組みの中で生きていくのが本当に悔しかった～｜RIKI TAKAHASHI</title>
-    <id>https://note.com/riki_takahashi/n/n2224fbb037f8</id>
-    <link href="https://note.com/riki_takahashi/n/n2224fbb037f8" />
-    <updated>2026-10-10T07:44:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ショート動画を中心に話題を呼ぶ宗教2世ラッパー、Itaq。ソロ名義としては4作目となるコンセプトアルバム『TYGTA -退下駄-』を今年9月にリリース。今回はそんな彼にアルバムのコンセプトや宗教二世としての葛藤、彼の活動するTikTokというプラットフォームやこの時代などについてお話を伺った。 彼はこの時代を「全てが...</summary>
-  </entry>
-  <entry>
-    <title>「検証は基本的な責務」 AI利用の書籍絶版、琉球大がコメント | 毎日新聞</title>
-    <id>https://mainichi.jp/articles/20261009/k00/00m/040/266000c</id>
-    <link href="https://mainichi.jp/articles/20261009/k00/00m/040/266000c" />
-    <updated>2026-10-09T21:31:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>出版社の高文研（東京都）は、9月に刊行した書籍の内容に、生成人工知能（AI）の利用により現実には存在しない事実が掲載されていたとして、絶版とし、回収すると発表した。購入者には書籍を回収した上で全額返金する。ホームページには「深くおわび申し上げる」と謝罪文を掲載した。 誤りが見つかった書籍は「無責任の...</summary>
-  </entry>
-  <entry>
-    <title>昔書いたRSpecのand_invokeの記事を最新のrspec-mocksで検証し直した</title>
-    <id>https://zenn.dev/kyto64/articles/rspec-and-invoke-revisited</id>
-    <link href="https://zenn.dev/kyto64/articles/rspec-and-invoke-revisited" />
-    <updated>2026-10-09T21:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>検証環境: ruby 3.3.8 (Debian の apt パッケージ) / ruby 4.0.7 (ソースからビルド) rspec-mocks 3.13.8 (2026-10-09 時点の最新安定版) rspec-core 3.13.6 比較用: rspec-mocks 3.12.6 (元記事の版) / rspec 4.0.0.beta1 一式 (core・expectations・mocks…</summary>
   </entry>
 </feed>
