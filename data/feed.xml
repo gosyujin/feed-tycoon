@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T04:00:22.707092+09:00</updated>
+  <updated>2026-10-12T04:30:12.443125+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -279,14 +279,6 @@
     <summary>「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0/hayamimi: 早耳 - Real-time multi...</summary>
   </entry>
   <entry>
-    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
-    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
-    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
-    <updated>2026-10-11T10:59:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態...</summary>
-  </entry>
-  <entry>
     <title>「妻とsetlogをやり始めたら、これが思った以上に良い効果を生んでいる」お互いの生活がビジュアルで伝わると会話もスムーズになると気づいた</title>
     <id>https://togetter.com/li/2756515</id>
     <link href="https://togetter.com/li/2756515" />
@@ -301,6 +293,14 @@
     <updated>2026-10-08T17:35:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>TOPICS Database , System/Network 発行年月日 2026年11月05日 PRINT LENGTH 664 ISBN 978-4-8144-0180-2 原書 Designing Data-Intensive Applications, 2nd Edition FORMAT Print 現代の分散システム設計において、データの扱いは重要な課題です。システムは、スケーラビ…</summary>
+  </entry>
+  <entry>
+    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
+    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
+    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
+    <updated>2026-10-05T17:06:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態を、規制当局が訓練の仕組みとして維持させています。 この記事では、FAA（米国連邦航空局）、EASA…</summary>
   </entry>
   <entry>
     <title>システムのアップデートでデプロイが失敗し、営業時間中に本番環境を予告なしに削除した人がいて全社の業務が停止「どうすればよかったのか？」→業務フローに問題がある？</title>
@@ -615,14 +615,6 @@
     <summary>JR東日本は9日、「えきねっと」と「大人の休日倶楽部」の会員のべ約206万件のメールアドレスなどの個人情報が漏洩（ろうえい）した可能性があることを明らかにした。ソフトバンクの子会社IDCフロンティア…</summary>
   </entry>
   <entry>
-    <title>AIで浮いた時間を「もっと作る」に使っていませんか</title>
-    <id>https://zenn.dev/idealog/articles/a3e9cf4299b1cf</id>
-    <link href="https://zenn.dev/idealog/articles/a3e9cf4299b1cf" />
-    <updated>2026-10-11T17:27:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 作るスピードと量は...</summary>
-  </entry>
-  <entry>
     <title>「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本</title>
     <id>https://zenn.dev/zhidao/articles/e5982e81b6dbbf</id>
     <link href="https://zenn.dev/zhidao/articles/e5982e81b6dbbf" />
@@ -645,6 +637,14 @@
     <updated>2026-10-09T22:08:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 社外のベンダーを Entra ID にゲスト（B2B）として招き、AWS の EC2 にオンプレミス データ ゲートウェイを立ててもらう構成で、ゲートウェイの登録が2回止まりました。 ベンダー（ゲスト）のアカウントでは登録できなかった テナントの社員のアカウントに切り替えると、サインインが 0xCAA80000 で止まった この2つの原因と対応をまとめます。ベンダーをゲストで招いて Po…</summary>
+  </entry>
+  <entry>
+    <title>AIで浮いた時間を「もっと作る」に使っていませんか</title>
+    <id>https://zenn.dev/idealog/articles/a3e9cf4299b1cf</id>
+    <link href="https://zenn.dev/idealog/articles/a3e9cf4299b1cf" />
+    <updated>2026-10-09T19:40:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 ! 本記事は筆者個人の考えであり、正解を示すものではありません。また後半で「役割」の話にも触れますが、特定の職種…</summary>
   </entry>
   <entry>
     <title>dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた</title>
