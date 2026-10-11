@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T20:30:10.066283+09:00</updated>
+  <updated>2026-10-11T21:00:13.239425+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>月間100万人のサービス刷新で、 技術選定をHonoに振り切った話</title>
+    <id>https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</id>
+    <link href="https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a" />
+    <updated>2026-10-11T17:34:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。</summary>
+  </entry>
+  <entry>
+    <title>AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr</title>
+    <id>https://note.com/kenichiota0711/n/n7c8035175167</id>
+    <link href="https://note.com/kenichiota0711/n/n7c8035175167" />
+    <updated>2026-10-11T00:27:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します。 これは『AIを活用した仕組み』が作れるようになる27のルールと11ステップをskill化したものです。普段私が使っているルールを、そのままお渡しできる形にしました。記事の最後にダウンロードできます。 できるようになること『AIを...</summary>
+  </entry>
+  <entry>
+    <title>React習熟度ベンチマークでHaiku 5.5が見せた底力</title>
+    <id>https://zenn.dev/uhyo/articles/react-profession-bench-20</id>
+    <link href="https://zenn.dev/uhyo/articles/react-profession-bench-20" />
+    <updated>2026-10-10T23:35:53+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>皆さんこんにちは。React習熟度シリーズの20記事目です。今回は、Claude Haiku 5.5のReact習熟度ベンチマークの結果をお届けしようと思います。Claude Haiku 5.5は、Haikuシリーズで久しぶりに出たモデルです。HaikuはClaudeシリーズの中で最も廉価なモデルで、そこそこの性能の代わりに安いという位置づけです。そんなHaiku 5.5は、いったいどんな結果を出…</summary>
+  </entry>
   <entry>
     <title>pixiv閲覧中にMcAfeeを装ったAndroidの盗聴警告画面が突然表示…カメラ・マイク動作中や「誰かがあなたの銀行情報と連絡先にアクセスしようとしています」という警告文も</title>
     <id>https://togetter.com/li/2756877</id>
@@ -215,14 +239,6 @@
     <summary>「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0/hayamimi: 早耳 - Real-time multi...</summary>
   </entry>
   <entry>
-    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
-    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
-    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
-    <updated>2026-10-11T10:59:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態...</summary>
-  </entry>
-  <entry>
     <title>「妻とsetlogをやり始めたら、これが思った以上に良い効果を生んでいる」お互いの生活がビジュアルで伝わると会話もスムーズになると気づいた</title>
     <id>https://togetter.com/li/2756515</id>
     <link href="https://togetter.com/li/2756515" />
@@ -237,6 +253,14 @@
     <updated>2026-10-08T17:35:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>TOPICS Database , System/Network 発行年月日 2026年11月05日 PRINT LENGTH 664 ISBN 978-4-8144-0180-2 原書 Designing Data-Intensive Applications, 2nd Edition FORMAT Print 現代の分散システム設計において、データの扱いは重要な課題です。システムは、スケーラビ…</summary>
+  </entry>
+  <entry>
+    <title>オートパイロットは外せる人間を前提にしている — AI時代のエンジニア技能維持を航空業界に学ぶ</title>
+    <id>https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1</id>
+    <link href="https://zenn.dev/shimitaro/articles/eb45d8d63c7bd1" />
+    <updated>2026-10-05T17:06:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態を、規制当局が訓練の仕組みとして維持させています。 この記事では、FAA（米国連邦航空局）、EASA…</summary>
   </entry>
   <entry>
     <title>システムのアップデートでデプロイが失敗し、営業時間中に本番環境を予告なしに削除した人がいて全社の業務が停止「どうすればよかったのか？」→業務フローに問題がある？</title>
@@ -378,9 +402,9 @@
     <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
     <id>https://zenn.dev/mattn/articles/6e9996319ac099</id>
     <link href="https://zenn.dev/mattn/articles/6e9996319ac099" />
-    <updated>2026-10-11T02:16:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 これまで別の場所で開発されていた vec1 が、まるっと SQLite 本体のリポジトリに取り込まれました。本体は vec1...</summary>
+    <updated>2026-10-11T02:16:42+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into directory ext/vec1/ of this project. これまで別の場所で開発されてい…</summary>
   </entry>
   <entry>
     <title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-08T18:03:34+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Javaの実務経験はありますが、Spring Bootはまったくの初学者です。 このシリーズでは、Spring Bootをゼロから学びながら「JWT認証付きのタスク管理REST API」を完成させるまでの過程を、全8本の記事にまとめていきます。 # テー...</summary>
-  </entry>
-  <entry>
-    <title>DGX Sparkで探る、検証・改善可能なAI × Harness－4</title>
-    <id>https://qiita.com/maokiXXX/items/171341aa8813db32e213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maokiXXX/items/171341aa8813db32e213?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-08T11:32:08+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>【第4部】DGX Sparkを動かして見えてきた、ローカルAI運用の「見えないコスト」 電力・GPU・通信をObservabilityする はじめに これまで、DGX Sparkを使ってローカルAIの環境を少しずつ構築してきました。 第1部では、一体のHermes ...</summary>
-  </entry>
-  <entry>
-    <title>bpmn.io で始める AI-Ready な業務フロー管理 | フューチャー技術ブログ</title>
-    <id>https://future-architect.github.io/articles/20261009a/</id>
-    <link href="https://future-architect.github.io/articles/20261009a/" />
-    <updated>2026-10-10T10:47:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめにみなさんは業務フローを書いたことはあるでしょうか。 業務フローは、ある業務を誰がどの順番で進めるかを図にしたものです。申請者が申請を登録し、承認者が承認し、購買担当が発注する、といった手順を担当者ごとのレーンに分け、矢印でつなぎます。システムの開発現場ではグランドデザインや要件定義などの工...</summary>
-  </entry>
-  <entry>
-    <title>写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2147318.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2147318.html" />
-    <updated>2026-10-10T08:24:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>写真も動画も声もまとめて0.74Bで検索。ローカルRAG向け「EmbeddingGemma 2」</summary>
   </entry>
 </feed>
