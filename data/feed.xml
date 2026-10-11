@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-11T16:30:15.360658+09:00</updated>
+  <updated>2026-10-11T17:00:12.799780+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Agent Mode in the DuckDB CLI</title>
+    <id>https://duckdb.org/2026/10/09/agent-mode</id>
+    <link href="https://duckdb.org/2026/10/09/agent-mode" />
+    <updated>2026-10-10T11:58:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>TL;DR: The DuckDB v2.0 CLI has an agent mode that gets AI coding agents to a correct result faster and with fewer tokens. When the CLI detects an agent, it prints compact Markdown tables instead of pa…</summary>
+  </entry>
   <entry>
     <title>AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog</title>
     <id>https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-10T00:12:30+09:00</updated>
     <category term="はてブ IT" />
     <summary>とある日、Cloudflareのダッシュボードを開いた私は、目玉が飛び出そうになりました。 いつもは数円で収まっている個人開発サービスの従量課金の請求見込みが、8000円近くまでに跳ね上がっていました。 え、なんで？ 見た瞬間、嫌な汗をかきました。 運用コストはほぼ無料枠に収まるように設計していたはずなのに、いき...</summary>
-  </entry>
-  <entry>
-    <title>日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入</title>
-    <id>https://av.watch.impress.co.jp/docs/news/2147140.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2147140.html" />
-    <updated>2026-10-09T21:18:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日本初、音響透過型シネマLEDスクリーンが「MOVIXさいたま」に。12月4日導入</summary>
   </entry>
 </feed>
