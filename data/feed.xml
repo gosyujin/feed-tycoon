@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T22:00:17.579898+09:00</updated>
+  <updated>2026-10-12T22:30:17.325608+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</title>
+    <id>https://togetter.com/li/2757347</id>
+    <link href="https://togetter.com/li/2757347" />
+    <updated>2026-10-12T21:00:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</summary>
+  </entry>
+  <entry>
+    <title>How I Build UIs with AI</title>
+    <id>https://kdy1.dev/2026-10-12-ai-ui</id>
+    <link href="https://kdy1.dev/2026-10-12-ai-ui" />
+    <updated>2026-10-12T17:45:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>A lot of people say UI work is difficult with AI, so I wanted to briefly share how I do it. My workflow is: With $design-ui, the AI uses imagegen to create a mockup and asks for my approval. With $add…</summary>
+  </entry>
+  <entry>
+    <title>AppleのスマートホームハブはA18チップ搭載＆壁掛けモデルも用意され「HomeView」という名称で11月出荷か</title>
+    <id>https://gigazine.net/news/20261012-apple-smart-home-homeview/</id>
+    <link href="https://gigazine.net/news/20261012-apple-smart-home-homeview/" />
+    <updated>2026-10-12T10:02:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleはスマートホーム関連デバイスを開発中で、10月13日開催予定の新製品発表会でこれらを発表すると目されています。そんなスマートホーム関連デバイスの中心となるスマートホームハブは、「HomeView」という名称になると報じられました。 Apple Smart Home Launch Oct. 13 Plans; HomeView Has Mid-November Release ...</summary>
+  </entry>
+  <entry>
+    <title>折りたたみスマホ8世代分の進化を薄型ボディに凝縮した「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」「Galaxy Z Flip8」外観レビュー</title>
+    <id>https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/</id>
+    <link href="https://gigazine.net/news/20261011-samsung-galaxy-z-fold8-ultra-fold8-flip8-appearance/" />
+    <updated>2026-10-11T23:48:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Samsungが本体を横折りで折りたためるスマートフォン「Galaxy Z Fold8 Ultra」「Galaxy Z Fold8」と、縦折りで折りたためるスマートフォン「Galaxy Z Flip8」を2026年8月にリリースしました。Foldは8世代目、Flipは7世代目で、それぞれ歴代最薄ボディに進化を遂げているということなので、どんな端末なのかを借りて確か...</summary>
+  </entry>
+  <entry>
+    <title>ダイソーで1100円の「GaN USB充電器」は折り畳みプラグで外出用に持ち歩きやすい 45W出力対応でPCでも使える</title>
+    <id>https://www.itmedia.co.jp/mobile/articles/2610/10/news011.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2610/10/news011.html" />
+    <updated>2026-10-10T20:54:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近、いわゆる「100円ショップ」など格安雑貨店でスマートフォンやPCを便利に使えるアクセサリー類がよく販売されている。その“実力”はいかほどのものか……？ 今回は、ダイソーにおいて1100円で販売されている「GaN USB充電器（POWER DELIVERY45W）」のブラックモデルを試した。発売当時、一部のSNSで話題となった商品だ...</summary>
+  </entry>
+  <entry>
+    <title>金融庁、本人確認は「画像」から「ICチップ」へ 早期移行を要請 免許証の大規模流出を受け</title>
+    <id>https://japan.cnet.com/article/35253438/</id>
+    <link href="https://japan.cnet.com/article/35253438/" />
+    <updated>2026-10-10T20:05:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>金融庁は10月9日、金融機関などに対し、非対面の本人確認を、書類の画像を送る方法から書類のICチップ情報を読み取る方法へ、できるだけ早く切り替えるよう求めた。インターネット上の顧客向けサービスや業務システムへの不正アクセスが相次ぎ、運転免許証などの画像を含む顧客情報が漏えいしていることを受けた対応だ。...</summary>
+  </entry>
   <entry>
     <title>【C++言語入門STL編】 第2回 文字列操作</title>
     <id>https://zenn.dev/yoshia/articles/cpp2-section2-string-operations-0bc4a0ca4858</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-10T08:10:47+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 日本語プログラミング言語あおい（Aoi）の実装言語仕様を生成AIに読み込ませて仕様駆動開発を展開しており、本記事は実装完了した「最小セット（MVP）」1の完了評価フェーズのステップ１になります。 日本語プログラミング言語あおい（Aoi）という自作言語の企画趣旨は...</summary>
-  </entry>
-  <entry>
-    <title>スマホ全盛期のいま、ガラケーの時代がまたやってくるかも？ | ギズモード・ジャパン</title>
-    <id>https://www.gizmodo.jp/article/2610-light-flip-phone-digital-detox/</id>
-    <link href="https://www.gizmodo.jp/article/2610-light-flip-phone-digital-detox/" />
-    <updated>2026-10-10T01:00:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年7月24日の記事を編集して再掲載しています。 何でもすぐにわかる、すぐに繋がれる時代の逆を行く。 携帯電話ってどこでも電話をかけられるだけだったはずが、今では電話どころか、小さなパソコンになり、AIがどんどん入り込んできて、なんだか疲れちゃったという方。こちらをご紹介したいと思います。 シンプルな...</summary>
-  </entry>
-  <entry>
-    <title>AIが攻撃を自動実行する時代、セキュリティ資格は本当に古びたのか</title>
-    <id>https://qiita.com/tasklog/items/c6dbb5bbf2c789c290fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tasklog/items/c6dbb5bbf2c789c290fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T17:08:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>2026年の秋、セキュリティまわりから続けて出てきた言葉がある。AIが関与する侵害が、もう無視できない規模で報告され始めているという指摘。自律型AIエージェント攻撃の時代に入った、という言い方も目にするようになった。そしてAIモデルを作る企業自身が、ある攻撃キャンペーンの大...</summary>
-  </entry>
-  <entry>
-    <title>AIエージェント向けAPIを設計して分かった「自由にさせるための制約」</title>
-    <id>https://qiita.com/atelier-kame/items/b0c6262a46be8ef416e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/atelier-kame/items/b0c6262a46be8ef416e1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T10:33:36+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AIエージェント向けAPIを設計して分かった「自由にさせるための制約」 AIエージェントにソフトウェアを操作させるとき、どこまで専用機能を用意すべきでしょうか。 自然言語による操作画面、AI専用のAPI、MCPサーバー、用途ごとのツール。いろいろな方法が考えられます。 一...</summary>
-  </entry>
-  <entry>
-    <title>Agent Mode in the DuckDB CLI</title>
-    <id>https://duckdb.org/2026/10/09/agent-mode</id>
-    <link href="https://duckdb.org/2026/10/09/agent-mode" />
-    <updated>2026-10-10T11:58:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>TL;DR: The DuckDB v2.0 CLI has an agent mode that gets AI coding agents to a correct result faster and with fewer tokens. When the CLI detects an agent, it prints compact Markdown tables instead of pa…</summary>
-  </entry>
-  <entry>
-    <title>AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/11/012014" />
-    <updated>2026-10-11T06:06:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年1...</summary>
-  </entry>
-  <entry>
-    <title>AI×アーキテクト | 技術評論社</title>
-    <id>https://gihyo.jp/book/2026/978-4-297-16033-3</id>
-    <link href="https://gihyo.jp/book/2026/978-4-297-16033-3" />
-    <updated>2026-10-06T13:01:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし...</summary>
   </entry>
 </feed>
