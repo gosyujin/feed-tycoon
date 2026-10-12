@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T21:30:14.014547+09:00</updated>
+  <updated>2026-10-12T22:00:17.579898+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【C++言語入門STL編】 第2回 文字列操作</title>
+    <id>https://zenn.dev/yoshia/articles/cpp2-section2-string-operations-0bc4a0ca4858</id>
+    <link href="https://zenn.dev/yoshia/articles/cpp2-section2-string-operations-0bc4a0ca4858" />
+    <updated>2026-10-12T16:01:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>https://youtu.be/5nDF56Iw_Pg \textcolor{pink}{四国めたん: }教師役ですわ \textcolor{lime}{ずんだもん: }生徒役なのだ \footnotesize \textcolor{pink}{四国めたん:} こんにちは。四国めたんです \footnotesize \textcolor{lime}{ずんだもん:} ずんだもんなのだ。こんにちはな…</summary>
+  </entry>
+  <entry>
+    <title>Amazon Bedrock の利用料金をユーザーごとに確認するダッシュボードを CUR 2.0 と Amazon Quick で作る</title>
+    <id>https://zenn.dev/aws_japan/articles/aws-bedrock-cur2-user-cost-dashboard</id>
+    <link href="https://zenn.dev/aws_japan/articles/aws-bedrock-cur2-user-cost-dashboard" />
+    <updated>2026-10-12T13:17:19+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Amazon Bedrock の利用料金をユーザーごとに確認するダッシュボードを CUR 2.0 と Amazon Quick で作る こんにちは！ AWS でソリューションアーキテクトをしている杉山です。 Claude Desktop (Chat / Cowork) や Claude Code を Amazon Bedrock 経由で社内に展開すると、「誰が、どのモデルを、どれくらい使っているの…</summary>
+  </entry>
+  <entry>
+    <title>GitHub ActionsのSHA Pinningだけで本当に大丈夫ですか？</title>
+    <id>https://zenn.dev/nishino_hiroki/articles/d7570d3bb3408f</id>
+    <link href="https://zenn.dev/nishino_hiroki/articles/d7570d3bb3408f" />
+    <updated>2026-10-10T19:02:38+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>tj-actions や Trivy の侵害があってから、Action を SHA Pinning するのはだいぶ当たり前になりました。 多くの方々が対策として pinact などを利用して読み込まれる Action を固定しているのではないでしょうか。 一方、この SHA Pinning だけでは守れないケースがあります。 どのようなケースで守れないのか、Action の利用者側と Action…</summary>
+  </entry>
   <entry>
     <title>無料で自分のPCにインストールされているAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能をすべてスキャンして列挙してレポートしてくれる「Geiger」</title>
     <id>https://gigazine.net/news/20261012-geiger/</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-06T13:01:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>著者 元木大介（もときだいすけ），熊井悠（くまいゆう） 著 定価 2,860円（本体2,600円＋税10%） 発売日 2026.10.27 判型 A5 頁数 288ページ ISBN 978-4-297-16033-3 978-4-297-16034-0 概要 AIにコードを書かせる。文章を書かせる。設計図を描かせる。作ることのスピードは、この数年で桁違いに上がりました。しかし...</summary>
-  </entry>
-  <entry>
-    <title>CPUのみで動作するリアルタイム多言語音声認識「早耳」、GPUもクラウドAPIも使わずメモリ2GB未満でライブ字幕表示からブラウザ表示・話者ラベル付け・翻訳字幕まで可能</title>
-    <id>https://gigazine.net/news/20261011-hayamimi/</id>
-    <link href="https://gigazine.net/news/20261011-hayamimi/" />
-    <updated>2026-10-11T13:33:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Hayamimi(早耳)」はGPUやクラウドAPIに依存せずCPUのみで動作する軽量なリアルタイム多言語音声認識システムです。メモリ2GB未満の環境でもライブ字幕表示・話者ラベル付け・翻訳字幕生成まで対応し、発話中から字幕が出始め話し終えて約100msで確定する高速性が特徴です。 oboroge0/hayamimi: 早耳 - Real-time multi...</summary>
-  </entry>
-  <entry>
-    <title>「妻とsetlogをやり始めたら、これが思った以上に良い効果を生んでいる」お互いの生活がビジュアルで伝わると会話もスムーズになると気づいた</title>
-    <id>https://togetter.com/li/2756515</id>
-    <link href="https://togetter.com/li/2756515" />
-    <updated>2026-10-10T16:42:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>谷口恒平 @taniguchikohei 妻とsetlogをしている。これが思った以上に良い効果を生んでいる。 setlogとは1時間に2秒だけ映像を撮り、短いテロップを入れて相手と共有できるアプリ。1日ごとに二分割の画面が出来上がり、スプリットスクリーンでそれぞれの行動が映し出される。不特定多数に見られることはない。 良かった...</summary>
-  </entry>
-  <entry>
-    <title>データ指向アプリケーションデザイン 第2版</title>
-    <id>https://www.oreilly.co.jp//books/9784814401802/</id>
-    <link href="https://www.oreilly.co.jp//books/9784814401802/" />
-    <updated>2026-10-08T17:35:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>TOPICS Database , System/Network 発行年月日 2026年11月05日 PRINT LENGTH 664 ISBN 978-4-8144-0180-2 原書 Designing Data-Intensive Applications, 2nd Edition FORMAT Print 現代の分散システム設計において、データの扱いは重要な課題です。システムは、スケーラビ…</summary>
   </entry>
 </feed>
