@@ -1,5 +1,73 @@
 [
   {
+    "title": "Reservoir Computing で公開ベンチマークの異常検知をやってみる",
+    "url": "https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection",
+    "domain": "zenn.dev",
+    "description": "はじめに 今までの記事では自分で作った合成データだけでしたが、今回は外部の公開ベンチマークを使います。MGAB (Mackey-Glass Anomaly Benchmark) です。 先に正直に書いておくと、MGAB は「実データ」ではありません。Mackey-Glass 系列に人工的な異常区間を挿入して作られた合成ベンチマークです。実データ (UCR Anomaly Archive) も候補に…",
+    "publishedAt": "2026-10-12T10:49:27+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Microsoft-Decision-1でAI-OCRの品質ゲートを作ってみた",
+    "url": "https://zenn.dev/headwaters/articles/6e889f79ee9f2e",
+    "domain": "zenn.dev",
+    "description": "執筆日 2026/10/12 参考資料 https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-microsoft-decision-1-in-microsoft-f…",
+    "publishedAt": "2026-10-12T10:45:36+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/headwaters/articles/6e889f79ee9f2e",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "画像はどうやってベクトルになるのか — 正解の画像でも類似度が 0.5 に届かない理由",
+    "url": "https://zenn.dev/kotap/articles/clip-image-embedding",
+    "domain": "zenn.dev",
+    "description": "テキストをベクトルにする話はよく見るが、画像はどうやってベクトルになるのか。 この記事では CLIP を手元で動かし、中間の値を実際に取り出しながら処理を追う。後半では、テキストで画像を検索したときのスコアが実際にどう分布するかを MS-COCO の 1,000 枚で測る。 スコアには、2 つのベクトルの向きがどれだけ揃っているかを表す コサイン類似度（以下 cos）を使う。同じ向きなら 1、直交…",
+    "publishedAt": "2026-10-12T10:00:05+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kotap/articles/clip-image-embedding",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "Strands BoxをEC2 Macで実測 — Dogwoodポリシーが効く経路を仕分け",
+    "url": "https://zenn.dev/kashiwabaray/articles/fc2d097da71f30",
+    "domain": "zenn.dev",
+    "description": "1. はじめに AI コーディングエージェントを、操作ごとの承認なしで動かす運用が増えています。そうした運用で問題になるのは、「どこまで触れるか」だけではありません。「触れてよいものに対して何をしてよいか」も決めておく必要があります。コンテナや microVM はアクセス範囲に境界を引けます。一方で「機密ファイルを読んだあとは特定の宛先への送信を禁止する」「Slack への投稿は10分に3回まで」…",
+    "publishedAt": "2026-10-11T23:12:08+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kashiwabaray/articles/fc2d097da71f30",
+    "bookmarkCount": 0
+  },
+  {
     "title": "ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？",
     "url": "https://posfie.com/@cashewNutsUmai/p/YXvMlOP",
     "domain": "posfie.com",
@@ -12,9 +80,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T14:00:14.384337+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/posfie.com/@cashewNutsUmai/p/YXvMlOP",
-    "bookmarkCount": 11
+    "bookmarkCount": 17
   },
   {
     "title": "【悲報】AIに自動化させることがない！",
@@ -29,7 +97,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T14:00:14.384337+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261011170523",
     "bookmarkCount": 5
   },
@@ -46,9 +114,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T14:00:14.384337+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/nyosegawa.com/posts/openai-decisions-api-image-classification/",
-    "bookmarkCount": 7
+    "bookmarkCount": 8
   },
   {
     "title": "Google AI Edge Foresight | Google for Developers",
@@ -63,9 +131,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T14:00:14.384337+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/developers.google.com/edge/foresight",
-    "bookmarkCount": 8
+    "bookmarkCount": 9
   },
   {
     "title": "「言語モデルはテキストを理解していない」ことを意味する「確率的オウム」とは？",
@@ -80,9 +148,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T13:30:14.050409+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261012-stochastic-parrot/",
-    "bookmarkCount": 8
+    "bookmarkCount": 14
   },
   {
     "title": "ビル・ゲイツ氏、AI悪用のサイバー攻撃増加を警告 「今後1年で顕著に」",
@@ -97,9 +165,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T13:30:14.050409+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.afpbb.com/articles/-/3657090",
-    "bookmarkCount": 11
+    "bookmarkCount": 12
   },
   {
     "title": "【完全版】電子書籍をPDF化・OCRする方法｜Kindle・Kobo・DMMなど5サービス対応の無料アプリ | Odds and Ends",
@@ -114,9 +182,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T13:30:14.050409+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/web.archive.org/web/20261011101825/https://lyttonblog.com/programming/ebook-pdf-ocr/",
-    "bookmarkCount": 10
+    "bookmarkCount": 25
   },
   {
     "title": "日本が急にハッキング被害の一斉標的にされたのは日本語がAIで解読されたことが原因のひとつなのか？…技術的にはずっとハッキングされていたが被害になったのはそれかも",
@@ -131,7 +199,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T13:00:13.135890+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2757116",
     "bookmarkCount": 15
   },
@@ -148,9 +216,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T13:00:13.135890+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261009-openai-disrupted-russian-operation-dark-clark/",
-    "bookmarkCount": 9
+    "bookmarkCount": 10
   },
   {
     "title": "個人情報の流出にユーザーはどう備える？ 乗っ取りやクレカ不正利用を防ぐ「3段階」の対策ガイド",
@@ -165,9 +233,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T12:30:14.754265+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/mobile/articles/2610/12/news011.html",
-    "bookmarkCount": 24
+    "bookmarkCount": 30
   },
   {
     "title": "MicrosoftのナデラCEO、「SIモデルは“内部リスク”として扱うべき」とXに投稿 統制はモデルの外に置くよう提言",
@@ -182,9 +250,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T12:00:13.628011+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/12/2000002195/",
-    "bookmarkCount": 30
+    "bookmarkCount": 33
   },
   {
     "title": "攻撃者はWebアプリのどこを狙う？ 初心者でも今すぐできるセキュリティチェックリスト - Qiita",
@@ -199,9 +267,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T12:00:13.628011+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/Koukyosyumei/items/8aaa44ff15a3b404fd8b",
-    "bookmarkCount": 36
+    "bookmarkCount": 39
   },
   {
     "title": "【やじうまミニレビュー】 こういうのでいいんだよ……のはずだった。Amazonベーシック格安USB4ケーブル",
@@ -216,9 +284,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T10:00:14.779105+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2147366.html",
-    "bookmarkCount": 112
+    "bookmarkCount": 122
   },
   {
     "title": "Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス - Qiita",
@@ -233,9 +301,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T10:00:14.779105+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5",
-    "bookmarkCount": 65
+    "bookmarkCount": 68
   },
   {
     "title": "Besu ローカル環境構築ハンズオン",
@@ -250,7 +318,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-12T09:00:13.404305+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/komlock_lab/articles/besu-local-network-handson",
     "bookmarkCount": 0
   },
@@ -267,7 +335,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T09:00:13.404305+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/440/4440915/",
     "bookmarkCount": 23
   },
@@ -284,9 +352,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T07:30:13.633863+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/diary.hatenablog.jp/entry/2026/10/11/204055",
-    "bookmarkCount": 119
+    "bookmarkCount": 123
   },
   {
     "title": "証券口座パスキーの安全性を高めよ！”物理キー”を本格導入した話",
@@ -301,9 +369,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T07:30:13.633863+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/toruoka.xyz/202610_security_key/",
-    "bookmarkCount": 269
+    "bookmarkCount": 279
   },
   {
     "title": "【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた",
@@ -539,9 +607,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T01:00:14.329902+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/github.com/p10node/k10s",
-    "bookmarkCount": 13
+    "bookmarkCount": 14
   },
   {
     "title": "「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる",
@@ -556,9 +624,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T00:00:09.499659+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2756939",
-    "bookmarkCount": 240
+    "bookmarkCount": 242
   },
   {
     "title": "個人がCAD「SolveCraft」を無料公開、Fusionの部品76個を再現 - FabScene（ファブシーン）",
@@ -573,9 +641,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-12T00:00:09.499659+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/fabscene.com/new/make/solvecraft-open-source-parametric-3d-cad-rust-fusion-76-parts-mcp/",
-    "bookmarkCount": 25
+    "bookmarkCount": 27
   },
   {
     "title": "止まらない不正アクセス ローソン215万件、ココナラやSansanでも情報漏えい",
@@ -592,7 +660,7 @@
     "firstSeenAt": "2026-10-11T22:30:13.050981+09:00",
     "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35253437/",
-    "bookmarkCount": 7
+    "bookmarkCount": 8
   },
   {
     "title": "GPU不要で驚きの精度。リアルタイム多言語文字起こしツール「hayamimi」使ってみましたー。｜ゆいまる‐IT界隈以外でAIを使いまくる2005年生まれ",
@@ -607,9 +675,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-11T21:30:13.242608+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/note.com/humble_bobcat51/n/n64602c64db6c",
-    "bookmarkCount": 193
+    "bookmarkCount": 194
   },
   {
     "title": "月間100万人のサービス刷新で、 技術選定をHonoに振り切った話",
@@ -624,9 +692,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-11T21:00:13.239425+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a",
-    "bookmarkCount": 118
+    "bookmarkCount": 119
   },
   {
     "title": "AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr",
@@ -658,7 +726,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-11T21:00:13.239425+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/uhyo/articles/react-profession-bench-20",
     "bookmarkCount": 1
   },
@@ -675,7 +743,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-11T20:30:10.066283+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2756877",
     "bookmarkCount": 23
   },
@@ -692,7 +760,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-11T19:30:16.656212+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/songmu.jp/riji/entry/2026-10-11-github-actions-artifact-attestations.html",
     "bookmarkCount": 59
   },
@@ -709,9 +777,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-11T19:30:16.656212+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/slides.yusu.ke/honoconf-2026",
-    "bookmarkCount": 79
+    "bookmarkCount": 80
   },
   {
     "title": "神戸の開発者が小型シンセ「FM-1」の非公式ファームウェアを公開、音源は13種類 - FabScene（ファブシーン）",
@@ -728,7 +796,7 @@
     "firstSeenAt": "2026-10-11T19:30:16.656212+09:00",
     "lastSeenAt": "2026-10-12T12:30:14.754265+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/fabscene.com/new/make/felucca-m-vave-fm-1-custom-firmware-13-synth-engines-hugelton/?PageSpeed=noscript",
-    "bookmarkCount": 21
+    "bookmarkCount": 22
   },
   {
     "title": "エージェントにコミット整理を教えるgit-surgeonが良さげかも | kawarimidoll.com",
@@ -796,7 +864,7 @@
     "firstSeenAt": "2026-10-11T18:00:14.150682+09:00",
     "lastSeenAt": "2026-10-12T11:00:14.262012+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261011075112",
-    "bookmarkCount": 63
+    "bookmarkCount": 64
   },
   {
     "title": "実体験から学ぶ分析エージェントの開発と運⽤",
@@ -1119,7 +1187,7 @@
     "firstSeenAt": "2026-10-11T13:30:12.745047+09:00",
     "lastSeenAt": "2026-10-11T20:30:10.066283+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2756515",
-    "bookmarkCount": 45
+    "bookmarkCount": 46
   },
   {
     "title": "データ指向アプリケーションデザイン 第2版",
@@ -1151,9 +1219,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-11T13:30:12.745047+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/shimitaro/articles/eb45d8d63c7bd1",
-    "bookmarkCount": 148
+    "bookmarkCount": 149
   },
   {
     "title": "システムのアップデートでデプロイが失敗し、営業時間中に本番環境を予告なしに削除した人がいて全社の業務が停止「どうすればよかったのか？」→業務フローに問題がある？",
@@ -1221,7 +1289,7 @@
     "firstSeenAt": "2026-10-11T13:00:14.344525+09:00",
     "lastSeenAt": "2026-10-12T11:30:12.357394+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/10/2000002038/",
-    "bookmarkCount": 169
+    "bookmarkCount": 170
   },
   {
     "title": "【速報】Claude の新機能 Claude Motion 早速使ってみた",
@@ -1236,7 +1304,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-11T13:00:14.344525+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/branbran/articles/047821d64590f0",
     "bookmarkCount": 15
   },
@@ -1406,7 +1474,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-11T08:30:13.824594+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/komatsuh/articles/komatsuh_mozc_updates_from_2025_10",
     "bookmarkCount": 0
   },
@@ -1457,9 +1525,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-11T05:43:15.885838+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mattn/articles/6e9996319ac099",
-    "bookmarkCount": 232
+    "bookmarkCount": 233
   },
   {
     "title": "AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる",
@@ -1819,23 +1887,6 @@
     "bookmarkCount": 13
   },
   {
-    "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
-    "url": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
-    "domain": "zenn.dev",
-    "description": "はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 作るスピードと量は...",
-    "publishedAt": "2026-10-11T17:27:53+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-10T21:30:13.598619+09:00",
-    "lastSeenAt": "2026-10-12T14:00:14.384337+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/idealog/articles/a3e9cf4299b1cf",
-    "bookmarkCount": 32
-  },
-  {
     "title": "「マニピュレータ動的制御のための新しいフィードバック制御」竹垣，有本",
     "url": "https://zenn.dev/zhidao/articles/e5982e81b6dbbf",
     "domain": "zenn.dev",
@@ -1887,6 +1938,23 @@
     "bookmarkCount": 0
   },
   {
+    "title": "AIで浮いた時間を「もっと作る」に使っていませんか",
+    "url": "https://zenn.dev/idealog/articles/a3e9cf4299b1cf",
+    "domain": "zenn.dev",
+    "description": "はじめに 株式会社アイデアログで取締役CTOをしている松川です。 当社は法人・団体向けの会場検索サイト「会場ベストサーチ」や、レンタルスペース検索の「スペなび」などを運営しています。 今回は「AIで効率化されて生まれた時間を、何に使うべきか」について、最近考えていることを書いてみます。 ! 本記事は筆者個人の考えであり、正解を示すものではありません。また後半で「役割」の話にも触れますが、特定の職種…",
+    "publishedAt": "2026-10-09T19:40:07+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-10-10T21:30:13.598619+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/idealog/articles/a3e9cf4299b1cf",
+    "bookmarkCount": 32
+  },
+  {
     "title": "dbt Wizard vs Claude Code: 同じdbtタスクを頼んで挙動の違いを見てみた",
     "url": "https://zenn.dev/intage_tech/articles/art026-dbt-wizard-try",
     "domain": "zenn.dev",
@@ -1916,7 +1984,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-10T21:30:13.598619+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/genda_jp/articles/haiku-5-5-subagent-roles",
     "bookmarkCount": 69
   },
@@ -1986,7 +2054,7 @@
     "firstSeenAt": "2026-10-10T21:00:13.119433+09:00",
     "lastSeenAt": "2026-10-11T12:30:12.968566+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/takashi.company/kbdsim/",
-    "bookmarkCount": 28
+    "bookmarkCount": 29
   },
   {
     "title": "若手エンジニアに必要だと感じた「AIを使う力」",
@@ -2001,7 +2069,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-10T21:00:13.119433+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/muit_techblog/articles/6ea28887c79457",
     "bookmarkCount": 110
   },
@@ -2088,7 +2156,7 @@
     "firstSeenAt": "2026-10-10T18:30:13.667812+09:00",
     "lastSeenAt": "2026-10-11T17:00:12.799780+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/nyosegawa.com/posts/data-leak-era/",
-    "bookmarkCount": 206
+    "bookmarkCount": 207
   },
   {
     "title": "AI駆動開発の時代になったのでトヨタ生産方式から見直す",
@@ -2528,7 +2596,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-10T14:30:11.986252+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/loglass/articles/f00a7408b2cf0b",
     "bookmarkCount": 2
   },
@@ -3361,9 +3429,9 @@
       "article"
     ],
     "firstSeenAt": "2026-10-09T10:00:15.944534+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/blackmose/articles/de0170a13be930",
-    "bookmarkCount": 696
+    "bookmarkCount": 697
   },
   {
     "title": "半陽的微分代数方程式の解を微分する：VJP編",
@@ -3412,7 +3480,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-09T09:26:15.351235+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/chot/articles/be424332489e7a",
     "bookmarkCount": 1
   },
@@ -4055,7 +4123,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-07T20:30:17.937229+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/edash_tech_blog/articles/c52409a3d6fa12",
     "bookmarkCount": 5
   },
@@ -4724,7 +4792,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T09:00:15.567117+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/radius5/articles/20261004-j3v7cl3f",
     "bookmarkCount": 1
   },
@@ -4741,7 +4809,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-06T09:00:15.567117+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/emuni/articles/ooui-agent-skill",
     "bookmarkCount": 2
   },
@@ -4894,7 +4962,7 @@
       "article"
     ],
     "firstSeenAt": "2026-10-05T16:30:14.034062+09:00",
-    "lastSeenAt": "2026-10-12T13:30:14.050409+09:00",
+    "lastSeenAt": "2026-10-12T14:30:13.585724+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/ai-coding-loop-formal",
     "bookmarkCount": 507
   },
@@ -5373,74 +5441,6 @@
     "lastSeenAt": "2026-10-05T06:00:16.042729+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/canary_techblog/articles/348d976da70857",
     "bookmarkCount": 15
-  },
-  {
-    "title": "テスト要求仕様（TRS）を書いてみたら、テスト設計が楽になった話",
-    "url": "https://zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
-    "domain": "zenn.dev",
-    "description": "こんにちは。e-dashでQAエンジニアをしているuedaです。 みなさんはテストをするにあたって、どんなドキュメントを用意していますか。 e-dash の QA チームでは、テストケースの前に テスト設計書（Test Design） を用意します。 直近では、そのさらに前に テスト要求仕様（Test Requirement Spec、以下 TRS） を挟んでいます。テスト対象がどう動くべきかを確…",
-    "publishedAt": "2026-09-29T11:40:05+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-10-02T10:30:14.409290+09:00",
-    "lastSeenAt": "2026-10-05T13:00:13.565203+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/edash_tech_blog/articles/0d49bd338b64f0",
-    "bookmarkCount": 148
-  },
-  {
-    "title": "学生が無料枠だけでRAGシステムを作った話",
-    "url": "https://zenn.dev/bigshine/articles/ai-librarian-free-tier",
-    "domain": "zenn.dev",
-    "description": "概要 Azure for Students・Supabase Free・GitHub Actions・Oracle Cloud Always Freeを組み合わせて、RAGシステムを無料で作成 1ページのMarkdown化にかかるコストは約$0.006。応答用のモデル仕様を含めても年間$100のAzure for Studentsクレジットで十分運用可能 作ったもの 今回作成するのは、RAGシステ…",
-    "publishedAt": "2026-09-30T22:05:57+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-10-01T23:00:20.592982+09:00",
-    "lastSeenAt": "2026-10-02T06:30:14.553143+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/bigshine/articles/ai-librarian-free-tier",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "Claude Code の使用量はどう数えられているのか ── Max 20x で実測した重みは API 料金表と違った",
-    "url": "https://zenn.dev/tksfjt1024/articles/25c0ab111c277c",
-    "domain": "zenn.dev",
-    "description": "Claude Code を Pro や Max のプランで使うと、使った分だけ「使用量制限」の枠を消費します。この制限には、5 時間ごとにリセットされる「5時間のセッション制限」と、週ごとにリセットされる「週間使用制限」の 2 つがあります[1]。この 5 時間枠と週間枠が何でどれだけ減るのかを、条件を揃えた実験で測り、使用量の計算式を求めました。 主な結果は次のとおりです。 cache read…",
-    "publishedAt": "2026-10-01T11:34:27+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-10-01T20:00:22.124862+09:00",
-    "lastSeenAt": "2026-10-03T21:00:16.497224+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tksfjt1024/articles/25c0ab111c277c",
-    "bookmarkCount": 1
-  },
-  {
-    "title": "オブザーバビリティのAIエージェントをどう評価するか",
-    "url": "https://zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-    "domain": "zenn.dev",
-    "description": "はじめに AIエージェントにオブザーバビリティの仕事をさせたとき、その最終応答の品質が上がったのか下がったのかを、どうやって知るのでしょうか。 エージェントの最終応答を読んで判断する方法は、早い段階で行き詰まります。正しい応答と、正しく見えるだけの応答が同じ見た目をしているからです。しかも同じ質問に毎回同じ応答が返るわけでもなく、期待する文字列を固定したテストは書けません。 この記事では、Graf…",
-    "publishedAt": "2026-10-01T09:00:00+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-10-01T20:00:22.124862+09:00",
-    "lastSeenAt": "2026-10-05T06:00:16.042729+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/ymotongpoo/articles/20261001-agent-eval-loop",
-    "bookmarkCount": 43
   },
   {
     "title": "JavaScriptの統合ツールチェーン「Vite+ 1.0」正式リリース。ランタイム、パッケージマネージャー、ビルドツール、リンター、フォーマッターなどを統一",

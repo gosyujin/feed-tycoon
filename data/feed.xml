@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T14:00:14.384337+09:00</updated>
+  <updated>2026-10-12T14:30:13.585724+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Reservoir Computing で公開ベンチマークの異常検知をやってみる</title>
+    <id>https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection</id>
+    <link href="https://zenn.dev/kotton_mas/articles/rc-basics-05-anomaly-detection" />
+    <updated>2026-10-12T10:49:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今までの記事では自分で作った合成データだけでしたが、今回は外部の公開ベンチマークを使います。MGAB (Mackey-Glass Anomaly Benchmark) です。 先に正直に書いておくと、MGAB は「実データ」ではありません。Mackey-Glass 系列に人工的な異常区間を挿入して作られた合成ベンチマークです。実データ (UCR Anomaly Archive) も候補に…</summary>
+  </entry>
+  <entry>
+    <title>Microsoft-Decision-1でAI-OCRの品質ゲートを作ってみた</title>
+    <id>https://zenn.dev/headwaters/articles/6e889f79ee9f2e</id>
+    <link href="https://zenn.dev/headwaters/articles/6e889f79ee9f2e" />
+    <updated>2026-10-12T10:45:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>執筆日 2026/10/12 参考資料 https://commandline.microsoft.com/microsoft-decision-1-model-foundry/ https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/introducing-microsoft-decision-1-in-microsoft-f…</summary>
+  </entry>
+  <entry>
+    <title>画像はどうやってベクトルになるのか — 正解の画像でも類似度が 0.5 に届かない理由</title>
+    <id>https://zenn.dev/kotap/articles/clip-image-embedding</id>
+    <link href="https://zenn.dev/kotap/articles/clip-image-embedding" />
+    <updated>2026-10-12T10:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>テキストをベクトルにする話はよく見るが、画像はどうやってベクトルになるのか。 この記事では CLIP を手元で動かし、中間の値を実際に取り出しながら処理を追う。後半では、テキストで画像を検索したときのスコアが実際にどう分布するかを MS-COCO の 1,000 枚で測る。 スコアには、2 つのベクトルの向きがどれだけ揃っているかを表す コサイン類似度（以下 cos）を使う。同じ向きなら 1、直交…</summary>
+  </entry>
+  <entry>
+    <title>Strands BoxをEC2 Macで実測 — Dogwoodポリシーが効く経路を仕分け</title>
+    <id>https://zenn.dev/kashiwabaray/articles/fc2d097da71f30</id>
+    <link href="https://zenn.dev/kashiwabaray/articles/fc2d097da71f30" />
+    <updated>2026-10-11T23:12:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. はじめに AI コーディングエージェントを、操作ごとの承認なしで動かす運用が増えています。そうした運用で問題になるのは、「どこまで触れるか」だけではありません。「触れてよいものに対して何をしてよいか」も決めておく必要があります。コンテナや microVM はアクセス範囲に境界を引けます。一方で「機密ファイルを読んだあとは特定の宛先への送信を禁止する」「Slack への投稿は10分に3回まで」…</summary>
+  </entry>
   <entry>
     <title>ウクライナ、「ロシアのGoogle」ヤンデックスのデータセンターを4日で3カ所破壊 ロシアのネットは大混乱、ボットも減った？</title>
     <id>https://posfie.com/@cashewNutsUmai/p/YXvMlOP</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-09T17:28:24+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>チンパンジーに失礼なタイトルです。先に謝罪しておきます。 チンパンジーだらけに見えるのは、人のせいではなく場の設計のせい YouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。 本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。...</summary>
-  </entry>
-  <entry>
-    <title>論文まとめ：semantic world model</title>
-    <id>https://qiita.com/masataka46/items/b9cba5b5f68c0ab3a4a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/masataka46/items/b9cba5b5f68c0ab3a4a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T17:19:15+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに RSS2026 workshopより以下のSemantic World Models。 [1] C. Zhu, et. al. "Semantic World Models" プロジェクトページ：https://weirdlabuw.github.io/swm...</summary>
-  </entry>
-  <entry>
-    <title>産業用振動センサーデータを用いた高速フーリエ変換（FFT）と異常周波数検知アルゴリズムの実装</title>
-    <id>https://qiita.com/NKKTechGlobal/items/f6fd261c319cb4556310?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/NKKTechGlobal/items/f6fd261c319cb4556310?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T15:53:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>産業用振動センサーデータを用いた高速フーリエ変換（FFT）と異常周波数検知アルゴリズムの実装 はじめに こんにちは、NKKTech Global 技術チームです。 工場の稼働停止（ダウンタイム）を防ぐ状態基準保全（CBM: Condition-Based Mainte...</summary>
-  </entry>
-  <entry>
-    <title>AI駆動開発手法ってなんだか詐欺臭いですよね</title>
-    <id>https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T13:45:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「当社独自のAI駆動開発手法を確立しました」「AI駆動開発で工数を90%削減！」という提案書や研修案内を、この1年で山ほど見ました。 多方面かつ主に前線を退いたおじさん方から叱られそうな主張ですが、ぶっちゃけ誰でもそれなりに品質の高いアプリケーションが作れるのが...</summary>
-  </entry>
-  <entry>
-    <title>音声合成に日本語を正しく読んでもらう話 〜高低アクセントからG2Pまで〜 【前編】</title>
-    <id>https://zenn.dev/mkj/articles/speech-tts-japanese-2026</id>
-    <link href="https://zenn.dev/mkj/articles/speech-tts-japanese-2026" />
-    <updated>2026-10-10T22:59:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>株式会社 松尾研究所で働いている栗原です。 以前、「音声合成の日本語化手法が一般化した話」を書きました。 今回は、日本語の難しさと、それを音声合成に扱わせる難しさ、その課題に取り組むために考案した日本語言語処理部（G2P: Grapheme-to-Phoneme）について、前後編に分けて解説していきます。 専門家・理系の方...</summary>
   </entry>
 </feed>
