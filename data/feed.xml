@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T15:30:15.545628+09:00</updated>
+  <updated>2026-10-12T16:00:15.534218+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>実践！ SRE × AI - ABEMA における AIOps -</title>
+    <id>https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops</id>
+    <link href="https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops" />
+    <updated>2026-10-12T14:30:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Hackers Champloo 2026 の登壇資料です https://hackers-champloo.org/2026/program.html</summary>
+  </entry>
   <entry>
     <title>スロップ表現100連発</title>
     <id>https://zenn.dev/todesking/articles/5bc43f449ecdf6</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-10T13:20:27+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Satori GCは、高スループット、短い停止時間と低リソース消費を特徴とするGCですが、手元やプロジェクトでも手軽に使いたかったため、今回導入用のSDKとして公開しました。 導入方法 プロジェクトファイル（.csproj など）に以下の 要素を1...</summary>
-  </entry>
-  <entry>
-    <title>Rust製の自作ゲームエンジンを日中韓対応した話：3万9千行を書き換えずに翻訳する</title>
-    <id>https://qiita.com/mattbusel/items/21fadc696bf5e40a3000?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mattbusel/items/21fadc696bf5e40a3000?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T13:15:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>自作ゲーム「O'BLOCK」(スニーカー転売で10億ドルを目指すローグライト)を日本語・中国語・韓国語に対応させました。問題は、ゲームが自作の Rust エンジン(Proof Engine)で動いていて、フォントアトラスに ASCII と記号しか入っていなかったこと。そして...</summary>
   </entry>
 </feed>
