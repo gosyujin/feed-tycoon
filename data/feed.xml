@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T16:00:15.534218+09:00</updated>
+  <updated>2026-10-12T16:30:14.451405+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHub - bherbruck/solidcraft: SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.</title>
+    <id>https://github.com/bherbruck/solidcraft</id>
+    <link href="https://github.com/bherbruck/solidcraft" />
+    <updated>2026-10-11T22:22:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>An open-source parametric 3D CAD application built in pure Rust. Sketch, constrain, and build solids with a parametric feature timeline. Change a dimension and watch your model rebuild. Run it on your…</summary>
+  </entry>
   <entry>
     <title>実践！ SRE × AI - ABEMA における AIOps -</title>
     <id>https://speakerdeck.com/tetsuya28/jissen-sre-x-ai-abema-niokeru-aiops</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-10T15:13:15+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>調査基準日：2026年10月10日（土）｜対象：DeepSeek、Qwen、GLM、Kimi、MiniMaxほか中国発の公開ウェイトモデル 調査の基本結論 今回の調査では、オープンウェイトのモデルをローカル実行しても消えない危険が、複数の独立した研究によって実証されてい...</summary>
-  </entry>
-  <entry>
-    <title>Satori GCをMSBuild SDKとして公開しました！</title>
-    <id>https://qiita.com/hez2010/items/7334840a4e96851f5a0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hez2010/items/7334840a4e96851f5a0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T13:20:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Satori GCは、高スループット、短い停止時間と低リソース消費を特徴とするGCですが、手元やプロジェクトでも手軽に使いたかったため、今回導入用のSDKとして公開しました。 導入方法 プロジェクトファイル（.csproj など）に以下の 要素を1...</summary>
   </entry>
 </feed>
