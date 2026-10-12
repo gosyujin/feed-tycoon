@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T18:30:13.960791+09:00</updated>
+  <updated>2026-10-12T19:00:17.071538+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>OpenCode から Pi へ切り替えた</title>
+    <id>https://voluntas.ghost.io/migrate-opencode-to-pi/</id>
+    <link href="https://voluntas.ghost.io/migrate-opencode-to-pi/" />
+    <updated>2026-10-12T16:48:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>普段は DeepSeek Harness (以降 DSH) の時雨堂フォークをブラウザで利用しているのですが、 CLI でハーネスを利用する際は OpenCode2 を利用していました。 最近 OpenCode v2 になってデフォルトがデーモン起動になったり、機能が多くなってきてちょっと使いづらいな ... と感じていました。また Ollama Cloud で DeepSe...</summary>
+  </entry>
+  <entry>
+    <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介 - Qiita</title>
+    <id>https://qiita.com/leolui2004/items/226062f17e55202e8c47</id>
+    <link href="https://qiita.com/leolui2004/items/226062f17e55202e8c47" />
+    <updated>2026-10-11T22:11:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 概要 インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕…</summary>
+  </entry>
   <entry>
     <title>人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル</title>
     <id>https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-05T17:06:00+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>AI にコードを書かせる時代に、エンジニアは何の技能を残しておけばいいのか。 航空業界の制度を一次資料でたどると、答えは「自分で書く力」よりも「自動化から引き継ぐ力」のほうに寄っていきました。パイロットは普段から手で操縦しているわけではありません。それでも、自動操縦が外れたときに機体を立て直せる状態を、規制当局が訓練の仕組みとして維持させています。 この記事では、FAA（米国連邦航空局）、EASA…</summary>
-  </entry>
-  <entry>
-    <title>システムのアップデートでデプロイが失敗し、営業時間中に本番環境を予告なしに削除した人がいて全社の業務が停止「どうすればよかったのか？」→業務フローに問題がある？</title>
-    <id>https://togetter.com/li/2756739</id>
-    <link href="https://togetter.com/li/2756739" />
-    <updated>2026-10-11T09:58:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Miyahan @miyahancom システムのアップデートをしようとしたらデプロイがコケたので、営業時間中に本番環境を予告なしに削除した化け物がいて、全社の業務が停止。あちこちから悲鳴。 中間報告書で「検証が甘かった」としており、本番稼働してる環境を消したことの重大さは全く理解せず。 こういうのどうすりゃいいの？ ...</summary>
-  </entry>
-  <entry>
-    <title>AIの文章を読みやすくするskillを作る（文の難しさの点数化＋構造化）</title>
-    <id>https://zenn.dev/netetahito/articles/a3539e541b179c</id>
-    <link href="https://zenn.dev/netetahito/articles/a3539e541b179c" />
-    <updated>2026-10-11T09:56:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIの文章を読むことが、とても増えました。調べものの答え、コードレビューの指摘、作業の完了報告、設計の相談。人の書いた文章より、AIの文章を読んでいる時間のほうが長い日もあります。 しかも時代はどんどん速くなっていて、情報が入ってくる速さも上がっています。読む量は増えているのに、読む時間は減っています。 AIの言うことが難しい できれば、分かりやすく短く、スムーズにやり取りしたい。ところがAIの言…</summary>
   </entry>
 </feed>
