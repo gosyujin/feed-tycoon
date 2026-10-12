@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-12T23:00:16.494620+09:00</updated>
+  <updated>2026-10-12T23:30:14.024675+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「情シスって楽しい」がテーマ。チームみらい安野党首、ひろゆき氏、OpenID Foundation崎村氏らが登壇。BTCONJP2026［PR］</title>
+    <id>https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html</id>
+    <link href="https://www.publickey1.jp/blog/26/openid_foundationbtconjp2026.html" />
+    <updated>2026-10-13T01:11:37+09:00</updated>
+    <category term="Publickey" />
+    <summary>進化し続けるITを企業において最適な形で取り入れ続け、ビジネスと統合していく情報システム部門の役割は、AIの登場でビジネスそのものが大きな変革の波を受けざるを得ない現在、ますます重要さを増しています。 その情報システム部門に在籍している有志...</summary>
+  </entry>
+  <entry>
+    <title>Deno開発元がCloudflareに合流。Denoの開発は終了へ、今後はCloudflare WorkersとDurable Objectsのオープンソース実装に注力</title>
+    <id>https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html</id>
+    <link href="https://www.publickey1.jp/blog/26/denocloudflaredenocloudflare_workersdurable_objects.html" />
+    <updated>2026-10-13T00:46:53+09:00</updated>
+    <category term="Publickey" />
+    <summary>JavaScriptランタイム「Deno」の開発元であるDeno LandとCloudflareは、Deno LandがCloudflareに合流すると発表しました。CloudflareによるDeno Landの買収と見られます（Deno ...</summary>
+  </entry>
+  <entry>
+    <title>アメリカ、イギリス、オーストラリア、ドイツで弁護士を頼まずにAIを使って法律武装した市民からの申し立てが急増「日本の裁判所や労働行政もこれから忙しくなりそうだ」</title>
+    <id>https://togetter.com/li/2757306</id>
+    <link href="https://togetter.com/li/2757306" />
+    <updated>2026-10-12T20:17:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>岡野タケシ弁護士【アトム法律税務グループ】 @takeshibengo AIで法律武装した市民からの申し立てが急増しているらしい。 まずアメリカ。 存在しない判例などを引用した書面が、裁判所で1500件近く見つかっている。半分以上は、弁護士をつけない本人訴訟だという。 次にイギリス。 雇用審判所への申し立てが1年で4割増え...</summary>
+  </entry>
+  <entry>
+    <title>さくらインターネット、GPU専有によりトークン消費量を気にせず定額で利用できる「さくらのAI Engineプライベートエディション」提供開始を発表</title>
+    <id>https://www.publickey1.jp/blog/26/gpuai_engine.html</id>
+    <link href="https://www.publickey1.jp/blog/26/gpuai_engine.html" />
+    <updated>2026-10-09T00:49:01+09:00</updated>
+    <category term="Publickey" />
+    <summary>さくらインターネットは、GPUサーバ上で基盤モデルを展開しマネージドサービスとして提供する「さくらのAI Engine」を、企業がGPUを専有して使える「さくらのAI Engine プライベートエディション」の提供開始を発表しました。 お知...</summary>
+  </entry>
   <entry>
     <title>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</title>
     <id>https://togetter.com/li/2757347</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-10T19:09:20+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Webエンジニアが自作コンテナを作って理解したDockerの正体 普段、Webアプリケーションの開発やデプロイで当たり前のように使っている docker run や docker build。 しかし、「コンテナの中で何が起きているのか？」と聞かれると、ブラックボックス...</summary>
-  </entry>
-  <entry>
-    <title>攻撃者はAndroidマルウェアをどのように遠隔操作しているのか</title>
-    <id>https://qiita.com/masaomi346/items/97d4bc0ed248247f05fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/masaomi346/items/97d4bc0ed248247f05fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T18:51:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>最近猛威を振るっているAndroidマルウェア感染を狙ったフィッシング詐欺について、注意喚起も兼ねて紹介します。 注意事項 犯罪エコシステムやツールについて説明がありますが、注意喚起目的で書いています。 これらについて積極的に深堀することを推奨していません。 また、私はフ...</summary>
-  </entry>
-  <entry>
-    <title>禁酒で生活は劇的に良くなる？ 公開データをRで調べて、言えることを考えた</title>
-    <id>https://qiita.com/sasailab/items/30bb39e3dbca9530b7ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sasailab/items/30bb39e3dbca9530b7ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T17:52:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>YouTubeなどで禁酒を勧める動画を見ていると、禁酒の効果がかなり大きく語られていて、生活が劇的に良くなったという話になっていることがあります。動画としての面白さや、体験談の分かりやすさが優先されているのかな、と感じることもありました（特定の動画を検証したわけではなく、あ...</summary>
-  </entry>
-  <entry>
-    <title>GitHub Actionsでよくある3つの『見えない』脆弱性を、自前の静的解析で検出してみた</title>
-    <id>https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/vakoya_village/items/f7a457e6f51ad9c8aa4c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T13:26:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GitHub Actionsのワークフローは「動けばOK」で書かれがちですが、動いていても安全とは限りません。特に以下の3つは、レビューでも見落とされやすく、かつ実際のインシデント事例があるものです。 permissions を明示していない（＝既定値のGI...</summary>
-  </entry>
-  <entry>
-    <title>日本語プログラミング言語あおい（Aoi）最小セットの完了評価フェーズ（ステップ１）～検証用コードの自動生成～</title>
-    <id>https://qiita.com/mylifewithviolin/items/a937dc83c175eb313e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mylifewithviolin/items/a937dc83c175eb313e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-10T08:10:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 日本語プログラミング言語あおい（Aoi）の実装言語仕様を生成AIに読み込ませて仕様駆動開発を展開しており、本記事は実装完了した「最小セット（MVP）」1の完了評価フェーズのステップ１になります。 日本語プログラミング言語あおい（Aoi）という自作言語の企画趣旨は...</summary>
   </entry>
 </feed>
