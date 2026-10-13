@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T16:30:09.749288+09:00</updated>
+  <updated>2026-10-13T17:00:14.149455+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Anthropicが蒸留攻撃に対する効果的な対策を発見、敵対組織によるデータ抽出を90～99％削減</title>
+    <id>https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/</id>
+    <link href="https://gigazine.net/news/20261013-anthropic-defense-distillation-attacks/" />
+    <updated>2026-10-13T15:22:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>高性能なAIモデルを使って自分のAIモデルを学習する手法「蒸留」は、する側はコストを抑えて最先端モデルに近い性能を実現することができますが、される側は不要な負担を強いられるなどのデメリットがあります。こうした蒸留はしばしば「攻撃」と見なされ、対策が行われています。新たに、Anthropicが望まない蒸留を大幅...</summary>
+  </entry>
+  <entry>
+    <title>今注目の無料日本語入力アプリ「Meltype」に早速“大型アップデート”／「Meltype IME」、予測変換、「いま」「なう」で現在時刻変換などを導入</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2147370.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2147370.html" />
+    <updated>2026-10-13T13:53:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>今注目の無料日本語入力アプリ「Meltype」に早速“大型アップデート”／「Meltype IME」、予測変換、「いま」「なう」で現在時刻変換などを導入</summary>
+  </entry>
+  <entry>
+    <title>国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版を提供開始 | プレスリリース | SB Intuitions株式会社</title>
+    <id>https://www.sbintuitions.co.jp/news/press/20261013_01/</id>
+    <link href="https://www.sbintuitions.co.jp/news/press/20261013_01/" />
+    <updated>2026-10-13T12:44:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>〜6つのAIモデルを利用できるAPI機能とチャット機能を一般公開〜 2026年10月13日 SB Intuitions株式会社 SB Intuitions株式会社（本社：東京都港区、代表取締役社長 兼 CEO：井尻 善久、以下「SB Intuitions」）は、国産生成AI「Sarashina」を利用できる「Sarashinaサービス」の無償ベータ版の提供を、2026年10月13日に...</summary>
+  </entry>
+  <entry>
+    <title>Strengthening our defenses against distillation attacks</title>
+    <id>https://www.anthropic.com/research/distillation-defenses</id>
+    <link href="https://www.anthropic.com/research/distillation-defenses" />
+    <updated>2026-10-13T12:33:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>In recent months, we’ve made substantial progress on reducing the effectiveness of distillation attacks on Claude using new methods, as we outline in this blog. Early evidence suggests that these meth…</summary>
+  </entry>
+  <entry>
+    <title>AI時代のAppSec――AIセキュリティスキャナーは信頼に足るものなのか?【海の向こうの“セキュリティ”】</title>
+    <id>https://internet.watch.impress.co.jp/docs/column/security/2146074.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/column/security/2146074.html" />
+    <updated>2026-10-13T06:58:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI時代のAppSec――AIセキュリティスキャナーは信頼に足るものなのか?【海の向こうの“セキュリティ”】</summary>
+  </entry>
+  <entry>
+    <title>A modern web app in c | Corey Prophitt</title>
+    <id>https://prophitt.me/writing/a-modern-web-app-in-c</id>
+    <link href="https://prophitt.me/writing/a-modern-web-app-in-c" />
+    <updated>2026-10-13T04:25:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>## INTROIf you wanted a dynamic website in 1994, you wrote a C program, dropped it in a cgi-bin directory, and let Apache fork it per request. Thirty-two years later, I shipped a commercial web produc…</summary>
+  </entry>
   <entry>
     <title>公開アプリを解析してサーバーを攻撃する「A2B攻撃」、相次ぐ不正アクセスの原因の1つとしてにNICTが注意喚起</title>
     <id>https://internet.watch.impress.co.jp/docs/news/2147673.html</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-12T18:06:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>AIエージェントをいくつも試していると、以前追加したMCPサーバー・プラグイン・AI拡張機能などがPCのどこに設定されているのか分かりにくくなります。PC内のAIエージェント・ハーネス・MCPサーバー・プラグイン・AI拡張機能などをスキャンして一覧化し、それぞれがアクセス可能な範囲までレポートしてくれる「Geiger」...</summary>
-  </entry>
-  <entry>
-    <title>OpenCode から Pi へ切り替えた</title>
-    <id>https://voluntas.ghost.io/migrate-opencode-to-pi/</id>
-    <link href="https://voluntas.ghost.io/migrate-opencode-to-pi/" />
-    <updated>2026-10-12T16:48:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>基本的に DeepSeek Harness (以降 DSH) の時雨堂フォークをブラウザで利用しているのですが、 たまに CLI でハーネスを利用する際は OpenCode2 を利用していました。 最近 OpenCode v2 になってデフォルトがデーモン起動になったり、機能が多くなってきてちょっと使いづらいな ... と感じていました。また Ollama Cloud ...</summary>
-  </entry>
-  <entry>
-    <title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介 - Qiita</title>
-    <id>https://qiita.com/leolui2004/items/226062f17e55202e8c47</id>
-    <link href="https://qiita.com/leolui2004/items/226062f17e55202e8c47" />
-    <updated>2026-10-11T22:11:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 概要 インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕…</summary>
-  </entry>
-  <entry>
-    <title>人生やりたいことリストのすすめ FIRE後の楽しみを可視化する | ドクセル</title>
-    <id>https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702</id>
-    <link href="https://www.docswell.com/s/ipusiron/ZGN668-2026-08-15-213702" />
-    <updated>2026-10-12T14:25:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>人生やりたいことリストのすすめ — FIRE後の楽しみを可視化する IPUSIRON (@ipusiron) 第3回FIRE勉強会 2026-08-15 1 自己紹介 IPUSIRON イプシロン X : @ipusiron 肩書き 技術書作家（セキュリティ） 著書 40冊超 ／ 積み上げ100cm ブログ セキュリティアカデメイア (akademeia.info) 拠点 福島県相馬市 関心事 古…</summary>
-  </entry>
-  <entry>
-    <title>Grok Bot Tokyo Hackathon</title>
-    <id>https://speakerdeck.com/taigakono/grok-bot-tokyo-hackathon</id>
-    <link href="https://speakerdeck.com/taigakono/grok-bot-tokyo-hackathon" />
-    <updated>2026-10-11T18:17:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Grok Bot Tokyo Hackathonのハンズオンの資料です Bot_テンプレートリンク https://x.ai/bot/1hqi2xQcLQ4zKw_J8VAaZ スキルリンク https://github.com/taiga-K/grokbot-tokyo-hands-o…</summary>
-  </entry>
-  <entry>
-    <title>無料でmacOS 27のApple Intelligenceをオフにして空きディスク容量を増やす方法</title>
-    <id>https://gigazine.net/news/20261011-removemacai/</id>
-    <link href="https://gigazine.net/news/20261011-removemacai/" />
-    <updated>2026-10-11T13:33:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AppleのAI機能「Apple Intelligence」は、Macのストレージに数GB以上の容量を必要とします。Apple Intelligenceを使わないユーザー向けに、機能を無効化してAIモデルを削除し、ディスクの空き容量を増やせる無料のオープンソースツール「RemoveMacAI」が公開されています。RemoveMacAIはAppleシリコンを搭載したMacに対...</summary>
-  </entry>
-  <entry>
-    <title>「知識の地図を描く ─ オントロジーとは何か？」というタイトルで DevelopersIO 2026 Sapporo に登壇しました #devio2026 | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/20261009-devio2026-ontology/</id>
-    <link href="https://dev.classmethod.jp/articles/20261009-devio2026-ontology/" />
-    <updated>2026-10-11T04:15:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>SQL はエラーなく実行され、テーブルの結合条件も正しく書けていました。それでも Kanto が 30% 多く、本来出てこない Kyushu と Chubu が含まれています。 原因は、売上高の定義がデータの側に書かれていないことです。社内規程（sales-policy.txt）には「売上高は、状態が shipped である受注の total_amount の合計」...</summary>
   </entry>
 </feed>
