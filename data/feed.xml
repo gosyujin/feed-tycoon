@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-14T06:00:13.896570+09:00</updated>
+  <updated>2026-10-14T06:30:12.505258+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Redesigning source control at Anthropic</title>
+    <id>https://www.anthropic.com/engineering/redesigning-source-control</id>
+    <link href="https://www.anthropic.com/engineering/redesigning-source-control" />
+    <updated>2026-10-14T02:17:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Published Oct 13, 2026 As our merges per day grew more than tenfold, source control became our biggest development bottleneck. Here, we share how we migrated to an in-house version control system in f…</summary>
+  </entry>
+  <entry>
+    <title>私物Macと仕事Macのdotfilesとアプリ管理をmise bootstrapで管理しやすくした - $shibayu36-&gt;blog;</title>
+    <id>https://blog.shibayu36.org/entry/2026/10/13/173000</id>
+    <link href="https://blog.shibayu36.org/entry/2026/10/13/173000" />
+    <updated>2026-10-13T21:43:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>自分の設定ファイルやインストールするアプリは、https://github.com/shibayu36/config-file のリポジトリで管理している。これまでは私物Macと仕事Macが全く同じになるように、雑にsymlinkを張るスクリプトで運用していた。新しい仕事用のMacをもらったのをきっかけに、私物だけ・仕事だけに入れるものをちゃんと分けつ...</summary>
+  </entry>
   <entry>
     <title>ブックオフ、約642万件の会員データ漏洩 退会会員も対象 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUC135N90T11C26A0000000/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-13T10:29:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>Microsoft 365 Family/Premiumのストレージが実質削減、最大6TBから2TB“共有”に／謎の月額16,000円プラン「Microsoft 365 Pro」なら5TBを共有</summary>
-  </entry>
-  <entry>
-    <title>ブックマーカーたちの何かを言っているようで、何にも言っていない技術っ..</title>
-    <id>https://anond.hatelabo.jp/20261012165922</id>
-    <link href="https://anond.hatelabo.jp/20261012165922" />
-    <updated>2026-10-12T23:26:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ブックマーカーたちの何かを言っているようで、何にも言っていない技術ってどうやったら身につくんだろう？</summary>
-  </entry>
-  <entry>
-    <title>売上高1兆円へ、アシックスはなぜ復活したのか 苦戦するナイキと明暗を分けた「売り方」と「技術」の戦略 | 集英社オンライン</title>
-    <id>https://shueisha.online/articles/-/258842</id>
-    <link href="https://shueisha.online/articles/-/258842" />
-    <updated>2026-10-12T13:39:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アシックスとナイキの明暗が分かれたワケアシックスは、競技用シューズの技術やデザインを日常向けに生かした「スポーツスタイル」と、「オニツカタイガー」の好調ぶりが目立つ。スポーツスタイルは2026年1月～6月が83％の増収、オニツカタイガーは36％の増収だった。 オニツカタイガーは国内のインバウンド需要が強く、...</summary>
   </entry>
 </feed>
