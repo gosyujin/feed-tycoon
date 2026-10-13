@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T14:00:13.528137+09:00</updated>
+  <updated>2026-10-13T14:30:14.479169+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWS Lambda announces Lambda Web Functions - AWS</title>
+    <id>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</id>
+    <link href="https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/" />
+    <updated>2026-10-13T09:46:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The session catalog is live. Explore what's waiting for you</summary>
+  </entry>
   <entry>
     <title>GAになった Lambda Web Functions を東京リージョンで試してみた | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/aws-lambda-web-functions-ga-express/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-11T10:30:18+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>C言語23年、自分はフリーランスで組み込みのコードレビューに入ることが多いです。fd・socket・FILEのclose忘れは静的解析の定番テーマですが、実際のPRで見逃されるのは「close自体を書き忘れた行」ではなく「正常系ではcloseしているのに、途中のreturn...</summary>
-  </entry>
-  <entry>
-    <title>ZDM+リフレッシュ可能クローンを使ってBaseDB OCPU環境からExaDB-XSへ移行してみた。</title>
-    <id>https://qiita.com/nyasuhiro/items/8b156ed55873096c1fcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/nyasuhiro/items/8b156ed55873096c1fcf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-11T10:17:23+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに 以前、以下の記事でOCI Base Database Service（以下、BaseDB）のOCPU環境からECPU環境への移行を、PDBのリフレッシュ可能クローンを利用して試してみました。 OCI Base Database Service のリフレッシ...</summary>
   </entry>
 </feed>
