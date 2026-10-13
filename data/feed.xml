@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T14:30:14.479169+09:00</updated>
+  <updated>2026-10-13T15:00:13.370521+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>動的アーキテクチャ図のすすめ | RECERQA Tech Blog</title>
+    <id>https://techblog.recerqa.com/blog/20261013-dynamic-architecture-diagram/</id>
+    <link href="https://techblog.recerqa.com/blog/20261013-dynamic-architecture-diagram/" />
+    <updated>2026-10-13T13:45:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、リチェルカのソフトウェアエンジニアのもっち(X: mottyzzz)です。 この記事では、新しい環境でシステムの全体像をつかむためにやってみた「動的アーキテクチャ図」を紹介します。 入社して託されたテーマの1つが、デプロイやE2Eテストなど、システムのリリース周りの改善の検討でした。リチェルカには複数の...</summary>
+  </entry>
+  <entry>
+    <title>LLM-jp-4 の公開CPT・SFTデータを読んでみた</title>
+    <id>https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data</id>
+    <link href="https://zenn.dev/yukito_lmlab/articles/llmjp4-public-data" />
+    <updated>2026-10-13T08:34:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>私はオープンウェイトモデルの日本語ファインチューニングや、日本語の継続事前学習（CPT）LoRA を作りたいと思っています。 最近、LLM-jp-4.1 モデルが公開され話題になりましたが、個人的にはモデルそのものよりも「日本語を、どんなデータセットで学習したのか」が気になりました。LLM-jp-4 / 4.1 は事前学習コーパスから SFT・DPO のデータまでかなりの部分が公開されているので、…</summary>
+  </entry>
+  <entry>
+    <title>GitHub Pages の証明書失効で Error 526 になったので Cloudflare Pages へ移行した</title>
+    <id>https://zenn.dev/unsoluble_sugar/articles/6a3fd085a60ec6</id>
+    <link href="https://zenn.dev/unsoluble_sugar/articles/6a3fd085a60ec6" />
+    <updated>2026-10-12T18:43:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 個人開発で、Web カメラに映った自分の動きに合わせて VRM アバターを動かす Web アプリ Mirai Mirror を β版として公開しています。カメラ映像はブラウザの中だけで処理するため、サーバー側の処理はなく、サイトは静的ファイルの配信だけで動いています。 https://miraimirror.app/ この公開基盤づくりは、これまで 3 本の記事にしてきました。ドメイン取…</summary>
+  </entry>
+  <entry>
+    <title>中国製オープンウェイトモデルに、自社サービスの脆弱性を探させた</title>
+    <id>https://zenn.dev/neurogica/articles/ef9ebaa4f3e9bd</id>
+    <link href="https://zenn.dev/neurogica/articles/ef9ebaa4f3e9bd" />
+    <updated>2026-10-12T16:24:43+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事は Neurogica Tech Blog の転載です。 国内の情報漏洩が相次いでいる。10月8日にはJPCERT/CCが注意喚起を出し、一般利用者向けのアプリだけでなく、管理・運用側のシステムも被害に遭っていると報告した。APIごとのアクセス制御や、外部に公開する必要のない管理機能の点検も求めている。JPCERT/CCの注意喚起 マクニカが事案対応やログ分析から報告しているのも、必要以上…</summary>
+  </entry>
+  <entry>
+    <title>ChatGPT dots のセットアップ</title>
+    <id>https://zenn.dev/desktopgame/articles/866e19faf91e06</id>
+    <link href="https://zenn.dev/desktopgame/articles/866e19faf91e06" />
+    <updated>2026-10-12T14:01:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>リリースからしばらく経ちますが、いまだベストプラクティスみたいなものを見かけないというか たぶんまだみんな手探り状態かと思います。 私のも手探りですが、それなりに使えているので晒してみます。 やりたいこと 外出先からスマホで ChatGPT dots に指示を出して、自宅PCで開発やその他の作業を進めてもらいたい、というのが目的です。 ただ、私が普段使っているPCには開発用のリポジトリや設定ファイ…</summary>
+  </entry>
+  <entry>
+    <title>デザインハーネスを個人開発で組んだ — AI が作る画面のずれを止めるまで</title>
+    <id>https://zenn.dev/yoshihiko555/articles/e9801e0ad1efb8</id>
+    <link href="https://zenn.dev/yoshihiko555/articles/e9801e0ad1efb8" />
+    <updated>2026-10-11T13:30:22+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI に画面を作らせると、1 画面ずつは悪くないのに、並べると少しずつ違う。余白が数 px ずれる。同じ青に別々の名前が付く。似たボタンがまた 1 つ増える。 この記事は、デザイナーのいない個人開発で、この「ずれ」を止めるまでの記録だ。やったことは 3 つある。 作る: AI に画像で案をいくつも出させ、自分で選んで画面を作り直した 見直す: 作り直したら、デザインファイルとコードで色や文字サイズ…</summary>
+  </entry>
+  <entry>
+    <title>Renovate 設定の改善 - Timee Product Team Blog</title>
+    <id>https://tech.timee.co.jp/entry/2026/10/05/000000</id>
+    <link href="https://tech.timee.co.jp/entry/2026/10/05/000000" />
+    <updated>2026-10-09T21:25:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。タイミーのデータエンジニアリング部DSグループでMLOpsを担当しているYukitomoです。 前回の記事では、Python + uvのモノレポ環境において、Renovateを用いて依存関係更新のプルリクエストを制御するための基本設計を紹介しました。 その後、実際に運用してみると、Renovateの管理対象はPythonの依存パッケ...</summary>
+  </entry>
   <entry>
     <title>AWS Lambda announces Lambda Web Functions - AWS</title>
     <id>https://aws.amazon.com/about-aws/whats-new/2026/10/aws-lambda-web-functions/</id>
@@ -749,61 +805,5 @@
     <updated>2026-10-12T11:11:33+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>個人開発で最も貴重なものは、CPUやメモリよりも、開発者自身の時間と認知負荷です。 この記事では、Hono Conference 2026で話した内容をもとに、個人開発で「必要になる前から複雑さを背負わない」ための設計について紹介します。 最初に結論を言うと、Honoを使え...</summary>
-  </entry>
-  <entry>
-    <title>Kiro Crewは魔改造しなくてもClaude Codeで使える！いいんですか？？AWSさん！</title>
-    <id>https://qiita.com/moritalous/items/065b32fd5e765bc54726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/moritalous/items/065b32fd5e765bc54726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T09:35:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Kiro Crewを使い始めました👻👻👻 Kiro Crewは裏側でKiro CLIと連携して動作する仕組みなのですが、ドキュメントを読んでいると、どうもClaude Codeでも動作するようです。 ACP (Agent Client Protocol) という仕...</summary>
-  </entry>
-  <entry>
-    <title>AIを利用した業務理解のヒアリング練習</title>
-    <id>https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T05:48:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに こういう要件とか、それ以前の理解力は苦手て課題感がある なんとなくセンスないみたいに思ってしまっていた 結構結果ボロボロだったが、少しずつダメなところが見えてきている ヒアリングの型 なぜ？を追いかける 業務における例外の例外を探す モデルやイベントを書...</summary>
-  </entry>
-  <entry>
-    <title>TS2686: React refers to a UMD global, but the current file is a module. Consider adding an import instead.</title>
-    <id>https://qiita.com/J-T_ky2g/items/b67c15e403a338de7795?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/b67c15e403a338de7795?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T04:37:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに React x TS 問題 静的解析エラー 解決 以下記述して解決 import React from "react"; 終わりに 参考 ]https://blog.ojisan.io/how-to-create-preact-app-2020/</summary>
-  </entry>
-  <entry>
-    <title>【愚痴】今のAI開発は間違っている</title>
-    <id>https://qiita.com/compalog/items/a883eb6894a5a1ca70b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/compalog/items/a883eb6894a5a1ca70b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-11T17:17:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Copyright (c) compalog This article is licensed under Compalog's Articles License If you use the content of this article in your conte...</summary>
-  </entry>
-  <entry>
-    <title>AIの警告を重大度だけで並べない｜確信度を掛けて順位を出す（Python）</title>
-    <id>https://qiita.com/tsukurugawa/items/3608d96d5242abb098e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tsukurugawa/items/3608d96d5242abb098e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-11T14:48:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AIに異常を検知させると、警告が並びます。たいてい重大度の高い順です。 重大度順のリストは正しく見えます。ほかの並べ方を思いつきにくい。ところが上から順に開けていくと、外れが混ざっています。しかも外れほど上にいることがある。 並べ方が間違っているのではありません。並べるとき...</summary>
-  </entry>
-  <entry>
-    <title>安定版に進化したWSLコンテナーの仕組み</title>
-    <id>https://ascii.jp/elem/000/004/441/4441775/</id>
-    <link href="https://ascii.jp/elem/000/004/441/4441775/" />
-    <updated>2026-10-11T14:41:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>本連載でも紹介したが（https://ascii.jp/elem/000/004/415/4415912/）、紹介当時プレビュー版だったWSLコンテナーが安定版となり、Windows 11 Ver.26H2のタイミングで配布が開始された。 26H2では、wsl.exeコマンドを使ってアップデートすると、WSLコンテナーに対応し、wslc.exeが付属したWSLを入手できるはずだ。なお...</summary>
-  </entry>
-  <entry>
-    <title>fdリークの見落としは「早期return」に集中する、7件の内訳から言えること</title>
-    <id>https://qiita.com/ponfreelance/items/8bb6ebbff6dd325d6b87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ponfreelance/items/8bb6ebbff6dd325d6b87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-11T10:30:18+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>C言語23年、自分はフリーランスで組み込みのコードレビューに入ることが多いです。fd・socket・FILEのclose忘れは静的解析の定番テーマですが、実際のPRで見逃されるのは「close自体を書き忘れた行」ではなく「正常系ではcloseしているのに、途中のreturn...</summary>
   </entry>
 </feed>
