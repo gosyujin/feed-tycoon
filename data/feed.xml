@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T13:30:16.491129+09:00</updated>
+  <updated>2026-10-13T14:00:13.528137+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GAになった Lambda Web Functions を東京リージョンで試してみた | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/aws-lambda-web-functions-ga-express/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-lambda-web-functions-ga-express/" />
+    <updated>2026-10-13T12:46:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>東京リージョンを含む 5 リージョンで利用可能になった AWS Lambda Web Functions で、Express アプリをデプロイしました。1 コマンドで公開 URL を取得でき、SSE のイベントは約 1 秒間隔で逐次届きました。 はじめに 2026 年 10 月 12 日、AWS Lambda Web Functions が GA（一般提供）になりました。 10 月 1 日に SD…</summary>
+  </entry>
+  <entry>
+    <title>検証 TinyGoでOpenTelemetryは使えるのか（2026年10月版）</title>
+    <id>https://zenn.dev/ymotongpoo/books/tinygo-otel-esp32</id>
+    <link href="https://zenn.dev/ymotongpoo/books/tinygo-otel-esp32" />
+    <updated>2026-10-10T09:25:22+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>OpenTelemetryは組み込み向けには設計されていません。その前提のもとで、TinyGoで動くM5Stack CoreS3（ESP32-S3）から、メトリクス、ログ、トレースをOTLPでOpenTelemetry Collectorへ送る実装を作り、実機で実験しました。公式のGo SDKがなぜ使えないのか、OTLPを話すために何を自分で書く必要があるのか、メモリやスタックや時刻のどこで詰まる…</summary>
+  </entry>
   <entry>
     <title>今週のはてなブックマーク数ランキング（2026年10月第2週） - はてなブックマーク開発ブログ</title>
     <id>https://bookmark.hatenastaff.com/entry/2026/10/13/120614</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-11T10:17:23+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>1. はじめに 以前、以下の記事でOCI Base Database Service（以下、BaseDB）のOCPU環境からECPU環境への移行を、PDBのリフレッシュ可能クローンを利用して試してみました。 OCI Base Database Service のリフレッシ...</summary>
-  </entry>
-  <entry>
-    <title>読書感想文『PMBOK 第７版 知識と手法がしっかりわかる教科書』ch1（p14〜p25）</title>
-    <id>https://qiita.com/RYA234/items/2538b5d6a976c464084d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/RYA234/items/2538b5d6a976c464084d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-11T10:07:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>書籍情報 書籍名: PMBOK 第７版 知識と手法がしっかりわかる教科書 著者: 前田和也 出版社: 技術評論社 著者について 前田和也氏は、プロジェクトマネジメントの専門家であり、PMPをはじめとした資格取得支援やPMBOK解説を専門とする著者。技術評論社からPMBO...</summary>
-  </entry>
-  <entry>
-    <title>IBM Bobと一緒に約75円でAzure BatchのPoCをやってみた</title>
-    <id>https://qiita.com/takumiida1/items/0bbc471bd9a937f80413?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takumiida1/items/0bbc471bd9a937f80413?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-09T19:45:56+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Summary Azure Batch の閉域コンテナ実行環境（Private Endpoint・Managed Identity・NFSv3 マウント）を Bicep で IaC 化し、4時間・約75円の検証コストですぐ立てすぐ消すことができた NFSv3 マウン...</summary>
   </entry>
 </feed>
