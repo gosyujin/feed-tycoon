@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T21:30:18.838210+09:00</updated>
+  <updated>2026-10-13T22:00:16.817508+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「CEATEC 2026」展示会場がいろいろあって面白い。【写真速報】【CEATEC 2026】</title>
+    <id>https://internet.watch.impress.co.jp/docs/event/2147605.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/event/2147605.html" />
+    <updated>2026-10-13T14:48:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「CEATEC 2026」展示会場がいろいろあって面白い。【写真速報】【CEATEC 2026】</summary>
+  </entry>
+  <entry>
+    <title>仮想通貨ウォレット「Ledger Nano X」に盗聴回路、日本のAmazonやヤフオクでも改造品が見つかる</title>
+    <id>https://gigazine.net/news/20261013-ledger-nano-x-implant/</id>
+    <link href="https://gigazine.net/news/20261013-ledger-nano-x-implant/" />
+    <updated>2026-10-13T12:22:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>仮想通貨を安全に管理するためのハードウェアウォレット「Ledger Nano X」の内部に、復元用の24個の単語を盗み取る電子回路が仕込まれていたことが判明しました。日本のAmazonやYahoo!オークションで購入された製品からも改造部品が発見されているほか、製造元のLedgerは東南アジアの販売店を通じて購入された端末からも...</summary>
+  </entry>
   <entry>
     <title>【速報】複数の自治体がメールの配信を停止</title>
     <id>https://www.47news.jp/15075862.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-12T23:45:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>1. 概要 1.1 本記事の目的 dbt v2では、dbt Docsが新しくなり、dbt Docs v2になりました。本記事では、NBA（アメリカのプロバスケットボールリーグ）のデータで作ったdbtプロジェクトを使い、dbt Docs v2の画面を順に紹介します。 2章でdbt Docs v2を生成して表示し、3章で画面を順に見ていきます。4章はまとめです。 1.2 dbt Docs v2とは d…</summary>
-  </entry>
-  <entry>
-    <title>PRコメントからKubernetesに訊く ~GitHub ActionsからA2Aエージェントをシークレットレスで繋ぐ~</title>
-    <id>https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja</id>
-    <link href="https://zenn.dev/hyeonjae/articles/secretless-a2a-github-actions-ja" />
-    <updated>2026-10-12T23:31:57+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>A2Aエージェントを活用するにあたって、セキュリティの観点からどのように補強していったかを整理します。 1. 背景 まず現在の状況を分かりやすく整理します。私たちは main ブランチにマージする前に、 k8s クラスタ上の job の状態を把握する必要がありました。 そのため GitHub で PR を上げた状態で、複数の開発者が実際に k8s クラスタへ接続して各種リソースの状態を確認していま…</summary>
-  </entry>
-  <entry>
-    <title>Canton Network ローカル環境構築ハンズオン</title>
-    <id>https://zenn.dev/komlock_lab/articles/canton-localnet-handson</id>
-    <link href="https://zenn.dev/komlock_lab/articles/canton-localnet-handson" />
-    <updated>2026-10-12T23:29:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でCTOをしている山口夏生 @0x_natto です。 2026年10月5日（UTC）、Splice 0.9.0 と Canton 3.6.1 が出ました。Splice は、Canton Network の Validator と Super Validator を動かすた…</summary>
   </entry>
 </feed>
