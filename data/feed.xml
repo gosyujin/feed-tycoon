@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T19:30:13.203008+09:00</updated>
+  <updated>2026-10-13T20:00:14.916278+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表</title>
+    <id>https://www.watch.impress.co.jp/docs/news/2147764.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2147764.html" />
+    <updated>2026-10-13T18:43:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表</summary>
+  </entry>
+  <entry>
+    <title>GitHub Agentic Workflows で issue の triage を自動化しながらいろいろ試してみる - プププなテクブ</title>
+    <id>https://blog.inorinrinrin.com/entry/512918a2-7cf0-f36a-8ac1-db78fea2e289</id>
+    <link href="https://blog.inorinrinrin.com/entry/512918a2-7cf0-f36a-8ac1-db78fea2e289" />
+    <updated>2026-10-13T16:48:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年7月23日にGitHub Issues に、AI の変更へ理由と信頼度を付ける機能が public preview で入りました。Agentic Workflows では issue-intent で扱います。 github.blog それまではGitHub Agentic WorkflowsでIssueをTriageする際に、AIがラベルを付けたら即反映され、なぜそう判断したのかも分か…</summary>
+  </entry>
+  <entry>
+    <title>トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見</title>
+    <id>https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</id>
+    <link href="https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/" />
+    <updated>2026-10-13T13:53:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコードを可読化し、2013年の初回コミ...</summary>
+  </entry>
+  <entry>
+    <title>ニコン顕微鏡写真コンテスト、最優秀賞の授賞撤回 AI使用めぐり批判噴出</title>
+    <id>https://www.cnn.co.jp/fringe/35253488.html</id>
+    <link href="https://www.cnn.co.jp/fringe/35253488.html" />
+    <updated>2026-10-13T13:34:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>主催者が顕微鏡写真コンテスト最優秀賞の授賞を撤回した動画からのスクリーンショット/Nikon Small World/ Dr. Ning Xu （CNN） 毎年恒例のサイエンス写真コンテスト「スモール・ワールド・イン・モーション」で1位に選ばれた作品について、主催者のニコンが授賞を撤回した。同作品の生成AIをめぐって規定違反と判断した...</summary>
+  </entry>
+  <entry>
+    <title>オリキャラの3Dモデルのループモーションを楽に作る (Tripo3d + Opus 5.5 + MiniMax H3 + blender)｜異世界♪吟遊詩人ギルド</title>
+    <id>https://note.com/ultracrab/n/n1bff0051e321</id>
+    <link href="https://note.com/ultracrab/n/n1bff0051e321" />
+    <updated>2026-10-13T13:13:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この方法なら、人間だけでなく動物や魔獣みたいな、どうやってリギングやモーションつけたらいいか素人にはよくわからない生物とかでも、ぐりぐり動かせます。 下記のXのポストが元になってます。とても参考になりました！ GPT画像→Tripo3D→Opus5.5での各足へのボーン入れ、セグメンテーションとカラーリング→H3による動...</summary>
+  </entry>
+  <entry>
+    <title>AI models may be capable of self-replicating without access to a datacenter</title>
+    <id>https://www.anthropic.com/research/self-replicating-ai</id>
+    <link href="https://www.anthropic.com/research/self-replicating-ai" />
+    <updated>2026-10-13T10:22:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Of course, there are many other steps to showing that an autonomous worm can propagate itself across a network of weak machines. For the purposes of this blog post, we break down the replication chain…</summary>
+  </entry>
   <entry>
     <title>【速報】PayPay証券 障害で日本株の取引停止 14日の予約注文も停止 復旧めど立たず</title>
     <id>https://news.tv-asahi.co.jp/news_economy/articles/000539845.html</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-13T00:55:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>個人情報の漏洩事案が過去に例をみないペースで公表されている。現在見えている事案はあくまで氷山の一角で、公表や検知すらされていない事案も数多く存在すると思われる。また、サイバー攻撃能力の高いAIの拡散によって今後さらに状況が悪くなる可能性が高い。ライフラインに関わる領域が攻撃されれば産業や人命にも関...</summary>
-  </entry>
-  <entry>
-    <title>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2147419.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2147419.html" />
-    <updated>2026-10-12T23:49:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ついに実機を入手！Surface Laptop UltraとProArt P16開封の儀</summary>
-  </entry>
-  <entry>
-    <title>AI エージェントに鍵を任せて大丈夫か — API キー操作5種類、Claude Code・Codex・Gemini に51 回頼み、危険・要注意・安全なやり方を分けた</title>
-    <id>https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-13T04:10:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AI エージェント（Claude Code・Codex・Gemini のように、パソコンの上でコマンドを実行しながら作業を進める AI）に外のサービスをつなぐ作業を頼むと、鍵（API キー・パスワードなど、システムに入るための文字列）が要ります。使う側が知りたいのは、その鍵...</summary>
-  </entry>
-  <entry>
-    <title>AIで疑似的にフードデリバリーの業務モデルをヒアリングして問題点を見つける練習</title>
-    <id>https://qiita.com/inu_shun/items/94c5795134c249149857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/inu_shun/items/94c5795134c249149857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T22:45:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AIにフードデリバリーを出店している個人経営の中華料理店の店主を演じてもらいました。 そして、「最近、評価が下がって注文が減っている」という悩みを抱えている設定にして、その原因を見つける練習を行ないました。 進め方 まず、ヒアリングを行なう前にそれをどんな感じ...</summary>
-  </entry>
-  <entry>
-    <title>セキュリティ・バイ・デザインという考え方</title>
-    <id>https://qiita.com/HIsui0921/items/49cbb1eaead2dcde4bd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/HIsui0921/items/49cbb1eaead2dcde4bd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T22:31:50+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは、翡翠です。 今回もセキュリティに関する技術的な内容ではないのですが、「こんな考え方があるんだ！」という新しい発見をしたので、備忘録としてまとめていきたいと思います。 現状「あとからセキュリティ対策追加」 「今のシステム、セキュリティ対策を追加しないと」 「開発...</summary>
-  </entry>
-  <entry>
-    <title>Claude Haiku 5.5 は判断特化モデルの代わりになるのか？</title>
-    <id>https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T22:07:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>🎯 対象読者 LLMで分類・ルーティング・可否判定などの「判断」をさせたい人 JevやStrands Decider 2Bなどの判断特化モデルと汎用LLMのどちらを使うか迷っている人 LLMの判断をワークフローに組み込みたい人 👋 はじめに 2026年10月7日に出...</summary>
-  </entry>
-  <entry>
-    <title>所有者チェック漏れを「気をつける」から「型で外れようがない」へ：ブランド型でIDORを設計から塞ぐ</title>
-    <id>https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-12T21:18:53+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに セキュリティ研修で、脆弱性を含むWebアプリ（Hono + TypeScript）を題材に、所有者チェックが無いAPIのバグを見つけるところから、それを設計で塞ぐところまでを考える課題に取り組んだ。 この記事では、 資格で覚えた知識と、実際のコードを前にしたと...</summary>
   </entry>
 </feed>
