@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T09:46:59.640977+09:00</updated>
+  <updated>2026-10-13T10:00:13.195629+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Announcing AWS Lambda Web Functions | Amazon Web Services</title>
+    <id>https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/</id>
+    <link href="https://aws.amazon.com/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/" />
+    <updated>2026-10-13T08:29:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The session catalog is live. Explore what's waiting for you</summary>
+  </entry>
   <entry>
     <title>産業革命の時代にどうやって精度の高い「ねじ」を作り出したのか？</title>
     <id>https://gigazine.net/news/20261013-how-machines-learned-precision/</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-11T21:09:32+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 すでにWEBデザイナーの8割は不要である ht...</summary>
-  </entry>
-  <entry>
-    <title>Firestore エミュレーターが重すぎたので、Java なしで動く互換エミュレーターを Rust で作った</title>
-    <id>https://qiita.com/nomunomu0504/items/f764426407431c183016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/nomunomu0504/items/f764426407431c183016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-11T15:35:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Firestore のローカル開発や CI で使う公式エミュレーターが重くてつらかったので、Rust で互換エミュレーター hidane（火種） を作りました。2026 年 10 月に最初のリリース v0.1.0 を出しています。 この記事では、公式エミュレーターの何が重か...</summary>
   </entry>
 </feed>
