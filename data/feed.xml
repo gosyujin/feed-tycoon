@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-13T21:00:17.205716+09:00</updated>
+  <updated>2026-10-13T21:30:18.838210+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【速報】複数の自治体がメールの配信を停止</title>
+    <id>https://www.47news.jp/15075862.html</id>
+    <link href="https://www.47news.jp/15075862.html" />
+    <updated>2026-10-13T20:13:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【速報】自治体の防災情報配信サービス、不正アクセスで個人情報漏えいの可能性 新潟県内でも複数自治体が利用か</summary>
+  </entry>
+  <entry>
+    <title>自治体の防災メール配信 不正アクセスでアドレスなど漏えいか | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261013de58789</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261013de58789" />
+    <updated>2026-10-13T19:42:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>全国の自治体向けに災害情報メールや防災アプリなどを提供するシステムを運営している「アルカディア」は、第三者による不正アクセスが疑われる事案を確認したと明らかにしました。この影響で、登録者のメールアドレ…</summary>
+  </entry>
+  <entry>
+    <title>[スタパ齋藤の「スタパトロニクスMobile」] UGREENの3-in-1全部入り充電スタンドがキたッ！！</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/2146862.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/2146862.html" />
+    <updated>2026-10-13T01:46:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>[スタパ齋藤の「スタパトロニクスMobile」] UGREENの3-in-1全部入り充電スタンドがキたッ！！</summary>
+  </entry>
   <entry>
     <title>「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2147319.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-12T23:29:03+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは。ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でCTOをしている山口夏生 @0x_natto です。 2026年10月5日（UTC）、Splice 0.9.0 と Canton 3.6.1 が出ました。Splice は、Canton Network の Validator と Super Validator を動かすた…</summary>
-  </entry>
-  <entry>
-    <title>【2026年版】Fateで理解するローカルLLMの選び方</title>
-    <id>https://zenn.dev/akari1106/articles/3a050fde72159d</id>
-    <link href="https://zenn.dev/akari1106/articles/3a050fde72159d" />
-    <updated>2026-10-12T22:17:13+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事は、友人に「AI界隈やローカルLLMって、どんな感じなの？」と聞かれて話した内容を、記事用に書き直したものです。私が日英中で情報収集しているのと、オタクなので、オタクからオタク向けに翻訳した、という若干意味が分からないですがそういう記事です。 はじめに ローカルLLMの話をすると、「ローカルLLMって実際どうなの」「中国のモデルってどうなの」「それぞれ何が得意なの」と、毎回同じことを聞…</summary>
-  </entry>
-  <entry>
-    <title>WSL Containerのsettings.yaml他、基本的な挙動をみていく</title>
-    <id>https://zenn.dev/eien_syogakusya/articles/a34040c33e63d2</id>
-    <link href="https://zenn.dev/eien_syogakusya/articles/a34040c33e63d2" />
-    <updated>2026-10-12T20:19:34+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>WSL Containerへ移行する価値はあるのか 「composeが実装されるまで待機」と判断される意見が散見するWSLc。 筆者はDockerやcomposeを扱ったことのないPodmanユーザーであり、だいぶ素人です。 その素人が、AIツールを触る上で、PodmanからWSLcに移行する価値があるのか興味を抱いており、判明した情報をまとめ、共有していきたいと思います。 本記事の対象者は、 ・…</summary>
-  </entry>
-  <entry>
-    <title>whisperの文字起こしにJevで話者ラベルを付けようとしたら、Jevは要らなかった</title>
-    <id>https://zenn.dev/ik11235/articles/whisper-jev-speaker-label</id>
-    <link href="https://zenn.dev/ik11235/articles/whisper-jev-speaker-label" />
-    <updated>2026-10-12T19:30:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじまり 皆さん、会議の議事録などはどうしているでしょうか？ 最近はAI関連のツールが豊富で、たとえばNotionならAIミーティングノート、Google MeetならGeminiによる文字起こしがあります。 さらにNotionのAIミーティングノートは話者を特定してラベルを付けてくれるので、誰の発言かを文脈や録画から追わなくても確認できます。 （Meetでも一部のエディションで話者分離が使えると…</summary>
   </entry>
 </feed>
