@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-14T19:00:13.607985+09:00</updated>
+  <updated>2026-10-14T19:17:48.829254+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【SWTT 2026】Snowflake Well-Architected Frameworkで実現する実践的なデータマネジメント</title>
+    <id>https://zenn.dev/finatext/articles/swtt2026-snow-waf-datamanagement</id>
+    <link href="https://zenn.dev/finatext/articles/swtt2026-snow-waf-datamanagement" />
+    <updated>2026-10-14T17:51:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！ナウキャストの庵原です。 先日 Snowflake World Tour Tokyo 2026 に登壇させていただきました！ タイトルは「Snowflake Well-Architected Framework で実現する実践的なデータマネジメント」です。 登壇資料はこちら。 登壇内容をブログとしてまとめておこうと思います。 同じく World Tour Tokyo 2026…</summary>
+  </entry>
+  <entry>
+    <title>Next.jsの公開ページで、1回遊ぶ間に読むchunkを48本から16本にした</title>
+    <id>https://zenn.dev/onthebakery/articles/5a27024f61405f</id>
+    <link href="https://zenn.dev/onthebakery/articles/5a27024f61405f" />
+    <updated>2026-10-14T17:48:54+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！添田です！ 弊社のプロダクト「クロワッサン」で、公開ページが読み込むファイルの数を減らす対応をしました。 webpackのsplitChunksに設定を1つ足して、バラバラだった共有コードを1本にまとめたところ、 ガチャを1回遊ぶ間に読むファイル（chunk）が48本 → 16本になりました！ 設定自体は20行ほどです。 この記事では、何をまとめて何をまとめないか、そのかわり…</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントによるウェブサイトへの攻撃の注意喚起</title>
+    <id>https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</id>
+    <link href="https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html" />
+    <updated>2026-10-14T17:44:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>技術者ブログ クラウド型WAF「Scutum（スキュータム）」の開発者/エンジニアによるブログです。 金床“Kanatoko”をはじめとする株式会社ビットフォレストの技術チームが、“WAFを支える技術”をテーマに幅広く、不定期に更新中！ AIエージェントによる攻撃を観測しました 皆様おそらくご存知のとおり、2026年9月頃からウェ...</summary>
+  </entry>
+  <entry>
+    <title>就活用DirectX12アクションゲーム作成 第三十三回</title>
+    <id>https://zenn.dev/seisei89628/articles/cd976e4c7d78c7</id>
+    <link href="https://zenn.dev/seisei89628/articles/cd976e4c7d78c7" />
+    <updated>2026-10-14T15:06:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>※筆者は初学者なので、間違ったことを書いていれば教えてくれると助かります。 はじめに 前回は、C++側の基盤とC#側のゲーム層を分け、ゲーム側から描画、物理、音声を扱えるようにしました。 今回はプレイヤーの操作と戦闘を作りました。歩く・走る・攻撃する・回避する・ジャンプする・やられる、という一通りの動きを作り、練習用の敵と戦って、決着がついたら再戦できるところまで進めています。アニメーション、表情…</summary>
+  </entry>
+  <entry>
+    <title>新卒エンジニア3人でAWS Summit Japan 2026へ！ 現地で見つけた「気になる技術」を紹介します</title>
+    <id>https://zenn.dev/softbank/articles/22c8e3f9ab8945</id>
+    <link href="https://zenn.dev/softbank/articles/22c8e3f9ab8945" />
+    <updated>2026-10-14T11:06:16+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！ ソフトバンク株式会社 AI・クラウドプラットフォーム本部の新卒エンジニアの鈴木、伊澤、戸崎です。 2026年6月25日・26日に幕張メッセで開催された「AWS Summit Japan 2026」に、同期3人で参加してきました！ 本記事では、熱気あふれる会場の様子と、私たち3人がそれぞれ気になった展示やセッションを紹介します。鈴木は「AIが継続的に関わる相棒になるための基盤…</summary>
+  </entry>
+  <entry>
+    <title>モバイルバッテリーの処分についてちゃんと調べたのに、地域の公民館にある小型家電回収BOX、市役所の本庁舎、別館へ行く羽目になってたらい回しに「自治体によって違う」</title>
+    <id>https://togetter.com/li/2757912</id>
+    <link href="https://togetter.com/li/2757912" />
+    <updated>2026-10-14T08:04:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>However（ハウエバー） @unpayanitorihi モバイルバッテリーの処分について、フツーに不燃ゴミに出しちゃうのもアレなのでちゃんと調べたら、地域の公民館に設置されている「小型家電回収BOX」で引き取ってくれるということだったので、持ち込んで黙ってBOXに捨てるのも気が引けたのでスタッフさんに一応お声がけしたら...</summary>
+  </entry>
+  <entry>
+    <title>Lambda Web FunctionsでNext.jsアプリを爆速ホストしよう！</title>
+    <id>https://zenn.dev/tosuri13/articles/64f17d8c75e147</id>
+    <link href="https://zenn.dev/tosuri13/articles/64f17d8c75e147" />
+    <updated>2026-10-14T00:01:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは👋 最近Lambda Web Functionsという機能がLambdaに増えました。 https://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ ExpressやHono、Next.jsなどの標準的なHT…</summary>
+  </entry>
   <entry>
     <title>Claude Codeがほとんどの場合、動画編集してくれる。8時間の素材を30分で1時間に編集。字幕もつけられる｜shi3z</title>
     <id>https://note.com/shi3zblog/n/ncb38d2978074</id>
@@ -747,61 +803,5 @@
     <updated>2026-10-13T18:32:44+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 2026年10月10日・11日に開催された「JAWS-UG 富山#7 AI-DLC富山合宿」に参加しました。講師はAWSの福井厚さんです。[1] 座学でAI-DLCの考え方を学び、その後はチームに分かれてシステム開発に取り組みました。 参加のきっかけ 最近、業務担当者とエンジニアの距離が、AIによって少しずつ縮まっていると感じています。 業務担当者は、プログラミング言語に詳しくなくても、…</summary>
-  </entry>
-  <entry>
-    <title>Azure SRE Agent から Azure SRE Agent を呼ぶときに認証エラーになる件</title>
-    <id>https://zenn.dev/maaya8585/articles/b1160260c86805</id>
-    <link href="https://zenn.dev/maaya8585/articles/b1160260c86805" />
-    <updated>2026-10-13T16:43:12+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。まーやです。最近Azure SRE Agentで遊んでます。元々アプリとその周りのクラウドPaaSの運用エンジニアをしていた私としてはかなりポテンシャルを(勝手に)感じているサービス。ちょっと使う分にはそんなにはまることもないですが、それなりに使い倒そうとするとまだまだアラも出てくる新サービス。しかもAI系。今回出会ったエラーとその解決の内容を備忘録しておきます。 はじめに Azure…</summary>
-  </entry>
-  <entry>
-    <title>見えない原因に、統計学は何を言えるようになったか：交絡の歴史</title>
-    <id>https://zenn.dev/takyas/articles/dd6bef15d2d5f0</id>
-    <link href="https://zenn.dev/takyas/articles/dd6bef15d2d5f0" />
-    <updated>2026-10-13T13:58:59+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>交絡という概念はわかりにくく、誤解も多いように思う。この記事では、統計学が「見えない交絡」という問題にどう向き合ってきたかを、その歴史をたどりながら整理し、Rの実装がどう対応するのかをまとめてみた。 はじめに 1958年8月、Ronald FisherはNatureに短い論考（レター）を寄せた[1]。Richard DollとAustin Bradford Hillが1950年から積み上げてきた「…</summary>
-  </entry>
-  <entry>
-    <title>良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス</title>
-    <id>https://zenn.dev/nexta_/articles/unit-testing-principles-essence</id>
-    <link href="https://zenn.dev/nexta_/articles/unit-testing-principles-essence" />
-    <updated>2026-10-13T11:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 株式会社ネクスタの tetsu.k です。 生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。 ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。 品質を支える手段の一つが、単体テストです。 いまはAIに頼めば、テストを数秒…</summary>
-  </entry>
-  <entry>
-    <title>Next.js（Pages Router）+ react-i18next で多言語化を実装する</title>
-    <id>https://zenn.dev/socialplus/articles/f363cdf24340cf</id>
-    <link href="https://zenn.dev/socialplus/articles/f363cdf24340cf" />
-    <updated>2026-10-13T09:44:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、koyablueです。 ソーシャルPLUSでは、Shopify ストアなどのサービスと連携して使うログイン/会員登録画面（以下、ログイン画面）を、エンドユーザー向けのNext.js製アプリとして提供しています。 今回このログイン画面を多言語化するにあたってフロントエンドで行った内容を紹介します。 技術スタック: Next.js v16.3.8（Pages Router） i18next…</summary>
-  </entry>
-  <entry>
-    <title>Flutter の in_app_purchase で買い切りの Pro を作る。iOS の復元は購入が無いと何も流れてこない</title>
-    <id>https://zenn.dev/hk_work/articles/flutter-in-app-purchase-non-consumable</id>
-    <link href="https://zenn.dev/hk_work/articles/flutter-in-app-purchase-non-consumable" />
-    <updated>2026-10-13T09:26:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>蔵書管理アプリ「本棚（hondana）」を Flutter で個人開発しています。無料で使える範囲は残したまま、CSV/JSON のエクスポート、読書統計、複数の本棚を「Pro」として買い切りで解放する形にしました。 課金には公式の in_app_purchase を使っています。サーバーは持たず、購入状態は端末の中だけで管理します。この記事では、その構成で書いたコードと、プラグインのソースを読ん…</summary>
-  </entry>
-  <entry>
-    <title>dbtの「4層品質モデル」をTypeScript+クリーンアーキテクチャで例えてみる</title>
-    <id>https://zenn.dev/ronnabyte/articles/c6a53615a9df56</id>
-    <link href="https://zenn.dev/ronnabyte/articles/c6a53615a9df56" />
-    <updated>2026-10-13T09:18:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>dbtの「4層品質モデル」をTypeScript+クリーンアーキテクチャで例えてみる はじめに 『dbtとそれにまつわる技術について語ろうじゃないか』(DATUM STUDIO・ちゅらデータ技術書典支部)を読みました。 私自身、Webアプリ開発と比べるとデータエンジニアリングに携わってまだ歴が浅いのでこちらの書籍でdbt周りの知見を深められたらなと思って本書を手に取った次第です。 弊社でdbtを活…</summary>
-  </entry>
-  <entry>
-    <title>Appleがスマートホーム製品に本格進出 LGらと共同開発したスマートロックや屋内外用カメラなどを含む「Apple Home Collection」を発表</title>
-    <id>https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2610/13/news112.html" />
-    <updated>2026-10-13T23:03:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleは10月13日、LG ElectronicsおよびSchneider Electricと共同開発した複数のスマートホーム製品「Apple Home Collection」を発表した。12月から順次、米国やカナダ、英国で発売する。日本での展開は発表されていない。 左からLGの「Smart Deadbolt Lock」、「Indoor Cam」、Schneider Electricの「Sma…</summary>
   </entry>
 </feed>
