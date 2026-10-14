@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-14T19:30:16.666183+09:00</updated>
+  <updated>2026-10-14T20:00:11.195587+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「VS Code」とローカルAIで記事執筆アプリを2時間で無料作成した方法</title>
+    <id>https://japan.zdnet.com/article/35253351/</id>
+    <link href="https://japan.zdnet.com/article/35253351/" />
+    <updated>2026-10-14T11:26:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ある週末、筆者は特定の執筆ツールが必要だと考えが、そのようなものは見つからなかった。試したものは使いづらかったり、機能が足りなかったり、あるいは高価であった。 そんな折、知人で作家のHugh Howey氏が約10年前に独自の執筆アプリ「NEO」の開発に着手していたことを知った。元ソフトウェアエンジニアである同氏...</summary>
+  </entry>
+  <entry>
+    <title>NICT、企業で相次ぐ不正アクセスの原因の一部は「A2B攻撃」と発表</title>
+    <id>https://japan.zdnet.com/article/35253510/</id>
+    <link href="https://japan.zdnet.com/article/35253510/" />
+    <updated>2026-10-14T02:02:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>LETTICの解析（PDF）からA2B攻撃では、主にサーバーサイドリクエストフォージェリ（SSRF）、リモートコード実行（RCE）、SQLインジェクション、インセキュアダイレクトオブジェクトリファレンス（IDOR）の4種類の脆弱性を標的としていることが分かった。 NICTは、Androidアプリの提供者に点検や対策、回避策などの実施を...</summary>
+  </entry>
   <entry>
     <title>AI時代にアジャイルは時代遅れなのか｜mtx2s</title>
     <id>https://note.com/mtx2s/n/n4c65f0913304</id>
@@ -787,21 +803,5 @@
     <updated>2026-10-13T23:09:49+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>個人開発しているゲームアプリのテストを、iOS 27 のシミュレータで回してみた。いつもは iOS 26.5 で回していて、そこでは通っているテストだ。 落ちたのは、ミッション報酬の受け取りで save に失敗したときに Gold が元に戻るかを見るテストだった。期待値は「受け取る前の Gold」なのに、実際はそれより少ない。報酬を足して、save に失敗して、戻したら、足した分より多く引かれてい…</summary>
-  </entry>
-  <entry>
-    <title>Yandexデータセンター攻撃の前後でXの日本語親ロ投稿を数えてみた｜一田和樹のメモ帳</title>
-    <id>https://note.com/ichi_twnovel/n/nc23602343127</id>
-    <link href="https://note.com/ichi_twnovel/n/nc23602343127" />
-    <updated>2026-10-13T23:07:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月、ウクライナは無人機で、「ロシアのグーグル」と呼ばれることが多いIT大手Yandex（ヤンデックス）のデータセンター3か所を攻撃した。BBCによればサソボ（リャザン州）が7日から8日にかけての夜、カルーガが9日朝、ニュースサイトのMezhaによればウラジーミル州が11日である（いずれも現地時間）。攻撃の後、...</summary>
-  </entry>
-  <entry>
-    <title>いかにも本物っぽいオンライン会議の画面と音声で「今ちょっと忙しくて……」の言い訳に使える「Fleeting」、GoogleカレンダーやOutlookに予定を登録もできる</title>
-    <id>https://gigazine.net/news/20261013-fleeting/</id>
-    <link href="https://gigazine.net/news/20261013-fleeting/" />
-    <updated>2026-10-13T23:02:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>職場などで誰かに話しかけられたり、仕事を頼まれたりしたくないときに「ちょっと今会議中なので対応できません」と断るためのサイト「Fleeting」が公開されています。実際のオンライン会議のような画面を表示し、AIが生成した架空の参加者たちによる会話を再生してくれるので、周囲の人に「用事を頼むには忙しそうだ」...</summary>
   </entry>
 </feed>
