@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-14T13:59:58.741493+09:00</updated>
+  <updated>2026-10-14T14:30:15.236373+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>15.6型×3画面を折りたたんで持ち運べるモニター、サンコーから</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2147995.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2147995.html" />
+    <updated>2026-10-14T13:47:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>15.6型×3画面を折りたたんで持ち運べるモニター、サンコーから</summary>
+  </entry>
+  <entry>
+    <title>iOSDC Japan 2026 参加レポート - stmn tech blog</title>
+    <id>https://tech.stmn.co.jp/entry/2026/10/14/111353</id>
+    <link href="https://tech.stmn.co.jp/entry/2026/10/14/111353" />
+    <updated>2026-10-14T11:15:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>自己紹介 こんにちはriataso です。 iOSエンジニアとして、TUNAG のアプリ対応を担当しています。 iOSDC への参加は今回で2回目です。最近は知り合いが次々と iOS から別のポジションへ移っていくことが多く、少し寂しさを感じていました。そんな中で、会場に iOS エンジニアがこれだけ集まっている景色を見ると、やっぱ...</summary>
+  </entry>
+  <entry>
+    <title>mobile_scanner で本の ISBN を読む。裏表紙の2段バーコードは両方 EAN-13 だった</title>
+    <id>https://zenn.dev/hk_work/articles/mobile-scanner-isbn-barcode</id>
+    <link href="https://zenn.dev/hk_work/articles/mobile-scanner-isbn-barcode" />
+    <updated>2026-10-14T11:00:21+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>蔵書管理アプリ「本棚（hondana）」を Flutter で個人開発しています。本の登録は、裏表紙のバーコードをカメラで読んで ISBN を取り、そこから書誌を引く流れです。書誌の引き方は openBD と Google Books で ISBN から書誌を引く に書きました。この記事はその手前、バーコードを読む部分の話です。 バーコードの読み取りには mobile_scanner 7.2.0…</summary>
+  </entry>
+  <entry>
+    <title>開発しながら同じPCでローカルLLMを動かしてみた話</title>
+    <id>https://zenn.dev/sumasate_tec/articles/test-local-llm</id>
+    <link href="https://zenn.dev/sumasate_tec/articles/test-local-llm" />
+    <updated>2026-10-14T10:31:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに スマサテでWebアプリケーション開発を担当している上田です。 普段の開発では Claude Code を使っていますが、便利な反面使っていると気になってくるのが使用量です。調査で大量のファイルを読ませたり、同じ作業を何度もやり直させたりすると、それなりに消費します。 そんなときに知ったのが MiniCPM5 という軽量なモデルです。2B クラスと小さく、手元のPCで動かすことを前提にコー…</summary>
+  </entry>
+  <entry>
+    <title>Unityで立体物の衣装が変わるプロジェクションマッピングを試作した</title>
+    <id>https://zenn.dev/m_tk/articles/e39b61a8136a29</id>
+    <link href="https://zenn.dev/m_tk/articles/e39b61a8136a29" />
+    <updated>2026-10-14T10:20:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Unityを用いてマネキン曲面への3Dプロジェクションマッピングを試作しました。 着手のきっかけは『CGWORLD』2025年11月号に掲載された「大カプコン展」の事例です。 春麗の等身大立像に映像を投影し、ワイヤーフレームから衣装へと見た目が変わっていく展示が紹介されていました。 掲載記事ではTouchDesignerやHoudini、Blenderを組み合わせた制作・上映の仕組みが解…</summary>
+  </entry>
+  <entry>
+    <title>猫をユーザーにして分かった、IoTものづくりの失敗5選｜猫と開発の日々 - レバテックLAB</title>
+    <id>https://levtech.jp/media/detail_942/</id>
+    <link href="https://levtech.jp/media/detail_942/" />
+    <updated>2026-10-14T09:10:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめまして。「ねこIoTLT」で活動しているニアムギです。 機会をいただき、愛猫たちと向き合いながら続けてきたものづくりの日々について記事を書かせていただくことになりました。 これまで猫のためにさまざまなものをつくってきましたが、振り返ってみると、思い通りにいかなかったことも少なくありません。 今回は...</summary>
+  </entry>
+  <entry>
+    <title>Amazon BedrockとSageMakerのAIエージェントでOpenTelemetryの自動計装が行われる範囲</title>
+    <id>https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel</id>
+    <link href="https://zenn.dev/ymotongpoo/articles/20261014-bedrock-sagemaker-otel" />
+    <updated>2026-10-14T09:00:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 一次情報は2026年10月13日の時点のものを確認しました。AWSのサービス側の仕様もOpenTelemetry側の規約も動いている最中なので、採用前に同じページを読み直してください。本文のうち実際に動かして確かめた部分も同じ日に実施したもので、リージョンとバージョンを該当箇所か脚注に書いています。対象にした一次情報と検証環境は次のとおりです。 GenAI規約のBedrock関連: seman…</summary>
+  </entry>
+  <entry>
+    <title>Nimの引数パーサーにconfutilsを採用してみた</title>
+    <id>https://zenn.dev/attakei/articles/introduce-nim-confutils</id>
+    <link href="https://zenn.dev/attakei/articles/introduce-nim-confutils" />
+    <updated>2026-10-14T09:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>最近になってまたNimでCLIツールの作成をしています。 サブコマンドが必要なケースがほどんどなのもあり、以前はこの記事などを参考にしつつcligenを利用していました。 今回のツールでは「せっかくだし違うものも試してみよう」という発想から、nim-confutilsという別アプローチのライブラリを採用してみています。 割りと肌に合う感じだったので、機能面の整理をしつつ紹介しようと思います。 co…</summary>
+  </entry>
+  <entry>
+    <title>Rustのstrumでenumの管理が簡単になる【備忘】</title>
+    <id>https://zenn.dev/echigo/articles/c527aaedfd021b</id>
+    <link href="https://zenn.dev/echigo/articles/c527aaedfd021b" />
+    <updated>2026-10-14T08:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Rustでenumを利用したカテゴリ管理を実装したところ、管理する値の数が減って感動したので、その記録を残しておく。 読むとわかることは3つある。 enum名・DBに保存するキー・日本語の表示名の3つを、Rustの strum クレートで1か所にまとめる方法 同じカテゴリを定義したとき、PHPとRustで手でタイプする箇所の数がどれだけ違うか 命名規則に変換を任せるときの注意点 結論から…</summary>
+  </entry>
+  <entry>
+    <title>『現場で役立つシステム設計の原則』を読んで学んだこと、実践したこと、これからやりたいこと</title>
+    <id>https://zenn.dev/wwwave/articles/38b8284f96bd9e</id>
+    <link href="https://zenn.dev/wwwave/articles/38b8284f96bd9e" />
+    <updated>2026-10-14T07:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、塚本です。 私が担当している業務では、長年運用されてきたシステムを少しずつ改善する取り組みを続けています。これまでに、『レガシーコードからの脱却』を読んでRSpecを導入した話や、Access VBAのシステムを撤退させるための技術選定の話を書いてきました。 どちらも、変更したときに「何が壊れるか」を検知できる状態、つまりテストをどう整えるか、という話でした。一方で、テストを…</summary>
+  </entry>
+  <entry>
+    <title>AWS Lambda Web Functions × Hono - アダプター不要のサーバーレスWeb開発</title>
+    <id>https://zenn.dev/the_exile/articles/lambda-web-functions-hono</id>
+    <link href="https://zenn.dev/the_exile/articles/lambda-web-functions-hono" />
+    <updated>2026-10-13T22:11:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年10月12日、AWSがLambda Web Functionsを発表しました。従来のLambdaでWebアプリを動かすには、リクエスト/レスポンスをLambdaイベントに変換するアダプターが必要でした。Web Functionsではその制約がなくなり、ポートをリッスンする普通のHTTPサーバーをそのままデプロイできます。 HonoでWeb Functionsを試してみたので、従…</summary>
+  </entry>
+  <entry>
+    <title>AWS Lambda Web Functionsの発表+CloudFrontとの連携も発表</title>
+    <id>https://zenn.dev/skeletonfrolic/articles/1ec268a32c1193</id>
+    <link href="https://zenn.dev/skeletonfrolic/articles/1ec268a32c1193" />
+    <updated>2026-10-13T15:32:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AWS Lambda Web Functionsの発表 https://aws.amazon.com/jp/blogs/aws/announcing-aws-lambda-web-functions-for-fast-consistent-web-app-performance-anywhere/ CloudFormationリソースのドキュメント 全体像→詳細を知りたい時は大体マネコンとCfnド…</summary>
+  </entry>
+  <entry>
+    <title>データ基盤におけるデータ取り込み方式の選び方 —— ゼロコピー、CDC、Create or Replace、クエリベース増分更新</title>
+    <id>https://zenn.dev/ivry/articles/data-ingestion-pattern-guide</id>
+    <link href="https://zenn.dev/ivry/articles/data-ingestion-pattern-guide" />
+    <updated>2026-10-13T13:47:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、IVRyでデータエンジニアとして働いている松田健司（@ken_3ba）です。趣味はビリヤードで、プロの試合にも出ているぐらい割とガチでやっています。 最近シャフト(キューの上半分の部分)を新調しました。木に色を入れた7色のカラフルなデザインのUNLIMITEDのシャフトがあるのですが、結局いちばん無難な黒を選びました。 7色のシャフト。 ビリヤードの話はこのへんにして、本題に入ります。…</summary>
+  </entry>
   <entry>
     <title>楽天モバイル、利用者の「支払い証明書」に第三者閲覧の恐れ 社内の脆弱性診断で発覚</title>
     <id>https://www.itmedia.co.jp/news/article/2610/14/2000002250/</id>
@@ -299,7 +403,7 @@
     <link href="https://zenn.dev/keigoly/articles/8738d8d241b5a1" />
     <updated>2026-10-14T02:54:44+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>はじめに 2026 年 10 月 13 日、話題の逆解析ツール「REA」を、AI エージェントである Claude Code に接続して試験導入を行いました。逆解析の道具をそのままエージェントに渡す運用には安全上の懸念があるため、専用の隔離環境を整えた上で実務課題を用いた評価を実施しています。 静的な JavaScript や Web の解析において、標準の道具と REA で回答の正確さは同等でし…</summary>
+    <summary>https://eof.keigoly.jp/tech-1 はじめに 2026 年 10 月 13 日、話題の逆解析ツール「REA」を、AI エージェントである Claude Code に接続して試験導入を行いました。逆解析の道具をそのままエージェントに渡す運用には安全上の懸念があるため、専用の隔離環境を整えた上で実務課題を用いた評価を実施しています。 静的な JavaScript や Web の…</summary>
   </entry>
   <entry>
     <title>「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能</title>
@@ -700,109 +804,5 @@
     <updated>2026-10-13T19:42:47+09:00</updated>
     <category term="はてブ IT" />
     <summary>全国の自治体向けに災害情報メールや防災アプリなどを提供するシステムを運営している「アルカディア」は、第三者による不正アクセスが疑われる事案を確認したと明らかにしました。この影響で、登録者のメールアドレ…</summary>
-  </entry>
-  <entry>
-    <title>[スタパ齋藤の「スタパトロニクスMobile」] UGREENの3-in-1全部入り充電スタンドがキたッ！！</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/column/stapa/2146862.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapa/2146862.html" />
-    <updated>2026-10-13T01:46:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[スタパ齋藤の「スタパトロニクスMobile」] UGREENの3-in-1全部入り充電スタンドがキたッ！！</summary>
-  </entry>
-  <entry>
-    <title>「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2147319.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2147319.html" />
-    <updated>2026-10-13T17:58:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Python 3.15」が正式公開 ～UTF-8が標準に、“番兵値”などの新しい言語機能も／実験的な「JIT」コンパイラーも大きく強化</summary>
-  </entry>
-  <entry>
-    <title>OpenAIやAnthropicの最先端モデルを上回る高性能AI「Muse Wonder」をMetaが発表、Museシリーズ登場から半年で最先端に追いつく</title>
-    <id>https://gigazine.net/news/20261013-meta-ai-muse-wonder/</id>
-    <link href="https://gigazine.net/news/20261013-meta-ai-muse-wonder/" />
-    <updated>2026-10-13T11:29:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>MetaがAIモデル「Muse Wonder」と「Muse Wonder Full」を現地時間の2026年10月12日に発表しました。どちらのモデルも各種ベンチマークテストでOpenAIやAnthropicの最先端モデルを上回るスコアを記録しています。 Muse Wonder: A Frontier Model For Personal &amp; Professional AI Agents https…</summary>
-  </entry>
-  <entry>
-    <title>相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2147764.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2147764.html" />
-    <updated>2026-10-13T18:43:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表</summary>
-  </entry>
-  <entry>
-    <title>GitHub Agentic Workflows で issue の triage を自動化しながらいろいろ試してみる - プププなテクブ</title>
-    <id>https://blog.inorinrinrin.com/entry/512918a2-7cf0-f36a-8ac1-db78fea2e289</id>
-    <link href="https://blog.inorinrinrin.com/entry/512918a2-7cf0-f36a-8ac1-db78fea2e289" />
-    <updated>2026-10-13T16:48:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年7月23日にGitHub Issues に、AI の変更へ理由と信頼度を付ける機能が public preview で入りました。Agentic Workflows では issue-intent で扱います。 github.blog それまではGitHub Agentic WorkflowsでIssueをTriageする際に、AIがラベルを付けたら即反映され、なぜそう判断したのかも分か…</summary>
-  </entry>
-  <entry>
-    <title>トーバルズ、「説いた通りにやった」。LLMでLinuxの13年来のバグ4件を発見</title>
-    <id>https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/</id>
-    <link href="https://joho-todai.com/torvalds-llm-linux-13-year-old-bugs-fixed/" />
-    <updated>2026-10-13T13:53:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>リーナス・トーバルズ氏がLLMを使ってLinuxカーネルの連想配列ライブラリのコードを読みやすく書き直し、報告済みのバグを含む計4件の不具合を発見した。いずれも2013年の初回コミットから埋もれていた。 この記事のポイント 何が起きた: トーバルズ氏がLLMでassoc_arrayライブラリのコードを可読化し、2013年の初回コミ...</summary>
-  </entry>
-  <entry>
-    <title>ニコン顕微鏡写真コンテスト、最優秀賞の授賞撤回 AI使用めぐり批判噴出</title>
-    <id>https://www.cnn.co.jp/fringe/35253488.html</id>
-    <link href="https://www.cnn.co.jp/fringe/35253488.html" />
-    <updated>2026-10-13T13:34:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>主催者が顕微鏡写真コンテスト最優秀賞の授賞を撤回した動画からのスクリーンショット/Nikon Small World/ Dr. Ning Xu （CNN） 毎年恒例のサイエンス写真コンテスト「スモール・ワールド・イン・モーション」で1位に選ばれた作品について、主催者のニコンが授賞を撤回した。同作品の生成AIをめぐって規定違反と判断した...</summary>
-  </entry>
-  <entry>
-    <title>オリキャラの3Dモデルのループモーションを楽に作る (Tripo3d + Opus 5.5 + MiniMax H3 + blender)｜異世界♪吟遊詩人ギルド</title>
-    <id>https://note.com/ultracrab/n/n1bff0051e321</id>
-    <link href="https://note.com/ultracrab/n/n1bff0051e321" />
-    <updated>2026-10-13T13:13:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この方法なら、人間だけでなく動物や魔獣みたいな、どうやってリギングやモーションつけたらいいか素人にはよくわからない生物とかでも、ぐりぐり動かせます。 下記のXのポストが元になってます。とても参考になりました！ GPT画像→Tripo3D→Opus5.5での各足へのボーン入れ、セグメンテーションとカラーリング→H3による動...</summary>
-  </entry>
-  <entry>
-    <title>AI models may be capable of self-replicating without access to a datacenter</title>
-    <id>https://www.anthropic.com/research/self-replicating-ai</id>
-    <link href="https://www.anthropic.com/research/self-replicating-ai" />
-    <updated>2026-10-13T10:22:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Of course, there are many other steps to showing that an autonomous worm can propagate itself across a network of weak machines. For the purposes of this blog post, we break down the replication chain…</summary>
-  </entry>
-  <entry>
-    <title>【速報】PayPay証券 障害で日本株の取引停止 14日の予約注文も停止 復旧めど立たず</title>
-    <id>https://news.tv-asahi.co.jp/news_economy/articles/000539845.html</id>
-    <link href="https://news.tv-asahi.co.jp/news_economy/articles/000539845.html" />
-    <updated>2026-10-13T18:20:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1 スマートフォン向けの証券会社「PayPay証券」でシステム障害が起きていて、日本株の取引ができなくなっています。 PayPay証券によりますと、13日午前10時15分以降、外部の接続先で障害が起き、日本株とETF（上場投資信託）のすべての銘柄の取引を停止しました。 その後、午前11時30分ごろから1時間程度、注文の受付を...</summary>
-  </entry>
-  <entry>
-    <title>Fitbit初、バッテリ交換できるスマートバンド「Fitbit Edge」、2万6,800円</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2147467.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2147467.html" />
-    <updated>2026-10-13T12:40:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Fitbit初、バッテリ交換できるスマートバンド「Fitbit Edge」、2万6,800円</summary>
-  </entry>
-  <entry>
-    <title>GeoServerのCVE-2024-36401を攻略する (FFRI × NFLabs. Cybersecurity Challenge)</title>
-    <id>https://zenn.dev/goroshirow/articles/ae8dbe7f62bfd3</id>
-    <link href="https://zenn.dev/goroshirow/articles/ae8dbe7f62bfd3" />
-    <updated>2026-10-12T23:06:38+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>2026年10月9日（金）〜 2026年10月12日（月）で開催された FFRI × NFLabs. Cybersecurity Challenge 2026 に参加しました！ ジャンルはPentest,Web Exploitation,Malware Analysis,Binary Exploitation,Miscと現実の脅威に沿った内容が多く、どの問題も解き甲斐がありました。 今回はその中で…</summary>
-  </entry>
-  <entry>
-    <title>コンテナとCI/CDの学習記録 part10</title>
-    <id>https://zenn.dev/aymaymaym/articles/3d0d49fba7284f</id>
-    <link href="https://zenn.dev/aymaymaym/articles/3d0d49fba7284f" />
-    <updated>2026-10-12T22:05:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに part9の続きです。 k8sのIngressという機能についてハンズオンを通して学習していきます。 使うもの Windows 11 Raspberry Pi 4 (OS: Ubuntu Server 26.04) 過去の学習内容 part1 ラズパイセットアップ part2 k3sインストール Docker基礎(インストール、ログ記録など初期設定、nginxコンテナ起動～削除まで) p…</summary>
   </entry>
 </feed>
