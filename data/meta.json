@@ -1,21 +1,20 @@
 {
-  "updatedAt": "2026-10-14T10:00:14.295450+09:00",
-  "nextEstimate": "10:30",
+  "updatedAt": "2026-10-14T10:30:15.541484+09:00",
+  "nextEstimate": "11:00",
   "sources": {
     "publickey": {
       "name": "Publickey",
       "url": "https://www.publickey1.jp/atom.xml",
-      "fetchedAt": "2026-10-14T10:00:14.295450+09:00",
-      "etag": "\"6d6d-65db99efc365e\"",
-      "lastModified": "Tue, 13 Oct 2026 14:27:57 GMT",
+      "fetchedAt": "2026-10-14T10:30:15.541484+09:00",
+      "etag": "\"6d6d-65dc2de03216d\"",
+      "lastModified": "Wed, 14 Oct 2026 01:29:50 GMT",
       "ok": true,
-      "notModified": true,
       "count": 15
     },
     "hateb-it": {
       "name": "はてブ IT",
       "url": "https://b.hatena.ne.jp/hotentry/it.rss",
-      "fetchedAt": "2026-10-14T10:00:14.295450+09:00",
+      "fetchedAt": "2026-10-14T10:30:15.541484+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
@@ -24,16 +23,16 @@
     "zenn": {
       "name": "Zenn トレンド",
       "url": "https://zenn.dev/feed",
-      "fetchedAt": "2026-10-14T10:00:14.295450+09:00",
+      "fetchedAt": "2026-10-14T10:30:15.541484+09:00",
       "etag": null,
-      "lastModified": "Tue, 13 Oct 2026 23:36:02 GMT",
+      "lastModified": "Wed, 14 Oct 2026 01:24:34 GMT",
       "ok": true,
       "count": 20
     },
     "qiita": {
       "name": "Qiita トレンド",
       "url": "https://qiita.com/popular-items/feed",
-      "fetchedAt": "2026-10-14T10:00:14.295450+09:00",
+      "fetchedAt": "2026-10-14T10:30:15.541484+09:00",
       "etag": "W/\"7dd55545e89dda56337ca3f28e476c1e\"",
       "lastModified": null,
       "ok": true,
@@ -43,10 +42,11 @@
     "www-jpcert-or-jp-rss": {
       "name": "JPCERT",
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
-      "fetchedAt": "2026-10-14T10:00:14.295450+09:00",
+      "fetchedAt": "2026-10-14T10:30:15.541484+09:00",
       "etag": "\"374d-65dc237f36300\"",
       "lastModified": "Wed, 14 Oct 2026 00:43:24 GMT",
       "ok": true,
+      "notModified": true,
       "count": 21
     }
   }
