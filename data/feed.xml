@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-15T04:44:14.469178+09:00</updated>
+  <updated>2026-10-15T05:00:10.699088+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>'${widget._value}'の{}を忘れたら自分の常識に疑義が生じた</title>
+    <id>https://zenn.dev/baleenstudio/articles/b80253e5dde615</id>
+    <link href="https://zenn.dev/baleenstudio/articles/b80253e5dde615" />
+    <updated>2026-10-14T14:23:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>さてクイズです Q. Flutter/dartで'${widget._value}'と書くべきところを'$widget._value'としてしまいました。どうなるでしょう？ A. Instance of '(widgetのクラス名)'._value という想定外の文字列になる。 StatelessWidgetからStatefullWidgetに変えた際にやらかしたんですが、Flutter/dart…</summary>
+  </entry>
   <entry>
     <title>HTML-in-Canvasで作る未来のWeb UI表現</title>
     <id>https://speakerdeck.com/clockmaker/html-in-canvas</id>
@@ -795,13 +803,5 @@
     <updated>2026-10-13T18:37:35+09:00</updated>
     <category term="はてブ IT" />
     <summary>SB Intuitions（東京都港区）は10月13日、国産生成AI「Sarashina」を試せる「Sarashinaサービス」の無償β版の提供を始めた。6つのAIモデルを呼び出せるAPI機能と、Web上でAIとの対話や翻訳を体験できるチャット機能を一般公開。Googleアカウントでログインすれば、事前の申し込みなしで誰でも無料で利用できる。</summary>
-  </entry>
-  <entry>
-    <title>10月の「Windows Update」は初の脆弱性4桁で過去最多を更新 ～Microsoftが2026年10月「Windows Update」を実施／「緊急」は76件、悪用確認は1件。「Windows 11 24H2 Home/Pro」は今回が最後の更新に</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2147852.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2147852.html" />
-    <updated>2026-10-14T10:03:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>10月の「Windows Update」は初の脆弱性4桁で過去最多を更新 ～Microsoftが2026年10月「Windows Update」を実施／「緊急」は76件、悪用確認は1件。「Windows 11 24H2 Home/Pro」は今回が最後の更新に</summary>
   </entry>
 </feed>
