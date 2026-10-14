@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-14T12:30:12.381514+09:00</updated>
+  <updated>2026-10-14T13:00:13.000936+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SBI証券のFXで“誤ロスカット” 再委託先IIJが作業ミス、システムでも検知できず 779口座が対象</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/14/2000002249/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/14/2000002249/" />
+    <updated>2026-10-14T12:40:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>担保の株反映されず「保証金不足」と誤判定→ロスカット FXは、預けた保証金の数倍の金額で外貨を売買できる取引。損失によって保証金が一定の水準まで減ると、証券会社はそれ以上損失が広がらないよう、まだ決済していない取引（ポジション）を自動で決済（ロスカット）する。 「株券担保サービス」は、証券口座で保有す...</summary>
+  </entry>
+  <entry>
+    <title>パスワードが「123456」の企業アカウント経由でデンマークの国家登録簿から880万人分の個人情報が流出</title>
+    <id>https://gigazine.net/news/20261014-denmark-123456-password/</id>
+    <link href="https://gigazine.net/news/20261014-denmark-123456-password/" />
+    <updated>2026-10-14T11:59:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>デンマークの中央個人登録簿(CPR)から約880万人分の氏名や住所、個人識別番号などが不正に取得されたことが明らかになりました。攻撃者を名乗る人物が、データベースへのアクセス権を持つ民間企業のアカウントに設定されていた「123456」という単純なパスワードを利用したと証言しています。 Omfattende uautoriseret ad...</summary>
+  </entry>
+  <entry>
+    <title>JR東海、ECサイトの顧客情報約1.5万件漏えいか IDCFへの不正アクセスで「閲覧された可能性を否定できない」</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/14/2000002237/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/14/2000002237/" />
+    <updated>2026-10-14T07:56:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>両サイトのメール配信サービスを担う事業者が、不正アクセスを受けたIDCフロンティアのクラウドを利用しており、「顧客の個人情報を第三者に閲覧または取得された可能性を否定できない」ため公表した。 漏えいした可能性があるのは、配信先のメールアドレスと、配信したメールの本文に記載した氏名、住所、電話番号、注...</summary>
+  </entry>
   <entry>
     <title>無料で7種類の超小型AIモデルをブラウザで動かせる「MicroLLM lab」、WebGPUで端末のGPUを活用</title>
     <id>https://gigazine.net/news/20261013-microllm-lab-browser-webgpu/</id>
@@ -780,29 +804,5 @@
     <updated>2026-10-13T12:45:25+09:00</updated>
     <category term="はてブ IT" />
     <summary>Sarashina（サラシナ）は、SB Intuitionsが日本語データを重点的に学習させて開発している国産の大規模言語モデルです。チャットとAPIで提供しています。</summary>
-  </entry>
-  <entry>
-    <title>総務省｜不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起）</title>
-    <id>https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html</id>
-    <link href="https://www.soumu.go.jp/menu_kyotsuu/important/kinkyu02_000680.html" />
-    <updated>2026-10-13T16:55:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>お知らせ 令和8年10月13日 不正アクセスによる情報漏えい等の事案を踏まえた対応について （公開アプリの解析情報を悪用した攻撃への注意喚起） 大量の個人情報を取り扱う事業者等の情報システムが不正アクセスにより侵入され、個人情報を含むデータが窃取される事案が相次いで確認されていることを踏まえ、総務省では、...</summary>
-  </entry>
-  <entry>
-    <title>楽天モバイルで情報漏えいのおそれ 過去に契約していた人も対象に</title>
-    <id>https://ascii.jp/elem/000/004/442/4442187/</id>
-    <link href="https://ascii.jp/elem/000/004/442/4442187/" />
-    <updated>2026-10-13T16:53:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天モバイルは10月13日、「my 楽天モバイル」からダウンロードできる支払い証明書について、第三者が閲覧できる可能性があったとして、利用者にメールで通知した。利用料金や個人情報が第三者に見られる状態になっていた可能性がある。過去に契約していた利用者も通知の対象だ。 同社が実施した脆弱性診断テストで判明...</summary>
-  </entry>
-  <entry>
-    <title>フランス国内の小売チェーンで発生した冷凍冷蔵設備の遠隔操作についてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/10/13/133936</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/13/133936" />
-    <updated>2026-10-13T13:44:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月12日、フランスの複数の小売チェーンで、店舗の冷凍冷蔵設備が遠隔操作され食品の廃棄に至るサイバー攻撃が明らかになりました。ここでは関連する情報をまとめます。 小売各社の店舗で庫内温度が上昇 2026年10月11日夜から12日未明にかけて、フランスの複数の小売チェーンの店舗で冷凍冷蔵設備が遠隔操作され...</summary>
   </entry>
 </feed>
