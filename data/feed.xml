@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-15T14:00:12.483315+09:00</updated>
+  <updated>2026-10-15T14:30:12.805220+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮</title>
+    <id>https://gigazine.net/news/20261015-apple-minions/</id>
+    <link href="https://gigazine.net/news/20261015-apple-minions/" />
+    <updated>2026-10-15T10:58:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleの研究チームが、使われていないMacのGPUをネットワーク経由で集約し、AIの処理に活用する分散型システム「Minions」を開発しました。MinionsはすでにApple社内で運用されており、従来は10時間以上かかることもあったGPUの利用待ち時間を数分に短縮できたと報告されています。 Minions: A Dynamic and Distributed ...</summary>
+  </entry>
   <entry>
     <title>有名企業や一流開発者のノウハウをそのまま持ち込める、Claude Codeスキル11選｜苦しんでプログラミングを学んだ柴犬（くるしば）</title>
     <id>https://note.com/shiba_program/n/nd2d72747f8c5</id>
@@ -796,13 +804,5 @@
     <updated>2026-10-14T18:02:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>AI丸出しだと嫌われる、と言うのはよくありますが、明らかにAIを使っていてもいいかんじに受け入れられていたり、いいなと言えるデザインはありますか？</summary>
-  </entry>
-  <entry>
-    <title>SpaceXが米国で自前の携帯サービスを目指す 衛星が届きにくい屋内は800MHz帯で補う</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2610/14/news026.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2610/14/news026.html" />
-    <updated>2026-10-14T12:03:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>SpaceXが米国で携帯キャリアになろうとしている。10月8日、同社は800MHz帯の周波数免許を取得する契約を発表し、Starlink Mobileが米国で携帯キャリアになる道を開く取得だと自社サイトで説明した。その2日前には、米連邦通信委員会（FCC）が次世代のStarlink Mobile衛星1万5000機の打ち上げと運用を認可している。 Spac...</summary>
   </entry>
 </feed>
