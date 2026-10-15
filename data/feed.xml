@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-15T08:30:13.679083+09:00</updated>
+  <updated>2026-10-15T09:00:11.719398+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦する”との研究。安全第一すぎて死ぬ - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/newsjp/20261014-473406/</id>
+    <link href="https://automaton-media.com/articles/newsjp/20261014-473406/" />
+    <updated>2026-10-14T21:49:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦する”との研究。安全第一すぎて死ぬ 『Slay the Spire』の最高難易度を、GPT-6やCalude Fable 5.1といった最新モデルを含むさまざまなAIモデルにプレイさせる研究論文が公開された。 『Slay the Spire』の最高難易度を、最新モデルを含むさ...</summary>
+  </entry>
   <entry>
     <title>小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】</title>
     <id>https://internet.watch.impress.co.jp/docs/event/2148145.html</id>
@@ -796,13 +804,5 @@
     <updated>2026-10-14T11:00:21+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>蔵書管理アプリ「本棚（hondana）」を Flutter で個人開発しています。本の登録は、裏表紙のバーコードをカメラで読んで ISBN を取り、そこから書誌を引く流れです。書誌の引き方は openBD と Google Books で ISBN から書誌を引く に書きました。この記事はその手前、バーコードを読む部分の話です。 バーコードの読み取りには mobile_scanner 7.2.0…</summary>
-  </entry>
-  <entry>
-    <title>開発しながら同じPCでローカルLLMを動かしてみた話</title>
-    <id>https://zenn.dev/sumasate_tec/articles/test-local-llm</id>
-    <link href="https://zenn.dev/sumasate_tec/articles/test-local-llm" />
-    <updated>2026-10-14T10:31:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに スマサテでWebアプリケーション開発を担当している上田です。 普段の開発では Claude Code を使っていますが、便利な反面使っていると気になってくるのが使用量です。調査で大量のファイルを読ませたり、同じ作業を何度もやり直させたりすると、それなりに消費します。 そんなときに知ったのが MiniCPM5 という軽量なモデルです。2B クラスと小さく、手元のPCで動かすことを前提にコー…</summary>
   </entry>
 </feed>
