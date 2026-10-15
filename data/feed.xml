@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T08:00:13.237317+09:00</updated>
+  <updated>2026-10-16T08:30:14.760821+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>リーナス・トーバルズがClaude CodeなどのAIをバリバリ活用してLinuxカーネルの改善に取り組み中</title>
+    <id>https://gigazine.net/news/20261016-linus-torvalds-claude-code/</id>
+    <link href="https://gigazine.net/news/20261016-linus-torvalds-claude-code/" />
+    <updated>2026-10-16T06:32:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Linuxカーネルの生みの親であるリーナス・トーバルズ氏がAIコーディングアシスタントのClaude Codeを活用し、Linuxカーネルの大幅な改善に取り組んでいることが明らかになりました。 Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code - Phoronix https://www.phor…</summary>
+  </entry>
   <entry>
     <title>Claude Code 入門</title>
     <id>https://speakerdeck.com/nogu66/claude-code-nyuumon</id>
@@ -319,6 +327,14 @@
     <summary>産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏…</summary>
   </entry>
   <entry>
+    <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
+    <id>https://zenn.dev/solvio/articles/6d374a9224327a</id>
+    <link href="https://zenn.dev/solvio/articles/6d374a9224327a" />
+    <updated>2026-10-15T21:35:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援...</summary>
+  </entry>
+  <entry>
     <title>【Salesforce】Agent Script入門｜Agentforceの従業員エージェントを作ってみた</title>
     <id>https://zenn.dev/actbe_tech/articles/57561ffebaf9ed</id>
     <link href="https://zenn.dev/actbe_tech/articles/57561ffebaf9ed" />
@@ -373,14 +389,6 @@
     <updated>2026-10-15T12:00:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>第1回で使った米生産費統計は、昭和26年産から令和5年産までの73年産を収めている。ところが、e-StatのAPIでこの表を取り出すと、年産を並べた分類には78の項目があり、年産の数より5つ多くなっている。 今回は、連載「日本の農業を公的統計から読む」の第2回である。最初に断っておくと、今回はAPIからメターデータの扱いを盛り込んでおり、詳細な内容が多く、込み入っていると感じられるかもしれない。と…</summary>
-  </entry>
-  <entry>
-    <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
-    <id>https://zenn.dev/solvio/articles/6d374a9224327a</id>
-    <link href="https://zenn.dev/solvio/articles/6d374a9224327a" />
-    <updated>2026-10-15T11:56:38+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 今や、Claude Codeは開発の現場に欠かせないツールになりつつあります。 一方で、「社内のコードや資料を社外のサービスに送れない」「利用者が増えたときの費用が読めない」という理由で踏み切れずにいる方も多いと感じています。 そうした組織でよく挙がるのが、公開されているAIモデルを社内のGPUサーバーで動かすLocalLLMという案ではないでしょうか。 そこで今回はデータセンター向けの…</summary>
   </entry>
   <entry>
     <title>ソースネクスト情報流出か 最大2251万件（共同通信） - Yahoo!ニュース</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-14T13:40:58+09:00</updated>
     <category term="はてブ IT" />
     <summary>真似るのは、土地の生態系まるごとimage: Microsoft Sourceバイオミミクリーは「生物模倣」のこと。Microsoftのデータセンターの場合は、その土地の生態系を丸ごと参照します。 水がどう流れ、どんな草木や虫が暮らしているかを先に調べる。それを敷地の土、水、緑の計画に写していくのだとか。 オランダのミッデンメー...</summary>
-  </entry>
-  <entry>
-    <title>研究者グループ、中国Tencentのクラウド上の“逸脱”AIエージェント群と交信 報告書の隠しテキストで呼び込む</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/15/2000002283/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/15/2000002283/" />
-    <updated>2026-10-15T09:14:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI研究者らのグループ「Swarmchasers」は10月14日（現地時間）、中国Tencentのクラウド上で稼働していたAIエージェント群に関する調査報告書「We found a Chinese fleet」を公開した。同グループは、タスクの範囲を逸脱して動くこのエージェント群に、自分たちの報告書に仕込んだ隠しテキストを通じて接触し、稼働中のエ...</summary>
   </entry>
 </feed>
