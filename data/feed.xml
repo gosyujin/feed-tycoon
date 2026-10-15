@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-15T19:30:10.796617+09:00</updated>
+  <updated>2026-10-15T20:00:13.284171+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes</title>
+    <id>https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</id>
+    <link href="https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html" />
+    <updated>2026-10-15T17:02:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知の脆弱性のスキャンやAPI経...</summary>
+  </entry>
+  <entry>
+    <title>「自分のためのアプリ」をAIで作成、Google Play経由で実行可能に</title>
+    <id>https://www.watch.impress.co.jp/docs/news/2148391.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2148391.html" />
+    <updated>2026-10-15T15:37:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「自分のためのアプリ」をAIで作成、Google Play経由で実行可能に</summary>
+  </entry>
+  <entry>
+    <title>Multiple NGINX Flaws Let Remote Attackers Crash Servers and Execute Malicious Code</title>
+    <id>https://cybersecuritynews.com/multiple-nginx-vulnerabilities/</id>
+    <link href="https://cybersecuritynews.com/multiple-nginx-vulnerabilities/" />
+    <updated>2026-10-15T09:33:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Multiple NGINX Flaws Let Remote Attackers Crash Servers and Execute Malicious Code F5 has disclosed three serious security flaws in NGINX Plus and NGINX Open Source that can let remote, unauthenticate…</summary>
+  </entry>
   <entry>
     <title>JPEGのExifサムネイルの中にサムネイルのサムネイルを置きたい - hitode909の日記</title>
     <id>https://blog.sushi.money/entry/2026/10/15/175941</id>
@@ -380,7 +404,7 @@
     <link href="https://future-architect.github.io/articles/20261015a/" />
     <updated>2026-10-15T12:03:29+09:00</updated>
     <category term="はてブ IT" />
-    <summary>古来よりDBにモックを使うとか使わないとか話題になるのは、DBというものをプログラムからコントロールするのに制約が多かったからではないかと思います。で、オンメモリのDBのH2を使うなり、SQLiteを使うなどしようとしても、今度は使うDBMSとの差が出てしまってテストとしての品質が上がらないと。 トランザクションを...</summary>
+    <summary>はじめに古来よりDBにモックを使うとか使わないとか話題になるのは、DBというものをプログラムからコントロールするのに制約が多かったからではないかと思います。で、オンメモリのDBのH2を使うなり、SQLiteを使うなどしようとしても、今度は使うDBMSとの差が出てしまってテストとしての品質が上がらないと。 トランザク...</summary>
   </entry>
   <entry>
     <title>『RPGツクール』『ウディタ』『Bakin』『SRPG Studio』開発者が集結した濃厚対談。「ゲームを作るのは難しい」、その思い込みを壊したい - AUTOMATON</title>
@@ -780,29 +804,5 @@
     <updated>2026-10-14T21:49:29+09:00</updated>
     <category term="はてブ IT" />
     <summary>『Slay the Spire』最高難易度を最新AIモデルにプレイさせると“後半でやたら苦戦する”との研究。安全第一すぎて死ぬ 『Slay the Spire』の最高難易度を、GPT-6やCalude Fable 5.1といった最新モデルを含むさまざまなAIモデルにプレイさせる研究論文が公開された。 『Slay the Spire』の最高難易度を、最新モデルを含むさ...</summary>
-  </entry>
-  <entry>
-    <title>小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】</title>
-    <id>https://internet.watch.impress.co.jp/docs/event/2148145.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/event/2148145.html" />
-    <updated>2026-10-15T07:00:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>小型・電動の「除雪ドローン」が雪国の課題に対応。実機をエバーブルーテクノロジーズが展示【CEATEC 2026】</summary>
-  </entry>
-  <entry>
-    <title>実はCodex CLIはデフォルトで永続的かつ自己更新型のバックグラウンドデーモンをインストールしていることが判明、無効にする公式の方法は無し</title>
-    <id>https://gigazine.net/news/20261015-codex-cli-background-daemon/</id>
-    <link href="https://gigazine.net/news/20261015-codex-cli-background-daemon/" />
-    <updated>2026-10-15T06:06:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Codex CLIのバージョン0.157.0からdaemon_auto_start機能がデフォルトで有効化されましたが、daemon_auto_start機能に関連してユーザーから予期せぬバックグラウンドプロセスの起動・リソース消費・セッションへの影響・環境の不整合といった問題が報告される事態となっています。 CLI: make `daemon_auto_start` opt-in...</summary>
-  </entry>
-  <entry>
-    <title>Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2148191.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2148191.html" />
-    <updated>2026-10-14T23:26:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Microsoft、警察庁などと協力し中国語利用の国際的サイバー犯罪市場の解体に着手</summary>
   </entry>
 </feed>
