@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-15T14:30:12.805220+09:00</updated>
+  <updated>2026-10-15T14:56:11.812053+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Furifont: furigana built into the font</title>
+    <id>https://furifont.antfu.me/</id>
+    <link href="https://furifont.antfu.me/" />
+    <updated>2026-10-15T13:23:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>A Japanese font that shows furigana by itself.</summary>
+  </entry>
+  <entry>
+    <title>PlayStation 5で27Bの生成AIが動作。脱獄の進展次第ではPS5もAI需要の餌食になる可能性</title>
+    <id>https://gazlog.jp/entry/ps5-can-run-27b-llm/</id>
+    <link href="https://gazlog.jp/entry/ps5-can-run-27b-llm/" />
+    <updated>2026-10-15T12:54:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>脱獄したPS5で大規模言語モデル（LLM）を動かす「PS5LM」の派生版として、PS5のGPUを使う「PS5LM Plus」が登場し、27BのLLMが1秒あたり約20トークンで動かしたと報告されています。 PS5LMは脱獄したPS5のCPUでLLMを動作。現状の対応モデルは1.6GBまで PS5LMは、PCで広く使われるLLM実行ソフトllama.cppを脱獄したPS5へ移...</summary>
+  </entry>
+  <entry>
+    <title>Akinatorで始めるAgentic RL ー タスク設計と初期検証 ー</title>
+    <id>https://zenn.dev/mkj/articles/8e1da67da67f98</id>
+    <link href="https://zenn.dev/mkj/articles/8e1da67da67f98" />
+    <updated>2026-10-15T11:50:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. はじめに 松尾研究所の具です。昨今、LLMが外部環境に作用し自律的にタスクをこなすAIエージェントに関する研究が注目されています。中でも、多様なツールを用いてAgentに適切な行動を取らせるために、ツールの利用方法を推論時のコンテキストとして渡すのではなく、事後学習によって獲得させる枠組みであるAgentic RLが注目されています。Agentic RLとは、「LLMを学習可能な方策として扱…</summary>
+  </entry>
+  <entry>
+    <title>レポ：mixi2のインターンに参加しました！</title>
+    <id>https://zenn.dev/riochin/articles/mixi2-intern-2026</id>
+    <link href="https://zenn.dev/riochin/articles/mixi2-intern-2026" />
+    <updated>2026-10-15T11:09:26+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>修了証をもらって📸 ! この記事の対象読者 就業型インターンに行ってみたい！と思っているエンジニア志望学生の方 エンジニアインターンの具体的な業務内容や、1日の流れを知りたい方 MIXIの働き方や、社内の雰囲気が気になっている方 mixi2が好きな方 はじめに こんにちは❗️Riochinと申します。埼玉在住。普段は、津田塾大学の情報科学科でプログラミングを勉強しています。 2026年7月1日から…</summary>
+  </entry>
+  <entry>
+    <title>改めて考える、AIエンジニアリングの今</title>
+    <id>https://zenn.dev/r_kaga/articles/2fd185c50cea7c</id>
+    <link href="https://zenn.dev/r_kaga/articles/2fd185c50cea7c" />
+    <updated>2026-10-15T08:08:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>昨年11月、翻訳を担当したオライリーの『AIエンジニアリング』の発売に合わせて、Zennで「AIエンジニアリング、始めませんか？」という記事を書きました。 それから1年近くが経ち、AIエンジニアリングを取り巻く環境も変わったので、改めて書き直してみます。 ! AIエンジニアリングのロードマップはいくつもあるが、主に共通するのは評価 AIエンジニアリングはAIプロダクトの外、AIを使ってソフトウェア…</summary>
+  </entry>
+  <entry>
+    <title>Neo4jでLLMベースのナレッジグラフ構築を試してみた</title>
+    <id>https://zenn.dev/nttdata_tech/articles/266a6692f85fee</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/266a6692f85fee" />
+    <updated>2026-10-14T17:24:53+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、データエンジニアをしているMaruです。 最近、LLMを用いた検索システムだけでなく、「情報同士がどのような関係にあるのか」を踏まえた検索への活用も注目されています。その手段の一つがナレッジグラフです。 一方で、ナレッジグラフを一から人手で構築するには大きなコストがかかります。そこで、LLMを利用して文章からエンティティやリレーションを抽出し、ナレッジグラフを自動構築するアプ…</summary>
+  </entry>
   <entry>
     <title>Appleが使われていないMacを集めて仮想GPUクラウドを構築する「Minions」を開発、AI処理の待ち時間を10時間以上から数分に短縮</title>
     <id>https://gigazine.net/news/20261015-apple-minions/</id>
@@ -756,53 +804,5 @@
     <updated>2026-10-14T20:08:25+09:00</updated>
     <category term="はてブ IT" />
     <summary>楽天モバイル「Rakuten Mini」「Rakuten Hand」などに脆弱性、AVB機能にテスト鍵が残存 利用停止と乗り換えを案内</summary>
-  </entry>
-  <entry>
-    <title>「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符"」</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/" />
-    <updated>2026-10-14T17:06:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自らの後継システムを訓練できるほど強力なAIが2027年に登場する確率は50％以上――米Anthropicの共同創業者で公共利益部門責任者のジャック・クラーク氏は10月13日、東京大学大学院の松尾・岩澤研究室が主催した講演でこう述べた。年初に公表した「2027年に30％、2028年末までに60％」という予想から前倒ししたという。 ...</summary>
-  </entry>
-  <entry>
-    <title>いま、AIでWebサイトを実装するということ。マネックス証券イントロサイトにおけるアニメーション実装の裏側</title>
-    <id>https://mount.jp/magazine/monex-dev-with-ai/</id>
-    <link href="https://mount.jp/magazine/monex-dev-with-ai/" />
-    <updated>2026-10-14T15:00:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026.10.14 いま、AIでWebサイトを実装するということ。 マネックス証券イントロサイトにおけるアニメーション実装の裏側 メンバー AIをつかってWebサイトを実装することについて、自分なりに言葉にしてみたい。 AIによる気分の浮き沈みというのは、きっと多くの制作者が日々感じているはず。 自分も例に漏れず、悶々と...</summary>
-  </entry>
-  <entry>
-    <title>AIにコードを書かせた先で、ボトルネックはどこに移ったか —4つの詰まりどころを追いかけて - Findy Media</title>
-    <id>https://findy-code.io/media/articles/aisaji-gota_bara</id>
-    <link href="https://findy-code.io/media/articles/aisaji-gota_bara" />
-    <updated>2026-10-14T08:31:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Gotaです。普段はAIエージェント関連の新規プロダクト開発全般に携わっています。個人では仕様駆動開発ツールのcc-sddをつくったり、エージェントハーネス周りのエコシステムで個人開発しています。 普段はCodex、Claude Code、Cursorなど幅広く触っていますが、最近はツールの使い分けを意識することが減りました。どの...</summary>
-  </entry>
-  <entry>
-    <title>ヤマハ、小型筐体に本格オーディオ技術凝縮、ストリーミングアンプ「WXA-70A」。ストリーマーも</title>
-    <id>https://av.watch.impress.co.jp/docs/news/2145433.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2145433.html" />
-    <updated>2026-10-14T15:52:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ヤマハ、小型筐体に本格オーディオ技術凝縮、ストリーミングアンプ「WXA-70A」。ストリーマーも</summary>
-  </entry>
-  <entry>
-    <title>世界最長の海底沈埋トンネル建設がサイバー攻撃で停止</title>
-    <id>https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/</id>
-    <link href="https://gigazine.net/news/20261014-fehmarnbelt-querung-cyber-attacked/" />
-    <updated>2026-10-14T12:42:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デンマークとドイツを結ぶ世界最長の海底沈埋トンネル「フェーマルン・ベルトトンネル」の建設事業者がサイバー攻撃を受け、工事に大きな支障が生じていることが明らかになりました。現地メディアによると、作業員の入場カードや建設用の船舶、クレーンなどが使用できなくなり、建設作業が停止する事態に陥っています。 ...</summary>
-  </entry>
-  <entry>
-    <title>AI丸出しなんだけど好きなデザイン・広告 - デザイン - はてなパークス</title>
-    <id>https://p.hatena.ne.jp/p/1552113682622713856/t/1559737894296358912</id>
-    <link href="https://p.hatena.ne.jp/p/1552113682622713856/t/1559737894296358912" />
-    <updated>2026-10-14T18:02:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI丸出しだと嫌われる、と言うのはよくありますが、明らかにAIを使っていてもいいかんじに受け入れられていたり、いいなと言えるデザインはありますか？</summary>
   </entry>
 </feed>
