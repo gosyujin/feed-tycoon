@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-15T16:00:15.215228+09:00",
-  "nextEstimate": "16:30",
+  "updatedAt": "2026-10-15T16:30:13.721323+09:00",
+  "nextEstimate": "17:00",
   "sources": {
     "publickey": {
       "name": "Publickey",
       "url": "https://www.publickey1.jp/atom.xml",
-      "fetchedAt": "2026-10-15T16:00:15.215228+09:00",
+      "fetchedAt": "2026-10-15T16:30:13.721323+09:00",
       "etag": "\"6d71-65dcd5d17e1e3\"",
       "lastModified": "Wed, 14 Oct 2026 14:01:11 GMT",
       "ok": true,
@@ -15,7 +15,7 @@
     "hateb-it": {
       "name": "はてブ IT",
       "url": "https://b.hatena.ne.jp/hotentry/it.rss",
-      "fetchedAt": "2026-10-15T16:00:15.215228+09:00",
+      "fetchedAt": "2026-10-15T16:30:13.721323+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
@@ -24,16 +24,17 @@
     "zenn": {
       "name": "Zenn トレンド",
       "url": "https://zenn.dev/feed",
-      "fetchedAt": "2026-10-15T16:00:15.215228+09:00",
+      "fetchedAt": "2026-10-15T16:30:13.721323+09:00",
       "etag": null,
       "lastModified": "Thu, 15 Oct 2026 05:37:20 GMT",
       "ok": true,
+      "notModified": true,
       "count": 20
     },
     "qiita": {
       "name": "Qiita トレンド",
       "url": "https://qiita.com/popular-items/feed",
-      "fetchedAt": "2026-10-15T16:00:15.215228+09:00",
+      "fetchedAt": "2026-10-15T16:30:13.721323+09:00",
       "etag": "W/\"d500a803eeabd8e66e4e147c9d551553\"",
       "lastModified": null,
       "ok": true,
@@ -43,11 +44,10 @@
     "www-jpcert-or-jp-rss": {
       "name": "JPCERT",
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
-      "fetchedAt": "2026-10-15T16:00:15.215228+09:00",
-      "etag": "\"3ea7-65dd926698580\"",
-      "lastModified": "Thu, 15 Oct 2026 04:04:54 GMT",
+      "fetchedAt": "2026-10-15T16:30:13.721323+09:00",
+      "etag": "\"3ea7-65ddbd8377cc0\"",
+      "lastModified": "Thu, 15 Oct 2026 07:17:47 GMT",
       "ok": true,
-      "notModified": true,
       "count": 24
     }
   }
