@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T18:00:14.670422+09:00</updated>
+  <updated>2026-10-16T18:30:13.323358+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>『コミックシーモア』会員情報の流出に関するお詫びとお願い｜ニュースリリース｜NTTソルマーレ株式会社</title>
+    <id>https://www.nttsolmare.com/press/2026/1016.html</id>
+    <link href="https://www.nttsolmare.com/press/2026/1016.html" />
+    <updated>2026-10-16T17:24:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月16日 NTTソルマーレ株式会社 この度、当社の電子書籍ストア『コミックシーモア』に対し、第三者による不正アクセスが行われ、『コミックシーモア』に会員登録いただいている一部のお客様の会員情報が流出したことが判明いたしました。 なお、クレジットカード情報や購入履歴の流出、MY本棚の流出・消失・欠損...</summary>
+  </entry>
+  <entry>
+    <title>GitHub Actions の依存関係を lockfile で固定する</title>
+    <id>https://azukiazusa.dev/blog/github-actions-workflow-lockfiles/</id>
+    <link href="https://azukiazusa.dev/blog/github-actions-workflow-lockfiles/" />
+    <updated>2026-10-16T10:46:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHub Actions でタグやブランチを参照すると、ワークフローを変更しなくても実行するコードが変わる可能性があります。Workflow dependency lockfiles を使うと、読みやすいタグ表記を残しながら依存先をコミット SHA に固定できます。この記事では GitHub Actions の依存関係を lockfile で固定する方法を紹介します...</summary>
+  </entry>
   <entry>
     <title>なぜ『作って理解するOS』は1072ページになったのか ――監修者・川合秀実氏が語る、32ビットOSと64ビットOSを「両方作る」意味 | gihyo.jp</title>
     <id>https://gihyo.jp/article/2026/10/make-x86-os-foreword</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-15T22:15:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>Amazonは価格設定に関するポリシーで「他のサイトより著しく高い価格でAmazonに出品する行為」などにペナルティを科しています。こうした慣行や手数料により、出品者はあらゆる場所で価格を引き上げざるを得ない状況に陥っているとして、ジャーナリストのアマンダ・シェンドルク氏が問題点を解説しています。 How Amazon...</summary>
-  </entry>
-  <entry>
-    <title>OpenAIやGoogleの画像生成AIは簡単に騙されてヌード画像を生成してしまうと研究者が指摘</title>
-    <id>https://gigazine.net/news/20261015-rise-ai-image-nude/</id>
-    <link href="https://gigazine.net/news/20261015-rise-ai-image-nude/" />
-    <updated>2026-10-15T15:43:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>セキュリティ研究企業のWhite Circleが、OpenAIやGoogleの画像生成AIの安全対策を回避し、性的な画像などを生成させる新たな攻撃手法「RISE」を発表しました。検証では、OpenAIのDALL·E 3やGoogleのNano Banana 2などで安全対策の回避に成功したほか、より新しいモデルでは攻撃成功率がさらに高くなることが確認されてい...</summary>
-  </entry>
-  <entry>
-    <title>Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ</title>
-    <id>https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html</id>
-    <link href="https://www.publickey1.jp/blog/26/windowsaimicrosoft_execution_containersmxc.html" />
-    <updated>2026-10-15T00:57:19+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトはWindows 11上でAIエージェントを安全に動かすための隔離環境「Microsoft Execution Containers」（以下、MXC）の正式リリースを発表しました。 MXC is now GA on Windo...</summary>
   </entry>
 </feed>
