@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T13:00:12.679936+09:00</updated>
+  <updated>2026-10-16T13:30:14.934066+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>A Real DuckDB Database in S3, With Nothing Else to Run</title>
+    <id>https://dentiny.github.io/posts/duckdb-on-object-storage/</id>
+    <link href="https://dentiny.github.io/posts/duckdb-on-object-storage/" />
+    <updated>2026-10-16T09:45:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>duckdb_object_storage stores native DuckDB databases (indexes, constraints, WAL and all) directly in object storage. There’s no table format, no catalog database and no fork of DuckDB. You just need D…</summary>
+  </entry>
   <entry>
     <title>【対策】“相次ぐ個人情報の流出” 私たちができることは | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261016de60212</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-15T12:54:48+09:00</updated>
     <category term="はてブ IT" />
     <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>llama.cppのWindowsアプリ登場、RTX Sparkに初日対応</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2148249.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2148249.html" />
-    <updated>2026-10-15T12:12:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>llama.cppのWindowsアプリ登場、RTX Sparkに初日対応</summary>
   </entry>
 </feed>
