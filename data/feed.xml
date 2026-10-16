@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T13:30:14.934066+09:00</updated>
+  <updated>2026-10-16T14:00:12.552631+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIを味方につける！開発チームから始める運用改善〜1人・少人数チームのMackerel活用術〜</title>
+    <id>https://ja.mackerel.io/info/event/mackerel-seminar20261027</id>
+    <link href="https://ja.mackerel.io/info/event/mackerel-seminar20261027" />
+    <updated>2026-10-16T11:00:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIでコードを書く時代、監視や障害対応にもAIを活用できていますか？ 本イベントでは、株式会社はてな SREの古川 雅大（masayoshi）がAgent Skillsを使ってAIのみで監視を構築するデモを、曽根壮大氏（Soudai）がAPM×ログを使ったAIトラブルシューティングの実践をお届けします。 1人・少人数チームでも、AI時代の運用を...</summary>
+  </entry>
+  <entry>
+    <title>わずか0.43GBでスマホ動作可能なAI「Ternary Bonsai 2」シリーズがオープンモデルとして登場、iPhone 18 Pro Maxで毎秒120トークンの高速処理が可能</title>
+    <id>https://gigazine.net/news/20261016-ternary-bonsai-2-2b-4b-9b/</id>
+    <link href="https://gigazine.net/news/20261016-ternary-bonsai-2-2b-4b-9b/" />
+    <updated>2026-10-16T10:40:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI開発企業のPrismMLがスマートフォンでローカル動作する小型AIモデル「Ternary Bonsai 2 2B」「Ternary Bonsai 2 4B」「Ternary Bonsai 2 9B」を現地時間の2026年10月15日に公開しました。すでにiPhoneで動作する環境が整備されています。 PrismML — Introducing Ternary Bonsai 2 2B, 4B,…</summary>
+  </entry>
+  <entry>
+    <title>【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
+    <id>https://zenn.dev/subara3/articles/b90ff538d87aa6</id>
+    <link href="https://zenn.dev/subara3/articles/b90ff538d87aa6" />
+    <updated>2026-10-16T02:02:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）...</summary>
+  </entry>
+  <entry>
+    <title>「日本のトイレがウェブから切り離されててよかった」サイバー攻撃が相次ぐことでネットワーク接続可能な家電への懸念が高まる「アプリ接続の機種あるぞ」</title>
+    <id>https://togetter.com/li/2758514</id>
+    <link href="https://togetter.com/li/2758514" />
+    <updated>2026-10-15T21:34:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り… 29 user...</summary>
+  </entry>
   <entry>
     <title>A Real DuckDB Database in S3, With Nothing Else to Run</title>
     <id>https://dentiny.github.io/posts/duckdb-on-object-storage/</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-15T17:37:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更</summary>
-  </entry>
-  <entry>
-    <title>バーガーキング、約1118万件漏えい 公式アプリ会員システムに不正アクセス</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/15/2000002306/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/15/2000002306/" />
-    <updated>2026-10-15T17:32:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>バーガーキングを運営するビーケー・ジャパンは10月15日、公式アプリの会員情報を管理するシステムが第三者の不正アクセスを受け、約1118万件の会員情報が漏えいしたと発表した。氏名やメールアドレス、電話番号などが含まれる。現時点で、不正利用などの二次被害は確認していないという。 漏えいした情報は、会員ID、メ...</summary>
-  </entry>
-  <entry>
-    <title>不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ</title>
-    <id>https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf</id>
-    <link href="https://www.burgerking.co.jp/images/notice/2026/10/15/d4d114ca-ebd7-4f3d-94ef-c4ea7a84a139.pdf" />
-    <updated>2026-10-15T16:55:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不正アクセスによる 公式アプリ会員情報漏えいに関するお詫びとお知らせ</summary>
-  </entry>
-  <entry>
-    <title>How to be more ambitious: A tutorial for humans with models</title>
-    <id>https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/</id>
-    <link href="https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/" />
-    <updated>2026-10-15T15:51:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>I work on Claude. It's an interesting experience: Every day I learn about yet another feat accomplished with or by Claude that I hadn't considered, didn't think possible, or simply lacked the curiosit…</summary>
-  </entry>
-  <entry>
-    <title>GitHub - MaryCache/imozuru: 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル</title>
-    <id>https://github.com/MaryCache/imozuru</id>
-    <link href="https://github.com/MaryCache/imozuru" />
-    <updated>2026-10-15T12:54:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
   </entry>
 </feed>
