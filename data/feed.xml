@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T15:30:14.347545+09:00</updated>
+  <updated>2026-10-16T16:00:14.807953+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減</title>
+    <id>https://www.watch.impress.co.jp/docs/news/2148683.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2148683.html" />
+    <updated>2026-10-16T13:58:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Windows 11、8GBメモリのPCも軽快に 基本メモリ使用量を削減</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の平文 API キーを 1Password CLI で安全に運用する</title>
+    <id>https://zenn.dev/notahotel/articles/e85b2cdf9a5833</id>
+    <link href="https://zenn.dev/notahotel/articles/e85b2cdf9a5833" />
+    <updated>2026-10-16T13:20:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>初めに 1Password CLI（op コマンド）を使って、設定ファイルやシェルに書かれていた平文の API キーをすべて op:// 参照に置き換えます。 参考: 1Password Blog — AI Agent Identity and Accountability なぜ op:// 参照にするのか .mcp.json や ~/.zshrc に直接書いたキーは平文のままディスクに残り、バッ…</summary>
+  </entry>
+  <entry>
+    <title>MS2109でHDMIキャプチャボードを自作した記録 | ikko LABS</title>
+    <id>https://ikko-labs.com/blog/ms2109%E3%81%A7hdmi%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%9F%E8%A8%98%E9%8C%B2</id>
+    <link href="https://ikko-labs.com/blog/ms2109%E3%81%A7hdmi%E3%82%AD%E3%83%A3%E3%83%97%E3%83%81%E3%83%A3%E3%83%9C%E3%83%BC%E3%83%89%E3%82%92%E8%87%AA%E4%BD%9C%E3%81%97%E3%81%9F%E8%A8%98%E9%8C%B2" />
+    <updated>2026-10-15T19:10:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この記事の要点 JLCPCBに在庫のあるICだけでHDMIキャプチャボードを設計しました 使ったのはMacroSilicon MS2109（HDMI入力 → USB2.0 UVC出力） 以前作った基板のBOMと突き合わせて、20種のうち13種を同じ部品番号で流用しました 届いた基板は一発でHigh-Speed認識し、1080p30の映像が出ました 映像に乗っていたノイズは...</summary>
+  </entry>
   <entry>
     <title>AIで引ければいい、から始めた運用ナレッジ - RAKUS Developers Blog | ラクス エンジニアブログ</title>
     <id>https://tech-blog.rakus.co.jp/entry/20261016/claude-code</id>
@@ -119,20 +143,20 @@
     <summary>AI開発企業のPrismMLがスマートフォンでローカル動作する小型AIモデル「Ternary Bonsai 2 2B」「Ternary Bonsai 2 4B」「Ternary Bonsai 2 9B」を現地時間の2026年10月15日に公開しました。すでにiPhoneで動作する環境が整備されています。 PrismML — Introducing Ternary Bonsai 2 2B, 4B,…</summary>
   </entry>
   <entry>
-    <title>【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
-    <id>https://zenn.dev/subara3/articles/b90ff538d87aa6</id>
-    <link href="https://zenn.dev/subara3/articles/b90ff538d87aa6" />
-    <updated>2026-10-16T02:02:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）...</summary>
-  </entry>
-  <entry>
     <title>「日本のトイレがウェブから切り離されててよかった」サイバー攻撃が相次ぐことでネットワーク接続可能な家電への懸念が高まる「アプリ接続の機種あるぞ」</title>
     <id>https://togetter.com/li/2758514</id>
     <link href="https://togetter.com/li/2758514" />
     <updated>2026-10-15T21:34:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り… 29 user...</summary>
+  </entry>
+  <entry>
+    <title>【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
+    <id>https://zenn.dev/subara3/articles/b90ff538d87aa6</id>
+    <link href="https://zenn.dev/subara3/articles/b90ff538d87aa6" />
+    <updated>2026-10-14T21:21:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）が「不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について」を発表しました…</summary>
   </entry>
   <entry>
     <title>A Real DuckDB Database in S3, With Nothing Else to Run</title>
@@ -191,20 +215,20 @@
     <summary>米Anthropicは10月15日（現地時間）、AIモデルを評価する米非営利団体METRのチームに、従業員並みのアクセス権限を与え始めたと発表した。ダリオ・アモデイCEOが9月のエッセイ「We Must Pace the Frontier」で打ち出した「常駐評価者」構想を具体化した。 METRのスタッフ6人に、同社の端末とオフィススペースを提供し、...</summary>
   </entry>
   <entry>
-    <title>有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
-    <id>https://zenn.dev/hand_dot/articles/ecb391d4322330</id>
-    <link href="https://zenn.dev/hand_dot/articles/ecb391d4322330" />
-    <updated>2026-10-16T09:06:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 But PRs don't work in this era. Contri...</summary>
-  </entry>
-  <entry>
     <title>「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html</id>
     <link href="https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html" />
     <updated>2026-10-16T08:21:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い（1/3 ページ） 千葉県松戸市の千葉西総合病院で、女性看護師らが夜勤中に入院患者を無断で撮影し、その動画を共有していたことが明らかになりました。動画にはベッドに横たわる患者や院内の様子が映っており...</summary>
+  </entry>
+  <entry>
+    <title>有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
+    <id>https://zenn.dev/hand_dot/articles/ecb391d4322330</id>
+    <link href="https://zenn.dev/hand_dot/articles/ecb391d4322330" />
+    <updated>2026-10-16T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/21070278700194450…</summary>
   </entry>
   <entry>
     <title>Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮</title>
@@ -223,7 +247,7 @@
     <summary>はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビ...</summary>
   </entry>
   <entry>
-    <title>「スパムのメールヘッダ偽装にニュータイプ出てきた」楽天カードを持っていないのに公式アドレスからの送信だと誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」</title>
+    <title>「スパムのメールヘッダ偽装にニュータイプ出てきた」公式アドレスからの送信だとドコモの送信ドメイン認証が誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」</title>
     <id>https://togetter.com/li/2758764</id>
     <link href="https://togetter.com/li/2758764" />
     <updated>2026-10-16T11:02:15+09:00</updated>
@@ -671,14 +695,6 @@
     <summary>産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏…</summary>
   </entry>
   <entry>
-    <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
-    <id>https://zenn.dev/solvio/articles/6d374a9224327a</id>
-    <link href="https://zenn.dev/solvio/articles/6d374a9224327a" />
-    <updated>2026-10-15T21:35:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援...</summary>
-  </entry>
-  <entry>
     <title>【Salesforce】Agent Script入門｜Agentforceの従業員エージェントを作ってみた</title>
     <id>https://zenn.dev/actbe_tech/articles/57561ffebaf9ed</id>
     <link href="https://zenn.dev/actbe_tech/articles/57561ffebaf9ed" />
@@ -735,6 +751,14 @@
     <summary>第1回で使った米生産費統計は、昭和26年産から令和5年産までの73年産を収めている。ところが、e-StatのAPIでこの表を取り出すと、年産を並べた分類には78の項目があり、年産の数より5つ多くなっている。 今回は、連載「日本の農業を公的統計から読む」の第2回である。最初に断っておくと、今回はAPIからメターデータの扱いを盛り込んでおり、詳細な内容が多く、込み入っていると感じられるかもしれない。と…</summary>
   </entry>
   <entry>
+    <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
+    <id>https://zenn.dev/solvio/articles/6d374a9224327a</id>
+    <link href="https://zenn.dev/solvio/articles/6d374a9224327a" />
+    <updated>2026-10-15T11:56:38+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今や、Claude Codeは開発の現場に欠かせないツールになりつつあります。 一方で、「社内のコードや資料を社外のサービスに送れない」「利用者が増えたときの費用が読めない」という理由で踏み切れずにいる方も多いと感じています。 そうした組織でよく挙がるのが、公開されているAIモデルを社内のGPUサーバーで動かすLocalLLMという案ではないでしょうか。 そこで今回はデータセンター向けの…</summary>
+  </entry>
+  <entry>
     <title>ソースネクスト情報流出か 最大2251万件（共同通信） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/5b83853f3e388b3fe3f2527044ec07837450308d</id>
     <link href="https://news.yahoo.co.jp/articles/5b83853f3e388b3fe3f2527044ec07837450308d" />
@@ -781,29 +805,5 @@
     <updated>2026-10-15T19:52:15+09:00</updated>
     <category term="はてブ IT" />
     <summary>ソースネクスト、最大2251万件の情報流出 パスワード再設定を</summary>
-  </entry>
-  <entry>
-    <title>ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261015de60043</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261015de60043" />
-    <updated>2026-10-15T19:26:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>年賀状ソフトなどを手がけるソースネクストは、会員情報を管理するシステムが不正アクセスを受け、2251万件余りの顧客の個人情報が流出した可能性があると発表しました。 流出した可能性があるのは顧客の氏名や…</summary>
-  </entry>
-  <entry>
-    <title>声優の野沢雅子さん “声の生成AI利用”について語る | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261015de59778</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261015de59778" />
-    <updated>2026-10-15T19:14:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>生成AIによって声が無断で利用されるケースが相次ぐ中、声優などが加入する団体が15日、記者会見を開いて、声のAI利用に関する初めてのガイドラインを作成したことを発表しました。 こうした“声”を守る動…</summary>
-  </entry>
-  <entry>
-    <title>相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261015de59790</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261015de59790" />
-    <updated>2026-10-15T18:55:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>企業への不正アクセスによる被害が止まりません。15日も、産婦人科などの医療機関で導入されている予約・受付システムが不正アクセスを受け患者の個人情報が漏えいしたおそれがあると発表されたほか、ハンバーガー…</summary>
   </entry>
 </feed>
