@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T14:00:12.552631+09:00</updated>
+  <updated>2026-10-16T14:30:13.657872+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Horizon Contextによるメタデータ管理：App Runtimeをデータリネージュに加える</title>
+    <id>https://zenn.dev/takikomi/articles/horizoncontext</id>
+    <link href="https://zenn.dev/takikomi/articles/horizoncontext" />
+    <updated>2026-10-15T17:44:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Horizon Context ! 記事執筆日は2026/10/15です。 プレビュー中の機能を扱いますので、正しい情報は公式ドキュメントをご参照ください。 先日SnowflakeのHorizon Catalogが拡張されたHorizon Contextがプレビューになりました。 Snowflake周辺のデータ製品やBIツールを巻き込んだコンテキスト管理ができる機能として注目を浴びています。 Ho…</summary>
+  </entry>
+  <entry>
+    <title>Bedrock AentCore gateway のWeb Search を Claude Desktopで利用する</title>
+    <id>https://zenn.dev/aws_japan/articles/agentcore-gateway-websearch-cognito</id>
+    <link href="https://zenn.dev/aws_japan/articles/agentcore-gateway-websearch-cognito" />
+    <updated>2026-10-15T13:05:25+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Amazon Bedrock AgentCore Gateway の Web Search ツールは、Amazon が運営する Web インデックスを MCP のツールとして呼び出せるマネージドな検索機能です[1]。AgentCore Gateway は、Lambda 関数や REST API などを MCP 互換のエンドポイントとして公開するサービスで、Web Search はそこに追…</summary>
+  </entry>
+  <entry>
+    <title>claude-plugins-official/plugins/claude-security at main · anthropics/claude-plugins-official</title>
+    <id>https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security</id>
+    <link href="https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-security" />
+    <updated>2026-10-08T10:45:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Put a team of agents to work as security researchers on your codebase: map the architecture, build a threat model, hunt across every component, and independently verify every finding before it reaches…</summary>
+  </entry>
   <entry>
     <title>AIを味方につける！開発チームから始める運用改善〜1人・少人数チームのMackerel活用術〜</title>
     <id>https://ja.mackerel.io/info/event/mackerel-seminar20261027</id>
@@ -23,20 +47,20 @@
     <summary>AI開発企業のPrismMLがスマートフォンでローカル動作する小型AIモデル「Ternary Bonsai 2 2B」「Ternary Bonsai 2 4B」「Ternary Bonsai 2 9B」を現地時間の2026年10月15日に公開しました。すでにiPhoneで動作する環境が整備されています。 PrismML — Introducing Ternary Bonsai 2 2B, 4B,…</summary>
   </entry>
   <entry>
-    <title>【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
-    <id>https://zenn.dev/subara3/articles/b90ff538d87aa6</id>
-    <link href="https://zenn.dev/subara3/articles/b90ff538d87aa6" />
-    <updated>2026-10-16T02:02:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）...</summary>
-  </entry>
-  <entry>
     <title>「日本のトイレがウェブから切り離されててよかった」サイバー攻撃が相次ぐことでネットワーク接続可能な家電への懸念が高まる「アプリ接続の機種あるぞ」</title>
     <id>https://togetter.com/li/2758514</id>
     <link href="https://togetter.com/li/2758514" />
     <updated>2026-10-15T21:34:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り… 29 user...</summary>
+  </entry>
+  <entry>
+    <title>【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
+    <id>https://zenn.dev/subara3/articles/b90ff538d87aa6</id>
+    <link href="https://zenn.dev/subara3/articles/b90ff538d87aa6" />
+    <updated>2026-10-14T21:21:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）が「不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について」を発表しました…</summary>
   </entry>
   <entry>
     <title>A Real DuckDB Database in S3, With Nothing Else to Run</title>
@@ -95,20 +119,20 @@
     <summary>米Anthropicは10月15日（現地時間）、AIモデルを評価する米非営利団体METRのチームに、従業員並みのアクセス権限を与え始めたと発表した。ダリオ・アモデイCEOが9月のエッセイ「We Must Pace the Frontier」で打ち出した「常駐評価者」構想を具体化した。 METRのスタッフ6人に、同社の端末とオフィススペースを提供し、...</summary>
   </entry>
   <entry>
-    <title>有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
-    <id>https://zenn.dev/hand_dot/articles/ecb391d4322330</id>
-    <link href="https://zenn.dev/hand_dot/articles/ecb391d4322330" />
-    <updated>2026-10-16T09:06:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 But PRs don't work in this era. Contri...</summary>
-  </entry>
-  <entry>
     <title>「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html</id>
     <link href="https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html" />
     <updated>2026-10-16T08:21:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い（1/3 ページ） 千葉県松戸市の千葉西総合病院で、女性看護師らが夜勤中に入院患者を無断で撮影し、その動画を共有していたことが明らかになりました。動画にはベッドに横たわる患者や院内の様子が映っており...</summary>
+  </entry>
+  <entry>
+    <title>有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
+    <id>https://zenn.dev/hand_dot/articles/ecb391d4322330</id>
+    <link href="https://zenn.dev/hand_dot/articles/ecb391d4322330" />
+    <updated>2026-10-16T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/21070278700194450…</summary>
   </entry>
   <entry>
     <title>Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮</title>
@@ -575,14 +599,6 @@
     <summary>産婦人科などの医療機関で導入されている予約・受付システムが、外部から不正アクセスを受けたとサービスを提供している会社が発表しました。会社によりますと、最大787の医療機関に登録された患者の個人情報が漏…</summary>
   </entry>
   <entry>
-    <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
-    <id>https://zenn.dev/solvio/articles/6d374a9224327a</id>
-    <link href="https://zenn.dev/solvio/articles/6d374a9224327a" />
-    <updated>2026-10-15T21:35:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Claude CodeはAmazon BedrockやGoogle Cloudなどを通して、自社で契約したクラウドから使うこともできます。この場合、モデルとの通信先はAnthropicではなく、契約したクラウド事業者（AWSやGoogle Cloudなど）になります。この記事では、Anthropicのクラウドを直接使う場合で比較しています。 AIによるコーディング支援...</summary>
-  </entry>
-  <entry>
     <title>【Salesforce】Agent Script入門｜Agentforceの従業員エージェントを作ってみた</title>
     <id>https://zenn.dev/actbe_tech/articles/57561ffebaf9ed</id>
     <link href="https://zenn.dev/actbe_tech/articles/57561ffebaf9ed" />
@@ -637,6 +653,14 @@
     <updated>2026-10-15T12:00:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>第1回で使った米生産費統計は、昭和26年産から令和5年産までの73年産を収めている。ところが、e-StatのAPIでこの表を取り出すと、年産を並べた分類には78の項目があり、年産の数より5つ多くなっている。 今回は、連載「日本の農業を公的統計から読む」の第2回である。最初に断っておくと、今回はAPIからメターデータの扱いを盛り込んでおり、詳細な内容が多く、込み入っていると感じられるかもしれない。と…</summary>
+  </entry>
+  <entry>
+    <title>【LocalLLM】Claude Codeの代わりになる？精度・同時人数・費用を検証</title>
+    <id>https://zenn.dev/solvio/articles/6d374a9224327a</id>
+    <link href="https://zenn.dev/solvio/articles/6d374a9224327a" />
+    <updated>2026-10-15T11:56:38+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今や、Claude Codeは開発の現場に欠かせないツールになりつつあります。 一方で、「社内のコードや資料を社外のサービスに送れない」「利用者が増えたときの費用が読めない」という理由で踏み切れずにいる方も多いと感じています。 そうした組織でよく挙がるのが、公開されているAIモデルを社内のGPUサーバーで動かすLocalLLMという案ではないでしょうか。 そこで今回はデータセンター向けの…</summary>
   </entry>
   <entry>
     <title>ソースネクスト情報流出か 最大2251万件（共同通信） - Yahoo!ニュース</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-15T17:49:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>このたび、当社が管理する会員情報に対し、第三者による不正アクセスが行われ、当社に会員登録いただいているお客様の個人情報が外部に流出したことが判明いたしました。 お客様ならびに関係者の皆様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。 現在、外部の専門機関と連携し、原因...</summary>
-  </entry>
-  <entry>
-    <title>AIのスピードに負けないための開発フロー</title>
-    <id>https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo</id>
-    <link href="https://speakerdeck.com/kyuridenamida/ai-no-supido-ni-makenai-tame-no-kaihatsu-furo" />
-    <updated>2026-10-15T16:19:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>https://sotas.connpass.com/event/398322/ Sotas×カミナシ×estie｜AIのスピードに開発組織はどう追いつくのか？ (2026/10/15) 登壇資料</summary>
-  </entry>
-  <entry>
-    <title>日本語 Decision モデル "saihai" (采配) と、日本語 Decision モデルベンチマークの公開 - A Day in the Life</title>
-    <id>https://secon.dev/entry/2026/10/15/100000-saihai-japanese-decision-benchmark/</id>
-    <link href="https://secon.dev/entry/2026/10/15/100000-saihai-japanese-decision-benchmark/" />
-    <updated>2026-10-15T11:42:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>注意点として、saihai は日本語タスクを解きやすくするため、いくつかのベンチマークタスクの元データセットの train set を学習しているので、ベンチマークの点数は上がりやすくなっています (test set と重複するデータは、できる限り除いています)。その影響を調べた対照実験の結果は後半に載せています。 表の見方は...</summary>
-  </entry>
-  <entry>
-    <title>「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2147368.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2147368.html" />
-    <updated>2026-10-15T17:37:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「C# Dev Kit」が大刷新、読み込みは最大180倍に、サーバーのメモリ消費は最大約85％減／11月の正式提供が予定されている「.NET 11」にあわせたアーキテクチャー変更</summary>
   </entry>
 </feed>
