@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-16T10:30:13.975645+09:00</updated>
+  <updated>2026-10-16T11:00:14.389403+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>MySQL の Functional Index で状態に応じた一意制約をかける - inSmartBank</title>
+    <id>https://blog.smartbank.co.jp/entry/mysql-functional-index</id>
+    <link href="https://blog.smartbank.co.jp/entry/mysql-functional-index" />
+    <updated>2026-10-15T17:26:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、スマートバンクでプロダクトエンジニアをしている yuhi（@yuhi_junior）です。 皆さんはレコードの状態を表すカラムの値に応じて一意制約をテーブルにかけたいと思ったことはありませんか？意図しない状態のレコードが混入しないことをデータベース層で担保できたら嬉しいですよね。 今回はあるデータモデル...</summary>
+  </entry>
   <entry>
     <title>Maintaining software with the GPT-6 family | OpenAI Developers</title>
     <id>https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-14T22:51:53+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに AI-DLC（AI駆動開発ライフサイクル）は、知識としては知っていましたが触ったことはありませんでした。 いつか触ろうと思いながら腰が上がらなかったところに、AWSの新認定「AWS Certified AI Business Strategist」が登場しました...</summary>
-  </entry>
-  <entry>
-    <title>新たなページが幕を開けました</title>
-    <id>https://qiita.com/polymetisoutis/items/bda44b8f88c0e5a9a789?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/polymetisoutis/items/bda44b8f88c0e5a9a789?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-14T21:43:41+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>現在の自分について エンジニア歴5年目になります！ 現場でC言語、PLSQL、VBA、Java(Spring Boot)を扱ったことがあります！ 業務でReactやDjangoに取り組んだことも！ 独学で、JavaScript、TypeScript、Python、PHP、...</summary>
   </entry>
 </feed>
