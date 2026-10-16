@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T06:30:13.854216+09:00</updated>
+  <updated>2026-10-17T07:00:17.898841+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>FreeBSD/Ubuntu サーバのセキュリティ強化</title>
+    <id>https://zenn.dev/taroh/articles/ea4ce5256d0691</id>
+    <link href="https://zenn.dev/taroh/articles/ea4ce5256d0691" />
+    <updated>2026-10-17T05:08:26+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>なんか、近頃 (2026年 9月下旬) いろいろな組織からいろんなものが漏れている、ということで、ちょい身の回りのサーバ類のセキュリティ強化してみました。 たぶんきょうび、あまり参考になるひとはいないと思うんだけど (誤自宅サーバとかオンプレミス実機でサーバとか、UNIX shellでお仕事ってスタイルすら)、自分メモです。「こんな良いものがあるよ」「ここはヤバい」とかあったら教えてください。 !…</summary>
+  </entry>
+  <entry>
+    <title>MetaRoCE を読んで containerlab で動かしてみた</title>
+    <id>https://zenn.dev/nanakanok/articles/b345cea4338851</id>
+    <link href="https://zenn.dev/nanakanok/articles/b345cea4338851" />
+    <updated>2026-10-17T00:21:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! MetaRoCE の仕様 v1.0 は 2026 年 10 月に公開されたばかりです。この記事は、仕様と参照実装を読んだうえで、ソフトウェア実装（libsoftmetaroce）を containerlab 上で動かし、プロトコルの仕組みがどう振る舞うかを確かめた個人の検証記録です。ラインレートでの性能評価ではありません。仕様の解釈には誤りが含まれる可能性があります。正確な記述は必ず原典の仕様…</summary>
+  </entry>
+  <entry>
+    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
+    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
+    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
+    <updated>2026-10-16T23:10:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void…</summary>
+  </entry>
+  <entry>
+    <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
+    <id>https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm</id>
+    <link href="https://zenn.dev/nextbeat/articles/2026-10-syntax-locality-llm" />
+    <updated>2026-10-16T12:00:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！株式会社ネクストビートでテクノロジー・エバンジェリストなる肩書きでお仕事をしている水島です。 今回は「LLMにとって書きやすい構文とはどういうものか」を、小さな実験で確かめてみた話です。 対象にしたのは、既存のプログラミング言語ではなく、 プロンプトの中で初めて文法を説明される未知の言語 です。学習データに大量に含まれる言語だと「その言語を知っているから書ける」のか「構文の設…</summary>
+  </entry>
   <entry>
     <title>Windows PC向けNVIDIA製SoC「RTX Spark」の正体が明らかに。Microsoftと共同でゲームへの対応も進める</title>
     <id>https://www.4gamer.net/games/050/G105051/20261015021/</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-16T11:02:19+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに こんにちは、SRE部 検索基盤SREブロックの花房と富田です。普段は、ZOZOTOWNの検索基盤における信頼性向上やコスト改善、インフラ運用を担当しています。 検索基盤の開発案件では、開発者とSREが役割を分担して本番リリースまでの作業を実施しています。その中で、インフラリポジトリのPull Request（PR）レビ...</summary>
-  </entry>
-  <entry>
-    <title>「スパムのメールヘッダ偽装にニュータイプ出てきた」公式アドレスからの送信だとドコモの送信ドメイン認証が誤認…Xで報告が相次ぐ「ドメインだけでは判断できない」</title>
-    <id>https://togetter.com/li/2758764</id>
-    <link href="https://togetter.com/li/2758764" />
-    <updated>2026-10-16T11:02:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>T_K_Soft💉💉💉💉💉 @TechnoTreasure スパムのメールヘッダ偽装にニュータイプ出てきた😓 公式アドレスからの送信だと受信側が誤認している。 偽装と気付いた理由は私が楽天カードを持ってないからで、他にも個人名が書かれていないとか識別方法はあるものの、相当紛らわしくなっている。 pic.x.com/bywWtADPju 2026-10-...</summary>
-  </entry>
-  <entry>
-    <title>ESP32×LoRaで屋外の温湿度を計測・記録する - 詩と創作・思索のひろば</title>
-    <id>https://motemen.hatenablog.com/entry/2026/10/esp32-lora</id>
-    <link href="https://motemen.hatenablog.com/entry/2026/10/esp32-lora" />
-    <updated>2026-10-16T10:00:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Low-Rank AdaptationじゃなくてLong Rangeのほうです。 電子工作は数年前に自作キーボードではんだ付けを無限にやって懲りたのを最後に袂を分かったつもりだったが数年ぶりに頑張ってみた。 できたもの きっかけ 工作記 Day ~0 Day 1-6 LoRa通信ためす Day 7-11 センサーとつなぐ Day 12-17 電池駆動する Day 18-19 格納...</summary>
-  </entry>
-  <entry>
-    <title>声優の無断学習・AI問題に歯止め。日俳連「音声生成AIガイドライン」を発表</title>
-    <id>https://ai.watch.impress.co.jp/docs/news/2148382.html</id>
-    <link href="https://ai.watch.impress.co.jp/docs/news/2148382.html" />
-    <updated>2026-10-15T23:59:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>声優の無断学習・AI問題に歯止め。日俳連「音声生成AIガイドライン」を発表</summary>
-  </entry>
-  <entry>
-    <title>電通が「吸うラーメン」 ドラゴンの触り心地も再現【CEATEC 2026】</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2148348.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2148348.html" />
-    <updated>2026-10-15T13:58:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>電通が「吸うラーメン」 ドラゴンの触り心地も再現【CEATEC 2026】</summary>
   </entry>
 </feed>
