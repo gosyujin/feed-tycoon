@@ -79,6 +79,7 @@
   }
 
   function normalizeEntryInfo(raw, pageUrl) {
+    raw = raw || {}; // ブックマークが1件も無いURLは null が返る
     const url = raw.url || pageUrl || '';
     const bookmarks = Array.isArray(raw.bookmarks) ? raw.bookmarks : [];
     return {
