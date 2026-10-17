@@ -66,5 +66,16 @@
     return { id: makeId(url, sources), name: String(name || '').trim() || url.hostname, type: 'rss', url: url.href, tags: [] };
   }
 
-  global.SourcesSync = { load, save, buildSource };
+  // 画面表示用。トークン付きURLが画面(スクリーンショット)に出ないよう、クエリ・フラグメント・ユーザー情報を伏せる。
+  function displayUrl(input) {
+    try {
+      const url = new URL(input);
+      const hidden = !!(url.search || url.hash || url.username || url.password);
+      return `${url.origin}${url.pathname}${hidden ? '?…' : ''}`;
+    } catch (e) {
+      return '(不正なURL)';
+    }
+  }
+
+  global.SourcesSync = { load, save, buildSource, displayUrl };
 })(window);

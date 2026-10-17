@@ -942,7 +942,7 @@
           'li',
           { class: 'rule-row' },
           el('span', { class: 'rule-type', text: s.name }),
-          el('span', { class: 'rule-value', title: s.url, text: s.url }),
+          el('span', { class: 'rule-value', text: SourcesSync.displayUrl(s.url) }),
           state.meta && !fetched[s.id] ? el('span', { class: 'rule-type', text: '反映待ち' }) : null,
           canEdit ? el('button', { type: 'button', class: 'btn btn--small', onclick: () => changeSources((list) => list.filter((x) => x.id !== s.id), `「${s.name}」を削除しました`) }, '削除') : null
         )
