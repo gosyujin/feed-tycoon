@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T10:30:14.409669+09:00</updated>
+  <updated>2026-10-17T11:00:15.254177+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>BASE子会社の漏えい、約2335万人分に 209万人分はクレカ番号「先頭6桁と下4桁」「有効期限」も</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/17/2000002349/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/17/2000002349/" />
+    <updated>2026-10-17T09:57:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ショップサーブは、企業が独自ドメインのネットショップを作るためのECサイト構築・運営支援サービス。25年7月にBASEがEストアーの全株式を取得して子会社化した。 今回の漏えいは8月に公表。詳細を調べた結果、10月16日に最終報が出た。 店舗はID・パスワードなど、購入者はカード情報の一部など漏えい 対象店舗は、シ...</summary>
+  </entry>
+  <entry>
+    <title>Appleが未発表の「iPad mini(第8世代)」の存在をうっかりお漏らしか</title>
+    <id>https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/</id>
+    <link href="https://gigazine.net/news/20261017-apple-website-hinted-ipad-mini-8/" />
+    <updated>2026-10-17T09:03:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AppleはOLED(有機EL)ディスプレイを採用した新型「iPad mini(第8世代)」を2026年10月末に発表するとウワサされています。新たに、Apple公式の規制情報掲載サイト経由で、同社が新型iPad miniを準備している可能性が明らかになりました。 Oops, Apple's Website Just Hinted at iPad Mini 8 - MacRumors https:…</summary>
+  </entry>
   <entry>
     <title>「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</id>
@@ -95,20 +111,20 @@
     <summary>なんか、近頃 (2026年 9月下旬) いろいろな組織からいろんなものが漏れている、ということで、ちょい身の回りのサーバ類のセキュリティ強化してみました。 たぶんきょうび、あまり参考になるひとはいないと思うんだけど (誤自宅サーバとかオンプレミス実機でサーバとか、UNIX shellでお仕事ってスタイルすら)、自分メモです。「こんな良いものがあるよ」「ここはヤバい」とかあったら教えてください。 !…</summary>
   </entry>
   <entry>
+    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
+    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
+    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
+    <updated>2026-10-17T01:35:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with ...</summary>
+  </entry>
+  <entry>
     <title>MetaRoCE を読んで containerlab で動かしてみた</title>
     <id>https://zenn.dev/nanakanok/articles/b345cea4338851</id>
     <link href="https://zenn.dev/nanakanok/articles/b345cea4338851" />
     <updated>2026-10-17T00:21:30+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! MetaRoCE の仕様 v1.0 は 2026 年 10 月に公開されたばかりです。この記事は、仕様と参照実装を読んだうえで、ソフトウェア実装（libsoftmetaroce）を containerlab 上で動かし、プロトコルの仕組みがどう振る舞うかを確かめた個人の検証記録です。ラインレートでの性能評価ではありません。仕様の解釈には誤りが含まれる可能性があります。正確な記述は必ず原典の仕様…</summary>
-  </entry>
-  <entry>
-    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
-    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
-    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
-    <updated>2026-10-16T23:10:37+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void…</summary>
   </entry>
   <entry>
     <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-15T21:34:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>サイバー攻撃で複数の大手スーパーの冷蔵・冷凍施設が最大50℃に フランス｜FNNプライムオンライン フランス各地のスーパーで、冷蔵・冷凍設備を狙った大規模なサイバー攻撃が発生し、少なくとも300店舗で食品の廃棄や火災の被害が出ています。パリ市内のスーパーの冷凍庫からは陳列棚から商品が撤去され、売り… 29 user...</summary>
-  </entry>
-  <entry>
-    <title>【セキュリティ】お客さんからの「うちは大丈夫？」に答えるため、IPAの点検項目をレガシーPHPのECサイトで上から順にやってみた</title>
-    <id>https://zenn.dev/subara3/articles/b90ff538d87aa6</id>
-    <link href="https://zenn.dev/subara3/articles/b90ff538d87aa6" />
-    <updated>2026-10-14T21:21:10+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>連日の情報漏洩により、世間は何かと騒がしいものですが、やっぱりみんな心配なようで、お仕事をしていると「うちは大丈夫なのか」とお問い合わせがやみません。 「これ、どういうつくりになってるんだっけ？ 外部にデータ保存してましたっけ？」なーんてね……。 10月9日に、IPA（基本技術者情報試験とかやってる組織）が「不正アクセスによる漏えい等の事案を踏まえ、速やかに実施すべき対策等について」を発表しました…</summary>
-  </entry>
-  <entry>
-    <title>A Real DuckDB Database in S3, With Nothing Else to Run</title>
-    <id>https://dentiny.github.io/posts/duckdb-on-object-storage/</id>
-    <link href="https://dentiny.github.io/posts/duckdb-on-object-storage/" />
-    <updated>2026-10-16T09:45:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>duckdb_object_storage stores native DuckDB databases (indexes, constraints, WAL and all) directly in object storage. There’s no table format, no catalog database and no fork of DuckDB. You just need D…</summary>
   </entry>
 </feed>
