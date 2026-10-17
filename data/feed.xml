@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T07:00:11.169639+09:00</updated>
+  <updated>2026-10-18T07:30:10.307405+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>06:30-07:00 893 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/893</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/893" />
+    <updated>2026-10-18T06:54:52+09:00</updated>
+    <category term="新日" />
+    <summary>▶893 身体は丈夫だし、なんか小島みたいに泣き言言いながらずっと現役続けそうな気がするタイチは 引退してもなんもないしなタイチ プロデュース力もそんなないし</summary>
+  </entry>
+  <entry>
+    <title>論文サマリ「随意運動の制御と学習のための階層的ニューラルネットワークモデル」川人ら</title>
+    <id>https://zenn.dev/zhidao/articles/63db6db6abe9c4</id>
+    <link href="https://zenn.dev/zhidao/articles/63db6db6abe9c4" />
+    <updated>2026-10-17T20:22:21+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Mitsuo Kawato, Kazunori Furukawa, and Ryoji Suzuki, A Hierarchical Neural-Network Model for Control and Learning fo Voluntary Movement, Biologydal Cybernetics, Vol. 57, pp. 169-185, 1987. 元論文リンク 1. 導入…</summary>
+  </entry>
+  <entry>
+    <title>AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka</title>
+    <id>https://note.com/npaka/n/ndb4b0f424ced</id>
+    <link href="https://note.com/npaka/n/ndb4b0f424ced" />
+    <updated>2026-10-17T11:09:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1. はじめに2026年10月、Anthropicは「How the Claude Code team does code review」という技術記事を公開しました。 この記事では、AIによるコード生成が急増する中、Anthropicがどのようにコードレビューを自動化し、品質と開発速度を両立しているのかを紹介しています。 Anthropicでは、Claude Code自身のコードの約9...</summary>
+  </entry>
+  <entry>
+    <title>コネクタも API も無いサービスを、Claude Code に操作させる</title>
+    <id>https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009</id>
+    <link href="https://zenn.dev/edash_tech_blog/articles/6250fc61ccf009" />
+    <updated>2026-10-16T18:19:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、e-dash の中島です。 SRE として認証基盤やインフラを見ています。 Claude Code から外部サービスを操作するときは、MCP のコネクタを使います。 Notion や GitHub のように広く使われているサービスなら、だいたい用意されています。 自動化を進めていくと、コネクタも API も無いサービスがどうしても残ります。 業務に合わせて選んだ小さな SaaS や、社…</summary>
+  </entry>
   <entry>
     <title>06:00-06:30 891-892 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/891-892</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-17T00:44:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>Findy AI x 開発組織サミット2026スポンサーセッション</summary>
-  </entry>
-  <entry>
-    <title>Introducing dotnetup: A toolchain manager for .NET - .NET Blog</title>
-    <id>https://devblogs.microsoft.com/dotnet/introducing-dotnetup/</id>
-    <link href="https://devblogs.microsoft.com/dotnet/introducing-dotnetup/" />
-    <updated>2026-10-16T15:04:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Getting started with .NET on macOS and Linux has historically meant navigating a plethora of options: system package managers like apt or brew, platform-specific tarballs, or standalone shell scripts…</summary>
-  </entry>
-  <entry>
-    <title>[DataRobot] アプリに依存しているデプロイを探す</title>
-    <id>https://zenn.dev/hattan0523/articles/58b5774d099a40</id>
-    <link href="https://zenn.dev/hattan0523/articles/58b5774d099a40" />
-    <updated>2026-10-16T22:42:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに DataRobotでAIアプリを作成する場合には、対応したデプロイが作られる。 一つのアプリを削除したいと思った場合に他のDataRobot内のアプリやデプロイに依存している可能性がある。 これを発見するためにリーネージが存在しているが、アプリの数が多くなってきた場合に発見するのが大変そうなので、APIでできないか考える。 過去の記事で、デプロイのリーネージをAPIで取得したり、カスタム…</summary>
-  </entry>
-  <entry>
-    <title>押せないハンバーガーボタン、3回直して原因はCSSバンドルの順序だった</title>
-    <id>https://zenn.dev/pythona/articles/css-bundle-order-hamburger</id>
-    <link href="https://zenn.dev/pythona/articles/css-bundle-order-hamburger" />
-    <updated>2026-10-16T20:54:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 社内の業務システム(React + Vite)のQAから、こんな報告が来ました。 日付の左の三本線がクリックできない 添付はスクリーンショット1枚だけ。機種も画面幅も、押したときに何が起きたのかも書かれていません。この一行から始まったバグ修正で、私は3回も見当違いの場所を直し、最後にたどり着いた原因はCSSバンドル内の規則の順序でした。今回はその迷走の過程をそのまま書きます。 前提: ハ…</summary>
-  </entry>
-  <entry>
-    <title>社内の Slack と GitHub を LLM に読ませて技術ブログの題材を探す：モデルに任せたこと、任せなかったこと</title>
-    <id>https://zenn.dev/salt2/articles/slack-github-llm-bb912760</id>
-    <link href="https://zenn.dev/salt2/articles/slack-github-llm-bb912760" />
-    <updated>2026-10-16T15:55:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 3行まとめ 技術ブログに足りていなかったのは、自分たちの現場から出た一次情報でした。それを書ける人と題材を探す作業は、一部の人の記憶に頼っていました。 そこで、Slack・GitHub・会議メモの記録から、書ける人と題材の組み合わせを探し、根拠付きの記事案にする仕組みを作りました。 候補を出すだけなら LLM ですぐにできます。手間がかかったのは、本人が実際に書ける候補に絞ることでした。そこで…</summary>
   </entry>
 </feed>
