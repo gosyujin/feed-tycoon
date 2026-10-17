@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T19:30:12.249893+09:00</updated>
+  <updated>2026-10-17T20:00:12.900211+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>19:30-20:00 832-836 (5件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/832-836</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/832-836" />
+    <updated>2026-10-17T19:52:22+09:00</updated>
+    <category term="新日" />
+    <summary>▶832 このスレの反応＝ファンの評価とは限らんけど モノによっては割と一致してる感ある ▶833 書き込みしてる「新日ファン」て50人くらいかな？ ▶834 PPVどれくらい売れたんだろ ▶835 &gt;&gt;833 常駐してるのは多分そのくらいだろうね あとビッグマッチ前後は普段顔を出さないスレ民も顔を出してるっぽいからスレの消費速度が速くなるな 今年の1.4は社長引退興行だったこともあってかそれが物…</summary>
+  </entry>
+  <entry>
+    <title>Jetson AGX XavierでNemotron 3.5 Lightningを動かしてみる</title>
+    <id>https://zenn.dev/nooop/articles/9d5f19aed77e18</id>
+    <link href="https://zenn.dev/nooop/articles/9d5f19aed77e18" />
+    <updated>2026-10-17T18:11:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>目的 前回、Jetson AGX XavierでQwen3.8-27Bを動かしてみましたが、5〜6 tokens/secと常用には厳しい速度でした。 https://zenn.dev/nooop/articles/f9dbdd970d3dfa その記事のコメントで、Nemotron 3.5 Lightningなら同じくらいの賢さでもっと速く生成できるのでは、という話をいただきました。 そこで、8月…</summary>
+  </entry>
+  <entry>
+    <title>3Dデータの処理基盤をTemporalに全面移行した話</title>
+    <id>https://zenn.dev/bestat/articles/7106fdf2f399e1</id>
+    <link href="https://zenn.dev/bestat/articles/7106fdf2f399e1" />
+    <updated>2026-10-17T07:10:51+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 私たちは、3D.Coreという産業（主に製造業・インフラ業）向けの3Dモデル生成・活用プラットフォームを開発しています。3D.Coreの裏側では、お客様がアップロードしたデータに対して、例えば次のような処理が動いています。 スマホアプリで撮影した画像から、3Dモデルを生成する アップロードされた点群を、ブラウザで表示できる形式に変換したり、メッシュにしたりする 3Dデータの最適化や解析な…</summary>
+  </entry>
+  <entry>
+    <title>JenkinsからGitHub Actionsに移行して、CI/CDをAIにも人にも触れる形にした</title>
+    <id>https://zenn.dev/ceres_tech_blog/articles/7c5d1b9d29e621</id>
+    <link href="https://zenn.dev/ceres_tech_blog/articles/7c5d1b9d29e621" />
+    <updated>2026-10-16T19:03:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Claude Codeで開発していると、コードの多くはAIに任せられます。 ところがCI/CDまわりは、コードも設定も、AIに渡せる形になっていませんでした。 Jenkinsのジョブ設定はサーバー上のGUIと独自スクリプトの中にあり、リポジトリにあるのはJenkinsから呼ばれるシェルスクリプトだけで、Jenkinsfileもありません。 ジョブの流れや設定の全体はAIから見えず、設定ま…</summary>
+  </entry>
+  <entry>
+    <title>NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も</title>
+    <id>https://gigazine.net/news/20261016-nemotron-3-5-super-vl/</id>
+    <link href="https://gigazine.net/news/20261016-nemotron-3-5-super-vl/" />
+    <updated>2026-10-16T13:12:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモ...</summary>
+  </entry>
   <entry>
     <title>19:00-19:30 828-831 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/828-831</id>
@@ -695,20 +735,20 @@
     <summary>なんか、近頃 (2026年 9月下旬) いろいろな組織からいろんなものが漏れている、ということで、ちょい身の回りのサーバ類のセキュリティ強化してみました。 たぶんきょうび、あまり参考になるひとはいないと思うんだけど (誤自宅サーバとかオンプレミス実機でサーバとか、UNIX shellでお仕事ってスタイルすら)、自分メモです。「こんな良いものがあるよ」「ここはヤバい」とかあったら教えてください。 !…</summary>
   </entry>
   <entry>
-    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
-    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
-    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
-    <updated>2026-10-17T01:35:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with ...</summary>
-  </entry>
-  <entry>
     <title>MetaRoCE を読んで containerlab で動かしてみた</title>
     <id>https://zenn.dev/nanakanok/articles/b345cea4338851</id>
     <link href="https://zenn.dev/nanakanok/articles/b345cea4338851" />
     <updated>2026-10-17T00:21:30+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! MetaRoCE の仕様 v1.0 は 2026 年 10 月に公開されたばかりです。この記事は、仕様と参照実装を読んだうえで、ソフトウェア実装（libsoftmetaroce）を containerlab 上で動かし、プロトコルの仕組みがどう振る舞うかを確かめた個人の検証記録です。ラインレートでの性能評価ではありません。仕様の解釈には誤りが含まれる可能性があります。正確な記述は必ず原典の仕様…</summary>
+  </entry>
+  <entry>
+    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
+    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
+    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
+    <updated>2026-10-16T23:10:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void…</summary>
   </entry>
   <entry>
     <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
@@ -765,45 +805,5 @@
     <updated>2026-10-16T16:07:26+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 稼働時間が限定されているEC2を監視していて、インスタンスを意図的に停止しているのにCloudWatchアラームが発報されてしまう、という経験はないでしょうか。 私も検証環境のEC2を夜間・休日に停止する運用をしていたところ、停止中のインスタンスに対して不要なア...</summary>
-  </entry>
-  <entry>
-    <title>弾幕シューティングゲームを Microsoft-Decision-1 にやらせてみた</title>
-    <id>https://qiita.com/shyamagu/items/b0801dc6016e700d2d61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shyamagu/items/b0801dc6016e700d2d61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-16T08:14:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>MicrosoftからもJevやOpenAI Decisions APIのような判断型AIモデルが出てきました。すでに解説記事も色々と出ていますが、今回はこの判断型AIモデルを使い「その場で判断」させて、弾幕シューティングゲームを遊ばせて検証してみました。 ちなみにゲームを...</summary>
-  </entry>
-  <entry>
-    <title>AIに書かせた日本語を毎日直していたので、直し方ごとスキルにして公開しました</title>
-    <id>https://qiita.com/kojikojikojikoji/items/9d0bc3ed1f347933c0a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kojikojikojikoji/items/9d0bc3ed1f347933c0a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-15T21:32:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>仕事の文章はほとんど AI に下書きさせています。中小企業向けの提案書、作業の報告、事業部の人に送る Slack のメッセージ。内容はだいたい合っているのに、そのままでは出せません。読み返すと、毎回同じところを直していました。 直していた箇所をまとめて Claude Cod...</summary>
-  </entry>
-  <entry>
-    <title>Opus 5.5 の effort high と xhigh のレビュー性能とダブルチェックの効き目を、15 区分・45 本で測った</title>
-    <id>https://qiita.com/m_izumo/items/6a69b18b966f8efa9dff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/m_izumo/items/6a69b18b966f8efa9dff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-15T17:39:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>個人開発のソフトウェアをリリースする前に、Claude Code のサブエージェントで不具合を洗い出しました。範囲を 15 の区分に分け、各区分で、レビューを担当するサブエージェント(以下、レビュー担当)を同じ指示で 2〜3 本並べて走らせました。effort は high...</summary>
-  </entry>
-  <entry>
-    <title>楽天モバイル、「iPhone Duo」の価格を発表 約43万円～</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2148880.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2148880.html" />
-    <updated>2026-10-16T18:00:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天モバイル、「iPhone Duo」の価格を発表 約43万円～</summary>
-  </entry>
-  <entry>
-    <title>TimeTreeはいかに国内外でアプリをグロースしていったのか―ad:tech tokyo 2024参加レポート（2）｜Moloco Japan</title>
-    <id>https://note.com/moloco_japan/n/nacafc9a89df2</id>
-    <link href="https://note.com/moloco_japan/n/nacafc9a89df2" />
-    <updated>2026-10-16T23:30:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは！ Molocoです。「ad:tech tokyo 2024」のMolocoブースで開催したオリジナルセッションレポート第2弾です。アプリビジネスを営む方の最大の課題は「サービスの価値をいかに向上し、グロースさせていくか」という点に尽きると思います。そこでオリジナルセッションでは、2024年4月には全世界登録ユーザー数5500...</summary>
   </entry>
 </feed>
