@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T23:00:12.880589+09:00</updated>
+  <updated>2026-10-17T23:30:14.594962+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>23:00-23:30 873-875 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/873-875</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/873-875" />
+    <updated>2026-10-17T23:10:11+09:00</updated>
+    <category term="新日" />
+    <summary>▶873 飯伏騒動もTAKAみちのくのセコンドに飯伏が発端ってのも言ってた ▶874 ジャストガイズとかいう大失敗ユニットのプロデュースしてたってだけで追放されるには十分理由があるよ ▶875 けが人多かったししゃーない</summary>
+  </entry>
+  <entry>
+    <title>22:30-23:00 865-872 (8件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/865-872</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/865-872" />
+    <updated>2026-10-17T22:58:05+09:00</updated>
+    <category term="新日" />
+    <summary>▶865 タイガージェットシンが猪木の墓参りに来た動画がたった一日で40万再生か、タイガー凄い ▶866 安田優虎選手と塚本竜馬選手、近い将来最強の竜虎タッグになるかもしれないね🥹🐉🐅 ▶867 &gt;&gt;859 ヒロムとEVILのWWEへのパイプ役やったから干されたのやっぱ本当なのか ▶868 タイチの扱いがまた一歩窓際になりそうで嬉しいよ ▶869 &gt;&gt;865 あの銅像を最初素通りしたのは意外だった…</summary>
+  </entry>
   <entry>
     <title>Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
     <id>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</id>
@@ -732,7 +748,7 @@
     <link href="https://qiita.com/k2_naka/items/fa87685231377f15e7e3" />
     <updated>2026-10-17T02:16:58+09:00</updated>
     <category term="はてブ IT" />
-    <summary>本稿は筆者個人の分析であり、所属組織や各事業者の公式見解ではありません。基準日は2026年10月16日（資料確認 21:24 JST）です。CVE・修正版・各事業者の対応状況は変動するため、適用判断時には原典と自環境を再確認してください。本文の参照番号 [n] は末尾「参照」の根拠URLに対応します。 本稿での「確認」の範囲 ...</summary>
+    <summary>10月17日更新：修正配布と評価情報を追記 初稿の確認後に、Debian trixieの修正告知、AlmaLinuxのテスト版、CISAの追加評価が公表されました。Proxmoxの修正ビルド、SUSE・Red Hatの評価、さくらのVPS等の受付制限は、今回確認範囲に加えた情報であり、すべてが10月17日に新たに発生した出来事という意味ではありません...</summary>
   </entry>
   <entry>
     <title>We don't need Claude Code anymore and the best replacement is free</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-16T20:10:24+09:00</updated>
     <category term="はてブ IT" />
     <summary>JPCERT/CC⁠⁠、アプリ解析によるAPI攻撃の手口を報告⁠⁠、Flutter解析ツールの痕跡も —⁠—API認証情報の扱いに注意喚起 JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。Androidアプリを解析して接続先のAPIを特定し、悪用する手口を確認した。調査対象のサー...</summary>
-  </entry>
-  <entry>
-    <title>InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log</title>
-    <id>https://blog.naoshihoshi.com/entry/2023/02/17/120000</id>
-    <link href="https://blog.naoshihoshi.com/entry/2023/02/17/120000" />
-    <updated>2026-10-17T06:13:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反...</summary>
-  </entry>
-  <entry>
-    <title>How the Claude Code team does code review / claude.dev Blog</title>
-    <id>https://claude.dev/blog/solving-code-review-at-anthropic/</id>
-    <link href="https://claude.dev/blog/solving-code-review-at-anthropic/" />
-    <updated>2026-10-16T21:24:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catch…</summary>
   </entry>
 </feed>
