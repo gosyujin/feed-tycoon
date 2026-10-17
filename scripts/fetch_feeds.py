@@ -317,6 +317,22 @@ def normalize_sources(raw_list):
     return result
 
 
+def redact_url(url):
+    """公開リポジトリへ書き出す用に、クエリ・フラグメント・ユーザー情報を落とす。
+    トークン付きURL(例: .../feed.xml?token=...)を取得元に登録しても、data/ には載せないための処理。"""
+    parts = urllib.parse.urlsplit(url)
+    host = parts.hostname or ""
+    netloc = f"{host}:{parts.port}" if parts.port else host
+    redacted = urllib.parse.urlunsplit((parts.scheme, netloc, parts.path, "", ""))
+    return redacted + "?…" if parts.query or parts.fragment or parts.username or parts.password else redacted
+
+
+def is_publishable_source(source):
+    """URL をそのままコミットしてよい取得元か。クエリ・ユーザー情報を含むものは秘密が入りうるので不可。"""
+    parts = urllib.parse.urlsplit(source["url"])
+    return not (parts.query or parts.fragment or parts.username or parts.password)
+
+
 def fetch_gist_sources(gist_id):
     """Gist の取得元一覧を返す。Gist にファイルが無ければ None(未使用)。通信・解析の失敗は例外。"""
     req = urllib.request.Request(
@@ -348,7 +364,10 @@ def load_sources():
                 sources = normalize_sources(raw)
                 if sources:
                     DATA_DIR.mkdir(parents=True, exist_ok=True)
-                    write_json(RESOLVED_SOURCES_PATH, {"sources": sources})
+                    publishable = [src for src in sources if is_publishable_source(src)]
+                    if len(publishable) < len(sources):
+                        print(f"[info] クエリ付きURLの取得元{len(sources) - len(publishable)}件は、公開リポジトリのキャッシュに保存しません")
+                    write_json(RESOLVED_SOURCES_PATH, {"sources": publishable})
                     print(f"[info] Gist から取得元{len(sources)}件を読み込みました")
                     return sources
                 print("[warn] Gist の取得元が空または不正です。フォールバックします", file=sys.stderr)
@@ -383,9 +402,10 @@ def main():
             time.sleep(REQUEST_INTERVAL_SEC)
         sid = source["id"]
         prev = prev_meta_sources.get(sid, {})
-        if prev.get("url") != source["url"] or prev.get("name") != source["name"]:
+        shown_url = redact_url(source["url"])
+        if prev.get("url") != shown_url or prev.get("name") != source["name"]:
             prev = {}  # URL が変わったら ETag 等は別物。名前が変わったら 304 で記事の表示名が更新されないので取り直す
-        status = {"name": source["name"], "url": source["url"], "fetchedAt": now_iso}
+        status = {"name": source["name"], "url": shown_url, "fetchedAt": now_iso}
         try:
             code, body, etag, last_modified = fetch(source["url"], prev.get("etag"), prev.get("lastModified"))
             status.update({"etag": etag, "lastModified": last_modified})

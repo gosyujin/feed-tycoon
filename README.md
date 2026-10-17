@@ -46,6 +46,7 @@ feed-tycoon/
 - 取得に失敗したソースは既存データを維持し、`meta.json` に `ok: false` を記録する(画面のフッターに表示)。0 件だった場合は Actions のログに警告が出る。全ソース失敗時のみ Actions を失敗させる。
 - **取得元一覧は Gist(`feed-tycoon-sources.json`)で管理する。** フィルタと同じ Gist に置き、設定画面の「取得元」が読み書きする(書き込みにはトークンが必要)。取得は Actions が行うので、Actions の変数 `FEED_GIST_ID`(Settings > Secrets and variables > Actions > Variables)に同じ Gist ID を登録しておく。リポジトリは public なので、ID をファイルには書かない。
   - `fetch_feeds.py` の読み込み順は、Gist > 前回 Gist から読めた一覧(`data/sources-resolved.json`)> `sources.json`。Gist が一時的に読めなくても、追加したフィードとその記事を落とさないため。Gist にファイルがまだ無い間は `sources.json` を使う(設定画面もこの一覧を初期値として出し、最初の追加・削除で Gist に書き込む)。
+  - `data/` は公開リポジトリにコミットされるため、トークン付きURL(`?token=…` など)が漏れないようにしている。`meta.json` の `url` はクエリ・ユーザー情報を落とした形(`https://…/feed.xml?…`)で書き、`sources-resolved.json` にはクエリ・ユーザー情報を含む取得元を保存しない(Gist が読めない間はその取得元だけ一時的に落ちる)。ただし設定画面と Gist には URL がそのまま入る。
   - フィルタ CSV と違い和集合ではなく、保存のたびに Gist を読み直して変更し上書きする(削除も同期するため)。同時編集は後勝ち。
   - 反映は次回の取得から(最大 30 分ほど)。画面には `meta.json` にまだ無いフィードを「反映待ち」と出す。タブは記事から動的に作るので、増減に自動で追随する(追加直後は記事が入るまでタブが出ない)。取得元を消すとその記事も次回の更新で消える。
   - 取得側は http(s) 以外、localhost・IP アドレス・`.local` 宛の URL を拒否する(`normalize_source`。ビューア側の `parseFeedUrl` も同条件)。id は URL から自動採番。名前や URL が変わったソースは ETag を捨てて取り直す。
