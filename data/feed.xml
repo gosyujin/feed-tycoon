@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T10:00:15.812514+09:00</updated>
+  <updated>2026-10-17T10:30:14.409669+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/" />
+    <updated>2026-10-17T08:20:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>サイバー攻撃による個人情報の流出が連日報じられ、異常とも言える状況に専門家は調査を続けている。見えてきたのが、これまで攻撃者が見向きもしなかった組織まで片っ端から狙われ、安全と思われたスマートフォンのアプリにまで被害が広がっている現実だ。人でも、ツールでもない何かに「気持ち悪さ」「人でもない、ツ...</summary>
+  </entry>
+  <entry>
+    <title>【レビュー】「Surface Laptop Ultra」を試す 81万円のRTX Spark搭載機はMacBook Proを凌駕するか</title>
+    <id>https://www.watch.impress.co.jp/docs/review/review/2148940.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/review/review/2148940.html" />
+    <updated>2026-10-16T21:15:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【レビュー】「Surface Laptop Ultra」を試す 81万円のRTX Spark搭載機はMacBook Proを凌駕するか</summary>
+  </entry>
+  <entry>
+    <title>JPCERT/CC、アプリ解析によるAPI攻撃の手口を報告、Flutter解析ツールの痕跡も ——API認証情報の扱いに注意喚起 | gihyo.jp</title>
+    <id>https://gihyo.jp/article/2026/10/web-api-attacks</id>
+    <link href="https://gihyo.jp/article/2026/10/web-api-attacks" />
+    <updated>2026-10-16T20:10:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JPCERT/CC⁠⁠、アプリ解析によるAPI攻撃の手口を報告⁠⁠、Flutter解析ツールの痕跡も —⁠—API認証情報の扱いに注意喚起 JPCERT/CCは2026年10月15日、国内で相次ぐ不正アクセスを受けて進めている攻撃元サーバーの調査結果を公開した。Androidアプリを解析して接続先のAPIを特定し、悪用する手口を確認した。調査対象のサー...</summary>
+  </entry>
   <entry>
     <title>InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log</title>
     <id>https://blog.naoshihoshi.com/entry/2023/02/17/120000</id>
@@ -71,20 +95,20 @@
     <summary>なんか、近頃 (2026年 9月下旬) いろいろな組織からいろんなものが漏れている、ということで、ちょい身の回りのサーバ類のセキュリティ強化してみました。 たぶんきょうび、あまり参考になるひとはいないと思うんだけど (誤自宅サーバとかオンプレミス実機でサーバとか、UNIX shellでお仕事ってスタイルすら)、自分メモです。「こんな良いものがあるよ」「ここはヤバい」とかあったら教えてください。 !…</summary>
   </entry>
   <entry>
-    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
-    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
-    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
-    <updated>2026-10-17T01:35:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with ...</summary>
-  </entry>
-  <entry>
     <title>MetaRoCE を読んで containerlab で動かしてみた</title>
     <id>https://zenn.dev/nanakanok/articles/b345cea4338851</id>
     <link href="https://zenn.dev/nanakanok/articles/b345cea4338851" />
     <updated>2026-10-17T00:21:30+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! MetaRoCE の仕様 v1.0 は 2026 年 10 月に公開されたばかりです。この記事は、仕様と参照実装を読んだうえで、ソフトウェア実装（libsoftmetaroce）を containerlab 上で動かし、プロトコルの仕組みがどう振る舞うかを確かめた個人の検証記録です。ラインレートでの性能評価ではありません。仕様の解釈には誤りが含まれる可能性があります。正確な記述は必ず原典の仕様…</summary>
+  </entry>
+  <entry>
+    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
+    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
+    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
+    <updated>2026-10-16T23:10:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void…</summary>
   </entry>
   <entry>
     <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-16T09:45:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>duckdb_object_storage stores native DuckDB databases (indexes, constraints, WAL and all) directly in object storage. There’s no table format, no catalog database and no fork of DuckDB. You just need D…</summary>
-  </entry>
-  <entry>
-    <title>【対策】“相次ぐ個人情報の流出” 私たちができることは | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261016de60212</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261016de60212" />
-    <updated>2026-10-16T12:18:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>企業へのサイバー攻撃によって個人情報が流出した場合、2次被害を防ぐために個人でできる対応にはどんなことがあるのでしょうか。私たちがとるべき対策について、まとめました。 個人情報が流出したら? 情…</summary>
-  </entry>
-  <entry>
-    <title>ドコモメール公式アカウント | お知らせ | NTTドコモ</title>
-    <id>https://www.docomo.ne.jp/info/spam_mail/official_account/</id>
-    <link href="https://www.docomo.ne.jp/info/spam_mail/official_account/" />
-    <updated>2026-10-16T10:04:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>お客さまの設定により、お客さま情報が「非表示」となっております。お客さま情報を表示するにはdアカウントでログインしてください。 お客さま情報表示についてへ お客さま情報表示についてへ ドコモメール公式アカウント 不審メールに伴うお知らせ【2026年10月15日】 一部の公式アカウントの企業さまのメールにおいて...</summary>
-  </entry>
-  <entry>
-    <title>iOS版「トビラフォンモバイル」で特殊詐欺対策強化、詐欺疑いのある国際電話を“番号帯”で着信拒否</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2148537.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2148537.html" />
-    <updated>2026-10-16T09:03:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>iOS版「トビラフォンモバイル」で特殊詐欺対策強化、詐欺疑いのある国際電話を“番号帯”で着信拒否</summary>
   </entry>
 </feed>
