@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T22:30:13.506045+09:00</updated>
+  <updated>2026-10-17T23:00:12.880589+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
+    <id>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</id>
+    <link href="https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html" />
+    <updated>2026-10-18T00:27:18+09:00</updated>
+    <category term="Publickey" />
+    <summary>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ...</summary>
+  </entry>
+  <entry>
+    <title>22:00-22:30 859-864 (6件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/859-864</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/859-864" />
+    <updated>2026-10-17T22:20:11+09:00</updated>
+    <category term="新日" />
+    <summary>▶859 TAKA「今日、たっぷりと上村優也を堪能した。負けたけどなんか凄い最高の気分だ。 まあこれから間違いなく新日本、いや世界を背負って立つ男だから、間違いなく。これからも陰ながら見守らせてもらうよ」 https://x.com/njpw1972/status/2111377144559612364?s=20 ▶860 サイバーコングとか素手でパイナップル引きちぎるんだぜ？ 元々は何度か新日本…</summary>
+  </entry>
+  <entry>
+    <title>AnthropicのBun、TypeScript 7よりも3倍以上高速なTypeScript型チェッカーを搭載。Bunの新バージョン1.4.3で</title>
+    <id>https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html</id>
+    <link href="https://www.publickey1.jp/blog/26/anthropicbuntypescript_73typescriptbun143.html" />
+    <updated>2026-10-16T00:21:12+09:00</updated>
+    <category term="Publickey" />
+    <summary>Anthropicが開発しているJavaScriptランタイム「Bun」は、10月10日付けで新バージョン「Bun v1.4.3」がリリースされました。 Bun v1.4.3の最大の特徴として示されたのが、Go言語で実装されたTypeScr...</summary>
+  </entry>
   <entry>
     <title>21:30-22:00 855-858 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/855-858</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-16T21:24:30+09:00</updated>
     <category term="はてブ IT" />
     <summary>We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catch…</summary>
-  </entry>
-  <entry>
-    <title>さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
-    <id>https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</id>
-    <link href="https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/" />
-    <updated>2026-10-17T00:48:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>平素よりさくらのクラウドをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのクラウドにおける現在の対応状況をご案内いたします。 現在の対応状況 2026年10月16日（金）より、さくらのクラウドにおけるリソースの作...</summary>
-  </entry>
-  <entry>
-    <title>さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
-    <id>https://vps.sakura.ad.jp/contents/info/202610-pendingapply/</id>
-    <link href="https://vps.sakura.ad.jp/contents/info/202610-pendingapply/" />
-    <updated>2026-10-16T22:16:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...</summary>
-  </entry>
-  <entry>
-    <title>「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる [てっぱんアプリ！]</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html" />
-    <updated>2026-10-16T14:47:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる [てっぱんアプリ！]</summary>
   </entry>
 </feed>
