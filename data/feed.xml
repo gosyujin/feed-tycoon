@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T08:30:13.078849+09:00</updated>
+  <updated>2026-10-17T09:00:13.030978+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NVD - Home</title>
+    <id>https://nvd.nist.gov/vuln/detail/cve-2026-99999</id>
+    <link href="https://nvd.nist.gov/vuln/detail/cve-2026-99999" />
+    <updated>2026-10-16T18:52:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVD - Home</summary>
+  </entry>
   <entry>
     <title>個人情報漏えい のべ1億6500万人分余に 利用者の対策は? | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261016de60239</id>
@@ -348,7 +356,7 @@
     <link href="https://pwn.ai/blog/pwnescape" />
     <updated>2026-10-16T14:33:07+09:00</updated>
     <category term="はてブ IT" />
-    <summary>PWNAI Research, Paulos Yibelo··18m18 min read·10,52210,522 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a f…</summary>
+    <summary>PWNAI Research, Paulos Yibelo··18m18 min read·20,57920,579 views How a $1 million sandbox challenge led us to a vulnerability in Linux networking, repeatable host-memory disclosure, and ultimately a f…</summary>
   </entry>
   <entry>
     <title>テスラ空を飛ぶ SpaceXの技術を搭載した新型ロードスターを披露</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-16T08:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/21070278700194450…</summary>
-  </entry>
-  <entry>
-    <title>Microsoft Wordの代替を目指すオープンソースの文書作成アプリ「WordCraft」、Rust製ネイティブアプリでAIエージェントでの使用も考慮</title>
-    <id>https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/</id>
-    <link href="https://gigazine.net/news/20261015-wordcraft-open-source-word-processor/" />
-    <updated>2026-10-15T08:04:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「WordCraft」はオープンソースで開発されている文書作成アプリです。日本時間の2026年10月8日バージョン0.1.0がリリースされ、高頻度でアップデートが実施されて14日時点ではバージョン0.6.1に達しています。 WordCraft: A fast, open-source word processor, rebuilt in pure Rust. — ArtCraft https://…</summary>
   </entry>
 </feed>
