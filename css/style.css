@@ -151,8 +151,10 @@ code { padding: 0 4px; background: var(--bg); border-radius: 4px; }
 .rule-list-details { margin: 8px 0; }
 .rule-list { list-style: none; margin: 6px 0 0; padding: 0; max-height: 40vh; overflow-y: auto; }
 .rule-row { display: flex; align-items: center; gap: 6px; padding: 4px 0; border-bottom: 1px solid var(--border); }
-.rule-type { flex: none; width: 5.5em; color: var(--muted); font-size: 12px; }
-.rule-value { flex: 1; overflow-wrap: anywhere; }
+.rule-type { flex: none; width: 5.5em; color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }
+.rule-value { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+/* 取得元は件数が少ない。長いURLで行が高くなっても、内側スクロールで削除ボタンが隠れないようにする */
+#source-list { max-height: none; overflow-y: visible; }
 .export-text { width: 100%; height: 8em; margin: 4px 0; padding: 6px; border: 1px solid var(--border); border-radius: 6px; background: var(--bg); color: var(--text); font-family: ui-monospace, monospace; line-height: 1.4; }
 
 @media (max-width: 520px) {
