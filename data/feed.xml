@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T09:00:13.030978+09:00</updated>
+  <updated>2026-10-17T09:30:14.308694+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
+    <id>https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</id>
+    <link href="https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/" />
+    <updated>2026-10-17T00:48:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>平素よりさくらのクラウドをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのクラウドにおける現在の対応状況をご案内いたします。 現在の対応状況 2026年10月16日（金）より、さくらのクラウドにおけるリソースの作...</summary>
+  </entry>
+  <entry>
+    <title>さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
+    <id>https://vps.sakura.ad.jp/contents/info/202610-pendingapply/</id>
+    <link href="https://vps.sakura.ad.jp/contents/info/202610-pendingapply/" />
+    <updated>2026-10-16T22:16:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>平素よりさくらのVPSをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのVPSにおける現在の対応状況をご案内いたします。 現在、さくらのVPSでは石狩、東京、大阪の全リージョンで新規申し込みの受付を一時的に停止し...</summary>
+  </entry>
+  <entry>
+    <title>「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる [てっぱんアプリ！]</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html" />
+    <updated>2026-10-16T14:47:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる [てっぱんアプリ！]</summary>
+  </entry>
   <entry>
     <title>NVD - Home</title>
     <id>https://nvd.nist.gov/vuln/detail/cve-2026-99999</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-16T11:55:17+09:00</updated>
     <category term="はてブ IT" />
     <summary>米Teslaは10月15日（現地時間）、次世代EVスポーツカー「Roadster」を発表した。米テキサス州マクレガーにある米SpaceXの試験施設からイベントをライブ配信した。イーロン・マスクCEOは2028年の生産開始を目指すと説明した。価格は明らかにしていないが、日本でも公式サイトで予約を受け付けており、予約金合計は682万円...</summary>
-  </entry>
-  <entry>
-    <title>Anthropic、METRの評価チームを社内に常駐させ“従業員並み”のアクセス付与 公表に拒否権なし</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/16/2000002315/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002315/" />
-    <updated>2026-10-16T10:09:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Anthropicは10月15日（現地時間）、AIモデルを評価する米非営利団体METRのチームに、従業員並みのアクセス権限を与え始めたと発表した。ダリオ・アモデイCEOが9月のエッセイ「We Must Pace the Frontier」で打ち出した「常駐評価者」構想を具体化した。 METRのスタッフ6人に、同社の端末とオフィススペースを提供し、...</summary>
-  </entry>
-  <entry>
-    <title>「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2610/16/news040.html" />
-    <updated>2026-10-16T08:21:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「友達だけ」のはずが、なぜXで拡散？ 看護師の患者撮影動画が流出した「setlog」の“抜け穴”とBeRealとの違い（1/3 ページ） 千葉県松戸市の千葉西総合病院で、女性看護師らが夜勤中に入院患者を無断で撮影し、その動画を共有していたことが明らかになりました。動画にはベッドに横たわる患者や院内の様子が映っており...</summary>
-  </entry>
-  <entry>
-    <title>有名 OSS が PR を閉じはじめた。何が起きていて、どう向き合うか</title>
-    <id>https://zenn.dev/hand_dot/articles/ecb391d4322330</id>
-    <link href="https://zenn.dev/hand_dot/articles/ecb391d4322330" />
-    <updated>2026-10-16T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>2026年に入ってから、有名な OSS が次々と PR を閉じはじめているなぁと感じています。OSS のエコシステムには個人的に興味があるので、少し調べてみました。メモがてら残しておきます。 Hono が外部からの PR を閉じた 10月5日、Hono の yusukebe さんがこう投稿していました。 https://x.com/yusukebe/status/21070278700194450…</summary>
   </entry>
 </feed>
