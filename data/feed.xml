@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T06:30:12.529696+09:00</updated>
+  <updated>2026-10-18T07:00:11.169639+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>06:00-06:30 891-892 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/891-892</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/891-892" />
+    <updated>2026-10-18T06:26:59+09:00</updated>
+    <category term="新日" />
+    <summary>▶891 &gt;&gt;881 コールがJ4Gに変わった時に客席から失笑漏れてたのは悪い意味で草生えた ▶892 &gt;&gt;883 序盤は小技の攻防で客席温めて徐々に展開を派手にしていくのが試合（特にシングル戦）のフォーマットとして確立されていることについては TAKAの影響も少なからず大きいだろうね</summary>
+  </entry>
   <entry>
     <title>05:30-06:00 890 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/890</id>
@@ -186,9 +194,9 @@
     <title>Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性</title>
     <id>https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html</id>
     <link href="https://www.publickey1.jp/blog/26/linuxpwnescapecve-2026-99999linux_os.html" />
-    <updated>2026-10-18T00:27:18+09:00</updated>
-    <category term="Publickey" />
-    <summary>悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-2026-99999）の情報が公開されています。 ...</summary>
+    <updated>2026-10-17T23:59:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Linuxカーネルの深刻な脆弱性「PwnEscape」（CVE-2026-99999）、ゲストの仮想マシンからホスト側Linux OSに不正なコードを実行できる可能性 悪意のある攻撃者がLinuxの仮想マシンを不正に操作することで、仮想マシンの境界を抜けてホスト側のLinux OSで不正なコードを実行できる可能性がある脆弱性「PwnEscape」（CVE-20...</summary>
   </entry>
   <entry>
     <title>22:00-22:30 859-864 (6件)</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-16T15:55:03+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! 3行まとめ 技術ブログに足りていなかったのは、自分たちの現場から出た一次情報でした。それを書ける人と題材を探す作業は、一部の人の記憶に頼っていました。 そこで、Slack・GitHub・会議メモの記録から、書ける人と題材の組み合わせを探し、根拠付きの記事案にする仕組みを作りました。 候補を出すだけなら LLM ですぐにできます。手間がかかったのは、本人が実際に書ける候補に絞ることでした。そこで…</summary>
-  </entry>
-  <entry>
-    <title>Strata でできること：ローカル LLMの実行とアプリ連携</title>
-    <id>https://zenn.dev/jtcc/articles/strata-local-llm-app-integration</id>
-    <link href="https://zenn.dev/jtcc/articles/strata-local-llm-app-integration" />
-    <updated>2026-10-16T14:57:00+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。株式会社日本トレカセンターの田島です。 ローカル LLM を使うとき、最初の目標は「手元の PC で回答を生成できること」です。しかし、開発で利用するなら、その先も気になります。 仕様書から条件を抽出できるか。既存のアプリから呼び出せるか。長い資料を渡したとき、どれくらい待つのか。 本記事では、Strata を使ったローカル LLM の実行と、API を通じたアプリ連携を紹介します。さ…</summary>
   </entry>
 </feed>
