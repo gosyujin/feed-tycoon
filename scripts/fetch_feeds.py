@@ -301,6 +301,7 @@ def normalize_source(raw):
         "type": "rss",
         "url": url,
         "tags": [str(t) for t in tags] if isinstance(tags, list) else [],
+        **({"redacted": True} if raw.get("redacted") is True else {}),
     }
 
 
@@ -333,8 +334,14 @@ def is_publishable_source(source):
     return not (parts.query or parts.fragment or parts.username or parts.password)
 
 
-def fetch_gist_sources(gist_id):
-    """Gist の取得元一覧を返す。Gist にファイルが無ければ None(未使用)。通信・解析の失敗は例外。"""
+def cache_form(source):
+    """sources-resolved.json(公開リポジトリ)に書く形。秘密が入りうるURLは伏せ、取得せず記事だけ維持するための目印(redacted)を付ける。"""
+    if is_publishable_source(source):
+        return source
+    return {**source, "url": redact_url(source["url"]), "redacted": True}
+
+
+def _gist_sources_via_api(gist_id):
     req = urllib.request.Request(
         f"{GIST_API}/{gist_id}", headers={"User-Agent": USER_AGENT, "Accept": "application/vnd.github+json"}
     )
@@ -352,6 +359,27 @@ def fetch_gist_sources(gist_id):
     return json.loads(text).get("sources", [])
 
 
+def _gist_sources_via_raw(gist_id, owner):
+    """API のレート制限(Actions の共有IPは未認証だと1時間60回)に当たったときの代替。raw は API の枠を使わない。"""
+    url = f"https://gist.githubusercontent.com/{owner}/{gist_id}/raw/{GIST_SOURCES_FILE}"
+    with urllib.request.urlopen(
+        urllib.request.Request(url, headers={"User-Agent": USER_AGENT}), timeout=REQUEST_TIMEOUT_SEC
+    ) as res:
+        return json.loads(res.read().decode("utf-8")).get("sources", [])
+
+
+def fetch_gist_sources(gist_id):
+    """Gist の取得元一覧を返す。Gist にファイルが無ければ None(未使用)。通信・解析の失敗は例外。"""
+    try:
+        return _gist_sources_via_api(gist_id)
+    except urllib.error.HTTPError as e:
+        owner = os.environ.get("GITHUB_REPOSITORY_OWNER", "").strip()
+        if e.code not in (403, 429) and e.code < 500 or not owner:
+            raise
+        print(f"[warn] Gist API が {e.code} でした。raw URL から読みます", file=sys.stderr)
+        return _gist_sources_via_raw(gist_id, owner)
+
+
 def load_sources():
     """取得元の一覧を決める。Gist(FEED_GIST_ID) > 前回 Gist から読めた一覧 > sources.json の順。"""
     gist_id = os.environ.get("FEED_GIST_ID", "").strip()
@@ -364,10 +392,7 @@ def load_sources():
                 sources = normalize_sources(raw)
                 if sources:
                     DATA_DIR.mkdir(parents=True, exist_ok=True)
-                    publishable = [src for src in sources if is_publishable_source(src)]
-                    if len(publishable) < len(sources):
-                        print(f"[info] クエリ付きURLの取得元{len(sources) - len(publishable)}件は、公開リポジトリのキャッシュに保存しません")
-                    write_json(RESOLVED_SOURCES_PATH, {"sources": publishable})
+                    write_json(RESOLVED_SOURCES_PATH, {"sources": [cache_form(src) for src in sources]})
                     print(f"[info] Gist から取得元{len(sources)}件を読み込みました")
                     return sources
                 print("[warn] Gist の取得元が空または不正です。フォールバックします", file=sys.stderr)
@@ -403,6 +428,11 @@ def main():
         sid = source["id"]
         prev = prev_meta_sources.get(sid, {})
         shown_url = redact_url(source["url"])
+        if source.get("redacted"):
+            # Gist が読めずキャッシュから復元した、URL不明の取得元。取得はせず、記事と前回の状態を維持する
+            meta_sources[sid] = prev_meta_sources.get(sid) or {"name": source["name"], "url": shown_url, "fetchedAt": now_iso, "count": 0}
+            print(f"[info] {sid}: URLを伏せた取得元のため今回は取得しません(記事は維持)")
+            continue
         if prev.get("url") != shown_url or prev.get("name") != source["name"]:
             prev = {}  # URL が変わったら ETag 等は別物。名前が変わったら 304 で記事の表示名が更新されないので取り直す
         status = {"name": source["name"], "url": shown_url, "fetchedAt": now_iso}

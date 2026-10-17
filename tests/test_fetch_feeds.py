@@ -144,6 +144,19 @@ class RedactTest(unittest.TestCase):
         self.assertFalse(ff.is_publishable_source({"url": "https://u:pw@example.com/feed"}))
 
 
+class CacheFormTest(unittest.TestCase):
+    def test_cache_form_redacts_secret_urls_and_marks_them(self):
+        plain = {"id": "a", "name": "A", "type": "rss", "url": "https://example.com/feed", "tags": []}
+        self.assertEqual(ff.cache_form(plain), plain)
+        secret = {"id": "b", "name": "B", "type": "rss", "url": "https://example.com/feed?token=SECRET", "tags": []}
+        cached = ff.cache_form(secret)
+        self.assertNotIn("SECRET", str(cached))
+        self.assertTrue(cached["redacted"])
+        restored = ff.normalize_source(cached)
+        self.assertTrue(restored["redacted"])
+        self.assertEqual(restored["id"], "b")
+
+
 class BookmarkTest(unittest.TestCase):
     def test_entry_url(self):
         self.assertEqual(ff.hatena_entry_url("https://example.com/a?b=1"), "https://b.hatena.ne.jp/entry/s/example.com/a?b=1")
