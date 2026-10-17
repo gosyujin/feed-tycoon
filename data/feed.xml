@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T09:32:30.607464+09:00</updated>
+  <updated>2026-10-17T10:00:15.812514+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log</title>
+    <id>https://blog.naoshihoshi.com/entry/2023/02/17/120000</id>
+    <link href="https://blog.naoshihoshi.com/entry/2023/02/17/120000" />
+    <updated>2026-10-17T06:13:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反...</summary>
+  </entry>
+  <entry>
+    <title>How the Claude Code team does code review / claude.dev Blog</title>
+    <id>https://claude.dev/blog/solving-code-review-at-anthropic/</id>
+    <link href="https://claude.dev/blog/solving-code-review-at-anthropic/" />
+    <updated>2026-10-16T21:24:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catch…</summary>
+  </entry>
   <entry>
     <title>さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title>
     <id>https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</id>
@@ -55,20 +71,20 @@
     <summary>なんか、近頃 (2026年 9月下旬) いろいろな組織からいろんなものが漏れている、ということで、ちょい身の回りのサーバ類のセキュリティ強化してみました。 たぶんきょうび、あまり参考になるひとはいないと思うんだけど (誤自宅サーバとかオンプレミス実機でサーバとか、UNIX shellでお仕事ってスタイルすら)、自分メモです。「こんな良いものがあるよ」「ここはヤバい」とかあったら教えてください。 !…</summary>
   </entry>
   <entry>
+    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
+    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
+    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
+    <updated>2026-10-17T01:35:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with ...</summary>
+  </entry>
+  <entry>
     <title>MetaRoCE を読んで containerlab で動かしてみた</title>
     <id>https://zenn.dev/nanakanok/articles/b345cea4338851</id>
     <link href="https://zenn.dev/nanakanok/articles/b345cea4338851" />
     <updated>2026-10-17T00:21:30+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! MetaRoCE の仕様 v1.0 は 2026 年 10 月に公開されたばかりです。この記事は、仕様と参照実装を読んだうえで、ソフトウェア実装（libsoftmetaroce）を containerlab 上で動かし、プロトコルの仕組みがどう振る舞うかを確かめた個人の検証記録です。ラインレートでの性能評価ではありません。仕様の解釈には誤りが含まれる可能性があります。正確な記述は必ず原典の仕様…</summary>
-  </entry>
-  <entry>
-    <title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title>
-    <id>https://zenn.dev/nkzn/articles/my-first-void</id>
-    <link href="https://zenn.dev/nkzn/articles/my-first-void" />
-    <updated>2026-10-16T23:10:37+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void…</summary>
   </entry>
   <entry>
     <title>LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-16T09:03:12+09:00</updated>
     <category term="はてブ IT" />
     <summary>iOS版「トビラフォンモバイル」で特殊詐欺対策強化、詐欺疑いのある国際電話を“番号帯”で着信拒否</summary>
-  </entry>
-  <entry>
-    <title>メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2148592.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2148592.html" />
-    <updated>2026-10-16T07:20:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>メモリ8GBでもWindowsがキビキビ動作！この秋の「Windows 11」は改善が盛りだくさん／マイクロソフトが改善点を解説、検索、スマホ連携、フォト、ゲーミング、ペン・触覚対応、アクセシビリティまで</summary>
-  </entry>
-  <entry>
-    <title>Tesla、新型「Roadster」発表 SpaceX技術で“飛べる”モデルも 日本でも予約受付中</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/16/2000002323/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/16/2000002323/" />
-    <updated>2026-10-16T11:55:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Teslaは10月15日（現地時間）、次世代EVスポーツカー「Roadster」を発表した。米テキサス州マクレガーにある米SpaceXの試験施設からイベントをライブ配信した。イーロン・マスクCEOは2028年の生産開始を目指すと説明した。価格は明らかにしていないが、日本でも公式サイトで予約を受け付けており、予約金合計は682万円...</summary>
   </entry>
 </feed>

@@ -1,5 +1,39 @@
 [
   {
+    "title": "InstagramグラフAPIのプラットフォーム利用規約違反対応をしました - production.log",
+    "url": "https://blog.naoshihoshi.com/entry/2023/02/17/120000",
+    "domain": "blog.naoshihoshi.com",
+    "description": "概要 SnapmartアプリではInstagramグラフAPIを使用しているのですが、8月下旬にMeta社より「プラットフォーム違反しているからAPI利用停止するね」とお達しがありました。*1 Instagram連携不具合解消のお知らせ | Snapmart（スナップマート）公式ブログ この記事では、InstagramグラフAPIのプラットフォーム利用規約違反...",
+    "publishedAt": "2026-10-17T06:13:31+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-17T10:00:15.812514+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.naoshihoshi.com/entry/2023/02/17/120000",
+    "bookmarkCount": 7
+  },
+  {
+    "title": "How the Claude Code team does code review / claude.dev Blog",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "domain": "claude.dev",
+    "description": "We've said before that Claude writes about 90 percent of Claude Code's own code. So how do we review code at the volume we produce it? Does anyone read code anymore? And if something breaks, who catch…",
+    "publishedAt": "2026-10-16T21:24:30+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-17T10:00:15.812514+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/claude.dev/blog/solving-code-review-at-anthropic/",
+    "bookmarkCount": 16
+  },
+  {
     "title": "さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
     "url": "https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/",
     "domain": "cloud.sakura.ad.jp",
@@ -12,9 +46,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T09:30:14.308694+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/",
-    "bookmarkCount": 4
+    "bookmarkCount": 5
   },
   {
     "title": "さくらのVPSにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について",
@@ -29,9 +63,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T09:30:14.308694+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/vps.sakura.ad.jp/contents/info/202610-pendingapply/",
-    "bookmarkCount": 5
+    "bookmarkCount": 7
   },
   {
     "title": "「Firefox」ならすぐに要約できて、拡張機能が使えて、プライバシーも守れる [てっぱんアプリ！]",
@@ -46,7 +80,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T09:30:14.308694+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/k-tai.watch.impress.co.jp/docs/column/teppan/2148465.html",
     "bookmarkCount": 6
   },
@@ -63,7 +97,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T09:00:13.030978+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/nvd.nist.gov/vuln/detail/cve-2026-99999",
     "bookmarkCount": 6
   },
@@ -80,9 +114,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T07:07:16.768601+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261016de60239",
-    "bookmarkCount": 18
+    "bookmarkCount": 20
   },
   {
     "title": "FreeBSD/Ubuntu サーバのセキュリティ強化",
@@ -102,6 +136,23 @@
     "bookmarkCount": 0
   },
   {
+    "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
+    "url": "https://zenn.dev/nkzn/articles/my-first-void",
+    "domain": "zenn.dev",
+    "description": "筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with ...",
+    "publishedAt": "2026-10-17T01:35:53+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-10-17T07:00:17.898841+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nkzn/articles/my-first-void",
+    "bookmarkCount": 8
+  },
+  {
     "title": "MetaRoCE を読んで containerlab で動かしてみた",
     "url": "https://zenn.dev/nanakanok/articles/b345cea4338851",
     "domain": "zenn.dev",
@@ -117,23 +168,6 @@
     "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nanakanok/articles/b345cea4338851",
     "bookmarkCount": 0
-  },
-  {
-    "title": "ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する",
-    "url": "https://zenn.dev/nkzn/articles/my-first-void",
-    "domain": "zenn.dev",
-    "description": "筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始めたものの、完成しないまま止まっていました。 そこへ2026年10月15日、Cloudflareのブログに「Deploy with Void…",
-    "publishedAt": "2026-10-16T23:10:37+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-10-17T07:00:17.898841+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nkzn/articles/my-first-void",
-    "bookmarkCount": 2
   },
   {
     "title": "LLMにとって書きやすい構文とは何か：`end` と `end func foo` を1,000回以上比べてみた",
@@ -165,9 +199,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T06:30:13.854216+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.4gamer.net/games/050/G105051/20261015021/",
-    "bookmarkCount": 23
+    "bookmarkCount": 24
   },
   {
     "title": "Kaigi on Rails 2026のDay1に参加しました",
@@ -233,9 +267,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T05:30:14.414534+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/research.google/blog/analyzing-technical-documents-with-deep-review/",
-    "bookmarkCount": 17
+    "bookmarkCount": 18
   },
   {
     "title": "CloudWatchだけで「平日8:00～20:00」のEC2死活監視を実現してみた",
@@ -318,7 +352,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T03:30:12.609590+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/k-tai.watch.impress.co.jp/docs/news/2148880.html",
     "bookmarkCount": 27
   },
@@ -335,9 +369,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T02:00:12.531568+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/note.com/moloco_japan/n/nacafc9a89df2",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "AIエージェントの危険な操作を別のAIが検出してブロックする「Armor」をOpenRouterがリリース",
@@ -352,9 +386,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T02:00:12.531568+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261016-openrouter-armor/",
-    "bookmarkCount": 14
+    "bookmarkCount": 15
   },
   {
     "title": "メモリ8GBのPCを救えるか。Windows 11、応答性が最大20%向上",
@@ -369,9 +403,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T01:30:14.637217+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2148743.html",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "Linux カーネルのネットワーク機能におけるページキャッシュの上書きが可能となるデータ検証不備の脆弱性（Scan Tech Report） | ScanNetSecurity",
@@ -386,7 +420,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T01:00:13.549959+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/scan.netsecurity.ne.jp/article/2026/10/16/56483.html",
     "bookmarkCount": 13
   },
@@ -403,9 +437,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T00:30:14.235086+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.seko-law.com/entry/reort",
-    "bookmarkCount": 77
+    "bookmarkCount": 78
   },
   {
     "title": "コミックシーモアが不正アクセス確認 会員情報が漏えい | NHKニュース",
@@ -420,7 +454,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-17T00:30:14.235086+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261016de60740",
     "bookmarkCount": 15
   },
@@ -454,7 +488,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T23:30:11.704494+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/column/ubiq/2148969.html",
     "bookmarkCount": 19
   },
@@ -471,9 +505,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T23:30:11.704494+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/info.snapmart.jp/notice-20261016/",
-    "bookmarkCount": 17
+    "bookmarkCount": 18
   },
   {
     "title": "徳丸浩氏に聞く、タイムズカー事案から考えるユーザーデータ管理 保管場所と漏えいリスクの移転・回避、消去の判断体制",
@@ -488,9 +522,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T23:30:11.704494+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/unitis.jp/articles/24665/",
-    "bookmarkCount": 120
+    "bookmarkCount": 122
   },
   {
     "title": "Claude Code 入門",
@@ -522,9 +556,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T23:00:15.244915+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261016-meta-scraping/",
-    "bookmarkCount": 21
+    "bookmarkCount": 22
   },
   {
     "title": "HTTP 402は29年「予約済み」のまま — x402をNext.jsで動かす",
@@ -641,9 +675,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T22:00:16.917758+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/estore.jp/press/20261016/",
-    "bookmarkCount": 33
+    "bookmarkCount": 36
   },
   {
     "title": "ECサイトシステム運営会社の情報漏えい 2335万件を確認 | NHKニュース",
@@ -658,7 +692,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T22:00:16.917758+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261016de60742",
     "bookmarkCount": 30
   },
@@ -709,9 +743,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T22:00:16.917758+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/babarot/articles/claude-code-session-recall",
-    "bookmarkCount": 33
+    "bookmarkCount": 34
   },
   {
     "title": "亡くなった母親が残した古い写真を読み取るためAIでフィルムスキャナー用のドライバーを自作",
@@ -745,7 +779,7 @@
     "firstSeenAt": "2026-10-16T21:30:14.917433+09:00",
     "lastSeenAt": "2026-10-16T21:30:14.917433+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261016-ai-trolley-problem/",
-    "bookmarkCount": 19
+    "bookmarkCount": 20
   },
   {
     "title": "タイムズカー、退会後も7年間保管していた免許証画像を全削除へ 約660万アカウント分の漏えい受け",
@@ -760,9 +794,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T21:00:16.345300+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2610/16/2000002346/",
-    "bookmarkCount": 147
+    "bookmarkCount": 151
   },
   {
     "title": "IPAが「不正アクセス特別相談窓口」設置、不正アクセス被害やその可能性を相談できる",
@@ -813,7 +847,7 @@
     "firstSeenAt": "2026-10-16T21:00:16.345300+09:00",
     "lastSeenAt": "2026-10-16T23:00:15.244915+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.watch.impress.co.jp/docs/news/2148757.html",
-    "bookmarkCount": 12
+    "bookmarkCount": 13
   },
   {
     "title": "論文の矛盾を見つけるAI「Deep Review」、Googleが公開 週2回まで無料",
@@ -828,7 +862,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T21:00:16.345300+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35253606/",
     "bookmarkCount": 26
   },
@@ -879,7 +913,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T20:00:15.229026+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.sakura.ad.jp/corporate/information/announcements/2026/10/16/1968226051/",
     "bookmarkCount": 164
   },
@@ -896,9 +930,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T19:30:15.133739+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261016de60556",
-    "bookmarkCount": 229
+    "bookmarkCount": 232
   },
   {
     "title": "日経新聞社、クラウドサービスへの不正アクセスで約183万件の個人情報漏えい",
@@ -998,9 +1032,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-10-16T18:00:14.670422+09:00",
-    "lastSeenAt": "2026-10-17T09:32:30.607464+09:00",
+    "lastSeenAt": "2026-10-17T10:00:15.812514+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2026/10/make-x86-os-foreword",
-    "bookmarkCount": 85
+    "bookmarkCount": 87
   },
   {
     "title": "AgentCore InstancesでGPU版Strands Decider 2Bを動かそうとしたら失敗した話",
@@ -1357,7 +1391,7 @@
     "firstSeenAt": "2026-10-16T15:30:14.347545+09:00",
     "lastSeenAt": "2026-10-17T07:07:16.768601+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261016de60395",
-    "bookmarkCount": 145
+    "bookmarkCount": 146
   },
   {
     "title": "『note組大きくリードしてます。はてな組も頑張ってください』 - orangestar2",
@@ -1901,7 +1935,7 @@
     "firstSeenAt": "2026-10-16T11:30:13.029226+09:00",
     "lastSeenAt": "2026-10-16T13:30:14.934066+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC15CEQ0V11C26A0000000/",
-    "bookmarkCount": 15
+    "bookmarkCount": 16
   },
   {
     "title": "MySQL の Functional Index で状態に応じた一意制約をかける - inSmartBank",
@@ -2429,57 +2463,6 @@
     "lastSeenAt": "2026-10-16T14:30:13.657872+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/SakiFukutani/items/fb38279ae527aef8690c?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
-  },
-  {
-    "title": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ",
-    "url": "https://pc.watch.impress.co.jp/docs/news/2148163.html",
-    "domain": "pc.watch.impress.co.jp",
-    "description": "100万円でも即売り切れ。NVIDIA「RTX Spark」に触れて分かった、可能性と難しさ",
-    "publishedAt": "2026-10-15T21:58:22+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-16T02:30:13.635714+09:00",
-    "lastSeenAt": "2026-10-16T11:00:14.389403+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2148163.html",
-    "bookmarkCount": 32
-  },
-  {
-    "title": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
-    "url": "https://forest.watch.impress.co.jp/docs/news/2148495.html",
-    "domain": "forest.watch.impress.co.jp",
-    "description": "データ転送ライブラリ「curl」に特定の条件でリモートからコードを実行される脆弱性／深刻度Highを含む24件の脆弱性を修正したv8.23.0が公開",
-    "publishedAt": "2026-10-15T22:22:05+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-16T02:00:12.627316+09:00",
-    "lastSeenAt": "2026-10-16T15:00:13.288966+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2148495.html",
-    "bookmarkCount": 112
-  },
-  {
-    "title": "無料でDiscordの代替を目指すエンドツーエンド暗号化対応＆セルフホスティング可能なオープンソースのチャットサービス「Strafe」",
-    "url": "https://gigazine.net/news/20261015-strafe/",
-    "domain": "gigazine.net",
-    "description": "ゲーマーの間で親しまれている通話チャットアプリのDiscordは運営方針の転換やセキュリティ問題が重なり、不満を募らせたコミュニティやユーザーが他のツールへ移転する動きが出ています。オープンソースで開発される「Strafe」もDiscordの代替を目指すチャットサービスで、ユーザーが独自のサーバーを運用できるセルフ...",
-    "publishedAt": "2026-10-15T20:21:22+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-10-16T02:00:12.627316+09:00",
-    "lastSeenAt": "2026-10-16T07:00:13.900700+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261015-strafe/",
-    "bookmarkCount": 14
   },
   {
     "title": "Windows上でAIエージェントの実行を安全に隔離する「Microsoft Execution Containers」（MXC）正式リリース。ファイルやネットワークなどの境界を柔軟にカスタマイズ",
