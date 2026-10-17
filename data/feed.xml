@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T05:00:17.338945+09:00</updated>
+  <updated>2026-10-18T05:30:12.321062+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHubに競プロライブラリを保管したい！を叶える備忘録</title>
+    <id>https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Un_titled/items/a8620f54cf953ad67365?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T23:43:13+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Hello, World Un_titledです。その辺の高校生をしています AtCoderのルール変更を機にライブラリをようやくGitHubで管理する機運が高まってきたので、競プロ純粋培養として知らなかったことを備忘録として残しておきます。 主に リポジトリで気になっ...</summary>
+  </entry>
+  <entry>
+    <title>SyntaxError: The requested module 'node:util' does not provide an export named 'styleText'を解決した手順</title>
+    <id>https://qiita.com/ryu0947/items/a9bcd17b193ba1e3f875?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu0947/items/a9bcd17b193ba1e3f875?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T18:09:39+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに React+Vite+Supabaseで作ったアプリをFirebase Hostingデプロイしました。 CI/CDの学習のためにGitHub Actionsでgit pushされたらビルドとデプロイを自動化するワークフローを作成しました。 しかしNode.js...</summary>
+  </entry>
+  <entry>
+    <title>[MISSING_EXPORT] "forwardRef" is not exported by "node_modules/@chakra-ui/react/dist/esm/index.js". ╭─[ node_modules/@chakra-ui/icons/dist/esm/Spinner.mjs:2:10 ]</title>
+    <id>https://qiita.com/J-T_ky2g/items/02080316aaa1ab8f7d91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/02080316aaa1ab8f7d91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T17:12:47+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに chakra-uiのIconButtonでハンバーガーメニューを適用できなかった 問題 これでiconというプロパティがないとも言われるし、開発サーバー起動時に表題のエラー import { HambergerMenu } from "@chakra-...</summary>
+  </entry>
+  <entry>
+    <title>Pythonのargparseを触ってみた</title>
+    <id>https://qiita.com/Hiroki1928/items/6e1b3382ae27ec02c203?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Hiroki1928/items/6e1b3382ae27ec02c203?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T16:10:06+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Pythonのargparseを使う機会があったので、触ってみました。 実行環境 Anacondaで作成したPython 3.13.16で検証しています。 シナリオ1 main関数の処理はprint("main関数の処理")の実行有無で判断しました。 ヘルプの文章...</summary>
+  </entry>
+  <entry>
+    <title>Next.js 14→15 のfetch キャッシュ破壊的変更と最小移行チェックリスト</title>
+    <id>https://qiita.com/Cosoado/items/e5156010b5bd14b8effd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Cosoado/items/e5156010b5bd14b8effd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T12:22:10+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Cosoado Lab Blog 同時掲載予定: https://cosoado-lab.com/blog/nextjs15-fetch-cache-migration/ v14 → v15 にアップグレードした翌朝、Vercel のダッシュボードで Serverles...</summary>
+  </entry>
+  <entry>
+    <title>DDDにおけるコアドメインについて</title>
+    <id>https://qiita.com/o68606007/items/52aefff68f2eefa8e6f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/o68606007/items/52aefff68f2eefa8e6f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T11:21:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに ドメイン駆動設計についての記事です。 今回の記事はコアドメインやサブドメインなどについての知識についてです。 背景・目的 DDDが誕生した経緯は、業務が複雑で変更に耐えやすいシステム設計が必要だったからでした。 しかし、ここで問題が起こります。 事業をしている...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫</title>
+    <id>https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T10:53:03+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに マークダウンのメモアプリ Sirusita を、Claude Code にほぼすべて書いてもらって作りました。最後は Microsoft Store で公開しています。 技術スタック: Wails v2（Go）+ Svelte 5 + Monaco Edito...</summary>
+  </entry>
+  <entry>
+    <title>chakra-uiの ` ` コンポーネントに親の文字色が適用されない</title>
+    <id>https://qiita.com/J-T_ky2g/items/02ef9494f0092cefaa99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/02ef9494f0092cefaa99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-16T20:55:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに chakra-uiのスタイリング 問題 はcss-1nqikryにcolorが適用されてしまい、親要素の文字色が反映されなかった。に変えると意図どおり親要素の文字色が反映される</summary>
+  </entry>
+  <entry>
+    <title>【すごいHaskellたのしく学ぼう!】を読んだ</title>
+    <id>https://qiita.com/sigma_devsecops/items/1d1190050012a058f1fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/sigma_devsecops/items/1d1190050012a058f1fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-16T17:01:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>では素晴らしい提案をしよう お前も、Haskellerにならないか? 杏寿郎、なぜお前が至高の領域に踏み入れないのか教えてやろう 人間だからだ、(コードが)老いるからだ、死ぬからだ Haskellerになろう、杏寿郎 そうすれば100年でも200年でもコードを書き続けられ...</summary>
+  </entry>
+  <entry>
+    <title>react-routerでのネストされたルーティング定義がうまくいかない</title>
+    <id>https://qiita.com/J-T_ky2g/items/78e0d227261839c6e611?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/78e0d227261839c6e611?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-16T00:15:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに react-routerの話 問題 /home/*なpathで全て が表示される import { type FC, memo } from "react"; import { Route, Routes } from "react-...</summary>
+  </entry>
   <entry>
     <title>03:00-03:30 888-889 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/888-889</id>
@@ -725,85 +805,5 @@
     <updated>2026-10-17T10:15:32+09:00</updated>
     <category term="はてブ IT" />
     <summary>【10月17日 AFP】北朝鮮は、目標の探知と誘導に人工知能（AI）を活用した新型精密誘導魚雷システムの試射を行った。国営の朝鮮中央通信（KCNA）が17日に報じた。 KCNAによると、「超高速」の魚雷システム「ザム2.0」の水中試射は15日に実施され、兵器の「技術的な改良が成功したことを確認する」目的で行われた。 北朝鮮...</summary>
-  </entry>
-  <entry>
-    <title>不正アクセス対策特設サイト | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
-    <id>https://www.ipa.go.jp/security/support/incident-support.html</id>
-    <link href="https://www.ipa.go.jp/security/support/incident-support.html" />
-    <updated>2026-10-16T15:24:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>対応内容 インシデント発生時の初動対応に関する相談 起きている事象をヒアリングし、被害発生の可能性について助言します。 被害が発生している場合、有効な応急処置案について助言します。 インシデント対応を行う専門業者一覧の紹介をします。 他に必要な相談・報告先等の紹介をします。 企業組織向けサイバーセキュ...</summary>
-  </entry>
-  <entry>
-    <title>JPEG XL vs AVIF for web use-cases</title>
-    <id>https://jakearchibald.com/2026/jpeg-xl-vs-avif/</id>
-    <link href="https://jakearchibald.com/2026/jpeg-xl-vs-avif/" />
-    <updated>2026-10-15T23:22:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JPEG XL has now landed in all major browsers, so I figured I'd take a closer look at what it's good/bad at compared to other formats. Conclusions I'll go into full detail, with examples and benchmarks…</summary>
-  </entry>
-  <entry>
-    <title>こんにちは，UUID 芸人です - ハーフダチョウ研究会</title>
-    <id>https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300</id>
-    <link href="https://mimifuwacc.hatenablog.com/entry/2026/10/17/114300" />
-    <updated>2026-10-17T09:36:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは，都内で UUID 芸人をやっている id:mimifuwacc です． UUIDv4の衝突が話題になっているので，いいねした人にUUIDv4を配ろうと思います— mimifuwacc (@mimifuwacc) March 23, 2026 ついに UUID を配り終えたので，良いタイミングということで UUID の話をします． そもそも UUID とは まず，UUID について軽く.…</summary>
-  </entry>
-  <entry>
-    <title>Googleが「魔法状態の培養」を量子プロセッサ「Willow」で実証、量子ビットのエラーを約40分の1に減らすことに成功</title>
-    <id>https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/</id>
-    <link href="https://gigazine.net/news/20261016-google-quantum-ai-magic-state-cultivation/" />
-    <updated>2026-10-16T20:55:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleの量子コンピューター研究チームであるGoogle Quantum AIが、量子コンピューターの実用化に向けた重要な技術「魔法状態の培養(Magic State Cultivation)」を実証したと発表しました。Googleの量子プロセッサ「Willow」を用いた実験では、従来の方法と比べてエラーを約40分の1に減らすことに成功したとのことです。...</summary>
-  </entry>
-  <entry>
-    <title>Neural Networks Are Already Clean</title>
-    <id>https://already-clean.goodfire.com/</id>
-    <link href="https://already-clean.goodfire.com/" />
-    <updated>2026-10-16T08:33:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>The cause of polysemanticity in early model organisms wasn’t superposition, but several ordinary, mostly fixable issues. We can now understand most neurons in models up to trillions of parameters, and…</summary>
-  </entry>
-  <entry>
-    <title>Claudeが実装したE2Eテストをレビューするツールを自作してみた - エムスリーテックブログ</title>
-    <id>https://www.m3tech.blog/entry/2026/10/14/133340</id>
-    <link href="https://www.m3tech.blog/entry/2026/10/14/133340" />
-    <updated>2026-10-14T16:05:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。エムスリーのQAチームの須賀です。 私が担当するチームでは、開発経験のないQAエンジニアの方もClaudeを用いてPlaywrightのE2Eテストを実装しています。 Claudeを用いることでE2Eテストの実装自体は簡単になりましたが、Claudeが実装したコードは「テスト実行は成功するがテスト手順や操作対象が誤っている...</summary>
-  </entry>
-  <entry>
-    <title>整骨院で施術室の一番奥のベッドに移動させられ、肩の治療なのに両足に器具をはめられてGoogleレビューを強要、その後#9110に相談→警察署→刑事さんから警告してもらった</title>
-    <id>https://togetter.com/li/2759213</id>
-    <link href="https://togetter.com/li/2759213" />
-    <updated>2026-10-17T11:58:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>🫧稲穂🫧 @honami_warm しょ〜もないんだけど、通ってた整骨院でGoogleレビューを動けない＆逃げられない状態まで作って強要されたので、9110相談→警察署→刑事さんから警告してもらってきた。 50代男性整体師に、施術室の1番奥のベッドに移動するように指示されて、肩の治療なのに両足に器具はめられて寝かされて、 2026-1...</summary>
-  </entry>
-  <entry>
-    <title>「iPhone Duo」と「iPhone 18 Pro」の冷却システムについてAppleのエンジニアが明かす</title>
-    <id>https://gigazine.net/news/20261016-iphone-cooling-system/</id>
-    <link href="https://gigazine.net/news/20261016-iphone-cooling-system/" />
-    <updated>2026-10-16T20:12:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleは初の折りたたみ型iPhone「iPhone Duo」や「iPhone 18 Pro／Pro Max」を2026年10月23日に発売します。スマートフォンの限界を押し広げる性能を発揮しつつ発熱を抑えるための新しい冷却システムについて、Appleのエンジニアがインタビューで仕組みを説明しています。 Apple Engineers Explain iPhone 18 Pro and Du..…</summary>
-  </entry>
-  <entry>
-    <title>漢字の上にふりがなを表示する日本語フォント「Furifont」オープンライセンスで公開 | gihyo.jp</title>
-    <id>https://gihyo.jp/article/2026/10/furifont</id>
-    <link href="https://gihyo.jp/article/2026/10/furifont" />
-    <updated>2026-10-16T20:10:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>OSS開発者のAnthony Fu氏は2026年10月15日、漢字の上にふりがな（かな文字またはローマ字）を表示するフォント「Furifont」を製作、オープンなライセンス[1]で公開した。日本語学習などに役立てたいとしている。 Furifont⁠：ふりがなを表示するフォント https://furifont.antfu.me/ Hey Japanese learners! I built a f…</summary>
-  </entry>
-  <entry>
-    <title>フィジカルAIの社会実装に向けて -AIエージェントからAgentic Roboticsへ-</title>
-    <id>https://speakerdeck.com/hf149/fijikaru-ai-no-shakai-jissou-ni-muke-te-ai-ejento-kara-agentic-robotics-he</id>
-    <link href="https://speakerdeck.com/hf149/fijikaru-ai-no-shakai-jissou-ni-muke-te-ai-ejento-kara-agentic-robotics-he" />
-    <updated>2026-10-16T14:37:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1. AIの現在地 - 生成AIからエージェントAIへ 2. フィジカルAIの最前線 3. MPRGでの取り組み 4. フィジカルAIの今後 -Agentic Robotics-</summary>
   </entry>
 </feed>
