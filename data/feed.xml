@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-17T15:30:14.048053+09:00</updated>
+  <updated>2026-10-17T16:00:12.304119+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>E2E テストのフィードバックループを小さくするためのプラクティス | フューチャー技術ブログ</title>
+    <id>https://future-architect.github.io/articles/20261016a/</id>
+    <link href="https://future-architect.github.io/articles/20261016a/" />
+    <updated>2026-10-17T11:35:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに従来より E2E テストはテストピラミッドの頂点に置かれ、テストケース数は必要最低限にする（ユニットテストやインテグレーションテストよりも少なくする）というのがセオリーでした。しかしながら昨今、コーディングエージェントの進化により、これまでのユニットテスト中心のテスト戦略から E2E テスト中心の...</summary>
+  </entry>
+  <entry>
+    <title>Event is what happens</title>
+    <id>https://speakerdeck.com/moro/event-is-what-happens</id>
+    <link href="https://speakerdeck.com/moro/event-is-what-happens" />
+    <updated>2026-10-16T18:12:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Kaigi on Rails 2026でのトークです</summary>
+  </entry>
   <entry>
     <title>15:00-15:30 785-790 (6件) &gt;&gt;784 対戦カードくらい見ろよ 学校どこでもエニウェアマ…</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/785-790</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-17T08:45:01+09:00</updated>
     <category term="新日" />
     <summary>703 警備員[Lv.34] (ﾜｯﾁｮｲW 8762-OIE4) 2026/10/17(土) 08:45:01.84 ID:Xcm2AKF30 &gt;&gt;701 で、オープンフィンガーグローブつけてファイトスタイルも変えて 「新日本のみなさん、目を覚ましてください！」と叫ぶのか</summary>
-  </entry>
-  <entry>
-    <title>702: &gt;&gt;660 仕込みだって本人が説明してる動画の事</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/702</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/702" />
-    <updated>2026-10-17T08:41:15+09:00</updated>
-    <category term="新日" />
-    <summary>702 お前名無しだろ (ﾜｯﾁｮｲ dfb2-0U5p) 2026/10/17(土) 08:41:15.06 ID:6xotC6Dq0 &gt;&gt;660 仕込みだって本人が説明してる動画の事</summary>
-  </entry>
-  <entry>
-    <title>701: ウルフが小川みたく肉体改造して黒パンで出てきたら相当カッコいいと思う</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/701</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/701" />
-    <updated>2026-10-17T08:38:40+09:00</updated>
-    <category term="新日" />
-    <summary>701 お前名無しだろ (ﾜｯﾁｮｲW 0774-OIy0) 2026/10/17(土) 08:38:40.00 ID:e4VAGGr/0 ウルフが小川みたく肉体改造して黒パンで出てきたら相当カッコいいと思う</summary>
   </entry>
 </feed>
