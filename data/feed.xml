@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T20:30:12.505160+09:00</updated>
+  <updated>2026-10-18T20:45:57.590495+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>20:00-20:30 68 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/68</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/68" />
+    <updated>2026-10-18T20:08:06+09:00</updated>
+    <category term="新日" />
+    <summary>▶68 タイガージェットシンがガチで観客流血させるとか８０歳過ぎて元気だな</summary>
+  </entry>
+  <entry>
+    <title>オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering</title>
+    <id>https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/</id>
+    <link href="https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/" />
+    <updated>2026-10-17T20:42:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>メンバーの立ち上げもAI Nativeに チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを...</summary>
+  </entry>
   <entry>
     <title>19:30-20:00 62-67 (6件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/62-67</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-17T12:22:10+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Cosoado Lab Blog 同時掲載予定: https://cosoado-lab.com/blog/nextjs15-fetch-cache-migration/ v14 → v15 にアップグレードした翌朝、Vercel のダッシュボードで Serverles...</summary>
-  </entry>
-  <entry>
-    <title>DDDにおけるコアドメインについて</title>
-    <id>https://qiita.com/o68606007/items/52aefff68f2eefa8e6f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/o68606007/items/52aefff68f2eefa8e6f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T11:21:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに ドメイン駆動設計についての記事です。 今回の記事はコアドメインやサブドメインなどについての知識についてです。 背景・目的 DDDが誕生した経緯は、業務が複雑で変更に耐えやすいシステム設計が必要だったからでした。 しかし、ここで問題が起こります。 事業をしている...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫</title>
-    <id>https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T10:53:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに マークダウンのメモアプリ Sirusita を、Claude Code にほぼすべて書いてもらって作りました。最後は Microsoft Store で公開しています。 技術スタック: Wails v2（Go）+ Svelte 5 + Monaco Edito...</summary>
   </entry>
 </feed>
