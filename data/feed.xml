@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-19T07:00:12.703555+09:00</updated>
+  <updated>2026-10-19T07:30:13.621638+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>07:00-07:30 102-103 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/102-103</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/102-103" />
+    <updated>2026-10-19T07:19:57+09:00</updated>
+    <category term="新日" />
+    <summary>▶102 &gt;&gt;101 負けるにしても良い試合だったらまだ少しは救いがあっただろうに ▶103 &gt;&gt;31 貸したから貸してくれって滅茶苦茶対等な関係じゃないのか 一方的に新日側だけが選手を借りれる関係じゃないと納得出来ないってよくわからんわ</summary>
+  </entry>
   <entry>
     <title>06:00-06:30 101 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/101</id>
@@ -410,9 +418,9 @@
     <title>技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
     <id>https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</id>
     <link href="https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm" />
-    <updated>2026-10-16T11:53:28+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じました。1冊数千円すると、気になっても買うまでには至らない本がけっこうあります。そういう本も気軽に開け…</summary>
+    <updated>2026-10-18T10:26:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...</summary>
   </entry>
   <entry>
     <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-18T08:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは、Fusicの大宮です。 問い合わせメールや通話記録を外部に渡したり、生成AIで分析したりする前には、個人情報を消したい（マスキングしたい）、という場面があるかと思います。 ただ、日本語の文章には、全角の数字や和暦、話し言葉など、英語にはない書き方が多くあります。 2026年10月、クラウドのサービスとオープンソースのツールで、日本語の個人情報をどこまでマスキングできるのか気に…</summary>
-  </entry>
-  <entry>
-    <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
-    <id>https://zenn.dev/geekplus/articles/a615dfe41557d8</id>
-    <link href="https://zenn.dev/geekplus/articles/a615dfe41557d8" />
-    <updated>2026-10-17T23:08:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。 調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。 このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。 この記事では、無駄に増殖してしまったデータとの戦...</summary>
   </entry>
 </feed>
