@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T16:30:14.741168+09:00</updated>
+  <updated>2026-10-18T17:00:12.444889+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Example Domain</title>
+    <id>http://example.jxck.io/</id>
+    <link href="http://example.jxck.io/" />
+    <updated>2026-10-18T14:09:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>This domain is for use in documentation examples without needing permission. Archived by Jxck. Learn more</summary>
+  </entry>
   <entry>
     <title>16:00-16:30 17-23 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/17-23</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-16T19:03:52+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに Claude Codeで開発していると、コードの多くはAIに任せられます。 ところがCI/CDまわりは、コードも設定も、AIに渡せる形になっていませんでした。 Jenkinsのジョブ設定はサーバー上のGUIと独自スクリプトの中にあり、リポジトリにあるのはJenkinsから呼ばれるシェルスクリプトだけで、Jenkinsfileもありません。 ジョブの流れや設定の全体はAIから見えず、設定ま…</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAが画像・動画・文章をまとめて理解するオープンウェイトAI「Nemotron 3.5 Super VL」を公開、処理コストを40分の1に削減する事例も</title>
-    <id>https://gigazine.net/news/20261016-nemotron-3-5-super-vl/</id>
-    <link href="https://gigazine.net/news/20261016-nemotron-3-5-super-vl/" />
-    <updated>2026-10-16T13:12:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIAが2026年10月15日に文章や画像、動画をまとめて理解できるオープンウェイトAIモデル「NVIDIA Nemotron 3.5 Super VL」を公開しました。複数の情報を組み合わせて作業を進めるAIエージェント向けのモデルで、同規模のオープンモデルと比較して最大5倍の処理能力を発揮するとのこと。企業の業務に合わせて調整したモ...</summary>
   </entry>
 </feed>
