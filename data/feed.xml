@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T19:30:12.757668+09:00</updated>
+  <updated>2026-10-18T20:00:11.841006+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>開発中のゲームがクラック・無断改造され、中国市場からの撤退を決めたゲーム作者の悲痛な報告にさまざまな反応が寄せられる「AIを使われているのかな…」</title>
+    <id>https://togetter.com/li/2759733</id>
+    <link href="https://togetter.com/li/2759733" />
+    <updated>2026-10-18T19:04:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Hide(AlphaNuts/WhiteCute) @AlphaNutsGames ちょっと制作が停滞します。 中国人にやられまして… ディザーターズがクラックされて、翻訳どころか中身の改造までされてしまいました。 ご丁寧にバグ取りまで。 企業さんと協議中のsteam対応でも、中国語も予定に入っていたのですが、もうこれはビジネスとして終わりました...</summary>
+  </entry>
+  <entry>
+    <title>Void でフルスタックアプリを構築して Cloudflare にデプロイする</title>
+    <id>https://azukiazusa.dev/blog/void-vite-cloudflare-deploy/</id>
+    <link href="https://azukiazusa.dev/blog/void-vite-cloudflare-deploy/" />
+    <updated>2026-10-18T17:20:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Void は VoidZero が開発した、Vite でフルスタックアプリを構築して Cloudflare にデプロイするためのツールキットです。void/db などの import から必要なリソースを推論し、void deploy コマンド 1 つでD1 データベースの作成、ビルド、マイグレーション、公開までを行います。この記事では、D1 を使ったメモアプリを...</summary>
+  </entry>
+  <entry>
+    <title>技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
+    <id>https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</id>
+    <link href="https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm" />
+    <updated>2026-10-18T10:26:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...</summary>
+  </entry>
+  <entry>
+    <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
+    <id>https://zenn.dev/aiforall/articles/8e1803396534de</id>
+    <link href="https://zenn.dev/aiforall/articles/8e1803396534de" />
+    <updated>2026-10-16T11:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAGとの違いです。 この記事では、この仕組みを論文の手法(Corpus2Skill)を参…</summary>
+  </entry>
   <entry>
     <title>19:00-19:30 55-61 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/55-61</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-16T17:01:42+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>では素晴らしい提案をしよう お前も、Haskellerにならないか? 杏寿郎、なぜお前が至高の領域に踏み入れないのか教えてやろう 人間だからだ、(コードが)老いるからだ、死ぬからだ Haskellerになろう、杏寿郎 そうすれば100年でも200年でもコードを書き続けられ...</summary>
-  </entry>
-  <entry>
-    <title>react-routerでのネストされたルーティング定義がうまくいかない</title>
-    <id>https://qiita.com/J-T_ky2g/items/78e0d227261839c6e611?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/78e0d227261839c6e611?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-16T00:15:50+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに react-routerの話 問題 /home/*なpathで全て が表示される import { type FC, memo } from "react"; import { Route, Routes } from "react-...</summary>
-  </entry>
-  <entry>
-    <title>03:00-03:30 888-889 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/888-889</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/888-889" />
-    <updated>2026-10-18T03:23:14+09:00</updated>
-    <category term="新日" />
-    <summary>▶888 &gt;&gt;868 窓際になればなるほど 「俺みたいな奴は窓際が相応しいのかもな・・」→「今の本心を配信で話す」→「スパチャや応援メッセージありがとうな！もう少し頑張ってみるよ」の無限ループが発生するがよろしいか？ ▶889 明日キングオブプロレスリングの七夜明け会見やってくれ</summary>
-  </entry>
-  <entry>
-    <title>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2149045.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2149045.html" />
-    <updated>2026-10-17T23:39:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開</summary>
-  </entry>
-  <entry>
-    <title>02:00-02:30 887 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/887</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/887" />
-    <updated>2026-10-18T02:00:29+09:00</updated>
-    <category term="新日" />
-    <summary>▶887 タイチですら明日には干されるギリギリなカスなのにババアは頭湧いてるのか？</summary>
   </entry>
 </feed>
