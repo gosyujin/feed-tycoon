@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-18T14:00:13.152464+09:00</updated>
+  <updated>2026-10-18T14:30:12.809316+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>14:00-14:30 994-1002 (9件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/994-1002</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/994-1002" />
+    <updated>2026-10-18T14:23:23+09:00</updated>
+    <category term="新日" />
+    <summary>▶994 竹下DDT両国にカードなし 広島くるか？ ▶995 翔太は髪が後退しすぎや ▶996 &gt;&gt;975 NEVER系なの？ ▶997 ホイーーーーッッッッ！！！！ ▶998 &gt;&gt;994 AEWじゃね？ ▶999 答えはこうだ！！！ ▶1000 質問いいですか？ ▶1001 このスレッドは１０００を超えました。 新しいスレッドを立ててください。 life time: 4日 6時間 55分 57秒…</summary>
+  </entry>
+  <entry>
+    <title>ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した</title>
+    <id>https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</id>
+    <link href="https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen" />
+    <updated>2026-10-18T11:56:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude CodeのデスクトップアプリにはiOSシミュレーターを操作するツールがある。個人で作っているiOS向けのMastodonクライアントでは、このツールで実装のたびに画面を確かめさせていた。 しかし、Claudeのコンテキストの大半がスクリーンショットで埋まっているような気がしていた。 そこで、過去のセッションのログ99件を集計して非効率な操作を洗い出し、画面を画像ではなく文字で読む道具…</summary>
+  </entry>
+  <entry>
+    <title>AFM（Apple Foundation Models）を活用したテキストアドベンチャーゲームの開発【第2回】自由入力を台本の選択肢につなぐ</title>
+    <id>https://zenn.dev/gritchbreed/articles/ced633f449178f</id>
+    <link href="https://zenn.dev/gritchbreed/articles/ced633f449178f" />
+    <updated>2026-10-18T11:35:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに ※この記事は、筆者のQiitaアカウントからの転載（マルチポスト）です。 Apple Foundation Models（以下AFM）のオンデバイスモデルを使って、自由入力のテキストアドベンチャーゲームを開発しています。 第1回では、デモ「血の池の夜」と、AFMに入力の解釈・自由会話・記憶の取り出しを任せ、物語の進行は台本とルールエンジンで制御する全体設計を紹介しました。 今回は、その中…</summary>
+  </entry>
+  <entry>
+    <title>MPC（モデル予測制御）専用ソルバーの歴史 ― プラントの分単位からマイクロ秒の組込み制御まで</title>
+    <id>https://zenn.dev/takuya_fukatsu/articles/d66e570b929d19</id>
+    <link href="https://zenn.dev/takuya_fukatsu/articles/d66e570b929d19" />
+    <updated>2026-10-18T10:54:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに モデル予測制御（Model Predictive Control, MPC）は、「制御周期ごとに最適化問題を解き、得られた入力系列の最初の1ステップだけを適用する」制御方式です。したがってMPCの実用性は、ほぼそのまま 「最適化問題をどれだけ速く・確実に解けるか」 に依存します。 MPCが解く問題（線形MPCなら二次計画問題 QP、非線形MPCなら非線形計画問題 NLP）は、汎用ソルバー…</summary>
+  </entry>
+  <entry>
+    <title>PyODで時系列データの異常検知を試す</title>
+    <id>https://zenn.dev/drbobt1122/articles/blog26101701</id>
+    <link href="https://zenn.dev/drbobt1122/articles/blog26101701" />
+    <updated>2026-10-18T10:36:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>前回は、Raspberry Pi 4に保存したセンサデータを対象に、PyODのSpectral Residualで異常を検出するMCPサーバを構築しました。この話の最後に、データや目的に合わせて異常検知の手法を切り替える旨について、書きました。 そこで今回は、PyODに入っている時系列データ向けの異常検出器について、調査し、その結果の違いを確認しました。 試したのは次の7種類です。 カテゴリ 検出…</summary>
+  </entry>
+  <entry>
+    <title>日本語の個人情報を Bedrock Guardrails, SDP, Presidio でマスキングして比較する</title>
+    <id>https://zenn.dev/fusic/articles/a77ba348115364</id>
+    <link href="https://zenn.dev/fusic/articles/a77ba348115364" />
+    <updated>2026-10-18T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、Fusicの大宮です。 問い合わせメールや通話記録を外部に渡したり、生成AIで分析したりする前には、個人情報を消したい（マスキングしたい）、という場面があるかと思います。 ただ、日本語の文章には、全角の数字や和暦、話し言葉など、英語にはない書き方が多くあります。 2026年10月、クラウドのサービスとオープンソースのツールで、日本語の個人情報をどこまでマスキングできるのか気に…</summary>
+  </entry>
+  <entry>
+    <title>example.com が刷新された話 | blog.jxck.io</title>
+    <id>https://blog.jxck.io/entries/2026-10-17/example.com.html</id>
+    <link href="https://blog.jxck.io/entries/2026-10-17/example.com.html" />
+    <updated>2026-10-17T18:51:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Intro http://example.com が刷新されてしまった。 Example Domain ドキュメントや書籍、スライドやコメントなどに、サンプルとして適当な URL を書くことがあるだろう。 例えば、ネットワークでよく出てくる Alice になぞらえて alice [dot] com などと書くと、そのサイトは実在するため、開けばリクエストが飛ぶ。 bob...</summary>
+  </entry>
+  <entry>
+    <title>暇すぎると人は攻撃的になる。刺激を求めて暴力性が増す</title>
+    <id>https://karapaia.com/archives/632796.html</id>
+    <link href="https://karapaia.com/archives/632796.html" />
+    <updated>2026-10-17T10:20:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>退屈が攻撃性を高めるメカニズム 心理学における「攻撃性」とは、他者に危害を加えることを目的とした行動を指し、言葉の攻撃も含まれる。 これまでの研究で、退屈な時間は「他者に苦痛を与えて喜ぶ」というサディズムと関連していることがわかっていた。 しかし、相手の苦しむ姿を見て喜ぶわけではないのに、ただ退屈だ...</summary>
+  </entry>
+  <entry>
+    <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
+    <id>https://zenn.dev/geekplus/articles/a615dfe41557d8</id>
+    <link href="https://zenn.dev/geekplus/articles/a615dfe41557d8" />
+    <updated>2026-10-16T18:00:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。 調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。 このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。 この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。 何が起きていたのか 問題のINSERTが発生している箇所を調査したと…</summary>
+  </entry>
   <entry>
     <title>13:30-14:00 992-993 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/992-993</id>
@@ -733,77 +805,5 @@
     <updated>2026-10-17T14:48:06+09:00</updated>
     <category term="新日" />
     <summary>▶784 学校プロレスって普通に体育館でやってるだけじゃねーかよ 教室使うとか給食室で大鍋ぶつけるとかじゃないんだ</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 779-783 (5件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/779-783</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/779-783" />
-    <updated>2026-10-17T14:20:27+09:00</updated>
-    <category term="新日" />
-    <summary>▶779 &gt;&gt;763 指図すんなよクズ お前の内臓売って金作れやw ▶780 学校プロレスＰＰＶ買う人いるのか ▶781 &gt;&gt;780 知らん外人興味ないからAEWには1円も払わないけどヒップディックとエニウェアマッチと毘沙門と戦うウルフ的な何かはちょっと見たい。 ▶782 ケビンて一応2団体所属契約になってるんじゃなかったっけ AEW行く前に実は新日のアメリカ大会でフィンレーとシングルやってるんだ…</summary>
-  </entry>
-  <entry>
-    <title>13:30-14:00 760-778 (19件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/760-778</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/760-778" />
-    <updated>2026-10-17T13:59:59+09:00</updated>
-    <category term="新日" />
-    <summary>▶760 ゲイブは良いキャラしてると思うけどな ちゃんと外敵やってる 竹下やモッさんにもコレをやって欲しかったわ ▶761 ケビン・ナイトが新日にまた出たいと言ってるな ▶762 封印だろ封印してもストロング動かせば済む話だしボルチンもそろそろ1年ぐらい保持してるだろ ▶763 &gt;&gt;761 ゲイ部よりよっぽどマシだ 来年はヘビーでG1出ろよ ▶764 ケビンナイト、めちゃくちゃ格上がってるから 鷹…</summary>
-  </entry>
-  <entry>
-    <title>13:00-13:30 759 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/759</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/759" />
-    <updated>2026-10-17T13:07:47+09:00</updated>
-    <category term="新日" />
-    <summary>▶759 GLOBALをボロボロにしてるのは「壊れたから新調したけどどうせならもっとボロボロにして盛り上げよう」のICルートか「もう封印するから徹底的に破壊しよう」のUSルートか</summary>
-  </entry>
-  <entry>
-    <title>12:30-13:00 749-758 (10件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/749-758</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/749-758" />
-    <updated>2026-10-17T12:59:57+09:00</updated>
-    <category term="新日" />
-    <summary>▶749 想像 ▶750 &gt;&gt;748 ゲイブはまだしもDOUKIはマジでファンから嫌われただけだもんなw ▶751 ジョージ高野がおるで https://youtu.be/gAuJSlVJ5Wk ▶752 &gt;&gt;750 ヒールにも能力が必要 ▶753 &gt;&gt;750 海外プオタはDOUKI時代の方がマシだったと見直す人も出てきてるから ▶754 DOUKIってまだ欠場中だっけ？そんな重い怪我だったのか…</summary>
-  </entry>
-  <entry>
-    <title>画像アップロードAPIのセキュリティ対策を、実装レベルで振り返る</title>
-    <id>https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/vaon-luandv/items/a4719b247a0ec489e4c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T12:50:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>アップロードされた画像を受け取るAPIで、最低限入れておきたい入口の対策をチェックリストにしました。各項目は「何を確かめるか、どの攻撃を想定するか、コード、失敗時に返すステータス」の順で書いています。全部を入れる必要はないと思うので、気になる項目だけ拾ってもらえれば十分です...</summary>
-  </entry>
-  <entry>
-    <title>12:00-12:30 743-748 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/743-748</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/743-748" />
-    <updated>2026-10-17T12:29:41+09:00</updated>
-    <category term="新日" />
-    <summary>▶743 おいアニメオタのキモ新日ジジィ！マジックナイトやってんぞサッサとソッチ行っとけ貧乏人w ▶744 広島はモクスリー、ケニー、オスプが出る以外にメインがジュニアタッグの決勝とか豪華すぎだろ ▶745 3000人は草 ▶746 &gt;&gt;744 ゲイブ「」 ▶747 &gt;&gt;739 スターダムもセキチューに興行の冠スポンサーをやってもらいたいけん ▶748 ゲイブは外道や棚橋に「昭和みたいな全員に嫌わ…</summary>
-  </entry>
-  <entry>
-    <title>11:30-12:00 735-742 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/735-742</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/735-742" />
-    <updated>2026-10-17T11:59:52+09:00</updated>
-    <category term="新日" />
-    <summary>▶735 戦後、美空ひばりが爆発的人気だった時代に日本各地に 美空すずめ、青空ひばり…似たような名前のニセモノが続出したらしいね ネットはもちろんテレビもない時代だから、みんな「これがあの天才少女歌手か～～」 って信じた人も多かったらしい ▶736 怜於南って館と因縁できたはずだけどその後とくに何もないな ワタリの目玉として怜於南参戦あるか？ ▶737 広島はそもそも人口が3000人しかおらん ▶…</summary>
-  </entry>
-  <entry>
-    <title>非正規37%の経済設計バグ ― 労働市場の二重構造をリファクタリングする : システム設計視点の行動経済学 (42)</title>
-    <id>https://qiita.com/maskot1977/items/9467428563658ebdf404?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/9467428563658ebdf404?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T11:43:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: 「システム設計視点の行動経済学」、第42回を始めましょう。その前に、まず前回の復習として、 老後の安全網が壊れていく ― 医療・介護と財源幻想 : システム設計視点の行動経済学 (41) https://qiita.com/maskot1977/items/6...</summary>
-  </entry>
-  <entry>
-    <title>11:00-11:30 725-734 (10件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/725-734</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/725-734" />
-    <updated>2026-10-17T11:26:29+09:00</updated>
-    <category term="新日" />
-    <summary>▶725 ぼく尾道ラーメン食ってみたい ▶726 &gt;&gt;718 福山市は小波が地元だからかねえ？ 備後地方が地元だから帰省ついでに赤磐広島行く予定にしてるけど どっち行くにも在来線だとめんどくて新幹線使うか～って距離だよ 近くない思ったより遠い ▶727 福山はいうなれば備中県、広島市は安芸県 姫路は播州県、神戸は神戸県を名乗ろう ▶728 &gt;&gt;724 今だとG1決勝がベストバウトじゃない？ ▶72…</summary>
   </entry>
 </feed>
