@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-19T07:30:13.621638+09:00</updated>
+  <updated>2026-10-19T08:00:12.592016+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>インライン編集UIを拡張性が高い形で実装した</title>
+    <id>https://zenn.dev/numa_san/articles/50b847c58f0854</id>
+    <link href="https://zenn.dev/numa_san/articles/50b847c58f0854" />
+    <updated>2026-10-19T00:13:54+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>始めに 編集を気軽に行えるように、対象のフィールドのみ編集ボタンを押すことでその場で編集状態になって編集ができる、いわゆるインライン編集と呼ばれるものがあります。 具体的には以下のようなGifアニメのようなもので、編集アイコンを押してテキストフィールドが出て、入力後保存を押すことで編集結果が表示されます。 簡単な編集においては便利なUIである一方で、実装面では以下のような細かいケアを考えると結構面…</summary>
+  </entry>
+  <entry>
+    <title>アプリケーションの自動テストとデプロイをCircleCIからGitHub Actionsに移行した</title>
+    <id>https://zenn.dev/tsukulink/articles/fea41a6e4113cf</id>
+    <link href="https://zenn.dev/tsukulink/articles/fea41a6e4113cf" />
+    <updated>2026-10-19T00:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！ツクリンクでエンジニアをしている oieioi です。 ツクリンクは開発用の CI を CircleCI から GitHub Actions に移行しました。移行してから半年間障害なく運用できているので、移行時にしたことを書いてみます。 移行したもの 移行対象は3つあった。 プルリクエストに対する継続的なテスト 検証環境(AWS)へのデプロイ インフラのデプロイ アプリケーションのデプ…</summary>
+  </entry>
+  <entry>
+    <title>読書メモ『入門 継続的デリバリー』</title>
+    <id>https://zenn.dev/95nm/articles/article_reading_cd</id>
+    <link href="https://zenn.dev/95nm/articles/article_reading_cd" />
+    <updated>2026-10-18T19:16:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>オライリー・ジャパンの『入門 継続的デリバリー』を読んだ。内容をまとめていく。 https://www.amazon.co.jp/dp/4814400691?ref=cm_sw_r_ffobk_cp_ud_dp_4RN97N4D1PRM9WFJGFR4&amp;ref_=cm_sw_r_ffobk_cp_ud_dp_4RN97N4D1PRM9WFJGFR4&amp;social_share=cm_sw_r_ffo…</summary>
+  </entry>
+  <entry>
+    <title>リトルの法則で考える障害時のキャパシティプランニング</title>
+    <id>https://zenn.dev/rea9r/articles/littles-law-capacity-planning</id>
+    <link href="https://zenn.dev/rea9r/articles/littles-law-capacity-planning" />
+    <updated>2026-10-18T18:54:19+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに サーバーサイドの開発や運用をしていると、こんな場面に出会うことがあります。 呼び出し元のメトリクスで、このサービスへのリクエストのタイムアウトが、ほとんどのエンドポイントで増えている サーバーの負荷状況を確認しても、CPU もメモリも余っていて、サーバー側のエラー率もほとんど上がっていない コンテナが再起動を繰り返していて、Kubernetes のイベントでは liveness prob…</summary>
+  </entry>
+  <entry>
+    <title>【第6報】バックアップサービスの提供再開について | IDCフロンティア</title>
+    <id>https://www.idcf.jp/news/topics/20261018001</id>
+    <link href="https://www.idcf.jp/news/topics/20261018001" />
+    <updated>2026-10-18T14:07:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月18日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、提供を停止していた「IDCFクラウド バックアップ」について、安全性の確認が完了したことからサービスの提供を再開します。 こ...</summary>
+  </entry>
+  <entry>
+    <title>AI エージェントに個人の記憶を任せるときの、書かせない・漏らさない仕組み</title>
+    <id>https://zenn.dev/ketoranger/articles/agent-memory-security</id>
+    <link href="https://zenn.dev/ketoranger/articles/agent-memory-security" />
+    <updated>2026-10-18T14:06:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1台の Mac の上に「Workspace」という1つのフォルダを作り、その中で Claude Code・Codex と定時処理に、自分の記憶・タスク・道具の手入れを任せています。仕組みの全体は前の記事に書きました。 https://zenn.dev/ketoranger/articles/workspace-ai-agents-memory エージェントは、メールやチャットの本文、会話の記録、ブ…</summary>
+  </entry>
+  <entry>
+    <title>LLMエージェント基盤のシステム設計 #1 エージェントランタイム（Harness）</title>
+    <id>https://zenn.dev/acntechjp/articles/2246165a4098c5</id>
+    <link href="https://zenn.dev/acntechjp/articles/2246165a4098c5" />
+    <updated>2026-10-17T09:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事は連載「LLMエージェント基盤のシステム設計」（全5回）の第1回です。 エージェントランタイム（Harness） ← この記事 コンテキスト管理 ツール実行 信頼性 評価と可観測性 各回とも「要件 → 規模の見積もり → 全体設計 → 詳細設計 → 運用と発展」の順に説明します。文中の規模や性能の数値は、設計を検討するための仮の値です。実測値ではありません。 はじめに コーディング支援…</summary>
+  </entry>
   <entry>
     <title>07:00-07:30 102-103 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/102-103</id>
@@ -418,9 +474,9 @@
     <title>技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
     <id>https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</id>
     <link href="https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm" />
-    <updated>2026-10-18T10:26:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じ...</summary>
+    <updated>2026-10-16T11:53:28+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じました。1冊数千円すると、気になっても買うまでには至らない本がけっこうあります。そういう本も気軽に開け…</summary>
   </entry>
   <entry>
     <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
@@ -749,61 +805,5 @@
     <updated>2026-10-18T08:54:03+09:00</updated>
     <category term="新日" />
     <summary>▶2 こっちは宣言無く勝手に荒らしが立てたスレなので本物のスレに誘導 https://medaka.5ch.io/test/read.cgi/wres/1792279819/ ▶3 &gt;&gt;2 しばくぞ ▶4 &gt;&gt;3 タイトルの時点でマトモな奴ならあっ、察…で誰も使わないから無視しとけば？</summary>
-  </entry>
-  <entry>
-    <title>08:00-08:30 1 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/1</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/1" />
-    <updated>2026-10-18T08:22:13+09:00</updated>
-    <category term="新日" />
-    <summary>▶1 新日総合スレッドXXXX の形式を厳守。 これらが守られていないスレ、宣言なしで立った重複スレは無視。 宣言があっても、アンチや荒らしのスレ立てとわかるものは立て直すこと。 重複スレを使うとスレ番がわかりにくくなるので使わないようにしましょう。 次スレは &gt;&gt;900 が立てる。 荒らしはスルー必須。 踏み逃げは出禁。 新日公式 https://sp.njpw.jp/ NJPW WORLD h…</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 994-1002 (9件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1791930447/994-1002</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1791930447/994-1002" />
-    <updated>2026-10-18T14:23:23+09:00</updated>
-    <category term="新日" />
-    <summary>▶994 竹下DDT両国にカードなし 広島くるか？ ▶995 翔太は髪が後退しすぎや ▶996 &gt;&gt;975 NEVER系なの？ ▶997 ホイーーーーッッッッ！！！！ ▶998 &gt;&gt;994 AEWじゃね？ ▶999 答えはこうだ！！！ ▶1000 質問いいですか？ ▶1001 このスレッドは１０００を超えました。 新しいスレッドを立ててください。 life time: 4日 6時間 55分 57秒…</summary>
-  </entry>
-  <entry>
-    <title>ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した</title>
-    <id>https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</id>
-    <link href="https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen" />
-    <updated>2026-10-18T11:56:18+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude CodeのデスクトップアプリにはiOSシミュレーターを操作するツールがある。個人で作っているiOS向けのMastodonクライアントでは、このツールで実装のたびに画面を確かめさせていた。 しかし、Claudeのコンテキストの大半がスクリーンショットで埋まっているような気がしていた。 そこで、過去のセッションのログ99件を集計して非効率な操作を洗い出し、画面を画像ではなく文字で読む道具…</summary>
-  </entry>
-  <entry>
-    <title>AFM（Apple Foundation Models）を活用したテキストアドベンチャーゲームの開発【第2回】自由入力を台本の選択肢につなぐ</title>
-    <id>https://zenn.dev/gritchbreed/articles/ced633f449178f</id>
-    <link href="https://zenn.dev/gritchbreed/articles/ced633f449178f" />
-    <updated>2026-10-18T11:35:56+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに ※この記事は、筆者のQiitaアカウントからの転載（マルチポスト）です。 Apple Foundation Models（以下AFM）のオンデバイスモデルを使って、自由入力のテキストアドベンチャーゲームを開発しています。 第1回では、デモ「血の池の夜」と、AFMに入力の解釈・自由会話・記憶の取り出しを任せ、物語の進行は台本とルールエンジンで制御する全体設計を紹介しました。 今回は、その中…</summary>
-  </entry>
-  <entry>
-    <title>MPC（モデル予測制御）専用ソルバーの歴史 ― プラントの分単位からマイクロ秒の組込み制御まで</title>
-    <id>https://zenn.dev/takuya_fukatsu/articles/d66e570b929d19</id>
-    <link href="https://zenn.dev/takuya_fukatsu/articles/d66e570b929d19" />
-    <updated>2026-10-18T10:54:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに モデル予測制御（Model Predictive Control, MPC）は、「制御周期ごとに最適化問題を解き、得られた入力系列の最初の1ステップだけを適用する」制御方式です。したがってMPCの実用性は、ほぼそのまま 「最適化問題をどれだけ速く・確実に解けるか」 に依存します。 MPCが解く問題（線形MPCなら二次計画問題 QP、非線形MPCなら非線形計画問題 NLP）は、汎用ソルバー…</summary>
-  </entry>
-  <entry>
-    <title>PyODで時系列データの異常検知を試す</title>
-    <id>https://zenn.dev/drbobt1122/articles/blog26101701</id>
-    <link href="https://zenn.dev/drbobt1122/articles/blog26101701" />
-    <updated>2026-10-18T10:36:39+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>前回は、Raspberry Pi 4に保存したセンサデータを対象に、PyODのSpectral Residualで異常を検出するMCPサーバを構築しました。この話の最後に、データや目的に合わせて異常検知の手法を切り替える旨について、書きました。 そこで今回は、PyODに入っている時系列データ向けの異常検出器について、調査し、その結果の違いを確認しました。 試したのは次の7種類です。 カテゴリ 検出…</summary>
-  </entry>
-  <entry>
-    <title>日本語の個人情報を Bedrock Guardrails, SDP, Presidio でマスキングして比較する</title>
-    <id>https://zenn.dev/fusic/articles/a77ba348115364</id>
-    <link href="https://zenn.dev/fusic/articles/a77ba348115364" />
-    <updated>2026-10-18T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、Fusicの大宮です。 問い合わせメールや通話記録を外部に渡したり、生成AIで分析したりする前には、個人情報を消したい（マスキングしたい）、という場面があるかと思います。 ただ、日本語の文章には、全角の数字や和暦、話し言葉など、英語にはない書き方が多くあります。 2026年10月、クラウドのサービスとオープンソースのツールで、日本語の個人情報をどこまでマスキングできるのか気に…</summary>
   </entry>
 </feed>
