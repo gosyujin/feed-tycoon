@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-19T10:48:13.152596+09:00</updated>
+  <updated>2026-10-19T11:00:12.325235+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>米紙が報じる「日本がサイバー攻撃の格好の標的になる理由」 | 脆弱なセキュリティインフラと対策の遅れ</title>
+    <id>https://courrier.jp/news/archives/462989/</id>
+    <link href="https://courrier.jp/news/archives/462989/" />
+    <updated>2026-10-19T04:47:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本の企業や自治体がサイバー攻撃の被害に遭う事件が頻発し、個人情報の流出が相次いでいる。米紙「ニューヨーク・タイムズ」もこの一連の攻撃に注目して被害状況を伝えたうえで、「なぜ日本が狙われるのか」について次のように報じている。 サイバー能力は世界最低レベル 世界4位の経済規模を誇り、ロボットや自動車、...</summary>
+  </entry>
   <entry>
     <title>10:00-10:30 119-124 (6件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/119-124</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-17T19:53:04+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>こんにちは。 テックリードのTerukiです。 ASP.NET Coreにはポリシーベースの認可という仕組みがあって、Controllerやそのアクションに [Authorize(Policy = "article:read")] のように必要な権限を宣言できます。 これ便...</summary>
-  </entry>
-  <entry>
-    <title>テーブル定義書・ER図を自動生成して、AIにテーブル構造を答えさせるツールを作ってみた</title>
-    <id>https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ebichan_88/items/f7c44c74e437875b1399?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T18:15:15+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに テーブル定義書・ER図を自動生成し、AIにテーブル構造を答えさせるツール「dbxray」を作成したので紹介します。 業務であまり詳しくないサブシステムのテーブル構造をキャッチアップするため、過去に作成したテーブル定義書の出力ツールを改良しました。 以前【Po...</summary>
   </entry>
 </feed>
