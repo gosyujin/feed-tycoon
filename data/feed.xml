@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-19T14:00:13.019334+09:00</updated>
+  <updated>2026-10-19T14:30:13.713092+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>14:00-14:30 170-171 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/170-171</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/170-171" />
+    <updated>2026-10-19T14:14:37+09:00</updated>
+    <category term="新日" />
+    <summary>▶170 ストロングスタイルったって今はほとんど他団体発祥の技ムーブばかり ▶171 &gt;&gt;166 特に女性がビザ降りないみたいだな</summary>
+  </entry>
+  <entry>
+    <title>13:30-14:00 166-169 (4件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/166-169</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/166-169" />
+    <updated>2026-10-19T13:46:35+09:00</updated>
+    <category term="新日" />
+    <summary>▶166 ウマ娘もビザが降りなくてアメリカ興行中止になりそうだな トランプ政権中はもうアメリカじゃ商売できないかもな ▶167 タイチが全日ムーブで攻勢をかける中、ゲイブはストロングスタイルで野毛道場の底力を見せる 号泣する棚橋社長 ▶168 AEW日本公演待ってます！ ▶169 タイチのメインイベントは王座戦じゃなくて、試合後のスパチャ乞食配信なのがなあ</summary>
+  </entry>
+  <entry>
+    <title>ソースネクスト、パスワードなぜ平文で流出 「暗号化していたが、鍵にアクセスできるシステムに侵入された」</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/19/2000002372/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/19/2000002372/" />
+    <updated>2026-10-19T13:15:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソースネクストの会員情報取得APIが不正アクセスを受け、最大約2252万件の氏名や住所、パスワードなどが漏えいした問題をめぐり、一部で「パスワードは平文で保存されていたのではないか」との見方が出ている。 同社の広報担当者はITmedia NEWSの取材に対して、「パスワードは暗号化して保存していた」と述べる一方、「...</summary>
+  </entry>
+  <entry>
+    <title>AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸</title>
+    <id>https://zenn.dev/pksha/articles/0f9c11d1daea2e</id>
+    <link href="https://zenn.dev/pksha/articles/0f9c11d1daea2e" />
+    <updated>2026-10-19T12:19:32+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。PKSHA Technology でソフトウェアエンジニアをしている山本です。 2026 年 8 月 22 日に広島で開催された PyCon JP 2026 にて、「AI 時代、配布する Python コードをどう守るか: 難読化の実験と判断軸」というタイトルで発表しました。本記事は、その発表内容をもとに、発表時間の都合で触れられなかった内容も加えて文章にまとめ直したものです…</summary>
+  </entry>
+  <entry>
+    <title>クエリキーも型安全に変換するユーティリティを作った</title>
+    <id>https://zenn.dev/castingone_dev/articles/typesafe_query_key_converter</id>
+    <link href="https://zenn.dev/castingone_dev/articles/typesafe_query_key_converter" />
+    <updated>2026-10-19T09:59:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！CastingONEの大沼です。 始めに 弊社では一覧用のフィルタは以下のスクショのような感じでUIごとにコンポーネントを分けて共通化しております（これは検証用で作ったものなので、本番で使われているUIとは異なります） ここで入力した内容をAPIにリクエストするためにクエリに変換しますが、これは共通化せず以下のように一つひとつ変換処理を書いていました。 愚直にクエリに変換する /**…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeのステップごとのレビューを既定から外した理由</title>
+    <id>https://zenn.dev/ara_jlu/articles/per-task-review-dropped</id>
+    <link href="https://zenn.dev/ara_jlu/articles/per-task-review-dropped" />
+    <updated>2026-10-19T09:30:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code で開発を回す自分のハーネス（設定やスキルを組み合わせた、自分用の開発の回し方）から、実装の1ステップごとにレビュー担当のサブエージェントを立てていた層を外しました。今はセキュリティに関わるステップにだけ入れています。 「レビューは積むほど安全」という感覚でずっと入れていたものです。8月に構成を比べる実験をし、その後の運用で各レビューが見つけた欠陥を数え、10月に設計書のレビ…</summary>
+  </entry>
+  <entry>
+    <title>個人で使うClaude Codeの権限設定についてざっくり見直してみた</title>
+    <id>https://zenn.dev/takyshu98/articles/915702cf8c84f3</id>
+    <link href="https://zenn.dev/takyshu98/articles/915702cf8c84f3" />
+    <updated>2026-10-19T08:00:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Codeの権限設定を適当に済ませたままだったので見直してみた内容を記録する。理想はコンテナ化するなどホスト環境を隔離することになると思うが、個人端末でライトに運用することを前提とした際にClaude Codeの設定だけでどこまで防御できるか確認したかったイメージである。 設定環境 macOS - Golden Gate 27.0.1 Claude Code - 2.1.296 リスク…</summary>
+  </entry>
+  <entry>
+    <title>「止まっている案件はどれ?」にSQLで答える。Snowflake Cortex AIで議事録を自動分類する</title>
+    <id>https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes</id>
+    <link href="https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes" />
+    <updated>2026-10-19T07:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 会議の議事録は、書いて共有フォルダに置いたらそれっきり、になりがちです。 後から「Snowflakeの話をしていた会議で、止まっている案件はどれだっけ?」と探そうとしても、ファイル名と全文検索くらいしか手がかりがありません。 そこで本記事では、Markdownで書いた議事録をS3に置くだけで、Snowflake上で次のメタデータが自動で付く仕組みを作ります。 関連する技術タグ(タグマスタ…</summary>
+  </entry>
+  <entry>
+    <title>毎日 terraform plan を回しても、権限が増えたことには気付けない</title>
+    <id>https://zenn.dev/snknsk/articles/terraform-plan-additive-blind-spot</id>
+    <link href="https://zenn.dev/snknsk/articles/terraform-plan-additive-blind-spot" />
+    <updated>2026-10-19T03:38:12+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>GCP のインフラを Terraform で管理し、手作業による変更（ドリフト）を見つけるために、毎朝 CI で terraform plan を回していました。差分が出たら CI が落ちる仕組みです。 ところが、plan は「消えた」しか見ていません。 誰かが手で権限を足しても、リソースを作っても、毎朝の検知を素通りします。毎日 CI は緑で、No changes が出続けます。 厄介なのは、気…</summary>
+  </entry>
+  <entry>
+    <title>山岳ステージがしっくりこない。AIとBlenderで森を作り、Unityの性能問題にぶつかった</title>
+    <id>https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001</id>
+    <link href="https://zenn.dev/project_arca/articles/unity-forest-rendering-diagnosis-001" />
+    <updated>2026-10-19T00:26:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>個人開発している3D格闘アクションゲームで、山岳地帯の遺跡を舞台にしたステージを作っています。 でも、出来上がったステージを見ても、どうもしっくりきませんでした。 素材の質感を改善しても、期待していた空間にはならない。そこで、いったんステージを作り込む手を止め、品質の高い事例を参考に、3D環境の作り方そのものを確かめ直すことにしました。 その結果、Blenderで森林を試作するところまでは進められ…</summary>
+  </entry>
+  <entry>
+    <title>判断特化モデルの比較: Decisions API・Jev・Clef</title>
+    <id>https://zenn.dev/bocek/articles/5e1ba6fae7e7d6</id>
+    <link href="https://zenn.dev/bocek/articles/5e1ba6fae7e7d6" />
+    <updated>2026-10-18T19:21:12+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 判断特化モデルを選ぶ際の参考として、Decisions API[1]・Jev[2]・Clef[3]の仕様と料金を比較し、Decisions APIとJevを実際に試しました。 今回の検証では、両APIの精度に違いは見られませんでした。費用はJevのほうが安く、応答もおおむねJevのほうが速かったものの、特に時間がかかった数件ではDecisions APIより遅くなりました。 ! 今回はD…</summary>
+  </entry>
+  <entry>
+    <title>Rustで動画編集ソフトを作った</title>
+    <id>https://zenn.dev/1step621/articles/released-zerium</id>
+    <link href="https://zenn.dev/1step621/articles/released-zerium" />
+    <updated>2026-10-18T15:20:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、ここ数年ずっと動画編集ソフトが作りたくていろいろな機能を妄想する夜を過ごしたのですが、夏休みをフルベットすることでついにリリースできました。 Zeriumといいます。 https://zerium.pages.dev https://github.com/1Step621/zerium コンセプトとしては、 AviUtlのように初心者フレンドリー リッチな編集も可能 高い再利用性でつま…</summary>
+  </entry>
   <entry>
     <title>【レビュー】 【NVIDIA RTX Spark実機レビュー】Arm版Marvel Rivalsでfps最大約1.8倍に</title>
     <id>https://pc.watch.impress.co.jp/docs/topic/review/2149084.html</id>
@@ -709,101 +805,5 @@
     <updated>2026-10-18T10:59:23+09:00</updated>
     <category term="はてブ IT" />
     <summary>VLANごとにレイヤー2のネットワークは分離されますが、L3スイッチでVLAN間ルーティングを有効にすると、異なるVLAN間でも通信できるようになります。 そこでACL（Access Control List）を設定し、営業部から経理部への通信は拒否、営業部から業務サーバーへのHTTPS通信は許可、といった制御を行います。 通信経路とACLの...</summary>
-  </entry>
-  <entry>
-    <title>21:30-22:00 82-85 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/82-85</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/82-85" />
-    <updated>2026-10-18T21:58:56+09:00</updated>
-    <category term="新日" />
-    <summary>▶82 毛が無くなってヒールターンの方が今後のプロレス人生としては良さそう ハゲたらベビーフェイスは無理 ▶83 &gt;&gt;80 そもそも先代は毎日髪掴まれたりマットに毛根擦り付ける職種じゃないから ▶84 ムトちゃんはハゲの向こう側へ行った ▶85 ハゲーズ日本支部作れ</summary>
-  </entry>
-  <entry>
-    <title>不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は? | TBS NEWS DIG</title>
-    <id>https://newsdig.tbs.co.jp/articles/-/3020110</id>
-    <link href="https://newsdig.tbs.co.jp/articles/-/3020110" />
-    <updated>2026-10-18T17:55:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不正アクセスによる個人情報の漏えいが全国で急増していて、サイバーセキュリティ専門家は「日本国民で情報が漏れていない人の方が珍しい。100％防ぐことは困難だ」と指摘します。こうした中、私たちはどんな対策…</summary>
-  </entry>
-  <entry>
-    <title>Web Framework Benchmark Battle 2026, Any%</title>
-    <id>https://speakerdeck.com/a_matsuda/web-framework-benchmark-battle-2026-any-percent</id>
-    <link href="https://speakerdeck.com/a_matsuda/web-framework-benchmark-battle-2026-any-percent" />
-    <updated>2026-10-18T17:37:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Kaigi on Rails 2026 の発表「Web Framework Benchmark Battle 2026, Any%」の発表スライド https://kaigionrails.org/2026/talks/amatsuda/ #kaigionrails</summary>
-  </entry>
-  <entry>
-    <title>衛星利用制限、マスク氏提案か トランプ氏も同意と英報道 | NEWSjp</title>
-    <id>https://news.jp/i/1484341336457167841</id>
-    <link href="https://news.jp/i/1484341336457167841" />
-    <updated>2026-10-18T10:20:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【ロンドン共同】英紙テレグラフは17日までに、ウクライナ軍が使用する米衛星通信網「スターリンク」の軍事用サービスの利用制限について、運用する企業スペースXを率いる実業家イーロン・マスク氏がトランプ大統領に提案したと報じた。トランプ氏も同意したとしている。 マスク氏は自身の関与を否定し、利用制限を決め...</summary>
-  </entry>
-  <entry>
-    <title>「タイムズカーWebシステム」への不正アクセスに関する対応について（第4報） | カーシェアリングのタイムズカー</title>
-    <id>https://share.timescar.jp/news/2026/1016/1826.html</id>
-    <link href="https://share.timescar.jp/news/2026/1016/1826.html" />
-    <updated>2026-10-16T17:01:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>当社は、タイムズカーへの会員ご登録時にお客様からご提出いただいた運転免許証等の本人確認書類の画像を、会員期間中および退会後7年間保有しておりました。会員ご登録時のご本人確認手続きの実施に加え、不正利用が疑われる事案への対応、お問い合わせ対応および各種ご本人確認業務に利用することを目的として保有して...</summary>
-  </entry>
-  <entry>
-    <title>21:00-21:30 74-81 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/74-81</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/74-81" />
-    <updated>2026-10-18T21:28:36+09:00</updated>
-    <category term="新日" />
-    <summary>▶74 翔太の髪…もう満身創痍じゃないか ▶75 &gt;&gt;71 自分はWWEに行った側の人間なんだから懸念はないって言うでしょ オカダやヒロムに聞いても懸念はないって言うと思うよ ▶76 人の髪見て我がズラ直せ ▶77 ファームだからけしからん！日本のプロレスは終わりだ！ みたいな手合いに対して「そんな極端な見方せんでもええやん」と言ってるだけだと思う ▶78 外国人は最終的に海外へのステップと割り切…</summary>
-  </entry>
-  <entry>
-    <title>20:30-21:00 69-73 (5件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/69-73</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/69-73" />
-    <updated>2026-10-18T20:54:09+09:00</updated>
-    <category term="新日" />
-    <summary>▶69 翔太！？ https://pbs.twimg.com/media/HU523_paEAA_tHw.jpg ▶70 &gt;&gt;69 右のおじさんサイン会で色紙渡してくれる人かな ▶71 Q.日本のプロレス団体がWWEやAEWへの選手供給元になってしまう懸念について 中邑「それは懸念なんですかね？ 僕はそうは思わないです。 やっぱり、どんな時代になってもずっと日本でプロレスがしたいっていう人間もいる…</summary>
-  </entry>
-  <entry>
-    <title>Claude、暗号技術の「25年来の謎」を30分足らずで解明</title>
-    <id>https://japan.cnet.com/article/35253671/</id>
-    <link href="https://japan.cnet.com/article/35253671/" />
-    <updated>2026-10-18T10:39:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>今回の謎は、電子署名などに使われる暗号方式「ECDSA」に関するものだ。ECDSAは「楕円曲線」と呼ばれる数学的な仕組みを利用する。米国立標準技術研究所（NIST）が2000年に公表した規格には、曲線の形を決める際に使う「シード」という数値が記載されていた。 NSAの元職員ジェリー・ソリナス氏は2015年、シードについて...</summary>
-  </entry>
-  <entry>
-    <title>Being Exemplary</title>
-    <id>https://kimdavies.com/being-exemplary</id>
-    <link href="https://kimdavies.com/being-exemplary" />
-    <updated>2026-10-06T14:54:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>I have a riddle for you: which website is one of the most popular on the Internet, but no one needs to visit it? The answer is example.com. The Internet Assigned Numbers Authority (IANA) has reserved…</summary>
-  </entry>
-  <entry>
-    <title>20:00-20:30 68 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/68</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/68" />
-    <updated>2026-10-18T20:08:06+09:00</updated>
-    <category term="新日" />
-    <summary>▶68 タイガージェットシンがガチで観客流血させるとか８０歳過ぎて元気だな</summary>
-  </entry>
-  <entry>
-    <title>オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering</title>
-    <id>https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/</id>
-    <link href="https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/" />
-    <updated>2026-10-17T20:42:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>メンバーの立ち上げもAI Nativeに チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを...</summary>
-  </entry>
-  <entry>
-    <title>19:30-20:00 62-67 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/62-67</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/62-67" />
-    <updated>2026-10-18T19:53:59+09:00</updated>
-    <category term="新日" />
-    <summary>▶62 正直言って映画単体で見た時の評価は最悪だと思うよスト2映画 まず謎にスト1のストーリーをアニメで流れるし最初間違ったと思ったんだけど すぐにあぁサガットの俳優が見つからなかったんだなってすぐに理解した そこからリュウ、ケン、ゴウケンに豪鬼と殺意の波動のストーリーはストZERO知らないと意味不明だもん ▶63 まさか映画でごっちゃんのサービスシーン見せられるとはおもわなかった(困惑 ▶64…</summary>
   </entry>
 </feed>
