@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T02:00:13.133030+09:00</updated>
+  <updated>2026-10-20T02:30:14.307622+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIの思考を潜在空間で実行して高性能化＆高速化＆低コスト化を実現する「Hybrid Reasoning Agents」</title>
+    <id>https://gigazine.net/news/20261019-hybrid-reasoning-agents/</id>
+    <link href="https://gigazine.net/news/20261019-hybrid-reasoning-agents/" />
+    <updated>2026-10-19T22:11:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>スタンフォード大学、Together AI、イリノイ大学アーバナ・シャンペーン校、Metaの研究チームが「Hybrid Reasoning Agents」というAI実行手法を発表しました。AIモデルの思考(thinking)を潜在空間で実行できるように事後学習を施し、処理トークン数を少なくして高速化と低コスト化が可能とされています。 [2610.18861] H...</summary>
+  </entry>
+  <entry>
+    <title>AIが数学の難問を解く現状について数学者が「建設的に関わっていく方法が見いだせない」と語る</title>
+    <id>https://gigazine.net/news/20261019-front-lines-debate-ai-future-math/</id>
+    <link href="https://gigazine.net/news/20261019-front-lines-debate-ai-future-math/" />
+    <updated>2026-10-19T21:14:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>存命する数学者の中で世界最高峰のひとりと評されるテレンス・タオ氏は、現在、ほとんど数学に取り組めていないそうです。カリフォルニア大学ロサンゼルス校で開かれた数学のワークショップに出席したタオ氏は、AIが数学界にもたらした存続の危機について「今は臨戦態勢です」と語りました。 Terry Tao Is on the Front ...</summary>
+  </entry>
   <entry>
     <title>相次ぐ不正アクセスやサイバー攻撃、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ」社長が指摘</title>
     <id>https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-19T13:15:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>ソースネクストの会員情報取得APIが不正アクセスを受け、最大約2252万件の氏名や住所、パスワードなどが漏えいした問題をめぐり、一部で「パスワードは平文で保存されていたのではないか」との見方が出ている。 同社の広報担当者はITmedia NEWSの取材に対して、「パスワードは暗号化して保存していた」と述べる一方、「...</summary>
-  </entry>
-  <entry>
-    <title>AI時代、配布するPythonコードをどう守るか: 難読化の実験と判断軸</title>
-    <id>https://zenn.dev/pksha/articles/0f9c11d1daea2e</id>
-    <link href="https://zenn.dev/pksha/articles/0f9c11d1daea2e" />
-    <updated>2026-10-19T12:19:32+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。PKSHA Technology でソフトウェアエンジニアをしている山本です。 2026 年 8 月 22 日に広島で開催された PyCon JP 2026 にて、「AI 時代、配布する Python コードをどう守るか: 難読化の実験と判断軸」というタイトルで発表しました。本記事は、その発表内容をもとに、発表時間の都合で触れられなかった内容も加えて文章にまとめ直したものです…</summary>
-  </entry>
-  <entry>
-    <title>クエリキーも型安全に変換するユーティリティを作った</title>
-    <id>https://zenn.dev/castingone_dev/articles/typesafe_query_key_converter</id>
-    <link href="https://zenn.dev/castingone_dev/articles/typesafe_query_key_converter" />
-    <updated>2026-10-19T09:59:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは！CastingONEの大沼です。 始めに 弊社では一覧用のフィルタは以下のスクショのような感じでUIごとにコンポーネントを分けて共通化しております（これは検証用で作ったものなので、本番で使われているUIとは異なります） ここで入力した内容をAPIにリクエストするためにクエリに変換しますが、これは共通化せず以下のように一つひとつ変換処理を書いていました。 愚直にクエリに変換する /**…</summary>
   </entry>
 </feed>
