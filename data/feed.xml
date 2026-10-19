@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T07:30:14.241121+09:00</updated>
+  <updated>2026-10-20T08:00:12.007392+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>対象が広い事業・プロダクトが刺さる気がしない</title>
+    <id>https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one</id>
+    <link href="https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one" />
+    <updated>2026-10-20T02:05:28+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>対象が広いと、課題が「なんとなく困っている」レベルのまま止まってしまい、効果的な解決策にたどり着けないからだと考えています。逆に言えば、具体的なペルソナとは、課題を深掘りした先にいる人の姿なのだと思います。 きっかけ 先日、友人と事業の方向性について話していました。もともとは、ある習い事を始めた初心者を支援するアプリを作りたい、というところから始まった事業です。 類似したサービスがすでにあるという…</summary>
+  </entry>
+  <entry>
+    <title>AIとコンテストに参加する</title>
+    <id>https://zenn.dev/attgm/articles/d28df25b88254a</id>
+    <link href="https://zenn.dev/attgm/articles/d28df25b88254a" />
+    <updated>2026-10-19T22:42:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに AHC GenAI Rules Trial Contest 2026 が開催されていることに気づきました。長期の AtCoder Heuristic Contest（AHC）向けに検討されている、生成AI利用ルールを評価するための試験コンテストです。レーティングの更新対象ではないので、気軽に参加してみました。 ルールの設定 公式の生成AI利用ルールには、AIに与えるための指示も Mark…</summary>
+  </entry>
+  <entry>
+    <title>GMO系「国内不正アクセス、中国製AIソフトの使用確認」 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/" />
+    <updated>2026-10-19T21:45:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GMOインターネットグループのGMOサイバーセキュリティbyイエラエ（東京・渋谷）は19日、国内への不正アクセス事案について、中国のエンジニアが開発した人工知能（AI）ソフト「ARTEX」が使われていたことを確認したと同社のブログで発表した。同ソフトは韓国の金融機関へのサイバー攻撃で使われたとされるが、日本向けの...</summary>
+  </entry>
+  <entry>
+    <title>普段使いのWindows PCでNodeのサーバーを常駐させて踏んだ罠</title>
+    <id>https://zenn.dev/matasuke_t/articles/bf784b79b29e86</id>
+    <link href="https://zenn.dev/matasuke_t/articles/bf784b79b29e86" />
+    <updated>2026-10-19T20:13:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>業務用のツールを、専用サーバーではなく普段使っている Windows PC で24時間動かしています。Node.js のバックエンドと、Vite の開発サーバーと、Puppeteer で動かすブラウザが10個ほど。 作ったものが動くかより、「動き続けるか」のほうで何度も詰まったので、そのとき分かったことを書いておきます。 「起動時」トリガーが一度も発火していなかった サーバーが35時間止まっていて…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測</title>
+    <id>https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019</id>
+    <link href="https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019" />
+    <updated>2026-10-19T18:29:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code のターミナルで27万トークンの会話を claude --resume で開いて1行だけ送り、あとは何も打たずに置いておきました。55.6分後、その会話は13,522トークンまで圧縮されていました。 前々回の記事で、同じ会話でも1時間あけて戻ると、キャッシュから読める割合が6.1%まで落ちると書きました。その1時間が切れる少し前に、放置された会話を要約しておく「アイドル圧縮」…</summary>
+  </entry>
+  <entry>
+    <title>Kaigi on Rails 2026 感想 ＆ OSTで「ファットモデル」の議論をしたよ！</title>
+    <id>https://zenn.dev/progate/articles/b49c75fc6ab1ff</id>
+    <link href="https://zenn.dev/progate/articles/b49c75fc6ab1ff" />
+    <updated>2026-10-19T14:38:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>横江( @yokoe24 )です！ Progate さんで、業務委託としてお手伝いエンジニアをしています。 最近の Progate では、Ruby コースが大幅にアップデートされて、演習環境用の Ruby のバージョンが 4.0 に上がったほか、minitest が学べるようになるなど進化しました🎉 さて、2026/10/16〜17 におこなわれた Kaigi on Rails 2026 に参加し…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeでプロンプトインジェクションに備える</title>
+    <id>https://zenn.dev/luxiar/articles/a341a2df29dcfe</id>
+    <link href="https://zenn.dev/luxiar/articles/a341a2df29dcfe" />
+    <updated>2026-10-19T11:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 昨今はAIによる作業の割合が大きく増え、AI前提の開発が当たり前になりつつあると感じます。私自身、調査から計画、実行、レビューまですべての作業でClaudeを活用しています。 便利な反面、AIを狙った攻撃やAIを悪用した攻撃も登場しており、企業への不正アクセスや個人情報漏洩のニュースを目にする機会も増えました。 AIを活用する上で、こういった話を他人事とせず、個人レベルでどういった対策を…</summary>
+  </entry>
+  <entry>
+    <title>【UMP】同意を外部SDKに反映する【Tenjinを例に】</title>
+    <id>https://zenn.dev/gameshitai/articles/f65544c1e5a7ea</id>
+    <link href="https://zenn.dev/gameshitai/articles/f65544c1e5a7ea" />
+    <updated>2026-10-19T09:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>目的 UMP の回答(初回, 変更後)を外部 SDK の動作に反映し、同意画面の選択と動作を一致させたい 今回は Tenjin を例に整理する 公開されている Tenjin Android SDK 1.17.0, 2.0.0 の 公式 CMP 連携 を調べたところ、目的1の同意だけを判定していた そこで、Tenjin 個別の拒否も反映する方法を調べた 情報の流れ 頭に入れるもの 役割 CMP(同意…</summary>
+  </entry>
   <entry>
     <title>07:00-07:30 274-277 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/274-277</id>
@@ -741,69 +805,5 @@
     <updated>2026-10-19T10:33:33+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Claude Codeで完璧なFigmaを出力させたい Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。 ただ、一見して完成品でもデザイナー的には未完成です。 配置や既存画面の情報設計を無視していることも多く、...</summary>
-  </entry>
-  <entry>
-    <title>AIが書いた139件のテストは本当に別物か、Vitestの重複を静的解析で調べた</title>
-    <id>https://qiita.com/figueiredoluiz/items/9dae44b202aec123d7c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/figueiredoluiz/items/9dae44b202aec123d7c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T10:03:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに コーディングエージェントに頼めば、コーヒーを飲み終える前に100件のテストが通る状態になります。テスト件数は増え、カバレッジは緑になり、プルリクエストは丁寧に見えます。ただ、そのうち何件がほかのテストと違うことを確認しているのかは、誰も教えてくれません。 私はV...</summary>
-  </entry>
-  <entry>
-    <title>ハルシネーション０のWeb検索ツール Eikos-search を公開しました</title>
-    <id>https://qiita.com/Mas-sensyn/items/f3c283fbb0b09fc33427?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Mas-sensyn/items/f3c283fbb0b09fc33427?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T09:58:29+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>きれいなお姉さんは、好きですか？ どうも、Mas-sensynです。 Web記事の中から、質問の答えになっている一文をそのまま抜き出す検索ツール eikos-search を作り、公開しました。 Eikos-searchとは eikos-searchは、オープンソー...</summary>
-  </entry>
-  <entry>
-    <title>GPT-4o級モデルが自宅のPCで動いた！ ローカルAIの常識を変える「Strata」 (1/5)</title>
-    <id>https://ascii.jp/elem/000/004/443/4443584/</id>
-    <link href="https://ascii.jp/elem/000/004/443/4443584/" />
-    <updated>2026-10-19T08:36:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>9月24日に一般公開された「Strata」というローカルLLM向け技術が話題沸騰中です。これまで、ローカルLLMで動かせるモデルの大きさは、使用するPCのVRAMの容量や、RAMとVRAMで共有するユニファイドメモリの容量によって決まっていました。そのため、強力な思考能力を持つローカルLLMまでは動かすことができなかったのです...</summary>
-  </entry>
-  <entry>
-    <title>ログ調査のたびに検索→前後確認→コピーを繰り返すのがつらくて、VS Code拡張機能を作ってみた</title>
-    <id>https://qiita.com/shinkai_/items/6e98d6ea443377e763f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shinkai_/items/6e98d6ea443377e763f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T08:31:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに ログを見やすくするVS Code拡張機能を作成しました。 動作イメージ 開発中にアプリケーションのログを確認するとき、ちょっと面倒だなと思うことがありませんか？ ログファイルを開いて、キーワードで検索して、該当箇所を見つけて、その前後を確認する。処理時間...</summary>
-  </entry>
-  <entry>
-    <title>Gitで最新コミットにtagをつけてpushする</title>
-    <id>https://qiita.com/J-T_ky2g/items/84cf31260de8026ebb41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/84cf31260de8026ebb41?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T03:16:50+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Gitのタグはなんとなくつけたことがあるが、やり方を忘れていた 問題 Gitのタグの付け方がわからなかった 解決 以下のように対応できる git tag -a v1.0.0 -m 'Ver1' git push origin v1.0.0 終...</summary>
-  </entry>
-  <entry>
-    <title>【JISSEN】セキュリティ勉強会のアウトプット</title>
-    <id>https://qiita.com/J-T_ky2g/items/9d6f381b5f38cbc071d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/9d6f381b5f38cbc071d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T03:10:36+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>IDOR 認可の不足や漏れで他ユーザーのリソースなどを不正に閲覧できること 認証してるからOKではなく、認可も正しく行う必要がある 認証だけではなく認可もする SSRF サーバーから意図しない外部リソースへのリクエストを起こすもの ユーザーから受け取った値を...</summary>
-  </entry>
-  <entry>
-    <title>2026年10月18日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-    <id>https://qiita.com/ennagara128/items/4d32cc3c97211581c01c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/4d32cc3c97211581c01c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-18T23:47:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 Jevにウォーリーを探させたら0.4秒で見つけ...</summary>
-  </entry>
-  <entry>
-    <title>請求書データをサーバーに保存せず、URLハッシュだけで共有する実装（Cloudflare Pages）</title>
-    <id>https://qiita.com/saneatsu-designs/items/251e881136438de608ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/saneatsu-designs/items/251e881136438de608ae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-18T23:22:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>やりたかったこと 個人開発している書類作成ツール Free BizDoc で、「作った請求書を相手にURLで共有したい」という機能を足しました。 普通に考えるとサーバーにデータを保存して example.com/share/{id} のようなURLを発行する作りになります...</summary>
   </entry>
 </feed>
