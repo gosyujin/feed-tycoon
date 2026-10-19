@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-19T13:00:16.468824+09:00</updated>
+  <updated>2026-10-19T13:30:13.915538+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>13:00-13:30 165 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/165</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/165" />
+    <updated>2026-10-19T13:10:43+09:00</updated>
+    <category term="新日" />
+    <summary>▶165 松本ひとし副社長も愛媛だっけ？</summary>
+  </entry>
+  <entry>
+    <title>パランティアのCTO曰く「多くのAI研究者が、AIへの信仰の証として喫煙を始めている」 - YAMDAS現更新履歴</title>
+    <id>https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley</id>
+    <link href="https://yamdas.hatenablog.com/entry/20261019/smoking-in-silicon-valley" />
+    <updated>2026-10-19T08:33:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>www.businessinsider.com パランティア CTO のシャイアム・サンカーが、AI により癌が治療可能になると考える AI 研究者の多くがタバコを吸い始めた、という話をしている。彼の言葉を借りれば、「自分がどれだけ AI を信じているかを他の研究者に示すために多くの AI 研究者が喫煙を始めた」とな。ホントかね。 サンカー...</summary>
+  </entry>
   <entry>
     <title>12:30-13:00 146-164 (19件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/146-164</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-18T17:20:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>Void は VoidZero が開発した、Vite でフルスタックアプリを構築して Cloudflare にデプロイするためのツールキットです。void/db などの import から必要なリソースを推論し、void deploy コマンド 1 つでD1 データベースの作成、ビルド、マイグレーション、公開までを行います。この記事では、D1 を使ったメモアプリを...</summary>
-  </entry>
-  <entry>
-    <title>技術書を年に数冊しか買わない自分に、O'Reillyのサブスク年$150は割に合うか（ACM経由で契約してMCPまで）</title>
-    <id>https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm</id>
-    <link href="https://zenn.dev/sonicmoov/articles/oreilly-subscription-acm" />
-    <updated>2026-10-16T11:53:28+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに オライリーの本は、技術書として信頼できるので、これまでも必要なものを買って読んでいました。 自分は紙の本のほうが読みやすいタイプです。ただ、オライリーの本は分厚いものが多く、持ち歩くと重いのが難点でした。そんなとき、オライリーの本がオンラインのサブスクで読み放題になると知って、魅力を感じました。1冊数千円すると、気になっても買うまでには至らない本がけっこうあります。そういう本も気軽に開け…</summary>
-  </entry>
-  <entry>
-    <title>ベクトルDBを使わない「階層ナビゲーション型RAG」を作って、ベクトルDB版RAGと比較してみた</title>
-    <id>https://zenn.dev/aiforall/articles/8e1803396534de</id>
-    <link href="https://zenn.dev/aiforall/articles/8e1803396534de" />
-    <updated>2026-10-16T11:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>階層ナビゲーション型RAGとは 「階層ナビゲーション型RAG」は、ベクトルDBを使わずに文書を探すRAGです。準備段階で文書の山から階層的な目次を自動で作っておき、質問が来たらLLMがその目次を上から順に辿って、答えが書かれていそうな文書を選びます。質問のたびにベクトル検索をしない点が、一般的なベクトルDB版RAGとの違いです。 この記事では、この仕組みを論文の手法(Corpus2Skill)を参…</summary>
   </entry>
 </feed>
