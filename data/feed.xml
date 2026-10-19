@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T01:30:15.074888+09:00</updated>
+  <updated>2026-10-20T02:00:13.133030+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>相次ぐ不正アクセスやサイバー攻撃、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ」社長が指摘</title>
+    <id>https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/</id>
+    <link href="https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/" />
+    <updated>2026-10-19T20:24:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【読売新聞】 サイバーセキュリティー大手のトレンドマイクロ（東京）のエバ・チェン社長は１９日、都内で記者会見を開き、相次ぐ不正アクセスやサイバー攻撃について「ＡＩ（人工知能）による自動化攻撃が始まった」との見方を示した。「盗まれた情</summary>
+  </entry>
   <entry>
     <title>01:00-01:30 269-271 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/269-271</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-19T09:59:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！CastingONEの大沼です。 始めに 弊社では一覧用のフィルタは以下のスクショのような感じでUIごとにコンポーネントを分けて共通化しております（これは検証用で作ったものなので、本番で使われているUIとは異なります） ここで入力した内容をAPIにリクエストするためにクエリに変換しますが、これは共通化せず以下のように一つひとつ変換処理を書いていました。 愚直にクエリに変換する /**…</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeのステップごとのレビューを既定から外した理由</title>
-    <id>https://zenn.dev/ara_jlu/articles/per-task-review-dropped</id>
-    <link href="https://zenn.dev/ara_jlu/articles/per-task-review-dropped" />
-    <updated>2026-10-19T09:30:14+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude Code で開発を回す自分のハーネス（設定やスキルを組み合わせた、自分用の開発の回し方）から、実装の1ステップごとにレビュー担当のサブエージェントを立てていた層を外しました。今はセキュリティに関わるステップにだけ入れています。 「レビューは積むほど安全」という感覚でずっと入れていたものです。8月に構成を比べる実験をし、その後の運用で各レビューが見つけた欠陥を数え、10月に設計書のレビ…</summary>
   </entry>
 </feed>
