@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T01:00:14.292549+09:00</updated>
+  <updated>2026-10-20T01:30:15.074888+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>01:00-01:30 269-271 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/269-271</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/269-271" />
+    <updated>2026-10-20T01:20:10+09:00</updated>
+    <category term="新日" />
+    <summary>▶269 タイチ、過去の自分の発言がブーメランになってきて返ってきてるやん https://x.com/uaik5172/status/2112174193332961640 ▶270 オカダがちょいちょい世界王座に絡み出したんで日本公演で取るんだろうなって ▶271 てか、プロレスに本物も偽物もない すべてはフェイクの闘いなのだから そこを牛耳って本物の闘いを魅せるべきだとか、WWEやAEWとの…</summary>
+  </entry>
+  <entry>
+    <title>Credential Injection - Proxy-Based Secret Management for AI Agents</title>
+    <id>https://nono.sh/credential-injection</id>
+    <link href="https://nono.sh/credential-injection" />
+    <updated>2026-10-19T17:39:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Proxy-Based Secret ManagementCredential InjectionThe proxy acts as a reverse proxy for configured credential routes. The agent sends plain HTTP to localhost, and the proxy strips the service prefix, i…</summary>
+  </entry>
   <entry>
     <title>00:00-00:30 268 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/268</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-19T09:30:14+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Claude Code で開発を回す自分のハーネス（設定やスキルを組み合わせた、自分用の開発の回し方）から、実装の1ステップごとにレビュー担当のサブエージェントを立てていた層を外しました。今はセキュリティに関わるステップにだけ入れています。 「レビューは積むほど安全」という感覚でずっと入れていたものです。8月に構成を比べる実験をし、その後の運用で各レビューが見つけた欠陥を数え、10月に設計書のレビ…</summary>
-  </entry>
-  <entry>
-    <title>個人で使うClaude Codeの権限設定についてざっくり見直してみた</title>
-    <id>https://zenn.dev/takyshu98/articles/915702cf8c84f3</id>
-    <link href="https://zenn.dev/takyshu98/articles/915702cf8c84f3" />
-    <updated>2026-10-19T08:00:08+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude Codeの権限設定を適当に済ませたままだったので見直してみた内容を記録する。理想はコンテナ化するなどホスト環境を隔離することになると思うが、個人端末でライトに運用することを前提とした際にClaude Codeの設定だけでどこまで防御できるか確認したかったイメージである。 設定環境 macOS - Golden Gate 27.0.1 Claude Code - 2.1.296 リスク…</summary>
-  </entry>
-  <entry>
-    <title>「止まっている案件はどれ?」にSQLで答える。Snowflake Cortex AIで議事録を自動分類する</title>
-    <id>https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes</id>
-    <link href="https://zenn.dev/fusic/articles/snowflake-ai-parse-document-minutes" />
-    <updated>2026-10-19T07:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 会議の議事録は、書いて共有フォルダに置いたらそれっきり、になりがちです。 後から「Snowflakeの話をしていた会議で、止まっている案件はどれだっけ?」と探そうとしても、ファイル名と全文検索くらいしか手がかりがありません。 そこで本記事では、Markdownで書いた議事録をS3に置くだけで、Snowflake上で次のメタデータが自動で付く仕組みを作ります。 関連する技術タグ(タグマスタ…</summary>
   </entry>
 </feed>
