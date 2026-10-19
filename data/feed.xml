@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-19T16:52:31.624617+09:00</updated>
+  <updated>2026-10-19T17:00:14.022328+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>16:30-17:00 199-204 (6件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/199-204</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/199-204" />
+    <updated>2026-10-19T16:57:28+09:00</updated>
+    <category term="新日" />
+    <summary>▶199 早くAEWの有明アリーナ興行発表してくれんかな 最前列で見たいわ ▶200 有明ならトヨタアリーナが良かったリボンビジョンあるし ▶201 ウルフが竹下と上野優希のポッドキャストにゲスト出演してたけどここでも遅刻してて草 ▶202 完全なハゲには厳しく、来始めてる頭髪には優しいのがスレの総意。 ▶203 &gt;&gt;196 棚橋もラジオやってるぞ ▶204 毒霧は使ってもいいですか？ https…</summary>
+  </entry>
+  <entry>
+    <title>逆側からもプログラムを書けるプログラミング言語作った | κeenのHappy Hacκing Blog</title>
+    <id>https://keens.github.io/blog/2026/10/18/gyakugawakaramopuroguramuwokakerupuroguramingugengota/</id>
+    <link href="https://keens.github.io/blog/2026/10/18/gyakugawakaramopuroguramuwokakerupuroguramingugengota/" />
+    <updated>2026-10-19T11:11:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>κeenです。最近はAIで自作プログラミング言語を作るのが流行ってますね。私も前から温めていたアイディアを形にしてみたので紹介します。 設計思想 作ったのは SLCという言語です。一応純粋関数型言語になるのかな？ならないかも。 プログラムというのは計算です。開始状態から始め、値を評価して条件分岐をしたり合流し...</summary>
+  </entry>
+  <entry>
+    <title>脆弱性放置サーバーへのAnsibleによるパッチ適用の自動化</title>
+    <id>https://zenn.dev/nyondev/articles/ansible-patch-auto</id>
+    <link href="https://zenn.dev/nyondev/articles/ansible-patch-auto" />
+    <updated>2026-10-19T07:57:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 長く放置されたサーバーに、いきなり dnf update を打つ人は、あまりいないと思います。何が変わるか分からない。再起動が要るかも分からない。戻せるかも分からない。 この記事は、放置された RHEL 9 のサーバーに、Ansible でセキュリティ更新を当てる手順を、自宅検証環境で作り、実際に動かした記録です。...</summary>
+  </entry>
   <entry>
     <title>16:00-16:30 194-198 (5件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/194-198</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-17T19:03:42+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>この記事で分かること AI に「このファイルは消さないで」と設定しても、コマンドの書き方しだいですり抜けること 反対に、消してよいファイルまで止めてしまうこと すり抜けを止める小さなプログラム（hook）の作り方。111 行の全文を載せます それでも止められない操作と、...</summary>
-  </entry>
-  <entry>
-    <title>2026年10月17日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-    <id>https://qiita.com/ennagara128/items/ddb56dacfd42bb5d6f28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/ddb56dacfd42bb5d6f28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T14:10:06+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 AIで作ったらオリジナルじゃないらしい。んなわ...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code にコードではなく「運用」を任せる：CLAUDE.md を契約書にし、SessionStart フックとスキルで人間の作業を「貼る・押す・報告する」に絞った構成（MIT の雛形つき）</title>
-    <id>https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-17T13:46:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。確かめたことと確かめていないことは「動作確認環境」の節に分けて書きました。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありませ...</summary>
-  </entry>
-  <entry>
-    <title>最近仕事で心がけていること</title>
-    <id>https://qiita.com/scythercas/items/2195b93fd942409580b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/scythercas/items/2195b93fd942409580b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-16T22:43:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>作業効率に関するもの、人間関係に関するものなど雑多に書いた。 言語化により定着させたい。 記事を通して他の方々の意見をお聞きしたい。 そんな期待で、いち若手社員の僕が最近心がけていることをまとめた。 想定読者は特にいないが、読んだ方が何か考えるキッカケになれば嬉しい。 1...</summary>
   </entry>
 </feed>
