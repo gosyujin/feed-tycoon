@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T05:00:13.143491+09:00</updated>
+  <updated>2026-10-20T05:30:13.036300+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>M5Stamp P4（ESP32-P4）でMMUなしのLinux 7.2を動かし、Wi-FiとSSHまで通した話【AIと250コミット】</title>
+    <id>https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/tsuyoshi-otake/items/91ef586f1a1a689b0842?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T20:09:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>M5Stamp P4（ESP32-P4）向けに、MMUのないRISC-V上で動くLinuxディストリビューションを作っています。v0.3.2 でカーネルを Linux 7.2.11 に上げ、Wi-Fi・SSH・vi・MicroPython まで普通に使えるようになりました。...</summary>
+  </entry>
+  <entry>
+    <title>AWS初心者がエンジニアを辞めた話</title>
+    <id>https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T18:42:28+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに こんにちは。Tsukasaです！ タイトルにある通りエンジニアを辞めました！ 今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。 今までのキャリア 私は国際学部国際学科出身の正真正銘の文系です。...</summary>
+  </entry>
+  <entry>
+    <title>NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造</title>
+    <id>https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T18:07:36+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 何をいまさら…という話ですが、クラウドの世界では Infrastructure as Code や Kubernetes による運用の自動化が当たり前になりました。 NW運用領域でも、Ansible などで設定変更や情報収集をしているところは多いでしょう。では、...</summary>
+  </entry>
+  <entry>
+    <title>【ポート開放なし】getastaticとかいう謎サービス契約してみた【WireGuard】</title>
+    <id>https://qiita.com/ayane0857/items/8c77ba544325290440d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ayane0857/items/8c77ba544325290440d1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T17:49:54+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>みなさん、こんにちは、あるいはこんばんは。 最近『SPY×FAMILY』を見始めた彩音です。 ポート開放が制限された環境で、『どうしても外部からアクセスしたい！』という場面がよくあります。 そこで、Cloudflare Proxyやngrokを試してみたのですが、これらはW...</summary>
+  </entry>
+  <entry>
+    <title>凡人SI屋のトラブル対応回顧録 第1回 はじめに</title>
+    <id>https://qiita.com/snoopy_naritagu/items/13c6315f3cd30ddbe012?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/snoopy_naritagu/items/13c6315f3cd30ddbe012?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T13:47:51+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめまして なりたぐと申します この道(基盤系Sier)を20年ほど歩いて来て、行き当たったトラブル対応を振り返って備忘録的な感じで書いていければと思います。 昨今ではAI(人工知能)がとうとう実用化されて世に出てくる時代になったと感じるようになりました。 2年ほど前にか...</summary>
+  </entry>
+  <entry>
+    <title>NextAuthを使わずにGoogle連携をスクラッチ実装して、OAuth 2.0の仕組みを理解した</title>
+    <id>https://qiita.com/keikeigo/items/7d2eb02a9588e4deeb22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/keikeigo/items/7d2eb02a9588e4deeb22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T10:29:05+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに OAuth 2.0を学習する目的でアプリを作成しました。 アプリにGoogleログインやDiscordログインを実装したいけどいまいち仕組みがわかっていない、という方はぜひ読んでほしいです！ また、その際は実際にこのアプリを動かしながら理解することをおすすめしま...</summary>
+  </entry>
+  <entry>
+    <title>New RelicのEvents to Metricsで、8日で消えるイベントからSLIを13ヶ月残す</title>
+    <id>https://qiita.com/zucky-quest/items/3e6efda07e067ffb4ac4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/zucky-quest/items/3e6efda07e067ffb4ac4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T09:03:15+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>TL;DR 月次の SLI（API の可用性、API と画面の応答時間 p95）と画面の利用指標を、New Relic から出したかった ところが、利用しているプランでは Transaction や PageView などのイベントが 8 日で消えます。月が終わってから...</summary>
+  </entry>
+  <entry>
+    <title>プライベートで雇った AI 秘書を、2 週間育ててみた</title>
+    <id>https://qiita.com/araom/items/f59a75e188824dfdd16c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/araom/items/f59a75e188824dfdd16c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-19T08:30:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 本記事は、プライベートで雇った AI 秘書（Claude Code）を、前回の記事から 2 週間（2026-10-04〜10-17）かけて育てた記録です。 前回の記事「仕事が忙しいので、プライベートに AI 秘書を雇ってみた」の続編です。 前回は、エージェントに...</summary>
+  </entry>
+  <entry>
+    <title>【Lambda Web Functions × CloudFront OAC】Lambda Web Functionsを使えばx-amz-content-sha256なしのPOSTが403になる問題が解決します！</title>
+    <id>https://qiita.com/yosuke-suzuki/items/68c533536352475c4b4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yosuke-suzuki/items/68c533536352475c4b4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-18T23:59:15+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 個人で「AI模試ノート」というAWS認定試験の学習アプリを運用しています。 2026年8月にLambda Web Adapter + Function URL + CloudFrontの構成へ移したのですが、OACを付けるとPOSTだけが403になりました。 原...</summary>
+  </entry>
+  <entry>
+    <title>オリジン弁当に通い詰めた俺が「Origin」について解説してみた！</title>
+    <id>https://qiita.com/jota9613/items/6ea5f40526fb7e4df157?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jota9613/items/6ea5f40526fb7e4df157?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-18T23:22:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 今回はオリジン弁当に通い詰めはや1年 そんな俺がわかりやすく、WebセキュリティのOriginについてわかりやすく解説してやる！ これを読めば君もOriginをマスターするしオリジン弁当に行きたくなることまちがいなし！ 目的（ゴール） 下記の3点の理解を目的に...</summary>
+  </entry>
+  <entry>
+    <title>every() が true でも「データが全件合格」とは限らない — 空配列・穴・asyncの確認</title>
+    <id>https://qiita.com/ennagara128/items/c732b0baf8f7f1770ff9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ennagara128/items/c732b0baf8f7f1770ff9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-17T15:12:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>items.every(check) が true なら送信可能、とするコード。データがそもそも届いていなくても、その判定を通ることがあります。every は「1件以上あること」まで保証しません。 今回は、Node.js v24.14.1で返り値とコールバックの実行回数を確...</summary>
+  </entry>
   <entry>
     <title>JP Incident Monitor</title>
     <id>https://elkentaro.github.io/jp_incidents/</id>
@@ -717,93 +805,5 @@
     <updated>2026-10-17T12:38:18+09:00</updated>
     <category term="はてブ IT" />
     <summary>同社は2018年6月までカード情報を自社サーバに保管していた。その後、決済代行会社での管理に移行したが、移行時に「skyticket プレミアム」の会費支払いの変更履歴（ログ）が削除されないままサーバに残っており、これにカード情報が含まれていた。 これ以外にも、18年6月以前の支払いに関するカード情報がサーバに残っ...</summary>
-  </entry>
-  <entry>
-    <title>15:30-16:00 185-193 (9件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/185-193</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/185-193" />
-    <updated>2026-10-19T15:57:42+09:00</updated>
-    <category term="新日" />
-    <summary>▶185 君、写真と違わない？ https://i.imgur.com/u3agw4i.jpeg ▶186 &gt;&gt;166 STARDOMも4人くらいビザおりなかった記憶 新日本プロレスG1CLIMAXは新日本勢は全員大丈夫だったな。ゲイブがあかんかったけど ▶187 オッサン世代ならともかく20代にハゲいじりは正直ちゃんと凹むから控えめにしてあげたいところ ▶188 ウルフアロン選手の新必殺技（変形…</summary>
-  </entry>
-  <entry>
-    <title>AIプログラミングツール「OpenCode」でAPIキー流出の可能性、OpenAIやClaudeの利用残高が不正利用でゼロになったとの報告も</title>
-    <id>https://gigazine.net/news/20261019-opencode-leak/</id>
-    <link href="https://gigazine.net/news/20261019-opencode-leak/" />
-    <updated>2026-10-19T14:08:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>オープンソースのAIプログラミングツール「OpenCode」の運営元が2026年10月17日に不正アクセスを受けたことを明らかにしました。OpenAIやAnthropicなどのAIサービスを利用するためのAPIキーが漏えいした可能性があり、一部のユーザーからは身に覚えのないAI利用料金が発生したとの報告も上がっています。 We had a secur...</summary>
-  </entry>
-  <entry>
-    <title>15:00-15:30 174-184 (11件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/174-184</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/174-184" />
-    <updated>2026-10-19T15:29:20+09:00</updated>
-    <category term="新日" />
-    <summary>▶174 &gt;&gt;127 それは血糊だろ、血糊はすぐ止まる しかもナイフって何やねん、カットは剃刀やで ▶175 いまだに血糊とかつかってるのか ▶176 タイガージェットシンに襲われた客すらガチ流血で沸かせたというのにレスラーが血糊とか情けないです ▶177 &gt;&gt;172 オカンヘナレ海野で新ユニット待ったなし！！ ▶178 &gt;&gt;177 マイケル・リチャーズも合流できるな それはそれとして田口とか佐藤…</summary>
-  </entry>
-  <entry>
-    <title>14:30-15:00 172-173 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/172-173</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/172-173" />
-    <updated>2026-10-19T14:47:27+09:00</updated>
-    <category term="新日" />
-    <summary>▶172 両国の試合を見てなぜだか海野を応援したくなった https://imgur.com/m99YIoN ▶173 &gt;&gt;172 新世代のカッパしゃん…ガバレ～！</summary>
-  </entry>
-  <entry>
-    <title>ウクライナに対するStarlinkの制限は作戦の一環として行われ未解消だとゼレンスキー大統領が報告</title>
-    <id>https://gigazine.net/news/20261019-ukraine-starlink-access-not-fully-restored/</id>
-    <link href="https://gigazine.net/news/20261019-ukraine-starlink-access-not-fully-restored/" />
-    <updated>2026-10-19T13:27:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウクライナで、衛星インターネット「Starlink」の軍用版である「Starshield」に速度制限措置が課されていた問題で、一度は問題が解消したものの、その後、再び制限がかかった状態にあることをウォロディミル・ゼレンスキー大統領が報告しました。Starlinkでも同様に制限がかかっていて、輸送などに支障が出ているとのこ...</summary>
-  </entry>
-  <entry>
-    <title>使わなくなったAndroidスマホを音楽専用機にする無料アプリ「reTONE」</title>
-    <id>https://av.watch.impress.co.jp/docs/news/2149179.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2149179.html" />
-    <updated>2026-10-19T11:48:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>使わなくなったAndroidスマホを音楽専用機にする無料アプリ「reTONE」</summary>
-  </entry>
-  <entry>
-    <title>GitHub - kanaworksai-hue/audio-studio-mcp: Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX) and Windows NVIDIA GPUs (PyTorch). No cloud, no API key.</title>
-    <id>https://github.com/kanaworksai-hue/audio-studio-mcp</id>
-    <link href="https://github.com/kanaworksai-hue/audio-studio-mcp" />
-    <updated>2026-10-19T07:33:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>JETROのホームページが不正アクセスで一時的に公開停止 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261019de61442</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261019de61442" />
-    <updated>2026-10-19T12:12:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JETRO＝日本貿易振興機構はホームページが不正アクセスを受けたことがわかったため、ホームページの公開を一時的に停止しています。 情報が漏えいしたかどうかなどを調査していて、現時点で復旧の見通しは立…</summary>
-  </entry>
-  <entry>
-    <title>「200ドル相当を払わなければクローンゲームを先に公開する」―日本のインディーSRPG開発者にもAI模倣作を先に出すとちらつかせる脅迫メールが届く… | Game*Spark - 国内・海外ゲーム情報サイト</title>
-    <id>https://www.gamespark.jp/article/2026/10/19/173774.html</id>
-    <link href="https://www.gamespark.jp/article/2026/10/19/173774.html" />
-    <updated>2026-10-19T11:58:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「200ドル相当を払わなければクローンゲームを先に公開する」―日本のインディーSRPG開発者にもAI模倣作を先に出すとちらつかせる脅迫メールが届く… | Game*Spark - 国内・海外ゲーム情報サイト</summary>
-  </entry>
-  <entry>
-    <title>書類選考なしで大手やスタートアップに行く方法｜手羽先</title>
-    <id>https://note.com/teba_eleven/n/nafba6d9ea3a7</id>
-    <link href="https://note.com/teba_eleven/n/nafba6d9ea3a7" />
-    <updated>2026-10-18T23:26:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>求人票に応募する人ほど、最初の仕事が遠い仕事を得るには、求人を探し、書類を出し、選考を通る必要がある。多くの学生はそう考えている。実績がなければ書類で落ち、書類で落ちるから実績ができない。この堂々巡りに悩んで、私のところへ相談に来る学生は多かった。2026年10月に私が行った15分のオンライン相談でも、...</summary>
-  </entry>
-  <entry>
-    <title>一日に二つの全く異なるコンセプトのオレオレOSを作って思ったこと/OSを作るとはどういうことなのか?｜shi3z</title>
-    <id>https://note.com/shi3zblog/n/naabc7413c8fc</id>
-    <link href="https://note.com/shi3zblog/n/naabc7413c8fc" />
-    <updated>2026-10-18T22:03:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>一人の人間がOSを一日に二つ作る。 人類はもうそこまできてしまった。 もはやOSを作ることというのは、特別なことでもなんでもない。 ワイシャツのとれたボタンを縫い直したり、家でホットケーキを作るようなものだ。 たまに若い人から「OSを作りたい」と言われたり、「プログラミング言語を作りました」と言われること...</summary>
   </entry>
 </feed>
