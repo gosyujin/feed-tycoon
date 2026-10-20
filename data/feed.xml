@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-21T01:00:16.648538+09:00</updated>
+  <updated>2026-10-21T01:30:13.467686+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIペネトレーションテスト基盤「Cairn」の公開パネルから見えた攻撃活動についてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/10/20/205855</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/20/205855" />
+    <updated>2026-10-20T21:01:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月19日、セキュリティ企業のNorForgeは、公開状態のまま放置されていたAIペネトレーションテスト基盤Cairnの管理画面から、AIエージェントによる攻撃活動を観測したとするレポートを公表しました。ここでは関連する情報をまとめます。 Cairnとは何か Cairnはオープンソースのエージェント基盤で、開発元のREADME...</summary>
+  </entry>
   <entry>
     <title>00:00-00:30 402 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/402</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-20T14:05:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026年9月以降、日本企業がハッカーにより不正アクセスされる被害が相次いでおり、AIを悪用したハッキングの高速化・高度化が懸念されています。サイバーセキュリティ企業のNorForgeで主席脅威研究員を務めるスノーレ・ファーゲルランド氏が、オープンソースAIツールの「Cairn」を用いたハッキングの実態について報告し...</summary>
-  </entry>
-  <entry>
-    <title>実装より先に仕様を検査する SDD の実践 - newmo 技術ブログ</title>
-    <id>https://tech.newmo.me/entry/2026/10/20/120000</id>
-    <link href="https://tech.newmo.me/entry/2026/10/20/120000" />
-    <updated>2026-10-20T13:00:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PRD に書かれていないことに、QA で初めて気づくことがあります。 たとえば「タクシーが迎えに着いた後で配車がキャンセルされたらどうなるか」です。 生成 AI に実装とテストを書かせると、この抜け漏れはもっと見えにくくなります。 AI が抜け漏れを勝手に埋め、テストもそれに合わせて通るからです。 newmo の QA で...</summary>
   </entry>
 </feed>
