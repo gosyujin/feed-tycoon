@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-21T07:00:13.463668+09:00</updated>
+  <updated>2026-10-21T07:30:13.548053+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>07:00-07:30 405 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/405</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/405" />
+    <updated>2026-10-21T07:29:46+09:00</updated>
+    <category term="新日" />
+    <summary>▶405 清宮って存在感ないのに皆が構うよな なんか不思議な存在だ</summary>
+  </entry>
+  <entry>
+    <title>LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした</title>
+    <id>https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture</id>
+    <link href="https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture" />
+    <updated>2026-10-20T23:37:43+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>会議のホワイトボードを写真に撮る。帰り道に「来週までに見積り」と声で残す。ここまでは誰でもやっています。問題はそのあとで、撮った写真も録った声も、二度と開かない。私のスマホには、読み返されたことのない音声メモが何十本も眠っています。 そこで、LINEに写真か音声を送るだけで、自宅のPCが文字に起こして、日記用のリポジトリへ分類してしまってくれる仕組みを作りました。文字起こしも要約もクラウドのAIは…</summary>
+  </entry>
+  <entry>
+    <title>PTCG AI Battle Challenge Simulation振り返り＆反省</title>
+    <id>https://zenn.dev/ryyy_my/articles/d35d4c655c63f2</id>
+    <link href="https://zenn.dev/ryyy_my/articles/d35d4c655c63f2" />
+    <updated>2026-10-20T20:50:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 「The Pokémon Company - PTCG AI Battle Challenge Simulation」に参加し、590/6807で銅メダルを獲得しました！初めてのメダルです🥉 メダルを取得してから1ヶ月半以上が経過していますが、コンペ振り返り会に参加し自分もコンペ期間中の取り組みについて振り返ろうと思い記事を書きました！ コンペの概要 今回の「The Pokémon Co…</summary>
+  </entry>
+  <entry>
+    <title>Go の依存管理は、最後は Google を信じるしかないのか？</title>
+    <id>https://zenn.dev/shiro_kuma_san/articles/a83ae3d82d26dc</id>
+    <link href="https://zenn.dev/shiro_kuma_san/articles/a83ae3d82d26dc" />
+    <updated>2026-10-20T14:30:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>前回の記事「npm との違いを手がかりに Go の依存管理を理解したい」の最後に、登壇までに調べきれなかった疑問を 4 つ挙げました。 この記事では、その 4 つを実際に調べた結果をまとめます。 npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う この記事で扱うこと 前回の記事では、go get の 6 ステップを追って「go.sum は l…</summary>
+  </entry>
+  <entry>
+    <title>Go 1.27 で追加された strings.CutLast を試す</title>
+    <id>https://zenn.dev/gemcook/articles/f408cc6b1f75ec</id>
+    <link href="https://zenn.dev/gemcook/articles/f408cc6b1f75ec" />
+    <updated>2026-10-20T11:32:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Go 1.27 で strings.CutLast と bytes.CutLast が追加されました。文字列を「最後に出てくる区切り文字」で前後に分ける関数です。 これまで「最後に出てくる区切り文字」で分割したいときに strings.LastIndex とスライスで手書きしていた処理を、1行で書けるようになります。業務で触っているコードにも LastIndex を使っている部分があり、…</summary>
+  </entry>
+  <entry>
+    <title>AIペネトレーションテストツール「Strix」を試してみた</title>
+    <id>https://zenn.dev/turquoise123/articles/df481032f6b405</id>
+    <link href="https://zenn.dev/turquoise123/articles/df481032f6b405" />
+    <updated>2026-10-20T08:08:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 最近、AIを使ったサイバー攻撃により日本のWebサービスでは情報漏洩事件が頻発するようになってしまいました。いちエンジニアとして大変悔しい思いですが、だからといって手をこまねいているわけにはいきません。まず、攻撃者の手口を知ることで、自分たちのアプリケーションがどこまで耐えられるのかを把握しておく必要があります。 そんな中、AIエージェントが自律的にWebアプリを攻撃し、脆弱性を発見・検…</summary>
+  </entry>
+  <entry>
+    <title>MCPサーバーを理解してみる さらに自作MCPサーバーを作ってみよう</title>
+    <id>https://zenn.dev/mosayan/articles/mcp-server-001</id>
+    <link href="https://zenn.dev/mosayan/articles/mcp-server-001" />
+    <updated>2026-10-20T07:50:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 現在、もう世間では当たり前ですが、業務でもプライベートでもClaudeやGeminiといった生成AIをバンバン利用しています。 その中でAIと各種サービスを連携してより便利にサービスを使いこなすことが可能です。 Claude Desktopだと各種サービスと連携するためのコネクタと呼ばれるものがMCPサーバーに当たりますが、実際のところMCPサーバーについてあまり気にせず利用しています。…</summary>
+  </entry>
   <entry>
     <title>動画で学ぶハニカム構造 : ボロノイ分割とドロネー三角形分割</title>
     <id>https://qiita.com/ken_aizawa/items/f9445a64f938fc3a6a00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -749,61 +805,5 @@
     <updated>2026-10-19T23:40:31+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに chakra-ui v3でDrawerにリンクをつけていた 問題 Buttonクリック時、リンク先には遷移するがドロワーが閉じなかった</summary>
-  </entry>
-  <entry>
-    <title>Private Agent Factoryで作るかんたんな業務エージェント</title>
-    <id>https://qiita.com/k_kane/items/a2428f62732632a40b9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/k_kane/items/a2428f62732632a40b9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T23:25:13+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Oracle AI Database Private Agent Factory (PAF) はOracle AI Databaseに付属のエージェント作成プラットフォームです。 Private Agent Factoryのご紹介: Oracle AI Data...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の cross-session messaging で、1 つの文書を複数のセッションと並列に編集する</title>
-    <id>https://qiita.com/megmogmog1965/items/503394c2e67881949b95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/megmogmog1965/items/503394c2e67881949b95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T20:43:46+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 本記事では、Claude Code の複数のセッションと、1 つの文書を並列に編集する方法を紹介します。論点ごとにセッションを分け、人間がそれぞれのセッションと直接やり取りして修正案を承認します。決まった内容は cross-session messaging で...</summary>
-  </entry>
-  <entry>
-    <title>Codexでゲームを作っていたら、小さなAI開発組織を回す実験になった</title>
-    <id>https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T17:33:01+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ゲームを作ってみようとCodexを使い始めたら、気付けばAIに役割を付け、Sprintまで回していました。ゲーム作りの横で、AIの仕事の割り振りまで試し始めています。 1. 最初は、Codexにゲームを一本作ってもらった ゲーム開発の苦労を味わってみたい、というところから...</summary>
-  </entry>
-  <entry>
-    <title>Anthropic OSS Scanner 登録ガイド、人間レビューなしの報告を捌く手順</title>
-    <id>https://qiita.com/kai_kou/items/b99961b38bff5956a35a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kai_kou/items/b99961b38bff5956a35a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T16:12:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに ある朝、メンテナンスしているライブラリ宛てに「critical」と書かれた脆弱性レポートがメールで届きます。再現コード（PoC）も修正パッチ案も付いています。ただし差出人の説明には「このレポートはモデルが生成し、人間はレビューしていません」とあります。このレポー...</summary>
-  </entry>
-  <entry>
-    <title>ローカルAIに実装を任せればClaudeのトークンは減る？ 実測したら逆だった（と、そこから分かったこと）</title>
-    <id>https://qiita.com/yukio3239/items/e02c811664e444686fe5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yukio3239/items/e02c811664e444686fe5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T11:14:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「設計はクラウドAI（Claude）、実装はローカルAI（Qwen）」と分担すれば、クラウドAIのトークン消費を減らせるのではないか。そう考えて、実際に測ってみました。 先に結論を書きます。 テスト1（クイック検索）では、Claude の料金は減るどころか約 ...</summary>
-  </entry>
-  <entry>
-    <title>本番DBで手作業しているSQLを、Django の管理画面の操作に置き換えたい</title>
-    <id>https://qiita.com/kkaattoo/items/1416801376bc60e1d027?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kkaattoo/items/1416801376bc60e1d027?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T10:03:53+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 前回の記事では、条件に合うメンバーを新しいチャンネルにまとめて参加させるSQLを、読みやすく書き直しました。 この記事では、そのSQLを本番DBに対して手作業で実行している運用を、どう変えるかを考えます。 前回と同じく、業務の内容はサンプルの例に置き換えて...</summary>
-  </entry>
-  <entry>
-    <title>16:30-17:00 328-333 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/328-333</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/328-333" />
-    <updated>2026-10-20T16:59:08+09:00</updated>
-    <category term="新日" />
-    <summary>▶328 ヒロシどう責任をとる… ▶329 声優グループの声優ABCDEっているとするじゃん 声優ABCDが審査通ってもEがダメだと全員アウトになるんだってアメリカ プロレスの場合はビザ通らなそうなやつは試合組まなきゃいいだけだしな ▶330 闘魂SHOPみたいな小規模通販サイトですらヤられるのか ▶331 なんで新日本はアメリカで興行できるの？ デスペもやってなかったっけ ▶332 昼寝してたら…</summary>
   </entry>
 </feed>
