@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-21T07:43:15.221245+09:00</updated>
+  <updated>2026-10-21T08:00:12.961050+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【セキュリティ ニュース】ウェブサーバ「nginx」に複数脆弱性 - 3件が「クリティカル」との評価も（1ページ目 / 全3ページ）：Security NEXT</title>
+    <id>https://www.security-next.com/191645</id>
+    <link href="https://www.security-next.com/191645" />
+    <updated>2026-10-20T18:15:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ウェブサーバ「nginx」や関連製品に複数の脆弱性が判明した。サービス拒否やコード実行、認証の回避、機密情報の漏洩などにつながるおそれがある。 F5は現地時間2026年10月14日、定例外のセキュリティアドバイザリを公開し、「nginx」に関する脆弱性5件や、関連製品の脆弱性6件のCVEベースであわせて11件の脆弱性を明ら...</summary>
+  </entry>
   <entry>
     <title>07:00-07:30 405 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/405</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-19T23:46:41+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに WebstormとReactですが他も同じだと思います 問題 いつもoption + enterで一個ずつインポートしていた 解決 option + shift + enter 終わりに とても便利</summary>
-  </entry>
-  <entry>
-    <title>chakra-ui v3でDrawerをクリックしてnavigateしても閉じない</title>
-    <id>https://qiita.com/J-T_ky2g/items/075c7f87b88867cff86e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/075c7f87b88867cff86e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-19T23:40:31+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに chakra-ui v3でDrawerにリンクをつけていた 問題 Buttonクリック時、リンク先には遷移するがドロワーが閉じなかった</summary>
   </entry>
 </feed>
