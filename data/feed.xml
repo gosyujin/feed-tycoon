@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-21T02:00:16.411813+09:00</updated>
+  <updated>2026-10-21T02:31:32.414986+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>あなたの会社は、慌てて脆弱性検査にARTEXを使わなくていい｜Yusuke Kawabata（SaaS運営）</title>
+    <id>https://note.com/uplucid/n/ncb9e3567ce2f</id>
+    <link href="https://note.com/uplucid/n/ncb9e3567ce2f" />
+    <updated>2026-10-21T00:34:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>前回、AIによる「自動化攻撃」に経営者はどのような対応をすればいいのかという話を書きました。おかげさまで多くの反響をいただいて私自身びっくりしました。 そして、本日はセキュリティ会社の調査で今回の大規模攻撃のいくつかはオープンソースのARTEXが使われていたことが判明したとニュースでにぎわっていました。 ...</summary>
+  </entry>
   <entry>
     <title>01:30-02:00 404 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/404</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-20T15:16:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>105時間にわたる攻防 侵入経路を塞いだ後もバックドアから…… 公表資料によると、攻撃者は不正アクセスを始めてから約10時間後、サービス間ログイン用のシークレットキーを含む設定ファイルを取得。総当たり攻撃を仕掛けて内部情報を取得した。 同社が不正アクセスを検知したのはその約7時間後。侵入経路を遮断したがバ...</summary>
-  </entry>
-  <entry>
-    <title>「Androidのマイナンバーカード」サービス開始 概要とセットアップ方法を紹介</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2610/20/news058.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2610/20/news058.html" />
-    <updated>2026-10-20T10:53:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は10月20日、「Androidのマイナンバーカード」のサービスを開始した。Android 12以降を導入済みのAndroidスマートフォンにおいて利用できるが、新機能の「属性証明機能（カード代替電磁的記録）」については対応機種がより制限される。 この記事では、Androidのマイナンバーカードの概要とセットアップ方法を...</summary>
   </entry>
 </feed>
