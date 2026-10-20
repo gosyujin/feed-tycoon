@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T22:00:17.171051+09:00</updated>
+  <updated>2026-10-20T22:30:13.770676+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>core-apiのテスト高速化に挑戦した半年 - inSmartBank</title>
+    <id>https://blog.smartbank.co.jp/entry/2026/10/20/190000</id>
+    <link href="https://blog.smartbank.co.jp/entry/2026/10/20/190000" />
+    <updated>2026-10-20T19:06:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは！エンジニアのnissyiです。Kaigi on Rails 2026があっという間に終わってしまい、なんとなく寂しさを感じている今日この頃です。 手前味噌ですが、私は今回のKaigi on Railsで「FactoryBotをやめればRSpecは速くなるのか？」という発表をしました。 この発表では、「core-api」というメインリポジトリで挑戦...</summary>
+  </entry>
   <entry>
     <title>21:30-22:00 366-368 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/366-368</id>
@@ -690,9 +698,9 @@
     <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
     <id>https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</id>
     <link href="https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006" />
-    <updated>2026-10-20T19:22:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>長らく ESLint + Prettier を使ってきました。大きな不満はなかったものの、実行時間が少し気になっていました。そこで、Biome と Oxc を実際のモノレポで検証して、最終的に Oxlint + Oxfmt に移行しました。 この記事では、Biome と Oxc を比較・検証した過程と、Oxlint + Oxfmt を使ってコーディング規約をコードとし...</summary>
+    <updated>2026-10-20T11:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>長らく ESLint + Prettier を使ってきました。大きな不満はなかったものの、実行時間が少し気になっていました。そこで、Biome と Oxc を実際のモノレポで検証して、最終的に Oxlint + Oxfmt に移行しました。 この記事では、Biome と Oxc を比較・検証した過程と、Oxlint + Oxfmt を使ってコーディング規約をコードとして強制する運用を紹介します。…</summary>
   </entry>
   <entry>
     <title>Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-20T12:54:08+09:00</updated>
     <category term="新日" />
     <summary>▶299 &gt;&gt;297 おかげでNGが楽 ▶300 腿ペチといえば丸藤 ▶301 タイチの白パンツがおむつにしか見えないんだが ▶302 入門テストの倍の数できるようにしてからテストを受けたとか 根性ある努力家だね https://youtu.be/9IcdRQ4t3Fo?si=uv_i7ySRtphXN0GT</summary>
-  </entry>
-  <entry>
-    <title>相次ぐ個人情報漏えいの一因「A2B攻撃」 正体は20年前から言われ続けた“あの教訓”だった</title>
-    <id>https://www.itmedia.co.jp/enterprise/articles/2610/20/news018.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2610/20/news018.html" />
-    <updated>2026-10-20T07:56:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>かつて私が担当していた、アイティメディアが運営する開発者向けメディア「＠IT」の「星野君のWebアプリほのぼの改造計画」という人気連載がありました。すてきなイラストとともに、Webアプリにおけるセキュリティの落とし穴を紹介するというもので、私自身もこの連載で勉強させていただきました。 特に好きなエピソード...</summary>
   </entry>
 </feed>
