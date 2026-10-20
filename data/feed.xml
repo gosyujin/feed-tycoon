@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T23:30:16.210236+09:00</updated>
+  <updated>2026-10-21T00:00:09.988177+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ふるさとチョイス、不正アクセスで445万件漏えい 寄附控除試算額も</title>
+    <id>https://www.watch.impress.co.jp/docs/news/2149772.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2149772.html" />
+    <updated>2026-10-20T20:21:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ふるさとチョイス、不正アクセスで445万件漏えい 寄附控除試算額も</summary>
+  </entry>
+  <entry>
+    <title>脆弱性対応は「点数」から「リスク」へ――CVSS、KEV、BOD 26-04を踏まえた優先順位の付け方</title>
+    <id>https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news014.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2610/13/news014.html" />
+    <updated>2026-10-20T10:51:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>脆弱性対応は「点数」から「リスク」へ――CVSS、KEV、BOD 26-04を踏まえた優先順位の付け方：辻伸弘の「投げます。一石、」（5）（1/2 ページ） 脆弱性の発見数が対処のスピードを上回ることが確実になった今、あきらめてしまう以外の方法を考える必要がある。脆弱性を評価する方法を「点数」ではなく「リスクマネジメン...</summary>
+  </entry>
   <entry>
     <title>「Cloudflare OS」のマネージドサービス提供へ。GitHubとの接続やGmailとの連携強化など</title>
     <id>https://www.publickey1.jp/blog/26/cloudflare_osgithubgmail.html</id>
@@ -175,7 +191,7 @@
     <summary>DeepInfer is the high-performance inference framework that powers DeepSeek's large-scale production services. This open-source release provides offline inference with the core features needed for serv…</summary>
   </entry>
   <entry>
-    <title>不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク</title>
+    <title>ふるさとチョイス、不正アクセスによる寄附者様情報の外部流出に関するお詫びとお知らせ | NEWSROOM | 株式会社トラストバンク</title>
     <id>https://www.trustbank.co.jp/newsroom/newsrelease/news261020/</id>
     <link href="https://www.trustbank.co.jp/newsroom/newsrelease/news261020/" />
     <updated>2026-10-20T19:59:09+09:00</updated>
@@ -789,21 +805,5 @@
     <updated>2026-10-20T12:13:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>Anthropicは、オープンソースソフトウェア(OSS)の脆弱性をClaude Mythosなど自社の最上位モデルで検査する「OSS Scanner」について、提供開始から11日間でAI判定の深刻度「緊急」77件、「重要」803件を発見したことを明らかにしました。 ■ 人手の検証を待たずに届く脆弱性レポートOSS Scannerは、OSSプロジェクトのメン...</summary>
-  </entry>
-  <entry>
-    <title>tueks x AkibaAudioPartsCenter</title>
-    <id>https://www.tueks3.com/tueks-x-akibaaudiopartscenter</id>
-    <link href="https://www.tueks3.com/tueks-x-akibaaudiopartscenter" />
-    <updated>2026-10-18T22:08:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>-----アキバオーディオパーツセンター店長、超真空管さん。今日はよろしくお願いします！ アキバオーディオパーツセンターの、超真空管と呼ばれている人です。よろしくお願いします。 -----あなたはどんな人ですか？ 普通の生き方はしてないと思いますね。 私は工業高校を卒業してから、ずっとモノが作りたかったのでも...</summary>
-  </entry>
-  <entry>
-    <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
-    <id>https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</id>
-    <link href="https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006" />
-    <updated>2026-10-20T19:22:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>長らく ESLint + Prettier を使ってきました。大きな不満はなかったものの、実行時間が少し気になっていました。そこで、Biome と Oxc を実際のモノレポで検証して、最終的に Oxlint + Oxfmt に移行しました。 この記事では、Biome と Oxc を比較・検証した過程と、Oxlint + Oxfmt を使ってコーディング規約をコードとし...</summary>
   </entry>
 </feed>
