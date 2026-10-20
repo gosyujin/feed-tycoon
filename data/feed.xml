@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T13:58:01.277770+09:00</updated>
+  <updated>2026-10-20T14:00:13.415865+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Oxlint + Oxfmt で規約をコード化するモノレポ運用</title>
+    <id>https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006</id>
+    <link href="https://zenn.dev/reality_tech/articles/oxc-monorepo-20261006" />
+    <updated>2026-10-20T11:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>長らく ESLint + Prettier を使ってきました。大きな不満はなかったものの、実行時間が少し気になっていました。そこで、Biome と Oxc を実際のモノレポで検証して、最終的に Oxlint + Oxfmt に移行しました。 この記事では、Biome と Oxc を比較・検証した過程と、Oxlint + Oxfmt を使ってコーディング規約をコードとして強制する運用を紹介します。…</summary>
+  </entry>
+  <entry>
+    <title>Chromium(V8)のArray.prototype.fillを最大約7倍高速化した</title>
+    <id>https://zenn.dev/dinii/articles/5b8edc7856c25b</id>
+    <link href="https://zenn.dev/dinii/articles/5b8edc7856c25b" />
+    <updated>2026-10-20T10:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに ! 修正や追加等はコメントまたはGitHubで編集リクエストをお待ちしております。 ダイニーで一番若いエンジニアのriya amemiya(21歳)です。 (V8の配列系メソッド高速化職人をそろそろ名乗っても怒られないんじゃないか？と最近思い始めました🧐) 今回は Array.prototype.fill（以下 fill）をSmiとdouble向けに最大約7倍高速化しました。 V8の配列…</summary>
+  </entry>
+  <entry>
+    <title>macOSで特定のビューをスクリーンキャプチャから隠す</title>
+    <id>https://zenn.dev/d_date/articles/macos-capture-protection-preventscapture</id>
+    <link href="https://zenn.dev/d_date/articles/macos-capture-protection-preventscapture" />
+    <updated>2026-10-20T00:20:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに macOSのSwiftUI・AppKitアプリで、特定のビューを画面に表示しながら、スクリーンショットや画面収録から除外する方法を調べました。結論は、AVSampleBufferDisplayLayer.preventsCaptureを設定したレイヤーを、対象ビューのマスクに使う方法です。 iOSDC Japan 2025の発表“SwiftUI時代のスクショ保護〜セキュアなViewの作り…</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare + EmDash の自サイトを点検したら Server-Timing から内部情報が見えていた話</title>
+    <id>https://zenn.dev/masaru21/articles/2100616bb5110d</id>
+    <link href="https://zenn.dev/masaru21/articles/2100616bb5110d" />
+    <updated>2026-10-19T23:42:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Webサイトのセキュリティについて勉強するため、まずは自分で管理しているサイトを実際に点検してみることにしました。 対象は、Cloudflare上で動かしている自分のWebサイトです。 構成は大まかに、 Cloudflare Workers Astro EmDash CMS Cloudflare D1 Cloudflare KV Cloudflare R2 などを利用しています。 今回は、いきなり…</summary>
+  </entry>
+  <entry>
+    <title>Progate git自作インターン参加記〜AIとチーム開発との付き合い方〜</title>
+    <id>https://zenn.dev/yurapii/articles/2622d98d641acc</id>
+    <link href="https://zenn.dev/yurapii/articles/2622d98d641acc" />
+    <updated>2026-10-19T19:49:53+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Progateさんの5Daysインターンに参加してきました。 期間：2026年9月7〜11日 課題：チームでTypeScriptを用いてgit log, add, commitを実装すること 夏休み中に何か経験を積みたいと思い、調べていく中でこのインターンを見つけました。5Daysなら初めての経験として程よい長さだし、Progateさんはプログラミングの勉強やハッカソンでお世話になってい…</summary>
+  </entry>
+  <entry>
+    <title>コーディングエージェントを用いた開発 2026 下期</title>
+    <id>https://zenn.dev/rounda_blog/articles/5f266fb2b9da1d</id>
+    <link href="https://zenn.dev/rounda_blog/articles/5f266fb2b9da1d" />
+    <updated>2026-10-19T13:13:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>気が付けば 10 月も後半 (しかも会社は期末) ということで、コーディングエージェントを使った開発の振り返りをまとめてみます。 本格的にコーディングエージェントで開発を始めたのは今年の 2 月ごろなので、だいたい半年ちょっとです。まだまだ模索中なので、「今の時点ではこうしている」という記録として読んでもらえればと思います。（ちょっと長いです） 契約と役割 提供元 プラン 役割 Claude (W…</summary>
+  </entry>
   <entry>
     <title>13:00-13:30 303-305 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/303-305</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-20T00:47:48+09:00</updated>
     <category term="Publickey" />
     <summary>Amazon Web Services（AWS）は、Azure SDKで書かれた.NETアプリケーションをAWS SDKを用いたコードに変換する新機能をAWS Transformに搭載したと発表しました。 これによりMicrosoft Az...</summary>
-  </entry>
-  <entry>
-    <title>AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表</title>
-    <id>https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html</id>
-    <link href="https://www.publickey1.jp/blog/26/aws_lambdanextjshononodejsaws_lambda_web_functions.html" />
-    <updated>2026-10-20T00:11:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AWS LambdaでNext.jsやHonoなどNode.jsフレームワークとアプリをそのままデプロイ、実行できる「AWS Lambda Web Functions」発表 Amazon Web Services（AWS）は、サーバレス基盤のAWS Lambda上でNext.jsやExpress、Hono、FastifyなどのNode.js用フレームワークとそのアプリケーションをそのままデプロイし…</summary>
-  </entry>
-  <entry>
-    <title>22:30-23:00 264-266 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/264-266</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/264-266" />
-    <updated>2026-10-19T22:37:04+09:00</updated>
-    <category term="新日" />
-    <summary>▶264 &gt;&gt;262 え、あれよりストーリーないのかよ HOT劇場より薄かったぞ ▶265 新日スレ民でWWE追ってる人いる？ ネトフリで観られるようになったから観ようと思ったけどどういう流れで観ればいいの？ WWEスレで聞いたら叩かれそうなので教えて欲しいのです ▶266 &gt;&gt;265 ネトフリ入る以外になんの段取りもないぞ 適当にトップページ彷徨いてたら表示される</summary>
-  </entry>
-  <entry>
-    <title>22:00-22:30 259-263 (5件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/259-263</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/259-263" />
-    <updated>2026-10-19T22:25:18+09:00</updated>
-    <category term="新日" />
-    <summary>▶259 スーパーマリオギャラクシーとストリートファイターどっちがつまらん？ ▶260 &gt;&gt;251 実際やったらどれくらい売れるかね ワールド退会は続出だろうけど ▶261 &gt;&gt;210 昔でいうところの夢☆勝ちマッチだな ▶262 &gt;&gt;259 マリオギャラクシーがストーリーやってる分そっちのがマシ ▶263 ノリックって死んだだろ</summary>
-  </entry>
-  <entry>
-    <title>不正アクセスの経過と当社の対処について | 株式会社アルカディア</title>
-    <id>https://raiden.site.ktaiwork.jp/wp-content/uploads/sites/2/2026/10/2026_10_19AccessIncident.pdf</id>
-    <link href="https://raiden.site.ktaiwork.jp/wp-content/uploads/sites/2/2026/10/2026_10_19AccessIncident.pdf" />
-    <updated>2026-10-19T21:33:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不正アクセスの経過と当社の対処について ２０２６年１０月１９日 株式会社アルカディア 代表取締役社長 天白成一 このたびの不正アクセスにより多大なるご迷惑とご心配をおかけしておりますことを、深くお 詫び申し上げます。これまで公式ブログや管理者様向けメールなどを通じて随時情報更新に努 めてまいりました。さ...</summary>
-  </entry>
-  <entry>
-    <title>「ふるさとチョイス」で不正アクセスの疑い サービス一時停止 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261019de61781</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261019de61781" />
-    <updated>2026-10-19T18:36:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは19日、サイトで不正アクセスの疑いがある事象を検知したとして、サービスを一時、停止していると明らかにしました。 個人情報の漏えい…</summary>
-  </entry>
-  <entry>
-    <title>「HomeView」で動き出すアップルのスマートホーム Siri AIの可能性と日本の課題【西田宗千佳のイマトミライ】</title>
-    <id>https://www.watch.impress.co.jp/docs/series/nishida/2149089.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/series/nishida/2149089.html" />
-    <updated>2026-10-19T08:57:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「HomeView」で動き出すアップルのスマートホーム Siri AIの可能性と日本の課題【西田宗千佳のイマトミライ】</summary>
   </entry>
 </feed>
