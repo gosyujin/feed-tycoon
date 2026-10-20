@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-20T13:00:14.202703+09:00</updated>
+  <updated>2026-10-20T13:30:12.992306+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ChatGPT広告は誰に何を表示しているのか？ 米大学が91のおとりアカウントで実態調査</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/20/2000002375/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/20/2000002375/" />
+    <updated>2026-10-20T12:42:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>研究チームは、米国在住の多様なユーザーを模倣するため、異なる人種（黒人、ヒスパニック、白人）、3つの所得水準（低、中、高）を組み合わせた91個のアカウントを作成した。 それぞれの想定居住地域に合わせたネットワークを経由させながら、日常的な疑問から社会問題まで様々な質問を毎日ChatGPTに投げかけ、どのよう...</summary>
+  </entry>
+  <entry>
+    <title>COBOLやVBなど旧式言語でGPT-6急伸、正解率5%から最大98%とOpenAI発表 熟練者減少のレガシー刷新に光明 | テクノエッジ TechnoEdge</title>
+    <id>https://www.techno-edge.net/article/2026/10/20/5611.html</id>
+    <link href="https://www.techno-edge.net/article/2026/10/20/5611.html" />
+    <updated>2026-10-20T12:35:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIは米国時間10月19日、COBOLやFortran、Visual Basicなどレガシーなプログラミング言語について、自社モデルGPT-6シリーズのコード生成・移植能力が劇的に向上したと発表しました。 COBOLから別言語への書き換えでは、前世代のGPT-5.6 Solが正答率5.4%だったのに対して、9月29日公開のGPT-6.1 Solは同設定で86.6%、...</summary>
+  </entry>
+  <entry>
+    <title>メドレー、不正アクセスで停止中のサービスを作り直して再開へ 従来システムは再稼働させず</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/20/2000002413/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/20/2000002413/" />
+    <updated>2026-10-20T11:53:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>メドレーは10月19日、不正アクセスを受けて停止している医療機関向け業務支援システム「@link（アットリンク）」について、22日午前7時以降に一部機能の提供を再開すると発表した。従来のシステムは再稼働させず、別の環境に新たに構築したサービスにデータを移行し、院内業務への影響が大きい機能から段階的に提供する...</summary>
+  </entry>
+  <entry>
+    <title>ハッカーが企業のシステムに侵入して8億円分のギフトカードを不正発行、全米の店舗で高額商品を買いあさっていたことが判明</title>
+    <id>https://gigazine.net/news/20261020-chinese-crime-ring-hacked-staples/</id>
+    <link href="https://gigazine.net/news/20261020-chinese-crime-ring-hacked-staples/" />
+    <updated>2026-10-20T11:17:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アメリカの大手オフィス用品販売企業「Staples(ステープルズ)」の社内システムに中国系犯罪組織が侵入し、500万ドル(約8億円)以上に相当するギフトカードを不正発行していたことが明らかになりました。犯罪組織は発行したギフトカードを使ってアメリカ各地の小売店で大量の電子機器を購入し、一部の商品を中国に送ってい...</summary>
+  </entry>
   <entry>
     <title>12:30-13:00 299-302 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/299-302</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-19T14:45:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>現在、他社のオンラインサービス（以下「他社サービス」）で流出したと思われるメールアドレス／アカウントIDおよびパスワードを組み合わせて、お客様のスクウェア・エニックス アカウントへの不正なログインが行われているケースがあることを確認しております。 お客様が他社サービスでお使いになっているメールアドレ...</summary>
-  </entry>
-  <entry>
-    <title>AWS Lambda Web FunctionsでImpossible Location検知の課題をまとめて解決！ + 昨今の攻撃への有効性</title>
-    <id>https://zenn.dev/cscloud_blog/articles/f4ce99ffeb8ee3</id>
-    <link href="https://zenn.dev/cscloud_blog/articles/f4ce99ffeb8ee3" />
-    <updated>2026-10-19T13:08:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>これまで下記の 2 本の記事で、Amazon CloudFront を使ってセッションハイジャックを検知・ブロックする仕組みを紹介してきました。 CloudFront Functions + KVS 編：エッジで高速に検証できる。ただしアプリ改修が必要で、KVS の 5MB 上限・TTL なし・結果整合と付き合う必要がある Lambda@Edge 編：アプリ無改修。ただし署名付き Cookie な…</summary>
-  </entry>
-  <entry>
-    <title>【Excel】Web版のExcelでも作業を自動化！ CopilotでOffice Scriptsを作る【いまさら聞けないExcelの使い方講座】</title>
-    <id>https://forest.watch.impress.co.jp/docs/serial/exceltips/2148977.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/exceltips/2148977.html" />
-    <updated>2026-10-19T10:45:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【Excel】Web版のExcelでも作業を自動化！ CopilotでOffice Scriptsを作る【いまさら聞けないExcelの使い方講座】</summary>
-  </entry>
-  <entry>
-    <title>ドメインの境界を引くだけでは、業務はつながらない</title>
-    <id>https://zenn.dev/dress_code/articles/4a76f1b88e360d</id>
-    <link href="https://zenn.dev/dress_code/articles/4a76f1b88e360d" />
-    <updated>2026-10-19T09:00:00+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Dress Code 株式会社のかわうそです。 DDDの設計を考えていると、Bounded Contextをどこで分けるか、Aggregateに何を含めるかに意識が向きます。業務の言葉を掘り下げ、守るべきルールをモデルにする。この設計には時間をかけるべきだと思います。 ただ、そこで各ドメインのモデルができても、プロダクト全体の設計が済んだとは言えません。別々のモデルが同じ人物を指すことも…</summary>
-  </entry>
-  <entry>
-    <title>本番DBに不要なレコードを数千万件登録してしまった話</title>
-    <id>https://zenn.dev/geekplus/articles/a615dfe41557d8</id>
-    <link href="https://zenn.dev/geekplus/articles/a615dfe41557d8" />
-    <updated>2026-10-16T18:00:09+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ある日、普段数分以内で完了するはずのバッチジョブからレイテンシーアラートが上がってきました。 調査すると、出荷明細の補足情報を登録する処理で、大量のINSERTが発生しています。 このままでは、他の入出荷等にも影響を及ぼすため、早急な解消が必要な状況です。 この記事では、無駄に増殖してしまったデータとの戦いについてご紹介します。 何が起きていたのか 問題のINSERTが発生している箇所を調査したと…</summary>
   </entry>
 </feed>
