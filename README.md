@@ -67,6 +67,10 @@ feed-tycoon/
 - Service Worker は、サンドボックス化された検証用ブラウザでは `register()` 自体が失敗し、動作確認できない。SW の変更は本番オリジン(<https://note.gosyujin.com/feed-tycoon/>)で、`caches.keys()` / `caches.open()` などをコンソールから叩いて確認する。
 - フッターは `ビルドSHA (日時) / 次回更新: HH:MM頃` の形式で、次回更新は更新ワークフロー(`feed-sync.yml`)のページへのリンク。次回更新は `data/meta.json` の `nextEstimate`(取得時刻 + 30 分)。取得に失敗したソースがあると、末尾に「取得失敗: …」を出す。
 - 対象外: X(Twitter)、JS 描画が必要なサイト、push 通知。`html` 型ソースは未実装。
+- **CSP(meta)で外部のscriptと通信先を絞っている。** `note.gosyujin.com`は他の個人アプリと同一オリジンで`localStorage`を共有するため、同居アプリのXSSや外部スクリプトの改ざんから、このアプリのGist用PAT(`feed-tycoon:gistToken`)などを読ませない/持ち出させないための対策。
+  - `script-src`は自サイトと`https://b.hatena.ne.jp/entry/jsonlite/`(はてブ件数のJSONP。パス限定)だけ。`connect-src`は自サイト・GitHub API・`gist.githubusercontent.com`だけ。インラインscript・`eval`は不可。
+  - **外部API・CDN・フォントなどを足す時は`index.html`のCSPも同時に更新する**(忘れると本番でだけブロックされる。コンソールに`Refused to ...`)。画像は任意の記事サイトから来るため`img-src https:`で広く許可している。
+  - 実機確認(Gist同期・取得元の編集・Service Worker)は未。
 
 ## cron の定期取得が不安定な問題への対処
 
