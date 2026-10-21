@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-21T11:30:14.909821+09:00",
-  "nextEstimate": "12:00",
+  "updatedAt": "2026-10-21T12:00:17.583244+09:00",
+  "nextEstimate": "12:30",
   "sources": {
     "publickey": {
       "name": "Publickey",
       "url": "https://www.publickey1.jp/atom.xml",
-      "fetchedAt": "2026-10-21T11:30:14.909821+09:00",
+      "fetchedAt": "2026-10-21T12:00:17.583244+09:00",
       "etag": "\"6e11-65e4ec46841aa\"",
       "lastModified": "Wed, 21 Oct 2026 00:24:15 GMT",
       "ok": true,
@@ -15,7 +15,7 @@
     "hateb-it": {
       "name": "はてブ IT",
       "url": "https://b.hatena.ne.jp/hotentry/it.rss",
-      "fetchedAt": "2026-10-21T11:30:14.909821+09:00",
+      "fetchedAt": "2026-10-21T12:00:17.583244+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
@@ -24,35 +24,36 @@
     "zenn": {
       "name": "Zenn トレンド",
       "url": "https://zenn.dev/feed",
-      "fetchedAt": "2026-10-21T11:30:14.909821+09:00",
+      "fetchedAt": "2026-10-21T12:00:17.583244+09:00",
       "etag": null,
-      "lastModified": "Wed, 21 Oct 2026 00:56:49 GMT",
+      "lastModified": "Wed, 21 Oct 2026 02:11:51 GMT",
       "ok": true,
-      "notModified": true,
       "count": 20
     },
     "qiita": {
       "name": "Qiita トレンド",
       "url": "https://qiita.com/popular-items/feed",
-      "fetchedAt": "2026-10-21T11:30:14.909821+09:00",
+      "fetchedAt": "2026-10-21T12:00:17.583244+09:00",
       "etag": "W/\"ad5af6bf1017334e883991ec952d3156\"",
       "lastModified": null,
       "ok": true,
+      "notModified": true,
       "count": 30
     },
     "www-jpcert-or-jp-rss": {
       "name": "JPCERT",
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
-      "fetchedAt": "2026-10-21T11:30:14.909821+09:00",
+      "fetchedAt": "2026-10-21T12:00:17.583244+09:00",
       "etag": "\"5050-65e502d706840\"",
       "lastModified": "Wed, 21 Oct 2026 02:05:13 GMT",
       "ok": true,
+      "notModified": true,
       "count": 30
     },
     "5ch-rss-kk-ataka-workers-dev-feed-xml": {
       "name": "新日",
       "url": "https://5ch-rss.kk-ataka.workers.dev/feed.xml?…",
-      "fetchedAt": "2026-10-21T11:30:14.909821+09:00",
+      "fetchedAt": "2026-10-21T12:00:17.583244+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
