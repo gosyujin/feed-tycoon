@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T05:30:14.990239+09:00</updated>
+  <updated>2026-10-22T05:55:02.650278+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/22/2000002480/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/22/2000002480/" />
+    <updated>2026-10-22T01:04:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>プログラミング言語「PHP」開発プロジェクトは10月21日（協定世界時）、「緊急」レベルの脆弱性2件を修正したPHP 8.5.12／8.4.27／8.3.36／8.2.35を公開したと発表した。20日に予告していたセキュリティアップデートに関するもので、攻撃者が遠隔で任意のコードを実行できてしまう脆弱性などを修正する。「全てのPHPユー...</summary>
+  </entry>
   <entry>
     <title>プログラム言語PHPに重大欠陥 ウェブ7割で使用、攻撃の恐れ（共同通信） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/58d44be22eb9b20ce344a8e50791b0276153e5e5</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-21T08:32:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに gridbase は、手元の Web アプリを公開 URL で見せるための HTTP トンネルを、自分のサーバーで動かす OSS です。 ngrok のようなサービスを、自前で持てる感覚です。 docker compose up 1回で、トンネルのサーバーと管理...</summary>
-  </entry>
-  <entry>
-    <title>パスワード管理ツールについて調べた（1Password・Bitwarden）</title>
-    <id>https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kozakoza/items/534ca5aadd59bfd1f6b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-21T08:08:58+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに パスワード管理ツールはなんとなく安全なんだろうなぐらいの認識だったので、どういう仕組みなのかを調べてみました。 この記事で扱うパスワード管理ツールは、1PasswordとBitwardenです。 パスワードを管理している仕組みや、Googleパスワードマネージャ...</summary>
   </entry>
 </feed>
