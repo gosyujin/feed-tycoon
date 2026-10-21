@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T00:00:10.622331+09:00</updated>
+  <updated>2026-10-22T00:30:16.177091+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>00:00-00:30 536 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/536</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/536" />
+    <updated>2026-10-22T00:11:00+09:00</updated>
+    <category term="新日" />
+    <summary>▶536 そんなことよりWWE行ったナラさんは大丈夫なのか？ リリースされたりしない？</summary>
+  </entry>
+  <entry>
+    <title>23:30-00:00 533-535 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/533-535</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/533-535" />
+    <updated>2026-10-21T23:53:35+09:00</updated>
+    <category term="新日" />
+    <summary>▶533 新日三大ランボー ニュージャパン 登別 ガイジ ▶534 こんなスレの流れでもELPのTV王座戦より見れる ▶535 &gt;&gt;533 どれに優勝すれば東京ドームへ辿り着けますか？</summary>
+  </entry>
+  <entry>
+    <title>Today's PHP Security Release, and How We're Strengthening PHP Security</title>
+    <id>https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/</id>
+    <link href="https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/" />
+    <updated>2026-10-21T23:53:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Earlier today, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36, and 8.2.35. These releases fix two critical vulnerabilities that, under the right conditions, allow an unauthenticated attacker to e…</summary>
+  </entry>
+  <entry>
+    <title>[security] Update to 8.5.12, 8.4.27, 8.3.36, 8.2.35 by jnoordsij · Pull Request #1694 · docker-library/php</title>
+    <id>https://github.com/docker-library/php/pull/1694</id>
+    <link href="https://github.com/docker-library/php/pull/1694" />
+    <updated>2026-10-21T23:14:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
+  </entry>
+  <entry>
+    <title>php2shell by Calif Research</title>
+    <id>https://calif.io/php2shell/</id>
+    <link href="https://calif.io/php2shell/" />
+    <updated>2026-10-21T22:58:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The year was 2004. The iPhone was yet to be invented and our very own Stefan Esser was still the PHP security guy. Read the scene2004. Stefan searches for forbidden knowledge and discovers an ancient…</summary>
+  </entry>
+  <entry>
+    <title>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the Internet | Wiz Blog</title>
+    <id>https://www.wiz.io/blog/php2shell-php-rce</id>
+    <link href="https://www.wiz.io/blog/php2shell-php-rce" />
+    <updated>2026-10-21T22:58:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PHP2Shell: AI uncovers critical RCE vulnerabilities affecting 70% of the InternetCore PHP engine flaws enable remote code execution and Heartbleed-style memory disclosure across the web. Executive Sum…</summary>
+  </entry>
+  <entry>
+    <title>Oracle Java の脆弱性対策について(2026年10月) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+    <id>https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html</id>
+    <link href="https://www.ipa.go.jp/security/security-alert/2026/1021-jre.html" />
+    <updated>2026-10-21T17:10:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>概要 2026年10月21日（日本時間）に Oracle Java に関するセキュリティ更新プログラムが公表されています。 これらの脆弱性を悪用された場合、アプリケーションプログラムが異常終了する、攻撃者によってパソコンを制御される、といった様々な被害が発生するおそれがあります。 攻撃が行われた場合の影響が大きいため、...</summary>
+  </entry>
   <entry>
     <title>Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
     <id>https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</id>
@@ -749,61 +805,5 @@
     <updated>2026-10-21T14:14:58+09:00</updated>
     <category term="新日" />
     <summary>▶452 レオナどうせランボーに出るんでしょ ▶453 &gt;&gt;440 DDTでも武知の出る後楽園大会が満員にならなくなったから いつまでも集客効果を期待してもしゃーないのにな</summary>
-  </entry>
-  <entry>
-    <title>「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2149962.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2149962.html" />
-    <updated>2026-10-21T13:50:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「PHP」に“致命的”な脆弱性2件、日本時間21日深夜に緊急のセキュリティリリースへ／「CVSS 4.0」のスコアは「9.2」、すぐに更新できるよう準備を</summary>
-  </entry>
-  <entry>
-    <title>裁判官がMetaに対しシャドウライブラリやトレントサイトから書籍を入手することを承認した人物全員を特定するよう命じる</title>
-    <id>https://gigazine.net/news/20261021-meta-approved-torrenting/</id>
-    <link href="https://gigazine.net/news/20261021-meta-approved-torrenting/" />
-    <updated>2026-10-21T13:34:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Metaは著作権で保護されたコンテンツをAIのトレーニングに使用した疑いで訴えられています。2026年10月19日には治安判事がMetaに対し、海賊版書籍を含むシャドウライブラリ(海賊版ライブラリ)のデータ取得やBitTorrentの利用を決定・承認した人物を特定するよう命じました。 Judge Orders Meta to Name Employees Who Ap...</summary>
-  </entry>
-  <entry>
-    <title>EKS に Graviton を導入して、arm64 と amd64 を混ぜて運用を始めました</title>
-    <id>https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration</id>
-    <link href="https://zenn.dev/socialplus/articles/eks-graviton-arm64-migration" />
-    <updated>2026-10-21T12:00:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、ソーシャルPLUSの三口です! 弊社では Amazon EKS 上で Rails のアプリケーションを動かしていますが、これまでノードはすべて Intel/AMD (amd64) のインスタンスでした。今回、そのノードに AWS Graviton (arm64) を導入し、Spot インスタンスでは arm64 と amd64 を混ぜて運用する構成にしました。 Graviton への移…</summary>
-  </entry>
-  <entry>
-    <title>Package.resolved の originHash は何のためにあるのか</title>
-    <id>https://zenn.dev/zunda_pixel/articles/ecba94910fa062</id>
-    <link href="https://zenn.dev/zunda_pixel/articles/ecba94910fa062" />
-    <updated>2026-10-21T10:58:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Renovate が依存を上げた PR をマージしたあと、tuist install を流すと Package.resolved の 1 行だけが書き換わるようになりました。 Package.resolved { - "originHash" : "b51d86e0d60dc9c07d7da15f1bb995c680b75f60f09f0ee586aea8f14852849d", + "origi…</summary>
-  </entry>
-  <entry>
-    <title>Devinに問い合わせ調査を任せて見えてきた「原因未特定」の正体。過去の約700件を分類してみた</title>
-    <id>https://zenn.dev/canly/articles/9c19bb123e208c</id>
-    <link href="https://zenn.dev/canly/articles/9c19bb123e208c" />
-    <updated>2026-10-21T10:10:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、カンリー店舗集客チームの山下です。 私たちのチームでは、CSやCRといった顧客対応のチームから開発に来る問い合わせの一次調査を、AIエージェントのDevinにやってもらっています。 運用を始めてしばらく経ちましたが、AIが原因まで特定できる問い合わせと、「原因未特定」としてエンジニアに引き継がれる問い合わせがあると感じていました。 では、AIが原因を特定しきれないのはどんな問い合わせな…</summary>
-  </entry>
-  <entry>
-    <title>【重要】[お名前.com デスクトップクラウド]第三者による不正アクセスに関するお詫びとお知らせ（2026年10月21日 4:00時点）｜[2026/10/21]｜ドメイン取るならお名前.com</title>
-    <id>https://www.onamae.com/news/article/11584/</id>
-    <link href="https://www.onamae.com/news/article/11584/" />
-    <updated>2026-10-21T08:42:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>優良中古ドメイン 優良中古ドメインのオークション/予約サービス 集客効率向上が見込める中古ドメイン。「検索エンジン評価」や「文字列の分かりやすさ」に優れたドメインが見つかります。</summary>
-  </entry>
-  <entry>
-    <title>dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド</title>
-    <id>https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10</id>
-    <link href="https://zenn.dev/zenkigen_tech/articles/1714ede7f27e10" />
-    <updated>2026-10-21T08:00:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>dbt と Cloud DLP で面接の文字起こしから氏名を消す実装ガイド こんにちは。ZENKIGEN でデータエンジニアをしている @Nazuna720 です。 この半年間、「個人情報をマスキングした上で、本文テキストを抽出・分析対象としたい」という要件に取り組んできました。 この記事では、その中で構築した Cloud DLP による氏名マスクの仕組みを紹介します。同じ構成を検討している方が、…</summary>
   </entry>
 </feed>
