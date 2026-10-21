@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-21T15:05:43.875562+09:00</updated>
+  <updated>2026-10-21T15:30:15.508870+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>15:00-15:30 459-461 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/459-461</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/459-461" />
+    <updated>2026-10-21T15:18:02+09:00</updated>
+    <category term="新日" />
+    <summary>▶459 大岩 新日ノア 親方 全日新日 きよぴ ノア オールトゥギャザーチーム ▶460 辻のソウルメイトになって大岩を売ったきよぴと揉めるアングルを作るべき ▶461 TANAHASHI JAMでまたきよぴ借りてるけど 棚橋は清宮を気に入ってるんだろうな というか同人種だからシンパシー感じてそう</summary>
+  </entry>
+  <entry>
+    <title>「Gyazo」への不正アクセスによる情報漏えいに関する調査結果のご報告とお詫び（第三報）</title>
+    <id>https://corp.helpfeel.com/news/news-20261021</id>
+    <link href="https://corp.helpfeel.com/news/news-20261021" />
+    <updated>2026-10-21T14:02:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>平素は、株式会社Helpfeelが提供するサービスをご利用いただき、誠にありがとうございます。 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）は、当社が提供する画像共有サービス「Gyazo」への第三者による不正アクセスおよび情報漏えいについて、2026年9月16日（第一報）ならびに9月25...</summary>
+  </entry>
+  <entry>
+    <title>岩井コスモ証券、不正アクセスにより4975人の個人情報漏えいと7件の不正取引が発生</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2149845.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2149845.html" />
+    <updated>2026-10-21T11:10:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>岩井コスモ証券、不正アクセスにより4975人の個人情報漏えいと7件の不正取引が発生</summary>
+  </entry>
   <entry>
     <title>14:30-15:00 454-458 (5件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/454-458</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-20T14:30:07+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>前回の記事「npm との違いを手がかりに Go の依存管理を理解したい」の最後に、登壇までに調べきれなかった疑問を 4 つ挙げました。 この記事では、その 4 つを実際に調べた結果をまとめます。 npm と比べて分かった Go の依存管理の「一番の違い」── go get の中身を 6 ステップで追う この記事で扱うこと 前回の記事では、go get の 6 ステップを追って「go.sum は l…</summary>
-  </entry>
-  <entry>
-    <title>Go 1.27 で追加された strings.CutLast を試す</title>
-    <id>https://zenn.dev/gemcook/articles/f408cc6b1f75ec</id>
-    <link href="https://zenn.dev/gemcook/articles/f408cc6b1f75ec" />
-    <updated>2026-10-20T11:32:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Go 1.27 で strings.CutLast と bytes.CutLast が追加されました。文字列を「最後に出てくる区切り文字」で前後に分ける関数です。 これまで「最後に出てくる区切り文字」で分割したいときに strings.LastIndex とスライスで手書きしていた処理を、1行で書けるようになります。業務で触っているコードにも LastIndex を使っている部分があり、…</summary>
-  </entry>
-  <entry>
-    <title>AIペネトレーションテストツール「Strix」を試してみた</title>
-    <id>https://zenn.dev/turquoise123/articles/df481032f6b405</id>
-    <link href="https://zenn.dev/turquoise123/articles/df481032f6b405" />
-    <updated>2026-10-20T08:08:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 最近、AIを使ったサイバー攻撃により日本のWebサービスでは情報漏洩事件が頻発するようになってしまいました。いちエンジニアとして大変悔しい思いですが、だからといって手をこまねいているわけにはいきません。まず、攻撃者の手口を知ることで、自分たちのアプリケーションがどこまで耐えられるのかを把握しておく必要があります。 そんな中、AIエージェントが自律的にWebアプリを攻撃し、脆弱性を発見・検…</summary>
-  </entry>
-  <entry>
-    <title>MCPサーバーを理解してみる さらに自作MCPサーバーを作ってみよう</title>
-    <id>https://zenn.dev/mosayan/articles/mcp-server-001</id>
-    <link href="https://zenn.dev/mosayan/articles/mcp-server-001" />
-    <updated>2026-10-20T07:50:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 現在、もう世間では当たり前ですが、業務でもプライベートでもClaudeやGeminiといった生成AIをバンバン利用しています。 その中でAIと各種サービスを連携してより便利にサービスを使いこなすことが可能です。 Claude Desktopだと各種サービスと連携するためのコネクタと呼ばれるものがMCPサーバーに当たりますが、実際のところMCPサーバーについてあまり気にせず利用しています。…</summary>
   </entry>
 </feed>
