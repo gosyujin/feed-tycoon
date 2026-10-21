@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T01:00:15.940877+09:00</updated>
+  <updated>2026-10-22T01:30:10.764749+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>RCE via stale global state</title>
+    <id>https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp</id>
+    <link href="https://github.com/php/php-src/security/advisories/GHSA-6wmf-4rv5-p3rp" />
+    <updated>2026-10-21T22:52:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Summary PHP contains various global state, such as error, session, object and extension state that is retained by a worker but points to memory owned by one request. That state must be reset before th…</summary>
+  </entry>
+  <entry>
+    <title>[石川温の「スマホ業界 Watch」] iPhone Duo先行レビュー、折りたたみ先駆者のGalaxyと比べて見えた強みと課題</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/ishikawa/2149745.html" />
+    <updated>2026-10-21T21:09:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>[石川温の「スマホ業界 Watch」] iPhone Duo先行レビュー、折りたたみ先駆者のGalaxyと比べて見えた強みと課題</summary>
+  </entry>
+  <entry>
+    <title>GitHub Copilot、GPT-5.5など6モデルを非推奨に</title>
+    <id>https://codezine.jp/news/detail/30074</id>
+    <link href="https://codezine.jp/news/detail/30074" />
+    <updated>2026-10-21T13:18:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHubは10月19日（現地時間）、GitHub Copilotの6モデルを同日付で非推奨にしたと発表した。対象はCopilot Chat、インライン編集、Ask／Agentモード、コード補完など、ほとんどのCopilot機能である。今回の非推奨化は9月18日に予告されていたもの。 非推奨モデルと推奨される代替モデルの対応は、次のとおり。Gemini 3....</summary>
+  </entry>
   <entry>
     <title>00:30-01:00 537 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/537</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-21T14:02:47+09:00</updated>
     <category term="はてブ IT" />
     <summary>平素は、株式会社Helpfeelが提供するサービスをご利用いただき、誠にありがとうございます。 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）は、当社が提供する画像共有サービス「Gyazo」への第三者による不正アクセスおよび情報漏えいについて、2026年9月16日（第一報）ならびに9月25...</summary>
-  </entry>
-  <entry>
-    <title>岩井コスモ証券、不正アクセスにより4975人の個人情報漏えいと7件の不正取引が発生</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2149845.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2149845.html" />
-    <updated>2026-10-21T11:10:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>岩井コスモ証券、不正アクセスにより4975人の個人情報漏えいと7件の不正取引が発生</summary>
-  </entry>
-  <entry>
-    <title>14:30-15:00 454-458 (5件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/454-458</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/454-458" />
-    <updated>2026-10-21T14:59:48+09:00</updated>
-    <category term="新日" />
-    <summary>▶454 &gt;&gt;436 HOTの8人ダッグとか 棚橋の歪んだプロレス観が剥き出しになってて反吐が出そう ▶455 来月からAEWが見れるHuluは日本では日テレの子会社なのか ▶456 &gt;&gt;436 また拳王忘れてるな ▶457 おっさんチャンネルのアンバ動画 アイスが何か知らんがなつぽい怒らせたとか 辻がぱいぱいでか美について熱く語るとか おっさんがカラオケで君が代歌うと聞いて皆ドン引きするとか見所…</summary>
-  </entry>
-  <entry>
-    <title>架空の統計データをウェブサイトで公開したらChatGPTが引用しまくっていたことが判明</title>
-    <id>https://gigazine.net/news/20261021-ai-read-fake-statistics/</id>
-    <link href="https://gigazine.net/news/20261021-ai-read-fake-statistics/" />
-    <updated>2026-10-21T13:00:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI検索ツールの開発に携わる研究者が、約5万ページ分の偽の統計データを保有するウェブサイトを立ち上げてAIに読まれるかどうかを検証するという実験を行いました。その結果、AIから大量のアクセスがあり、さらには架空のデータなのに論文やニュースなどで引用されるという事態に発展したことが分かりました。 Publish s...</summary>
   </entry>
 </feed>
