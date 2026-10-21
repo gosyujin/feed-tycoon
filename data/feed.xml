@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T00:30:16.177091+09:00</updated>
+  <updated>2026-10-22T01:00:15.940877+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>00:30-01:00 537 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/537</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/537" />
+    <updated>2026-10-22T00:34:54+09:00</updated>
+    <category term="新日" />
+    <summary>▶537 &gt;&gt;339 めちゃくちゃカネがかかってそうなベルトはすぐ壊して作り直すのにG1トロフィーは壊されないんだよな 誰かが意図的に破壊しなくても乱闘のさなかに損傷したとかでもいいのにね</summary>
+  </entry>
+  <entry>
+    <title>PHPの重大脆弱性「PHP2Shell」はセキュリティ企業のCalifとWizがAIを用いて発見しOpenAIの枠組みを使って対策したことが判明</title>
+    <id>https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/</id>
+    <link href="https://gigazine.net/news/20261022-php2shell-wiz-openai-calif/" />
+    <updated>2026-10-22T00:19:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>プログラミング言語のPHPに「PHP2Shell」と呼ばれる重大な脆弱性が見つかり、緊急アップデートがリリースされました。「PHP2Shell」の2つの脆弱性は、セキュリティ企業のCalifとWizがそれぞれ独立して2026年8月に発見していたことが報告されています。 PHP2Shell — AI uncovers critical vulnerabilities in the backbon..…</summary>
+  </entry>
+  <entry>
+    <title>RCE via OOM corruption</title>
+    <id>https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w</id>
+    <link href="https://github.com/php/php-src/security/advisories/GHSA-w8hw-w9fx-j79w" />
+    <updated>2026-10-21T22:52:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Summary PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. In some contexts, request memory is temporarily reachable before it is fully in…</summary>
+  </entry>
+  <entry>
+    <title>AIで若手採用が3分の1に？ 「新人に任せる仕事がない」10年後、誰が会社を率いるのか #エキスパートトピ（横山信弘） - エキスパート - Yahoo!ニュース</title>
+    <id>https://news.yahoo.co.jp/expert/articles/79ac9d6111591e42e6e707bec9c9924fdea0cb7f</id>
+    <link href="https://news.yahoo.co.jp/expert/articles/79ac9d6111591e42e6e707bec9c9924fdea0cb7f" />
+    <updated>2026-10-21T14:10:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「新人に任せる仕事が、もうない」。そんな声が現実になりつつある。米アンソロピックは10月16日、社内データを公表した。技術職の採用に占める若手の比率は、27％から9％に下がったという。ハーバード大学の研究者の分析も衝撃的だ。生成AIを導入した米国企業で、初級職の採用ペースが四半期あたり約80％減ったという。...</summary>
+  </entry>
   <entry>
     <title>00:00-00:30 536 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/536</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-21T13:00:26+09:00</updated>
     <category term="はてブ IT" />
     <summary>AI検索ツールの開発に携わる研究者が、約5万ページ分の偽の統計データを保有するウェブサイトを立ち上げてAIに読まれるかどうかを検証するという実験を行いました。その結果、AIから大量のアクセスがあり、さらには架空のデータなのに論文やニュースなどで引用されるという事態に発展したことが分かりました。 Publish s...</summary>
-  </entry>
-  <entry>
-    <title>不正アクセス抜き打ちテスト byGMO | AIで会社全体への侵入を試すペネトレーションテスト | GMO Flatt Security株式会社</title>
-    <id>https://flatt.tech/assessment/nukiuchi/</id>
-    <link href="https://flatt.tech/assessment/nukiuchi/" />
-    <updated>2026-10-21T14:26:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>サービス提供の背景 AIを使う攻撃者により、 Webシステムからの情報漏洩が急増しています2026年7〜9月に公表された、国内のWebシステムからの情報漏洩は68件。1〜3月の5.7倍に増えました。10月6日時点で、すでに2025年1年間を超えています。 国内のWebシステムからの情報漏洩の公表件数(四半期ごと)</summary>
-  </entry>
-  <entry>
-    <title>GPT-6シリーズは「COBOL」「Fortran」「Visual Basic」といった学習データの少ない言語も得意</title>
-    <id>https://gigazine.net/news/20261021-openai-cobol-fortran-visual-basic/</id>
-    <link href="https://gigazine.net/news/20261021-openai-cobol-fortran-visual-basic/" />
-    <updated>2026-10-21T12:47:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>COBOLやFortranといったプログラミング言語は採用件数は少ないものの銀行システムなどの重要な箇所で採用されています。GPT-6シリーズではCOBOL・Fortran・Visual Basicといった学習データの少ない言語の処理能力が向上したとのことです。 学習リソースの少ないプログラミング言語におけるコーディング能力の向上 | Open...</summary>
-  </entry>
-  <entry>
-    <title>「Google Chrome 156」安定版リリース、CSSだけでランダムな配置が可能に＆IndexedDBの保存方式がSQLiteベースに変更</title>
-    <id>https://gigazine.net/news/20261021-google-chrome-156/</id>
-    <link href="https://gigazine.net/news/20261021-google-chrome-156/" />
-    <updated>2026-10-21T12:46:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウェブブラウザ「Google Chrome」の最新安定版であるバージョン156がリリースされました。CSSだけでランダムな数値を生成できる機能や、ページ遷移を開始した要素を特定する機能が追加されたほか、IndexedDBの内部実装がSQLiteベースに変更され、JavaScriptモジュールの読み込み失敗時に再試行できるようになるなどの改...</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 452-453 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/452-453</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/452-453" />
-    <updated>2026-10-21T14:14:58+09:00</updated>
-    <category term="新日" />
-    <summary>▶452 レオナどうせランボーに出るんでしょ ▶453 &gt;&gt;440 DDTでも武知の出る後楽園大会が満員にならなくなったから いつまでも集客効果を期待してもしゃーないのにな</summary>
   </entry>
 </feed>
