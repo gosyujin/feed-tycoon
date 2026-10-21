@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T07:30:15.620921+09:00</updated>
+  <updated>2026-10-22T08:00:08.341234+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>PHPの重大な脆弱性「php2shell」（CVE-2026-109618、CVE-2026-109619）の概要と対応指針 - GMO Flatt Security Blog</title>
+    <id>https://blog.flatt.tech/entry/php2shell</id>
+    <link href="https://blog.flatt.tech/entry/php2shell" />
+    <updated>2026-10-21T11:15:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PHP開発チームは2026年10月20日（日本時間で深夜）、重大な脆弱性2件の修正パッチを、2026年10月21日 23時（日本時間）にリリース予定と告知しました。両件のCVSS v4.0スコアは9.2とされています。詳細が公開された場合などには、パッチの公開が前倒しになる可能性もあります。 本脆弱性の発見に関与すると見られる研究...</summary>
+  </entry>
   <entry>
     <title>07:00-07:30 547-551 (5件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/547-551</id>
@@ -564,7 +572,7 @@
     <link href="https://nodejs.org/en/blog/vulnerability/october-2026-security-releases" />
     <updated>2026-10-15T08:31:16+09:00</updated>
     <category term="はてブ IT" />
-    <summary>Commercial support for versions past the Maintenance LTS phase is available through our OpenJS Ecosystem Sustainability Program partners Summary The Node.js project will release new versions of the 26…</summary>
+    <summary>Commercial support for versions past the Maintenance LTS phase is available through our OpenJS Ecosystem Sustainability Program partners Security releases available Updates are now available for the 2…</summary>
   </entry>
   <entry>
     <title>20:00-20:30 498-501 (4件)</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-21T15:45:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>田中ほさな@企画進行中&amp;新連載準備中 @tanakahosana シーモアに続きRenta！がサービス停止とは。出版業界において紙から電子への切り換えが上手く行ったのはマンガのみ。これでマンガは安泰だろうと思っていたが、まさかそれが仇になるとは。 これ以上被害規模が拡大し、それが長期に渡った場合、マンガ家も出版社もどえ...</summary>
-  </entry>
-  <entry>
-    <title>ARC-AGI-3 の 99.9% を中心に GPT-6 Astra のベンチマークを理解したい</title>
-    <id>https://qiita.com/masa-asa/items/9d62bfeb91140c7a88a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/masa-asa/items/9d62bfeb91140c7a88a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-21T15:45:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GPT-6 Astra が公開され、ARC-AGI-3 の 99.9% という数字に驚きました。発表ページに載っている GPT-5.6 Sol のスコアは 7.8%。かなり大きな差です。 ※執筆中に GPT-6.1 Sol が公開されました。ARC Prize...</summary>
   </entry>
 </feed>
