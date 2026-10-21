@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T06:00:13.161981+09:00</updated>
+  <updated>2026-10-22T06:30:13.704035+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens - GitHub Changelog</title>
+    <id>https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens/</id>
+    <link href="https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens/" />
+    <updated>2026-10-22T02:00:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens You can now use expiring, automatically refreshing OAuth credentials in GitHub CLI as part of a public preview. When you opt in, gh stores…</summary>
+  </entry>
+  <entry>
+    <title>モーターたった1個で飛行も方向転換もできるドローンをエンジニアが自作</title>
+    <id>https://gigazine.net/news/20261021-drone-with-one-motor/</id>
+    <link href="https://gigazine.net/news/20261021-drone-with-one-motor/" />
+    <updated>2026-10-21T21:51:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>一般的なドローンは複数のモーターを使って飛行や方向転換を行いますが、ソフトウェアエンジニアのジョシュア・バード氏がモーター1個だけで飛行と方向転換ができるドローンを自作しました。3Dプリンターで製作した特殊なプロペラとモーターの回転を高速で調整する仕組みにより、寝室での飛行実験に成功したとのことです...</summary>
+  </entry>
   <entry>
     <title>PHPの「緊急」レベルの脆弱性、開発元が修正バージョン公開 「直ちにアップデートを」</title>
     <id>https://www.itmedia.co.jp/news/article/2610/22/2000002480/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-21T08:52:21+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>1.はじめに 社内のコミュニティ活動で、メンバー向けに書籍を購入しました。 関東と関西の拠点に1冊ずつ置いて、誰でも借りて読めるようにしようと思ったものの、ここで問題が… 「この本、今だれが持ってる？」 ほかにも、こんなことが気になりました。 借りられる本がどれなの...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeの新コマンド「/advisor fable」で、難所だけFableへ自動で相談するAI活用</title>
-    <id>https://qiita.com/inoyu-qiita/items/2bf7c23b9586ccafb9fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/inoyu-qiita/items/2bf7c23b9586ccafb9fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-21T08:46:16+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 以前、Claude CodeでOpusとSonnetを使い分けると、成果物とトークンがどれくらい変わるかを比べました。 今回は、そこへFableも加え、計画はOpus、難所ではFableに相談、実装はSonnetと、作業に合わせてモデルを自動で使い分けるClau...</summary>
-  </entry>
-  <entry>
-    <title>ngrok のような HTTP トンネルを docker compose 1つで自前運用できる OSS「gridbase」を試す</title>
-    <id>https://qiita.com/nogataka/items/170f99bb52ecd720d3ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/nogataka/items/170f99bb52ecd720d3ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-21T08:32:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに gridbase は、手元の Web アプリを公開 URL で見せるための HTTP トンネルを、自分のサーバーで動かす OSS です。 ngrok のようなサービスを、自前で持てる感覚です。 docker compose up 1回で、トンネルのサーバーと管理...</summary>
   </entry>
 </feed>
