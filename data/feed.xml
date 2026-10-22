@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T06:30:14.141095+09:00</updated>
+  <updated>2026-10-23T07:00:13.785588+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した</title>
+    <id>https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</id>
+    <link href="https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629" />
+    <updated>2026-10-23T02:52:59+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。 2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE のおそれ）や、TLS 証明書のホスト名チェックを回避できるものなど、High が4件あります。 ht…</summary>
+  </entry>
+  <entry>
+    <title>Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した</title>
+    <id>https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1</id>
+    <link href="https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1" />
+    <updated>2026-10-23T02:21:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! クライアント案件のリポジトリ名は伏せています。容量の数字は、dfとduで実際に測った値です。 1TBのMacBook Airで、ストレージの空きが8GBまで減っていました。 Claude Codeに「ストレージがほぼないので整理したい」と頼んで、何が容量を使っているかを調べてもらいながら掃除しました。原因はほとんどが開発まわりで、最終的に空きは約380GBまで戻りました。 最近はClaude…</summary>
+  </entry>
+  <entry>
+    <title>自宅サーバーの定期バックアップの失敗に気付かなかった話</title>
+    <id>https://zenn.dev/komorebi_note/articles/d9df64e7e1da82</id>
+    <link href="https://zenn.dev/komorebi_note/articles/d9df64e7e1da82" />
+    <updated>2026-10-22T22:11:28+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに はじめまして。現在はLinuxを勉強中で、中古パソコンに写真管理サーバーを動かしています。 この記事では、設定したはずのバックアップが機能していなかったので、その過程を書きます。 背景 Googleフォトに頼らず写真を自分で管理すべくImmichを使用している。スマホで撮った写真はImmichに自動で保存し、スマホからは手動で削除している。つまり写真はサーバーにしかないため、サーバーが壊…</summary>
+  </entry>
+  <entry>
+    <title>Rootless Dockerと学ぶSELinux【初心者向け】</title>
+    <id>https://zenn.dev/nexryai/articles/afb828d7dda6b7</id>
+    <link href="https://zenn.dev/nexryai/articles/afb828d7dda6b7" />
+    <updated>2026-10-22T20:50:59+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事の作成にあたって、図の生成、調査、校正に生成AIを使用していますが、本文は人の手で書かれたものです。 環境 Rocky Linux 10.2 あらすじ 私の自宅サーバーでは、/var/composeにDocker Composeのファイル一式を格納し、composeユーザーでRootless Dockerを動かしています。 Rocky Linux（というかRHEL）ではデフォルトでro…</summary>
+  </entry>
+  <entry>
+    <title>Information for Python users regarding eMudhra / emSign CA certificate security incident</title>
+    <id>https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576</id>
+    <link href="https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576" />
+    <updated>2026-10-21T07:15:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>A security incident affecting eMudhra intermediate certificates has required removing the emSign root CA certificate from CA bundles such as “certifi”. It’s important to immediately upgrade the softwa…</summary>
+  </entry>
   <entry>
     <title>06:00-06:30 832-833 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/832-833</id>
@@ -765,45 +805,5 @@
     <updated>2026-10-22T11:34:34+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>要約 株式会社Sapeet のアルゴリズム・エンジニアの西田です． 本記事では，社内のプロジェクトへのアサインを想定し，TypeSafe AI の Jev1 で，プロジェクトの募集要項とエンジニアのスキルシートの組み合わせ（以下，ペア）がどれだけ合うかを採点しました．人手...</summary>
-  </entry>
-  <entry>
-    <title>「経済主権」が語られない理由 ― 通商・経済外交の設計バグ : システム設計視点の行動経済学 (46)</title>
-    <id>https://qiita.com/maskot1977/items/f9586adc7ba5818fe909?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/f9586adc7ba5818fe909?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-22T10:42:18+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: 「システム設計視点の行動経済学」、第46回を始めましょう。その前に、まず前回の復習として、 「どうせ変わらない」は設計されたバグだ ― 政治改革・選挙制度の工学的分析 : システム設計視点の行動経済学 (45) https://qiita.com/maskot...</summary>
-  </entry>
-  <entry>
-    <title>楽観ロックと悲観ロックの違いと役割</title>
-    <id>https://qiita.com/kaitoszk/items/33dcf0ee91832956124d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kaitoszk/items/33dcf0ee91832956124d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-22T09:30:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>みなさん、エンジニア楽しんでいますか？ 現在私は、Goの学習として在庫、受注管理のAPIを開発しています。 商品更新処理に際して、排他制御の楽観ロックを使うことになりました。 ただ、排他制御は私が苦手な分野で、雰囲気でしかわからなかったので深掘りすることにしました。 記事...</summary>
-  </entry>
-  <entry>
-    <title>PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録</title>
-    <id>https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-22T09:21:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>2026年10月、PHP コミュニティから緊急性の高いセキュリティ修正が公開されました。対象となったのは、CVE-2026-109618 と CVE-2026-109619。いずれも PHP Core に起因する重大な問題で、未認証のリモートコード実行 につながる可能性があ...</summary>
-  </entry>
-  <entry>
-    <title>「表領域どれくらい空いてる？」を日本語で聞く。Oracle の DB 管理チャットを作ってみた</title>
-    <id>https://qiita.com/engchina/items/46f956e123cd942d13f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/engchina/items/46f956e123cd942d13f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-22T09:13:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>初めに データベースの面倒を見ていると、毎日のように小さな「調べもの」が発生します。 今のバージョンは？ 表領域はあとどれくらい空いている？ いま何で待たされている？ どれも SQL を書けば分かります。ただ、DBA_TABLESPACE_USAGE_METRICS ...</summary>
-  </entry>
-  <entry>
-    <title>MCPサーバーを5分で作る — TypeScript + @modelcontextprotocol/sdk の最小実装</title>
-    <id>https://qiita.com/joinclass/items/60abfc1f42358424b26f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/joinclass/items/60abfc1f42358424b26f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-22T08:30:06+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに：自動化ジョブが33個あると、「今どうなってる？」に答えるだけで一苦労 当社（合同会社ジョインクラス）では、社内業務のほとんどを Claude Code と launchd で動かしています。2026年9月に棚卸ししたところ、ジョブは 33個 ありました。STAT...</summary>
   </entry>
 </feed>
