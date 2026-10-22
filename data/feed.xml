@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T04:32:47.304316+09:00</updated>
+  <updated>2026-10-23T05:00:11.324506+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版 | gihyo.jp</title>
+    <id>https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes</id>
+    <link href="https://gihyo.jp/article/2026/10/emudhra-ca-key-compromise-dev-tools-fixes" />
+    <updated>2026-10-22T23:46:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明⁠⁠、pip⁠⁠・uvなどの開発ツールに修正版 認証局eMudhraの中間CA証明書8件で、公開された証明書から秘密鍵を復元できる問題が判明した。このうちTLS用の中間CAの秘密鍵を使えば、攻撃者が偽のHTTPS証明書を作成できる。Python関連ツールやGo、Node.js、Rust...</summary>
+  </entry>
+  <entry>
+    <title>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2149953.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2149953.html" />
+    <updated>2026-10-22T14:15:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>世界最軽量634gの14型「FMV Note U」、全機種Copilot+ PCに</summary>
+  </entry>
   <entry>
     <title>デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上</title>
     <id>https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-22T12:26:14+09:00</updated>
     <category term="はてブ IT" />
     <summary>The session catalog is live. Explore what's waiting for you</summary>
-  </entry>
-  <entry>
-    <title>エージェント用 IDE を3つ試して、今さら cmux を使い始めた</title>
-    <id>https://zenn.dev/yoshi47/articles/cmux-after-agent-ides</id>
-    <link href="https://zenn.dev/yoshi47/articles/cmux-after-agent-ides" />
-    <updated>2026-10-22T09:00:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>cmux は少し前に話題になっていたターミナルで、自分もそのとき一度試してみました。ただ、乗り換えるどころか使い始めるところまでも行きませんでした。通知が来たワークスペースがサイドバーの一番上に勝手に並び替わるのが合わなかったですし、当時 tmux で悩んでいた通知まわりのことも cmux にしたからといって解決しませんでした。サイドバーの表示をすっきりさせられることも知らなかったので、そのままや…</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeを「AIニュース係」にしたら、毎朝0円でSlackに届くようになった</title>
-    <id>https://zenn.dev/edash_tech_blog/articles/3476d88801674d</id>
-    <link href="https://zenn.dev/edash_tech_blog/articles/3476d88801674d" />
-    <updated>2026-10-21T18:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、e-dash でフロントエンドエンジニアをしている Chin です。 AI界隈の情報、追うのしんどくないですか。 Claude Codeはほぼ毎日のようにアップデートされ、新しいSkillsやサブエージェントの活用パターンが次々に生まれ、モデルの提供条件も月単位で変わります。しかも一次情報はほぼ英語です。「始業前に、日本語でまとめて読めたらいいのに」と思いながら、気づけば1週…</summary>
   </entry>
 </feed>
