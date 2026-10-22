@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T20:00:21.617672+09:00</updated>
+  <updated>2026-10-22T20:30:15.728224+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>20:00-20:30 767-768 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/767-768</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/767-768" />
+    <updated>2026-10-22T20:29:46+09:00</updated>
+    <category term="新日" />
+    <summary>▶767 久し振りにに親分の近況が見たかったんだよ ▶768 童貞が何か言ってるな https://gzo.ai/i/0FgtA2E.jpg</summary>
+  </entry>
+  <entry>
+    <title>Hugo のビルドを just にまとめて、生成物の置き場で事故りました</title>
+    <id>https://zenn.dev/fumika_676/articles/20220236284e11</id>
+    <link href="https://zenn.dev/fumika_676/articles/20220236284e11" />
+    <updated>2026-10-22T16:58:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>前回、書庫に検索を付けたら、叩くコマンドが二つに増えました。順番もあります。 二つあると、だいたい片方を忘れます。そしてミスります。なので今回は、これを just gen の一言にまとめてしまおうと思います。 まとめた先で一回やらかしてもいるので、ついでにそっちも書いておきます。 Hugo、Pagefind、Node.js は前回までに入っているものとして進めます。 just 1.57.0 hug…</summary>
+  </entry>
+  <entry>
+    <title>テニス解析をピックルボールに使ってみた：四隅の指定でコートの俯瞰表示を補う①</title>
+    <id>https://zenn.dev/nauh_blog/articles/7f19a2f193d15d</id>
+    <link href="https://zenn.dev/nauh_blog/articles/7f19a2f193d15d" />
+    <updated>2026-10-22T15:31:34+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>やってみたこと テニス映像を解析するTennisProjectを、ピックルボールの試合映像に適用しました。ボール追跡に加えて、コートの検出と人物位置の俯瞰表示を試しています。 テニス用の自動コート推定をそのまま使うと、実際のコート形状とずれが生じました。そこで固定カメラを前提に、コートの四隅を手動指定し、ピックルボール用の俯瞰図に変換する処理を追加しました。 テニス用の構成をそのまま使うとどうなる…</summary>
+  </entry>
+  <entry>
+    <title>KMPデスクトップはAIエージェントに速いのか？検証してみる</title>
+    <id>https://zenn.dev/shogo/articles/f847c35ea8dccb</id>
+    <link href="https://zenn.dev/shogo/articles/f847c35ea8dccb" />
+    <updated>2026-10-22T14:46:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに この記事 を読みました。 AI エージェントにアプリを操作させて動作を確認するとき、Android エミュレータではなく Kotlin Multiplatform のデスクトップ版を使った方が速い、という内容です。記事には実測値も載っています。 エージェントがアプリを操作する方式 1 件あたり Android エミュレータ（Android CLI の layout + adb） 5.68…</summary>
+  </entry>
+  <entry>
+    <title>巨大なGitリポジトリと戦う</title>
+    <id>https://zenn.dev/spookies/articles/82112154145e4c</id>
+    <link href="https://zenn.dev/spookies/articles/82112154145e4c" />
+    <updated>2026-10-22T13:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事ははてなブログ（2019年12月20日公開）からの移行記事です。 内容が古い場合がありますのでご注意ください。 課題 タイトルの通り、巨大なGitリポジトリと戦った記録です。 https://git-scm.com/ 前提 Gitにてバイナリファイルなどを扱うことにより、リポジトリの肥大化が起きている バイナリファイルではバージョン間の差分圧縮が行われず、最適化されない object系…</summary>
+  </entry>
+  <entry>
+    <title>PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+    <id>https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html</id>
+    <link href="https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html" />
+    <updated>2026-10-22T13:24:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>概要 The PHP Groupが提供するPHPについて、メモリ不足(OOM)のエラー処理に起因する脆弱性（CVE-2026-109618）とリクエスト処理に関連する脆弱性（CVE-2026-109619）が報告されています。 これらの脆弱性を悪用された場合、遠隔の第三者によって、任意のコード実行が実行される可能性があります。 これらの脆弱性の組み...</summary>
+  </entry>
+  <entry>
+    <title>ghq と fzf でリポジトリ・ワークツリー間の移動を楽にする</title>
+    <id>https://zenn.dev/tokium_dev/articles/ghq-fzf-navigation</id>
+    <link href="https://zenn.dev/tokium_dev/articles/ghq-fzf-navigation" />
+    <updated>2026-10-22T10:00:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに ターミナルでリポジトリやワークツリーを行き来するのって、面倒ですよね。 ghq と fzf を組み合わせると移動が楽になると小耳に挟んだので、設定してみました。 設定すると、こんなふうに名前を選んで移動できるようになります。 （GIF では撮影用の保存先を使っています） ghq とは ghq は、リポジトリの置き場所を標準化するツールです。 決まったルールで保存されるため、clone す…</summary>
+  </entry>
+  <entry>
+    <title>10月21日、PHP2Shell対応の後片付けが終わらない</title>
+    <id>https://zenn.dev/subara3/articles/1165119ef70e75</id>
+    <link href="https://zenn.dev/subara3/articles/1165119ef70e75" />
+    <updated>2026-10-22T01:17:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>10月21日の22時ちょいに、PHPので～っかい修正版が出ました。 これが結構やばい修正＆攻撃が来るからすぐ手当てして、というもののようで、今日はもうひっきりなしの対応に追われている方も多いんじゃないでしょうか。 私も緊急対応を一通り終えて、ようやく帰れるところです。やれやれ。 今回報告されたのは、PHP本体の脆弱性2件（CVE-2026-109618、CVE-2026-109619）で、通称は「…</summary>
+  </entry>
   <entry>
     <title>19:30-20:00 765-766 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/765-766</id>
@@ -505,9 +569,9 @@
     <title>脆弱性管理の仕組みを整えた</title>
     <id>https://zenn.dev/dress_code/articles/be5550254695cd</id>
     <link href="https://zenn.dev/dress_code/articles/be5550254695cd" />
-    <updated>2026-10-22T11:02:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 以前、SOC2 Type1 取得に向けてやったことを整理した記事を投稿しました。 引き続き、プロダクトセキュリティを見ており、社内の協力もあって SOC2 Type2 の継続審査も終えることができました。 今回は、今後の継続審査に向けて...</summary>
+    <updated>2026-10-22T10:30:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 以前、SOC2 Type1 取得に向けてやったことを整理した記事を投稿しました。 https://zenn.dev/dress_code/articles/1823b6c22c2534 引き続き、プロダクトセキュリティを見ており、社内の協力もあって SOC2 Type2 の継続審査も終えることができま…</summary>
   </entry>
   <entry>
     <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
@@ -688,9 +752,9 @@
     <title>仕組みを理解する動画を、Claude Codeに作らせると便利すぎる</title>
     <id>https://zenn.dev/explaza/articles/c749042ecbe232</id>
     <link href="https://zenn.dev/explaza/articles/c749042ecbe232" />
-    <updated>2026-10-22T04:34:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくち...</summary>
+    <updated>2026-10-21T11:14:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>最近は動画で説明資料を作っている アプリの仕組みをお客さんに説明するとき、構成図とかHTML・Markdownで、説明するのが一般的かと思いますが 最近はjavascriptを用いて、Claudeで動画を生成しやすくなったので、アプリの操作と、その裏で起きている処理を交互に見せる解説動画を作って説明に使っています。 めちゃくちゃ便利なので、Claude Code に作らせる指示テンプレートと、動画…</summary>
   </entry>
   <entry>
     <title>10:00-10:30 560-564 (5件)</title>
@@ -739,69 +803,5 @@
     <updated>2026-10-22T08:08:29+09:00</updated>
     <category term="はてブ IT" />
     <summary>PHPは、一般の利用者には見えないウェブサイトの裏側で、検索やログインといった多様な機能を動かすために使われる。世界中で広く用いられており、脆弱性発見の影響は多方面に及んだ。 今回問題になったPHP…</summary>
-  </entry>
-  <entry>
-    <title>GitHub - openai/php2shell-checker</title>
-    <id>https://github.com/openai/php2shell-checker</id>
-    <link href="https://github.com/openai/php2shell-checker" />
-    <updated>2026-10-22T01:36:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>NEC再委託先の攻撃原因 大阪公立大システム障害 大学関係者の個人情報も漏洩</title>
-    <id>https://www.sankei.com/article/20261021-OYBECXIKD5PUPIGBBCWPSGIJF4/</id>
-    <link href="https://www.sankei.com/article/20261021-OYBECXIKD5PUPIGBBCWPSGIJF4/" />
-    <updated>2026-10-21T18:39:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>大阪公立大で発生した大規模なシステム障害で、システム運営を請け負うNECは21日、再委託先がサイバー攻撃を受けたことが原因だったと明らかにした。大学関係者の個人情報の漏洩（ろうえい）も新たに確認。内容や件数の詳細を調べている。 NECによると、再委託先が持つ正規のアカウントが9月下旬の攻撃で乗っ取られ、大...</summary>
-  </entry>
-  <entry>
-    <title>09:00-09:30 556 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/556</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/556" />
-    <updated>2026-10-22T09:22:42+09:00</updated>
-    <category term="新日" />
-    <summary>▶556 &gt;&gt;526 ？ だから石川や関本みたいな国内のなんちゃってモンスター読んだ後に同クラスとオスカーがシングルやったって劇冷めだろって言ってるんだけど？ 棚橋のクソせいで最低でもアーチャーやカスタリニョーニ呼ばなあかんねん 金使わずに金を儲けるのが目的のPPVなのに社長の糞企画被せで難易度上げられてるから棚橋が糞って話なんだけど欠片も理解出来てねーじゃん 病院いけよ</summary>
-  </entry>
-  <entry>
-    <title>PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/22/2000002486/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/22/2000002486/" />
-    <updated>2026-10-22T08:49:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIは10月21日（現地時間）、PHPの重大な脆弱性2件のうち1件について、米セキュリティ企業のCalifが同社の「GPT-5.6 Sol」を使って発見したと発表した。 同社は「今後数カ月で、AIによる同様の脆弱性発見が急増する」と予測。AI時代に対応したセキュリティの枠組みを、5段階で提案している。 「GPT-5.6 Sol」「Gemi...</summary>
-  </entry>
-  <entry>
-    <title>「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2150161.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2150161.html" />
-    <updated>2026-10-22T08:31:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Apache Tomcat」に最大深刻度“CRITICAL”の脆弱性 ～v9 / v10 / v11系統に修正版／</summary>
-  </entry>
-  <entry>
-    <title>中国語ＡＩの攻撃性能、脆弱性を見つけ情報抜き取りまで１５秒…セキュリティー会社がダミーサイトで実演</title>
-    <id>https://www.yomiuri.co.jp/national/20261021-GYT1T00443/</id>
-    <link href="https://www.yomiuri.co.jp/national/20261021-GYT1T00443/" />
-    <updated>2026-10-22T05:05:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【読売新聞】 企業などへのサイバー攻撃での悪用が指摘されている中国語のＡＩ（人工知能）エージェント「ＡＲＴＥＸ（アルテックス）」について、ダミーサイトで攻撃性能をテストしたところ、 脆弱 （ ぜいじゃく ） 性の診断から個人情報の収</summary>
-  </entry>
-  <entry>
-    <title>Kiro Crewで「みのるん式」仕事術やってみた</title>
-    <id>https://speakerdeck.com/minorun365/kiro-crew-de-minoru-nshiki-shigotojutsu-ya-te-mita</id>
-    <link href="https://speakerdeck.com/minorun365/kiro-crew-de-minoru-nshiki-shigotojutsu-ya-te-mita" />
-    <updated>2026-10-21T21:54:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JAWS-UG東京 2026秋 〜AWSライトニングトークNight〜 - connpass https://jawsug.connpass.com/event/407526/</summary>
-  </entry>
-  <entry>
-    <title>当社への不正アクセスに関するお知らせとお詫び｜デジタルアーツ株式会社</title>
-    <id>https://www.daj.jp/webtopics/1354/</id>
-    <link href="https://www.daj.jp/webtopics/1354/" />
-    <updated>2026-10-21T17:02:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>当社は、昨今のサイバー攻撃の増加を受け、2026年10月9日、AI を活用して当社のシステム・製品および社内環境の総点検を実施いたしました。その結果、従来の点検では発見に至らなかった、当社クラウドサービスの運用環境および社内環境に対する不正アクセスの痕跡を発見いたしました。発見した痕跡には、2025年7月頃にさ...</summary>
   </entry>
 </feed>
