@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-22T23:30:13.514751+09:00</updated>
+  <updated>2026-10-23T00:00:10.570310+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>23:00-23:30 817 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/817</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/817" />
+    <updated>2026-10-22T23:24:22+09:00</updated>
+    <category term="新日" />
+    <summary>▶817 &gt;&gt;801 ワトは躓いたというよりも何もしなかっただけだから</summary>
+  </entry>
+  <entry>
+    <title>エージェントスキル集 pstack の開発原則と使い方</title>
+    <id>https://azukiazusa.dev/blog/pstack-agent-skills/</id>
+    <link href="https://azukiazusa.dev/blog/pstack-agent-skills/" />
+    <updated>2026-10-22T22:20:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI が生成したコードを安心して任せるには、実装前の理解と実装後の検証が欠かせません。pstack は調査・設計・実装・レビューを組み合わせるエージェントスキル集です。この記事では pstack の開発原則と使い方を紹介します。 AI が生成したコードを安心して任せるには、実装前の理解と実装後の検証が欠かせません。pst...</summary>
+  </entry>
   <entry>
     <title>22:30-23:00 815-816 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/815-816</id>
@@ -391,7 +407,7 @@
     <summary>本記事に掲載している構成、機器名、IPアドレス、VLAN番号、ネットワーク構成およびコマンド出力は、説明用に置き換えた仮の情報です。筆者の環境とは関係ありません。 1 はじめに あるとき、ネットワーク環境を確認していると不思議な状態に気づきました。 L2スイッチに...</summary>
   </entry>
   <entry>
-    <title>PHP2Shellのバージョン確認ツール</title>
+    <title>PHP2Shell確認ツール</title>
     <id>https://qiita.com/hokutoh/items/2beff120afb168bdec1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
     <link href="https://qiita.com/hokutoh/items/2beff120afb168bdec1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
     <updated>2026-10-22T12:56:28+09:00</updated>
@@ -788,21 +804,5 @@
     <updated>2026-10-22T09:34:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>Author: Jacob Cooper Earlier this morning, Railway detected anomalous activity involving systems that store customer environment variables. After further investigation, our investigation to date indic…</summary>
-  </entry>
-  <entry>
-    <title>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]</title>
-    <id>https://pc.watch.impress.co.jp/docs/topic/special/2147630.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/special/2147630.html" />
-    <updated>2026-10-22T08:20:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ClaudeのMaxプランなしでできた！ローカルAIとの分担でアプリ開発 ～ミニPC「ACEMAGIC F2A」で試すハイブリッドAI[Sponsored]</summary>
-  </entry>
-  <entry>
-    <title>旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了 「古い仕組みのため対策とれず」</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/22/2000002493/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/22/2000002493/" />
-    <updated>2026-10-22T11:15:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PHPを巡っては、開発元が「緊急」レベルの脆弱性2件を修正したバージョンを21日午後11時ごろに公開したばかり。認証なしで遠隔から任意のコードを実行される恐れがあるもので、国内では「BASE」「コドモン」など著名サービスが相次いで緊急メンテナンスに入るなど影響が広がっていた。修正版の対象はPHP 8.2以降の4系統...</summary>
   </entry>
 </feed>
