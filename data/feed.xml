@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T00:23:23.355630+09:00</updated>
+  <updated>2026-10-23T00:30:13.493317+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Windows 11には31年前の「Windows 95のメモリ管理機能」が今も隠されている</title>
+    <id>https://gigazine.net/news/20261022-windows-11-95-memory-manager/</id>
+    <link href="https://gigazine.net/news/20261022-windows-11-95-memory-manager/" />
+    <updated>2026-10-22T21:02:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1995年に登場した「Windows 95」のメモリ管理機能が、2026年時点で最新バージョンのWindows 11にも残されていることが分かりました。古いソフトウェアを動作させるための互換機能「EmulateHeap」にWindows 95のプログラムが組み込まれており、必要に応じて実際に動作する仕組みになっています。Windows関連のニュースサ...</summary>
+  </entry>
   <entry>
     <title>23:30-00:00 818-819 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/818-819</id>
@@ -796,13 +804,5 @@
     <updated>2026-10-22T10:30:07+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 以前、SOC2 Type1 取得に向けてやったことを整理した記事を投稿しました。 https://zenn.dev/dress_code/articles/1823b6c22c2534 引き続き、プロダクトセキュリティを見ており、社内の協力もあって SOC2 Type2 の継続審査も終えることができま…</summary>
-  </entry>
-  <entry>
-    <title>PHPの2件の深刻な脆弱性(CVE-2026-109618、CVE-2026-109619)についてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/10/21/174516</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/21/174516" />
-    <updated>2026-10-21T17:57:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月21日、PHPの開発元であるThe PHP Groupは、PHPの深刻な脆弱性2件を修正するセキュリティリリースを公開しました。ここでは関連する情報をまとめます。 何が起きたの? PHPのセキュリティチームは10月20日(協定世界時)、2件の critical な脆弱性を修正するセキュリティリリースを10月21日14時(協定世界時、日本...</summary>
   </entry>
 </feed>
