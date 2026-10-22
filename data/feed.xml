@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T04:30:13.543546+09:00</updated>
+  <updated>2026-10-23T04:32:47.304316+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上</title>
+    <id>https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</id>
+    <link href="https://news.tv-asahi.co.jp/news_economy/articles/000542237.html" />
+    <updated>2026-10-23T01:19:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件...</summary>
+  </entry>
   <entry>
     <title>03:00-03:30 829 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/829</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-21T18:30:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは、e-dash でフロントエンドエンジニアをしている Chin です。 AI界隈の情報、追うのしんどくないですか。 Claude Codeはほぼ毎日のようにアップデートされ、新しいSkillsやサブエージェントの活用パターンが次々に生まれ、モデルの提供条件も月単位で変わります。しかも一次情報はほぼ英語です。「始業前に、日本語でまとめて読めたらいいのに」と思いながら、気づけば1週…</summary>
-  </entry>
-  <entry>
-    <title>セキュアな実装をするために意識したいこと</title>
-    <id>https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation</id>
-    <link href="https://zenn.dev/dress_code/articles/unauthorized-access-secure-implementation" />
-    <updated>2026-10-21T15:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、Dress Code でプロダクトエンジニアをしているてちです！ 最近、「不正アクセスにより個人情報が流出した可能性があります」というニュースを本当によく見かけます。しかも数万件ではなく、数百万件から数千万件規模のものが続いています。 ニュースではどれも「不正アクセス」の一言でまとめられてしまいますが、公表資料を読んでいくと、侵入の入口はかなりバラバラでした。そこで今回は、2025〜2…</summary>
   </entry>
 </feed>
