@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T01:30:14.355503+09:00</updated>
+  <updated>2026-10-23T02:00:14.872835+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>01:30-02:00 826-828 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/826-828</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/826-828" />
+    <updated>2026-10-23T01:52:48+09:00</updated>
+    <category term="新日" />
+    <summary>▶826 エッペラード例のブリーカー発言が他所で荒れてきたから今更諌めるあぼちん ▶827 新日SSでKOB出してくれ ▶828 今回のデスペのパワーブリーカー周りは自分のファンネルの質の悪さを考慮してなかった点はほんのり責任なくもないけど 流石にトータルで可哀想が勝つわ 一番可哀想なのはとっておきの魅せ技をエグいけど怪我しない技なんて身内から明言されたSHOだけど</summary>
+  </entry>
+  <entry>
+    <title>【速報】中国政府系がAIで攻撃、MSが発表</title>
+    <id>https://www.47news.jp/15123221.html</id>
+    <link href="https://www.47news.jp/15123221.html" />
+    <updated>2026-10-23T00:13:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【ニューヨーク共同】米マイクロソフト（MS）は21日、中国政府系とされるハッカー集団が、人工知能（AI）を使ったツールで世界の数百組織にサイバー攻撃を仕掛けていたと発表した。</summary>
+  </entry>
+  <entry>
+    <title>php2shell-zeros — surviving bugs in PHP's 2026-10-21 security releases</title>
+    <id>https://jackalsyn.com/posts/php2shell-zeros.html</id>
+    <link href="https://jackalsyn.com/posts/php2shell-zeros.html" />
+    <updated>2026-10-22T15:29:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Two zeros: the session-gaps family (full RCE) and the var_destroy re-entry UAF (ASAN-deterministic memory-safety violation, first demonstration). Zero2's base bug is publicly known and filed by its di…</summary>
+  </entry>
+  <entry>
+    <title>これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う</title>
+    <id>https://posfie.com/@golden_haniwa/p/LQ90sis</id>
+    <link href="https://posfie.com/@golden_haniwa/p/LQ90sis" />
+    <updated>2026-10-22T12:54:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>該当の人物が、パッチが公開される前に、PHPのクリティカルな未修正脆弱性の詳細やPoC（概念実証）をX上で公開してしまったからです。 この脆弱性は以下のものです CVE-2026-109618 と CVE-2026-109619 通称 PHP2Shell CVSS 9.2の未認証リモートコード実行（RCE） PHP本体のメモリ管理やリクエスト処理に関する欠陥で、...</summary>
+  </entry>
   <entry>
     <title>カプコンのオンラインサービスで約1177万件のユーザー情報漏えい、パスワードの不正な変更も</title>
     <id>https://internet.watch.impress.co.jp/docs/news/2150509.html</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-22T12:55:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>米GitLabは10月21日（現地時間）、開発プラットフォーム「GitLab」に深刻（Critical）な脆弱性（CVE-2026-110264）が見つかったと発表し、修正版を公開した。CVSSスコアは最大の「10.0」。特定の条件下で、認証されていないユーザーがGitLabサーバ上で任意のコードを実行できる可能性がある。 12日に公表したCVSS 10.0の...</summary>
-  </entry>
-  <entry>
-    <title>日本のネットが止まった……世界を揺るがすPHP脆弱性問題がなぜか中国では無風のワケ #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/expert/articles/2d3aaa765e366d1a6186bcfac14484f18a8a421b</id>
-    <link href="https://news.yahoo.co.jp/expert/articles/2d3aaa765e366d1a6186bcfac14484f18a8a421b" />
-    <updated>2026-10-22T11:58:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>21日夜（日本時間）に修正パッチが公開されたPHPの重大な脆弱性「PHP2Shell」。日本ではpixivやniconico、財務省などがパッチ公開前に予防的にサービスを止め、欧州でもオランダ、フィンランド、フランス、ドイツなどの政府機関がサイトを停止した。一方、中国ではサイト閉鎖の報道は見当たらない。古いPHPが多く動いて...</summary>
-  </entry>
-  <entry>
-    <title>PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title>
-    <id>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</id>
-    <link href="https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3" />
-    <updated>2026-10-22T10:12:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961...</summary>
-  </entry>
-  <entry>
-    <title>「Firefox 158.0.1」が公開、秘密鍵が漏洩した「eMudhra」の中間証明書をブロック／4件の脆弱性と5件の不具合に対処</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2149817.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2149817.html" />
-    <updated>2026-10-21T11:47:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Firefox 158.0.1」が公開、秘密鍵が漏洩した「eMudhra」の中間証明書をブロック／4件の脆弱性と5件の不具合に対処</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 679-684 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/679-684</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/679-684" />
-    <updated>2026-10-22T14:28:59+09:00</updated>
-    <category term="新日" />
-    <summary>▶679 来週地元に来るからデスパの入場曲生で聴くの楽しみにしてたがしゃーないなこういうことは ▶680 &gt;&gt;677 余計なお世話なのかもしれんがオスカーの将来がちと心配になるよ ▶681 ヒロムからあれこれ継承できるかと思ったら大して変わらなかった安田だから期待が2割不安が8割 掌返させてくれよ ▶682 レッグドロップって負担少なそうに見えるけど、板の上に薄いマット敷いたところにジャンプして尻…</summary>
   </entry>
 </feed>
