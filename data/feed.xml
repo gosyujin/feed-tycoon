@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T07:47:11.033660+09:00</updated>
+  <updated>2026-10-23T08:00:12.606120+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/23/2000002530/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/23/2000002530/" />
+    <updated>2026-10-23T07:08:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Amazonの脅威インテリジェンスチーム「Amazon Threat Intelligence」は10月21日（米国時間）、PHPの「緊急」レベルの脆弱性2件（CVE-2026-109618、CVE-2026-109619、通称「PHP2Shell」）を悪用しようとする試みを、脆弱性公表の4日前に当たる10月17日に観測していたと、AWSの公式ブログで明らかにした。攻撃者をおびき...</summary>
+  </entry>
   <entry>
     <title>【笠原一輝のユビキタス情報局】 NVIDIA参入で「2030年にArm CPUがPC市場の過半数」が現実味</title>
     <id>https://pc.watch.impress.co.jp/docs/column/ubiq/2150505.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-22T16:38:05+09:00</updated>
     <category term="はてブ IT" />
     <summary>米Cloudflareのマシュー・プリンスCEOは10月22日（日本時間、以下同）、PHPの深刻な脆弱性「PHP2Shell」悪用の試みが、公表後の45分で数万件、2時間以内に数十万件に跳ね上がり、その後、数百万件に達したとXに投稿した。公表前の10時間は数千件だった。件数は同社ネットワーク全体で観測した。</summary>
-  </entry>
-  <entry>
-    <title>AIツール「LiteLLM」にパスワードを盗む不正プログラムが混入、インストールするだけで別のPythonプログラムにも影響</title>
-    <id>https://gigazine.net/news/20261022-litellm-backdoor/</id>
-    <link href="https://gigazine.net/news/20261022-litellm-backdoor/" />
-    <updated>2026-10-22T14:29:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>複数のAIモデルを簡単に利用できるオープンソースツール「LiteLLM」のバージョン1.107.0にパスワードなどを盗み出す不正プログラムが仕込まれていたことが判明しました。不正プログラムはLiteLLMをインストールした環境でPythonを起動するだけで実行される仕組みで、攻撃者が遠隔操作で別のプログラムを実行できる機能も...</summary>
   </entry>
 </feed>
