@@ -77,10 +77,7 @@ GitHub Actions の `schedule` は発火が不定期になりやすい。hateb-ty
    ```bash
    security add-generic-password -a "$USER" -s feed-tycoon-dispatch-for-local-token -w
    ```
-3. Dropbox 配下のスクリプトを launchd から直接実行すると TCC で `Operation not permitted` になるため、実体を非保護パスにコピーする。**正本(`scripts/feed-tycoon-dispatch.sh`)を変更したらコピーし直す。**
-   ```bash
-   mkdir -p ~/scripts && cp scripts/feed-tycoon-dispatch.sh ~/scripts/ && chmod +x ~/scripts/feed-tycoon-dispatch.sh
-   ```
+3. launchd はリポジトリ内の `scripts/feed-tycoon-dispatch.sh` を直接実行する(コピー不要)。リポジトリは Dropbox など TCC 保護のフォルダに置かない(`~/github` など)。
 4. plist をコピーして登録する(実行時刻は plist の `StartCalendarInterval` で調整)。
    ```bash
    cp scripts/com.gosyujin.feed-tycoon-dispatch.plist ~/Library/LaunchAgents/

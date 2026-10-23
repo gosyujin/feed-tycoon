@@ -2,15 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <!--
   ~/Library/LaunchAgents/ に置くテンプレート。時刻(StartCalendarInterval)は好みで調整する。
-  ProgramArguments のパスは、Dropbox配下ではなくTCC非保護の ~/scripts/ にコピーした実体を指すこと(README参照)。
+  ProgramArguments はリポジトリ内のスクリプト(~/github/feed-tycoon)を直接指す。リポジトリの置き場所を変えたら書き換える。
 -->
 <plist version="1.0">
 <dict>
     <key>Label</key>
     <string>com.gosyujin.feed-tycoon-dispatch</string>
+    <key>Description</key><string>feed-tycoon の GitHub Actions (feed-sync.yml) を30分ごとに手動起動して、フィードを同期する</string>
     <key>ProgramArguments</key>
     <array>
-        <string>/Users/kk/scripts/feed-tycoon-dispatch.sh</string>
+        <string>/Users/kk/github/feed-tycoon/scripts/feed-tycoon-dispatch.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <array>
