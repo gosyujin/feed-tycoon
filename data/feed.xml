@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T15:30:12.449105+09:00</updated>
+  <updated>2026-10-23T15:32:53.391058+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>15:00-15:30 914-916 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/914-916</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/914-916" />
+    <updated>2026-10-23T15:18:32+09:00</updated>
+    <category term="新日" />
+    <summary>▶914 &gt;&gt;906 奈落さんは相変わらず毒霧芸人やってる 一応出番はある ▶915 ゲイブは次カール・フレドリックスと試合するのか カールもAEWに行くのかな？ ▶916 アンチ巨人だが、織田指名、中学生指名、そして松井監督とサプライズの連続は まさしく新日本プロレスだな</summary>
+  </entry>
+  <entry>
+    <title>2秒で失った400万円 GMO系サービスで「意図しないFX取引」：朝日新聞</title>
+    <id>https://www.asahi.com/articles/ASVBQ436FVBQOXIE04LM.html</id>
+    <link href="https://www.asahi.com/articles/ASVBQ436FVBQOXIE04LM.html" />
+    <updated>2026-10-23T10:25:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GMOインターネットが運営するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、「身に覚えのない取引で現金を失った」と訴える顧客が相次いでいる。取引口座のパスワードなどが不正に利…</summary>
+  </entry>
+  <entry>
+    <title>Viteで.tsxを直しても反映されない原因は、tscが吐いた.jsだった</title>
+    <id>https://zenn.dev/haruto_miyakawa/articles/vite-tsc-emitted-js-shadows-tsx</id>
+    <link href="https://zenn.dev/haruto_miyakawa/articles/vite-tsc-emitted-js-shadows-tsx" />
+    <updated>2026-10-23T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>コンポーネントの中の文字列を直して、ビルドしました。ところが、ビルドの出力を調べると、古い文字列のままでした。 キャッシュを疑って dist と node_modules/.vite を消し、クリーンビルドし直しても変わりません。ビルドは成功し、出力ファイルのハッシュも毎回変わるので、ちゃんと作り直しているように見えます。それでも中身だけが古いままでした。 原因はキャッシュではありませんでした。型…</summary>
+  </entry>
   <entry>
     <title>14:30-15:00 911-913 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/911-913</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-22T23:51:12+09:00</updated>
     <category term="新日" />
     <summary>▶818 ワトサン何もしなかったは言い過ぎだろ 受け身モードだったのは確かだが ▶819 これでまたSHOのヒール牢獄が延長された</summary>
-  </entry>
-  <entry>
-    <title>【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法 - Qiita</title>
-    <id>https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c</id>
-    <link href="https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c" />
-    <updated>2026-10-22T22:33:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?</summary>
-  </entry>
-  <entry>
-    <title>Linuxカーネルに6件の脆弱性「Infinity Core」、5件でroot権限昇格・コンテナ脱出のPoC公開(CVE-2026-98260,CVE-2026-98256)他|セキュリティニュースのセキュリティ対策Lab</title>
-    <id>https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/</id>
-    <link href="https://rocket-boys.co.jp/security-measures-lab/linux%E3%82%AB%E3%83%BC%E3%83%8D%E3%83%AB%E3%81%AB6%E4%BB%B6%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%80%8Cinfinity-core%E3%80%8D%E3%80%815%E4%BB%B6%E3%81%A7root%E6%A8%A9%E9%99%90%E6%98%87%E6%A0%BC/" />
-    <updated>2026-10-22T22:11:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Linuxカーネルに6件の脆弱性「Infinity Core」、5件でroot権限昇格・コンテナ脱出のPoC公開(CVE-2026-98260,CVE-2026-98256)他 セキュリティ研究者のHyunwoo Kim氏は2026年10月17日、Linuxカーネルの中核機能に存在する6件の脆弱性を「Infinity Core」として公開しました。タイマー、シグナル、メモリ管理、Futex、スケ.…</summary>
-  </entry>
-  <entry>
-    <title>不正取引も行われた岩井コスモ証券への不正アクセスについてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/10/22/113434</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/22/113434" />
-    <updated>2026-10-22T12:51:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月16日、岩井コスモ証券は、インターネット取引のシステムの運用と保守を委託しているトレードワークスのシステムへの不正アクセスにより、顧客情報が漏えいを、また10月20日には売買管理システムへ攻撃により不正取引が行われたことも公表しました。ここでは関連する情報をまとめます。 委託先システムから顧客...</summary>
   </entry>
 </feed>
