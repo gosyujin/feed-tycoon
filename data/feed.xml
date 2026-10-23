@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-24T02:13:53.959701+09:00</updated>
+  <updated>2026-10-24T02:30:13.589419+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Cloudflare、TypeScriptをRustに移植した「tsrs」を発表。TypeScript 7より最大で70％少ないメモリで8倍速。今後、LSPなどTypeScriptの全機能をサポート予定</title>
+    <id>https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html</id>
+    <link href="https://www.publickey1.jp/blog/26/cloudflaretypescriptrusttsrstypescript_7708lsptypescript.html" />
+    <updated>2026-10-22T00:42:36+09:00</updated>
+    <category term="Publickey" />
+    <summary>Cloudflareは、TypeScriptをRustに移植した「tsrs」を発表しました。 下記は、Cloudflareに買収されたVoidZeroによるtsrsに関するポストです。VoidZeroもこのtsrsの開発に関わっています。 ...</summary>
+  </entry>
   <entry>
     <title>01:30-02:00 999 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/999</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-23T11:07:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに こんにちは。ZOZOTOWN開発本部フロントエンドの菊地（@hiro0218）です。普段はZOZOTOWNのフロントエンドを開発するチームで、機能開発や技術課題の解決に取り組んでいます。 ZOZOTOWNのフロントエンド組織では、Pull Request（PR）を自動でレビューする仕組みを独自に構築しています。Claude Code GitHub Actio...</summary>
-  </entry>
-  <entry>
-    <title>【PHPはオワコン】AIが書いたコードをなぜ信用できるのか？数学的証明で守る新しいサーバーサイド言語「QED Script」を作った</title>
-    <id>https://wirelesswire.jp/2026/10/94824/</id>
-    <link href="https://wirelesswire.jp/2026/10/94824/" />
-    <updated>2026-10-23T09:59:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>いつまで人類はPHPを使い続けるのか いきなり身内に喧嘩を売るようで恐縮だが、このWirelessWire NewsはWordPressで動いている。 WordPressといえばPHPである。 筆者はもう10年以上前からPHPを使うのをやめている。別にPHPで作られたWebサイトが即座に危険というわけではないし、適切に管理すれば安全に運用できる。しか...</summary>
   </entry>
 </feed>
