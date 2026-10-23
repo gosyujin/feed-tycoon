@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T10:34:50.992228+09:00</updated>
+  <updated>2026-10-23T11:00:11.096690+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ウクライナ衛星制限 トランプ大統領「マスク氏が元に戻した」 | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261023de64005</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261023de64005" />
+    <updated>2026-10-23T09:55:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ウクライナ軍が作戦に利用するアメリカの衛星通信サービスが一部制限を受けたとされる問題について、アメリカのトランプ大統領は、サービスを手がける実業家のイーロン・マスク氏によって制限は解除されたという認識…</summary>
+  </entry>
+  <entry>
+    <title>認証局eMudhra、SSL/TLS証明書事業から撤退へ 秘密鍵問題受け──既存顧客の証明書は無償で置き換え</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/23/2000002534/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/23/2000002534/" />
+    <updated>2026-10-23T09:31:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>インドのデジタルトラストサービス企業eMudhraは10月22日（現地時間）、世界向けのSSL/TLS証明書事業から自主的に撤退すると発表した。同社の認証局（CA）が運用する中間証明書8件で、署名に使う秘密鍵が第三者でも簡単に復元できる状態だったと判明した問題を受けた判断だ。 SSL/TLS証明書は、HTTPS通信で接続先のWebサ...</summary>
+  </entry>
   <entry>
     <title>10:00-10:30 855-857 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/855-857</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-22T20:29:46+09:00</updated>
     <category term="新日" />
     <summary>▶767 久し振りにに親分の近況が見たかったんだよ ▶768 童貞が何か言ってるな https://gzo.ai/i/0FgtA2E.jpg</summary>
-  </entry>
-  <entry>
-    <title>Hugo のビルドを just にまとめて、生成物の置き場で事故りました</title>
-    <id>https://zenn.dev/fumika_676/articles/20220236284e11</id>
-    <link href="https://zenn.dev/fumika_676/articles/20220236284e11" />
-    <updated>2026-10-22T16:58:08+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>前回、書庫に検索を付けたら、叩くコマンドが二つに増えました。順番もあります。 二つあると、だいたい片方を忘れます。そしてミスります。なので今回は、これを just gen の一言にまとめてしまおうと思います。 まとめた先で一回やらかしてもいるので、ついでにそっちも書いておきます。 Hugo、Pagefind、Node.js は前回までに入っているものとして進めます。 just 1.57.0 hug…</summary>
-  </entry>
-  <entry>
-    <title>テニス解析をピックルボールに使ってみた：四隅の指定でコートの俯瞰表示を補う①</title>
-    <id>https://zenn.dev/nauh_blog/articles/7f19a2f193d15d</id>
-    <link href="https://zenn.dev/nauh_blog/articles/7f19a2f193d15d" />
-    <updated>2026-10-22T15:31:34+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>やってみたこと テニス映像を解析するTennisProjectを、ピックルボールの試合映像に適用しました。ボール追跡に加えて、コートの検出と人物位置の俯瞰表示を試しています。 テニス用の自動コート推定をそのまま使うと、実際のコート形状とずれが生じました。そこで固定カメラを前提に、コートの四隅を手動指定し、ピックルボール用の俯瞰図に変換する処理を追加しました。 テニス用の構成をそのまま使うとどうなる…</summary>
   </entry>
 </feed>
