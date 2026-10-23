@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T19:30:15.257340+09:00</updated>
+  <updated>2026-10-23T20:00:14.108652+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>19:30-20:00 948-949 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/948-949</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/948-949" />
+    <updated>2026-10-23T19:55:16+09:00</updated>
+    <category term="新日" />
+    <summary>▶948 若手のマイクで最後にやったのはいつか忘れたけどメインで永井が辻に無茶振りで振られた時以来無いよね多分 ▶949 竹下上野のポッドキャスト聴いたけど 竹下とウルフほんとに仲がいいんだね この２人でタッグ組んじゃいなよ！</summary>
+  </entry>
+  <entry>
+    <title>Better AuthをMCPの認可サーバーにして、AI Agent からOAuthでアプリを操作させる</title>
+    <id>https://zenn.dev/sakagi/articles/8caa896e649005</id>
+    <link href="https://zenn.dev/sakagi/articles/8caa896e649005" />
+    <updated>2026-10-23T16:45:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに WebアプリにMCPサーバーを追加し、Claudeから利用者本人としてデータを読み書きできるようにしました。アプリのログインは Microsoft Entra ID の SSO を使用し、AIに渡すトークンはBetter Authの@better-auth/mcpでアプリ自身が発行します。 プラグインを入れるだけで、認可サーバーに要るエンドポイントはひととおり揃います。 ただ、既定のまま…</summary>
+  </entry>
+  <entry>
+    <title>teppay、本人確認はなぜマイナンバーカードだけ？ JR東に理由を聞いた</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/23/2000002547/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/23/2000002547/" />
+    <updated>2026-10-23T16:09:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JR東日本が10月20日に始めたコード決済サービス「teppay」（テッペイ）では、本人確認（eKYC）に使える書類をマイナンバーカードのみとしており、運転免許証やパスポート、健康保険証などは使えない。なぜマイナンバーカードに限定したのか。ITmedia NEWS編集部が同社に理由を聞いた。 teppayはモバイルSuicaアプリ内で...</summary>
+  </entry>
+  <entry>
+    <title>Excel読込をcalamineで19秒→5秒にしたら、別名パッケージ経由のimportだけ壊れた【Python】</title>
+    <id>https://zenn.dev/cutlet_of_pork/articles/calamine-excel-read-alias-package-import</id>
+    <link href="https://zenn.dev/cutlet_of_pork/articles/calamine-excel-read-alias-package-import" />
+    <updated>2026-10-23T15:59:26+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>import=FAIL ModuleNotFoundError No module named 'src.core' sys_path_changed True AI に任せた実装の受け入れ検査で、この 2 行が出た。実装した側の報告では、テストは 204 件全部通っていた。 何をしていたか 社内の生産管理システムから落とした進捗一覧の Excel を、pandas で読んで絞り込むスクリプトがあ…</summary>
+  </entry>
+  <entry>
+    <title>AlphaEngine : 最適化編①</title>
+    <id>https://zenn.dev/reu/articles/f79a89bd44b541</id>
+    <link href="https://zenn.dev/reu/articles/f79a89bd44b541" />
+    <updated>2026-10-23T15:27:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今回は、Static/Skeletalメッシュの分離による頂点処理およびAcceleration Structure更新処理の改善をどうしたかを書いていきたいと思います。 以前の実装と問題点 Static/Skeletalを区別せず、全頂点をCompute Shaderで処理してBLASを更新していました。 理由としては、AlphaEngineのレンダリングの設計思想としてあった 「全て…</summary>
+  </entry>
+  <entry>
+    <title>そのProvider、どこから更新する？ FlutterとRiverpodで考える操作完了通知</title>
+    <id>https://zenn.dev/simplex/articles/dc17c45b57af0e</id>
+    <link href="https://zenn.dev/simplex/articles/dc17c45b57af0e" />
+    <updated>2026-10-23T12:26:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>シンプレクスでエンジニアをしている岡沢です。 今回は、Flutterアプリの開発で実践している、ユーザ操作の完了後に行うデータ更新の設計について書きます。 私のチームでは、FlutterとRiverpodを使ってアプリケーションを開発しています。その中で、一つの操作に合わせて、複数の画面で使うデータを更新する場面があります。こうした処理をどこに持たせるかは、画面とデータの関係を考えるうえで悩ましい…</summary>
+  </entry>
   <entry>
     <title>19:00-19:30 946-947 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/946-947</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-23T06:19:34+09:00</updated>
     <category term="はてブ IT" />
     <summary>【笠原一輝のユビキタス情報局】 NVIDIA参入で「2030年にArm CPUがPC市場の過半数」が現実味</summary>
-  </entry>
-  <entry>
-    <title>上場企業の経営論点（1673〜2026年）</title>
-    <id>https://the-shashi.com/issue/</id>
-    <link href="https://the-shashi.com/issue/" />
-    <updated>2026-10-22T23:47:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>免責事項およびポリシー コンテンツの位置づけと正確性本サイトは有価証券報告書・IR資料・書籍・報道等の公開情報をもとに作成した 個人の分析・整理であり、当該企業および関係者の公式見解ではありません。記載内容の正確性・適時性は保証せず、提出後の訂正や最新の開示には 必ずしも追従していません。重要な判断に...</summary>
-  </entry>
-  <entry>
-    <title>PHPの脆弱性への対応に伴うメンテナンス完了と経緯のご報告 - ロリポップ！レンタルサーバー</title>
-    <id>https://lolipop.jp/info/news/8239/</id>
-    <link href="https://lolipop.jp/info/news/8239/" />
-    <updated>2026-10-22T18:55:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>平素はロリポップをご利用いただき、誠にありがとうございます。 2026年10月21日(水)に公開されたPHPの重大な脆弱性（CVE-2026-109618 / CVE-2026-109619）への対応として実施しておりましたメンテナンスにつきまして、修正の適用が完了し、2026年10月22日(木) 13時頃にお客様のサイトの表示を再開いたしました。 公式の...</summary>
-  </entry>
-  <entry>
-    <title>「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】</title>
-    <id>https://internet.watch.impress.co.jp/docs/column/homewifi/2149233.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/homewifi/2149233.html" />
-    <updated>2026-10-22T09:07:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】</summary>
-  </entry>
-  <entry>
-    <title>06:30-07:00 834-835 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/834-835</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/834-835" />
-    <updated>2026-10-23T06:45:25+09:00</updated>
-    <category term="新日" />
-    <summary>▶834 &gt;&gt;830 プロレスだけでなくエンタメはフェイクだと割り切って楽しむものだが白痴層がいないと稼ぎが足りなくなるからな ▶835 ショーくんは腰の状態のことを知らされてなかったのかな？</summary>
-  </entry>
-  <entry>
-    <title>デジタル庁、問い合わせフォーム入力情報1万3000件超が漏洩か - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUA22BWN0S6A021C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUA22BWN0S6A021C2000000/" />
-    <updated>2026-10-23T04:30:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は22日、問い合わせフォームを委託していた企業が不正アクセスを受けて1万3000件超の氏名やメールアドレスをはじめとした個人情報が漏洩した可能性があると発表した。情報が悪用されるなどの二次被害は確認されていない。同庁によると、2021年5月〜23年3月に同庁ホームページの問い合わせフォームに入力した内...</summary>
-  </entry>
-  <entry>
-    <title>eMudhra to Exit global SSL/TLS Certificate Business</title>
-    <id>https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</id>
-    <link href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business" />
-    <updated>2026-10-23T01:59:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>eSignature Solution Identity &amp; Access Solution CLM &amp; SSL/TLS Certificates Digital Identity &amp; KYC</summary>
   </entry>
 </feed>
