@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T10:30:13.031607+09:00</updated>
+  <updated>2026-10-23T10:34:50.992228+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>10:00-10:30 855-857 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/855-857</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/855-857" />
+    <updated>2026-10-23T10:14:20+09:00</updated>
+    <category term="新日" />
+    <summary>▶855 DDTのパクリ団体に成り下がったな ▶856 からつ舟券くらぶにウルフ https://www.youtube.com/live/OrGGixPdfew?si=XXjpfC09QUP-Q6-I ▶857 &gt;&gt;850 それ否定されたらプ板の意義がなくなる</summary>
+  </entry>
+  <entry>
+    <title>あなたのJava、いますぐアップデート、が必要か確認する - きしだのHatena</title>
+    <id>https://nowokay.hatenablog.com/entry/2026/10/23/035709</id>
+    <link href="https://nowokay.hatenablog.com/entry/2026/10/23/035709" />
+    <updated>2026-10-23T07:15:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>eMudhraという認証局の中間証明書の秘密鍵が8ビットしか有効じゃなく偽造放題ということで、これらの中間証明書を無効にする必要があります。じゃないと偽物のサイトに接続してしまう可能性があります。 eMudhraの中間CAの秘密鍵が公開された証明書から復元可能と判明、pip・uvなどの開発ツールに修正版 | gihyo.jp で、...</summary>
+  </entry>
   <entry>
     <title>トランプ大統領、Googleに「大西洋」の改名を打診 ピチャイCEOが「大洋は勘弁を」と難色</title>
     <id>https://www.itmedia.co.jp/news/article/2610/23/2000002533/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-22T15:31:34+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>やってみたこと テニス映像を解析するTennisProjectを、ピックルボールの試合映像に適用しました。ボール追跡に加えて、コートの検出と人物位置の俯瞰表示を試しています。 テニス用の自動コート推定をそのまま使うと、実際のコート形状とずれが生じました。そこで固定カメラを前提に、コートの四隅を手動指定し、ピックルボール用の俯瞰図に変換する処理を追加しました。 テニス用の構成をそのまま使うとどうなる…</summary>
-  </entry>
-  <entry>
-    <title>KMPデスクトップはAIエージェントに速いのか？検証してみる</title>
-    <id>https://zenn.dev/shogo/articles/f847c35ea8dccb</id>
-    <link href="https://zenn.dev/shogo/articles/f847c35ea8dccb" />
-    <updated>2026-10-22T14:46:57+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに この記事 を読みました。 AI エージェントにアプリを操作させて動作を確認するとき、Android エミュレータではなく Kotlin Multiplatform のデスクトップ版を使った方が速い、という内容です。記事には実測値も載っています。 エージェントがアプリを操作する方式 1 件あたり Android エミュレータ（Android CLI の layout + adb） 5.68…</summary>
-  </entry>
-  <entry>
-    <title>巨大なGitリポジトリと戦う</title>
-    <id>https://zenn.dev/spookies/articles/82112154145e4c</id>
-    <link href="https://zenn.dev/spookies/articles/82112154145e4c" />
-    <updated>2026-10-22T13:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事ははてなブログ（2019年12月20日公開）からの移行記事です。 内容が古い場合がありますのでご注意ください。 課題 タイトルの通り、巨大なGitリポジトリと戦った記録です。 https://git-scm.com/ 前提 Gitにてバイナリファイルなどを扱うことにより、リポジトリの肥大化が起きている バイナリファイルではバージョン間の差分圧縮が行われず、最適化されない object系…</summary>
   </entry>
 </feed>
