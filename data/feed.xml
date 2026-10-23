@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-23T12:30:15.099534+09:00</updated>
+  <updated>2026-10-23T13:00:12.570794+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>2年間放置していたPwnagotchiをクリーンインストールして使えるようにするまで</title>
+    <id>https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install</id>
+    <link href="https://zenn.dev/kuroikotech/articles/pwnagotchi-zero2w-clean-install" />
+    <updated>2026-10-23T12:24:22+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2年ほど放置していたPwnagotchiを、久しぶりに動かすことにした。 古い環境をそのまま直すのではなく、microSDを焼き直してクリーンインストールする。画面を動かして、SSHで入れて、バッテリーで持ち運べる状態に戻すのが今回の目標。 イメージを書き込めばすぐ終わるかと思ったら、USB接続でかなりハマった。最終的にはディスプレイとPiSugarの認識、SSHの鍵認証、PCからのイン…</summary>
+  </entry>
+  <entry>
+    <title>[Flutter]main()を通らない起動ルートで初期化漏れした話（Android着信のヒヤリハット）</title>
+    <id>https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0</id>
+    <link href="https://zenn.dev/lincwell_inc/articles/ab2a642ea8f6f0" />
+    <updated>2026-10-23T10:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Flutterアプリの初期化はmain()に書いておけばOK……と思っていたら、実はmain()を通らない起動ルートがありました。 気づいたきっかけは、APIリクエストにUser-Agentを付与するという小さな改修で、Androidの着信機能が鳴らなくなった現象が発生してしまいました。 リリース前に気づけたので本番影響はありませんでしたが、見落としやすいポイントだったので今回記事にして…</summary>
+  </entry>
+  <entry>
+    <title>Platform Engineering Kaigi 2026で「Argo CDとAtlantisで実現するインフラ管理のセルフサービス化」というタイトルで発表しました！ - ANDPAD Tech Blog</title>
+    <id>https://tech.andpad.co.jp/entry/2026/10/23/100000</id>
+    <link href="https://tech.andpad.co.jp/entry/2026/10/23/100000" />
+    <updated>2026-10-23T10:09:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>サービスプラットフォーム部 部長の角井です。 2026年9月26日(土)に開催されたPlatform Engineering Kaigi 2026で、アンドパッドは初めてスポンサーを務め、ブースを出展しました。 私はスポンサーセッションで「Argo CDとAtlantisで実現するインフラ管理のセルフサービス化──小規模SREチームで支えるプラットフォーム」...</summary>
+  </entry>
+  <entry>
+    <title>301 リダイレクトの変更が一部の利用者に反映されない</title>
+    <id>https://zenn.dev/shinagawa_web/articles/cached-301-stale-redirect</id>
+    <link href="https://zenn.dev/shinagawa_web/articles/cached-301-stale-redirect" />
+    <updated>2026-10-23T08:10:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ドキュメントサイトの /docs は最新版のページへのリダイレクトにしている。製品サイトなど、ほかのサイトに貼るリンクは /docs に向けている。v4 のリリースで、nginx の設定を書き換え、行き先を /docs/v3/ から /docs/v4/ に変えた。 location = /docs { return 301 /docs/v4/; } 301 は、リクエストされた URL が恒久的に…</summary>
+  </entry>
   <entry>
     <title>12:00-12:30 870-881 (12件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/870-881</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-22T21:28:45+09:00</updated>
     <category term="新日" />
     <summary>▶784 とはいえデスペは3kに対するリング上でのガチ苦言もあるしなあ… ▶785 パワーブリーカー改め、ペ殺し ▶786 &gt;&gt;780 デスペじゃなくてナマハゲさんですよ？ https://x.com/njpwworld/status/1215830690802982912?s=46&amp;t=MxXkVAci8y7SobuDtCua2Q ▶787 &gt;&gt;784 YOHSHOファンもワトファンも過保護すぎ…</summary>
-  </entry>
-  <entry>
-    <title>経産省「ホワイトハッカー」のチーム立ち上げへ | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261022de63664</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261022de63664" />
-    <updated>2026-10-22T18:08:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>国内で不正アクセスによる被害が相次いでいることを受けて、経済産業省は、所管する独立行政法人に、サイバー攻撃の手法に詳しい「ホワイトハッカー」と呼ばれるエンジニアのチームを新たに立ち上げる方針を固めまし…</summary>
-  </entry>
-  <entry>
-    <title>PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2150351.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2150351.html" />
-    <updated>2026-10-22T15:24:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ</summary>
-  </entry>
-  <entry>
-    <title>20:30-21:00 769-783 (15件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792279333/769-783</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792279333/769-783" />
-    <updated>2026-10-22T20:57:24+09:00</updated>
-    <category term="新日" />
-    <summary>▶769 オーカーンはプロの所行くから童貞じゃないよ ▶770 外道さんは孫まで居るから見た目だけじゃない ▶771 &gt;&gt;768 こいつどこを目指してるんだ ▶772 &gt;&gt;759 俺はマットに叩きつけた方が痛くないし派手なのに 地味で膝の上で痛い嫌な技だと思ってたわ ▶773 &gt;&gt;771 YouTuber ▶774 YOHはストロングスタイルの自信がないから テクニックと笑いで試合したいんだろうけ…</summary>
-  </entry>
-  <entry>
-    <title>厳選・セキュリティが心配ならClaude Codeにこの問いかけをコピペするべし20</title>
-    <id>https://zenn.dev/yuiseki/articles/54b01670841898</id>
-    <link href="https://zenn.dev/yuiseki/articles/54b01670841898" />
-    <updated>2026-10-22T20:28:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>TL;DR この記事のURLをコーディングAIエージェントに伝えてください。 認証 このリポジトリのサインアップ、ログイン、メール確認、パスワードリセットの実装を調べてください。UI の CAPTCHA や入力チェックを通さず API を直接呼べないか、メール確認前に使える機能がないか確認してください。問題があれば実装箇所と...</summary>
   </entry>
 </feed>
