@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T08:00:14.210943+09:00</updated>
+  <updated>2026-10-25T08:30:13.341205+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>08:00-08:30 251-261 (11件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/251-261</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/251-261" />
+    <updated>2026-10-25T08:29:51+09:00</updated>
+    <category term="新日" />
+    <summary>▶251 でも新日時代とやってること大して変わらなくね この切り抜きしか見てないけど ▶252 &gt;&gt;251 新日時代にオマケでやってたことが本編に持ってこられてる感じかな ▶253 まあタッグベルトくらいはそのうち取れるだろ。誰でも取れるベルトだし。 それでダメなら三下ジョバーになるかなんとなく干されるかだな。 ▶254 このポストが1番冷静に見てる https://x.com/shiniestp…</summary>
+  </entry>
+  <entry>
+    <title>ros_gzの終了時クラッシュとRange変換の不具合を修正した話</title>
+    <id>https://zenn.dev/yuu7/articles/ros2-gazebo-teardown-range-fixes</id>
+    <link href="https://zenn.dev/yuu7/articles/ros2-gazebo-teardown-range-fixes" />
+    <updated>2026-10-25T03:15:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ROS 2とGazeboをつなぐros_gzに送った修正PRが、2026年10月13日に2件マージされました。 一つは画像ブリッジの終了時に発生するuse-after-free、もう一つは距離センサーが何も検出していないのにmax_range + 1を返す問題です。前者は終了処理とコールバックの同期、後者はセンサーメッセージの値の意味を修正しています。 #981：image_bridgeの終了処理…</summary>
+  </entry>
+  <entry>
+    <title>Flutter アプリを iPhone Duo の「縦帯」に対応させる</title>
+    <id>https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar</id>
+    <link href="https://zenn.dev/yus1127/articles/flutter-iphone-duo-vertical-bar" />
+    <updated>2026-10-25T01:59:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、ゆうです。 FlutterKaigi 2026のアプリの開発をしています。 Xを見ると、iPhone Duoを買った人が思ったより多いようでした。mixi2さんがFlutterでiPhone Duoに最適化しているポストも流れてきたので、FlutterKaigi 2026のアプリも対応することにしました。 https://x.com/chehonz201/status/21135784…</summary>
+  </entry>
+  <entry>
+    <title>AWSにデプロイせず、FastAPI製Lambdaのarm64実行をCIで検証する</title>
+    <id>https://zenn.dev/shingokumon/articles/4da5acb9697d56</id>
+    <link href="https://zenn.dev/shingokumon/articles/4da5acb9697d56" />
+    <updated>2026-10-25T01:07:43+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに FastAPIで開発している案件判定API「SUMI Job Engine」に、AWSへデプロイせずにLambda向けパッケージを検証するCIを追加しました。 今回確認したかったのは、「SAMでビルドできるか」の一歩先です。ビルドした成果物をarm64のLambda公式Pythonコンテナに読み込ませ、実際のハンドラーを呼び出せるかを確かめました。 この記事では、実プロジェクトで使った構…</summary>
+  </entry>
+  <entry>
+    <title>@napi-rs/canvas v1.0.12 で実質的な破壊的変更が入った話</title>
+    <id>https://zenn.dev/devuloper/articles/napi_rs_canvas_1_0_12_font_tofu</id>
+    <link href="https://zenn.dev/devuloper/articles/napi_rs_canvas_1_0_12_font_tofu" />
+    <updated>2026-10-25T00:28:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>@napi-rs/canvas を 1.0.11 から 1.0.12 以降に上げると、ctx.font = '48px M PLUS Rounded 1c' のように引用符なしで書いたフォント指定が、まるごと無視されるようになりました。日本語は 10px の豆腐で描かれ、例外も警告も出ません。フォント名を "M PLUS Rounded 1c" のように引用符で囲めば直ります。 この記事は、気づい…</summary>
+  </entry>
+  <entry>
+    <title>prpr: Rust 向けのシンプルで高速な Parser generator</title>
+    <id>https://zenn.dev/tanakh/articles/prpr-packrat-parser</id>
+    <link href="https://zenn.dev/tanakh/articles/prpr-packrat-parser" />
+    <updated>2026-10-24T15:57:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 https://crates.io/crates/prpr https://github.com/tanakh/prpr 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 https://t…</summary>
+  </entry>
+  <entry>
+    <title>「ドパ資料」の作り方 - Qiita</title>
+    <id>https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&amp;utm_medium=facebook</id>
+    <link href="https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_source=dlvr.it&amp;utm_medium=facebook" />
+    <updated>2026-10-24T12:18:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのためにこの記事ではドパ資料の作り方を書いていきます。 👀 対象読者 技術記事を書いているけど、いまいち読まれ...</summary>
+  </entry>
+  <entry>
+    <title>YubiKey買って、OpenAI Daybreak Blueゲットして、vibe脆弱性診断してみた。</title>
+    <id>https://zenn.dev/nassy/articles/d143c945bd5ca5</id>
+    <link href="https://zenn.dev/nassy/articles/d143c945bd5ca5" />
+    <updated>2026-10-24T09:52:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>買ったった!の図 はじめに 自分が作るプログラムから情報が漏れて、会社が吹き飛んだ夢で目覚めることはありますか。 私は年に3回くらいです。 これまでに、OWASP系のツールで診断したり、認証・認可を設計したり、別のお客さんの情報が混ざらないように考えたりしてきました。専門家の脆弱性診断を受けて、指摘された箇所を直した経験もあります。 それでも、自分で作ったシステムにどんな穴が残っているのかは気にな…</summary>
+  </entry>
+  <entry>
+    <title>AI が実装してくれる時代こそ、自分の手で実装しよう</title>
+    <id>https://zenn.dev/loglass/articles/24b2a4776ce8d4</id>
+    <link href="https://zenn.dev/loglass/articles/24b2a4776ce8d4" />
+    <updated>2026-10-23T10:28:43+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の166週目の記事です！ 4年間連続達成まで残り46週となりました！ 3行まとめ AIが実装してくれる今こそ、使っているシステムの仕組みを深く理解しておきたい。それが問題解決やシステム設計の土台になる AIがやってくれるのに、わざわざ手で作る。自分にとっては、それが深い理解へのいちばん確実な道だった 個…</summary>
+  </entry>
+  <entry>
+    <title>コードレビューをなくして見えたもの</title>
+    <id>https://zenn.dev/henteko/articles/b76b15922cdf72</id>
+    <link href="https://zenn.dev/henteko/articles/b76b15922cdf72" />
+    <updated>2026-10-21T10:39:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事の内容をざっくり1分20秒でまとめた動画を作っているので、時間がない方はこちらをご覧ください。 https://youtu.be/hjiz8CrAHzc はじめに 半年ほど前に、こんな記事を書きました。 https://zenn.dev/henteko/articles/871526c9fffcec 人間によるコードレビューをやめて、実装の前に「コンセプト」をチームで確認するワークフローに…</summary>
+  </entry>
   <entry>
     <title>07:30-08:00 244-250 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/244-250</id>
@@ -725,85 +805,5 @@
     <updated>2026-10-23T13:51:36+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>1. はじめに ナレッジベースが手元にある。それをAIで検索して、回答まで返してほしい。この体験、実はServiceNowのOOTB機能だけで作れます。カスタム開発はゼロ、設定だけです。 完成形はこうなります。検索ボックスに自然文で質問を入れると、検索結果ページの上部に「...</summary>
-  </entry>
-  <entry>
-    <title>決定的なフロントエンドアーキテクチャがいい</title>
-    <id>https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend</id>
-    <link href="https://speakerdeck.com/bengo4com/20261024-vuefes-2026-deterministic-frontend" />
-    <updated>2026-10-24T15:24:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Vue Fes Japan 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。 【Vue Fes Japan 2026】 …</summary>
-  </entry>
-  <entry>
-    <title>PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画／USB Webカメラ・ネットワークカメラに対応、映像の解析も録画もPC内で完結</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2150760.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2150760.html" />
-    <updated>2026-10-23T17:19:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画／USB Webカメラ・ネットワークカメラに対応、映像の解析も録画もPC内で完結</summary>
-  </entry>
-  <entry>
-    <title>15:30-16:00 111-118 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/111-118</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/111-118" />
-    <updated>2026-10-24T15:51:23+09:00</updated>
-    <category term="新日" />
-    <summary>▶111 ？？？「私を絶望から救ってくれたのは日本のプロレスのビデオで見たエルデスペラードという選手でした。私の中にはエルデスペラードの魂が宿っています。」 ▶112 &gt;&gt;107 間に合わせるなんてどこで言ってた？ ▶113 ４虎ちょっとだけ復帰しよか ▶114 &gt;&gt;111 最近見ないけどまだ現役なのかな？ ▶115 &gt;&gt;112 今確認したら出るとは言ってたけど試合するとは言ってなかったすまん ▶…</summary>
-  </entry>
-  <entry>
-    <title>Mac上のWindows＆Linux仮想マシンをiPhoneから操作できる「UTM Remote」がiPhone Duoに対応。</title>
-    <id>https://applech2.com/archives/20261024-utm-remote-support-iphone-duo.html</id>
-    <link href="https://applech2.com/archives/20261024-utm-remote-support-iphone-duo.html" />
-    <updated>2026-10-24T10:48:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Mac上のWindows＆Linux仮想マシンをiPhoneから操作できる「UTM Remote」がiPhone Duoに対応しています。詳細は以下から。 UTM Projectは現地時間2026年10月22日、AppleのVirtualization Framework(AVF)やQEMを利用し、Intel/Apple Silicon MacやiPhone、Vision Pro上でWindows…</summary>
-  </entry>
-  <entry>
-    <title>1Password、AIエージェント用パスワード「1Password for Agents」発表</title>
-    <id>https://ai.watch.impress.co.jp/docs/news/2150830.html</id>
-    <link href="https://ai.watch.impress.co.jp/docs/news/2150830.html" />
-    <updated>2026-10-23T18:33:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1Password、AIエージェント用パスワード「1Password for Agents」発表</summary>
-  </entry>
-  <entry>
-    <title>15:00-15:30 100-110 (11件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/100-110</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/100-110" />
-    <updated>2026-10-24T15:25:58+09:00</updated>
-    <category term="新日" />
-    <summary>▶100 &gt;&gt;97 ヤングライオン卒業するならいいんだけどね メインも黒パンツでダッシュでリングインするのかな ▶101 父親の使ってたマスクとか今シリーズだけ使うとかならそれっぽくなるんじゃね 知らんけど ▶102 安田よりワト空海組の方が心配だわ えっ終わり？ってならない事を願ってる ▶103 ワト空海とか無味無臭で終わりそう ▶104 OWAKON ▶105 【急募】 「"ガス"PE inv…</summary>
-  </entry>
-  <entry>
-    <title>PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい→「これやるためだけにサイバーセキュリティ学びたかった まだ間に合うかな」</title>
-    <id>https://posfie.com/@petaritape/p/aqgcPOA</id>
-    <link href="https://posfie.com/@petaritape/p/aqgcPOA" />
-    <updated>2026-10-24T14:27:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ﾉﾌﾞﾁｬﾝ🎶💖🌈 @81O931 PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい 2026-10-24 06:07:36</summary>
-  </entry>
-  <entry>
-    <title>GMO、「能動的サイバー防御」適用を政府に要請 不正アクセス問題 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/" />
-    <updated>2026-10-24T14:18:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GMOインターネットグループは24日、外国為替証拠金取引（FX）サービスへの不正アクセスを受け、サイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」の適用を政府に緊急要請したと発表した。被害の拡大を見越し国に異例の支援を求める。GMOは民間事業者が単独で高度なサイバー攻撃を防御することは難しいと主張...</summary>
-  </entry>
-  <entry>
-    <title>GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261024de64764</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261024de64764" />
-    <updated>2026-10-24T13:54:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GMOインターネットグループは投資家向けのクラウドサービスが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明らかにしました。会社はイ…</summary>
-  </entry>
-  <entry>
-    <title>Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2150898.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2150898.html" />
-    <updated>2026-10-24T09:26:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Opus 5.5肉薄のコーディング性能、3Dも作る3兆級LLM「Kimi K3.1 Pro」。11月4日までにオープンウェイト化</summary>
   </entry>
 </feed>
