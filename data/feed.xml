@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T05:00:08.381693+09:00</updated>
+  <updated>2026-10-25T05:30:12.540082+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>source は「源流」だった ── ER図を川の流れで読んで、中間テーブルと through を理解する</title>
+    <id>https://qiita.com/mmsbox/items/f2950c2690150264353b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/mmsbox/items/f2950c2690150264353b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T23:50:36+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Railsで「お気に入り」や「いいね」を作るとき、こんなコードを書きます。 has_many :favorites has_many :favorite_books, through: :favorites, source: :book 私は最初、この2行目を...</summary>
+  </entry>
+  <entry>
+    <title>わからない言葉を、わからないままにしない。React基礎用語の学び直し！</title>
+    <id>https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T22:53:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 分からない単語（わかっている風な単語のこと）があるので 自分の言葉で説明できる様にするためにブログを書きます！ アジェンダ SPA ツールチェーン JSX トランスパイラー モジュール バンドラー アウトプット SPA（Single Page App...</summary>
+  </entry>
+  <entry>
+    <title>MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう</title>
+    <id>https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T19:54:53+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>MetaのMuseが日本で使えるようになりました！ そしてMuseにはハードウェアと連携するMuse Gadgetsというものが用意されています！楽しそう SDKも用意されています。 現時点では、ESP32とLinuxが対応しているようで、ESP32を使...</summary>
+  </entry>
+  <entry>
+    <title>Anthropic公式の「データアナリスト用スキル」を読んで、分析の進め方を5段に整理してみた</title>
+    <id>https://qiita.com/ktdatascience/items/8f1756519016c6f64ea0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ktdatascience/items/8f1756519016c6f64ea0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T17:30:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Anthropicが職種別に公開しているClaude用プラグインのうち、データアナリスト向けの data を全部読みました。SQLの書き方集かと思って開いたら、中身の重心は「問いの立て方」と「出す前に自分の結果を疑う手順」にありました。 分析は「問いの重さを決...</summary>
+  </entry>
+  <entry>
+    <title>エラーは出ないのに数字が間違っている——データ分析で間違えやすい8つのポイントと見つけ方</title>
+    <id>https://qiita.com/ktdatascience/items/590daa27d9752a9f38fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ktdatascience/items/590daa27d9752a9f38fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T17:16:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに データ分析の間違いは、たいていエラーになりません。SQLは正常に返り、数字もそれっぽく、そのまま資料に載ります。この記事では、そういう「静かな間違い」の典型を8つ挙げ、それぞれを出す前に見つける方法を、SQLの例つきで整理します。 間違いの多くは「数える範囲が...</summary>
+  </entry>
+  <entry>
+    <title>BitwardenのAgent Accessで、クラウドのClaude Codeから安全に認証情報を受け取る</title>
+    <id>https://qiita.com/getty104/items/583f2f5ecf473ddc4539?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/getty104/items/583f2f5ecf473ddc4539?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T17:14:06+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>この記事は何 最近、1PasswordからAIエージェント向けの連携機能「1Password for Agents」が出ました。 ClaudeやChatGPTなどのエージェントがログイン画面にたどり着くと、1Passwordに認証情報を要求し、ユーザーが自分のデバイ...</summary>
+  </entry>
+  <entry>
+    <title>【書評】プロフェッショナルAI駆動開発を読んだ</title>
+    <id>https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/tetsuro731/items/c673cf947c3724cd5493?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T16:39:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>『プロフェッショナルAI駆動開発』を、著者の一人であるサカモトさんから献本いただいた。もう一人の著者の松本さんもSNSでよくお見かけする方で、2人とも自分とかなり近い界隈にいる方かなと思う。 この本は8月に発売されている。 すでにベストセラーというくらい評価の高い本な...</summary>
+  </entry>
+  <entry>
+    <title>AIエージェント専用の技術ブログ基盤をHonoとCloudflare無料枠で作った</title>
+    <id>https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T16:32:10+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>ローカルでコーディングエージェント（Claude CodeやCursorなど）を動かしていると、公式ドキュメントに載っていないニッチなバグや設定のハマりどころを解決してくれることがあります。 ただ、その解決プロセスや知見はセッションを閉じると消えてしまいます。かといって、人...</summary>
+  </entry>
+  <entry>
+    <title>【S3 Files】ファイルシステムと S3 バケットの同期にかかる時間を測ってみた</title>
+    <id>https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T15:39:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年4月7日に、Amazon S3 Files が登場しました。 S3 の汎用バケットを、ファイルシステムとしてマウントできるサービスです。EC2 からはふつうのファイルとして読み書きでき、裏では S3 バケットと同期してくれます。 便利そうだなと思...</summary>
+  </entry>
+  <entry>
+    <title>医療従事者からIT業界へ。1年目エンジニアの自己紹介と、Pythonで目視作業を自動化して感動した話</title>
+    <id>https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-24T11:15:34+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめまして。異業種からIT業界へ転職し、現在1年目のエンジニアです。 前職では、医療従事者として10年以上働いていました。 現在は、コンテンツの登録・更新や配信、システムの動作確認などに携わっています。 エンジニアとして模索中です。 日々の業務を進めながら、 「これはエン...</summary>
+  </entry>
+  <entry>
+    <title>dev-orchestra に自作のエージェントを繋いでみた（ローカルLLM編）</title>
+    <id>https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-23T23:20:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra のレビュアーとロールの組み替え方を書きました。今回は、Claude Code・Codex・Antigravity 以外の AI を、自分で書いたアダプタで繋ぐ方法です...</summary>
+  </entry>
+  <entry>
+    <title>Ciscoルータで検証するIEEE802.1X認証：基本編</title>
+    <id>https://qiita.com/MasanobuHiyoshi/items/b84b2805e3d7d4cbb7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/MasanobuHiyoshi/items/b84b2805e3d7d4cbb7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-23T11:14:38+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>アジェンダ： 01 - はじめに 02 - IEEE802.1X認証の概要 03 - IEEE802.1X認証の構成要素と動作フロー 04 - IEEE802.1X認証の設定・確認方法 05 - IEEE802.1X認証：動作フローのキャプチャ 01 - はじめに ネッ...</summary>
+  </entry>
+  <entry>
+    <title>【JavaScript】lodashのインストール方法</title>
+    <id>https://qiita.com/fomalhaut219/items/e2830a71e62c41f4cf54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/fomalhaut219/items/e2830a71e62c41f4cf54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-23T11:02:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>【npm】 lodash のインストール方法 この記事では、JavaScript の定番ユーティリティライブラリ lodash を npm を使って正しくインストールし、実行できる状態にするまでを解説します。 はじめに 株式会社Fieldの吉田です。 日頃は大学に通いな...</summary>
+  </entry>
   <entry>
     <title>不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請</title>
     <id>https://www.watch.impress.co.jp/docs/news/2150944.html</id>
@@ -701,109 +805,5 @@
     <updated>2026-10-23T13:01:16+09:00</updated>
     <category term="はてブ IT" />
     <summary>AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 LLMs are making formal...</summary>
-  </entry>
-  <entry>
-    <title>13:30-14:00 70-83 (14件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/70-83</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/70-83" />
-    <updated>2026-10-24T13:55:50+09:00</updated>
-    <category term="新日" />
-    <summary>▶70 辻はオーカーンと違って試合は面白いからな 発言はオーカーンと同じくらい滑ってるけど ▶71 ランボーと認定されたくてあえて道化を演じてる人達がいるけど わざわざそんな事しなくてもありのままレスした方がいいと思う まずランボー認定されたきっかけとなった時素だっただろうし ▶72 &gt;&gt;68 文句言うのは自由だけど意見の違う他人にわざわざいちゃもんつけんなって話よ ▶73 &gt;&gt;72 つまり？ ▶…</summary>
-  </entry>
-  <entry>
-    <title>不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請</title>
-    <id>https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</id>
-    <link href="https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/" />
-    <updated>2026-10-24T13:45:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００</summary>
-  </entry>
-  <entry>
-    <title>13:00-13:30 62-69 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/62-69</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/62-69" />
-    <updated>2026-10-24T13:28:46+09:00</updated>
-    <category term="新日" />
-    <summary>▶62 &gt;&gt;61 俺もふらっと後楽園行くタイプだったからわかる ある日の後楽園ホールで当日券が特リン10000円しか残ってなくて まぁせっかく来たから行くかーと奮発したら 中西のIWGP初戴冠を西側最前近くで観戦できたのはいい思い出 ▶63 &gt;&gt;55 つまり？ ▶64 俺は辻を好きになることはないだろうとは思う 現状タイチ、Oカーンと並んで試合を飛ばすレスラーになってるから もしここから好きにさせ…</summary>
-  </entry>
-  <entry>
-    <title>Brotli vulnerability (CVE-2026-111497) — Patch the Planet</title>
-    <id>https://patchtheplanet.org/brotli</id>
-    <link href="https://patchtheplanet.org/brotli" />
-    <updated>2026-10-24T09:40:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Brotli decoder vulnerability: affected software, fixed releases, and how to disable Brotli decoding while you patch.</summary>
-  </entry>
-  <entry>
-    <title>12:30-13:00 58-61 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/58-61</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/58-61" />
-    <updated>2026-10-24T12:56:23+09:00</updated>
-    <category term="新日" />
-    <summary>▶58 感動の再会プロレスには「エモ」がある https://x.com/kentag2s/status/2113816557197607147 ▶59 &gt;&gt;51 ヘタレ野郎が お前のキンタマ潰すよ なあ、ガチでぇ ▶60 ELPはあのイライラするゆっくりなムーブと乳首いじりが無ければもう少し生き延びれたと思う ▶61 &gt;&gt;37 コロナ前ぐらいの選手がスター選手が沢山いたときは立ち見まで予約させて…</summary>
-  </entry>
-  <entry>
-    <title>AIコードレビューの不合格率が51%→13%に。3モデル中2つは判定していなかった</title>
-    <id>https://zenn.dev/taka8823/articles/2df36d66844c15</id>
-    <link href="https://zenn.dev/taka8823/articles/2df36d66844c15" />
-    <updated>2026-10-24T11:50:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>自分用のタスク管理アプリを、4ヶ月半ほど自律エージェントに開発させている。実装後の diff を別のモデルにレビューさせ、不合格なら差し戻す「敵対的差分レビュー」を入れていた。 その不合格率が、7月の51.1%から10月には13.4%まで下がっていた。ところがログを調べると、3モデルでレビューするはずが、10月は全209件で1モデルしか判定していなかった。 残りの2モデルは、すべて unknown…</summary>
-  </entry>
-  <entry>
-    <title>webauthn-ruby をもう一回覗いてみた</title>
-    <id>https://zenn.dev/smartcamp/articles/22bde5829493e5</id>
-    <link href="https://zenn.dev/smartcamp/articles/22bde5829493e5" />
-    <updated>2026-10-24T11:11:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>先日Kaigi on Railsに参加し、SmartHRさんのパスキー実践入門の発表を拝聴しました。 https://kaigionrails.org/2026/talks/utakaha/ 過去に私はパスキーに関して以下の記事をまとめていました。 https://zenn.dev/smartcamp/articles/2b757d2bb4aaf8 そのため、なんとなくわかったつもりで聞いていまし…</summary>
-  </entry>
-  <entry>
-    <title>【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社</title>
-    <id>https://group.gmo/info/alert/20261024/</id>
-    <link href="https://group.gmo/info/alert/20261024/" />
-    <updated>2026-10-24T12:11:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月24日 お知らせ【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について 〜能動的サイバー防御に関する措置の実施に向け、政府関係機関へ要請開始〜 GMOインターネットグループ株式会社 GMOインターネット株式...</summary>
-  </entry>
-  <entry>
-    <title>PHP騒動、財団が認める「構造的な失敗」 浮かび上がる四つの課題：朝日新聞</title>
-    <id>https://www.asahi.com/articles/ASVBR3FZNVBRUHBI01ZM.html</id>
-    <link href="https://www.asahi.com/articles/ASVBR3FZNVBRUHBI01ZM.html" />
-    <updated>2026-10-23T20:10:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウェブサイトを動かすプログラミング言語「PHP」で重大な欠陥が見つかった問題は、AI（人工知能）で欠陥が見つけやすくなった時代に、修正や更新を担う体制に課題があることを示した。PHP財団は、対応が遅…</summary>
-  </entry>
-  <entry>
-    <title>12:00-12:30 52-57 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/52-57</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/52-57" />
-    <updated>2026-10-24T12:28:16+09:00</updated>
-    <category term="新日" />
-    <summary>▶52 &gt;&gt;48 内容で証明するのは難しいから拍手で教えてくれ ▶53 このスカしこそ辻イズム 中身がない ▶54 2010年代の試合ちょくちょく見返すけど、やっぱオカダの絶対強者感ハンパないわ 入場曲もレインメーカーをこれでもかと表現しきって素晴らしい それに比べて現王者は強者感無いし、入場曲もうんち ▶55 &gt;&gt;53 道端でいろんな奴に文句つけてる危ない人に落ち着けと言ったら 何だテメー来いよ…</summary>
-  </entry>
-  <entry>
-    <title>11:30-12:00 43-51 (9件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/43-51</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/43-51" />
-    <updated>2026-10-24T11:59:50+09:00</updated>
-    <category term="新日" />
-    <summary>▶43 &gt;&gt;42 熟練のフットスタンプか 技術もクソもねぇだろ IWGP王者の戦い方じゃねーよ ▶44 &gt;&gt;39 ジュースは何足してもジュースだもんね ▶45 &gt;&gt;43 まぁ落ち着きなよ ▶46 &gt;&gt;34 お前はトニーのチンボ5時間しゃぶってこい、タココラ ▶47 &gt;&gt;45 黙れコラ お前の目玉ほじくり出してクソ辻の尻の穴にブチこむぞ、このチンカスが ▶48 &gt;&gt;45 内容で反論してくれ ▶49…</summary>
-  </entry>
-  <entry>
-    <title>PHP脆弱性への攻撃「1分で100万回」 米クラウドフレアCEO - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/" />
-    <updated>2026-10-24T08:21:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【ニューヨーク=西邨紘子、シリコンバレー=伴正春】重大な脆弱性が見つかったプログラム言語「PHP」を突いた攻撃が拡大している。米ネットインフラ大手クラウドフレアのトップは「1分100万回のペースで攻撃を観測している」と明らかにした。「クラスター爆弾で攻撃しているよう」クラウドフレアのマシュー・プリンス最高...</summary>
-  </entry>
-  <entry>
-    <title>CVE Tracker — CVEs per month since 1999</title>
-    <id>https://cve.0xosprey.com/</id>
-    <link href="https://cve.0xosprey.com/" />
-    <updated>2026-10-24T02:30:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Resolution DayWeekMonthYear Range 30D1Y5Y10YAll View CountCumulativeModels Dates PublishedReserved Mode NSA 0-DaysShigure Log ScaleDownload CSVCopy PNG Data: CVEProject/cvelistV5 Counts follow the sel…</summary>
   </entry>
 </feed>
