@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-24T09:00:13.065637+09:00</updated>
+  <updated>2026-10-24T09:30:13.484090+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>09:00-09:30 17-19 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/17-19</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/17-19" />
+    <updated>2026-10-24T09:23:29+09:00</updated>
+    <category term="新日" />
+    <summary>▶17 今日はついにKUUKAIとワト空気と空気が交わるケミストリーに注目だな ▶18 仕事の記録作りとかでAIのお世話になってるけど 自分で考えた方が効率良いものまでAIに委ねてたらそれこそ笑えないズンドコよ ▶19 ブシロード離れてから明らかに迷走が見える新日本プロレス</summary>
+  </entry>
+  <entry>
+    <title>野村証券、法人向けサービス「i-Port」で情報漏洩か 「委託先に不正アクセス」 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUB233Q60T21C26A0000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUB233Q60T21C26A0000000/" />
+    <updated>2026-10-23T14:58:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>野村証券は23日、金融機関など法人向けの運用資産管理ツール「i-Port」を利用する顧客のメールアドレスなどが外部に漏洩した可能性があると発表した。メール配信を委託するユミルリンクへの不正アクセスが原因としている。漏洩件数は調査中として明らかにしていない。対象となった金融機関などの顧客には個別に知らせる...</summary>
+  </entry>
+  <entry>
+    <title>Fixing Critical Node &amp; PHP Flaws | Devin</title>
+    <id>https://devin.ai/blog/vulnerability-fixes-plugin</id>
+    <link href="https://devin.ai/blog/vulnerability-fixes-plugin" />
+    <updated>2026-10-23T12:28:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Cognition|October 22, 2026|11 min read|Copy link On October 21, 2026 the PHP and Node.js projects released security updates addressing vulnerabilities that can allow remote code execution. Teams runni…</summary>
+  </entry>
   <entry>
     <title>08:30-09:00 15-16 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/15-16</id>
@@ -415,20 +439,20 @@
     <summary>▶962 ガイジつかプロレス愛拗らせためんどくせープヲタかな なんにせよガイジか ▶963 ガイジランボー始まってるのかよ俺も仲間に入れてくれよ～ ▶964 そういえば竹下、上野、ウルフは同い年なんだよな</summary>
   </entry>
   <entry>
+    <title>eMudhraの中間CA証明書の秘密鍵を求めてみる</title>
+    <id>https://zenn.dev/herumi/articles/search_bad_emudhra_key</id>
+    <link href="https://zenn.dev/herumi/articles/search_bad_emudhra_key" />
+    <updated>2026-10-23T17:32:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026年10月に認証局eMudhraの中間CA証明書の署名鍵（秘密鍵）が脆弱だったという報告がありました。 ここではそのCA証明書に記載された検証鍵（公開鍵）から署名鍵を実際に求めてみます。 Pythonを使って求める 脆弱だった秘密鍵は8ビット以下だったということで、洗練された高速なライブラリを使わずナイーブ...</summary>
+  </entry>
+  <entry>
     <title>佐川急便、「お荷物問い合わせサービス」への不正アクセスで最大5323万件の個人情報流出の可能性、サービスは再開</title>
     <id>https://internet.watch.impress.co.jp/docs/news/2150814.html</id>
     <link href="https://internet.watch.impress.co.jp/docs/news/2150814.html" />
     <updated>2026-10-23T17:17:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>佐川急便、「お荷物問い合わせサービス」への不正アクセスで最大5323万件の個人情報流出の可能性、サービスは再開</summary>
-  </entry>
-  <entry>
-    <title>eMudhraの中間CA証明書の秘密鍵を求めてみる</title>
-    <id>https://zenn.dev/herumi/articles/search_bad_emudhra_key</id>
-    <link href="https://zenn.dev/herumi/articles/search_bad_emudhra_key" />
-    <updated>2026-10-23T14:50:11+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026年10月に認証局eMudhraの中間CA証明書の署名鍵（秘密鍵）が脆弱だったという報告がありました。 ここではそのCA証明書に記載された検証鍵（公開鍵）から署名鍵を実際に求めてみます。 Pythonを使って求める 脆弱だった秘密鍵は8ビット以下だったということで、洗練された高速なライブラリを使わずナイーブな方法を使います。 『Software Design 2022年3月号』で紹…</summary>
   </entry>
   <entry>
     <title>持ち物を全部売り払って2000km旅して夢の女性に会いに行ったらAIだった</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-23T14:12:12+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 3ヶ月に1回やってくる社内の「備品・機材の棚卸業務」。 これまでは紙のリストや重たい機材を持ち歩き、「これって管理番号何番の機材だっけ？」「何の機材だっけ？」と現物とリストを目視で照らし合わせながらチェックしていました。 台帳を探す時間や誤記入の確認に膨大な工数...</summary>
-  </entry>
-  <entry>
-    <title>Codexに「承認待ちをDiscordに通知してほしい」と相談して、通知ツールを作ってみた</title>
-    <id>https://qiita.com/shota_hirano/items/5aa037294434003db2db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shota_hirano/items/5aa037294434003db2db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-23T14:03:31+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Codexに作業をお願いしたあと、「今どこまで進んでいるかな？」と気になることはありませんか？ 特に知りたかったのが、承認待ちや入力待ちになったタイミングです。PCの前を離れていても、スマホで気づけるとうれしいですよね。 そこで今回は、Codexに相談しながら、...</summary>
-  </entry>
-  <entry>
-    <title>【Workspace Studio × GAS】AIが生成した複数行データをスプレッドシートへ安全に一括展開＆承認フローを自動化するアーキテクチャ</title>
-    <id>https://qiita.com/kodai_kitahara/items/4cb3fbc7c7f081f34986?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kodai_kitahara/items/4cb3fbc7c7f081f34986?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-23T13:39:34+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>【Workspace Studio × GAS】AIが生成した複数行データをスプレッドシートへ安全に一括展開＆承認フローを自動化するアーキテクチャ 1. はじめに Google Workspace Studio（旧AppSheet/Duet AI連携フロー等）の生成AI...</summary>
-  </entry>
-  <entry>
-    <title>AIを低賃金ロックインの打破に使え ― 「奪う仕事」と「生む仕事」の両面設計 : システム設計視点の行動経済学 (47)</title>
-    <id>https://qiita.com/maskot1977/items/ae94022fd23241fad2c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/ae94022fd23241fad2c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-23T11:47:31+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: 「システム設計視点の行動経済学」、第47回を始めましょう。その前に、まず前回の復習として、 「経済主権」が語られない理由 ― 通商・経済外交の設計バグ : システム設計視点の行動経済学 (46) https://qiita.com/maskot1977/ite...</summary>
   </entry>
 </feed>
