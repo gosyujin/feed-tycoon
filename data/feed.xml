@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-26T06:30:13.122544+09:00</updated>
+  <updated>2026-10-26T07:00:18.249684+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>06:30-07:00 572-575 (4件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/572-575</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/572-575" />
+    <updated>2026-10-26T06:52:28+09:00</updated>
+    <category term="新日" />
+    <summary>▶572 珍日オタは性格悪いから ▶573 &gt;&gt;568 新日がインディーなら、新日の足下にも及ばない日本の全団体はどんな言葉になるのか？ 酷い言葉大喜利が始まるぞ ▶574 ソフトバンクの秋広が戦力構想外になったから声かけるなら今だぞ ▶575 売上動員ベースで見たら男は新日、女はスターダム以外は存在していないのとほぼ同じだろ</summary>
+  </entry>
+  <entry>
+    <title>AlphaEngine : 最適化編②</title>
+    <id>https://zenn.dev/reu/articles/0f77f6eb0940af</id>
+    <link href="https://zenn.dev/reu/articles/0f77f6eb0940af" />
+    <updated>2026-10-25T16:19:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今回は最適化の続きとして全ピクセルや全フロクセルで行っていた for (uint i = 0; i &lt; light_count; ++i) をやめるべく Clustered Lightingを実装してみた話をしていきたいと思います。 Clustered Lighting Clustered Lightingはカメラの視錐台を3Dグリッドに分割し、各クラスタに影響するライトだけをリスト化し…</summary>
+  </entry>
   <entry>
     <title>06:00-06:30 570-571 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/570-571</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-25T00:27:01+09:00</updated>
     <category term="はてブ IT" />
     <summary>GitHub CLI (gh) recently added short-lived access tokens that are refreshed automatically. It is a public preview and opt-in for now, but it is planned to become the default. https://github.blog/chang…</summary>
-  </entry>
-  <entry>
-    <title>入社4ヶ月で 2つのプロダクトの撤退判断</title>
-    <id>https://speakerdeck.com/tkt42u19421/nyuusha-4-kagetsude-2-tsu-no-purodakuto-no-tettai-handan</id>
-    <link href="https://speakerdeck.com/tkt42u19421/nyuusha-4-kagetsude-2-tsu-no-purodakuto-no-tettai-handan" />
-    <updated>2026-10-24T15:14:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>コミュニケーションは受け手が決める〜読まれる職務経歴書の作り方/Communication makes your career</summary>
-  </entry>
-  <entry>
-    <title>eMudhra中間CA証明書の秘密鍵の侵害について</title>
-    <id>https://emudhra.we-have-a-problem.com/ja.html</id>
-    <link href="https://emudhra.we-have-a-problem.com/ja.html" />
-    <updated>2026-10-24T07:32:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この日本語版は，GrEarlが2026年10月23日時点の英語版を翻訳したものです。最新の情報や詳しい情報は，英語版をご覧ください。 This Japanese page was translated by GrEarl from the English page as of 23rd October 2026. For the latest and more detailed informati…</summary>
   </entry>
 </feed>
