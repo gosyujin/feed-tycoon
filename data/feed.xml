@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T15:30:10.833754+09:00</updated>
+  <updated>2026-10-25T15:59:46.668667+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>15:00-15:30 335-338 (4件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/335-338</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/335-338" />
+    <updated>2026-10-25T15:24:48+09:00</updated>
+    <category term="新日" />
+    <summary>▶335 ノアはAbemaがいるからJASRAC管理の版権楽曲使いたい放題だな ▶336 &gt;&gt;330 誰だよ？ キモいからテメェのお親にでも報告してろよ ▶337 &gt;&gt;336 おおや ▶338 &gt;&gt;337 石飛にレスしないように。</summary>
+  </entry>
+  <entry>
+    <title>600人規模のイベント運営を支えたインカムを、学生1人で作った話</title>
+    <id>https://zenn.dev/kodak_20/articles/3b0ba74333b56c</id>
+    <link href="https://zenn.dev/kodak_20/articles/3b0ba74333b56c" />
+    <updated>2026-10-25T02:23:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年10月18日に開催された DevFest Kansai 2026 で、スタッフが連絡に使うインカムアプリ「inkam」を作りました。 https://gdgkwansai.connpass.com/event/388434/ 当日は60人を超えるスタッフが使ってくれました。朝8時から夜8時までで、1,493回。特に朝から昼過ぎまでは1時間に150〜200回ほど話されていました！…</summary>
+  </entry>
+  <entry>
+    <title>Xcode 27 で ＠State がマクロになった理由 ― 遅延評価は private だけ、＠StateObject との違い</title>
+    <id>https://zenn.dev/takehito/articles/50145459523321</id>
+    <link href="https://zenn.dev/takehito/articles/50145459523321" />
+    <updated>2026-10-25T00:56:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 確認日：2026-10-24、2026-10-25 確認に使った環境は、Xcode 26.6（Build 17F113）、Xcode 27.1（Build 27A9275）、macOS 26.7.1 です。iOS 26.5 シミュレータ（Build 23F77）でも一部を確認しました。2026-10-25 には、@StateObject との比較、LazyState の計測、iOS シミュレー…</summary>
+  </entry>
   <entry>
     <title>「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク（ABEMA TIMES） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/2997423a08fc213f62fb5f6e7d3b3091570bfcdc</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-24T18:00:37+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>TL;DR nn.MultiheadAttention は、eval かつ勾配なしの推論でマスクを渡すと、need_weights=False を付けていても SDPA を使わず、ヘッド数 × P × P の注意行列を丸ごと作る Xiaomi-Lens-0 では flash-attn が無いときの代替経路がまさにこれで、3 MP の画像でマスク生成段の追加 VRAM が 18.02 GB、8 MP…</summary>
-  </entry>
-  <entry>
-    <title>リンクで確認した SNS のメール購読に、作り直さずに「解除の保護」を付ける</title>
-    <id>https://zenn.dev/sk8jp/articles/260e3c0fa07ed9</id>
-    <link href="https://zenn.dev/sk8jp/articles/260e3c0fa07ed9" />
-    <updated>2026-10-24T17:24:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Amazon SNS のメール購読は、確認するときに AuthenticateOnUnsubscribe を true にすると、解除に AWS の認証（署名つきのリクエスト）が必要になります。メールの unsubscribe のリンクからは解除できなくなります。 この指定は確認するときにしか付けられず、確認のメールのリンクを押して確認すると付きません。 AuthenticateOnUn…</summary>
-  </entry>
-  <entry>
-    <title>Laravel を IdP にして Ory Hydra で SSO を組み、PHP 5.6 のレガシーアプリも認証ブローカーで乗せる</title>
-    <id>https://zenn.dev/sprix_it/articles/464d97d1ebdbfd</id>
-    <link href="https://zenn.dev/sprix_it/articles/464d97d1ebdbfd" />
-    <updated>2026-10-24T17:22:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>背景 Laravel で作ったアプリにユーザー台帳とログイン画面があり、他のアプリにもそのログインを使わせたい。OIDC で SSO を組むとして、Laravel 側をどうやって OP にするかを決める必要がありました。もうひとつ、SSO に乗せたい側に PHP 5 系のアプリが残っていて、OIDC のクライアントライブラリが動きません。 この 2 つをローカルで試しました。コードは公開しています…</summary>
-  </entry>
-  <entry>
-    <title>顔写真だけでがん患者の余命を診断できるAIモデル、米研究チームが開発</title>
-    <id>https://www.cnn.co.jp/fringe/35253896.html</id>
-    <link href="https://www.cnn.co.jp/fringe/35253896.html" />
-    <updated>2026-10-24T14:30:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>顔のさまざまな部位の分析から生物学的年齢とがん生存率を判定するAIモデルが開発された/Mass General Brigham via CNN Newsource （CNN） 顔写真を撮るだけでがん患者の全般的な健康状態や余命が判定できるという人工知能（AI）モデルが開発された。医師によるがん患者の生存可能性診断や最善の治療法の見極めを支援で...</summary>
   </entry>
 </feed>
