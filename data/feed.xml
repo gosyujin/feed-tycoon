@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T15:59:46.668667+09:00</updated>
+  <updated>2026-10-25T16:30:12.691781+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>15:30-16:00 339-343 (5件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/339-343</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/339-343" />
+    <updated>2026-10-25T15:57:14+09:00</updated>
+    <category term="新日" />
+    <summary>▶339 &gt;&gt;335 新日もJASRAC管理曲は使い放題だよ 洋楽が×なのはどこも一緒 トニーカーンですらファイナルカウントダウン流すのに高い金払うんだから ▶340 それ以前に新日は永田の入場曲の権利侵害なんとかしろ定期 ▶341 &gt;&gt;330 ありがとう、そして内藤が出たら教えて それまではいいや ▶342 YOHの歌聞いてみたがバンドやってたんだっけか案外うまいんだな ただ最後の方は喉が限界っ…</summary>
+  </entry>
   <entry>
     <title>15:00-15:30 335-338 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/335-338</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-24T12:11:39+09:00</updated>
     <category term="はてブ IT" />
     <summary>ガチで社内が阿鼻叫喚の地獄絵図になっていた。 理由はここ最近騒がせてるPHPの脆弱性ではない。 我が社でもAIを業務支援に導入するっていう話を、協力にIT部門の社内SEのおっさん…まあ俺は結構仲がよかったというか、共通趣味で向こうからよく話しかけてくる人なんだが、が推し進めていて、それをIT部門だけでパイロッ...</summary>
-  </entry>
-  <entry>
-    <title>MultiheadAttentionの高速経路がVRAMを18GB食っていた話</title>
-    <id>https://zenn.dev/genelab_999/articles/387bf151caf716</id>
-    <link href="https://zenn.dev/genelab_999/articles/387bf151caf716" />
-    <updated>2026-10-24T18:00:37+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR nn.MultiheadAttention は、eval かつ勾配なしの推論でマスクを渡すと、need_weights=False を付けていても SDPA を使わず、ヘッド数 × P × P の注意行列を丸ごと作る Xiaomi-Lens-0 では flash-attn が無いときの代替経路がまさにこれで、3 MP の画像でマスク生成段の追加 VRAM が 18.02 GB、8 MP…</summary>
   </entry>
 </feed>
