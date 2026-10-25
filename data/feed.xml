@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-26T00:00:10.153079+09:00</updated>
+  <updated>2026-10-26T00:30:14.209221+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>00:00-00:30 561 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/561</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/561" />
+    <updated>2026-10-26T00:01:56+09:00</updated>
+    <category term="新日" />
+    <summary>▶561 その熱量で全日の話もしてくれよ 札止めしてんのに話題にも上がらない</summary>
+  </entry>
+  <entry>
+    <title>23:30-00:00 560 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/560</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/560" />
+    <updated>2026-10-25T23:41:25+09:00</updated>
+    <category term="新日" />
+    <summary>▶560 &gt;&gt;558 オーカーン様とか呼んでる奴が岡だぞ</summary>
+  </entry>
+  <entry>
+    <title>「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」</title>
+    <id>https://togetter.com/li/2762761</id>
+    <link href="https://togetter.com/li/2762761" />
+    <updated>2026-10-25T23:19:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>野草研究所 @wild_grasses このサムネを『生成AI使うな！気持ち悪い』と断じてくる方がチラホラいますが、残念ながら完全実写なんですよね サルナシは実在する果実なのであって、『見た事ない物は偽物でキモい』って感覚が社会化してるなら、それは結構深刻だと思う 自然界はAIに負けず劣らず意味不明なモノで溢れてます...</summary>
+  </entry>
+  <entry>
+    <title>GitHub - enesozturk/dimensional-drawing</title>
+    <id>https://github.com/enesozturk/dimensional-drawing</id>
+    <link href="https://github.com/enesozturk/dimensional-drawing" />
+    <updated>2026-10-25T12:56:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Give it a UI component, get back a one-page technical drawing of it. Paddings, gaps, corner radii, layers and viewport placement, measured and labeled like Apple's dimensional drawings. Install · Use…</summary>
+  </entry>
   <entry>
     <title>23:00-23:30 558-559 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/558-559</id>
@@ -754,9 +786,9 @@
     <title>prpr: Rust 向けのシンプルで高速な Parser generator</title>
     <id>https://zenn.dev/tanakh/articles/prpr-packrat-parser</id>
     <link href="https://zenn.dev/tanakh/articles/prpr-packrat-parser" />
-    <updated>2026-10-24T15:57:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 https://crates.io/crates/prpr https://github.com/tanakh/prpr 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 https://t…</summary>
+    <updated>2026-10-24T21:34:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 開発の背景についてちょっと説明しておきますと、これ自体はずいぶん昔から開発していたものなので...</summary>
   </entry>
   <entry>
     <title>「ドパ資料」の作り方 - Qiita</title>
@@ -773,37 +805,5 @@
     <updated>2026-10-24T09:52:44+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>買ったった!の図 はじめに 自分が作るプログラムから情報が漏れて、会社が吹き飛んだ夢で目覚めることはありますか。 私は年に3回くらいです。 これまでに、OWASP系のツールで診断したり、認証・認可を設計したり、別のお客さんの情報が混ざらないように考えたりしてきました。専門家の脆弱性診断を受けて、指摘された箇所を直した経験もあります。 それでも、自分で作ったシステムにどんな穴が残っているのかは気にな…</summary>
-  </entry>
-  <entry>
-    <title>AI が実装してくれる時代こそ、自分の手で実装しよう</title>
-    <id>https://zenn.dev/loglass/articles/24b2a4776ce8d4</id>
-    <link href="https://zenn.dev/loglass/articles/24b2a4776ce8d4" />
-    <updated>2026-10-23T10:28:43+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の166週目の記事です！ 4年間連続達成まで残り46週となりました！ 3行まとめ AIが実装してくれる今こそ、使っているシステムの仕組みを深く理解しておきたい。それが問題解決やシステム設計の土台になる AIがやってくれるのに、わざわざ手で作る。自分にとっては、それが深い理解へのいちばん確実な道だった 個…</summary>
-  </entry>
-  <entry>
-    <title>コードレビューをなくして見えたもの</title>
-    <id>https://zenn.dev/henteko/articles/b76b15922cdf72</id>
-    <link href="https://zenn.dev/henteko/articles/b76b15922cdf72" />
-    <updated>2026-10-21T10:39:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事の内容をざっくり1分20秒でまとめた動画を作っているので、時間がない方はこちらをご覧ください。 https://youtu.be/hjiz8CrAHzc はじめに 半年ほど前に、こんな記事を書きました。 https://zenn.dev/henteko/articles/871526c9fffcec 人間によるコードレビューをやめて、実装の前に「コンセプト」をチームで確認するワークフローに…</summary>
-  </entry>
-  <entry>
-    <title>07:30-08:00 244-250 (7件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/244-250</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/244-250" />
-    <updated>2026-10-25T07:55:36+09:00</updated>
-    <category term="新日" />
-    <summary>▶244 &gt;&gt;205 少なくともマンデーマジックでNOAHとマリーゴールドは接点あるんだぞ ビジネスしてる団体が設営費用しないと言いきれる理由あるなら書いてみろ ▶245 &gt;&gt;244 設営費用折半しない、な ▶246 &gt;&gt;241 高木ブーの雷様だな ▶247 https://x.com/joel1998t/status/2114008352137085062?s=46 ▶248 まぁ団体互助の仕組…</summary>
-  </entry>
-  <entry>
-    <title>07:00-07:30 242-243 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/242-243</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/242-243" />
-    <updated>2026-10-25T07:22:30+09:00</updated>
-    <category term="新日" />
-    <summary>▶242 優勝してみんなでほなまたの大合唱しましょう ▶243 &gt;&gt;237 天山「おい、キレさしたな、こいつが関西弁使ったらホンマにきれとるってことやぞ、言ったれオラーン」 ドラえもん「か、金丸、ほ、ホンマ許さんからな！」 天山「(消え入りそうな小声で)ｵｯｹｰｶﾏｰﾝ」</summary>
   </entry>
 </feed>
