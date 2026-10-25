@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T22:30:13.302150+09:00</updated>
+  <updated>2026-10-25T23:00:13.433942+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など</title>
+    <id>https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html</id>
+    <link href="https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html" />
+    <updated>2026-10-26T00:44:47+09:00</updated>
+    <category term="Publickey" />
+    <summary>DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck...</summary>
+  </entry>
+  <entry>
+    <title>22:00-22:30 538-544 (7件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/538-544</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/538-544" />
+    <updated>2026-10-25T22:19:47+09:00</updated>
+    <category term="新日" />
+    <summary>▶538 ちょっと藤田無理し過ぎると腰やりそうで怖い ▶539 負傷した兄の為に妹が一肌脱ぐか？ https://x.com/starlight_kid11/status/2114330300234993700 ▶540 &gt;&gt;537 ずっとロビー捕まってたのに藤田と遜色なく攻勢に出られるから ロビーの印象強すぎるわ今日 ▶541 とりあえずワトは髪型変えないとおばちゃんにしか見えない ▶542 後…</summary>
+  </entry>
+  <entry>
+    <title>週末にスマートホームをオープンソース化--Googleから「Siri」へ乗り換えた話</title>
+    <id>https://japan.zdnet.com/article/35253722/</id>
+    <link href="https://japan.zdnet.com/article/35253722/" />
+    <updated>2026-10-24T08:04:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こうした説明は、「Apple Music」「Apple TV」「FaceTime」をHomeViewの最も重要な機能として的確に位置付けている。Appleのエコシステムにどっぷり漬かっているなら、HomeViewは十分に有能なスマートホーム管理ツールである。だが、「究極のスマートホーム向けダッシュボード」と呼ぶのは少々言い過ぎだろう。その称号...</summary>
+  </entry>
   <entry>
     <title>21:30-22:00 527-537 (11件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/527-537</id>
@@ -698,9 +722,9 @@
     <title>prpr: Rust 向けのシンプルで高速な Parser generator</title>
     <id>https://zenn.dev/tanakh/articles/prpr-packrat-parser</id>
     <link href="https://zenn.dev/tanakh/articles/prpr-packrat-parser" />
-    <updated>2026-10-24T15:57:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 https://crates.io/crates/prpr https://github.com/tanakh/prpr 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 https://t…</summary>
+    <updated>2026-10-24T21:34:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 開発の背景についてちょっと説明しておきますと、これ自体はずいぶん昔から開発していたものなので...</summary>
   </entry>
   <entry>
     <title>「ドパ資料」の作り方 - Qiita</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-25T06:17:56+09:00</updated>
     <category term="新日" />
     <summary>▶239 &gt;&gt;237 ほな、また ▶240 &gt;&gt;237 ずっと東京いたらそんなもんじゃないか</summary>
-  </entry>
-  <entry>
-    <title>「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認|セキュリティニュースのセキュリティ対策Lab</title>
-    <id>https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/</id>
-    <link href="https://rocket-boys.co.jp/security-measures-lab/brotli_cve-2026-111497_http2shell_20261024/" />
-    <updated>2026-10-24T21:12:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「HTTP2Shell」CVE-2026-111497、Node.js・Python・Bun・Envoyに影響 Brotliの重大脆弱性と修正版を確認 2026年10月21日、Node.js開発チームは、Brotliの展開処理に起因するメモリ破壊の脆弱性「CVE-2026-111497」を修正したセキュリティアップデートを公開しました。問題はNode.js固有のコードではなく、広く利用され...</summary>
-  </entry>
-  <entry>
-    <title>中国系AIのARTEX、悪質改造が横行 公開停止後もサイバー攻撃に悪用か - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC2361W0T21C26A0000000/" />
-    <updated>2026-10-24T14:43:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>国内の不正アクセスに悪用されたとされる中国系の人工知能（AI）ツール「ARTEX（アルテックス）」で、悪質な改造が広がっている。開発者が公開を停止しているが、第三者がダウンロード済みのARTEXを改造し攻撃力を高めている。企業はさらなる警戒が必要だ。ARTEXは模擬的な攻撃をしかけて脆弱性を探索する行動を自律的に...</summary>
-  </entry>
-  <entry>
-    <title>source は「源流」だった ── ER図を川の流れで読んで、中間テーブルと through を理解する</title>
-    <id>https://qiita.com/mmsbox/items/f2950c2690150264353b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mmsbox/items/f2950c2690150264353b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-24T23:50:36+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Railsで「お気に入り」や「いいね」を作るとき、こんなコードを書きます。 has_many :favorites has_many :favorite_books, through: :favorites, source: :book 私は最初、この2行目を...</summary>
   </entry>
 </feed>
