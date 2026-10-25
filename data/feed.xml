@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T22:00:13.082786+09:00</updated>
+  <updated>2026-10-25T22:30:13.302150+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>21:30-22:00 527-537 (11件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/527-537</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/527-537" />
+    <updated>2026-10-25T21:48:15+09:00</updated>
+    <category term="新日" />
+    <summary>▶527 &gt;&gt;524 でも今日はミスもあったけどそこそこ見れたよ 前より良かった ▶528 内藤の次にノアに都落ちするとしたら誰だ？SANADAあたり？ ▶529 今日の後楽園の話がまったくないｗ ▶530 俺はなんだかんだ鷹木がノアに行くことはあると思う ▶531 お弁当を更に複数持ち帰った社長 https://x.com/milano_c_at/status/21143351546805004…</summary>
+  </entry>
+  <entry>
+    <title>Google、「Gmail」などの内容を広告に利用できると明記 本人の同意前提で規約変更</title>
+    <id>https://japan.cnet.com/article/35253919/</id>
+    <link href="https://japan.cnet.com/article/35253919/" />
+    <updated>2026-10-24T19:27:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>グーグルは、GmailやGoogleフォトなどのデータを使って利用者に合わせた広告を表示する場合があると、10月16日付のプライバシーポリシーに明記した。広告の個人化に対応する他のGoogleサービスへのデータ連携を、利用者が許可した場合が対象となる。 この例外が適用されるのは、Googleドライブ、Gmail、Googleフォトに保...</summary>
+  </entry>
   <entry>
     <title>21:00-21:30 524-526 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/524-526</id>
@@ -682,9 +698,9 @@
     <title>prpr: Rust 向けのシンプルで高速な Parser generator</title>
     <id>https://zenn.dev/tanakh/articles/prpr-packrat-parser</id>
     <link href="https://zenn.dev/tanakh/articles/prpr-packrat-parser" />
-    <updated>2026-10-24T21:34:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 開発の背景についてちょっと説明しておきますと、これ自体はずいぶん昔から開発していたものなので...</summary>
+    <updated>2026-10-24T15:57:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 https://crates.io/crates/prpr https://github.com/tanakh/prpr 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 https://t…</summary>
   </entry>
   <entry>
     <title>「ドパ資料」の作り方 - Qiita</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-24T23:50:36+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Railsで「お気に入り」や「いいね」を作るとき、こんなコードを書きます。 has_many :favorites has_many :favorite_books, through: :favorites, source: :book 私は最初、この2行目を...</summary>
-  </entry>
-  <entry>
-    <title>わからない言葉を、わからないままにしない。React基礎用語の学び直し！</title>
-    <id>https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jota9613/items/138c3a90bd981659844f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-24T22:53:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 分からない単語（わかっている風な単語のこと）があるので 自分の言葉で説明できる様にするためにブログを書きます！ アジェンダ SPA ツールチェーン JSX トランスパイラー モジュール バンドラー アウトプット SPA（Single Page App...</summary>
-  </entry>
-  <entry>
-    <title>MetaのMuseが日本で開始したのでMuse Gadgetsで遊ぼう</title>
-    <id>https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/moritalous/items/840ed6c78ba0508142ef?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-24T19:54:53+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>MetaのMuseが日本で使えるようになりました！ そしてMuseにはハードウェアと連携するMuse Gadgetsというものが用意されています！楽しそう SDKも用意されています。 現時点では、ESP32とLinuxが対応しているようで、ESP32を使...</summary>
   </entry>
 </feed>
