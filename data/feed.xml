@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-26T04:42:26.655070+09:00</updated>
+  <updated>2026-10-26T05:00:12.651036+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka</title>
+    <id>https://note.com/npaka/n/na5ad6472d68c</id>
+    <link href="https://note.com/npaka/n/na5ad6472d68c" />
+    <updated>2026-10-25T21:07:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1. はじめにソフトウェアの「脆弱性」は、悪用されると不正アクセスや情報漏洩につながる危険性があります。そのため、脆弱性情報をいち早く入手し、対策することが重要です。 今回は、世界中の脆弱性情報を確認できる代表的な4つの情報源と、その活用方法を紹介します。 2. 脆弱性情報が公開されるまでの流れ脆弱性情報...</summary>
+  </entry>
   <entry>
     <title>政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化 | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261024de64946</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-25T00:28:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>@napi-rs/canvas を 1.0.11 から 1.0.12 以降に上げると、ctx.font = '48px M PLUS Rounded 1c' のように引用符なしで書いたフォント指定が、まるごと無視されるようになりました。日本語は 10px の豆腐で描かれ、例外も警告も出ません。フォント名を "M PLUS Rounded 1c" のように引用符で囲めば直ります。 この記事は、気づい…</summary>
-  </entry>
-  <entry>
-    <title>prpr: Rust 向けのシンプルで高速な Parser generator</title>
-    <id>https://zenn.dev/tanakh/articles/prpr-packrat-parser</id>
-    <link href="https://zenn.dev/tanakh/articles/prpr-packrat-parser" />
-    <updated>2026-10-24T15:57:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>prpr (PackRat Parser in Rust) という Rust 向けの新しい Parser generator ライブラリを作りました。 https://crates.io/crates/prpr https://github.com/tanakh/prpr 詳しい使い方を書いたドキュメントがありますので、使ってみたいと思った方はぜひこちらをご覧になってください。 https://t…</summary>
   </entry>
 </feed>
