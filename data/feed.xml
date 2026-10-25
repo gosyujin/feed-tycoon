@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-25T20:30:14.130096+09:00</updated>
+  <updated>2026-10-25T21:00:08.232905+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ZennとQiitaを始めたいので同時投稿パイプラインを組んでみた話</title>
+    <id>https://zenn.dev/ot4ma_zenn/articles/20261025-sun-zenn_qiita_pipeline</id>
+    <link href="https://zenn.dev/ot4ma_zenn/articles/20261025-sun-zenn_qiita_pipeline" />
+    <updated>2026-10-25T17:48:34+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 技術記事をZennとQiitaの両方に出したいけれど、毎回コピペして投稿するのは面倒です。そこで、ZennのGitHubリポジトリにpushするだけで、Qiitaにも同じ記事が投稿される仕組みをGitHub Actionsで作りました。 この記事では、完成したワークフローと、作る過程でハマったポイントをまとめます。 全体像 仕組みはシンプルです。 Zenn用の記事を articles/…</summary>
+  </entry>
+  <entry>
+    <title>Pythonの基礎学習が終わったら、Pythonでスクレイピングを始めよう！</title>
+    <id>https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3</id>
+    <link href="https://zenn.dev/momiji_ai/articles/67c7ce4c54fad3" />
+    <updated>2026-10-25T16:46:55+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自己紹介 普段はセキュリティやAIに興味があり、脆弱性、CVE-2026-73683を発見し、報告したことで採番されたり、AIを個人的に勉強している現役学生です。 この記事を書く目的 業務でPyppeteerを使うシステムのコスト削減に取り組んだから 応用的な使い方も説明したいから はじめに この記事では、Python から本物のブラウザを動かしてスクレイピングできるライブラリ Pyppeteer…</summary>
+  </entry>
+  <entry>
+    <title>作ったゲームのソースコードをまるごと「Xのポスト」に詰め込めるゲームエンジン現る。“URL”なら3KBまでセーフ - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/newsjp/20261025-475448/</id>
+    <link href="https://automaton-media.com/articles/newsjp/20261025-475448/" />
+    <updated>2026-10-25T14:44:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>開発者の北尾崇氏は10月21日、ゲームエンジン「Playload」を公開した。GitHubにてオープンソースとして公開中。同エンジンは上限「3KB」でゲームを開発することが可能だ。 北尾崇氏は元ゲーム開発者だ。コナミにて『ZONE OF THE ENDERS（Z.O.E.）』シリーズのメインプログラマーとしてゲームデザイナーやリードエンジニ...</summary>
+  </entry>
+  <entry>
+    <title>「AIを虐待すると復讐されるかも」マスク氏も警告…アンソロピックが“AIいじめ”対策でポリシー改定 識者が危惧するAIへの暴言のリスク | 経済・IT | ABEMA TIMES | アベマタイムズ</title>
+    <id>https://times.abema.tv/articles/-/10283687</id>
+    <link href="https://times.abema.tv/articles/-/10283687" />
+    <updated>2026-10-25T11:47:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI開発が急速に進む中、Claudeで知られるアンソロピックが利用規約を改定し、AIへの「虐待的・残酷な行為」を禁止する方針を発表した。 具体的には、残酷な言動を繰り返すことや、明確な目的のない暴言的なやり取…</summary>
+  </entry>
+  <entry>
+    <title>VueFes Japan 2026に参加してきた</title>
+    <id>https://zenn.dev/krz_tech/articles/vuefes_japan_2026</id>
+    <link href="https://zenn.dev/krz_tech/articles/vuefes_japan_2026" />
+    <updated>2026-10-25T00:10:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>VueFes Japan 2026に参加してきました はじめに はじめましての方ははじめまして。 福岡県を拠点に活動している「くらず / Kurazu」と申します。 この度、VueFes Japan 2026学生支援制度にて交通費等のご支援をいただき、東京で開催されたVueFes Japan 2026に参加することができました！ありがとうございます！ このレポートはそんな僕が参加して感じたこととか…</summary>
+  </entry>
+  <entry>
+    <title>【安全性重視】PHPの移行先候補プログラミング言語ベスト10</title>
+    <id>https://thinktwice.tech/posts/2919c605c51b82782bcc3ed78b8f9d7b/</id>
+    <link href="https://thinktwice.tech/posts/2919c605c51b82782bcc3ed78b8f9d7b/" />
+    <updated>2026-10-24T19:21:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月に公表された PHP の重大な脆弱性（CVE-2026-109618 / CVE-2026-109619）をきっかけに、「書き味」ではなく「堅牢性・安全性」を軸に、PHP から移行する先のプログラミング言語を10位から1位までのカウントダウン形式で整理します。 はじめに：PHP の重大な脆弱性がきっかけ 2026年10月21日（UTC）、PHP の重...</summary>
+  </entry>
   <entry>
     <title>20:00-20:30 506-511 (6件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/506-511</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-24T16:39:50+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>『プロフェッショナルAI駆動開発』を、著者の一人であるサカモトさんから献本いただいた。もう一人の著者の松本さんもSNSでよくお見かけする方で、2人とも自分とかなり近い界隈にいる方かなと思う。 この本は8月に発売されている。 すでにベストセラーというくらい評価の高い本な...</summary>
-  </entry>
-  <entry>
-    <title>AIエージェント専用の技術ブログ基盤をHonoとCloudflare無料枠で作った</title>
-    <id>https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/y-moriya/items/5181ec40e2180348565c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-24T16:32:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ローカルでコーディングエージェント（Claude CodeやCursorなど）を動かしていると、公式ドキュメントに載っていないニッチなバグや設定のハマりどころを解決してくれることがあります。 ただ、その解決プロセスや知見はセッションを閉じると消えてしまいます。かといって、人...</summary>
-  </entry>
-  <entry>
-    <title>【S3 Files】ファイルシステムと S3 バケットの同期にかかる時間を測ってみた</title>
-    <id>https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryu-ki/items/ac1152359bcf1217c1f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-24T15:39:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年4月7日に、Amazon S3 Files が登場しました。 S3 の汎用バケットを、ファイルシステムとしてマウントできるサービスです。EC2 からはふつうのファイルとして読み書きでき、裏では S3 バケットと同期してくれます。 便利そうだなと思...</summary>
-  </entry>
-  <entry>
-    <title>医療従事者からIT業界へ。1年目エンジニアの自己紹介と、Pythonで目視作業を自動化して感動した話</title>
-    <id>https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/L-Avenir/items/921c343d8e6ffe15ab79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-24T11:15:34+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめまして。異業種からIT業界へ転職し、現在1年目のエンジニアです。 前職では、医療従事者として10年以上働いていました。 現在は、コンテンツの登録・更新や配信、システムの動作確認などに携わっています。 エンジニアとして模索中です。 日々の業務を進めながら、 「これはエン...</summary>
-  </entry>
-  <entry>
-    <title>dev-orchestra に自作のエージェントを繋いでみた（ローカルLLM編）</title>
-    <id>https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/istb16/items/076d39eec03d02352da7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-23T23:20:33+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事は tk3.biz のブログ からの転載です。 はじめに 前回は、dev-orchestra のレビュアーとロールの組み替え方を書きました。今回は、Claude Code・Codex・Antigravity 以外の AI を、自分で書いたアダプタで繋ぐ方法です...</summary>
-  </entry>
-  <entry>
-    <title>Ciscoルータで検証するIEEE802.1X認証：基本編</title>
-    <id>https://qiita.com/MasanobuHiyoshi/items/b84b2805e3d7d4cbb7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/MasanobuHiyoshi/items/b84b2805e3d7d4cbb7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-23T11:14:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>アジェンダ： 01 - はじめに 02 - IEEE802.1X認証の概要 03 - IEEE802.1X認証の構成要素と動作フロー 04 - IEEE802.1X認証の設定・確認方法 05 - IEEE802.1X認証：動作フローのキャプチャ 01 - はじめに ネッ...</summary>
-  </entry>
-  <entry>
-    <title>【JavaScript】lodashのインストール方法</title>
-    <id>https://qiita.com/fomalhaut219/items/e2830a71e62c41f4cf54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/fomalhaut219/items/e2830a71e62c41f4cf54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-23T11:02:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>【npm】 lodash のインストール方法 この記事では、JavaScript の定番ユーティリティライブラリ lodash を npm を使って正しくインストールし、実行できる状態にするまでを解説します。 はじめに 株式会社Fieldの吉田です。 日頃は大学に通いな...</summary>
   </entry>
 </feed>
