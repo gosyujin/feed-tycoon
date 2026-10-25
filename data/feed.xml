@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-26T07:30:13.177886+09:00</updated>
+  <updated>2026-10-26T08:00:12.378955+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>07:00-07:30 576-577 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/576-577</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/576-577" />
+    <updated>2026-10-26T07:24:04+09:00</updated>
+    <category term="新日" />
+    <summary>▶576 はい ▶577 目覚めのウルフでウルフが矢野は選手会長って言ってたわ</summary>
+  </entry>
+  <entry>
+    <title>PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装</title>
+    <id>https://zenn.dev/hotaka_noda/articles/74a3b28185af5c</id>
+    <link href="https://zenn.dev/hotaka_noda/articles/74a3b28185af5c" />
+    <updated>2026-10-25T22:58:04+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに PHPの脆弱性対応をきっかけに、Lightsail上のBitnami版WordPressからLightsail提供版へ移行しました。移行に合わせてCloudFrontとWAFを導入し、キャッシュ削除をSlackから実行できるようにしています。 前編で説明した構成へ移す際には、固定ページが404になるなど、DBとファイルのコピーだけでは解決しない問題がありました。ここでは初動と移行の判断、…</summary>
+  </entry>
+  <entry>
+    <title>PHPを更新するつもりが環境移行に【前編】Lightsailの配信構成と運用を見直す</title>
+    <id>https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d</id>
+    <link href="https://zenn.dev/hotaka_noda/articles/3b4c51ecfe561d" />
+    <updated>2026-10-25T22:52:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに PHPの脆弱性に対応しようとしたら、WordPressの環境移行が必要になりました。 先日、PHPの脆弱性対応を行った際に、利用していた環境の制約から、WordPressを新しい環境へ移すことになりました。 実行環境にはAmazon Lightsailを使っています。Lightsailは、仮想サーバーやストレージなどを月額料金のプランで利用できるAWSのサービスです。WordPressな…</summary>
+  </entry>
+  <entry>
+    <title>POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-</title>
+    <id>https://zenn.dev/rikachiii/articles/03c7f77393a772</id>
+    <link href="https://zenn.dev/rikachiii/articles/03c7f77393a772" />
+    <updated>2026-10-25T19:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。@rikachiii です。POPOPO 株式会社でバックエンドを担当していました。 この記事は何？ 前回は、POPOPO のバックエンドチームが、なぜ数あるコーディングエージェントの中から Devin を選び、チームに推奨したのかを書きました。今回はその続きとして、Devin を選んだ後、AI とどう向き合い、どう運用していたかを書いていこうと思います。 AI を活かす心構え・ノウハ…</summary>
+  </entry>
+  <entry>
+    <title>中古ラックサーバを買って、Proxmox VEを入れるまで【ホームラボ構築記 #1】</title>
+    <id>https://zenn.dev/mana1001/articles/homelab-01-install</id>
+    <link href="https://zenn.dev/mana1001/articles/homelab-01-install" />
+    <updated>2026-10-25T18:47:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 大学2年の夏、中古のラックサーバを買いました。この連載では、そのサーバに Proxmox VE を入れてホームラボを作り、運用してきた記録を、できるだけ時系列で書いていきます。 第1回は、サーバが届いてから Proxmox VE のインストールが終わるまでです。 なぜ自分専用のサーバが欲しかったのか ネットワーク系のサークルに入っていて、サークルにはサーバもあります。ただ、それは部員みん…</summary>
+  </entry>
+  <entry>
+    <title>自動売買システムの全体像を1枚の図で:価格の取得・記録・バックテスト・判断(Python・PAD)</title>
+    <id>https://zenn.dev/yoru_build/articles/b5569fce05651a</id>
+    <link href="https://zenn.dev/yoru_build/articles/b5569fce05651a" />
+    <updated>2026-10-25T18:43:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>私が作っている自動売買(売り買いの判断と注文を、プログラムに任せる仕組み)は、「取得・記録・判断・発注」の4つの段を順に通る流れと、記録した価格で戦略(どういう条件で売買するかのルール)を試す「バックテスト」の、2つでできています。この記事では、その全体を1枚の図で表現します。 売買の対象 システムが扱っているのは、国内の証券会社で扱っている、株価指数(多くの株の値動きを、一つの数字で表したもの)…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeにghを使わせても、GH_TOKENをコンテナの環境変数に置かないdevcontainer構成</title>
+    <id>https://zenn.dev/hii_chi/articles/claude-code-gh-token-wrapper</id>
+    <link href="https://zenn.dev/hii_chi/articles/claude-code-gh-token-wrapper" />
+    <updated>2026-10-25T15:03:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>devcontainer で Claude Code が PR や Issue を作成できるように、GitHub CLI（gh）を利用させることにしました。そのためには、GitHub のトークンをコンテナに渡す必要があります。環境変数に入れれば手軽ですが、Claude Code がうっかり env を出力すると、トークンがそのまま表示されてしまいます。 この記事では、トークンを環境変数にも gh…</summary>
+  </entry>
+  <entry>
+    <title>gh api -f body=@file で、PR に一時ファイルのパスが載った</title>
+    <id>https://zenn.dev/hotto_ken/articles/gh-api-raw-field-posted-temp-path</id>
+    <link href="https://zenn.dev/hotto_ken/articles/gh-api-raw-field-posted-temp-path" />
+    <updated>2026-10-25T13:11:54+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>連載『疑って確かめる』第1話（全8話）。成功に見える失敗を、1話に1つずつ確かめます。 「エラーが出ていない」「URL が返ってきた」「完了しました」。どれも成功の証拠ではなく、成功の自己申告です。 この連載では、自己申告を信じずに確かめる手順を、私が実際に踏んだ失敗から1話ずつ取り出します。 全8話を読み終えると、次のことができるようになります。 終了コード・HTTP ステータス・完了報告を、そ…</summary>
+  </entry>
+  <entry>
+    <title>git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン</title>
+    <id>https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime</id>
+    <link href="https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime" />
+    <updated>2026-10-25T11:37:59+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタンプをUTCで作成すべき 要約 zip ファイルには DOS タイムスタンプと拡張タイムスタンプがある DOS タイムスタンプはタイムゾーン無しのタイムスタンプ 拡張タイムスタンプはUTCで格納されたタイムスタンプ AWS CodePipeline は zip…</summary>
+  </entry>
+  <entry>
+    <title>C# × Oracle ストアドプロシージャ早見表（WinForms の取得・登録・更新・削除・CSV 出力）</title>
+    <id>https://zenn.dev/hiroshi00000000/articles/078de5ac61693b</id>
+    <link href="https://zenn.dev/hiroshi00000000/articles/078de5ac61693b" />
+    <updated>2026-10-25T09:56:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>C# の Windows フォームで Oracle を使う画面を作るたびに調べ直していた「ストアドプロシージャの呼び方」と「取得・登録・更新・削除・CSV 出力の書き方」を、1 ページにまとめました。ストアドが OUT 引数で返す結果コード・メッセージの受け取り方と、エラーになったときの流れも入れています。早見表からやりたいことのコードを見て、表名・列名を書きかえれば、そのまま使えます。 .NET…</summary>
+  </entry>
   <entry>
     <title>台湾では装置がトラブらないために「乖乖（グァイグァイ）」というおやつをお供えする習慣があるがTSMCでも普通にやっているらしい</title>
     <id>https://togetter.com/li/2762768</id>
@@ -725,85 +805,5 @@
     <updated>2026-10-25T14:53:48+09:00</updated>
     <category term="新日" />
     <summary>▶328 中邑とヒロムの珍ダンス早速煽りミーム化してて笑える ピエロとしては成功だよ ▶329 今日はみょんみょん強奪しか見どころないな ▶330 ノア始まったぞテツヤ出るから見ろよw ▶331 東郷が黒みょんみょん用意してたな 拉致して嫁入りじゃオラ！ ▶332 &gt;&gt;330 何時頃？ ▶333 自称Jr.のエースのKUSHIDAがナチュラルヒールすぎてシンプルに好かれて無い中で、対抗軸として出て…</summary>
-  </entry>
-  <entry>
-    <title>知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/200278051d4e847b124b82018c7edbd0e16dc553</id>
-    <link href="https://news.yahoo.co.jp/articles/200278051d4e847b124b82018c7edbd0e16dc553" />
-    <updated>2026-10-25T07:50:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>１１９万円超の損失が出た女性の取引画面＝女性提供（読売新聞） 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失った。個人情報が公開...</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 326-327 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/326-327</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/326-327" />
-    <updated>2026-10-25T14:10:33+09:00</updated>
-    <category term="新日" />
-    <summary>▶326 技が雑な所は辻陽太に行きました ▶327 内藤が目を掛ける選手は基本ヘタクソだから</summary>
-  </entry>
-  <entry>
-    <title>13:30-14:00 317-325 (9件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/317-325</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/317-325" />
-    <updated>2026-10-25T13:57:24+09:00</updated>
-    <category term="新日" />
-    <summary>▶317 モロニー、行くんか？ ▶318 日本は国産エンタメが充実し過ぎて海外産が簡単に入り込めない 映画ですら洋画離れが進んでる ▶319 なんとかフィットとかいうジェイ、フィンレーの新ユニットがうんこCoと合体して、デスラとドームでマッチアップだろ そこでモロニーを格上げする仕組み ▶320 フィンジュースジェイの合流を新日本でできないってのも悲しさはある ▶321 ゲイブ追放はバレクラWDの…</summary>
-  </entry>
-  <entry>
-    <title>思いつきが現実になる世界でこわい - 運河</title>
-    <id>https://uiuret.hatenablog.com/entry/2026/10/25/080436</id>
-    <link href="https://uiuret.hatenablog.com/entry/2026/10/25/080436" />
-    <updated>2026-10-25T11:09:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。 仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。 AIで頭がおかしくなった、という記事を書いたの...</summary>
-  </entry>
-  <entry>
-    <title>13:00-13:30 308-316 (9件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/308-316</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/308-316" />
-    <updated>2026-10-25T13:26:53+09:00</updated>
-    <category term="新日" />
-    <summary>▶308 自分で立てたスレでやればいいんじゃないですか？ なんでやらないんですか？ 【猪木が提唱した】新日総合スレッド3988【闘魂は何処に？】 https://medaka.5ch.io/test/read.cgi/wres/1792279819/ ▶309 ヒロムって乗れない奴から見たら良い歳の小汚いおっさんが何をしてるんだ？でしかないからな 新日では見放されそうになったけど内藤が拾った哀れで…</summary>
-  </entry>
-  <entry>
-    <title>マスク氏、ウクライナ軍のスターリンク利用規約違反を非難</title>
-    <id>https://www.afpbb.com/articles/-/3659233</id>
-    <link href="https://www.afpbb.com/articles/-/3659233" />
-    <updated>2026-10-25T12:32:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウクライナ軍が使用するスターリンク（2023年2月1日撮影）。(c)YASUYOSHI CHIBA/AFP 【10月25日 AFP】米実業家イーロン・マスク氏は24日、ウクライナ軍が衛星通信サービス「スターリンク」を「人を殺すためのドローン攻撃」に使用し、利用規約に違反したと非難した。ウクライナ軍の作戦に不可欠な米宇宙開発企業スペース...</summary>
-  </entry>
-  <entry>
-    <title>Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者や開発者向けにcurlやgitなどコマンドラインツールに対する暫定的な回避策を公開。</title>
-    <id>https://applech2.com/archives/20261025-apple-blocks-compromised-emudhra-ca-certificates.html</id>
-    <link href="https://applech2.com/archives/20261025-apple-blocks-compromised-emudhra-ca-certificates.html" />
-    <updated>2026-10-25T11:37:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Apple、2026年10月に認証局eMudhraで発生した中間CA証明書の秘密鍵漏洩問題に対し証明書をブロックし、システム管理者向けにcurlやgit、opensslの問題に対してはアップデートまでに暫定的な回避策を公開。ます。詳細は以下から。 電子証明書を発行するインドの認証局eMudhraは2026年10月20日、2025年4月30日に8つの中間C...</summary>
-  </entry>
-  <entry>
-    <title>12:30-13:00 295-307 (13件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/295-307</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/295-307" />
-    <updated>2026-10-25T12:54:39+09:00</updated>
-    <category term="新日" />
-    <summary>▶295 アキラノリノリでヒールやってたのにそこから急にオスプレイに感化されたこと位は説明せwよ ▶296 悪目立ちする岡の陰に隠れて帝国は全員が行き当たりばったり支離滅裂だからな まあ誰がいつからいつまで来日するかとか全部未定のまま進めてる新日側が悪いよこれは そんな状況だから解体シナリオ一向に進まないし些細な日程や人員配置の変更の度にレギュラーメンバーが180度意見変えたりしなきゃならない 各…</summary>
-  </entry>
-  <entry>
-    <title>12:00-12:30 293-294 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/293-294</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/293-294" />
-    <updated>2026-10-25T12:16:26+09:00</updated>
-    <category term="新日" />
-    <summary>▶293 もし新日戻ってくるならジェフ・コブみたいにUnboundCompanyじゃないチームに入って欲しいな。 ▶294 &gt;&gt;272 年寄りが縋るのが猪木しかないってこんな哀しい老後はないね</summary>
-  </entry>
-  <entry>
-    <title>知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」</title>
-    <id>https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</id>
-    <link href="https://www.yomiuri.co.jp/national/20261024-GYT1T00360/" />
-    <updated>2026-10-25T05:11:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【読売新聞】 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失っ</summary>
   </entry>
 </feed>
