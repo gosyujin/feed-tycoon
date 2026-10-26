@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-27T01:30:15.368392+09:00</updated>
+  <updated>2026-10-27T02:00:15.437070+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>01:30-02:00 822-824 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/822-824</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/822-824" />
+    <updated>2026-10-27T01:54:40+09:00</updated>
+    <category term="新日" />
+    <summary>▶822 後楽園ホールにいたけど、近くに永井の親とお姉さんがいた わざわざそんな日に流血しなくても ▶823 安田とか嘉藤もそうだけど大物になれる雰囲気を感じない 今の若いのだと松本が一番面構えがいい ムラシはマジで読めん ムラシだけはマジでわからん ▶824 コブのWWEでの話が酷いけど面白い WWE「君には日本時代と同じ様にフェイスペイントをして貰うね。」 コブ「フェイスペイントなんてマジてや…</summary>
+  </entry>
   <entry>
     <title>01:00-01:30 819-821 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/819-821</id>
@@ -343,6 +351,14 @@
     <summary>「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新／「Visual Studio」、「PowerShell」でもセキュリティアップデート</summary>
   </entry>
   <entry>
+    <title>AI の謎な説明文を直すスキル</title>
+    <id>https://zenn.dev/microsoft/articles/explain-before-shorten</id>
+    <link href="https://zenn.dev/microsoft/articles/explain-before-shorten" />
+    <updated>2026-10-26T14:49:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ここ最近は自作の MarkdStage で Markdown ファイルでスライドを作っているのですが、AI に箇条書きを作らせると、なんというか、もっとこう説明いるだろ！？なんでいきなり否定から入るの！？みたいな文章を作りがちです。直近だとこういうのが出てきました。0件じゃないのを表してるのはそうだけど、ここで説明したい...</summary>
+  </entry>
+  <entry>
     <title>無料アップローダー「uploader.jp」が終了、約20年の歴史に幕。ファイルはどうなる？【やじうまWatch】</title>
     <id>https://internet.watch.impress.co.jp/docs/yajiuma/2151164.html</id>
     <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2151164.html" />
@@ -357,14 +373,6 @@
     <updated>2026-10-26T13:50:30+09:00</updated>
     <category term="はてブ IT" />
     <summary>トレンドマイクロ、PHPの重大な脆弱性（PHP2Shell）への対応・支援策を発表</summary>
-  </entry>
-  <entry>
-    <title>AI の謎な説明文を直すスキル</title>
-    <id>https://zenn.dev/microsoft/articles/explain-before-shorten</id>
-    <link href="https://zenn.dev/microsoft/articles/explain-before-shorten" />
-    <updated>2026-10-26T13:32:54+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ここ最近は自作の MarkdStage で Markdown ファイルでスライドを作っているのですが、AI に箇条書きを作らせると、なんというか、もっとこう説明いるだろ！？なんでいきなり否定から入るの！？みたいな文章を作りがちです。直近だとこういうのが出てきました。0件じゃないのを表してるのはそうだけど、ここで説明したいのはこれじゃない！みたいな気持ちを抱いていました。 Completed は、コ…</summary>
   </entry>
   <entry>
     <title>最近の E2E 戦略（2026 年 10 月現在）</title>
@@ -796,13 +804,5 @@
     <updated>2026-10-26T11:36:48+09:00</updated>
     <category term="はてブ IT" />
     <summary>Apple Musicのウェブサイトで存在しないページを開くと、初代iPodを再現した音楽プレーヤーが表示されることが明らかになりました。画面に表示されたiPodは実際に操作でき、一部の楽曲を試聴できるほか、隠しゲームもプレイ可能です。 iPod 25周年 - Apple Music https://music.apple.com/jp/ipod Apple Music Has a Hid...</summary>
-  </entry>
-  <entry>
-    <title>スタックトレースを読むとヒープが約1,470 MB増えていた話</title>
-    <id>https://zenn.dev/dress_code/articles/f2a51226c9ec6f</id>
-    <link href="https://zenn.dev/dress_code/articles/f2a51226c9ec6f" />
-    <updated>2026-10-26T09:00:13+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Dress Code 株式会社のかわうそです。 API サーバーのメモリを測っていたら、スタックトレースを一度読んだだけで、ヒープが約 1,470 MB 増えていました。調べてみると、source-map-support が巨大な source map を読み込み、結果を保持していました。エラーの場所を教えてくれる処理に、これだけのメモリを使っていました。 今回は、本番プロセスで sou…</summary>
   </entry>
 </feed>
