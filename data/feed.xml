@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-26T14:00:10.700145+09:00</updated>
+  <updated>2026-10-26T14:25:16.185380+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>13:30-14:00 676-678 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/676-678</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/676-678" />
+    <updated>2026-10-26T13:56:57+09:00</updated>
+    <category term="新日" />
+    <summary>▶676 strongとかどこいった ▶677 ボルチンのはもう返上でいいんじゃないか 一回も防衛戦してないような ▶678 &gt;&gt;664 U30とか封印しちまったけど今の環境なら復活してもいい気する TV王座も若手向けにして引き分けはコイントスにしろ😡</summary>
+  </entry>
+  <entry>
+    <title>Node.js の Brotli 脆弱性 CVE-2026-111497 を読む</title>
+    <id>https://zenn.dev/chot/articles/79e6c94e27782d</id>
+    <link href="https://zenn.dev/chot/articles/79e6c94e27782d" />
+    <updated>2026-10-26T11:29:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 注記: 本記事で扱うのは、修正コミットから読み取れる原因と修正内容である。「out-of-bounds write によってクラッシュ、メモリ内容の漏えい、RCE につながりうる」という影響の説明は Node.js の脆弱性告知によるもので、そこに至る経路は本記事では扱わない。 きっかけ 2026年10月21日に Node.js のセキュリティリリースが公開された。 複数の脆弱性が同時に修正さ…</summary>
+  </entry>
+  <entry>
+    <title>かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能</title>
+    <id>https://gigazine.net/news/20261026-dessa-conversation-ai/</id>
+    <link href="https://gigazine.net/news/20261026-dessa-conversation-ai/" />
+    <updated>2026-10-26T11:05:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>BlockはTwitter創業者のジャック・ドーシー氏がCEOを務めるテクノロジー企業で、決済サービスのほか、AIエージェントやAI重視のコミュケーションツールなども開発しています。新たに、Blockが音声会話AI「Dessa」を発表しました。 Dessa - the Conversation Model trained only on speech https://block.xyz/dessa…</summary>
+  </entry>
+  <entry>
+    <title>AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア</title>
+    <id>https://zenn.dev/tokium_dev/articles/internship-mentoring-2026</id>
+    <link href="https://zenn.dev/tokium_dev/articles/internship-mentoring-2026" />
+    <updated>2026-10-26T10:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、TOKIUM デジタライズチームのおかもりです。 お客様からお預かりした領収書などのデータ化作業を行うシステムと、その作業実績を管理するシステムの開発を担当しています。 9/28〜10/2の5日間で、インターン生2名を受け入れました。 受け入れを通して感じたことなどを、この記事に書きます。 受け入れの準備 学生時代にエンジニア職のインターンを経験したことがありませんでした。そのため、今…</summary>
+  </entry>
+  <entry>
+    <title>eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた</title>
+    <id>https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles</id>
+    <link href="https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles" />
+    <updated>2026-10-24T12:53:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR OS もブラウザも最新だったのに、コンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた eMudhra の中間 CA 8 本の秘密鍵が、証明書から誰でも復元できる状態だった ブラウザと OS は塞がったが、自前の証明書を持つアプリは自分で上げるまで偽サイトを信じる 確かめ方は curl 1 行。証明書エラーなら安全、繋がったら要更新 直す場所は環境しだい（うちは v…</summary>
+  </entry>
   <entry>
     <title>13:00-13:30 668-675 (8件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/668-675</id>
@@ -298,9 +338,9 @@
     <title>「読みにくいDB」はAI開発のコストを1.9倍にする――Claude Codeで検証したDB設計の影響</title>
     <id>https://zenn.dev/actbe_tech/articles/8b4a9991d5365d</id>
     <link href="https://zenn.dev/actbe_tech/articles/8b4a9991d5365d" />
-    <updated>2026-10-25T13:22:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。 今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。 先に言ってしま...</summary>
+    <updated>2026-10-23T18:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Twitterで「mdやskillを整える以外にも、AIが読みやすいDB構成がある」という話を見かけました。 今後AIで開発していくと、開発スピードと同じくらいAIのコストが効いてくると思っています。そこで、読みやすいDBと読みにくいDBで、トークンとコストがどれくらい変わるのかを実験してみました。 先に言ってしまうと、AIにとって読みやすいDBは、人間にとって読みやすいDBとほとんど同…</summary>
   </entry>
   <entry>
     <title>09:00-09:30 584-586 (3件)</title>
@@ -330,9 +370,9 @@
     <title>私が5種類のコーディングエージェントを使い分ける理由</title>
     <id>https://zenn.dev/rimon/articles/45c1fd2f015af8</id>
     <link href="https://zenn.dev/rimon/articles/45c1fd2f015af8" />
-    <updated>2026-10-26T08:07:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みま...</summary>
+    <updated>2026-10-26T07:44:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い方をしているのか、それぞれどう使い分けているのかを解説します。 ※アウトプットの品質などは主観を含みます。 5種類のコーディングエージェントを使い分ける理由 私がコーディングエージェントを…</summary>
   </entry>
   <entry>
     <title>ARTEXだけではない：日本を狙う3つの攻撃基盤に見るAI関与の実態</title>
@@ -765,45 +805,5 @@
     <updated>2026-10-24T08:04:18+09:00</updated>
     <category term="はてブ IT" />
     <summary>こうした説明は、「Apple Music」「Apple TV」「FaceTime」をHomeViewの最も重要な機能として的確に位置付けている。Appleのエコシステムにどっぷり漬かっているなら、HomeViewは十分に有能なスマートホーム管理ツールである。だが、「究極のスマートホーム向けダッシュボード」と呼ぶのは少々言い過ぎだろう。その称号...</summary>
-  </entry>
-  <entry>
-    <title>21:30-22:00 527-537 (11件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/527-537</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/527-537" />
-    <updated>2026-10-25T21:48:15+09:00</updated>
-    <category term="新日" />
-    <summary>▶527 &gt;&gt;524 でも今日はミスもあったけどそこそこ見れたよ 前より良かった ▶528 内藤の次にノアに都落ちするとしたら誰だ？SANADAあたり？ ▶529 今日の後楽園の話がまったくないｗ ▶530 俺はなんだかんだ鷹木がノアに行くことはあると思う ▶531 お弁当を更に複数持ち帰った社長 https://x.com/milano_c_at/status/21143351546805004…</summary>
-  </entry>
-  <entry>
-    <title>Google、「Gmail」などの内容を広告に利用できると明記 本人の同意前提で規約変更</title>
-    <id>https://japan.cnet.com/article/35253919/</id>
-    <link href="https://japan.cnet.com/article/35253919/" />
-    <updated>2026-10-24T19:27:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>グーグルは、GmailやGoogleフォトなどのデータを使って利用者に合わせた広告を表示する場合があると、10月16日付のプライバシーポリシーに明記した。広告の個人化に対応する他のGoogleサービスへのデータ連携を、利用者が許可した場合が対象となる。 この例外が適用されるのは、Googleドライブ、Gmail、Googleフォトに保...</summary>
-  </entry>
-  <entry>
-    <title>21:00-21:30 524-526 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/524-526</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/524-526" />
-    <updated>2026-10-25T21:22:08+09:00</updated>
-    <category term="新日" />
-    <summary>▶524 &gt;&gt;517 シェインは凄かったし清宮くんもそこそこ出来てたけどOZAWAは全く… ▶525 &gt;&gt;523 ヤフコメでノアボコボコなのに余裕だなお前 ▶526 &gt;&gt;346 壊れたお下がりとB級品で4000人入れたなら大健闘なのに失礼な話だな</summary>
-  </entry>
-  <entry>
-    <title>確率と統計を視覚的なアニメーションで理解できる「Seeing Theory」</title>
-    <id>https://gigazine.net/news/20261025-seeing-theory/</id>
-    <link href="https://gigazine.net/news/20261025-seeing-theory/" />
-    <updated>2026-10-25T13:02:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Seeing Theory」は確率と統計の基本概念をインタラクティブに視覚化し、直感的かつ分かりやすく学べるウェブサイトです。 Seeing Theory https://seeing-theory.brown.edu/ Seeing Theoryはブラウン大学の学部生であったダニエル・クーニン氏によって作成され、視覚化にはJavaScriptライブラリであるD3.jsが活用されて...</summary>
-  </entry>
-  <entry>
-    <title>20:30-21:00 512-523 (12件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/512-523</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/512-523" />
-    <updated>2026-10-25T20:57:05+09:00</updated>
-    <category term="新日" />
-    <summary>▶512 つまりこれはSHOの嫉妬か？ https://x.com/njpwworld/status/2114309904307531946 ▶513 &gt;&gt;494 こんなこと言うやつに新日ファンは会場に来てほしくないやろな ▶514 この2人は当たり外人タッグやな 日本に合いそう ▶515 内藤、ノアでも補助で回してもらってるのか デスティーノの動き遅すぎてさすがに観客も気づくだろ ▶516 &gt;&gt;…</summary>
   </entry>
 </feed>
