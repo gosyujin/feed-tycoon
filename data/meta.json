@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-26T12:00:13.073602+09:00",
-  "nextEstimate": "12:30",
+  "updatedAt": "2026-10-26T12:30:13.732946+09:00",
+  "nextEstimate": "13:00",
   "sources": {
     "publickey": {
       "name": "Publickey",
       "url": "https://www.publickey1.jp/atom.xml",
-      "fetchedAt": "2026-10-26T12:00:13.073602+09:00",
+      "fetchedAt": "2026-10-26T12:30:13.732946+09:00",
       "etag": "\"6de6-65eaa7a484dbd\"",
       "lastModified": "Sun, 25 Oct 2026 13:49:09 GMT",
       "ok": true,
@@ -15,7 +15,7 @@
     "hateb-it": {
       "name": "はてブ IT",
       "url": "https://b.hatena.ne.jp/hotentry/it.rss",
-      "fetchedAt": "2026-10-26T12:00:13.073602+09:00",
+      "fetchedAt": "2026-10-26T12:30:13.732946+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
@@ -24,25 +24,26 @@
     "zenn": {
       "name": "Zenn トレンド",
       "url": "https://zenn.dev/feed",
-      "fetchedAt": "2026-10-26T12:00:13.073602+09:00",
+      "fetchedAt": "2026-10-26T12:30:13.732946+09:00",
       "etag": null,
-      "lastModified": "Mon, 26 Oct 2026 02:13:02 GMT",
+      "lastModified": "Mon, 26 Oct 2026 02:45:03 GMT",
       "ok": true,
       "count": 20
     },
     "qiita": {
       "name": "Qiita トレンド",
       "url": "https://qiita.com/popular-items/feed",
-      "fetchedAt": "2026-10-26T12:00:13.073602+09:00",
+      "fetchedAt": "2026-10-26T12:30:13.732946+09:00",
       "etag": "W/\"9ac5ed5d97671d4e13f00bd33cc1b234\"",
       "lastModified": null,
       "ok": true,
+      "notModified": true,
       "count": 30
     },
     "www-jpcert-or-jp-rss": {
       "name": "JPCERT",
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
-      "fetchedAt": "2026-10-26T12:00:13.073602+09:00",
+      "fetchedAt": "2026-10-26T12:30:13.732946+09:00",
       "etag": "\"5037-65eb363b18840\"",
       "lastModified": "Mon, 26 Oct 2026 00:27:05 GMT",
       "ok": true,
@@ -52,7 +53,7 @@
     "5ch-rss-kk-ataka-workers-dev-feed-xml": {
       "name": "新日",
       "url": "https://5ch-rss.kk-ataka.workers.dev/feed.xml?…",
-      "fetchedAt": "2026-10-26T12:00:13.073602+09:00",
+      "fetchedAt": "2026-10-26T12:30:13.732946+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
