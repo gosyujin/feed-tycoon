@@ -2,10 +2,98 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-27T05:00:14.444877+09:00</updated>
+  <updated>2026-10-27T05:30:12.818842+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>05:00-05:30 827 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/827</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/827" />
+    <updated>2026-10-27T05:09:32+09:00</updated>
+    <category term="新日" />
+    <summary>▶827 松本が若い頃の吉野正人に似てて中原が若い頃の山田恵一に似てる</summary>
+  </entry>
+  <entry>
+    <title>「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/newsjp/20261026-475703/</id>
+    <link href="https://automaton-media.com/articles/newsjp/20261026-475703/" />
+    <updated>2026-10-26T20:57:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIの進化に伴い、逆コンパイルをはじめとするリバースエンジニアリングを用いた権利侵害行為が世界を揺るがしている。一方で、Anthropicの「Claude Opus 5.5」をはじめ、現在提供されている一部のAIモデルでは、そうした行為に加担する作業をブロックするケースが報告されはじめている。 Anthropicは対話型AI「Claude」...</summary>
+  </entry>
+  <entry>
+    <title>実際に試したClaude便利術20選 まとめ</title>
+    <id>https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T20:05:51+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Claudeを使い始めたので、実際に試した作業効率の上がりそうな機能を20個まとめました。 この記事の特徴は、1つの Terraform コードを通して試していることです。 構成図の画像を貼る → Terraform が9ファイル・573行出てくる → /go...</summary>
+  </entry>
+  <entry>
+    <title>LLMを組み込むETLパイプラインの設計：品質をどう証明し、欠陥をどう特定するか</title>
+    <id>https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T17:28:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1. はじめに：読者と問題設定 パイプラインは、割とすぐに動きました。社内文書をセグメントに分割し、LLMに渡して記事を生成し、ナレッジベースに取り込み、検索につなぐ。現在のツールを使えば、ここまでは正直、難しくありません。 問題は、その後でした。 筆者は、業務マニュアル...</summary>
+  </entry>
+  <entry>
+    <title>CloudFront + AWS WAF のパストラバーサル対策 ― パス条件のルールは `../` ですり抜けられるのか検証した</title>
+    <id>https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T17:04:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに パストラバーサルとは、URL のパスに ../（1つ上の階層に戻る）を含めて、本来アクセスできない場所に到達しようとする攻撃手法です。 CloudFront + AWS WAF の構成で、こうした不正なアクセスを防ぐ方法の1つに、WAF でパスを条件に許可・拒否...</summary>
+  </entry>
+  <entry>
+    <title>生成AIに渡す仕様書はどう書くべきか ― AIが「読みやすい」形式と「読みにくい」形式</title>
+    <id>https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T12:44:28+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Claude CodeやCursorなどのコーディングエージェントに実装を任せる場面が増えてきました。エージェントの出力品質は、モデルの性能以上に入力されるコンテキストの質、つまり仕様書の書き方に左右されます。 従来の仕様書(Excel方眼紙、PowerPoin...</summary>
+  </entry>
+  <entry>
+    <title>2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+    <id>https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T11:06:20+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 3KBしか使えない！奇妙で素敵なゲームエンジン...</summary>
+  </entry>
+  <entry>
+    <title>【Google Workspace × Gemini】Geminiを使用してスプレッドシート／ドキュメントを作成してみよう（初級）</title>
+    <id>https://qiita.com/hiroki_mu/items/c760b60dd09723fea29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/hiroki_mu/items/c760b60dd09723fea29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T10:50:24+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1. はじめに 最近、社内業務でGoogleスプレッドシートやGoogleドキュメントを使う機会が増えてきました。 資料や管理表を作成する際、「書く内容はだいたい決まっているのに、フォーマットをゼロから整えるのが一番面倒...」と感じることはありませんか？ 実は、スプレッ...</summary>
+  </entry>
+  <entry>
+    <title>AWS Certified AI Business Strategist(AIB-C01)ベータ版に満点合格したので学習方法をまとめる</title>
+    <id>https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T01:38:51+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1 はじめに 2026年10月11日にAWS Certified AI Business Strategistのベータ版（以下AIB）を受験し合格しました。 自分でもびっくりでしたが満点などをとってしまったので、せっかくですしどのように勉強したかをまとめておこうという記事...</summary>
+  </entry>
+  <entry>
+    <title>Symbol のコンセンサスをいじらず、誰にも預けない、なんか DEX っぽいものが作れてしまった話</title>
+    <id>https://qiita.com/HinaBlogChannel/items/b5f3020e0e42235dda0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/HinaBlogChannel/items/b5f3020e0e42235dda0c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-25T21:29:41+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Symbol（XYM）のコミュニティでは、「DEX が欲しい」という声をずっと聞く。なんかもうみんな言っている気がする。「スマートコントラクトがないから無理」という声もずっと聞く。これもなんかもうみんなさんざん言っている気がする。 たしかに Symbol にはスマートコント...</summary>
+  </entry>
+  <entry>
+    <title>Object.hasOwnとinとundefined比較は何が違う？継承・未定義値・getterをNode.jsで実測</title>
+    <id>https://qiita.com/ennagara128/items/a62d80d619f98c3e7394?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ennagara128/items/a62d80d619f98c3e7394?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-25T17:01:18+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>obj.key !== undefined で、プロパティの存在を調べたつもりになっていませんか。値が undefined の項目と、存在しない項目は、この判定では区別できません。逆に in は、プロトタイプから継承した項目も見つけます。 値の確認と、項目の存在確認を分けて...</summary>
+  </entry>
   <entry>
     <title>04:00-04:30 826 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/826</id>
@@ -716,93 +804,5 @@
     <updated>2026-10-26T11:12:17+09:00</updated>
     <category term="はてブ IT" />
     <summary>Dessaは、音声を入力して音声を出力するspeech-to-speechモデルだ。相手の話を聞きながら同時に話せる全二重方式を採用している。実際の会話から学習したことで、どのタイミングで口を挟むか、「うん」「なるほど」といった相づちをどう打つかを身に付けたという。推論はリアルタイムより高速で、応答を待たされることは...</summary>
-  </entry>
-  <entry>
-    <title>15:00-15:30 687-689 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/687-689</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/687-689" />
-    <updated>2026-10-26T15:11:45+09:00</updated>
-    <category term="新日" />
-    <summary>▶687 &gt;&gt;686 一派云々って内藤が会社に反逆したような言い方で草 ▶688 &gt;&gt;682 考えているだけなのでセーフ ▶689 NEVERは創設早々に田中将斗や後藤や石井ちゃんの好試合で路線が変わっちゃったからな</summary>
-  </entry>
-  <entry>
-    <title>14:30-15:00 686 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/686</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/686" />
-    <updated>2026-10-26T14:54:30+09:00</updated>
-    <category term="新日" />
-    <summary>▶686 内藤一派絡みのノア側のリターンは内藤哲也引退興行シリーズの収益ゲットだぜってだけでしょ いったいお幾ら程と見込んでるんだか 腐っても内藤だしそこそこは入るんだろうけど流石にノア側が過大評価し過ぎてる気がするな あと安田兄は取り入る先うまいこと選んだな</summary>
-  </entry>
-  <entry>
-    <title>「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう</title>
-    <id>https://togetter.com/li/2762937</id>
-    <link href="https://togetter.com/li/2762937" />
-    <updated>2026-10-26T12:24:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ...</summary>
-  </entry>
-  <entry>
-    <title>企業が被害にあったインシデント事例をまとめたデータベースを作ってる</title>
-    <id>https://sota1235.com/blog/2026-10-25-my-own-incident-db/</id>
-    <link href="https://sota1235.com/blog/2026-10-25-my-own-incident-db/" />
-    <updated>2026-10-26T00:34:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>tl;dr 特定の企業・団体が被害に遭うセキュリティインシデント事例を集めてDB化する取り組みをしています 成果物はNotion DBでまとめてあり、[Beta] セキュリティインシデントデータベースから誰でも閲覧可能です 発展途上の取り組みですが、自分的にはやってよかったんという気持ち セキュリティインシデントのデータベ...</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 679-685 (7件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/679-685</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/679-685" />
-    <updated>2026-10-26T14:23:07+09:00</updated>
-    <category term="新日" />
-    <summary>▶679 ノアが新人募集に女子を入れてるな新日も続くか？ https://x.com/noah_ghc/status/2114556192152514915 ▶680 SNSでゼインジェイの画像あげてるプ女子が結構いるからもっとゼインのビジュアル活用した売りかたすれば儲かると思うんだがやんないだろうな ▶681 若手のベルト作るより既存ベルトを若手に廻すのが優先じゃね？ その意味でいうとヘビーより…</summary>
-  </entry>
-  <entry>
-    <title>13:30-14:00 676-678 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/676-678</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/676-678" />
-    <updated>2026-10-26T13:56:57+09:00</updated>
-    <category term="新日" />
-    <summary>▶676 strongとかどこいった ▶677 ボルチンのはもう返上でいいんじゃないか 一回も防衛戦してないような ▶678 &gt;&gt;664 U30とか封印しちまったけど今の環境なら復活してもいい気する TV王座も若手向けにして引き分けはコイントスにしろ😡</summary>
-  </entry>
-  <entry>
-    <title>Node.js の Brotli 脆弱性 CVE-2026-111497 を読む</title>
-    <id>https://zenn.dev/chot/articles/79e6c94e27782d</id>
-    <link href="https://zenn.dev/chot/articles/79e6c94e27782d" />
-    <updated>2026-10-26T11:29:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 注記: 本記事で扱うのは、修正コミットから読み取れる原因と修正内容である。「out-of-bounds write によってクラッシュ、メモリ内容の漏えい、RCE につながりうる」という影響の説明は Node.js の脆弱性告知によるもので、そこに至る経路は本記事では扱わない。 きっかけ 2026年10月21日に Node.js のセキュリティリリースが公開された。 複数の脆弱性が同時に修正さ…</summary>
-  </entry>
-  <entry>
-    <title>かなり人間っぽい会話が可能なAI「Dessa」をジャック・ドーシー率いるBlockが発表、テキストを省いて会話音声のみで訓練しMacBook Proでローカル実行可能</title>
-    <id>https://gigazine.net/news/20261026-dessa-conversation-ai/</id>
-    <link href="https://gigazine.net/news/20261026-dessa-conversation-ai/" />
-    <updated>2026-10-26T11:05:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>BlockはTwitter創業者のジャック・ドーシー氏がCEOを務めるテクノロジー企業で、決済サービスのほか、AIエージェントやAI重視のコミュケーションツールなども開発しています。新たに、Blockが音声会話AI「Dessa」を発表しました。 Dessa - the Conversation Model trained only on speech https://block.xyz/dessa…</summary>
-  </entry>
-  <entry>
-    <title>AIネイティブなインターン生を受け入れて考えた、これからの開発エンジニア</title>
-    <id>https://zenn.dev/tokium_dev/articles/internship-mentoring-2026</id>
-    <link href="https://zenn.dev/tokium_dev/articles/internship-mentoring-2026" />
-    <updated>2026-10-26T10:00:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、TOKIUM デジタライズチームのおかもりです。 お客様からお預かりした領収書などのデータ化作業を行うシステムと、その作業実績を管理するシステムの開発を担当しています。 9/28〜10/2の5日間で、インターン生2名を受け入れました。 受け入れを通して感じたことなどを、この記事に書きます。 受け入れの準備 学生時代にエンジニア職のインターンを経験したことがありませんでした。そのため、今…</summary>
-  </entry>
-  <entry>
-    <title>eMudhra 中間 CA 漏洩、OS もブラウザも最新なのにコンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた</title>
-    <id>https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles</id>
-    <link href="https://zenn.dev/nanora/articles/20261024-emudhra-ca-own-bundles" />
-    <updated>2026-10-24T12:53:11+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR OS もブラウザも最新だったのに、コンテナ 9 個と Python 環境 16 個が偽の証明書を信じていた eMudhra の中間 CA 8 本の秘密鍵が、証明書から誰でも復元できる状態だった ブラウザと OS は塞がったが、自前の証明書を持つアプリは自分で上げるまで偽サイトを信じる 確かめ方は curl 1 行。証明書エラーなら安全、繋がったら要更新 直す場所は環境しだい（うちは v…</summary>
-  </entry>
-  <entry>
-    <title>13:00-13:30 668-675 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/668-675</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/668-675" />
-    <updated>2026-10-26T13:25:30+09:00</updated>
-    <category term="新日" />
-    <summary>▶668 せっかく群雄割拠感が出てきたんだからNEVERもTVもグロも全部封印してしまえばよくないか ベルトがないとそんなに抗争って作れないものかね ▶669 &gt;&gt;668 ベルトあっても作れないから二冠王ばかりになる ▶670 いうてウルフ成田藤田で争ってる最近のneverは一応若手向けでその名の通り無差別なんでは ▶671 &gt;&gt;629 新日じゃそのポジションＡＥＷ世界王座のオスプレイなんでやはり…</summary>
   </entry>
 </feed>
