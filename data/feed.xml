@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-28T05:30:14.844505+09:00</updated>
+  <updated>2026-10-28T06:00:14.097886+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>05:30-06:00 958 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/958</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/958" />
+    <updated>2026-10-28T05:36:22+09:00</updated>
+    <category term="新日" />
+    <summary>▶958 須見の入場曲、新日で流れたら良いけどね</summary>
+  </entry>
   <entry>
     <title>【宇宙最速書評】AWSでRAGとAIエージェントをがっつり業務実践できる名著「Amazon Bedrock実践ガイド」</title>
     <id>https://qiita.com/minorun365/items/84cd50fda97df62cff88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-27T07:58:39+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>CPU 使用率は低いのに、Pod の台数を増やしたいときがある。1 台あたりのワーカーが下流の応答待ちで埋まっているときや、イベントの前に台数を確保しておくときだ。そういうとき、HPA（HorizontalPodAutoscaler）が付いた Deployment でも、kubectl scale で replicas を増やすことがある。HPA は、CPU 使用率などのメトリクスから Pod の…</summary>
-  </entry>
-  <entry>
-    <title>Zennの原稿リポジトリのセキュリティ対策を、OWASPなどのガイドラインと照らし合わせた</title>
-    <id>https://zenn.dev/ryoku4/articles/9a02f6091cdd8a</id>
-    <link href="https://zenn.dev/ryoku4/articles/9a02f6091cdd8a" />
-    <updated>2026-10-26T21:49:18+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Zennの記事の原稿は、GitHubのリポジトリで管理している。 ZennのGitHub連携を使っているので、mainブランチにpushした原稿がそのまま公開される。 個人の小さなリポジトリだが、pushひとつで外に出るという点では本番環境へのデプロイと変わらない。 依存パッケージの更新はDependabotに、原稿の編集の一部はClaude Code（AIエージェント）に任せている。 どちらも、…</summary>
   </entry>
 </feed>
