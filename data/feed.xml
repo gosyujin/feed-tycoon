@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-28T06:30:13.709440+09:00</updated>
+  <updated>2026-10-28T07:00:12.861972+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title>
+    <id>https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</id>
+    <link href="https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/" />
+    <updated>2026-10-27T23:28:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同</summary>
+  </entry>
   <entry>
     <title>05:30-06:00 958 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/958</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-27T08:39:17+09:00</updated>
     <category term="はてブ IT" />
     <summary>「Siri AI」が日本語に対応 ～Apple、「iOS 27.2」「iPadOS 27.2」を公開／163件の脆弱性修正も、できるだけ早いアップデートを推奨</summary>
-  </entry>
-  <entry>
-    <title>HPA は kubectl scale の台数を守らない</title>
-    <id>https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale</id>
-    <link href="https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale" />
-    <updated>2026-10-27T07:58:39+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>CPU 使用率は低いのに、Pod の台数を増やしたいときがある。1 台あたりのワーカーが下流の応答待ちで埋まっているときや、イベントの前に台数を確保しておくときだ。そういうとき、HPA（HorizontalPodAutoscaler）が付いた Deployment でも、kubectl scale で replicas を増やすことがある。HPA は、CPU 使用率などのメトリクスから Pod の…</summary>
   </entry>
 </feed>
