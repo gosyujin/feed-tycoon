@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-27T17:00:08.793284+09:00</updated>
+  <updated>2026-10-27T17:30:15.547401+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Dify / LiteLLM Proxy で作成した生成AIアプリをOpenTelemetryで監視してみた</title>
+    <id>https://qiita.com/nr-mito/items/fcbbd142e1cd7d66666e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nr-mito/items/fcbbd142e1cd7d66666e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T15:01:22+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 今回、New Relicが OpenTelemetry（OTel）標準の生成AIトレースを「AI Monitoring」に取り込む機能 にネイティブ対応しました！ DifyやLiteLLM環境では、LLM監視用にLangfuseやPhoenixなどを別途Doc...</summary>
+  </entry>
+  <entry>
+    <title>プルリクエストのリスクを判定する仕組み - newmo 技術ブログ</title>
+    <id>https://tech.newmo.me/entry/2026/10/27/100000</id>
+    <link href="https://tech.newmo.me/entry/2026/10/27/100000" />
+    <updated>2026-10-27T14:57:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>newmo のモノレポで、AI が Pull Request（PR）を読み、安全と判断したものを bot が承認する仕組み「riskjudge」を運用しています。 筆者の個人ブログのソフトウェアの産業革命では「検査を工程にする」という話を書いたのですが、この記事ではその工程の 1 つを、どう組み立てているかという技術の面から紹介します。 ...</summary>
+  </entry>
+  <entry>
+    <title>Windows 11のインストーラーを700MBのCD-ROMに無駄なく収まるくらい圧縮する次世代ツールが登場</title>
+    <id>https://gigazine.net/news/20261027-windows-11-installer-cd-rom-pico11/</id>
+    <link href="https://gigazine.net/news/20261027-windows-11-installer-cd-rom-pico11/" />
+    <updated>2026-10-27T12:35:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Windows 11を軽量化するプロジェクト「Tiny11」の開発者として知られるNTDEVが、Windows 11のインストール用ISOイメージをCD-ROM1枚に収まる約700MBまで縮小したと報告しました。開発中のツール「Pico11」を使用した実験で、デスクトップ画面の表示や一部の標準アプリの動作にも成功しています。 I made Windows 11 fit ...</summary>
+  </entry>
+  <entry>
+    <title>Oracle DBMS_CATALOGパッケージでビジネスメタデータを管理する - カスタムプロパティの登録・取得・検索</title>
+    <id>https://qiita.com/ora-masumasu/items/8dc7d746da43e1a5089d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ora-masumasu/items/8dc7d746da43e1a5089d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T11:26:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>本記事について 本記事は、生成AI(ChatGPT)の支援を受けて作成しています。掲載しているSQLのうち、既存プロパティの更新とSELECTによる取得・検索は、実際のOracle Autonomous AI Database環境で動作確認を行っています。ただし、説明や解...</summary>
+  </entry>
+  <entry>
+    <title>語ることが世界を変える ― 50回の問いが指し示す場所 : システム設計視点の行動経済学 (50)</title>
+    <id>https://qiita.com/maskot1977/items/ad972b46fa6da81dec87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/ad972b46fa6da81dec87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T10:36:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: 「システム設計視点の行動経済学」、第50回を始めましょう。その前に、まず前回の復習として、 どこから始めるか ― 財源幻想脱却の制度的ロードマップ : システム設計視点の行動経済学 (49) https://qiita.com/maskot1977/items...</summary>
+  </entry>
+  <entry>
+    <title>耳で聞く！Python で学ぶ マクロ経済学 入門 36</title>
+    <id>https://qiita.com/maskot1977/items/8fc114fd0e2ae418bdd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/8fc114fd0e2ae418bdd8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T10:31:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 『税は財源という誤解が日本を壊す : Pythonで学ぶマクロ経済学入門 Podcast 36』。 この動画は、技術情報プラットフォーム「Qiita」に投稿された『税は財源...</summary>
+  </entry>
+  <entry>
+    <title>目指せClaude全冠！4つの試験を全部受けたので攻略法を紹介します</title>
+    <id>https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/minorun365/items/59783841e48f5467594f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T10:03:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは、Claude Codeです。著者のみのるんが忙しそうだったので、代わりにこの記事を書いています。 Claude認定（Claude Certified）はAnthropicの公式資格で、Claude Partner Networkに加盟している企業の人が受験できま...</summary>
+  </entry>
+  <entry>
+    <title>途中で直した CLAUDE.md が、自動要約のあと古い中身に戻っていた（2.1.310）。それでも新しいルールで動いた</title>
+    <id>https://qiita.com/suwa_nobu/items/d3f0491c9727176dea22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/suwa_nobu/items/d3f0491c9727176dea22?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T09:24:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>会話の途中で CLAUDE.md を直すことは、よくあると思います。では、長い作業の途中で自動の要約が走ったあとも、直したルールは生きているのか。 Claude Code 2.1.311（2026-10-26）で、ここに関わる不具合が直りました。直る前の 2.1.310 と...</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントたちが直接連絡しあう、小さなメールボックスを作ってみました</title>
+    <id>https://qiita.com/shyamagu/items/c419cff2c03b544fd877?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shyamagu/items/c419cff2c03b544fd877?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T08:41:20+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>この記事のまとめ: AIエージェントが自分の判断で、別のAIエージェントに連絡を取って作業を進められるように、エージェント専用の小さな郵便受け「AgentPost」を作りました。3つのAIエージェントチームを AgentPost だけで連携させてアプリ開発をやらせてみたと...</summary>
+  </entry>
+  <entry>
+    <title>PHPの重大脆弱性、実際に攻撃成功 おとりサーバーで命令実行を確認</title>
+    <id>https://japan.cnet.com/article/35253996/</id>
+    <link href="https://japan.cnet.com/article/35253996/" />
+    <updated>2026-10-27T08:06:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>同氏は、サーバーに届いた通信データとOSの動作記録を照合し、ウェブサーバーソフト「Apache」のプロセスからシェルが起動したことを確認した。単に攻撃を試みる通信があっただけでなく、実際にサーバー上で命令が実行されたことを裏付けた。 ただし、今回の観測環境は、脆弱性を修正していないPHP 8.4.26を「mod_php」...</summary>
+  </entry>
+  <entry>
+    <title>先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた</title>
+    <id>https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-27T07:51:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>2026 年 10 月 21 日の午後から 23 日にかけて、国内の業務システムが次々に止まりました。プログラミング言語 PHP に重大な脆弱性が見つかり、提供元が修正を当てて安全を確かめ終わるまで、自分からサービスを止めたからです（予防的な停止）。いわゆる「PHP 祭り」...</summary>
+  </entry>
+  <entry>
+    <title>GMO、うそをついてハッカーに呆れられてしまう</title>
+    <id>https://qiita.com/Q11Q/items/73bd326df5069f07f0fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Q11Q/items/73bd326df5069f07f0fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T22:49:02+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>GMOに関しては賃金の問題ではない かつもくせよ。 @katsumoku__ 日本でのハッキング問題はさらに深刻化していくのは確実だと思っていますが、根本的要因のひとつがこれです。 日本のIT業界で深刻なのは、人手不足ではなく「技術者にお金が届かない構造」だと...</summary>
+  </entry>
+  <entry>
+    <title>【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title>
+    <id>https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T20:58:55+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>先日大騒ぎになったPHP2Shellですが、修正版リリースの提供直後、PHP財団公式ブログ記事Today's PHP Security Release, and How We're Strengthening PHP Securityが公開されました。 そもそもどんな脆弱...</summary>
+  </entry>
+  <entry>
+    <title>記憶に頼るな。Claudeセッションの記録を取ろう</title>
+    <id>https://qiita.com/qwertyhoge/items/987c0ea8afdb5cd045e8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/qwertyhoge/items/987c0ea8afdb5cd045e8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T19:51:04+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1. AIをどう使ったか、覚えていますか？ 普段、Claude CodeなどのコーディングAIを使って開発をしている皆さんに質問です。 「自分が適切にコーディングAIを使えているかどうか、事例を挙げて具体的に説明することができますか？」 私の場合、提出する人事評価の材料と...</summary>
+  </entry>
+  <entry>
+    <title>動画生成AIを使わず、Claude Codeだけで、静止画にどの程度の動きをつけられるか試してみた</title>
+    <id>https://qiita.com/nabata/items/09f76aa0dddbcecf0979?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nabata/items/09f76aa0dddbcecf0979?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T08:39:39+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Supershipの名畑です。台湾に行った際に伊藤潤二先生のプリクラを見かけたのですが、台湾で3ヶ月に渡って原画展を開催されていたのですね。さすがです。 はじめに これまで、Gen、Veo、AnimeGenなどなど、静止画を動画生成AIで動画にする記事をいくつか書いてきま...</summary>
+  </entry>
+  <entry>
+    <title>あの頃のAdvanced RAGは、なぜ遅くて不正確だったのか？ 今ならこう設計する</title>
+    <id>https://qiita.com/Busta/items/64e1c233b040056af829?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Busta/items/64e1c233b040056af829?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-26T03:54:08+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 以前、Amazon BedrockとPineconeを使ったAdvanced RAGの開発に携わっていた。 開発メンバーは自分を含めて3人。 そのうち2人は、ほぼ開発未経験のエンジニアだった。 当時はRAGの実装事例も少なく、今のようにAIに設計上の課題や解決策...</summary>
+  </entry>
   <entry>
     <title>16:00-16:30 880 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/880</id>
@@ -292,7 +420,7 @@
     <link href="https://news.web.nhk/newsweb/na/nd-20261027de66048" />
     <updated>2026-10-27T08:10:21+09:00</updated>
     <category term="はてブ IT" />
-    <summary>GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、ハッカー集団はインターネット上のサイトで27日正午過ぎ、新たに声明を公表し、会社側が交渉に応じなか…</summary>
+    <summary>GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、ハッカー集団は、会社側が交渉に応じなかったとしてインターネット上のサイトで27日正午過ぎ、個人情報…</summary>
   </entry>
   <entry>
     <title>GMO「PC電源を切って」 正午の攻撃予告前に セキュリティー会社から協力申し出も（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
@@ -677,133 +805,5 @@
     <updated>2026-10-26T08:35:58+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>子供が生まれて、2026年の2月から育休を取りました。 最初は2か月の予定だったのが、生まれてみたら毎日バタバタで、結局5か月に延ばしました。 延長がすんなり通ったのは会社の制度がしっかりしていたおかげで、本当にありがたかったです🙇 8月に復帰して2か月が経ち、ようやく落ち着いてきました。この記事は休んでいるあいだに開いた差をAIに埋めてもらった話と、速くなった勢いでつまずいた話になります。 !…</summary>
-  </entry>
-  <entry>
-    <title>06:30-07:00 829 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/829</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/829" />
-    <updated>2026-10-27T06:44:05+09:00</updated>
-    <category term="新日" />
-    <summary>▶829 &gt;&gt;821 お馴染み雁之助もご意見表明()してたな</summary>
-  </entry>
-  <entry>
-    <title>有機ELの新型「iPad mini」発表 A20 Pro、IP67対応、8.5型に大型化して11万9800円から</title>
-    <id>https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2610/26/news081.html" />
-    <updated>2026-10-26T23:10:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleは10月26日、小型タブレット「iPad mini」の新モデルを発表した。ディスプレイを前モデルから有機ELに変更して8.5型に大型化した他、IP67等級の耐水・防塵（じん）性能を備え、プロセッサにはA20 Proを採用した。10月29日に予約受付を始め、11月6日に発売する。価格はWi-Fiモデルが11万9800円から、Wi-Fi＋Cellular...</summary>
-  </entry>
-  <entry>
-    <title>日本人は「ダサい」という理由でかな印字のないキーボードを買うが、海外の人はカッコ良くて読めないジャパニーズキーボードを買うという謎現象が起きている？</title>
-    <id>https://togetter.com/li/2696627</id>
-    <link href="https://togetter.com/li/2696627" />
-    <updated>2026-10-26T18:47:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ヘルスカ @Helmur7 日本人は「ダサい」という理由でかな印字のないキーボードを買ってるのに、 海外の人はカッコよくて読めないジャパニーズキーボードを買ってるという謎現象が起きています pic.x.com/CQLo9UB4v8 2026-05-13 17:07:35</summary>
-  </entry>
-  <entry>
-    <title>05:30-06:00 828 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/828</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/828" />
-    <updated>2026-10-27T05:49:35+09:00</updated>
-    <category term="新日" />
-    <summary>▶828 また超人石森興行みたい withロビーで観たい</summary>
-  </entry>
-  <entry>
-    <title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報）（お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社</title>
-    <id>https://group.gmo/info/alert/2026102602/</id>
-    <link href="https://group.gmo/info/alert/2026102602/" />
-    <updated>2026-10-26T23:44:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月26日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報） （お客様をお守りするために現在私たちが行っていること） 2026年10月26日23:10時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクトップク...</summary>
-  </entry>
-  <entry>
-    <title>アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2151317.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2151317.html" />
-    <updated>2026-10-26T23:14:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～</summary>
-  </entry>
-  <entry>
-    <title>AIが答えを出す時代に、ヒトは何を学ぶのか？ この問いに応える3冊</title>
-    <id>https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html</id>
-    <link href="https://dain.cocolog-nifty.com/myblog/2026/10/post-822dc0.html" />
-    <updated>2026-10-26T09:02:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIに答えを聞けばよいなら、学ぶ必要なんてないのでは？ それでも学ぶべきものがあるなら、それは何か？ 『ヒトとAI』（岡野原大輔、岩波新書赤）は、この疑問にずばり答えている。 著者は、自然言語処理、深層学習の専門家であり、日本のAI研究を牽引してきた第一人者だ。これまでは、研究開発の立場から、AIの能力と限...</summary>
-  </entry>
-  <entry>
-    <title>05:00-05:30 827 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/827</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/827" />
-    <updated>2026-10-27T05:09:32+09:00</updated>
-    <category term="新日" />
-    <summary>▶827 松本が若い頃の吉野正人に似てて中原が若い頃の山田恵一に似てる</summary>
-  </entry>
-  <entry>
-    <title>「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261026-475703/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261026-475703/" />
-    <updated>2026-10-26T20:57:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIの進化に伴い、逆コンパイルをはじめとするリバースエンジニアリングを用いた権利侵害行為が世界を揺るがしている。一方で、Anthropicの「Claude Opus 5.5」をはじめ、現在提供されている一部のAIモデルでは、そうした行為に加担する作業をブロックするケースが報告されはじめている。 Anthropicは対話型AI「Claude」...</summary>
-  </entry>
-  <entry>
-    <title>実際に試したClaude便利術20選 まとめ</title>
-    <id>https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T20:05:51+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Claudeを使い始めたので、実際に試した作業効率の上がりそうな機能を20個まとめました。 この記事の特徴は、1つの Terraform コードを通して試していることです。 構成図の画像を貼る → Terraform が9ファイル・573行出てくる → /go...</summary>
-  </entry>
-  <entry>
-    <title>LLMを組み込むETLパイプラインの設計：品質をどう証明し、欠陥をどう特定するか</title>
-    <id>https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T17:28:56+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに：読者と問題設定 パイプラインは、割とすぐに動きました。社内文書をセグメントに分割し、LLMに渡して記事を生成し、ナレッジベースに取り込み、検索につなぐ。現在のツールを使えば、ここまでは正直、難しくありません。 問題は、その後でした。 筆者は、業務マニュアル...</summary>
-  </entry>
-  <entry>
-    <title>CloudFront + AWS WAF のパストラバーサル対策 ― パス条件のルールは `../` ですり抜けられるのか検証した</title>
-    <id>https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/k-matsu516/items/d94caff03976fb8a30f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T17:04:33+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに パストラバーサルとは、URL のパスに ../（1つ上の階層に戻る）を含めて、本来アクセスできない場所に到達しようとする攻撃手法です。 CloudFront + AWS WAF の構成で、こうした不正なアクセスを防ぐ方法の1つに、WAF でパスを条件に許可・拒否...</summary>
-  </entry>
-  <entry>
-    <title>生成AIに渡す仕様書はどう書くべきか ― AIが「読みやすい」形式と「読みにくい」形式</title>
-    <id>https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T12:44:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Claude CodeやCursorなどのコーディングエージェントに実装を任せる場面が増えてきました。エージェントの出力品質は、モデルの性能以上に入力されるコンテキストの質、つまり仕様書の書き方に左右されます。 従来の仕様書(Excel方眼紙、PowerPoin...</summary>
-  </entry>
-  <entry>
-    <title>2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-    <id>https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T11:06:20+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 3KBしか使えない！奇妙で素敵なゲームエンジン...</summary>
-  </entry>
-  <entry>
-    <title>【Google Workspace × Gemini】Geminiを使用してスプレッドシート／ドキュメントを作成してみよう（初級）</title>
-    <id>https://qiita.com/hiroki_mu/items/c760b60dd09723fea29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hiroki_mu/items/c760b60dd09723fea29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T10:50:24+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに 最近、社内業務でGoogleスプレッドシートやGoogleドキュメントを使う機会が増えてきました。 資料や管理表を作成する際、「書く内容はだいたい決まっているのに、フォーマットをゼロから整えるのが一番面倒...」と感じることはありませんか？ 実は、スプレッ...</summary>
-  </entry>
-  <entry>
-    <title>AWS Certified AI Business Strategist(AIB-C01)ベータ版に満点合格したので学習方法をまとめる</title>
-    <id>https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/okshin-yk/items/ceb49e482a257e960411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T01:38:51+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1 はじめに 2026年10月11日にAWS Certified AI Business Strategistのベータ版（以下AIB）を受験し合格しました。 自分でもびっくりでしたが満点などをとってしまったので、せっかくですしどのように勉強したかをまとめておこうという記事...</summary>
   </entry>
 </feed>
