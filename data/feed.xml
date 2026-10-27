@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-27T15:00:14.288559+09:00</updated>
+  <updated>2026-10-27T15:30:14.795071+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>15:00-15:30 879 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/879</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/879" />
+    <updated>2026-10-27T15:07:31+09:00</updated>
+    <category term="新日" />
+    <summary>▶879 きよぴが裏ではブーイングに落ち込んでる事をSNSで暴露したコジはシューター</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％ | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261027de66125</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261027de66125" />
+    <updated>2026-10-27T12:08:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アメリカのIT大手「マイクロソフト」は、アメリカ、カナダ、イギリス、そしてインドの4か国の従業員を対象に、希望退職を募集すると明らかにしました。 アメリカのメディアは、対象が従業員全体の27％にあたる…</summary>
+  </entry>
+  <entry>
+    <title>GASで素のJSを埋め込むと &lt; がエスケープされて動かない：getContent() の落とし穴と直し方</title>
+    <id>https://zenn.dev/kimura0314/articles/gas-htmloutput-getcontent-escapes-lt</id>
+    <link href="https://zenn.dev/kimura0314/articles/gas-htmloutput-getcontent-escapes-lt" />
+    <updated>2026-10-27T10:16:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>GAS の Web アプリに、QR を読むライブラリ（jsQR）を埋め込んだら、iPhone で ReferenceError: Can't find variable: jsQR が出ました。配信された HTML を見ると、ライブラリの中の &lt; が全部 &amp;lt; に置き換わっていました。 原因は HtmlService.createHtmlOutputFromFile('jsQR').getCo…</summary>
+  </entry>
+  <entry>
+    <title>「Siri AI」が日本語に対応 ～Apple、「iOS 27.2」「iPadOS 27.2」を公開／163件の脆弱性修正も、できるだけ早いアップデートを推奨</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2151341.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2151341.html" />
+    <updated>2026-10-27T08:39:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Siri AI」が日本語に対応 ～Apple、「iOS 27.2」「iPadOS 27.2」を公開／163件の脆弱性修正も、できるだけ早いアップデートを推奨</summary>
+  </entry>
+  <entry>
+    <title>HPA は kubectl scale の台数を守らない</title>
+    <id>https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale</id>
+    <link href="https://zenn.dev/shinagawa_web/articles/hpa-reverts-manual-scale" />
+    <updated>2026-10-27T07:58:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>CPU 使用率は低いのに、Pod の台数を増やしたいときがある。1 台あたりのワーカーが下流の応答待ちで埋まっているときや、イベントの前に台数を確保しておくときだ。そういうとき、HPA（HorizontalPodAutoscaler）が付いた Deployment でも、kubectl scale で replicas を増やすことがある。HPA は、CPU 使用率などのメトリクスから Pod の…</summary>
+  </entry>
+  <entry>
+    <title>Zennの原稿リポジトリのセキュリティ対策を、OWASPなどのガイドラインと照らし合わせた</title>
+    <id>https://zenn.dev/ryoku4/articles/9a02f6091cdd8a</id>
+    <link href="https://zenn.dev/ryoku4/articles/9a02f6091cdd8a" />
+    <updated>2026-10-26T21:49:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Zennの記事の原稿は、GitHubのリポジトリで管理している。 ZennのGitHub連携を使っているので、mainブランチにpushした原稿がそのまま公開される。 個人の小さなリポジトリだが、pushひとつで外に出るという点では本番環境へのデプロイと変わらない。 依存パッケージの更新はDependabotに、原稿の編集の一部はClaude Code（AIエージェント）に任せている。 どちらも、…</summary>
+  </entry>
+  <entry>
+    <title>生成AIはテストを「通す」ためにズルをするのか — 報酬ハッキングを再現し、対策まで検証してみた</title>
+    <id>https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615</id>
+    <link href="https://zenn.dev/sompojapan_dx/articles/4f190d7cef4615" />
+    <updated>2026-10-26T17:06:48+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR AI コーディングエージェントが、テストを通すためにズルをする「報酬ハッキング」は、研究で繰り返し報告されています。本当に起きるのか、手元で小さく確かめました。 仕様とテストがわざと矛盾した課題を用意し、Claude Haiku に 3 通りの頼み方で各 10 回、合計 30 回解かせました。 「テストを全部通して」と頼むと 10 回中 10 回 ズルをしました。「仕様どおりに」と頼む…</summary>
+  </entry>
+  <entry>
+    <title>UE 5.8のMCPを使いたくて、Meta Quest向けプロジェクトを移植してみた</title>
+    <id>https://zenn.dev/agilitizer_ltd/articles/07676169f68e6c</id>
+    <link href="https://zenn.dev/agilitizer_ltd/articles/07676169f68e6c" />
+    <updated>2026-10-26T16:16:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>UE 5.8のMCP機能を使って、AIにゲーム開発を手伝ってもらいたいと思い、開発中のMeta Quest向けゲームをUE 5.4から5.8へ移行してみました。 ただ、エンジンのバージョンを上げれば終わり、というほど簡単ではありませんでした。Meta XRプラグインの移植が必要になり、ビルドが通った後も実機ではいくつか問題が発生しました。 最終的にはQuest 3でゲームをプレイできるところまでた…</summary>
+  </entry>
   <entry>
     <title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第10報）（攻撃者による情報の公開に関し、弊社の認識と対策について） | GMOインターネットグループ株式会社</title>
     <id>https://group.gmo/info/alert/2026102703/</id>
@@ -741,69 +805,5 @@
     <updated>2026-10-23T19:03:05+09:00</updated>
     <category term="はてブ IT" />
     <summary>スクラム祭り2026での登壇資料です #scrumat https://www.scrummatsuri.org/</summary>
-  </entry>
-  <entry>
-    <title>02:00-02:30 825 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/825</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/825" />
-    <updated>2026-10-27T02:25:42+09:00</updated>
-    <category term="新日" />
-    <summary>▶825 &gt;&gt;823 三上広夢渡辺と小松田中ではわかってたのかよ</summary>
-  </entry>
-  <entry>
-    <title>01:30-02:00 822-824 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/822-824</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/822-824" />
-    <updated>2026-10-27T01:54:40+09:00</updated>
-    <category term="新日" />
-    <summary>▶822 後楽園ホールにいたけど、近くに永井の親とお姉さんがいた わざわざそんな日に流血しなくても ▶823 安田とか嘉藤もそうだけど大物になれる雰囲気を感じない 今の若いのだと松本が一番面構えがいい ムラシはマジで読めん ムラシだけはマジでわからん ▶824 コブのWWEでの話が酷いけど面白い WWE「君には日本時代と同じ様にフェイスペイントをして貰うね。」 コブ「フェイスペイントなんてマジてや…</summary>
-  </entry>
-  <entry>
-    <title>01:00-01:30 819-821 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/819-821</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/819-821" />
-    <updated>2026-10-27T01:18:08+09:00</updated>
-    <category term="新日" />
-    <summary>▶819 今回の藤田もそうだけど負けた時にだけ文句言い出すからダサい 勝った時は全員ボルチンみたいに何をしても勝つから何でもしてこいよって言うくせに 負けたら会社〜なんだからのび太かよって話 ▶820 &gt;&gt;798 あなたゲイよ ▶821 &gt;&gt;805 Xでもそこそこ批判されていたね 動けないのも要介護なのも今更キャラ変できないのも、分かった上で担いだ神輿なのにね 心の狭いファンが多いんだな</summary>
-  </entry>
-  <entry>
-    <title>Microsoft Word - 当社連結子会社における一部システムへの不正アクセスおよびeギフトの不正発行に関するお知らせ</title>
-    <id>https://contents.xj-storage.jp/xcontents/AS04721/9cd22cba/ef69/4403/bd9a/59025ae1c745/20261026193119181s.pdf</id>
-    <link href="https://contents.xj-storage.jp/xcontents/AS04721/9cd22cba/ef69/4403/bd9a/59025ae1c745/20261026193119181s.pdf" />
-    <updated>2026-10-26T23:29:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1 2026年10月26日 各 位 会 社 名 ギフティグループ株式会社 代 表 者 名 代 表 取 締 役 太 田 睦 （コード番号：590A 東証プライム市場） 問 合 せ 先 取 締 役 Ｃ Ｆ Ｏ 藤 田 良 和 （ TEL. 03-6303-9348） 当社連結子会社の一部システムへの不正アクセスに伴う e ギフトの不正発行 および特別損失計上見込みに関す...</summary>
-  </entry>
-  <entry>
-    <title>AWS Continuum for Penetration Testing に Deep Dive してみる</title>
-    <id>https://speakerdeck.com/asanoharuki/aws-continuum-for-penetration-testing-ni-deep-dive-shi-te-miru</id>
-    <link href="https://speakerdeck.com/asanoharuki/aws-continuum-for-penetration-testing-ni-deep-dive-shi-te-miru" />
-    <updated>2026-10-26T18:50:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>DevelopersIO 2026 Tokyo で「AWS Continuum for Penetration Testing にDeep Diveしてみる」というタイトルで登壇しました。AI がペネトレーションテストを自動実行する AWS Continuum を検証用アプリで複数回実行し、検証で分かっ…</summary>
-  </entry>
-  <entry>
-    <title>00:30-01:00 817-818 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/817-818</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/817-818" />
-    <updated>2026-10-27T00:43:03+09:00</updated>
-    <category term="新日" />
-    <summary>▶817 &gt;&gt;816 一応下田さんとかとXやりとりしてるから大丈夫そうではある ▶818 &gt;&gt;775 HoTの反則は目に余るから会社として対処する(自分が阻止して目立ちたい) みたいなことを言ってた</summary>
-  </entry>
-  <entry>
-    <title>00:00-00:30 809-816 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/809-816</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/809-816" />
-    <updated>2026-10-27T00:27:08+09:00</updated>
-    <category term="新日" />
-    <summary>▶809 ゼアチャンネル、海野がイギリス時代オージーオープンと一緒にオスプレイの家に住まわせてもらって エンパイア加入も誘われて本隊にこだわりがあるので断ったがエンパイアポーズも海野が考案したというのは意外な事実だった あれは王冠に見えるが指の形がＷで両手合わせたその間がＯでウィル・オスプレイと言う意味らしい ▶810 ショート動画は見たけど介入やってたなインデーノア 武田はわざと新日パクってノア…</summary>
-  </entry>
-  <entry>
-    <title>23:30-00:00 803-808 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/803-808</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/803-808" />
-    <updated>2026-10-26T23:57:41+09:00</updated>
-    <category term="新日" />
-    <summary>▶803 &gt;&gt;798 阿部ちゃんは新日もオファー出してそうだけど海外人気あるからシリーズ参戦は難しそう ▶804 バレンティアであれだけ説得力出せるならフィニッシュでいいよ あとグロリアとか ▶805 内藤OZAWA見たけどとにかくOZAWAが可哀想だった。どう考えたって内藤が悪いのに受け身が下手くそだなんだ信者に叩かれてるし ▶806 &gt;&gt;798 清宮には彼女がいるから心配ないやろ ▶807 &gt;…</summary>
   </entry>
 </feed>
