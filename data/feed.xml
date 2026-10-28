@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-28T14:30:12.966238+09:00</updated>
+  <updated>2026-10-28T15:00:15.515216+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>14:30-15:00 26-31 (6件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/26-31</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/26-31" />
+    <updated>2026-10-28T14:55:43+09:00</updated>
+    <category term="新日" />
+    <summary>▶26 解説来た時は矢野よりひどいタイチよりひどいって言われるのに ▶27 &gt;&gt;6 大岩は技と角の継承してコラボTつくって一緒にサイン会までやるまでこぎつけたのにワトはどうして ▶28 ワトちゃはもうYOHみたいに生え抜きで長い間頑張ったで賞でタイトル取らせてくれる待ちのフェーズに入った ▶29 &gt;&gt;24 キャプテンAEWという名のマスクマンが登場しそう ▶30 キャリア的には後輩で自分より動けて…</summary>
+  </entry>
+  <entry>
+    <title>ソニー、6インチの小型“空間再現ディスプレイ”。PC/スマホとUSB-C接続でお手軽裸眼3D</title>
+    <id>https://av.watch.impress.co.jp/docs/news/2151773.html</id>
+    <link href="https://av.watch.impress.co.jp/docs/news/2151773.html" />
+    <updated>2026-10-28T12:51:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソニー、6インチの小型“空間再現ディスプレイ”。PC/スマホとUSB-C接続でお手軽裸眼3D</summary>
+  </entry>
+  <entry>
+    <title>図で理解する Dagster on ECS の構成と、失敗に気づく仕組み</title>
+    <id>https://zenn.dev/safie_inc/articles/dagster_on_ecs</id>
+    <link href="https://zenn.dev/safie_inc/articles/dagster_on_ecs" />
+    <updated>2026-10-28T12:00:17+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>セーフィー株式会社のデータ分析基盤グループでエンジニアをしている渡部です。 セーフィーのデータ分析基盤では、データソースごとにばらばらだったデータ取り込み処理のやり方を揃えるため、Python ライブラリの dlt(data load tool)を採用することとなりました。 dlt は取り込みを実行するだけなので「いつ実行するか？」「失敗にどう気づくか？」の仕組みは別で用意する必要があります。 そ…</summary>
+  </entry>
+  <entry>
+    <title>競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない</title>
+    <id>https://zenn.dev/charat55/articles/keiba-ai-market-copy</id>
+    <link href="https://zenn.dev/charat55/articles/keiba-ai-market-copy" />
+    <updated>2026-10-27T19:15:54+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 競馬予測AIを約3年かけて作った。ニューラルネットで馬柱を読み、着順や展開を予測するシステムで、今は開催日ごとにVPSの上で予測を出し続けている。 先に結論を書く。 当日の確定オッズに対して、お金になる情報は見つからなかった。 前日の時点では、AIは市場の答えをかなり言い当てる。ただしそのずれは、締切までに市場が正しく上書きする。 だから、AIの予測にお金としての価値があるのは、前日に出…</summary>
+  </entry>
+  <entry>
+    <title>ダウンロードした AGENTS.md による乗っ取りを Claude Code・Codex・Cursor の hook で止めた</title>
+    <id>https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</id>
+    <link href="https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard" />
+    <updated>2026-10-27T18:47:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、遠藤（@shoma_ai）です。普段は中小企業向けのAI導入支援やシステム開発をしています。 ダウンロードフォルダ（~/Downloads。以下 Downloads）に置かれた AGENTS.md や CLAUDE.md で、Codex や Claude Code が乗っ取られるという報告を見ました。その日のうちに、手元の Mac の Claude Code・Codex・Cursor…</summary>
+  </entry>
+  <entry>
+    <title>新時代のE2Eテスト、TesterArmyのe2eをReact Nativeアプリに導入してみた</title>
+    <id>https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native</id>
+    <link href="https://zenn.dev/tellernovel_inc/articles/testerarmy-e2e-react-native" />
+    <updated>2026-10-27T17:23:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している@kazutoyoです！ 以前、Coding AgentにiOS/Androidアプリの「目と手」を与えるツールとしてagent-deviceを紹介しました。 https://zenn.dev/tellernovel_inc/articles/bb27cd0f28f8cb 今回は、そのagent-device…</summary>
+  </entry>
+  <entry>
+    <title>AIに良いコードを書かせる前に、「良い設計」を言語化する</title>
+    <id>https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea</id>
+    <link href="https://zenn.dev/dely_jp/articles/f1fbefd7ffdfea" />
+    <updated>2026-10-27T14:22:42+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに クラシルで新卒iOSエンジニアをしているSeiseiです！ 最近、Claude CodeなどのAIにコードを実装してもらう機会が増えました。 AIは指示した機能を実装してくれますし、テストやレビューまで任せられます。ただ、出てきたコードを読んで「動くけど、なんか違うな」と感じることも少なくありません。 責務の分け方が不自然だったり、必要以上に抽象化されていたり、既存のコードベースとは違う…</summary>
+  </entry>
+  <entry>
+    <title>@mizchi/mutator で vitest の mutation test をする</title>
+    <id>https://zenn.dev/mizchi/articles/introduce-mutator</id>
+    <link href="https://zenn.dev/mizchi/articles/introduce-mutator" />
+    <updated>2026-10-27T12:56:41+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>(この記事は自分が実装したツールをAIに紹介させ、それを自分が手で書き直したものです。) Vitest を第一に置いた mutation testing ツール、@mizchi/mutator を作ったので紹介します mizchi/mutator AIでカバレッジを増やすためだけのテストを書き散らすようになりました。じゃあ、そのテストコードの品質はどう検査すべきでしょうか。 そうですね、ミューテー…</summary>
+  </entry>
   <entry>
     <title>14:00-14:30 18-25 (8件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/18-25</id>
@@ -130,9 +194,9 @@
     <title>Flutter やめました。電話アプリを Native にした理由</title>
     <id>https://zenn.dev/ivry/articles/d155267331a3ca</id>
     <link href="https://zenn.dev/ivry/articles/d155267331a3ca" />
-    <updated>2026-10-28T12:01:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは。株式会社IVRyで Engineering Managerをしています。tsutou です。 アイブリーのモバイルアプリのユースケースは、電話の転送を受けたり、着信を折り返して発信したりすることがメインです。 体験としては、アイブリーの対話型音声AIで、一次対応を自動化しながら、忙しい最中でも人が出ないといけ...</summary>
+    <updated>2026-10-28T11:39:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。株式会社IVRyで Engineering Managerをしています。tsutou です。 アイブリーのモバイルアプリのユースケースは、電話の転送を受けたり、着信を折り返して発信したりすることがメインです。 体験としては、アイブリーの対話型音声AIで、一次対応を自動化しながら、忙しい最中でも人が出ないといけない電話に応答する体験が、そのままエンドユーザーの体験になります。…</summary>
   </entry>
   <entry>
     <title>12:00-12:30 984-985 (2件)</title>
@@ -741,69 +805,5 @@
     <updated>2026-10-27T15:40:06+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 当記事は生成AIによって執筆しています。内容の正確性には十分注意を払っていますが、誤った情報が含まれている可能性があります。実際にご利用の際は、公式ドキュメント等もあわせてご確認ください。 Codex や Claude Code などの AI エージェン...</summary>
-  </entry>
-  <entry>
-    <title>SPSS Modelerの判別モデルを外部プログラムで実装する</title>
-    <id>https://qiita.com/harrowharrow16/items/13fb95dd84e33a4b4b9f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/harrowharrow16/items/13fb95dd84e33a4b4b9f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-27T14:53:56+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに みなさん、こんにちは。久しぶりにSPSS関連の記事となります。あるユーザー様でSPSS Modelerで作った判別分析モデルを、自分たちのシステムに組み込みたいというお話がありました。 もちろんSPSSで構築した判別分析モデルは、SPSS環境がなければス...</summary>
-  </entry>
-  <entry>
-    <title>AIのみで作られたシステムを引き継いだら、品質の現実に直面した話</title>
-    <id>https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-27T08:27:13+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 自分は普段、自社向けの新規業務システムを開発しています。そんな中、急な案件でAIエージェントだけで作られたシステムを引き継ぐ機会がありました。 結論から言うと、動きはするものの品質は低く、改修にかなり苦労しました。 普段は自分も実装のほぼすべてをAIエージェント...</summary>
-  </entry>
-  <entry>
-    <title>MetaのAIエージェント「Muse」の中身を覗いたら、ただのUbuntuマシンだった</title>
-    <id>https://qiita.com/hirokn/items/31f5403b1fd9d8cbba3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hirokn/items/31f5403b1fd9d8cbba3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-27T02:44:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>MetaのパーソナルAIエージェント「Muse」を日本から使ってみました。 招待コードの記事はたくさん出ているので、この記事では Museに渡される「専用コンピューター」の中身 と、そこで実際に何ができたかを中心に書きます。 確認日：2026年10月26〜27日。自分の環...</summary>
-  </entry>
-  <entry>
-    <title>QRコードはなぜログインの鍵にならないのか。写真1枚で複製できる仕組みと安全な使い道</title>
-    <id>https://qiita.com/koreangyoseishoshi/items/6aa82ae67148164a354b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/koreangyoseishoshi/items/6aa82ae67148164a354b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-26T23:11:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>※この記事は Zennの記事 からの転載です。 職員の名札にQRコードを載せる仕組みを作っています。研修会や会議の出席を、会場のパソコンでQRを読むだけで記録するためです。 作っているうちに、周りからこういう声が出てきました。 「そのQRで、業務システムにログインできた...</summary>
-  </entry>
-  <entry>
-    <title>04:00-04:30 957 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/957</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/957" />
-    <updated>2026-10-28T04:14:37+09:00</updated>
-    <category term="新日" />
-    <summary>▶957 &gt;&gt;943 こういう人がタイチの煽りを間に受けて兄やん最高とか言ってんだろうな</summary>
-  </entry>
-  <entry>
-    <title>Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2151422.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2151422.html" />
-    <updated>2026-10-27T17:28:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</summary>
-  </entry>
-  <entry>
-    <title>書き手が人でもAIでも正しくなる道、�SREを埋め込んだDeveloper Platform / tech drivers day8</title>
-    <id>https://speakerdeck.com/chmikata/tech-drivers-day8</id>
-    <link href="https://speakerdeck.com/chmikata/tech-drivers-day8" />
-    <updated>2026-10-27T23:14:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>書き手が人でもAIでも正しくなる道、 SREを埋め込んだDeveloper Platform / tech drivers day8</summary>
-  </entry>
-  <entry>
-    <title>3回つくってわかった、 定期実行ジョブ基盤の本質情報</title>
-    <id>https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths</id>
-    <link href="https://speakerdeck.com/takai/i-built-a-scheduled-job-platform-three-times-and-now-i-know-the-essential-truths" />
-    <updated>2026-10-27T19:14:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Kaigi on Rails 2026</summary>
   </entry>
 </feed>
