@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-28T20:00:15.602587+09:00</updated>
+  <updated>2026-10-28T20:30:19.173347+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>20:00-20:30 83-89 (7件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/83-89</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/83-89" />
+    <updated>2026-10-28T20:21:12+09:00</updated>
+    <category term="新日" />
+    <summary>▶83 まさかELPタンガロア組で一足お先にタッグリーグ出場宣言とは思わなかったぜ！ ▶84 &gt;&gt;83 ELP単体ならノーサンキューだがロアちゃんも居るなら今世紀最大のサプライズだわ ▶85 オーカーンが大食いトレーニングに励んでいたのがフックだったとはな ▶86 &gt;&gt;70 マジかよクソ辻最低だな アイスピックで目玉潰して殺すわ ▶87 出た！アイスピック漫談の人だ！ ▶88 邪道もよく今のコンデ…</summary>
+  </entry>
+  <entry>
+    <title>Hunger beats tenure: Advice for junior engineers</title>
+    <id>https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/</id>
+    <link href="https://felixrieseberg.com/hunger-beats-tenure-advice-for-junior-engineers/" />
+    <updated>2026-10-28T13:38:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>This month, I laid the traditional coding interview to rest. As a hiring manager at Anthropic, I stopped asking candidates to do them. It had a good run: Being able to quickly define problems and find…</summary>
+  </entry>
+  <entry>
+    <title>MarkdownからきれいなPDFを作るCLIツールpfpdfを公開しました｜株式会社Preferred Networks</title>
+    <id>https://www.preferred.jp/ja/blog/tech/1798</id>
+    <link href="https://www.preferred.jp/ja/blog/tech/1798" />
+    <updated>2026-10-28T13:31:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>皆さん、こんにちは。エンジニアのいもす (@imos) です。 文書はMarkdownで管理はしたいけど、Markdownは他の人に読んでもらうにはイマイチ使いにくい。そう思ったことはありませんか？ 昨今LLMやコーディングエージェントが大きく進化し文書を気軽に書けるようになり、Google DocsやWordで文章を書くよりもMarkdownで書...</summary>
+  </entry>
+  <entry>
+    <title>Amazon GuardDuty AI Protection の有効化を強くおすすめしています - サーバーワークスエンジニアブログ</title>
+    <id>https://blog.serverworks.co.jp/guardduty-ai-protection</id>
+    <link href="https://blog.serverworks.co.jp/guardduty-ai-protection" />
+    <updated>2026-10-27T10:01:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>セキュリティサービス部 佐竹です。 本ブログでは、2026年7月14日に提供開始された Amazon GuardDuty の「AI Protection」について、有効化を強く推奨する理由と、GUI からの有効化手順を解説します。 はじめに Amazon GuardDuty AI Protection とは 有効化を推奨する背景と理由 AI Protection で追加される3つの Findin.…</summary>
+  </entry>
   <entry>
     <title>19:30-20:00 76-82 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/76-82</id>
@@ -773,37 +805,5 @@
     <updated>2026-10-27T10:38:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>The Go Blog Our Response To The eMudhra Key Disclosure Incident Roland Shoemaker, on behalf of the Go Security team 26 October 2026 On October 19, the Go team initiated an expedited security release t…</summary>
-  </entry>
-  <entry>
-    <title>09:30-10:00 971 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/971</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/971" />
-    <updated>2026-10-28T09:46:19+09:00</updated>
-    <category term="新日" />
-    <summary>▶971 ヒロムは技術的には微妙だったけどパワーとスピードがあったからプロレスは下手ではなかったってことが再確認できたけどなYOHのお陰で。</summary>
-  </entry>
-  <entry>
-    <title>APIにける/users/{userId}と/meについて どっちを採用するか - 猫でもわかるWeb開発・プログラミング</title>
-    <id>https://www.utakata.work/entry/20190112/1547262000</id>
-    <link href="https://www.utakata.work/entry/20190112/1547262000" />
-    <updated>2026-10-27T19:37:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに APIでよく /users/{userId} とかありますよね。例えば GET /v1/users/{userId}/images で userId のユーザーが投稿した画像一覧が取れる、とかです。 ここで例えば、「ログインユーザーの画像一覧がとりたい」という場合がありますね。例えばマイページを開いた際に過去自分が投稿した画像一覧を見られるという...</summary>
-  </entry>
-  <entry>
-    <title>ブラウザでPDF/Office文書などを表示できるビューアを作りながらAI slopについて考えた | フューチャー技術ブログ</title>
-    <id>https://future-architect.github.io/articles/20261027a/</id>
-    <link href="https://future-architect.github.io/articles/20261027a/" />
-    <updated>2026-10-27T13:20:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>秋のブログ週間2026 の1本目です。 これまで業務系のシステムをずっと作ってて、いつも後手に回って(実際のプロジェクトだとプラスアルファで共通部品化する余裕がなくて)根本解決できてなかったなー、という領域がいくつかあるんですが、AIのおかげでそういうのも雑に電車の中でぽちぽちスマホで指示するだけでできちゃ...</summary>
-  </entry>
-  <entry>
-    <title>CSSだけでつくる！ スクロールトリガーアニメーション - ICS MEDIA</title>
-    <id>https://ics.media/entry/261027/</id>
-    <link href="https://ics.media/entry/261027/" />
-    <updated>2026-10-27T10:38:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ある地点までスクロールしたら、アニメーションを開始する。そんな演出をCSSだけで実現できるのが、CSSスクロールトリガーアニメーションです。 スクロールを利用したアニメーションには、スクロール量に連動して進む「スクロール駆動アニメーション（scroll-driven）」と、スクロール位置をきっかけに再生する「スクロ...</summary>
   </entry>
 </feed>
