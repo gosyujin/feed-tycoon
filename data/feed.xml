@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-28T09:30:14.537035+09:00</updated>
+  <updated>2026-10-28T10:00:14.200599+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>09:30-10:00 971 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1792728732/971</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1792728732/971" />
+    <updated>2026-10-28T09:46:19+09:00</updated>
+    <category term="新日" />
+    <summary>▶971 ヒロムは技術的には微妙だったけどパワーとスピードがあったからプロレスは下手ではなかったってことが再確認できたけどなYOHのお陰で。</summary>
+  </entry>
+  <entry>
+    <title>APIにける/users/{userId}と/meについて どっちを採用するか - 猫でもわかるWeb開発・プログラミング</title>
+    <id>https://www.utakata.work/entry/20190112/1547262000</id>
+    <link href="https://www.utakata.work/entry/20190112/1547262000" />
+    <updated>2026-10-27T19:37:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに APIでよく /users/{userId} とかありますよね。例えば GET /v1/users/{userId}/images で userId のユーザーが投稿した画像一覧が取れる、とかです。 ここで例えば、「ログインユーザーの画像一覧がとりたい」という場合がありますね。例えばマイページを開いた際に過去自分が投稿した画像一覧を見られるという...</summary>
+  </entry>
+  <entry>
+    <title>ブラウザでPDF/Office文書などを表示できるビューアを作りながらAI slopについて考えた | フューチャー技術ブログ</title>
+    <id>https://future-architect.github.io/articles/20261027a/</id>
+    <link href="https://future-architect.github.io/articles/20261027a/" />
+    <updated>2026-10-27T13:20:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>秋のブログ週間2026 の1本目です。 これまで業務系のシステムをずっと作ってて、いつも後手に回って(実際のプロジェクトだとプラスアルファで共通部品化する余裕がなくて)根本解決できてなかったなー、という領域がいくつかあるんですが、AIのおかげでそういうのも雑に電車の中でぽちぽちスマホで指示するだけでできちゃ...</summary>
+  </entry>
+  <entry>
+    <title>CSSだけでつくる！ スクロールトリガーアニメーション - ICS MEDIA</title>
+    <id>https://ics.media/entry/261027/</id>
+    <link href="https://ics.media/entry/261027/" />
+    <updated>2026-10-27T10:38:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ある地点までスクロールしたら、アニメーションを開始する。そんな演出をCSSだけで実現できるのが、CSSスクロールトリガーアニメーションです。 スクロールを利用したアニメーションには、スクロール量に連動して進む「スクロール駆動アニメーション（scroll-driven）」と、スクロール位置をきっかけに再生する「スクロ...</summary>
+  </entry>
   <entry>
     <title>Weekly Report: VeloCloud OrchestratorにSQLインジェクションの脆弱性</title>
     <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#1</id>
@@ -602,9 +634,9 @@
     <title>コードを読まずにマージするために必要なこと</title>
     <id>https://zenn.dev/nrs/articles/c777388530aa84</id>
     <link href="https://zenn.dev/nrs/articles/c777388530aa84" />
-    <updated>2026-10-27T20:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AI に実装を任せると PR が次々にできあがります。 その差分を開発者がひとつずつ読み、指摘を返して修正を待ち、修正後のコードをまた読む。 実装が速くなった分だけレビュー待ちの PR がたまっていきます。 人がコードを読まずに PR をマージする「no look merge」を実現するには何が必要でしょうか。 品質の確認とマージの承認 大前提として no look merge でもコードの品質を…</summary>
+    <updated>2026-10-27T20:07:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI に実装を任せると PR が次々にできあがります。 その差分を開発者がひとつずつ読み、指摘を返して修正を待ち、修正後のコードをまた読む。 実装が速くなった分だけレビュー待ちの PR がたまっていきます。 人がコードを読まずに PR をマージする「no look merge」を実現するには何が必要でしょうか。 品質の確認とマ...</summary>
   </entry>
   <entry>
     <title>ChatGPTがどんな仕事に使われているのかわかるレポートが公開される</title>
@@ -773,37 +805,5 @@
     <updated>2026-10-27T14:00:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>GMOインターネットグループ(GMO)が展開するFX自動売買専用VPS「お名前.com デスクトップクラウド」が第三者による不正アクセスの被害を受けました。この攻撃を実行したとされる者が公開している犯行声明を読めるようにした「GMO不正アクセス犯の犯行声明文ビュアー」が公開されています。 GMO不正アクセス犯の犯行声明文...</summary>
-  </entry>
-  <entry>
-    <title>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2151399.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2151399.html" />
-    <updated>2026-10-27T12:19:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」</summary>
-  </entry>
-  <entry>
-    <title>Apple、Intel/Apple Silicon Mac向けに210件以上の脆弱性を修正した「macOS Tahoe 26.7.2」や「macOS Sequoia 15.8.2」、「Safari 27.2」向けにリリース。</title>
-    <id>https://applech2.com/archives/20261027-macos-26-7-2-tahoe-and-15-8-2-sequoia-security-update.html</id>
-    <link href="https://applech2.com/archives/20261027-macos-26-7-2-tahoe-and-15-8-2-sequoia-security-update.html" />
-    <updated>2026-10-27T11:57:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AppleがIntel/Apple Silicon Mac向けに210件以上の脆弱性を修正した「macOS Tahoe 26.7.2」や「macOS Sequoia 15.8.2」、「Safari 27.2」向けにリリ […] The post Apple、Intel/Apple Silicon Mac向けに210件以上の脆弱性を修正した「macOS Tahoe 26.7.2」や「macOS Se…</summary>
-  </entry>
-  <entry>
-    <title>GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう</title>
-    <id>https://togetter.com/li/2763425</id>
-    <link href="https://togetter.com/li/2763425" />
-    <updated>2026-10-27T18:08:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>aiAnyDay @aiAnyDay お名前 .com のダークパターン - 初年度の安さを強調し、更新料金を目立たせない - サービス維持調整費による追加請求 - 有料オプションの初期選択 - レンタルサーバー契約への誘導 - ドメインの自動更新・自動課金 - 自動更新停止は期限16日前まで - 有料オプションも自動更新 - 自動更新後のキャン...</summary>
-  </entry>
-  <entry>
-    <title>AIブームでデータセンター向け機材の窃盗が相次ぐ、被害総額は6月以降だけで150億円以上</title>
-    <id>https://gigazine.net/news/20261027-ai-gear-stealing/</id>
-    <link href="https://gigazine.net/news/20261027-ai-gear-stealing/" />
-    <updated>2026-10-27T13:17:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アメリカのNBCニュースが、「2026年6月以降、1億ドル(約157億円)以上のデータセンター向け機材が盗まれた」と報じました。NBCニュースは複数の関係者に取材してその手口を伝えています。 Grand theft AI: Highway thieves are stealing millions in data center gear https://www.nbcnews.com/tech/s…</summary>
   </entry>
 </feed>
