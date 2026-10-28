@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-29T05:30:13.356188+09:00</updated>
+  <updated>2026-10-29T06:00:14.446629+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>05:30-06:00 128 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/128</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/128" />
+    <updated>2026-10-29T05:42:33+09:00</updated>
+    <category term="新日" />
+    <summary>▶128 YOHやタイチを肯定して塩パイに興味ある奴なんて居ない</summary>
+  </entry>
   <entry>
     <title>【Delphi】タスクバーボタンにジャンプリストを表示する</title>
     <id>https://qiita.com/ht_deko/items/3d660c9c78d87e6c5b9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-27T14:22:42+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに クラシルで新卒iOSエンジニアをしているSeiseiです！ 最近、Claude CodeなどのAIにコードを実装してもらう機会が増えました。 AIは指示した機能を実装してくれますし、テストやレビューまで任せられます。ただ、出てきたコードを読んで「動くけど、なんか違うな」と感じることも少なくありません。 責務の分け方が不自然だったり、必要以上に抽象化されていたり、既存のコードベースとは違う…</summary>
-  </entry>
-  <entry>
-    <title>@mizchi/mutator で vitest の mutation test をする</title>
-    <id>https://zenn.dev/mizchi/articles/introduce-mutator</id>
-    <link href="https://zenn.dev/mizchi/articles/introduce-mutator" />
-    <updated>2026-10-27T12:56:41+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>(この記事は自分が実装したツールをAIに紹介させ、それを自分が手で書き直したものです。) Vitest を第一に置いた mutation testing ツール、@mizchi/mutator を作ったので紹介します mizchi/mutator AIでカバレッジを増やすためだけのテストを書き散らすようになりました。じゃあ、そのテストコードの品質はどう検査すべきでしょうか。 そうですね、ミューテー…</summary>
   </entry>
 </feed>
