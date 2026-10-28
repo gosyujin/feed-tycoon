@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-29T06:30:13.522232+09:00</updated>
+  <updated>2026-10-29T07:00:14.295934+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>06:30-07:00 129 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/129</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/129" />
+    <updated>2026-10-29T06:58:35+09:00</updated>
+    <category term="新日" />
+    <summary>▶129 &gt;&gt;127 ランボーでな</summary>
+  </entry>
+  <entry>
+    <title>Amadeus の旅客サービスシステムへの不正アクセスについてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/10/28/214917</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/28/214917" />
+    <updated>2026-10-28T22:22:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月28日、日本航空と日本トランスオーシャン航空は、旅客サービスシステムの委託先であるAmadeusのシステムへの不正アクセスにより、顧客の予約情報の一部が外部から参照された形跡があったと公表しました。ここでは関連する情報をまとめます。 アマデウス経由で日韓の航空会社に影響 日本航空と日本トランスオー...</summary>
+  </entry>
   <entry>
     <title>Gemini 4 Carbon: our next frontier model</title>
     <id>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-28T12:00:17+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>セーフィー株式会社のデータ分析基盤グループでエンジニアをしている渡部です。 セーフィーのデータ分析基盤では、データソースごとにばらばらだったデータ取り込み処理のやり方を揃えるため、Python ライブラリの dlt(data load tool)を採用することとなりました。 dlt は取り込みを実行するだけなので「いつ実行するか？」「失敗にどう気づくか？」の仕組みは別で用意する必要があります。 そ…</summary>
-  </entry>
-  <entry>
-    <title>競馬AIを作り込んだら、市場の粗いコピーになった ── お金としての価値は前日にしかない</title>
-    <id>https://zenn.dev/charat55/articles/keiba-ai-market-copy</id>
-    <link href="https://zenn.dev/charat55/articles/keiba-ai-market-copy" />
-    <updated>2026-10-27T19:15:54+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 競馬予測AIを約3年かけて作った。ニューラルネットで馬柱を読み、着順や展開を予測するシステムで、今は開催日ごとにVPSの上で予測を出し続けている。 先に結論を書く。 当日の確定オッズに対して、お金になる情報は見つからなかった。 前日の時点では、AIは市場の答えをかなり言い当てる。ただしそのずれは、締切までに市場が正しく上書きする。 だから、AIの予測にお金としての価値があるのは、前日に出…</summary>
-  </entry>
-  <entry>
-    <title>AGENTS.md乗っ取り対策のhook、テスト27件全通過でも攻撃役AIに破られた（Claude Code・Codex・Cursor）</title>
-    <id>https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard</id>
-    <link href="https://zenn.dev/shoma_endo/articles/agent-downloads-hijack-guard" />
-    <updated>2026-10-27T18:47:14+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、遠藤（@shoma_ai）です。普段は中小企業向けのAI導入支援やシステム開発をしています。 ダウンロードフォルダ（~/Downloads。以下 Downloads）に置かれた AGENTS.md や CLAUDE.md で、Codex や Claude Code が乗っ取られるという報告を見ました。その日のうちに、手元の Mac の Claude Code・Codex・Cursor…</summary>
   </entry>
 </feed>
