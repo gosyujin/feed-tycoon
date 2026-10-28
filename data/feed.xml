@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-28T19:30:14.339937+09:00</updated>
+  <updated>2026-10-28T20:00:15.602587+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>19:30-20:00 76-82 (7件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/76-82</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/76-82" />
+    <updated>2026-10-28T19:49:20+09:00</updated>
+    <category term="新日" />
+    <summary>▶76 邪道vs外道のシングルマッチでも良いな 外道なら実質ホウキ相手でも何とかできるだろ ▶77 GOD興行かな 参加選手 邪道 ELP タンガロア ▶78 &gt;&gt;72 やっぱり引退か ▶79 タンガロアの煉獄餃子マッチくるか ▶80 引退 ELP復帰 GOD復活 ももクロコラボ 邪外復活 さあどれだ ▶81 T2000かCTU復活でよろ ▶82 タンガロア復帰 KOPW復活 餃 以下略か</summary>
+  </entry>
+  <entry>
+    <title>MCP ツールの引数と結果に入った個人番号を、AgentCore Gateway のインターセプターでマスクする</title>
+    <id>https://zenn.dev/aws_japan/articles/49bf6abcee64bc</id>
+    <link href="https://zenn.dev/aws_japan/articles/49bf6abcee64bc" />
+    <updated>2026-10-28T16:55:16+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI エージェントがツールを使うと、ツールに渡す引数や、ツールが返す結果に個人番号が入ることがあります。一方で、Amazon Bedrock Guardrails の機密情報フィルターが評価するのは利用者の入力やモデルの応答で、ツールの引数と結果は対象外であることが公式ドキュメントに明記されています。そこで、MCP のツールの手前に Amazon Bedrock AgentCore Gateway…</summary>
+  </entry>
+  <entry>
+    <title>人間が見るのは設計書だけ ― PdM不在・バグ修正中心のチームで、AI-DLCを開発フローごと作り直した話</title>
+    <id>https://zenn.dev/canly/articles/85dc645c252832</id>
+    <link href="https://zenn.dev/canly/articles/85dc645c252832" />
+    <updated>2026-10-28T16:55:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに カンリーでトストアの開発を担当している鈴木です。 トストアは、Google ビジネスプロフィールや Yahoo!プレイスなど、複数の地図・検索サービスに掲載する店舗情報・クチコミ・投稿を、企業がまとめて管理できるサービスです。もともとは別の会社のプロダクトでしたが、事業譲渡を経てカンリーに加わりました。現在は、将来的にメインプロダクトの「カンリー店舗集客」へ統合することを見据えて、安定稼…</summary>
+  </entry>
+  <entry>
+    <title>業務マスタの新規登録をSeleniumで連続化したら、「新規」の判定を2回直すことになった【Python】</title>
+    <id>https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition</id>
+    <link href="https://zenn.dev/cutlet_of_pork/articles/selenium-rpa-new-entry-key-definition" />
+    <updated>2026-10-28T16:08:48+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>同じキーの行が 1 件あります。新規の対象は、その行が無いものだけです。 登録し終わったデータを、わざともう一度流したときに出た行（語は少し伏せた）。「登録」は押さずに止まっている。 この 1 行が出るようになるまでに、何を「新規」と呼ぶかを 2 回直した。その後、同じキーの行があったときの扱いを分け、保留にしていた更新も入れて、今はこの 1 行はもう出ない。この記事はその順に書く。 何をしていた…</summary>
+  </entry>
+  <entry>
+    <title>AI×開発組織Summit 2026 freee CAIO横路の登壇レポート｜freee公式note</title>
+    <id>https://note.freee.co.jp/n/n91ba6466e1e3</id>
+    <link href="https://note.freee.co.jp/n/n91ba6466e1e3" />
+    <updated>2026-10-28T11:58:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは！freeeのAI Platform Engineering というチームでAI基盤開発などを担当している gon と申します。 2026年10月16日に開催された、ファインディさん主催の「AI×開発組織Summit 2026」に参加してきました！freeeからはCAIOの横路が特別講演枠で「freeeにおける大規模ソフトウェアファクトリーの実践」というタイ...</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？</title>
+    <id>https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/6a06f484ebfab7" />
+    <updated>2026-10-28T10:21:43+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに：AIが賢くなるほど、現場は楽になる？ ! この記事の要点 AIレビューを用いることで設計書におけるレビュワーの作業が体感1時間程度から数分〜数十分に でも、レビュワーがしていた「判断」は、設計書を書いたエンジニアに移っただけだった 「判断」にはエネルギーが必要、それは誰がコストを支払うべき？ 役割整理から今後のSIerのあるべき姿を想像する ! この記事は商用システム開発での取り組みをも…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeで半年分のレビュー指摘を分類してみた</title>
+    <id>https://zenn.dev/port_inc/articles/a4bc3b39f44459</id>
+    <link href="https://zenn.dev/port_inc/articles/a4bc3b39f44459" />
+    <updated>2026-10-28T10:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 新卒でエンジニアとして入社し、実務に入ってからレビューの指摘で手戻りが多く発生することに悩んでいました。 一度受けた指摘は、今後のタスクで踏まないように気をつけることができます。しかし、実務に入ったばかりの段階では、自分が受けた指摘だけでは踏んでいない落とし穴に気づけず、手戻りを減らすのは難しい状況でした。 そこで、これまで蓄積された他の人の PR レビュー指摘をまとめて振り返ってみるこ…</summary>
+  </entry>
+  <entry>
+    <title>【Rails】焼きなまし法で会議室予約アプリに空き時間最適化機能を実装してみた</title>
+    <id>https://zenn.dev/port_inc/articles/eaf460ff291c97</id>
+    <link href="https://zenn.dev/port_inc/articles/eaf460ff291c97" />
+    <updated>2026-10-28T10:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。エンジニアのkoyu5000です。 研修で、社内向けの会議室予約アプリを Rails で作りました。フロアマップ上の部屋をクリックして予約でき、予約がキャンセルされると空きを待っている人に通知が届く、というアプリです。（研修で作成したものですが、実際に動作しているものではありません） このアプリに会議室の部屋割りを焼きなまし法で最適化する機能を実装しました。 趣味でやっていた…</summary>
+  </entry>
+  <entry>
+    <title>はてな株主総会2026 - スズキオンライン</title>
+    <id>https://michsuzuki.hatenablog.com/entry/2026/10/28/000042</id>
+    <link href="https://michsuzuki.hatenablog.com/entry/2026/10/28/000042" />
+    <updated>2026-10-28T00:11:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>10月28日10時から行われる、はてなの株主総会。今、僕が使っているはてなブログの運営会社ですが、今年は振り込め詐欺にあったことで約11億円が流出しました。 直近経営資料 2026年7月期決算短信、決算説明会資料、質疑応答、有価証券報告書 株主総会資料 定時株主総会招集通知 前回 第25回定時株主総会の質疑応答（要旨...</summary>
+  </entry>
+  <entry>
+    <title>WordPress製LPに潜むCWE-219、確認のススメ</title>
+    <id>https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check</id>
+    <link href="https://zenn.dev/yomogi_cat/articles/wordpress-lp-cwe-219-check" />
+    <updated>2026-10-27T21:13:56+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>キャンペーンや広告用のWordPress製のLP（ランディングページ）は、短い期間で作ることができ便利なのですが、時折、ドキュメントルートの下に、見られてはいけないファイルが置かれたままになっていることがあります。これはCWEでは CWE-219: Storage of File with Sensitive Data Under Web Root に分類されます。 派手な脆弱性ではありませんが、…</summary>
+  </entry>
   <entry>
     <title>19:00-19:30 67-75 (9件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/67-75</id>
@@ -725,85 +805,5 @@
     <updated>2026-10-27T10:38:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>ある地点までスクロールしたら、アニメーションを開始する。そんな演出をCSSだけで実現できるのが、CSSスクロールトリガーアニメーションです。 スクロールを利用したアニメーションには、スクロール量に連動して進む「スクロール駆動アニメーション（scroll-driven）」と、スクロール位置をきっかけに再生する「スクロ...</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: VeloCloud OrchestratorにSQLインジェクションの脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#1</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#1" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>VeloCloud OrchestratorにSQLインジェクションの脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: ISC BINDに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#2</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#2" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>ISC BINDに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のCisco製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#3</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#3" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のCisco製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: GitLabに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#4</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#4" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>GitLabに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Apache Tomcatに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#5</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#5" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Apache Tomcatに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Google Chromeに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#6</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#6" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Google Chromeに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のAtlassian製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#7</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#7" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のAtlassian製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のMozilla製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#8</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#8" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のMozilla製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: LaravelのTokenGuardに認証回避につながる脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#9</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#9" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>LaravelのTokenGuardに認証回避につながる脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Roundcube Webmailに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261028.html#10</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261028.html#10" />
-    <updated>2026-10-28T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Roundcube Webmailに複数の脆弱性</summary>
   </entry>
 </feed>
