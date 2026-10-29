@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T04:53:55.636693+09:00</updated>
+  <updated>2026-10-30T05:00:12.977367+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -354,9 +354,9 @@
     <title>最近の E2E 戦略（2026 年 10 月現在）</title>
     <id>https://zenn.dev/polyco/articles/26624b38c951b5</id>
     <link href="https://zenn.dev/polyco/articles/26624b38c951b5" />
-    <updated>2026-10-26T20:40:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの...</summary>
+    <updated>2026-10-26T10:18:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの時は回帰テストとして全シナリオ回す） やるなら e2e ライブラリがいいよという話 前…</summary>
   </entry>
   <entry>
     <title>20:00-20:30 242-248 (7件)</title>
