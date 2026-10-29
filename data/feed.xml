@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T06:00:14.558147+09:00</updated>
+  <updated>2026-10-30T06:30:14.652762+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>06:00-06:30 327 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/327</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/327" />
+    <updated>2026-10-30T06:21:49+09:00</updated>
+    <category term="新日" />
+    <summary>▶327 &gt;&gt;325 利益率が高いって何を以て高いって言ってるのかその根拠を教えて欲しいです</summary>
+  </entry>
   <entry>
     <title>05:30-06:00 326 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/326</id>
@@ -466,9 +474,9 @@
     <title>最近の E2E 戦略（2026 年 10 月現在）</title>
     <id>https://zenn.dev/polyco/articles/26624b38c951b5</id>
     <link href="https://zenn.dev/polyco/articles/26624b38c951b5" />
-    <updated>2026-10-26T20:40:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの...</summary>
+    <updated>2026-10-26T10:18:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの時は回帰テストとして全シナリオ回す） やるなら e2e ライブラリがいいよという話 前…</summary>
   </entry>
   <entry>
     <title>20:00-20:30 242-248 (7件)</title>
@@ -797,13 +805,5 @@
     <updated>2026-10-29T09:41:58+09:00</updated>
     <category term="はてブ IT" />
     <summary>「メモリ8GBで足りるのか」と、MacBook Neoの購入を迷う人に関わる報道です。海外メディアの報道によると、Appleは第2世代MacBook Neoを2027年上半期に発売する計画で、メインメモリ（RAM）は8GBから12GBに増える見込みです。8GBに不満がなくすぐMacが必要なら現行モデル、複数のアプリを並べる作業が多く待てるなら次期...</summary>
-  </entry>
-  <entry>
-    <title>chakra-uiのInputにisReadOnlyがない</title>
-    <id>https://qiita.com/J-T_ky2g/items/f3904c3983437526c7f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/f3904c3983437526c7f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-29T08:56:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに v3系 問題 仮でreadonlyにしたいinputタグがあるが、isReadOnlyというプロップスが当てられない 解決 readOnlyを割り当てて解決 終わりに isなんとかみたいな命名は全体的になくなくす方針なのかな コンポーネントか...</summary>
   </entry>
 </feed>
