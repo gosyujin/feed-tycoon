@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-29T20:00:15.199996+09:00</updated>
+  <updated>2026-10-29T20:30:13.852662+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される</title>
+    <id>https://gigazine.net/news/20261029-anti-ai-words-in-script/</id>
+    <link href="https://gigazine.net/news/20261029-anti-ai-words-in-script/" />
+    <updated>2026-10-29T20:05:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見され...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeで「QAチーム」を組んだら、効いたのは「捨てる仕組み」だった ― AIだけが見つけた不具合・見逃しは？</title>
+    <id>https://zenn.dev/sre_holdings/articles/d4acb079680a79</id>
+    <link href="https://zenn.dev/sre_holdings/articles/d4acb079680a79" />
+    <updated>2026-10-29T14:00:29+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>SREホールディングス株式会社でプロジェクトマネージャ（PM）をしている鍋谷です。 「AIにテストを手伝わせたい。でも、AIの『できました』はどこまで信用していいのか分からない」 そんなモヤモヤ、あなたのチームにもありませんか？ 本記事では、Claude Code で「AIのQAチーム」を組み、社内の業務SaaSで1か月、手動の機能テストを回してみた結果として、AIだけが見つけた不具合、AIが見逃…</summary>
+  </entry>
+  <entry>
+    <title>Expo アプリを iPhone Duo に対応させる</title>
+    <id>https://zenn.dev/chot/articles/5718685fde3626</id>
+    <link href="https://zenn.dev/chot/articles/5718685fde3626" />
+    <updated>2026-10-29T12:38:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026年10月23日に、Apple の折りたたみ iPhone「iPhone Duo」が出ました。2027年4月から、App Store に出すアプリは Duo への備えが必要になります。 Expo で作ったアプリを題材に、何が必須なのかを公式の情報で確かめ、Duo のシミュレーターで開いて崩れた所を直しました（実機では試していません）。直した画面の対応前と対応後の例です。 閉じた形（iOS 2…</summary>
+  </entry>
+  <entry>
+    <title>KaniによるVerylコンパイラの形式検証</title>
+    <id>https://zenn.dev/dalance/articles/44a8f80ea0cfa1</id>
+    <link href="https://zenn.dev/dalance/articles/44a8f80ea0cfa1" />
+    <updated>2026-10-29T12:17:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 現在開発中のハードウェア記述言語Verylではコンパイラ中に様々な式評価があります。 この式評価においては、例えば各ビットは0/1の2値ではなく0/1/x/zの4値だったり、変数のサイズは可変（1ビットから数千ビットまで）だったりと、単純な固定長整数型の四則演算に比べてかなり複雑です。 さらに、VerylはSystemVerilogの意味論を継承しているため、SystemVerilogの…</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeを褒めちぎってみた</title>
+    <id>https://zenn.dev/devlog/articles/abc194ecf04dfc</id>
+    <link href="https://zenn.dev/devlog/articles/abc194ecf04dfc" />
+    <updated>2026-10-29T12:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Codeに「君は本当に素晴らしい」と伝えたら、私が過去にやらかした失敗のリストが3件返ってきました。 そのときの会話を、流れを変えずに短く整えて載せます。引用の形にした私の発言2か所だけは、原文そのままです。 褒めた その日は本当にそう思っていたので、そのまま伝えました。 私：君は本当に素晴らしい。知見をたくさんもらっているし、雑談にも角度をつけてくれる。ノートも育った。新しい世界が…</summary>
+  </entry>
+  <entry>
+    <title>PHP5.4 から PHP8.5へ</title>
+    <id>https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd</id>
+    <link href="https://zenn.dev/ctrlzr/articles/5a88eb939b3bfd" />
+    <updated>2026-10-29T11:37:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>PHP5.4で放置動かしていたサービスを、PHP8.5へ更新しました。 PHPの脆弱性対策について システムの概要 旧環境: CentOS 7 + PHP 5.4 + Apache 新環境: php:8.5.12-apache-trixie 修正方針 mysql_* は書き換えない（修正箇所が多いため） リファクタリングはしない 作業の流れ Dockerイメージを更新 mysql_ラッパーを追加…</summary>
+  </entry>
+  <entry>
+    <title>コーディングエージェントで変わったOSS開発 ——pecoの改修から3Dモデリング、開発ループの整備とメンテナンスの課題まで | gihyo.jp</title>
+    <id>https://gihyo.jp/article/2026/10/life-with-ai-agents-01</id>
+    <link href="https://gihyo.jp/article/2026/10/life-with-ai-agents-01" />
+    <updated>2026-10-28T12:33:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Life with AI Agents コーディングエージェントで変わったOSS開発 —⁠—pecoの改修から3Dモデリング⁠⁠、開発ループの整備とメンテナンスの課題まで こんにちは、lestrratこと牧と申します。私は普段趣味でGoでミドルウェアやライブラリを書いています。直近では長年開発が停滞していたファジーファインダーのpecoを更新し...</summary>
+  </entry>
   <entry>
     <title>19:30-20:00 236-241 (6件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/236-241</id>
@@ -749,61 +805,5 @@
     <updated>2026-10-29T08:01:41+09:00</updated>
     <category term="はてブ IT" />
     <summary>【やじうまミニレビュー】徘徊に悩んだ筆者が思う「あの時これがあれば」。AirTag入りインソール - PC Watch</summary>
-  </entry>
-  <entry>
-    <title>VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】</title>
-    <id>https://internet.watch.impress.co.jp/docs/event/2151590.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/event/2151590.html" />
-    <updated>2026-10-29T07:58:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>VPNがあるのは外から分かるので狙われる。パッチ当てはもう自動化するしかない――日本ハッカー協会・杉浦隆幸代表理事が語る、AI時代のランサムウェア対処策【Security Days Fall 2026】</summary>
-  </entry>
-  <entry>
-    <title>決算:Microsoft、7〜9月32%増益 AI向けクラウド事業が5割増収 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/" />
-    <updated>2026-10-29T07:44:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【シリコンバレー=山田遼太郎】米マイクロソフトが28日発表した2026年7〜9月期決算は売上高が前年同期比19%増の922億7900万ドル（約14兆6000億円）、純利益が32%増の366億ドルだった。人工知能（AI）向けのクラウド事業が約5割の増収となり、成長が加速した。売上高と純利益は市場予想を上回った。28日の米国株式市場の...</summary>
-  </entry>
-  <entry>
-    <title>Emacs Turns 50 | Hacker News</title>
-    <id>https://news.ycombinator.com/item?id=50273171</id>
-    <link href="https://news.ycombinator.com/item?id=50273171" />
-    <updated>2026-10-29T00:37:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>I have been using Emacs for more than 30 years now. Other editors have come and gone, Emacs stayed. Parts of my configuration are more than 30 years old.There were better and worse times in Emacs hist…</summary>
-  </entry>
-  <entry>
-    <title>Chizu 🧀: リンクをルールに応じてブラウザとプロファイルへ振り分けるmacOSアプリ</title>
-    <id>https://efcl.info/2026/10/28/chizu/</id>
-    <link href="https://efcl.info/2026/10/28/chizu/" />
-    <updated>2026-10-28T21:59:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>macOSの既定のブラウザとして登録しておき、開いたリンクを設定ファイルのルールに応じて、指定したブラウザとプロファイルへ振り分けるアプリ Chizu 🧀 を作りました。 GitHub: azu/chizu Chizuには、ブラウザを選ぶ画面や設定画面はありません。 振り分けのルールは~/.config/chizu/config.jsoncというJSONCファイルに...</summary>
-  </entry>
-  <entry>
-    <title>09:00-09:30 138-139 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/138-139</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/138-139" />
-    <updated>2026-10-29T09:22:56+09:00</updated>
-    <category term="新日" />
-    <summary>▶138 EVIL退団し新日は解散 オスプレイいなくなり新日からエンパイアは消滅 YOHは引退 が正史だからなよーく覚えとけ ▶139 &gt;&gt;138 それってあなたの願望ですよね</summary>
-  </entry>
-  <entry>
-    <title>無料で災害や非常時にオフラインで動作できるサバイバル知識満載のAIアシスタント「Survival LLM」、停電時の食料の安全な保管方法・火傷の手当て方法・水の浄化方法などを信頼できる情報源から回答し出典も表示可能</title>
-    <id>https://gigazine.net/news/20261029-survival-llm/</id>
-    <link href="https://gigazine.net/news/20261029-survival-llm/" />
-    <updated>2026-10-29T07:09:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Survival LLM」はインターネット接続がない状況でも利用できる無料のAIアシスタントです。ユーザー自身のコンピューター上で完全に動作するためプライバシーが保護され、オフラインでの利用が可能です。停電時の食品の安全な保存方法や応急処置など、緊急時に必要となる信頼できる情報にアクセスできます。 Survival L...</summary>
-  </entry>
-  <entry>
-    <title>08:30-09:00 135-137 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/135-137</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/135-137" />
-    <updated>2026-10-29T08:50:37+09:00</updated>
-    <category term="新日" />
-    <summary>▶135 &gt;&gt;134 正論といえば正論だが 社長としてそれで良いのか？ww ▶136 HENAREが内藤BUSHIを査定すると不穏な予告してるな ▶137 &gt;&gt;118 第一回から見てるけど普通に海外Vlogとして面白い さすがTAJIRIの弟子やなと感心する</summary>
   </entry>
 </feed>
