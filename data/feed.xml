@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T10:30:14.185840+09:00</updated>
+  <updated>2026-10-30T11:00:12.307430+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab</title>
+    <id>https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/</id>
+    <link href="https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/" />
+    <updated>2026-10-30T07:47:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて...</summary>
+  </entry>
+  <entry>
+    <title>「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃</title>
+    <id>https://japan.cnet.com/article/35254160/</id>
+    <link href="https://japan.cnet.com/article/35254160/" />
+    <updated>2026-10-30T07:17:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>同社は顧客のPCで、AIが不正なソフトを導入しようとする動きを検知し、実行前に阻止したという。調査の結果、AIは作業場所としていたダウンロードフォルダー内の「AGENTS.md」というファイルに書かれた指示に従っていたことが分かった。ただし、このファイルがPCに保存された経緯は分かっていない。 AGENTS.mdは、AIに開...</summary>
+  </entry>
+  <entry>
+    <title>「こういうの、もはやみんなネタでやってると思ってた」ラーメン屋が掲示した激キモ生成AIのチャーハン画像を見つけて嬉しくなった話…集合体恐怖症の人には正直しんどい</title>
+    <id>https://togetter.com/li/2764420</id>
+    <link href="https://togetter.com/li/2764420" />
+    <updated>2026-10-30T05:20:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>岸田メル @mellco イラストレーター / ブルリフ総監修 @BR_general_info / IDOLY @IDOLY_cafe neusick @neusick_cafe プロデューサー /スケブ skeb.jp/@mellco / ご連絡maigo@maigo.jp instagram.com/kishidamel</summary>
+  </entry>
   <entry>
     <title>10:00-10:30 351-354 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/351-354</id>
@@ -114,17 +138,17 @@
     <title>元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年</title>
     <id>https://zenn.dev/dress_code/articles/bbc5159fefbd2c</id>
     <link href="https://zenn.dev/dress_code/articles/bbc5159fefbd2c" />
-    <updated>2026-10-29T19:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、プロダクトエンジニアをしているもず（@mozu1206）です。 2025年10月に Dress Codeに入社して、1年が経ちました。 せっかくなので、この1年を振り返った記事を書いてみます！ 入社3ヶ月のときに、フロントエンド専任からプロダクトエンジニアになって「強制成長」している話を書きました。 あの記事は、ほぼ初めて触るバックエンドやインフラがメインのタスクで どこで詰…</summary>
+    <updated>2026-10-29T20:18:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは、プロダクトエンジニアをしているもず（@mozu1206）です。 2025年10月に Dress Codeに入社して、1年が経ちました。 せっかくなので、この1年を振り返った記事を書いてみます！ 入社3ヶ月のときに、フロントエンド専任からプロダクトエンジニアになって「強制成長」している話を書きました。 あの記...</summary>
   </entry>
   <entry>
     <title>GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！</title>
     <id>https://zenn.dev/progate/articles/24b1140180300c</id>
     <link href="https://zenn.dev/progate/articles/24b1140180300c" />
-    <updated>2026-10-29T12:48:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Progate で業務委託エンジニアをしている横江( @yokoe24 )です！ セキュリティの話が重要視される昨今ですが、 みなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？ steps: - uses: actions/checkout@v7 ・・・私は書いています！！🙈 この記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って…</summary>
+    <updated>2026-10-29T18:02:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Progate で業務委託エンジニアをしている横江( @yokoe24 )です！ セキュリティの話が重要視される昨今ですが、 みなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？ ・・・私は書いています！！🙈 この記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って思っています。 @v7 ...</summary>
   </entry>
   <entry>
     <title>GitHub - shibukawa/bdf: BDF is a browser document-preview suite: it combines converters for many formats (Go/WASM), a browser renderer of about 23 KB gzipped, and a compact intermediate format.</title>
@@ -674,9 +698,9 @@
     <title>最近の E2E 戦略（2026 年 10 月現在）</title>
     <id>https://zenn.dev/polyco/articles/26624b38c951b5</id>
     <link href="https://zenn.dev/polyco/articles/26624b38c951b5" />
-    <updated>2026-10-26T10:18:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの時は回帰テストとして全シナリオ回す） やるなら e2e ライブラリがいいよという話 前…</summary>
+    <updated>2026-10-26T20:40:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの...</summary>
   </entry>
   <entry>
     <title>20:00-20:30 242-248 (7件)</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-29T07:43:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>English | 日本語 RabbitWall is a web console for a Linux gateway that lets you observe traffic from an AI network and switch its Internet access on or off. View connection sessions on a world map, in a r…</summary>
-  </entry>
-  <entry>
-    <title>Claude CodeやCodexなどの「セキュリティスキル」6898本を13領域のカオスマップに、安全性の評価も | テクノエッジ TechnoEdge</title>
-    <id>https://www.techno-edge.net/article/2026/10/27/5638.html</id>
-    <link href="https://www.techno-edge.net/article/2026/10/27/5638.html" />
-    <updated>2026-10-27T17:10:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウォーカーは、AIエージェント向けスキルの日本語検索サイト「cccskills」で、「AIエージェント セキュリティスキル カオスマップ 2026年10月版」を公開しました。cccskillsに掲載している公開スキル9万7647本のうち、名前や説明にセキュリティの語を含む6898本（947リポジトリ、814作者）を13の領域に整理しています。W...</summary>
-  </entry>
-  <entry>
-    <title>19:00-19:30 231-235 (5件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/231-235</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/231-235" />
-    <updated>2026-10-29T19:20:19+09:00</updated>
-    <category term="新日" />
-    <summary>▶231 ゼアチャン出た時めちゃくちゃ楽しそうだったもん邪道 喋り足りなかったのかもう一回出たからな ▶232 邪道には穏やかに余生を過ごしてほしい リング上では見たくない ▶233 一方、外道はプレジデントークで棚橋と対談しててビックリ ▶234 新日内での力関係は邪下&gt;第3世代 ▶235 ????「なんとかしてよ！」</summary>
-  </entry>
-  <entry>
-    <title>ANAの予約情報に不正アクセス、JALと同じ委託先経由で 個人情報をのぞき見た痕跡も</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/29/2000002722/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/29/2000002722/" />
-    <updated>2026-10-29T17:02:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>全日本空輸（ANA）は10月29日、ANA便の予約情報に不正アクセスがあったと発表した。旅客サービスシステムの提供元であるスペインのAmadeus IT Group（アマデウス）から報告を受けて発覚した。第三者が一部顧客の個人情報を参照した形跡があるという。 ANAはAmadeusと連携して影響範囲の特定を進めており、詳細が分かり次...</summary>
   </entry>
 </feed>
