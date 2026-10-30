@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T00:30:13.883586+09:00</updated>
+  <updated>2026-10-31T01:00:15.086754+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHub Actions の lockfile対応 - 利用者と提供者両方の観点から | おそらくはそれさえも平凡な日々</title>
+    <id>https://songmu.jp/riji/entry/2026-10-30-github-actions-lockfile.html</id>
+    <link href="https://songmu.jp/riji/entry/2026-10-30-github-actions-lockfile.html" />
+    <updated>2026-10-30T23:30:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>tl;dr: 利用者側は使わない理由はない カスタムアクションやreusable workflow提供者側に関する仕様はまだ議論中のものもあるため、現状を理解した上で提供方法をアップデートしていくと良い GitHub Actions workflow lockfiles がGA 🎉 全人類待望のGitHub Actionsのworkflow dependency lockfile が、2026年1…</summary>
+  </entry>
+  <entry>
+    <title>文章のAIっぽさを抑えるプロンプト</title>
+    <id>https://imoz.jp/scraps/202610_humanizer.html</id>
+    <link href="https://imoz.jp/scraps/202610_humanizer.html" />
+    <updated>2026-10-30T23:00:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>文章のAIっぽさを抑えるプロンプト 最近の大規模言語モデル（LLM）を使っていると、コーディング能力が高まる一方で、文章の流暢さは失われていると感じます。短い説明でも細かく見出しを付けたり、具体例の後に同じ結論を言い直したりして、個々の文は読めても説明の流れが途切れることがあります。 その一方で、指示に...</summary>
+  </entry>
   <entry>
     <title>00:00-00:30 455 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/455</id>
@@ -789,21 +805,5 @@
     <updated>2026-10-30T10:29:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free...</summary>
-  </entry>
-  <entry>
-    <title>Google、Elephant-Goldfish Modelプラグインを公開 ——AIが設計文書の作成と検証を分担 | gihyo.jp</title>
-    <id>https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin</id>
-    <link href="https://gihyo.jp/article/2026/10/elephant-goldfish-model-plugin" />
-    <updated>2026-10-29T20:25:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Google⁠⁠、Elephant-Goldfish Modelプラグインを公開 —⁠—AIが設計文書の作成と検証を分担 Googleは2026年10月22日、AIを使ったソフトウェア開発で、実装前の設計とレビューを支援するElephant-Goldfish Model（EGM）プラグインのオープンソース公開を発表した。利用者との対話を踏まえて設計文書を作るAIと、その対話の...</summary>
-  </entry>
-  <entry>
-    <title>12:00-12:30 364-366 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/364-366</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/364-366" />
-    <updated>2026-10-30T12:29:02+09:00</updated>
-    <category term="新日" />
-    <summary>▶364 ぽい てなんだよ オーカーンのンやゆうこりんのりんみたいなもん？ ▶365 &gt;&gt;360 モクスリーの嫁はインタビュアーだが？ ▶366 &gt;&gt;364 冷静に考えろよ 30も過ぎてぽいとか言ってたらヤベーだろ</summary>
   </entry>
 </feed>
