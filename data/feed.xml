@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T23:00:14.245955+09:00</updated>
+  <updated>2026-10-30T23:30:15.019245+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>23:00-23:30 451-453 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/451-453</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/451-453" />
+    <updated>2026-10-30T23:27:53+09:00</updated>
+    <category term="新日" />
+    <summary>▶451 みょんズと一緒に鍋を囲むトーチャー軍アットホーム過ぎる https://x.com/boliviacuba/status/2116152852510835146 ▶452 髪型のせいもあるけど引き絵だとちょっと似てるのよワトワトカイカイ。ちょっと整ってるのがカイカイでちょっと散らかってるのがワトワト ▶453 カイカイとワトワトって何だよw まぁ確かに似た者同士な感はあるな スクールカー…</summary>
+  </entry>
+  <entry>
+    <title>22:30-23:00 445-450 (6件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/445-450</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/445-450" />
+    <updated>2026-10-30T22:52:41+09:00</updated>
+    <category term="新日" />
+    <summary>▶445 &gt;&gt;443 藤田じゃね ▶446 ウルフボルチンはドームでありそうだな https://x.com/njpw1972/status/2116150470997909899 ▶447 &gt;&gt;442 前回のバクステでワトがカイカイって呼んで良いですか？って許可取ってた そういうのを勢いで出来ないから一皮向けないんだなって思いながら見てた ▶448 &gt;&gt;442 https://x.com/njp…</summary>
+  </entry>
+  <entry>
+    <title>今後のセキュリティの考え方</title>
+    <id>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</id>
+    <link href="https://zenn.dev/cscloud_blog/articles/a987163efae5d8" />
+    <updated>2026-10-30T20:11:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...</summary>
+  </entry>
+  <entry>
+    <title>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor</title>
+    <id>https://cursor.com/blog/claude-code-extension-security-notice</id>
+    <link href="https://cursor.com/blog/claude-code-extension-security-notice" />
+    <updated>2026-10-30T17:36:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace Today we identified a security incident involving a specific extension package in…</summary>
+  </entry>
+  <entry>
+    <title>総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道</title>
+    <id>https://www.itmedia.co.jp/news/article/2610/30/2000002765/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2610/30/2000002765/" />
+    <updated>2026-10-30T17:19:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GMOインターネットへの不正アクセス問題を巡り、総務省が通信事業者に「ブロッキング」を要請したと、朝日新聞や読売新聞、日本経済新聞などが10月29日に報じた。総務省は、GMOの顧客のものとされる個人情報を掲載した攻撃者側のWebサイトについて、接続を強制的に遮断するよう求めた。27日付の文書で、電気通信事業者協...</summary>
+  </entry>
   <entry>
     <title>22:00-22:30 438-444 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/438-444</id>
@@ -765,45 +805,5 @@
     <updated>2026-10-30T08:38:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>Rubyセミナー大阪での登壇資料です #raosaka2026 https://rubyassociation.doorkeeper.jp/events/197460</summary>
-  </entry>
-  <entry>
-    <title>Linuxカーネルに重大な脆弱性「CVE-2026-98432」、CVSS 9.8 Claudeが遠隔root権限実行を実証|セキュリティニュースのセキュリティ対策Lab</title>
-    <id>https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/</id>
-    <link href="https://rocket-boys.co.jp/security-measures-lab/linux_kernel_cve_2026_98432_ubuntu_anthropic_20261030/" />
-    <updated>2026-10-30T07:47:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>LinuxカーネルのIPv4ネットワーク処理に、遠隔からの悪用につながるUse-After-Free（解放済みメモリの再利用）の脆弱性「CVE-2026-98432」が確認されました。Canonicalが2026年10月15日に公開し、28日に更新したUbuntuの脆弱性情報では、CVSS v3.1の基本値は9.8（Critical）、Ubuntu独自の優先度は「High」と評価されて...</summary>
-  </entry>
-  <entry>
-    <title>「ダウンロード」フォルダに「AI指示書」（.md）を置かないで--CodexやClaude Codeを操る攻撃</title>
-    <id>https://japan.cnet.com/article/35254160/</id>
-    <link href="https://japan.cnet.com/article/35254160/" />
-    <updated>2026-10-30T07:17:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>同社は顧客のPCで、AIが不正なソフトを導入しようとする動きを検知し、実行前に阻止したという。調査の結果、AIは作業場所としていたダウンロードフォルダー内の「AGENTS.md」というファイルに書かれた指示に従っていたことが分かった。ただし、このファイルがPCに保存された経緯は分かっていない。 AGENTS.mdは、AIに開...</summary>
-  </entry>
-  <entry>
-    <title>「こういうの、もはやみんなネタでやってると思ってた」ラーメン屋が掲示した激キモ生成AIのチャーハン画像を見つけて嬉しくなった話…集合体恐怖症の人には正直しんどい</title>
-    <id>https://togetter.com/li/2764420</id>
-    <link href="https://togetter.com/li/2764420" />
-    <updated>2026-10-30T05:20:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>岸田メル @mellco イラストレーター / ブルリフ総監修 @BR_general_info / IDOLY @IDOLY_cafe neusick @neusick_cafe プロデューサー /スケブ skeb.jp/@mellco / ご連絡maigo@maigo.jp instagram.com/kishidamel</summary>
-  </entry>
-  <entry>
-    <title>10:00-10:30 351-354 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/351-354</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/351-354" />
-    <updated>2026-10-30T10:29:56+09:00</updated>
-    <category term="新日" />
-    <summary>▶351 &gt;&gt;345 全く違う 竹下自身が「ええですよ」とはならない 自分の口ではっきり鷹木なつぽいとの夫婦タッグ対決に難色示してる 理由は「大好きなユカちゃんが鷹木のパンピングボンバー喰らうのは見たくない」 ソースはゼアチャン ▶352 全く注目されて無いのにシュンとか言い出す奴はシュン本人なの？岡並に名前出るのおかしいキモい ▶353 シュンさんは話題にならないと天空界にすぐ帰っちゃうから ▶…</summary>
-  </entry>
-  <entry>
-    <title>読んでいないコードを私たちはどれだけ信頼できるのか - YAMAGUCHI::weblog</title>
-    <id>https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000</id>
-    <link href="https://ymotongpoo.hatenablog.com/entry/2026/10/30/093000" />
-    <updated>2026-10-30T09:38:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。 私は2018年前後から、SRE*1の啓蒙に携わってきました。SREの実践では本番環境のオブザーバビリティは欠かせず、私もその重要性を強く主張しています。そういった背景もあり『SLO サービスレベル目標』や『オブザーバビリティ・エンジ...</summary>
   </entry>
 </feed>
