@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T09:00:20.546649+09:00</updated>
+  <updated>2026-10-30T09:30:14.902410+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2152201.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2152201.html" />
+    <updated>2026-10-30T06:43:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始</summary>
+  </entry>
+  <entry>
+    <title>Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰</title>
+    <id>https://note.com/hgffdgn654/n/n92467b83a1c1</id>
+    <link href="https://note.com/hgffdgn654/n/n92467b83a1c1" />
+    <updated>2026-10-29T23:57:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。 現在私は業務委託としてSaaSプロダクトのソロデザイナーとして...</summary>
+  </entry>
+  <entry>
+    <title>Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5</title>
+    <id>https://divagr.com/blog/qwenputer</id>
+    <link href="https://divagr.com/blog/qwenputer" />
+    <updated>2026-10-29T15:56:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Qwenputer: a fully functioning, deterministic RISC-V CPU inside Qwen3.5 A stock Qwen 3.5 4B with a RISC-V CPU compiled into its weights, running on its own Gated DeltaNet layers as RAM. I can't believ…</summary>
+  </entry>
   <entry>
     <title>08:30-09:00 344-350 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/344-350</id>
@@ -66,9 +90,9 @@
     <title>GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！</title>
     <id>https://zenn.dev/progate/articles/24b1140180300c</id>
     <link href="https://zenn.dev/progate/articles/24b1140180300c" />
-    <updated>2026-10-29T12:48:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Progate で業務委託エンジニアをしている横江( @yokoe24 )です！ セキュリティの話が重要視される昨今ですが、 みなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？ steps: - uses: actions/checkout@v7 ・・・私は書いています！！🙈 この記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って…</summary>
+    <updated>2026-10-29T18:02:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Progate で業務委託エンジニアをしている横江( @yokoe24 )です！ セキュリティの話が重要視される昨今ですが、 みなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？ ・・・私は書いています！！🙈 この記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って思っています。 @v7 ...</summary>
   </entry>
   <entry>
     <title>GitHub - shibukawa/bdf: BDF is a browser document-preview suite: it combines converters for many formats (Go/WASM), a browser renderer of about 23 KB gzipped, and a compact intermediate format.</title>
@@ -618,9 +642,9 @@
     <title>最近の E2E 戦略（2026 年 10 月現在）</title>
     <id>https://zenn.dev/polyco/articles/26624b38c951b5</id>
     <link href="https://zenn.dev/polyco/articles/26624b38c951b5" />
-    <updated>2026-10-26T10:18:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの時は回帰テストとして全シナリオ回す） やるなら e2e ライブラリがいいよという話 前…</summary>
+    <updated>2026-10-26T20:40:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この記事に書いてあること E2E を主要シナリオだけでなく網羅的に整備した 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの...</summary>
   </entry>
   <entry>
     <title>20:00-20:30 242-248 (7件)</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-29T18:58:06+09:00</updated>
     <category term="新日" />
     <summary>▶225 残酷だけど会社としたら選手として使い道無さ過ぎるけど兄弟が守っているんかな？ ▶226 もう言ってたんだな 邪道さん本当に申し訳ない ▶227 &gt;&gt;215 クソつまんない流れになるやん ▶228 邪道キレそう… ▶229 邪道叩きすぎだろここ ももクロ本人が認めて一緒にやってるならいいやん ▶230 ももクロとかじゃなくて外道と飯食う動画を上げろ 何なら旅しろよ</summary>
-  </entry>
-  <entry>
-    <title>Apple、セキュリティアップデートで修正した脆弱性の情報をCSAF規格に準拠したJSON形式で公開開始。</title>
-    <id>https://applech2.com/archives/20261029-apple-security-advisories-csaf-2-1-json-format.html</id>
-    <link href="https://applech2.com/archives/20261029-apple-security-advisories-csaf-2-1-json-format.html" />
-    <updated>2026-10-29T18:21:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleがセキュリティアップデートで修正した脆弱性の情報をJSON形式で公開しています。詳細は以下から。 Appleは現地時間2026年10月26日、MacやiPhone/iPad、Apple Watch/TV、V […] The post Apple、セキュリティアップデートで修正した脆弱性の情報をCSAF規格に準拠したJSON形式で公開開始。 first appeared on AAPL .…</summary>
-  </entry>
-  <entry>
-    <title>厳格にルール化すると面倒だからいい感じにして運用してたのに、それを悪用しまくる人が出てくると仕方なく厳しくして全員が苦しむ現象ってあるよね</title>
-    <id>https://togetter.com/li/2764263</id>
-    <link href="https://togetter.com/li/2764263" />
-    <updated>2026-10-29T17:52:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>厳格にルール化すると面倒だからいい感じにして運用してたのに、それを悪用しまくる人が出てくると仕方なく厳しくして全員が苦しむ現象ってあるよね</summary>
-  </entry>
-  <entry>
-    <title>GMOへの攻撃事件を巡って |</title>
-    <id>https://www.iwashita.kyoto.jp/archives/11306</id>
-    <link href="https://www.iwashita.kyoto.jp/archives/11306" />
-    <updated>2026-10-29T16:16:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>金融取引の安全性を誰が守るのか GMOインターネットグループの熊谷正寿代表が、同社の「お名前.com デスクトップクラウド」に対するサイバー攻撃について、10月25日付のブログで経緯を説明している。 熊谷正寿「今こそ官民連携で日本を守ろう――『能動的サイバー防御』を具申した理由」 同ブログによれば、今回の事件で影...</summary>
   </entry>
 </feed>
