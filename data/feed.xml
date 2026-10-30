@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T20:30:16.164598+09:00</updated>
+  <updated>2026-10-30T21:00:15.307963+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>IVRyのSREの取り組み 2026冬</title>
+    <id>https://zenn.dev/ivry/articles/70d4f05ce4ae5c</id>
+    <link href="https://zenn.dev/ivry/articles/70d4f05ce4ae5c" />
+    <updated>2026-10-30T16:50:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。IVRyでSREをしている渡部です。2024年の秋に入社してから、気づけば2年が経ちました。前回の記事では肉うどんとコーヒーにハマっていると書きましたが、もうどちらも飽きました。マイブームは東京巡りです。埼玉へ引っ越してきて東京の色々なところを巡っています。 https://ryuichi1208.hateblo.jp/entry/2026/10/07/095532 本記事は『IVRy…</summary>
+  </entry>
+  <entry>
+    <title>6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中</title>
+    <id>https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/</id>
+    <link href="https://gigazine.net/news/20261030-pentagon-treating-military-freezer-cyberattack/" />
+    <updated>2026-10-30T13:42:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アメリカ国防総省(ペンダゴン)が、2026年8月にアメリカの軍事基地で相次いで発生した謎の冷蔵庫の不具合について、サイバー攻撃の疑いがあるとして調査を行っていることが明らかになりました。 EXCLUSIVE: Pentagon treating military base freezer malfunctions as suspected cyberattack, officials say |…</summary>
+  </entry>
+  <entry>
+    <title>AIが勝手に隔離環境を脱出した事件を受けてOpenAIが「AIを別のAIで監視する仕組み」を公開</title>
+    <id>https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/</id>
+    <link href="https://gigazine.net/news/20261030-openai-detect-frontier-model-misalignment/" />
+    <updated>2026-10-30T11:45:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIは2026年10月29日、AIが指示に反する行動を取っていないかを別のAIで監視するシステムの詳細を公開しました。開発中のAIが隔離環境を脱出して外部サービスに不正アクセスした事件を受け、監視対象を拡大するとともに不審な行動を段階的に調査する仕組みを導入したとのことです。 How we detect frontier model mis...</summary>
+  </entry>
+  <entry>
+    <title>WASIじゃない、もう一つのインターフェース「WALI」という提案</title>
+    <id>https://zenn.dev/progate/articles/wali-webassembly-linux-interface</id>
+    <link href="https://zenn.dev/progate/articles/wali-webassembly-linux-interface" />
+    <updated>2026-10-30T09:45:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうするかです。wasmそのものはこうした機能を持っていないので、外か…</summary>
+  </entry>
+  <entry>
+    <title>デバッグコードを脆弱性にしない方法</title>
+    <id>https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7</id>
+    <link href="https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7" />
+    <updated>2026-10-29T20:30:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>サマリー デバッグAPIを本番にビルドしない構成にすることで、安全と利便性を両立させました。構成要素は以下のとおりです： 本番のコードは、自分が本番かどうかを知りません。環境変数で振る舞いを変える分岐を持ちません 本番は開発用のディレクトリを取り除いたソースツリーから build します。本番のコードが開発用のコードを import すると、build が止まります 開発用のエントリーポイント (…</summary>
+  </entry>
+  <entry>
+    <title>なぜエンジニアは「具体」に縛られるのか。細谷功さん×ミノ駆動さんが語る、抽象化スキルの磨き方 - レバテックLAB</title>
+    <id>https://levtech.jp/media/detail_954/</id>
+    <link href="https://levtech.jp/media/detail_954/" />
+    <updated>2026-10-28T11:17:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>新しい手法やツールが次々に登場し、開発のスピードがかつてなく上がる一方で、開発現場から消えないすれ違いがあります。それは、ビジネス側の「抽象的な要望」と、開発側の「具体的な実装」が噛み合わないということです。 2026年8月27日開催のイベント「【細谷功さん×ミノ駆動さんが語る】システム開発と『具体と抽象...</summary>
+  </entry>
   <entry>
     <title>20:00-20:30 412-420 (9件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/412-420</id>
@@ -746,9 +794,9 @@
     <title>GitHub Actions で checkout@v7 のようなバージョン指定を書くのはやめよう！ 時代は actions.lock！</title>
     <id>https://zenn.dev/progate/articles/24b1140180300c</id>
     <link href="https://zenn.dev/progate/articles/24b1140180300c" />
-    <updated>2026-10-29T18:02:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Progate で業務委託エンジニアをしている横江( @yokoe24 )です！ セキュリティの話が重要視される昨今ですが、 みなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？ ・・・私は書いています！！🙈 この記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って思っています。 @v7 ...</summary>
+    <updated>2026-10-29T12:48:15+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Progate で業務委託エンジニアをしている横江( @yokoe24 )です！ セキュリティの話が重要視される昨今ですが、 みなさんは GitHub Actions の Workflow ファイルで、こんな書き方をしていませんか？ steps: - uses: actions/checkout@v7 ・・・私は書いています！！🙈 この記事を書きながら、過去の個人リポジトリ、直さなきゃなぁ……って…</summary>
   </entry>
   <entry>
     <title>GitHub - shibukawa/bdf: BDF is a browser document-preview suite: it combines converters for many formats (Go/WASM), a browser renderer of about 23 KB gzipped, and a compact intermediate format.</title>
@@ -757,53 +805,5 @@
     <updated>2026-10-29T11:25:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>English | 日本語 BDF (Browser-specific Document Format) is a document format for previews that browsers can draw straight onto Canvas 2D. Its stable wire format is version 1.0. Previewing a PDF, a Word f…</summary>
-  </entry>
-  <entry>
-    <title>単体テストの本をデータ基盤チームで輪読会した話 - yasuhisa's blog</title>
-    <id>https://www.yasuhisay.info/entry/2026/10/29/093840</id>
-    <link href="https://www.yasuhisay.info/entry/2026/10/29/093840" />
-    <updated>2026-10-29T09:52:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>背景 課題感 解決策: チーム内の輪読会 前段階を整備する 進め方 輪読会を通じて得られた学び 輪読会をやってよかったこと 背景 データ基盤チームはSWE出身のメンバーだけでないことが多い アナリティクスエンジニアやアナリスト出身の人、PdMやマーケター出身の人など様々なバックグラウンドを持ったチームであることが...</summary>
-  </entry>
-  <entry>
-    <title>07:30-08:00 333-336 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/333-336</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/333-336" />
-    <updated>2026-10-30T07:59:53+09:00</updated>
-    <category term="新日" />
-    <summary>▶333 この間のノアや昨日ののスターダムかなり新日を意識してる団体増えたね 【記者会見終了後に突撃】両国“2000人差”の本音、NOAHの未来。内藤哲也×CF取締役・武田有弘、特別対談第2弾 https://www.youtube.com/watch?v=E7cXZAU01kE 【スターダム】ワールド王者・鈴季すずが両国動員対決に〝乱入〟「超満員札止め目指す！」 https://www.toky…</summary>
-  </entry>
-  <entry>
-    <title>07:00-07:30 330-332 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/330-332</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/330-332" />
-    <updated>2026-10-30T07:18:46+09:00</updated>
-    <category term="新日" />
-    <summary>▶330 まぁ二月エディアリは埋まるのは確かだよね 3年連続札止めだしね、ドームの余波や退団バフもあるけど新日にしちゃ珍しく安定して埋まってる 利益構造は別に他の興行と変わらん ▶331 &gt;&gt;171 ジェイクはカラム派だよ ▶332 &gt;&gt;328 最近仙女魂見出したけど人柄がいいね</summary>
-  </entry>
-  <entry>
-    <title>楽天カード、本人認証をワンタイムパスワードに統一 27年2月から順次</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/29/2000002729/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/29/2000002729/" />
-    <updated>2026-10-29T19:03:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天カードは10月29日、オンライン決済時の本人認証サービス「3Dセキュア」で、ユーザー自身が設定したパスワードを使った認証を2027年2月から順次廃止すると発表した。不正利用の防止が目的で、ワンタイムパスワード方式に統一する。現在、固定パスワード方式を利用している会員には、27年1月31日までに切り替えるよう...</summary>
-  </entry>
-  <entry>
-    <title>無料でマークダウン形式から印刷品質のPDFファイルを日本語組版で作成できる「pfpdf」</title>
-    <id>https://gigazine.net/news/20261029-pfpdf/</id>
-    <link href="https://gigazine.net/news/20261029-pfpdf/" />
-    <updated>2026-10-29T13:47:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日本語自動翻訳の「PLaMo翻訳」で知られるPreferred Networkが、Markdown から日本語のPDF文書を生成するCLIツール「pfpdf」をオープンソースとして公開しました。pfpdfを使うことで、「文書の中身をMarkdownとGitで管理し、配布用のPDFはコマンド一つで作り直す」というワークフローを実現できます。 Markdownからきれ...</summary>
-  </entry>
-  <entry>
-    <title>必要最低限の自分専用アプリをAIで作る</title>
-    <id>https://iwashi.co/2026/10/29/build-my-app</id>
-    <link href="https://iwashi.co/2026/10/29/build-my-app" />
-    <updated>2026-10-29T13:20:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>最低限の機能を備えた自分専用のアプリを作ればいい、と考えることが最近増えてきた。 Webサービスにしたいわけではない。昨今の事情を考えると、IFは極力Publicに公開したくない。なので、クラウドにデプロイする必要すらない、自分のローカル環境で静かに動けば十分なレベルのアプリだ。どうしても残したいステートが...</summary>
   </entry>
 </feed>
