@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T08:00:14.064560+09:00</updated>
+  <updated>2026-10-31T08:30:12.103877+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞</title>
+    <id>https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html</id>
+    <link href="https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html" />
+    <updated>2026-10-31T07:18:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>福島県喜多方市が特産のしょうゆのPRをかねて地元の小学生から募集したポスターコンクールで、入賞作品に「生成AI（人工知能）が使われた」などとの中傷がネットで相次ぎ、作品の公開が中止された。画用紙での…</summary>
+  </entry>
+  <entry>
+    <title>AIを50体集めてマインクラフトで文明を作らせたら食糧難に陥って配給制度が実施される</title>
+    <id>https://gigazine.net/news/20261030-minecraft-gpt-sol/</id>
+    <link href="https://gigazine.net/news/20261030-minecraft-gpt-sol/" />
+    <updated>2026-10-30T18:12:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIスタートアップ企業のOlam LabsとベンチャーキャピタルのY Combinatorが共同で、ゲーム「マインクラフト」を50体のGPT-6.1 Solにプレイさせるという実験を行い、その結果を公開しました。また「OpenAIのAI対AnthropicのAIでミニゲームのベッドウォーズをする」という試みも行っています。 Agents in Games · Labs http...</summary>
+  </entry>
   <entry>
     <title>07:30-08:00 466-467 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/466-467</id>
@@ -386,9 +402,9 @@
     <title>今後のセキュリティの考え方</title>
     <id>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</id>
     <link href="https://zenn.dev/cscloud_blog/articles/a987163efae5d8" />
-    <updated>2026-10-30T19:30:27+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。 特に AWS 環境の話をしていきますが、すべて…</summary>
+    <updated>2026-10-30T20:11:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...</summary>
   </entry>
   <entry>
     <title>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-29T23:57:46+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに AIエージェントにちょっと長めのタスクを任せたいとき、承認ボタンを何度も押すのが地味につらくなってきます。夜に投げて、朝に結果だけ見たい、そう思う瞬間はありませんか？ そこで出てくるのが --dangerously-skip-permissions のような「承...</summary>
-  </entry>
-  <entry>
-    <title>JavaScriptで制作した診断アプリを振り返る</title>
-    <id>https://qiita.com/Nsh0/items/8bdaed47ccf7c8cfb6ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Nsh0/items/8bdaed47ccf7c8cfb6ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-29T21:06:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに この記事ではJavaScriptの復習の一環として制作したアプリの構成について整理しています。 どういう仕組みで完成したのか、それぞれの役割とは？を振り返っていきます。 初心者向けの記事になりますので、気になる点があればぜひFB頂けますと幸いです。 大まかな構成...</summary>
-  </entry>
-  <entry>
-    <title>GitHub Copilot SDK の追悼式場を Azure で作ってみた（300 人が同時に押しても数が欠けない構成）</title>
-    <id>https://qiita.com/shahin0809/items/d337af6f1b64a9c6ae53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shahin0809/items/d337af6f1b64a9c6ae53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-29T19:20:46+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>追悼式場はこちら: https://wonderful-stone-0f390da0f.4.azurestaticapps.net/ リポジトリ: https://github.com/srohoman-bot/GitHub-Copilot-Harness- はじ...</summary>
   </entry>
 </feed>
