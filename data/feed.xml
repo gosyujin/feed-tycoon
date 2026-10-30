@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T01:30:11.348099+09:00</updated>
+  <updated>2026-10-31T02:00:14.074100+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>01:00-01:30 456-457 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/456-457</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/456-457" />
+    <updated>2026-10-31T01:15:44+09:00</updated>
+    <category term="新日" />
+    <summary>▶456 &gt;&gt;455 SHOとDOUKIだろ。巡業中 ▶457 ゲイブとの試合に負けたタイチがどんなお気持ち表明するのか正直楽しみ</summary>
+  </entry>
   <entry>
     <title>GitHub Actions の lockfile対応 - 利用者と提供者両方の観点から | おそらくはそれさえも平凡な日々</title>
     <id>https://songmu.jp/riji/entry/2026-10-30-github-actions-lockfile.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-30T12:56:49+09:00</updated>
     <category term="新日" />
     <summary>▶367 &gt;&gt;364 ンゴ ▶368 &gt;&gt;367 ようは個性出すための適当な語尾か ▶369 30過ぎ：ぽいとか言ってたらヤベー 40くらい：自分を神とか言ってたらヤベー 50代：？ ▶370 ワープロリターンズがリニューアルか 昔と今を一緒に合わせて放送はしないほうがいいと思うな 今のリングに闘魂というものがないことが世間に伝わってしまう ▶371 &gt;&gt;370 毛根が無い人に言われてもなあ ▶3…</summary>
-  </entry>
-  <entry>
-    <title>Linuxに深刻度9.8の脆弱性、認証なしでroot権限奪取 AnthropicのAIが攻撃を実証</title>
-    <id>https://ascii.jp/elem/000/004/447/4447103/</id>
-    <link href="https://ascii.jp/elem/000/004/447/4447103/" />
-    <updated>2026-10-30T10:29:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Anthropicは10月27日、Linuxカーネルの脆弱性「CVE-2026-98432」を悪用し、遠隔から管理者権限でコマンドを実行する攻撃を実証したと発表した。脆弱性の深刻度は最高10点中9.8と評価されている。 LinuxカーネルのIPv4通信処理に問題があった。TCP接続の処理中、既に解放されたメモリーを参照してしまう「use-after-free...</summary>
   </entry>
 </feed>
