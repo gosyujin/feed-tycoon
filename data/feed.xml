@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T16:00:13.093835+09:00</updated>
+  <updated>2026-10-30T16:30:14.425532+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2152666.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2152666.html" />
+    <updated>2026-10-30T15:32:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>無印良品、「MUJIアプリ」の利用者情報最大約2726万件が不正アクセスにより流出の可能性</summary>
+  </entry>
+  <entry>
+    <title>Trojanized Claude Code Extension Plants an SSH Backdoor</title>
+    <id>https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor</id>
+    <link href="https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor" />
+    <updated>2026-10-30T14:57:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>v 2.1.313 contains a loader that runs ahead of the real extension code adds an attacker key, opens a reverse tunnel, and sets persistence By c0a15726-c5b1-4b0d-85e6-fe15553df9e2 · 2026-10-30T09:42:00.…</summary>
+  </entry>
   <entry>
     <title>15:30-16:00 388-390 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/388-390</id>
@@ -84,7 +100,7 @@
     <link href="https://news.web.nhk/newsweb/na/nd-20261030de68404" />
     <updated>2026-10-30T13:56:14+09:00</updated>
     <category term="はてブ IT" />
-    <summary>暗号資産の取引を手がける世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起きたことを明らかにし、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上る…</summary>
+    <summary>暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし…</summary>
   </entry>
   <entry>
     <title>ECサイトの「当日配送」、世界各国に比べて日本ではニーズがあまりないことが調査で判明【やじうまWatch】</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-29T19:29:00+09:00</updated>
     <category term="はてブ IT" />
     <summary>個人情報保護委員会は10月28日、2026年4月1日から10月16日までに報告された不正アクセスによる個人情報の漏えい、または漏えいの恐れがある事案について、対象者数が延べ約2億6000万人だったと公表した。これは、同年10月1日時点の日本の総人口の2倍以上に相当する（総務省統計局調べ）。 同委員会が公表した資料による...</summary>
-  </entry>
-  <entry>
-    <title>CVE-2026-98432 | Ubuntu</title>
-    <id>https://ubuntu.com/security/CVE-2026-98432</id>
-    <link href="https://ubuntu.com/security/CVE-2026-98432" />
-    <updated>2026-10-29T13:39:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Description In the Linux kernel, the following vulnerability has been resolved: ipv4: free inet_opt and ireq_opt after an RCU grace period tcp_v4_syn_recv_sock() transfers ownership of ireq-&gt;ireq_opt…</summary>
-  </entry>
-  <entry>
-    <title>Prioritize Dependabot alerts with reachability analysis - GitHub Changelog</title>
-    <id>https://github.blog/changelog/2026-10-28-prioritize-dependabot-alerts-with-reachability-analysis/</id>
-    <link href="https://github.blog/changelog/2026-10-28-prioritize-dependabot-alerts-with-reachability-analysis/" />
-    <updated>2026-10-29T01:15:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Dependabot alerts can add up faster than a team can work through them. A vulnerable package in your dependency tree doesn’t always mean your code uses the vulnerable part of it, so knowing whether it…</summary>
   </entry>
 </feed>
