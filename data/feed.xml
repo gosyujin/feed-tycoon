@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-30T14:30:14.592336+09:00</updated>
+  <updated>2026-10-30T14:56:12.271524+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み</title>
+    <id>https://gigazine.net/news/20261030-qwenputer/</id>
+    <link href="https://gigazine.net/news/20261030-qwenputer/" />
+    <updated>2026-10-30T11:56:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIモデルの内部に32bitのRISC-V CPUを組み込み、外部ツールを使わずに計算やプログラムの実行を可能にした実験的なAIモデル「Qwenputer」が公開されました。Qwenputerは既存のAIモデル「Qwen3.5-4B」をベースに開発されており、ニューラルネットワークの内部でCPUやメモリの機能を再現しています。 Qwenputer: a fully f...</summary>
+  </entry>
   <entry>
     <title>14:00-14:30 376-377 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/376-377</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-29T14:54:30+09:00</updated>
     <category term="はてブ IT" />
     <summary>クラシック版「Outlook」＋「Teams」会議の組み合わせに注意、日本語で文字起こしできない可能性／日本マイクロソフトが回避策を案内</summary>
-  </entry>
-  <entry>
-    <title>約19億円相当のAIチップがマレーシアの空港で押収される</title>
-    <id>https://gigazine.net/news/20261029-malaysia-airport-ai-chip/</id>
-    <link href="https://gigazine.net/news/20261029-malaysia-airport-ai-chip/" />
-    <updated>2026-10-29T13:46:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>マレーシア税関当局が、高度なAIチップを搭載したサーバーユニット30台を押収したと発表しました。貨物の輸送を仲介したマレーシア企業が取り調べを受けています。 AI chips worth $12.1 million seized at Malaysia airport, customs authority says | Reuters https://www.reuters.com/world/c…</summary>
   </entry>
 </feed>
