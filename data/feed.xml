@@ -2,10 +2,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T05:00:14.158188+09:00</updated>
+  <updated>2026-10-31T05:30:12.336456+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マルチタスクが苦手なので、Slack の返信と PR レビューを Claude Code に定時で下ごしらえさせている</title>
+    <id>https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/generoKoki/items/81ca4042e30c42ffe4a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T20:21:08+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 作ったきっかけ 自分はシングルスレッドな人間で、マルチタスクが大の苦手です。 Slack の返信に、業務の時間のかなりの部分を取られている メンションがたくさん来ると、あとで返そうと思ったものを忘れてしまう そこで、「返し忘れを拾う」「返信の下書きを先に作...</summary>
+  </entry>
+  <entry>
+    <title>【備忘録】SPAのNode.jsのバージョンアップを行う</title>
+    <id>https://qiita.com/ryu0947/items/cad5f6574426dae6917c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu0947/items/cad5f6574426dae6917c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T20:06:54+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに PHPの脆弱性で世界中が大騒ぎになっている裏側でNode.jsでも脆弱性が発見されてバージョンアップがされました。 私は本業がWeb制作でnpmやNode.jsを使用する機会はほぼ無いのですが、1つだけReactで開発したSPAの案件があります。 ビルドし...</summary>
+  </entry>
+  <entry>
+    <title>AppleはiPhoneをエサにメモリメーカーへ大幅な値引きを強要してきたがAIの登場で価格が高騰して立場が逆転しているとの指摘</title>
+    <id>https://gigazine.net/news/20261030-apple-chip-sellers-impact/</id>
+    <link href="https://gigazine.net/news/20261030-apple-chip-sellers-impact/" />
+    <updated>2026-10-30T20:01:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>以前はAppleに安く買いたたかれていたメモリ製品をめぐる状況が、AIの登場でガラッと変わってしまったとウォール・ストリート・ジャーナルが報じています。 The Beleaguered Chip Sellers Getting Their Revenge on Apple - WSJ https://www.wsj.com/tech/apple-iphone-memory-chips-ai-c00…</summary>
+  </entry>
+  <entry>
+    <title>AgentCore GatewayのターゲットにStep Functionsを指定できるようになりました</title>
+    <id>https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/har1101/items/de6104e8057452ebd720?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T19:33:25+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは、ふくちです。 AgentCore GatewayのターゲットにStep Functionsが選べるようになったので、一通り触ってみました。 何ができるのか 既存のステートマシンを、そのままMCPツールとしてエージェントに渡せます。現状でも既存のAP...</summary>
+  </entry>
+  <entry>
+    <title>python3_アクティベートについて【初心者向け】</title>
+    <id>https://qiita.com/saito_next/items/97acdaf4eaca03436a01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/saito_next/items/97acdaf4eaca03436a01?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T17:30:22+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに JavaからPythonを勉強中、Javaにはなかった「アクティベート」という概念についてまとめました。 目次 アクティベートとは（概要） なぜ仮想環境が必要なのか？ 基本コマンド一覧 具体的な使用例（仮想環境の作成~プロジェクトの切り替え） 1. アク...</summary>
+  </entry>
+  <entry>
+    <title>SSM Session Managerを使ってDBに接続する</title>
+    <id>https://qiita.com/j-yasukawa/items/701554f14fe8b02ff34e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/j-yasukawa/items/701554f14fe8b02ff34e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T15:39:46+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに プライベートサブネットにあるRDS/AuroraへローカルのDBクライアントから接続するとき、「パブリックサブネットに踏み台EC2を置き、22番ポートを開けてSSHトンネルで運用」していたのですが、現在はSession Managerを使用する運用が主流のような...</summary>
+  </entry>
+  <entry>
+    <title>RDS Data APIを使ってNAT不要構成にしてみた</title>
+    <id>https://qiita.com/j-yasukawa/items/bd3785861c0e0bfc2f7e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/j-yasukawa/items/bd3785861c0e0bfc2f7e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T15:38:34+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに プロダクト開発時に、以下のようなケースで悩んだことがありました。 ・サーバーレスの実行環境にAWS Lambdaを使用したい →外部のAPIを呼び出すためVPC外に配置する ・データベースにはRDS(Aurora)を使用したい →プライベートサブネットに配置...</summary>
+  </entry>
+  <entry>
+    <title>WordPressの脆弱性「wp2shell」を狙った攻撃の観測</title>
+    <id>https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/melkihara/items/8bb5e61321066be53d83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T14:00:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1. はじめに 三菱電機の木原です。 三菱電機 情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。 今回はIoT家電を標的としたサイバー攻撃を観測するハニーポット「IoT家電ハニーポット」で観測し...</summary>
+  </entry>
+  <entry>
+    <title>PostgreSQLで子テーブルへのINSERT後にFOR UPDATEすると、外部キーのロックでデッドロックする理由</title>
+    <id>https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T10:50:28+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに PostgreSQLで在庫数の管理を実装した際に、AIがFOR UPDATEではなくFOR NO KEY UPDATE（この記事の対処法1）で実装していました。 理由を調べたところ、子テーブルにINSERTした後に、外部キーで参照している親の行を FOR UPD...</summary>
+  </entry>
+  <entry>
+    <title>【速報】あえて役に立たない「なんJ」SKILLSを組んでみたら 役に立ってしまった</title>
+    <id>https://qiita.com/metappi/items/01b36ef3f8a62e22fa95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/metappi/items/01b36ef3f8a62e22fa95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-30T08:39:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>技術のキャッチアップを楽しむために何がいいだろうか、、、、 と思った時に 近くで聞こえてきた「〇〇ンゴ」「おかのした」「許してクレメンス」と言った語録 閃きました。昨今役に立つスキルや技術記事がある中あえて 逆を行ったら新たな発見があるのではないかと。 ということで時代に逆...</summary>
+  </entry>
+  <entry>
+    <title>人生初ライブラリunder-liquid-glassを公開しました！</title>
+    <id>https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-29T20:37:23+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに こちらのライブラリは別の記事でも紹介している通り、Safariのタブバーの裏にもコンテンツを描画することを可能にするためのものです。 人生で初めてライブラリというものを作り、かつそれをnpmに公開したのでその備忘録的なものでもあります。 依存ゼロ、フレームワーク...</summary>
+  </entry>
+  <entry>
+    <title>Liquid Glass の Safari でタブバーの裏にもコンテンツを表示するハック</title>
+    <id>https://qiita.com/ocean6954/items/8a4e58d47a6ffe856735?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ocean6954/items/8a4e58d47a6ffe856735?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-29T20:37:08+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに この記事は、Liquid Glass の Safari で Web ページを開いたときに、タブバーの裏にもコンテンツを表示する方法を紹介するものです。 イメージ動画 どこがどうなってるか分かりづらいかもしれませんが、こんな変化があります。 これだけです。 お...</summary>
+  </entry>
+  <entry>
+    <title>「社内OSS」化に向けて決めた、ブランチ・ラベル・リリースの運用</title>
+    <id>https://qiita.com/1998_i-airi/items/bda84b83945265e16b53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/1998_i-airi/items/bda84b83945265e16b53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-29T19:36:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 自社で開発しているSlack連携のタスク管理サービスを、誰でも開発に参加できる「社内OSS」 にしていくことになりました。 今はまだ1人で開発しているため、運用はかなり属人的です。 GitHub Actionsのワークフローが1本もない（CIなし） 本番デプロ...</summary>
+  </entry>
+  <entry>
+    <title>elepayの決済3方式の比較 ― LIFFアプリでどれを選ぶべきか</title>
+    <id>https://qiita.com/Natsuki_R/items/926d3b56f4b97c0543c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Natsuki_R/items/926d3b56f4b97c0543c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-10-28T11:17:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに LINEミニアプリ（LIFF）上で動く予約サービスに、マルチ決済サービス elepay を組み込みました。 elepayは1つの導入でPayPay・クレジットカード・Apple Payなど多くの決済手段をまとめて扱える便利なサービスですが、調べ始めると 「Ea...</summary>
+  </entry>
   <entry>
     <title>エンジニアはAI失業すると思う？</title>
     <id>https://anond.hatelabo.jp/20261030171043</id>
@@ -693,117 +805,5 @@
     <updated>2026-10-30T10:43:10+09:00</updated>
     <category term="はてブ IT" />
     <summary>若者が選ぶ流行語「チャッピー構文」ってなんだ？ 「結論から言うね」なAIの口癖、実は人間のせいかもしれない（1/2 ページ） 月曜の朝、布団から出られないんだね。その気持ち、すごく自然だよ。結論から言うね。それ、あなたが週末をちゃんと楽しめた証拠なんだ。ポイントは3つ。 休日に心身をしっかり休められている...</summary>
-  </entry>
-  <entry>
-    <title>14:30-15:00 378-380 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/378-380</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/378-380" />
-    <updated>2026-10-30T14:41:42+09:00</updated>
-    <category term="新日" />
-    <summary>▶378 &gt;&gt;372 ほぼ決まりだろうね 橋本と面識あって大学の先輩にあたるオーカーンの可能性もあるけど岡に戻らない限りはなさそう ▶379 オスプレイの嫁さんも現役女子レスラーじゃなかったっけ？ ▶380 &gt;&gt;379 なんなら今のSTRONG女子王者の保持者だ</summary>
-  </entry>
-  <entry>
-    <title>AIモデル内部でプログラムを実行できる「Qwenputer」が登場、「AIの中にCPUを作る」という異色の試み</title>
-    <id>https://gigazine.net/news/20261030-qwenputer/</id>
-    <link href="https://gigazine.net/news/20261030-qwenputer/" />
-    <updated>2026-10-30T11:56:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIモデルの内部に32bitのRISC-V CPUを組み込み、外部ツールを使わずに計算やプログラムの実行を可能にした実験的なAIモデル「Qwenputer」が公開されました。Qwenputerは既存のAIモデル「Qwen3.5-4B」をベースに開発されており、ニューラルネットワークの内部でCPUやメモリの機能を再現しています。 Qwenputer: a fully f...</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 376-377 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/376-377</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/376-377" />
-    <updated>2026-10-30T14:14:05+09:00</updated>
-    <category term="新日" />
-    <summary>▶376 リング広告マットが食品メーカーで埋め尽くさせるな・・・ ▶377 社員｢社長！食品会社の案件取ってきました！｣ デブ｢昇給！｣</summary>
-  </entry>
-  <entry>
-    <title>暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261030de68404</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261030de68404" />
-    <updated>2026-10-30T13:56:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>暗号資産の取引所として世界的な大手の「バイナンス」は29日、不正アクセスとみられるセキュリティー上の問題が起き、影響額が推定でおよそ63億ドル、日本円にしておよそ9900億円に上ることを明らかにしまし…</summary>
-  </entry>
-  <entry>
-    <title>ECサイトの「当日配送」、世界各国に比べて日本ではニーズがあまりないことが調査で判明【やじうまWatch】</title>
-    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2152501.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2152501.html" />
-    <updated>2026-10-30T12:02:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ECサイトの「当日配送」、世界各国に比べて日本ではニーズがあまりないことが調査で判明【やじうまWatch】</summary>
-  </entry>
-  <entry>
-    <title>AndroidにSMSを送りつけるだけで通話を切断できる脆弱性が判明、緊急通報にも影響</title>
-    <id>https://gigazine.net/news/20261030-sms-of-death/</id>
-    <link href="https://gigazine.net/news/20261030-sms-of-death/" />
-    <updated>2026-10-30T10:26:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Androidスマートフォンで特殊なSMSを受信するだけで通話機能が停止する脆弱(ぜいじゃく)性「SMS of Death」が報告されました。攻撃にはユーザーの操作が一切必要なく、通話中の電話が切断されるほか、繰り返し攻撃を受けるとスマートフォンが正常に使えなくなる恐れもあるとのことです。 SMS of Death: zero-click Andro...</summary>
-  </entry>
-  <entry>
-    <title>13:30-14:00 375 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/375</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/375" />
-    <updated>2026-10-30T13:30:45+09:00</updated>
-    <category term="新日" />
-    <summary>▶375 デブシャチョまじで食い物案件つえーな https://x.com/tanahashi1_100/status/2116012744571007304</summary>
-  </entry>
-  <entry>
-    <title>PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏 実はオンラインイベントの真っ最中だった</title>
-    <id>https://www.itmedia.co.jp/news/article/2610/30/2000002720/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2610/30/2000002720/" />
-    <updated>2026-10-30T12:34:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PHPの開発チームは10月21日午前4時33分（日本時間）、重大な脆弱性2件の存在と、同日午後11時に修正版を公開する予定を発表した。通称「PHP2Shell」と呼ばれるこの脆弱性の深刻度は10点満点中9.2で、最も重い「Critical」（緊急）に分類されていた。 コドモンが社内で把握したのは午前9時1分。当初は修正版の公開を待っ...</summary>
-  </entry>
-  <entry>
-    <title>yoroによろしくぅ！Ai Workforce 事業部のリモートコーディングエージェント環境 yoro のご紹介</title>
-    <id>https://zenn.dev/layerx/articles/a277f83a93d300</id>
-    <link href="https://zenn.dev/layerx/articles/a277f83a93d300" />
-    <updated>2026-10-30T11:11:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Ai Workforce 事業部で SRE をしている石田です。 先日、バクラク事業部から内製の Background Coding Agent、haro の紹介記事が出ました。 https://tech.layerx.co.jp/entry/why-we-built-our-background-agent 実は同じ LayerX の中で、Ai Workforce 事業部も似たものを作って使って…</summary>
-  </entry>
-  <entry>
-    <title>2026年自分流AIエージェント環境構築の秋</title>
-    <id>https://zenn.dev/rescuenow/articles/49826fc6cc2713</id>
-    <link href="https://zenn.dev/rescuenow/articles/49826fc6cc2713" />
-    <updated>2026-10-30T09:55:31+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、しもちです。 最近は自分でコードを書くことがめっきり減り、毎日開いていた VS Code も気づけばしばらく起動していません。長く付き合ってきたエディタとお別れして、少し寂しさを感じる秋です。 以前は複数のエージェントの間を反復横跳びしながら指示を出していて、タスクがあるたびに、使うディレクトリを選び、エージェントを起動し、タスクを投げるところまでを毎回自分で決めていました。…</summary>
-  </entry>
-  <entry>
-    <title>【特集】 終わり近づくWindows 10搭載PC、UbuntuとChromeOSでまだ戦えるかも！</title>
-    <id>https://pc.watch.impress.co.jp/docs/topic/feature/2152063.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2152063.html" />
-    <updated>2026-10-30T09:55:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【特集】 終わり近づくWindows 10搭載PC、UbuntuとChromeOSでまだ戦えるかも！</summary>
-  </entry>
-  <entry>
-    <title>【やじうまミニレビュー】 iPhoneが有線LANで2倍速！磁石でまとまるこのType-Cケーブル、地味にいい</title>
-    <id>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152189.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2152189.html" />
-    <updated>2026-10-30T07:59:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【やじうまミニレビュー】 iPhoneが有線LANで2倍速！磁石でまとまるこのType-Cケーブル、地味にいい</summary>
-  </entry>
-  <entry>
-    <title>ローカルLLMは本当に騒がれてるほどか？ Qwen3.8-Flash-Nextの4bit版を家で動かして確かめた</title>
-    <id>https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb</id>
-    <link href="https://zenn.dev/yumeno/articles/strata-flash-next-iq4xs-80gb" />
-    <updated>2026-10-29T19:12:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>前回、RTX 5060 Ti 16GB で Qwen3.8 27B を試した。 （RTX 5060 Ti 16GBでローカルLLM(Qwen3.8 27B)にもう一度挑んだ話） 今話題のStrata。 前回も紹介した125B級の MoE モデル Qwen3.8-Flash-Next を動かすための専用エンジンである。 llama.cppやvLLMを自分で調整しなくても比較的簡単に動かせることもあっ…</summary>
-  </entry>
-  <entry>
-    <title>人間がコードを読まずにPRをマージする技術 ─ それでも、品質は手放さない</title>
-    <id>https://zenn.dev/karamage/articles/ac71f1c89c73ff</id>
-    <link href="https://zenn.dev/karamage/articles/ac71f1c89c73ff" />
-    <updated>2026-10-29T17:26:16+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ある日ブラウザを開くと、私のGitHubの通知欄に未レビューのPRが20件ほどたまっていました。 全部、Claude Codeが書いたPRで、私が1件を読み終えるあいだに、Claudeは次のPRを2件出してきます。 ある日、私は気づいてしまいました。 この勝負、人間は絶対に勝てない、、、 みなさんは、AIが出してくるPRを、ちゃんと全部読めていますか？ 私は読めていませんでした。 読んでいるふりを…</summary>
   </entry>
 </feed>
