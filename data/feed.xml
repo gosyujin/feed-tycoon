@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T04:30:14.449188+09:00</updated>
+  <updated>2026-10-31T05:00:14.158188+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>エンジニアはAI失業すると思う？</title>
+    <id>https://anond.hatelabo.jp/20261030171043</id>
+    <link href="https://anond.hatelabo.jp/20261030171043" />
+    <updated>2026-10-30T17:24:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>安野さんがAI失業について政府に提言を出すなど、本格的に動き出して怖い。自分は27卒で大手SIerにエンジニアとして内定をもらったんだけど、今後食いっぱぐれるのではないのかと不安。多分SIerは無くならないと思ってるけど、そこで働く従業員は要らなくなってしまうのでは。 面接でこの話をした際は内定をもらった会社...</summary>
+  </entry>
   <entry>
     <title>03:00-03:30 462-463 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/462-463</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-29T17:26:16+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>ある日ブラウザを開くと、私のGitHubの通知欄に未レビューのPRが20件ほどたまっていました。 全部、Claude Codeが書いたPRで、私が1件を読み終えるあいだに、Claudeは次のPRを2件出してきます。 ある日、私は気づいてしまいました。 この勝負、人間は絶対に勝てない、、、 みなさんは、AIが出してくるPRを、ちゃんと全部読めていますか？ 私は読めていませんでした。 読んでいるふりを…</summary>
-  </entry>
-  <entry>
-    <title>ViewModelのありがたみを改めて考えてみる</title>
-    <id>https://zenn.dev/schottman13/articles/4471c3657715f2</id>
-    <link href="https://zenn.dev/schottman13/articles/4471c3657715f2" />
-    <updated>2026-10-29T15:10:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>実務では React や Flutter（Riverpod）で ViewModel に触れてきました。 ただ、自分の中では「ViewModel は View の状態を分離したもの。ViewModel があるおかげで、View は画面の描画に集中できる」くらいの理解で止まっていました。 「ViewModel が無かったら困る」と頭では思っていても、ViewModel が無いコードが実際にどうなるのか…</summary>
   </entry>
 </feed>
