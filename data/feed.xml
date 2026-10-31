@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-01T06:00:13.272850+09:00</updated>
+  <updated>2026-11-01T06:30:12.757865+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title>
+    <id>https://zenn.dev/kauche/articles/f3736c660aab77</id>
+    <link href="https://zenn.dev/kauche/articles/f3736c660aab77" />
+    <updated>2026-11-01T00:02:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026...</summary>
+  </entry>
   <entry>
     <title>05:30-06:00 567 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/567</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-30T20:48:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026-10-30 時点の情報。Ubuntu と RHEL はまだ修正版を出していない途中なので、このあと状況は変わるかも。 はじめに X で CVE-2026-98432 に関する情報が話題になっていたので調べてみることにした。Linux カーネルの脆弱性で、直したのは kfree() を kfree_rcu() に替える 2 行。原因の変更は 2015 年なので、11 年...</summary>
-  </entry>
-  <entry>
-    <title>OpenAI CEOが個人PCにメモリを積むのは「かなりひどい」と発言。DRAMはクラウドに集約すべきと主張</title>
-    <id>https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/</id>
-    <link href="https://gazlog.jp/entry/open-ai-ceo-memory-should-go-to-dc/" />
-    <updated>2026-10-31T11:56:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>メモリ不足が続く中、OpenAIのSam Altman CEOが、DRAMを誰もが自分のPCに積んでおくのは「かなりひどい」と語りました。PCではDRAMがほとんど活用されておらず、クラウドに集めて使い切る方が良いという背景のようです。 AIをPCで動かしたい人は多いが、DRAMはクラウドに集めるべきとAltman氏 AIデータセンター向けの需...</summary>
   </entry>
 </feed>
