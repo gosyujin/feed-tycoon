@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T16:00:21.136447+09:00</updated>
+  <updated>2026-10-31T16:30:13.334002+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Mackerelのログ機能を正式リリースします——熟練者の知見を、チームの力に - Mackerel ブログ #mackerelio</title>
+    <id>https://mackerel.io/ja/blog/entry/announcement/log-ga-release</id>
+    <link href="https://mackerel.io/ja/blog/entry/announcement/log-ga-release" />
+    <updated>2026-10-30T15:39:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月1日（日）、Mackerelのログ機能を正式リリースします。Mackerelのログ機能は、サービス単位でログを検索し、調査に使った検索条件をチームで共有できる機能です。β期間中にご利用いただき、フィードバックをお寄せくださったみなさま、ありがとうございます。 「熟練者の知見を、チームの力に」という開発コン...</summary>
+  </entry>
   <entry>
     <title>15:30-16:00 502-505 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/502-505</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-30T18:44:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>NVIDIA、40言語対応の無償文字起こしAI「Nemotron 3.5 Transcribe」</summary>
-  </entry>
-  <entry>
-    <title>ERROR ログ1行から障害の一次対応を下準備する Claude Code スキルを作った - RAKUS Developers Blog | ラクス エンジニアブログ</title>
-    <id>https://tech-blog.rakus.co.jp/entry/20261030/errorlog</id>
-    <link href="https://tech-blog.rakus.co.jp/entry/20261030/errorlog" />
-    <updated>2026-10-30T15:33:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽楽請求の開発チームに所属している takayama です。 本番環境で ERROR ログのアラートが届いたとき、最初の時間を何に使っていますか。 私は、過去の Issue を探したり、障害対応シートに情報を書き写したりする作業に、その時間の多くを使っていました。 そこで、ERROR ログを1行渡すだけで一次対応の下準備をしてく...</summary>
   </entry>
 </feed>
