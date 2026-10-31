@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T21:00:13.898847+09:00</updated>
+  <updated>2026-10-31T21:30:18.260461+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>21:00-21:30 542-546 (5件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/542-546</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/542-546" />
+    <updated>2026-10-31T21:26:03+09:00</updated>
+    <category term="新日" />
+    <summary>▶542 うえ村、海野とタッグ組んでもなにもなかったのに大岩とのお揃いTシャツは作るんか ▶543 内藤きたぞ ▶544 &gt;&gt;543 コッチの人は誰一人内藤には興味ない ▶545 むしろ内藤に興味ない人はいない ▶546 内藤について語るならノアスレで プロレスリング・ノア総合本スレPart253 https://medaka.5ch.io/test/read.cgi/wres/179318911…</summary>
+  </entry>
+  <entry>
+    <title>FlutterKaigi 2026 で生字幕を映像に載せて会場スクリーンに投影しました</title>
+    <id>https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae</id>
+    <link href="https://zenn.dev/hiro_pon/articles/2f3b68ec60ddae" />
+    <updated>2026-10-31T15:40:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自動翻訳字幕 取り急ぎ、問い合わせが多かったので書きました。不足分は徐々にアップデートします。 FlutterKaigi 2026（2026-10-29・30）では、登壇者の話をその場で文字起こし・翻訳して、スライドとカメラを合成した映像に字幕として焼き込みました。英語のセッションには日本語の字幕、日本語のセッションには英語の字幕が出ます。 実際の字幕はこちらからご確認いただけます。 この記事では…</summary>
+  </entry>
+  <entry>
+    <title>【最速解説】goda.vimでHello, worldする</title>
+    <id>https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim</id>
+    <link href="https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim" />
+    <updated>2026-10-31T10:57:43+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>トリックオアトリート！ お菓子をくれなきゃあなたを今後Vim/Neovim/Emacsしか使えない体にします。こまもかです。 今週から一段と冷えこんできたこの頃ですが、こんな寒い季節は家に籠ってdotfilesを整備するのが相場と決まっています。 という訳で、Shougoさんの新作goda.vimを使ってHello, worldする方法を解説していきます。 goda.vimを簡単に解説すると、Go…</summary>
+  </entry>
+  <entry>
+    <title>【Apple Vision Pro】Immersive Spaceを閉じた後のonDisappear、シミュレーターと実機で桁違いだった件</title>
+    <id>https://zenn.dev/mrs1669/articles/20261031_visionos-dismiss-immersive-space</id>
+    <link href="https://zenn.dev/mrs1669/articles/20261031_visionos-dismiss-immersive-space" />
+    <updated>2026-10-31T06:19:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事のまとめ 実機では、dismissImmersiveSpace() の await は、シーンの切り離しと中のビューの onDisappear が済んでから返る（呼んでから約 430 ms） 処理の重い Immersive Space だと、シミュレーターでだけ onDisappear が await より 370〜780 ms 遅れる。実機では 3〜6 ms タイミングは実機で測ろう…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）</title>
+    <id>https://zenn.dev/sonsu/articles/67fbd9a1cf8914</id>
+    <link href="https://zenn.dev/sonsu/articles/67fbd9a1cf8914" />
+    <updated>2026-10-31T03:30:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026年10月29日、Claude Code 拡張機能の悪意あるバージョン（2.1.312 と 2.1.313）が Cursor の拡張機能マーケットプレイスに公開され、約11時間にわたって配布されました。このバージョンをインストールすると、攻撃者が SSH で PC に接続できるように設定が変更されます。この記事では、何が起きたのかを整理したうえで、自分が該当するかどうかの確認方法と、該当した…</summary>
+  </entry>
+  <entry>
+    <title>NoSQLのスキーマ変更は読むときに受け止めよう</title>
+    <id>https://zenn.dev/michiharu/articles/9562dfd249c8e3</id>
+    <link href="https://zenn.dev/michiharu/articles/9562dfd249c8e3" />
+    <updated>2026-10-31T01:53:51+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>開発をしていれば最初に決めたスキーマを後から変更したくなるのはあるあるですよね。 今回はNoSQL系のデータベースで使えるスキーマ変更のテクニックを紹介します。 DynamoDB Firestore MongoDB etc.. これらはスキーマレスなので、新しいコードは新しい形で書き込めば動きます。問題はすでに保存されている古い形のデータです。 データにスキーマバージョンを持たせて、読むときに古い…</summary>
+  </entry>
   <entry>
     <title>20:30-21:00 538-541 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/538-541</id>
@@ -757,53 +805,5 @@
     <updated>2026-10-30T19:18:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>https://dhc-corporate.co.jp/cms_dH8vjpRq/wp-content/uploads/2026/10/0deb6f2426f1d5ab2b2b1824288b374d.pdf</summary>
-  </entry>
-  <entry>
-    <title>06:30-07:00 465 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/465</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/465" />
-    <updated>2026-10-31T06:52:00+09:00</updated>
-    <category term="新日" />
-    <summary>▶465 マルティナ夫人は蝶野を最初こそ誰だコイツは状態だったけど 蝶野が持ってた日本に置いてきた彼女の写真を見てしまって ちょっとずつ嫉妬心が芽生えて一時帰国したあと カナダにいる蝶野を追いかけるまでに燃え上がってしまったんだな</summary>
-  </entry>
-  <entry>
-    <title>推定1兆円相当のBinanceの不正出金事案についてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/10/30/230303</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/10/30/230303" />
-    <updated>2026-10-31T00:04:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月30日、Binanceは、不正な出金トランザクションが送信されたとして、原因の初期調査の結果と対応を公表しました。ここでは関連する情報をまとめます。 資金流出の経緯 Binanceは10月29日21時15分(UTC。以下、時刻は特記のない限りUTC)、公式Xで潜在的なセキュリティ問題の報告を把握して調査中と投稿した。初報...</summary>
-  </entry>
-  <entry>
-    <title>Spotify、AIでカバー曲作成可能に 収益は原曲アーティストに還元 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOGR308WY0Q6A031C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGR308WY0Q6A031C2000000/" />
-    <updated>2026-10-30T21:18:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【ロンドン=藤生貴子】スウェーデンの音楽配信大手スポティファイは、2027年初めに利用者が生成AI（人工知能）を使って楽曲を編集できるサービスを始める。同社が原曲のアーティストに収益還元する仕組みも整えるとしている。英フィナンシャル・タイムズ（FT）によると、27年1〜3月に新サービスの提供を目指している。有...</summary>
-  </entry>
-  <entry>
-    <title>CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新)｜zephel01</title>
-    <id>https://note.com/zephel01/n/n4637423e080b</id>
-    <link href="https://note.com/zephel01/n/n4637423e080b" />
-    <updated>2026-10-30T10:31:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>CVE-2026-98432は「待ち受けに届くか」で決まる——OSとクラウドごとの対応状況と、修正版を待つ間にやること(更新) 【更新履歴】 ・10月30日 13時半：Goのセキュリティチームの告知を反映した。Goで書いたサーバーでMPTCPを止める方法と、「バグ自体はMPTCP固有ではない」という見解を、対策5などに加えた ・10月30日 12...</summary>
-  </entry>
-  <entry>
-    <title>05:30-06:00 464 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/464</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/464" />
-    <updated>2026-10-31T05:55:52+09:00</updated>
-    <category term="新日" />
-    <summary>▶464 ブック発言だの普通に名誉毀損になりそーだと思うんだよな そろそろ犯罪発言やめとけよガイジ🤔</summary>
-  </entry>
-  <entry>
-    <title>Gemini Notebook、無料で数百冊の教科書にアクセス可能に 米国・インドの出版社提供 日本でも利用可</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2610/30/2000002760/" />
-    <updated>2026-10-30T17:24:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>数百冊の教科書に「Gemini Notebook」内で無料でアクセスできるように――米Googleは10月29日（現地時間）、このような新機能を発表した。ユーザーは米国とインドのプロバイダーが提供する教科書をGemini Notebookの「ソース」として追加できるようになる。ITmedia AI＋編集部の環境で確認したところ、日本からも利用できた。</summary>
   </entry>
 </feed>
