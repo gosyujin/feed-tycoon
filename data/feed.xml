@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T13:30:13.150080+09:00</updated>
+  <updated>2026-10-31T14:00:12.977109+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>もう無理｜ひでと</title>
+    <id>https://note.com/happy_dahlia405/n/n1b16c06e71e6</id>
+    <link href="https://note.com/happy_dahlia405/n/n1b16c06e71e6" />
+    <updated>2026-10-31T10:30:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに精神的にもう無理、というときに開くためのWebページを作りました。 https://ogawahideto.github.io/genai/genkai/ Claude Code（Claude Opus 5.5）に頼んだときのプロンプトはこれです。 精神的に無理な時に見るサイトを作ってください。簡単に理解を示したら請けいられるとか、安易なやさしい言葉はやめてくだ...</summary>
+  </entry>
+  <entry>
+    <title>AIに性格診断をやらせてみたところ言語を切り替えると結果が変わることが判明</title>
+    <id>https://gigazine.net/news/20261031-ai-personality-profile-language-bias/</id>
+    <link href="https://gigazine.net/news/20261031-ai-personality-profile-language-bias/" />
+    <updated>2026-10-31T08:04:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>一口にAIといってもその性能は千差万別です。中国科学技術大学の実験では、AIの「性格」もそれぞれバラバラであることが分かった一方で、この結果は回答に使う言語によって変わることも明らかになりました。 Cultural bias or universal traits? Exploring personality-like profiles of large language models | Roy…</summary>
+  </entry>
+  <entry>
+    <title>人間と区別できないほど自然に会話できる音声AI「Prism」が登場、発言内容を事前確認できる仕組みを搭載</title>
+    <id>https://gigazine.net/news/20261030-prism/</id>
+    <link href="https://gigazine.net/news/20261030-prism/" />
+    <updated>2026-10-30T22:16:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>音声AIを開発するRimeが2026年10月28日に新たな音声会話AI「Prism」を発表しました。Prismは人間のように相手の話を聞きながら自然な会話ができるとされています。 Prism: Speech-to-speech for enterprise | Rime https://www.rime.ai/resources/prism-first-speech-to-speech-for-e…</summary>
+  </entry>
+  <entry>
+    <title>FPSゲーム『DOOM』の世界そのものをAIの頭脳にして手書き数字の認識や文章生成まで実現してしまう「Doomformer」</title>
+    <id>https://gigazine.net/news/20261030-doomformer/</id>
+    <link href="https://gigazine.net/news/20261030-doomformer/" />
+    <updated>2026-10-30T19:21:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>FPSゲームの金字塔である『DOOM』のゲーム内ギミックを利用してニューラルネットワークの計算を実行するプロジェクト「Doomformer」が公開されました。大量のプレイヤーの分身や床の高さ、照明の明るさなどを計算に利用することで、手書き数字の認識や文章生成、AIによるゲームの操作まで実現しています。 DOOMFORMER: i...</summary>
+  </entry>
   <entry>
     <title>トヨタ×ウェイモの無人タクシーには思わぬ壁がある？ 自動運転の最大の壁は「技術」じゃない!? - 自動車情報誌「ベストカー」</title>
     <id>https://bestcarweb.jp/feature/column/1666737</id>
@@ -610,9 +642,9 @@
     <title>今後のセキュリティの考え方</title>
     <id>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</id>
     <link href="https://zenn.dev/cscloud_blog/articles/a987163efae5d8" />
-    <updated>2026-10-30T19:30:27+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後のセキュリティの考え方について、改めて書いてみます。 特に AWS 環境の話をしていきますが、すべて…</summary>
+    <updated>2026-10-30T20:11:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後...</summary>
   </entry>
   <entry>
     <title>Security notice — malicious version of Anthropic.claude-code (2.1.313) identified in the Cursor Extension Marketplace · Cursor</title>
@@ -746,9 +778,9 @@
     <title>IVRyのSREの取り組み 2026冬</title>
     <id>https://zenn.dev/ivry/articles/70d4f05ce4ae5c</id>
     <link href="https://zenn.dev/ivry/articles/70d4f05ce4ae5c" />
-    <updated>2026-10-30T16:50:00+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。IVRyでSREをしている渡部です。2024年の秋に入社してから、気づけば2年が経ちました。前回の記事では肉うどんとコーヒーにハマっていると書きましたが、もうどちらも飽きました。マイブームは東京巡りです。埼玉へ引っ越してきて東京の色々なところを巡っています。 https://ryuichi1208.hateblo.jp/entry/2026/10/07/095532 本記事は『IVRy…</summary>
+    <updated>2026-10-30T20:52:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。IVRyでSREをしている渡部です。2024年の秋に入社してから、気づけば2年が経ちました。前回の記事では肉うどんとコーヒーにハマっていると書きましたが、もうどちらも飽きました。マイブームは東京巡りです。埼玉へ引っ越してきて東京の色々なところを巡っています。 本記事は『IVRyのSREの取り組み 2025冬』...</summary>
   </entry>
   <entry>
     <title>6カ所以上のアメリカ軍基地で食品を腐敗させた「謎の冷凍庫の故障」にサイバー攻撃の疑いあり、国防総省がフランス当局と協力して捜査中</title>
@@ -773,37 +805,5 @@
     <updated>2026-10-30T09:45:50+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうするかです。wasmそのものはこうした機能を持っていないので、外か…</summary>
-  </entry>
-  <entry>
-    <title>デバッグコードを脆弱性にしない方法</title>
-    <id>https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7</id>
-    <link href="https://zenn.dev/yasuakiomokawa/articles/5a7188483acfe7" />
-    <updated>2026-10-29T20:30:33+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>サマリー デバッグAPIを本番にビルドしない構成にすることで、安全と利便性を両立させました。構成要素は以下のとおりです： 本番のコードは、自分が本番かどうかを知りません。環境変数で振る舞いを変える分岐を持ちません 本番は開発用のディレクトリを取り除いたソースツリーから build します。本番のコードが開発用のコードを import すると、build が止まります 開発用のエントリーポイント (…</summary>
-  </entry>
-  <entry>
-    <title>なぜエンジニアは「具体」に縛られるのか。細谷功さん×ミノ駆動さんが語る、抽象化スキルの磨き方 - レバテックLAB</title>
-    <id>https://levtech.jp/media/detail_954/</id>
-    <link href="https://levtech.jp/media/detail_954/" />
-    <updated>2026-10-28T11:17:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>新しい手法やツールが次々に登場し、開発のスピードがかつてなく上がる一方で、開発現場から消えないすれ違いがあります。それは、ビジネス側の「抽象的な要望」と、開発側の「具体的な実装」が噛み合わないということです。 2026年8月27日開催のイベント「【細谷功さん×ミノ駆動さんが語る】システム開発と『具体と抽象...</summary>
-  </entry>
-  <entry>
-    <title>20:00-20:30 412-420 (9件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/412-420</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/412-420" />
-    <updated>2026-10-30T20:28:11+09:00</updated>
-    <category term="新日" />
-    <summary>▶412 なんか成田に指輪外した跡があるとかなんとかあったけど結婚ガチなんか？ ▶413 みょんみょんとか、ニャーオとかアホか？ 闘いを魅せろよ、お笑いマンガ道場かよっ！ ▶414 確かに成田は結婚したよ ▶415 東女って基本鎖国体制だから、他団体と絡まないんじゃないの?(ビッグマッチ以外) 鷹ぽいVS TAKESHITA＆坂崎のタッグ ▶416 &gt;&gt;382 大岩のグッズ意外といいデザインの多い…</summary>
-  </entry>
-  <entry>
-    <title>19:30-20:00 411 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/411</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/411" />
-    <updated>2026-10-30T19:42:14+09:00</updated>
-    <category term="新日" />
-    <summary>▶411 &gt;&gt;381 本当の成田蓮もヤングライオンの時に既に結婚して子供もいるのはここだけの話</summary>
   </entry>
 </feed>
