@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T19:30:14.407400+09:00</updated>
+  <updated>2026-10-31T20:00:17.584260+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>19:30-20:00 528-532 (5件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/528-532</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/528-532" />
+    <updated>2026-10-31T19:58:37+09:00</updated>
+    <category term="新日" />
+    <summary>▶528 &gt;&gt;522 ワトサンはヒールやらせても半端になりそうな感があるな マッチメイカー気取る訳じゃないけど、本人を活躍させるにはどうしたらいいんだろう… ▶529 デスペと組んだ時はいけそうな雰囲気あったしワトがジュニアの次期エースになるんだっていう 空気ができつつあったんだが怪我して復帰してからいまいち跳ねなかった上に藤田が出てきちゃったからなぁ タッグ路線もパートナーがデスペとYOHとKU…</summary>
+  </entry>
+  <entry>
+    <title>OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る | テクノエッジ TechnoEdge</title>
+    <id>https://www.techno-edge.net/article/2026/10/31/5657.html</id>
+    <link href="https://www.techno-edge.net/article/2026/10/31/5657.html" />
+    <updated>2026-10-31T16:41:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ガジェット全般、サイエンス、宇宙、音楽、モータースポーツetc... 電気・ネットワーク技術者。実績媒体Engadget日本版, Autoblog日本版, Forbes JAPAN他 OpenAIのサム・アルトマンCEOは、米決済大手Stripeの共同創業者ジョン・コリソン氏のポッドキャスト番組に出演した際に「個人のPCに大量のDRAMを保有させることには...</summary>
+  </entry>
+  <entry>
+    <title>npm ci 時に常に npm audit signatures をする - プププなテクブ</title>
+    <id>https://blog.inorinrinrin.com/entry/dd84836d-72cc-2616-9c64-45a9ac6c425b</id>
+    <link href="https://blog.inorinrinrin.com/entry/dd84836d-72cc-2616-9c64-45a9ac6c425b" />
+    <updated>2026-10-31T15:46:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近 npm init したあとにまずやっていることがあります。それは ci:audit という npm script を用意することです。内容は次の通りです。 "ci:audit": "npm ci --ignore-scripts &amp;&amp; npm audit signatures &amp;&amp; npm rebuild" これを用意したうえで、CI ではすべて ci:audit を使って install…</summary>
+  </entry>
   <entry>
     <title>19:00-19:30 526-527 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/526-527</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-30T14:00:30+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>1. はじめに 三菱電機の木原です。 三菱電機 情報技術総合研究所では、製品開発時のセキュリティ対策にフィードバックする目的で、複数種類のハニーポットを設置・運用しています。 今回はIoT家電を標的としたサイバー攻撃を観測するハニーポット「IoT家電ハニーポット」で観測し...</summary>
-  </entry>
-  <entry>
-    <title>PostgreSQLで子テーブルへのINSERT後にFOR UPDATEすると、外部キーのロックでデッドロックする理由</title>
-    <id>https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shusaku009/items/eb96123c2a0a9008c431?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-30T10:50:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに PostgreSQLで在庫数の管理を実装した際に、AIがFOR UPDATEではなくFOR NO KEY UPDATE（この記事の対処法1）で実装していました。 理由を調べたところ、子テーブルにINSERTした後に、外部キーで参照している親の行を FOR UPD...</summary>
-  </entry>
-  <entry>
-    <title>【速報】あえて役に立たない「なんJ」SKILLSを組んでみたら 役に立ってしまった</title>
-    <id>https://qiita.com/metappi/items/01b36ef3f8a62e22fa95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/metappi/items/01b36ef3f8a62e22fa95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-30T08:39:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>技術のキャッチアップを楽しむために何がいいだろうか、、、、 と思った時に 近くで聞こえてきた「〇〇ンゴ」「おかのした」「許してクレメンス」と言った語録 閃きました。昨今役に立つスキルや技術記事がある中あえて 逆を行ったら新たな発見があるのではないかと。 ということで時代に逆...</summary>
-  </entry>
-  <entry>
-    <title>人生初ライブラリunder-liquid-glassを公開しました！</title>
-    <id>https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ocean6954/items/3e826fbb5b26aedbc887?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-29T20:37:23+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに こちらのライブラリは別の記事でも紹介している通り、Safariのタブバーの裏にもコンテンツを描画することを可能にするためのものです。 人生で初めてライブラリというものを作り、かつそれをnpmに公開したのでその備忘録的なものでもあります。 依存ゼロ、フレームワーク...</summary>
   </entry>
 </feed>
