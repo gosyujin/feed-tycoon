@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-10-31T08:30:12.103877+09:00</updated>
+  <updated>2026-10-31T09:00:11.471650+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>08:00-08:30 468-469 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/468-469</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/468-469" />
+    <updated>2026-10-31T08:23:29+09:00</updated>
+    <category term="新日" />
+    <summary>▶468 正直このシリーズのティタンとニックウェインはどう考えたって無駄遣いだと思う。 ▶469 &gt;&gt;468 タッグリーグ自体無駄だと思ってるので大盤振る舞いで良いもん見せてもらってるなーとありがたく感じてる。</summary>
+  </entry>
+  <entry>
+    <title>GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について | ActiveTK's Note</title>
+    <id>https://note.activetk.jp/hacks/onamae-desktop-cloud-v3</id>
+    <link href="https://note.activetk.jp/hacks/onamae-desktop-cloud-v3" />
+    <updated>2026-10-31T07:33:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GMO不正アクセスの件で見つけた不審なXアカウントと「被害者フォーラム」について解説しました。</summary>
+  </entry>
+  <entry>
+    <title>RDPとターミナルサーバーの思い出 - Nothing ventured, nothing gained.</title>
+    <id>https://takoratta.hatenablog.com/entry/rememberrdp</id>
+    <link href="https://takoratta.hatenablog.com/entry/rememberrdp" />
+    <updated>2026-10-30T19:00:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GMOインターネットの「お名前.comデスクトップクラウド」で不正アクセスがあった。WindowsのVPSで、FXの自動売買などに使う人が多いサービスだそうだ。そのニュースを追っていたら、RDPという名前が出てきた。リモートデスクトップのドライブ共有を使って利用者のPCからデータを抜いた、と攻撃者が主張しているらしい。G...</summary>
+  </entry>
   <entry>
     <title>小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止：朝日新聞</title>
     <id>https://www.asahi.com/articles/ASVBZ2WFHVBZUTIL023M.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-30T09:45:17+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトルは 『財源幻想とおもてなし圧力の罠 : Pythonで学ぶマクロ経済学入門 Podcast 38』 です。 （なお、動画内で取り上げられている元ネタの原...</summary>
-  </entry>
-  <entry>
-    <title>macOS のキーチェーンで ~/.zshrc に平文で書いた認証情報を撲滅しよう</title>
-    <id>https://qiita.com/megmogmog1965/items/0538e79c2077fcbd5b2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/megmogmog1965/items/0538e79c2077fcbd5b2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-30T09:26:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 本記事では、~/.zshrc に直書きしたトークンや API キーを macOS のキーチェーンに移し、シェルの起動時に取り出す方法を紹介します。 要点は、次の1行の置き換えです。.zshrc には値を書かず、キーチェーンから値を取り出すコマンドを書きます。 ...</summary>
-  </entry>
-  <entry>
-    <title>忙しい人のための #GitHubUniverse 2026 新発表まとめ[簡易版]</title>
-    <id>https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/chomado/items/ce32e402cc4f14145a6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-30T05:00:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>サンフランシスコにて、GitHub 公式カンファレンス GitHub Universe が今年も開催されています！(oct27 - 30) 大きなメッセージとしては 「AI にコードを書いてもらう」から、 「複数のAIエージェントに開発全体を任せ、完成まで進める」 へ...</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントの承認スキップが怖いので、Docker Sandboxes(sbx)で隔離して安全に動かしてみた【Antigravity CLI】</title>
-    <id>https://qiita.com/na-tamura/items/193338c0a9154b01255f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/na-tamura/items/193338c0a9154b01255f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-29T23:57:46+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AIエージェントにちょっと長めのタスクを任せたいとき、承認ボタンを何度も押すのが地味につらくなってきます。夜に投げて、朝に結果だけ見たい、そう思う瞬間はありませんか？ そこで出てくるのが --dangerously-skip-permissions のような「承...</summary>
   </entry>
 </feed>
