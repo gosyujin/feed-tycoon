@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-01T06:30:12.757865+09:00</updated>
+  <updated>2026-11-01T07:00:12.881766+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>06:00-06:30 568 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/568</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/568" />
+    <updated>2026-11-01T06:23:19+09:00</updated>
+    <category term="新日" />
+    <summary>▶568 ワトはまだ20代だろ デスペとかYOHとか見てたらまだ全然時間ある</summary>
+  </entry>
+  <entry>
+    <title>These hidden Windows services are hogging your CPU (and how to shut them down)</title>
+    <id>https://www.makeuseof.com/windows-services-hogging-cpu/</id>
+    <link href="https://www.makeuseof.com/windows-services-hogging-cpu/" />
+    <updated>2026-10-31T21:12:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Yadullah Abidi is a Computer Science graduate from the University of Delhi and holds a postgraduate degree in Journalism from the Asian College of Journalism, Chennai. With over a decade of experience…</summary>
+  </entry>
+  <entry>
+    <title>WASIじゃない、もう一つのインターフェース「WALI」という提案</title>
+    <id>https://zenn.dev/progate/articles/wali-webassembly-linux-interface</id>
+    <link href="https://zenn.dev/progate/articles/wali-webassembly-linux-interface" />
+    <updated>2026-10-30T10:14:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうする...</summary>
+  </entry>
   <entry>
     <title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title>
     <id>https://zenn.dev/kauche/articles/f3736c660aab77</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-30T15:39:34+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026年11月1日（日）、Mackerelのログ機能を正式リリースします。Mackerelのログ機能は、サービス単位でログを検索し、調査に使った検索条件をチームで共有できる機能です。β期間中にご利用いただき、フィードバックをお寄せくださったみなさま、ありがとうございます。 「熟練者の知見を、チームの力に」という開発コン...</summary>
-  </entry>
-  <entry>
-    <title>15:30-16:00 502-505 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/502-505</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/502-505" />
-    <updated>2026-10-31T15:57:42+09:00</updated>
-    <category term="新日" />
-    <summary>▶502 第4試合の本隊のあからさまなカースト分けが酷いな ▶503 &gt;&gt;501 BUSHIがソンブラから取られた ▶504 元祖ロスインゴが勝ったか ▶505 &gt;&gt;503 どうもありがとう まあそうなるよな言う結果ですね</summary>
-  </entry>
-  <entry>
-    <title>15:00-15:30 499-501 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/499-501</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/499-501" />
-    <updated>2026-10-31T15:18:44+09:00</updated>
-    <category term="新日" />
-    <summary>▶499 ？ ▶500 やめたまえ ▶501 内藤武士vsアントラデ ヘナレの結果どうなったんだ</summary>
-  </entry>
-  <entry>
-    <title>CVE-2026-98432 について調べてみた — 11 年潜んでいた Linux の TCP の脆弱性と2行の修正</title>
-    <id>https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf</id>
-    <link href="https://zenn.dev/pollenjp/articles/2026-10-29-linux-tcp-ip-options-uaf" />
-    <updated>2026-10-30T20:48:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026-10-30 時点の情報。Ubuntu と RHEL はまだ修正版を出していない途中なので、このあと状況は変わるかも。 はじめに X で CVE-2026-98432 に関する情報が話題になっていたので調べてみることにした。Linux カーネルの脆弱性で、直したのは kfree() を kfree_rcu() に替える 2 行。原因の変更は 2015 年なので、11 年...</summary>
   </entry>
 </feed>
