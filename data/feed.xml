@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-02T00:00:14.491268+09:00</updated>
+  <updated>2026-11-02T00:30:12.645427+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>23:30-00:00 762 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/762</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/762" />
+    <updated>2026-11-01T23:34:37+09:00</updated>
+    <category term="新日" />
+    <summary>▶762 &gt;&gt;761 解説がいいってのは言語化の習慣があるってことで 日々色んなことを口に出してみるタイプなんだと思う だからSNSに出すと失敗も多い まぁ言語化の練習は裏垢使えって話だけどな</summary>
+  </entry>
+  <entry>
+    <title>Wikipediaの編集者はどのようにしてAI生成テキストを見つけて除外しているのか？</title>
+    <id>https://gigazine.net/news/20261101-wikipedia-ai-content/</id>
+    <link href="https://gigazine.net/news/20261101-wikipedia-ai-content/" />
+    <updated>2026-11-01T19:19:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>あらゆるプラットフォームにAI生成テキストがあふれている中で、WikipediaではAIに記事本文を生成させたり書き換えさせたりすることを原則禁じるガイドラインが設定されています。そのガイドラインに違反するコンテンツを見つけて削除することを目的としたボランティア活動「WikiProject AI Cleanup」の創設メンバーが、...</summary>
+  </entry>
+  <entry>
+    <title>PHPショック、システム即停止は「やや過剰反応」 理解なき運用がリスクに</title>
+    <id>https://business.nikkei.com/atcl/gen/19/00304/102200276/</id>
+    <link href="https://business.nikkei.com/atcl/gen/19/00304/102200276/" />
+    <updated>2026-10-24T14:02:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>プログラミング言語「PHP」に深刻な脆弱性が見つかった問題は、日本の政府機関や多くの民間企業がシステムやサービスの提供を一時制限するなどの事態につながった。一方、同様の事態に直面しても、米国ではサイトを継続する企業は多かったとされる。今後も増えるであろうサイバー攻撃に対して、企業が取るべき適切な対応...</summary>
+  </entry>
   <entry>
     <title>GitHub、「Copilot Fusion」正式リリース。タスクに応じて最適なAIモデル選択で高性能かつ低コストに。GitHub Universe 2026</title>
     <id>https://www.publickey1.jp/blog/26/githubcopilot_fusionaigithub_universe_2026.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-10-31T11:00:50+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>TL;DR 統合リポの下に 5 つのサブリポがある構成で、案件で触るリポごとに Claude Code のセッションを 1 つずつ並べて開発しています。たとえば最近の案件では、統合リポと 3 つのサブリポを触ったので 4 セッションでした。インフラ（Terraform）...</summary>
-  </entry>
-  <entry>
-    <title>C++とも競えるプログラミング言語 Fix が yukicoder で使えるようになりました（性能比較あり）</title>
-    <id>https://qiita.com/tttmmmyyyy/items/6c3ca62c1c9c2b419e7c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tttmmmyyyy/items/6c3ca62c1c9c2b419e7c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-31T09:42:37+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>概要 シンプルで高速な純粋関数型プログラミング言語 Fix を作っています。 AtCoder に続き、yukicoder にもFixを導入していただいたので、何か紹介記事を書こうかなー、と思っていたところで、 ある言語が「C++より速い」と話題になっていたので、便乗して、...</summary>
-  </entry>
-  <entry>
-    <title>OpenHandsのDockerポート公開、全インターフェースに出る症状と1.52.0対応</title>
-    <id>https://qiita.com/orca-forge/items/145909fc7dff845b19ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/orca-forge/items/145909fc7dff845b19ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-31T08:21:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>📝 この記事は forge.workstyle.tech に掲載した記事の転載です。 環境はOpenHands Software Agent SDKをDockerのサンドボックスで動かす構成です。症状はホスト側ポートが全インターフェースに公開され、外から到達できる可能性...</summary>
-  </entry>
-  <entry>
-    <title>EmDash on CloudflareでWebサイトを公開してClaudeからAIで更新してみた</title>
-    <id>https://qiita.com/tamaoki_t/items/d68f0cf4883100546e7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tamaoki_t/items/d68f0cf4883100546e7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-31T08:10:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「WordPressのプラグイン更新やセキュリティ対策に疲れた」「生成AIにブログ更新を任せたいけど、管理画面を操作させるのは不安」——そんな悩みを抱えていませんか。2026年9月に正式版となったCloudflare発のCMS「EmDash」は、サーバーレスで動き、AIとつ...</summary>
   </entry>
 </feed>
