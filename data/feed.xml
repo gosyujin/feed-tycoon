@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-02T05:30:13.519385+09:00</updated>
+  <updated>2026-11-02T06:00:14.430215+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>自作PWAをTailscale Serveで配るのが便利だった話</title>
+    <id>https://zenn.dev/6uclz1/articles/43e803ec9d54dd</id>
+    <link href="https://zenn.dev/6uclz1/articles/43e803ec9d54dd" />
+    <updated>2026-11-01T23:17:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PWAをtailnet serveするのは結構いいアプローチだと思ったので紹介したいです。zennのフォーマットで記事書いて https://zenn.dev/6uclz1 こいつの文体・構成で書いて欲しい Mac miniで動かしている自作のWebアプリを、PWAとしてiPadとiPhoneで使っています。 配信はTailscale Serveで行っています。 この組み合わせがか...</summary>
+  </entry>
   <entry>
     <title>compact の使い方、間違えるとトークン代 2.75 倍？ Claude Code で測ってわかった 5 つの結論【2026年版】</title>
     <id>https://qiita.com/songchong/items/ac9779bb8e8838b546b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-30T19:18:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>風音屋では、データエンジニア、データアナリスト、データコンサルタントを募集しています。 書籍執筆者やOSSコントリビューターなど、業界を代表する20名以上のアドバイザーと一緒にベストプラクティスを追求できる環境です。 ご興味のある方は、ぜひご応募ください。 風音屋（@Kazaneya_PR）のゆずたそ（@yuzutas0）で...</summary>
-  </entry>
-  <entry>
-    <title>08:00-08:30 571-574 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/571-574</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/571-574" />
-    <updated>2026-11-01T08:25:04+09:00</updated>
-    <category term="新日" />
-    <summary>▶571 プロレスってどんなブレイクしなくてもその瞬間がおもろかったら全チャラになるからな YOHさんなんて何年ファン全員から嫌われてたのよ ▶572 ワトはがむしゃらにもがいてないから デスペにしてもYOHにしてもダメな期間はトライ&amp;エラーしながらもがいて苦しんでたのをファンは見ている だからピースがうまくハマったときにファンの支持が得られた ワトはもがいてる？苦しんでる？ ▶573 見えないと…</summary>
   </entry>
 </feed>
