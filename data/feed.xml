@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-01T10:00:13.910521+09:00</updated>
+  <updated>2026-11-01T10:30:12.684744+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AI学習への利用拒否をrobots.txtで一括指定へ OpenAIやGoogleなどが対応表明</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/01/2000002776/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/01/2000002776/" />
+    <updated>2026-11-01T09:58:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米OpenAI、米Google、米Microsoftは10月30日（現地時間）、Webサイト運営者がAI学習へのコンテンツ利用に関する意向を複数のAI企業にまとめて伝えられる共通の仕組みに対応する方針をそれぞれ発表した。米Anthropicも実装を進めている。この仕組みは、Anthropicの標準化担当者、ケビン・ケリー氏が同日付で標準化団体IET...</summary>
+  </entry>
+  <entry>
+    <title>CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue</title>
+    <id>https://aws.amazon.com/security/security-bulletins/2026-160-aws/</id>
+    <link href="https://aws.amazon.com/security/security-bulletins/2026-160-aws/" />
+    <updated>2026-11-01T09:19:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The sessions are set and your seat is waiting. Register now</summary>
+  </entry>
   <entry>
     <title>09:30-10:00 599-605 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/599-605</id>
@@ -114,17 +130,17 @@
     <title>WASIじゃない、もう一つのインターフェース「WALI」という提案</title>
     <id>https://zenn.dev/progate/articles/wali-webassembly-linux-interface</id>
     <link href="https://zenn.dev/progate/articles/wali-webassembly-linux-interface" />
-    <updated>2026-10-30T10:14:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうする...</summary>
+    <updated>2026-10-30T09:45:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 最近、仕事でいろんな言語やツールをWebAssembly（wasm）にして、ブラウザーの中で動かすことをやっています。RubyやPython、vimのような、もともとLinuxやMacで動いているプログラムをソースからwasmにビルドする作業です。 このとき毎回悩むのが、ファイルを開く、プロセスを増やす、といった機能をどうするかです。wasmそのものはこうした機能を持っていないので、外か…</summary>
   </entry>
   <entry>
     <title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title>
     <id>https://zenn.dev/kauche/articles/f3736c660aab77</id>
     <link href="https://zenn.dev/kauche/articles/f3736c660aab77" />
-    <updated>2026-11-01T00:02:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026...</summary>
+    <updated>2026-10-31T21:31:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207,039 点です。 各メンバーが自分の PC で Claude Code を動かし、調査からデプロイ…</summary>
   </entry>
   <entry>
     <title>05:30-06:00 567 (1件)</title>
@@ -789,21 +805,5 @@
     <updated>2026-10-30T23:54:58+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに v3系 問題 今まで以下のようにしていたが、公式を見るとProviderを読み込むべきだったようなので、そのようにしたがインポートできない import { ChakraProvider } from "@chakra-ui/react"; func...</summary>
-  </entry>
-  <entry>
-    <title>Vitest要素を確認する</title>
-    <id>https://qiita.com/J-T_ky2g/items/ba8f71945f4d6f73c77e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/ba8f71945f4d6f73c77e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-30T23:54:24+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに テストを書くにあたって要素があっているか確認したい 問題 指定した要素やコンポーネント全体の要素が合ってるか確認したい 解決 screen.debug() で解決。引数なしだと全体が出て、引数に変数を渡すと指定した要素が出る 終わりに 参考に...</summary>
-  </entry>
-  <entry>
-    <title>「git@github.com: Permission denied (publickey).」の解決方法</title>
-    <id>https://qiita.com/keikeigo/items/6abe6791ddba060c16a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/keikeigo/items/6abe6791ddba060c16a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-30T23:54:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GitHubにpushしようとしたらエラーが発生しました。 昨日までpushできていたのに、、 前提 Mac SSHキーは存在している 問題 git@github.com: Permission denied (publickey). fatal: Co...</summary>
   </entry>
 </feed>
