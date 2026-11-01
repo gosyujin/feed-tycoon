@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-01T20:30:13.035015+09:00</updated>
+  <updated>2026-11-01T21:00:13.106896+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ISUCON 2026 参加記</title>
+    <id>https://zenn.dev/catatsuy/articles/159edffe202c0c</id>
+    <link href="https://zenn.dev/catatsuy/articles/159edffe202c0c" />
+    <updated>2026-11-01T12:40:42+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ChatGPTにGitHubのログをまとめてもらいました。 最終スコアは26000点台くらいで、完全敗北でした。repoはこちらです。 https://github.com/catatsuy/isu2026 はじめに 今回はAIを活用することを前提として、1人でISUCONに参加しました。 事前にAIに作業してもらうための準備をしておき、当日はCodexなどを使いながら最適化を進めました。自分は主…</summary>
+  </entry>
+  <entry>
+    <title>ISUCON2026 本番に出た</title>
+    <id>https://zenn.dev/ntk221/articles/98b17a773669a1</id>
+    <link href="https://zenn.dev/ntk221/articles/98b17a773669a1" />
+    <updated>2026-10-31T22:14:45+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>10/31 の ISUCON2026 本番に出ました。ISUCON は今回が初参加です。結果は 最終スコア ____ 点・____ 位 です。どちらもまだ確定していないので、いまは空けておきます。最後のベンチはたしか9万点に届かないくらいでしたね この記事は、当日の Claude Code の会話ログ（~/.claude/projects/ の JSONL）と git の履歴から Claude C…</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare Workers を触ってみた</title>
+    <id>https://zenn.dev/atware/articles/ec1dfd799289b7</id>
+    <link href="https://zenn.dev/atware/articles/ec1dfd799289b7" />
+    <updated>2026-10-30T14:01:51+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 普段の開発ではAWSを使うことが多いのですが、Cloudflareの全体像を調べてみた記事を書いた際に、アプリケーション実行基盤である Cloudflare Workers にとても興味を持ちました。 CloudflareというとCDNのイメージが強かったのですが、Workersを使うとエッジ上でJavaScript / TypeScriptを使ってAPIまで動かせます。公式チュートリア…</summary>
+  </entry>
   <entry>
     <title>20:00-20:30 715-720 (6件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/715-720</id>
@@ -538,9 +562,9 @@
     <title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title>
     <id>https://zenn.dev/kauche/articles/f3736c660aab77</id>
     <link href="https://zenn.dev/kauche/articles/f3736c660aab77" />
-    <updated>2026-11-01T00:02:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026...</summary>
+    <updated>2026-10-31T21:31:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207,039 点です。 各メンバーが自分の PC で Claude Code を動かし、調査からデプロイ…</summary>
   </entry>
   <entry>
     <title>05:30-06:00 567 (1件)</title>
@@ -781,29 +805,5 @@
     <updated>2026-10-31T18:23:47+09:00</updated>
     <category term="はてブ IT" />
     <summary>Claude Codeによる「既存ゲーム再現」を制限したとエンジニアが認める―オリジナル作品生成は引き続き動作する想定。“AIクローンゲーム”の抑止につながるか | Game*Spark - 国内・海外ゲーム情報サイト</summary>
-  </entry>
-  <entry>
-    <title>third-intelligence/Haas-ja-v1.0 · Hugging Face</title>
-    <id>https://huggingface.co/third-intelligence/Haas-ja-v1.0</id>
-    <link href="https://huggingface.co/third-intelligence/Haas-ja-v1.0" />
-    <updated>2026-10-31T06:39:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Use this model Haas-ja-v1.0 Haas-ja-v1.0 is a Japanese speech recognition model built to be both fast and accurate. It is based on NVIDIA's Parakeet-TDT architecture: a FastConformer encoder and a Tok…</summary>
-  </entry>
-  <entry>
-    <title>00:00-00:30 556-558 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/556-558</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/556-558" />
-    <updated>2026-11-01T00:29:17+09:00</updated>
-    <category term="新日" />
-    <summary>▶556 ドラグノフが来日してるが、広島来るか？ ▶557 社長「トラフグ５人前下さい」 ▶558 今は特に不満がないんだが鷹木はいい加減にしてくれ 新日を見てる気がしない。外様のおっさんはいいから棚橋社長</summary>
-  </entry>
-  <entry>
-    <title>23:30-00:00 551-555 (5件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/551-555</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/551-555" />
-    <updated>2026-10-31T23:56:16+09:00</updated>
-    <category term="新日" />
-    <summary>▶551 親方やファレを通天閣できるなら増量してヘビーもありだな ▶552 しばらく他団体でもいいんじゃないか、なんならギミックチェンジして。飯野雄貴みたいに居場所見つかるかも。 ▶553 &gt;&gt;550 なら尚更ジュニアでいいだろ ▶554 &gt;&gt;553 Jrの脇役って外道東郷金丸田口KUSHIDAあたりでしょ？ ワトにその役割できるかな… ▶555 現時点でバリバリ脇役なのに何言ってんだ</summary>
   </entry>
 </feed>
