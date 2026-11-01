@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-01T11:00:13.404000+09:00</updated>
+  <updated>2026-11-01T11:18:04.158549+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>streamAppendHTML() で AI の回答を HTML のままストリーミング描画する</title>
+    <id>https://azukiazusa.dev/blog/stream-append-html/</id>
+    <link href="https://azukiazusa.dev/blog/stream-append-html/" />
+    <updated>2026-11-01T08:34:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>LLM の回答を逐次描画するとき、届いた文字列全体を毎回パースして DOM を置き換える実装では、要素が作り直され続けてテキストの選択状態が失われたりします。streamAppendHTML() は WritableStream を返し、届いた HTML を要素の末尾へ順にパースします。この記事では streamAppendHTML() の使い方とサニタイズの挙動...</summary>
+  </entry>
   <entry>
     <title>10:30-11:00 614-620 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/614-620</id>
@@ -797,13 +805,5 @@
     <updated>2026-10-31T05:30:48+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: 「システム設計視点の行動経済学」、第53回を始めましょう。その前に、まず前回の復習として、 −20の恐怖が+100の利益を消す ― 損失回避と機関のインセンティブ : システム設計視点の行動経済学 (52) https://qiita.com/maskot19...</summary>
-  </entry>
-  <entry>
-    <title>【AgentCore】時刻を決めてハンズオン環境をお掃除する仕組みを用意してみた</title>
-    <id>https://qiita.com/ryu-ki/items/b28dca1867058156de46?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryu-ki/items/b28dca1867058156de46?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-10-31T02:42:21+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 社内勉強会向けに、Amazon Bedrock AgentCore のハンズオン環境を Terraform で作っています。 ベタではありますが、受講者1人に1台の EC2 を人数分立てて、ALB で受講者ごとに振り分けています。EC2 では code-serv...</summary>
   </entry>
 </feed>
