@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-02T23:30:15.498302+09:00</updated>
+  <updated>2026-11-03T00:00:11.432456+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
+    <id>https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</id>
+    <link href="https://zenn.dev/tokium_dev/articles/adr-authoring-guideline" />
+    <updated>2026-11-02T22:27:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？ AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。 僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運...</summary>
+  </entry>
   <entry>
     <title>23:00-23:30 8-9 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/8-9</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-01T12:36:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>きっかけ ただの思いつきです。 私は法律のことを全然知りません。ただ、最近は AI のおかげで、知らない分野の調べものがとても速くなりました。国会会議録の API を眺めていたときに、ふと「法律を git で管理したら面白いのでは」と思いつきました。知らない分野でも、AI と一緒ならどこまでできるのか試してみたくなりました。 法律の改正は「〇〇法の一部を改正する法律」という別の法律で行われます。中…</summary>
-  </entry>
-  <entry>
-    <title>新卒1年目の駆け出しエンジニア2人で ISUCON2026 に出てみた</title>
-    <id>https://zenn.dev/hazelnut_smnth/articles/3b5e5d38937841</id>
-    <link href="https://zenn.dev/hazelnut_smnth/articles/3b5e5d38937841" />
-    <updated>2026-10-31T21:54:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>新卒1年目の駆け出しエンジニア2人で、ISUCON2026 に参加した記録です。 目次 今回の問題と使われていた技術 1日の結果 担当範囲 AI に許されていたことと、私たちの使い方 ISUCON2026 当日の流れ それぞれの作業とスコアの伸び 署名キャッシュ：2回失敗して3回目で成功 投稿時の posting_windows のロック：FOR UPDATE から FOR SHARE へ コメン…</summary>
   </entry>
 </feed>
