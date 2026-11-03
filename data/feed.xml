@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-04T02:30:20.712538+09:00</updated>
+  <updated>2026-11-04T03:00:19.791963+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>02:30-03:00 815 (1件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/815</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793611330/815" />
+    <updated>2026-11-04T02:33:36+09:00</updated>
+    <category term="新日" />
+    <summary>▶815 YOH負けだけどバチバチの試合でSHO改心、みたいなのが見たいかも</summary>
+  </entry>
+  <entry>
+    <title>20:00-20:30 516-596 (81件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/516-596</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793611330/516-596" />
+    <updated>2026-11-03T20:29:35+09:00</updated>
+    <category term="新日" />
+    <summary>▶516 出たがり社長ムリやわ ▶517 パイルドライバー受けれる身体じゃないは草 ▶518 パイルドライバーを受けれる体じゃない ってどういう事だいミラノさん ▶519 バクステでウルフがボルチンにタッグ組もう言ってるからなぁ タッグからドームで対戦に持っていけるかしら ▶520 1.4で棚橋復帰するんじゃないだろうな ▶521 ウルフはボルチンとだろストロングも要らんしWで封印ちゃうか？その後…</summary>
+  </entry>
   <entry>
     <title>01:30-02:00 814 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/814</id>
@@ -311,20 +327,20 @@
     <summary>▶597 神はランボー兼SHOYOHの介入要員だろうな そこで光のSHOさんに目覚めるかどうか ▶598 &gt;&gt;589 ほんとこんな感じの時代 新日本「後楽園超満員3000人！」 UWF「だったらうちは3200人」」 馬場「だったらうちは3500人！」 ▶599 &gt;&gt;596 SHOがそのままHOT離脱となったら多分新しい構成員が出てきそう ▶600 &gt;&gt;598 「2001年だから1.4の客入り620…</summary>
   </entry>
   <entry>
-    <title>ADRをregoでlintする</title>
-    <id>https://zenn.dev/babarot/articles/regomark-adr-checker</id>
-    <link href="https://zenn.dev/babarot/articles/regomark-adr-checker" />
-    <updated>2026-11-03T20:32:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、...</summary>
-  </entry>
-  <entry>
     <title>18:30-19:00 360-396 (37件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/360-396</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793611330/360-396" />
     <updated>2026-11-03T18:58:50+09:00</updated>
     <category term="新日" />
     <summary>▶360 ケニーが陽太からピン ▶361 イサシブリダナー ▶362 やっぱりケニー華があるわ ▶363 &gt;&gt;347 向こうの観客動員がppv以外は劇的に落ちてるから、なんでもいいからテコ入れしたいんじゃないの。 ▶364 おもんな ▶365 大の字の2人 ケニーもだいぶキツそうだな？わけわからん日本語になってる ▶366 辻ケニーよりボルチンケニーの方が見たい… ▶367 この中にザックがいるよ…</summary>
+  </entry>
+  <entry>
+    <title>ADRをregoでlintする</title>
+    <id>https://zenn.dev/babarot/articles/regomark-adr-checker</id>
+    <link href="https://zenn.dev/babarot/articles/regomark-adr-checker" />
+    <updated>2026-11-03T16:59:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、少しずつ自由になってい…</summary>
   </entry>
   <entry>
     <title>バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-02T11:25:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>Earendilは2026年10月1日（米国時間）、ターミナルベースのAIコーディングエージェント「Pi 1.0」を提供開始したと発表した。併せて、長時間稼働するエージェント型アプリケーションを構築するための実験的パッケージ「Pi Durable」も公開した。 ユーザーが柔軟にカスタマイズできる最小限のハーネス「Pi」で何ができる...</summary>
-  </entry>
-  <entry>
-    <title>疑っても止まれない。AIの「都合のいい思考」を読んでみよう | ギズモード・ジャパン</title>
-    <id>https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/</id>
-    <link href="https://www.gizmodo.jp/article/2610-claude-mythos-ai-cot-momentum/" />
-    <updated>2026-11-02T06:07:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>課題を解くために関係ない人を騙そうとしたAI。どうしてそうなっちゃったんでしょう？ 英国AIセキュリティ研究所が「Claude Mythos 5」というAIに演習用のコンピューターに侵入するという課題を与えました。それからしばらくして、開発元のAnthropic（アンソロピック）がある報告書を公開しました。 この実験においてMyt...</summary>
-  </entry>
-  <entry>
-    <title>「GoogleやAppleのアカウントを守るためにYubiKeyを使っている」物理キーが注目を集め、売り切れが相次いでいる→導入前に知っておきたい注意点は？</title>
-    <id>https://togetter.com/li/2766080</id>
-    <link href="https://togetter.com/li/2766080" />
-    <updated>2026-11-03T12:56:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>でこ @DEKO_MUGEN GoogleとAppleアカウントの乗っ取り対策に、物理キー「YubiKey 5C NFC」を使っています。 普段はキーホルダーに。薄くて軽いので気になりません。紛失に備えて、登録済みの予備は別の安全な場所に保管ですな。 購入時はファームウェアの確認を。写真のものは5.8.0。購入後に更新できないので、価格だけ...</summary>
   </entry>
 </feed>
