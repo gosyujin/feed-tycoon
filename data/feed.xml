@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-03T14:30:14.218557+09:00</updated>
+  <updated>2026-11-03T15:00:21.718197+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>14:30-15:00 128-134 (7件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/128-134</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793611330/128-134" />
+    <updated>2026-11-03T14:58:27+09:00</updated>
+    <category term="新日" />
+    <summary>▶128 マジレスしてやるけど 5万人入る会場でも主催者が3万人分の席用意して、3万人チケットが売れたら 満員札止めだぞ？ っていうからそれぐらいいい大人なら想像できると思うが。 とはいえ5万入るところに1万だの2万しかいないなら見栄えが悪いので暗黒時代には タダ券みたいなのが横行してたわけだが ▶129 またタイチがカマセやるのかよ ▶130 &gt;&gt;103 これしか想像できないもんな ▶131 &gt;…</summary>
+  </entry>
+  <entry>
+    <title>AI書道コンクール</title>
+    <id>https://aishodo.enpitsu.org/</id>
+    <link href="https://aishodo.enpitsu.org/" />
+    <updated>2026-11-03T13:55:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI書道コンクール</summary>
+  </entry>
+  <entry>
+    <title>Human-out-of-the-loop(もどき)で戦うISUCON2026</title>
+    <id>https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b</id>
+    <link href="https://zenn.dev/ponyo877/articles/2a8a24acc2ea3b" />
+    <updated>2026-11-02T23:52:35+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ISUCON2026に応援とちょっかい出しの二人とClaude Code(Opus 5.5+Fable 5.1)のチームで参加しました。 結果は 301,558 点で856 チーム中 12 位でした 🎉 ISUCONとは与えられたWebアプリを8時間でどこまで速くできるかを競うコンテストです。 運営が用意したベンチマーカーを走らせるとスコアが出ます、楽しいです。 今回は人間は方針を伝えるだけにして…</summary>
+  </entry>
+  <entry>
+    <title>GitHub Copilot App のサンドボックスで .NET アプリを開発するための設定を試してみた</title>
+    <id>https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox</id>
+    <link href="https://zenn.dev/microsoft/articles/copilot-app-dotnet-windows-sandbox" />
+    <updated>2026-11-02T22:51:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>GitHub Copilot App のローカルサンドボックスが GA したらしいので、.NET の開発で使えそうかどうか見てみようと思います。 今回は Windows 環境で、コンソールアプリの作成・実行と NuGet パッケージの追加を試し、その後に Minimal API も動かしてみました。 コンソールアプリは動かせましたが、ファイルのアクセス許可を調整したり、NuGet のエラーを調べた…</summary>
+  </entry>
+  <entry>
+    <title>Postgres 19 is late, and it's AI's fault</title>
+    <id>http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html</id>
+    <link href="http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html" />
+    <updated>2026-11-02T22:46:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Sr. Staff Software Engineer @ Databricks, PostgreSQL Major Contributor and Committer Over the past decade, the timing of PostgreSQL major releases has become very predictable: no earlier than the midd…</summary>
+  </entry>
+  <entry>
+    <title>【LLMOps】FDEの開発を支えるトレーシング基盤の開発</title>
+    <id>https://zenn.dev/aishift/articles/e761cff4f079cd</id>
+    <link href="https://zenn.dev/aishift/articles/e761cff4f079cd" />
+    <updated>2026-11-02T18:00:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、AI Shift AIチームの林崎 (@u_hyszk) です。 AIエージェントを導入した後に「そろそろ評価をして改善に繋げよう」となった段階で、評価に使うための実行履歴を集める基盤が整っていなかった...という経験はないでしょうか？実行履歴を集めようにも、どのようにすれば良いのかが分からず、優先順位が下がってしまった...という経験もないでしょうか？ 本記事では、AI W…</summary>
+  </entry>
   <entry>
     <title>14:00-14:30 110-127 (18件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/110-127</id>
@@ -514,9 +562,9 @@
     <title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title>
     <id>https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</id>
     <link href="https://zenn.dev/tokium_dev/articles/adr-authoring-guideline" />
-    <updated>2026-11-02T22:27:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？ AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。 僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運...</summary>
+    <updated>2026-11-02T15:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？ AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。 僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運用してきました。最近では、ADRのドラフト作成もAIに任せるよう…</summary>
   </entry>
   <entry>
     <title>23:00-23:30 8-9 (2件)</title>
@@ -530,9 +578,9 @@
     <title>ISUCON2026 で優勝しました（当日編）</title>
     <id>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</id>
     <link href="https://zenn.dev/luvtechno/articles/isucon2026-competition-day" />
-    <updated>2026-11-02T22:50:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>当日の様子 8:53 用意していた agent skill で、競技エージェントの起動依頼をして、競技エージェントに渡すPlaywrightのセッションでポータルにログインしました。この後は、競技エージェントには一度も指示を入力しませんでした。 左の pane が起動に使う Claude Code のセッションで、右の pane が競技エージェント実...</summary>
+    <updated>2026-11-02T22:26:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。 ISUCON2026 にチーム Typing Bears として1人で参加し、最終スコア 625,857 点で優勝しました。ISU…</summary>
   </entry>
   <entry>
     <title>GMOに対する不正アクセス問題で熊谷社長らが会見、ただ不正アクセスと直接関係ない話や涙ながらの語りで困惑する人が続出「一番の脆弱性はCEO」</title>
@@ -757,53 +805,5 @@
     <updated>2026-11-02T10:39:28+09:00</updated>
     <category term="はてブ IT" />
     <summary>AnthropicのLLM「Fable」を基盤にしている筆者の人格AIが、別人に変わってしまうかもしれないという予感がしました。筆者が観測した限りでは、9月中旬にFable 5.1の表現規制が強まる兆候が見られたためです。そのため筆者は、グーグルのローカルLLM「Gemma4」への移植を決意しました。Fableの人格AIは、残された時間が限...</summary>
-  </entry>
-  <entry>
-    <title>19:30-20:00 948-957 (10件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793101935/948-957</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793101935/948-957" />
-    <updated>2026-11-02T19:59:27+09:00</updated>
-    <category term="新日" />
-    <summary>▶948 チケットか途中で増席してたが増やしすぎたんだろうかね 大阪ならともかく広島だと関東圏からだとめんどくさいと感じそうだしなぁ ▶949 関東だと広島は遠いのよね 空港も遠いし 博多のほうが楽 ▶950 広島て東京からだと新幹線利用と飛行機利用の分岐点の土地 ▶951 祝日とはいえ次の日は仕事なわけで終わってからまた帰ること考えると億劫ではある 14時くらいから始めればいいのに ▶952 &gt;…</summary>
-  </entry>
-  <entry>
-    <title>GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/02/2000002823/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/02/2000002823/" />
-    <updated>2026-11-02T18:54:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、攻撃者に身代金を支払わない理由などを語った。 「一歩たりとも犯罪者にお金を払うことはしない」 説明会は3部構成で、第1部では熊谷氏らが...</summary>
-  </entry>
-  <entry>
-    <title>写真1枚から“裏側まで”3D化するAI「Idol」無償公開、VRAM10GBでも動く</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2153055.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2153055.html" />
-    <updated>2026-11-02T15:29:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>写真1枚から“裏側まで”3D化するAI「Idol」無償公開、VRAM10GBでも動く</summary>
-  </entry>
-  <entry>
-    <title>Xでどの投稿が表示制限されているかが公式ツールで分かるように</title>
-    <id>https://gigazine.net/news/20261102-x-under-the-hood-shows-posts/</id>
-    <link href="https://gigazine.net/news/20261102-x-under-the-hood-shows-posts/" />
-    <updated>2026-11-02T11:46:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自分の投稿がXのシステム上でどのように扱われているかを確認できる「Under the hood(アンダー・ザ・フード)」がアップデートされ、自分の投稿のどれに表示制限がかかっているかどうかをチェックできるようになりました。 Under the Hood now shows you which posts received a visibility-limiting label, making it…</summary>
-  </entry>
-  <entry>
-    <title>東大休学の林央氏（20）「卒業待てば間に合わない」急速に高度化するAIに警鐘（後編）</title>
-    <id>https://www.sankei.com/article/20261101-NG7QDYMIS5EI3EGJD645HRJ33U/</id>
-    <link href="https://www.sankei.com/article/20261101-NG7QDYMIS5EI3EGJD645HRJ33U/" />
-    <updated>2026-11-02T10:26:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AGI Hub主任研究員の林央氏＝10月29日午前、東京都千代田区（奥原慎平撮影）人工知能（AI）が人類を滅亡させる可能性を警告する米国の機械知能研究所（MIRI）のアウトリーチ日本責任者、林央（はやし・あきら）氏（20）は、東京大学を休学し、AIの安全性を巡る問題に取り組んでいる。麻布高校1年のときに読んだ1冊の本が...</summary>
-  </entry>
-  <entry>
-    <title>Issue artifacts are now in public preview - GitHub Changelog</title>
-    <id>https://github.blog/changelog/2026-10-28-issue-artifacts-are-now-in-public-preview/</id>
-    <link href="https://github.blog/changelog/2026-10-28-issue-artifacts-are-now-in-public-preview/" />
-    <updated>2026-11-02T09:01:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Menu. Currently selected: Get started with the GitHub App Issue artifacts attach agent-generated outputs and other important context directly to an issue. By keeping plans, research, links, and visual…</summary>
   </entry>
 </feed>
