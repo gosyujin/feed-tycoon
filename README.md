@@ -64,7 +64,7 @@ feed-tycoon/
 - **ブックマークページ**のコメントは、`https://b.hatena.ne.jp/entry/jsonlite/?url=…` を JSONP(`<script>` 挿入)で取得する(`js/hatena-api.js`)。**callback 名は呼び出しごとにランダムでなければならない**(固定名にするとはてな API が無応答になる。hateb-tycoon で実験確認済み)。取得に成功するたび解析済みデータを `localStorage` にキャッシュし、オフライン時などはそちらへフォールバックする(最大 300 件)。コメント側のフィルタは `title` / `domain` / `user` / `comment` で評価し、`url` は含めない(含めると URL ルールが全コメントに当たる)。
 - **自動継ぎ足し**は `IntersectionObserver`(rootMargin 600px)で末尾の sentinel を監視する。「交差状態が変わった時」しか発火しないため、継ぎ足しのたびに `unobserve` → `observe` で再判定させている。この再監視を外すと、画面が縦に長いときに継ぎ足しが止まる。
 - **オフライン対応**は `service-worker.js`(hateb-tycoon が元)。アプリ本体と `data/*.json` を先読みし、「まずネットワーク、失敗したらキャッシュ」で返す。`handleNavigate()` は実 URL ではなく固定キー `'index.html'` で読み書きする(実 URL に戻すと、完全終了後に機内モードで起動したときアプリ全体が落ちる)。`data/*.json` はビューアが CDN 回避のため `?t=<時刻>` を付けて取得するので、キャッシュキーからクエリを外している(外さないと開くたびにキャッシュが増える)。`CACHE_VERSION` はデプロイ時(`deploy-pages.yml`)に `__BUILD_SHA__` が SHA に置換される。設定画面の「オフライン用キャッシュ」で、一覧の上位 n 件のコメントを事前取得できる。
-- Service Worker は、サンドボックス化された検証用ブラウザでは `register()` 自体が失敗し、動作確認できない。SW の変更は本番オリジン(<https://note.gosyujin.com/feed-tycoon/>)で、`caches.keys()` / `caches.open()` などをコンソールから叩いて確認する。
+- Service Worker は、サンドボックス化された検証用ブラウザでは `register()` 自体が失敗し、動作確認できない。SW の変更は本番オリジン(<https://gosyujin.com/feed-tycoon/>)で、`caches.keys()` / `caches.open()` などをコンソールから叩いて確認する。
 - フッターは `ビルドSHA (日時) / 次回更新: HH:MM頃` の形式で、次回更新は更新ワークフロー(`feed-sync.yml`)のページへのリンク。次回更新は `data/meta.json` の `nextEstimate`(取得時刻 + 30 分)。取得に失敗したソースがあると、末尾に「取得失敗: …」を出す。
 - 対象外: X(Twitter)、JS 描画が必要なサイト、push 通知。`html` 型ソースは未実装。
 
