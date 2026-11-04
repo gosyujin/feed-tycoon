@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-05T05:00:13.328456+09:00</updated>
+  <updated>2026-11-05T05:30:15.991823+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIを入れてもプロジェクトが進まないのは「完遂力」の問題</title>
+    <id>https://qiita.com/hokutoh/items/40345cc114ab364a49a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/hokutoh/items/40345cc114ab364a49a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T23:34:00+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>OpenAIのSam Altmanが「MBA学生には慢性的に失望している」という発言をしておりました1。 MBA学生がやりたがるのは「5年前にかっこよかったこと」で、新しいことに挑まない、という趣旨です。 一方、国内では日本プロジェクトソリューションズが『日本企業のプロジェ...</summary>
+  </entry>
+  <entry>
+    <title>AI駆動開発の次の段階: ソフトウェアファクトリー</title>
+    <id>https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T20:38:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeの/model opusplan＋/advisor fableでOpus・Fable・Sonnetを自動で使い分けたら、めちゃめちゃ良かった</title>
+    <id>https://qiita.com/inoyu-qiita/items/d486f85b8333d5b324d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/inoyu-qiita/items/d486f85b8333d5b324d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T20:31:08+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Opusが考え、Fableが助言し、Sonnetが作る。 Claude Codeで、計画・助言・実装を3モデルへ自動で振り分ける運用を、実際の業務で使ってみました。 設定するのはopusplanと/advisor fableです。 /model opusplan...</summary>
+  </entry>
+  <entry>
+    <title>【脆弱性ラッシュ】PHP2Shell・Brotli(HTTP2Shell)・Node・Chrome・Goが同時に来た週に、サーバーの「放置」が露呈した話</title>
+    <id>https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T16:28:14+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年10月下旬、PHP、Node.js、Chrome、Goの重大な更新が立て続けに公開されました。私はこれを「脆弱性ラッシュ」と呼んでいます。 一斉に更新を進めるなかで、すでにサポートが切れている php7.4-fpm や Node 18 が見つかり、作業...</summary>
+  </entry>
+  <entry>
+    <title>IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで</title>
+    <id>https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T13:44:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに IT未経験でエンジニアになった私は、配属後の勉強期間中、AIに頼りすぎていました。 コードの書き方に悩めば、すぐにAIに聞く エラーが出ても、原因を自分で考えずにAIに頼る その結果、先輩から質問されたときに何も説明できず、完全に止まってしまいました。 自分...</summary>
+  </entry>
+  <entry>
+    <title>2027年4月26日から変わる CloudWatch Logs の IAM ポリシーの評価方法を CloudWatch Logs IAM Policy Validator で確認する - kakakakakku blog</title>
+    <id>https://kakakakakku.hatenablog.com/entry/2026/11/04/091507</id>
+    <link href="https://kakakakakku.hatenablog.com/entry/2026/11/04/091507" />
+    <updated>2026-11-04T12:13:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 個人の検証環境として使ってる AWS アカウントに AWS Health から「AWS CLOUDWATCH PLANNED LIFECYCLE EVENT」という AWS Health Event が来ていた．簡単に言うと「2027年4月26日から Amazon CloudWatch Logs の IAM ポリシーの評価方法が変わるから事前に対応よろしく！」という内容だった． Star…</summary>
+  </entry>
   <entry>
     <title>04:30-05:00 336-337 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/336-337</id>
@@ -236,7 +284,7 @@
     <link href="https://news.yahoo.co.jp/articles/b6e64f561e159b8d879512f49d4f3641b50e031a" />
     <updated>2026-11-04T19:01:16+09:00</updated>
     <category term="はてブ IT" />
-    <summary>テレ朝NEWS「無印良品」で新たにクレジットカード会員のカード番号などおよそ109万件も、流出の可能性が明らかになりました。 【動画】ダークウェブで日本人の個人情報の取引急増 運営する良品計画によりますと、流出した可能性があるのは、2021年7月までにクレジットカード「MUJICard」の会員に登録した顧客のカード番...</summary>
+    <summary>テレ朝NEWS「無印良品」で新たにクレジットカード会員のカード番号などおよそ109万件も、流出の可能性が明らかになりました。 【詳しく】不正アクセス 関連情報まとめ 運営する良品計画によりますと、流出した可能性があるのは、2021年7月までにクレジットカード「MUJICard」の会員に登録した顧客のカード番号の全ての桁...</summary>
   </entry>
   <entry>
     <title>OpenAIがGitで超大規模リポジトリを運用するためのバックエンド「Pando」を開発</title>
@@ -679,20 +727,20 @@
     <summary>▶97 ランボーで優勝したら大阪でIWGP挑戦出来るからな ▶98 SHOはもう戻る気前提のような感じだったな 時々普通に喋っててワロタ もうあのキャラ維持するのも自分でも大変なんだろう ▶99 なんか普通に敬語だったね ▶100 &gt;&gt;97 サプライズでランボーでムラシ凱旋して、そのまま優勝→大阪でケニーに圧勝でムラシショック！ ▶101 ゲートから退場したら反対側まで走って行って黒服面被ってリン…</summary>
   </entry>
   <entry>
+    <title>OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました</title>
+    <id>https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest</id>
+    <link href="https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest" />
+    <updated>2026-11-04T14:25:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Zennチームのdyoshikawaです。 ZennではAIによるセキュリティチェックの仕組みを急ピッチで構築しました。現在はPull Request（以下PR）ごとのAIレビューに加えて、AIエージェントによる全自動のペネトレーションテストを毎週GitHub Actionsで回しています。 背景は、みなさんもご存知のとおり昨今のサイバー攻...</summary>
+  </entry>
+  <entry>
     <title>なぜCookie同意バナーの「拒否」ボタンは見つからないのか 1万4000サイト調査で見えた“同意させる”手口</title>
     <id>https://www.itmedia.co.jp/news/article/2611/04/2000002805/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/04/2000002805/" />
     <updated>2026-11-04T12:21:21+09:00</updated>
     <category term="はてブ IT" />
     <summary>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...</summary>
-  </entry>
-  <entry>
-    <title>OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました</title>
-    <id>https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest</id>
-    <link href="https://zenn.dev/team_zenn/articles/opencode-docker-actions-ai-pentest" />
-    <updated>2026-11-04T10:19:56+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに Zennチームのdyoshikawaです。 ZennではAIによるセキュリティチェックの仕組みを急ピッチで構築しました。現在はPull Request（以下PR）ごとのAIレビューに加えて、AIエージェントによる全自動のペネトレーションテストを毎週GitHub Actionsで回しています。 背景は、みなさんもご存知のとおり昨今のサイバー攻撃の激化です。 https://scan.net…</summary>
   </entry>
   <entry>
     <title>アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？ | NHKニュース</title>
@@ -757,53 +805,5 @@
     <updated>2026-11-04T14:57:42+09:00</updated>
     <category term="はてブ IT" />
     <summary>こんにちは。 データ分析エンジニアの木介です。 今回は、2026年8月に一般提供が開始されたAmazon DynamoDBのベクトル検索について紹介していきたいと思います。 DynamoDBで管理しているテキストに、意味による検索を追加できるのが特徴です。 別の検索サービスへデータを複製・同期する仕組みを用意せずに済むため、既...</summary>
-  </entry>
-  <entry>
-    <title>株価 大きく値下がり AI関連投資の先行きに不透明感 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261104de70160</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261104de70160" />
-    <updated>2026-11-04T12:45:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>祝日明けの4日の東京株式市場、アメリカの中間選挙の開票作業が進む中でAI関連投資の先行きの不透明感が意識され、日経平均株価は大きく値下がりしています。 4日の東京株式市場では、AIや半導体関連の銘…</summary>
-  </entry>
-  <entry>
-    <title>今週のはてなブックマーク数ランキング（2026年11月第1週） - はてなブックマーク開発ブログ</title>
-    <id>https://bookmark.hatenastaff.com/entry/2026/11/04/122349</id>
-    <link href="https://bookmark.hatenastaff.com/entry/2026/11/04/122349" />
-    <updated>2026-11-04T12:24:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。10月26日（月）～11月1日（日）〔2026年11月第1週〕のトップ30です*1。 順位 タイトル 1位 Z世代特有の絶望感は理解されていない｜栗崎皓 2位 自閉スペクトラム症（ASD）【特徴1】対人的・情緒的相互関係の困難さ 実例8...</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 7-36 (30件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/7-36</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/7-36" />
-    <updated>2026-11-04T14:29:58+09:00</updated>
-    <category term="新日" />
-    <summary>▶7 ドラゲーからの派遣は去年？ヤマトが滑り散らかした借りを返す為だろ ▶8 1.4会見始まるよ ▶9 【LIVE】新日本プロレス 1.4 東京ドーム大会記者会見【WRESTLE KINGDOM 21 in 東京ドーム】 https://www.youtube.com/watch?v=8-vAP51tbM0 ▶10 &gt;&gt;6 女子レスラーってこういうデ不細工だよなって感じの平均顔してるな なつぽいの…</summary>
-  </entry>
-  <entry>
-    <title>高市早苗が細野豪志に手を重ねている画像はAIによる偽画像だよ - 電脳塵芥</title>
-    <id>https://nou-yunyun.hatenablog.com/entry/2026/11/04/130000</id>
-    <link href="https://nou-yunyun.hatenablog.com/entry/2026/11/04/130000" />
-    <updated>2026-11-04T13:29:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>https://x.com/f5lMZTk70t7130/status/2117315464347165148 上記の様な高市早苗が細野豪志の手の上に自身の手を重ねている画像が拡散していた。しかし、以下の様にGoogle製によって改変させられたAI画像である。 画像は一から作成されたものではなく、元は9月18日に毎日新聞にアップされた画像を素材とした改変画像であ...</summary>
-  </entry>
-  <entry>
-    <title>ISUCON2026 で Agent のハーネスを作って 6 位になりました (449,294 点) - ぷらすのブログ</title>
-    <id>https://blog.p1ass.com/posts/isucon2026/</id>
-    <link href="https://blog.p1ass.com/posts/isucon2026/" />
-    <updated>2026-11-04T13:27:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>競技中の最高スコアは 513,306 点でしたが、同じコードでベンチを回しても再現せず、幻の点数になってしまいました。この点数を最後に出せていれば 2 位に届いていたので惜しかったです。 また、企業賞の freee 賞をいただきました。最終スコアに同じ数字が 3 つ入っているチームに贈られる賞のようです。freee さん、あ...</summary>
-  </entry>
-  <entry>
-    <title>ビックカメラG、メールアドレスなど約1490万件漏えいの可能性 委託先への不正アクセスで</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/04/2000002866/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/04/2000002866/" />
-    <updated>2026-11-04T12:44:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ビックカメラとコジマ、ソフマップは11月2日、メールマガジン登録者のメールアドレスなど3社合計で約1490万件が外部に流出した可能性があると発表した。クレジットカード情報や各社の通販サイトのログイン情報は、対象外としている。 原因は、3社がメール配信を委託するアララへの不正アクセスだ。3社は流出の可能性を把...</summary>
   </entry>
 </feed>
