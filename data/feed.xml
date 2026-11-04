@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-04T10:00:15.334461+09:00</updated>
+  <updated>2026-11-04T10:26:54.047548+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2153282.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2153282.html" />
+    <updated>2026-11-04T07:53:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ライフカード「Vプリカ」で個人情報漏えいの可能性、委託先のGMOペイメントゲートウェイで「不正ユーザーによる行為」</summary>
+  </entry>
+  <entry>
+    <title>20:30-21:00 600-659 (60件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/600-659</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793611330/600-659" />
+    <updated>2026-11-03T20:58:25+09:00</updated>
+    <category term="新日" />
+    <summary>▶600 &gt;&gt;598 「2001年だから1.4の客入り62001人（満員）にしよう！」 って話を聞いた時はデタラメもいい加減にしとけよって思ったわw ▶601 ３Ｋ復活したらスレでYHOを見かける機会が増えそうだな ▶602 644 お前名無しだろ (ﾜｯﾁｮｲW 1792-s3yE) sage 2026/11/03(火) 20:24:25.62 ID:XyXqe2v20 今日の流れでウルフベビー…</summary>
+  </entry>
   <entry>
     <title>09:30-10:00 877-894 (18件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793611330/877-894</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-03T16:59:33+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、少しずつ自由になってい…</summary>
-  </entry>
-  <entry>
-    <title>バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ</title>
-    <id>https://zenn.dev/uguisu_blog/articles/45d1f446ece415</id>
-    <link href="https://zenn.dev/uguisu_blog/articles/45d1f446ece415" />
-    <updated>2026-11-03T12:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっています。その結果、要件定義できるほどの解像度はない、できてからいろいろ意見はしたい、でも人の介在は最小限…</summary>
-  </entry>
-  <entry>
-    <title>quench を管理者アカウントから卒業させる：シャットダウン専用の Windows アカウント svc-power</title>
-    <id>https://zenn.dev/ryuchama/articles/forge-svc-power-account</id>
-    <link href="https://zenn.dev/ryuchama/articles/forge-svc-power-account" />
-    <updated>2026-11-03T11:25:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 前回の記事で、ラズパイから Windows PC をシャットダウンするコマンド quench を作りました。quench foo と打てば、確認を挟んで SSH で shutdown を送り、PC が止まるまで待ってくれます。 ただ、前回の記事の最後にも書いたとおり、今の quench は Windows の管理者アカウントで SSH しています。ラズパイに置いてあるこの秘密鍵があれば、…</summary>
   </entry>
 </feed>
