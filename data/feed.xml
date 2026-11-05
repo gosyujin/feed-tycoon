@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-05T14:00:21.065728+09:00</updated>
+  <updated>2026-11-05T14:30:13.783403+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>14:00-14:30 442-448 (7件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/442-448</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/442-448" />
+    <updated>2026-11-05T14:29:38+09:00</updated>
+    <category term="新日" />
+    <summary>▶442 ベルト巻けるのが日本人と外人のタッグしかいない今だからこそ六本木が活きるんだろうね ▶443 &gt;&gt;438 今は２人ともハゲ家族だよ デービスもかなりプッシュされてる ▶444 ジュニアタッグはいつメンでのローテが続いてちょいとマンネリ気味だし 3K復活させてくれるなら歓迎よ ▶445 3Kが寒々しかった事を忘れたんか ▶446 &gt;&gt;445 まぁそれぞれのおもいがあるから云々ですよ ▶44…</summary>
+  </entry>
+  <entry>
+    <title>技術カンファレンスの登壇動画・資料を集約｜Findy Knowledge</title>
+    <id>https://knowledge.findy-code.io/</id>
+    <link href="https://knowledge.findy-code.io/" />
+    <updated>2026-11-05T12:33:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>原題：Modernising Systems: Microservices Or Bust? マイクロサービスは今や一般的な選択肢となり、従来型のアーキテクチャを採用するシステムは、時代の流れに取り残されたように感じることもあるかもしれません。では、システムをモダナイズするには、マイクロサービスへの移行が唯一の正解なのでしょうか？本セッシ...</summary>
+  </entry>
+  <entry>
+    <title>git archive とハッシュ一覧の照合で、本番の手修正を上書きしないデプロイスクリプトを作る</title>
+    <id>https://zenn.dev/airiell/articles/git-archive-manifest-deploy</id>
+    <link href="https://zenn.dev/airiell/articles/git-archive-manifest-deploy" />
+    <updated>2026-11-05T09:51:35+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに ちょっとした不具合を本番のサーバーで直接直し、Git に戻すのを忘れたまま、次のデプロイでその修正を消してしまったことがあります。同じ失敗を繰り返さないために、個人で運用している PHP のサイトを、レンタルサーバー（Xserver）にデプロイするためのシェルスクリプトを作りました。この記事では、その考え方と中身を紹介します。 こんなふうに動きます。反映する前に、何が追加・更新・削除され…</summary>
+  </entry>
+  <entry>
+    <title>GitHub Copilot Fusion一般提供開始、Claude Codeに迫る性能でコストは約半分</title>
+    <id>https://news.mynavi.jp/techplus/article/20261104-5225011/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20261104-5225011/" />
+    <updated>2026-11-05T08:31:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHub Copilot Fusion一般提供開始、Claude Codeに迫る性能でコストは約半分 GitHubは2026年10月28日(現地時間)、「Route and orchestrate models with GitHub Copilot Fusion - GitHub Changelog」において、複数のAIモデルを自動選択・連携させる「Copilot Fusion」の一般提供を…</summary>
+  </entry>
+  <entry>
+    <title>Editorはもう古い。新ロールへ安全に移る768試行</title>
+    <id>https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration</id>
+    <link href="https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration" />
+    <updated>2026-11-04T23:13:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>3行でまとめ Google Cloud に、Owner・Editor・Viewer の後継となる新しい基本ロール Admin・Writer・Reader が登場しました ただし名前を置き換えるだけで移行すると、一部の人にだけ見せていたデータが、Reader を持つ全員に読めるようになってしまいます 移行前に影響を洗い出すスクリプトを作り、答えを伏せた試験で、影響のある55か所をすべて見つけられるこ…</summary>
+  </entry>
+  <entry>
+    <title>Cortex AI Gateway-Part2: GAリリースにPreview以降の追加機能を検証</title>
+    <id>https://zenn.dev/snowflakejp/articles/01fc867db3bf02</id>
+    <link href="https://zenn.dev/snowflakejp/articles/01fc867db3bf02" />
+    <updated>2026-11-04T21:45:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 著者はSnowflakeに所属しておりますが、本記事は個人の見解であり、所属する組織の公式見解ではありません。 ! 2026年11月4日時点の情報です。Cortex AI Gatewayの推論・可観測性・コスト管理は2026年11月3日にGA（一般提供）になりました。Trace analytics、Responses API、Tools for Cortex AI GatewayはPrevie…</summary>
+  </entry>
+  <entry>
+    <title>ECS + RDS → Lambda + Aurora DSQL の移行で社内アプリのインフラ費用がほぼゼロになった話</title>
+    <id>https://zenn.dev/wogo_techblog/articles/4c21661707f8c8</id>
+    <link href="https://zenn.dev/wogo_techblog/articles/4c21661707f8c8" />
+    <updated>2026-11-04T19:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！株式会社 WOGO で長期インターンをしている福岡幹崇と申します。 WOGO では、社内向けに小規模な業務用アプリを運用しています。従来、このアプリは RDS を VPC 内に配置する構成で動作しており、トラフィックがほぼゼロであっても無視できない金額の固定費が毎月生じていました。高い可用性や高負荷への対応を求められない社内アプリにとって、こうした固定費は割高です。そこで最近…</summary>
+  </entry>
+  <entry>
+    <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
+    <id>https://zenn.dev/nexta_/articles/42a828ca2b8a02</id>
+    <link href="https://zenn.dev/nexta_/articles/42a828ca2b8a02" />
+    <updated>2026-11-04T11:30:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code のセッションを、VSCode の拡張機能で5つほど並べて使っている。 Markdown が見やすく、コードも見られて、VSCode から離れなくて済むからだ。 ただ、パネルの見出しは短く、5枚並べるとどれが何をしているのか分からなくなる。 使用枠があとどれくらい持つのかも気になる。 そこで、動いているセッションを1枚で見るダッシュボードを自分用に作った。 いま動いているセッ…</summary>
+  </entry>
   <entry>
     <title>13:30-14:00 440-441 (2件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/440-441</id>
@@ -439,14 +503,6 @@
     <summary>【米南部テキサス州オースティン=大平祐嗣】米国最大のデータセンター建設計画地である南部テキサス州の中間選挙で民主党が大勝した。民主の次期知事は法整備が整うまで建設禁止を明言する。延期の動きは他州にも波及し、米国の人工知能（AI）インフラ投資全体に急ブレーキがかかる見通しだ。「州民を優先し保護する法律...</summary>
   </entry>
   <entry>
-    <title>集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング</title>
-    <id>https://zenn.dev/nrs/articles/33ba79c8b2542e</id>
-    <link href="https://zenn.dev/nrs/articles/33ba79c8b2542e" />
-    <updated>2026-11-05T03:21:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI に任せられる範囲と人が介入する範囲を分ける基準は、判断の不可逆性にあると考えています。 すぐに直せる実装の細部は AI に任せられますが、後戻りしにくい判断まで AI だけに任せることには若干の不安が残り、人が介入する余地はいまだにありそうです。 たとえば AI がコードを正しく書けても、できあがったシステ...</summary>
-  </entry>
-  <entry>
     <title>C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ</title>
     <id>https://zenn.dev/trbx304/articles/34fec79781e39c</id>
     <link href="https://zenn.dev/trbx304/articles/34fec79781e39c" />
@@ -461,6 +517,14 @@
     <updated>2026-11-04T21:21:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>概要 クイズを「解く」アプリではなく、クイズを「つくる」アプリを作ったので、その開発の記録をまとめておきます。 5月にリポジトリを作ってから10月末まで、コミットは全部で307（マージを除くと191）、プルリクエストは114本になりました。履歴をタイムラインで追いながら、何を考えてどこでハマったかを残しておきます。 きっかけ 家で娘とクイズを出し合う遊びをよくしています。 「あかくて、まるくて、あ…</summary>
+  </entry>
+  <entry>
+    <title>集約をどこまで機械的に導けるか――形式手法をベースとしたドメインモデリング</title>
+    <id>https://zenn.dev/nrs/articles/33ba79c8b2542e</id>
+    <link href="https://zenn.dev/nrs/articles/33ba79c8b2542e" />
+    <updated>2026-11-04T20:54:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI に任せられる範囲と人が介入する範囲を分ける基準は、判断の不可逆性にあると考えています。 すぐに直せる実装の細部は AI に任せられますが、後戻りしにくい判断まで AI だけに任せることには若干の不安が残り、人が介入する余地はいまだにありそうです。 たとえば AI がコードを正しく書けても、できあがったシステムがビジネスに合っているとは限りません。 ビジネスの進め方や判断の基準と、システムに組…</summary>
   </entry>
   <entry>
     <title>AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計</title>
@@ -741,69 +805,5 @@
     <updated>2026-11-04T13:44:11+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに IT未経験でエンジニアになった私は、配属後の勉強期間中、AIに頼りすぎていました。 コードの書き方に悩めば、すぐにAIに聞く エラーが出ても、原因を自分で考えずにAIに頼る その結果、先輩から質問されたときに何も説明できず、完全に止まってしまいました。 自分...</summary>
-  </entry>
-  <entry>
-    <title>2027年4月26日から変わる CloudWatch Logs の IAM ポリシーの評価方法を CloudWatch Logs IAM Policy Validator で確認する - kakakakakku blog</title>
-    <id>https://kakakakakku.hatenablog.com/entry/2026/11/04/091507</id>
-    <link href="https://kakakakakku.hatenablog.com/entry/2026/11/04/091507" />
-    <updated>2026-11-04T12:13:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 個人の検証環境として使ってる AWS アカウントに AWS Health から「AWS CLOUDWATCH PLANNED LIFECYCLE EVENT」という AWS Health Event が来ていた．簡単に言うと「2027年4月26日から Amazon CloudWatch Logs の IAM ポリシーの評価方法が変わるから事前に対応よろしく！」という内容だった． Star…</summary>
-  </entry>
-  <entry>
-    <title>04:30-05:00 336-337 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/336-337</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/336-337" />
-    <updated>2026-11-05T04:33:35+09:00</updated>
-    <category term="新日" />
-    <summary>▶336 ゲイブ良いヒールになってる ゆうちゃん、、ベルト欲シイデスカ？新日本ダイスキデスカ？は可愛かったわ あとあんま言われてないけどモッさん前歯折れてたよな？ ▶337 &gt;&gt;292 言い方よ</summary>
-  </entry>
-  <entry>
-    <title>03:30-04:00 334-335 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/334-335</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/334-335" />
-    <updated>2026-11-05T03:55:19+09:00</updated>
-    <category term="新日" />
-    <summary>▶334 いや今鷹木が辞めたら新日のクオリティ落ちんだろ 外様が新日支えてるとこあるし ▶335 SHOの金玉晒しへの懲役5年か お務めお疲れ様でした</summary>
-  </entry>
-  <entry>
-    <title>02:30-03:00 333 (1件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/333</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/333" />
-    <updated>2026-11-05T02:42:01+09:00</updated>
-    <category term="新日" />
-    <summary>▶333 16日のルチャ・キングダムのチケットが全然売れてないらしい。海外人気の高い辻も出場するのになぜだ… https://x.com/masukusukidesu/status/2117851552023290078</summary>
-  </entry>
-  <entry>
-    <title>02:00-02:30 330-332 (3件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/330-332</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/330-332" />
-    <updated>2026-11-05T02:16:09+09:00</updated>
-    <category term="新日" />
-    <summary>▶330 そうかな？アンバ会議でおっぱい連呼のツージーには トンパチレジェンドの前田や橋本の系譜を感じる ▶331 &gt;&gt;307 成田って何かあんの？お前にも興味持たれてない一番終わってる存在だが 中身で勝負することを諦めた男だから未来はないよ。海野は必ずあるけど ▶332 しかし鷹木が邪魔だ。棚橋はなんとか彼をノアにリリースしてくれないか 今の新日で外様おじさんをどんな目で見ろと言うんだ。タイチは…</summary>
-  </entry>
-  <entry>
-    <title>商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC301IV0Q6A031C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC301IV0Q6A031C2000000/" />
-    <updated>2026-11-04T20:01:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>商品やサービスの情報源として、インフルエンサーらの発信より生成AI（人工知能）の回答を重視することがサイバーエージェントの若年層向け調査で分かった。生成AI利用者の45%が信頼し、テレビや雑誌よりもわずかながら高かった。サイバーエージェント次世代生活研究所が7月13〜31日、インターネットを通じて全国の小学...</summary>
-  </entry>
-  <entry>
-    <title>14:00-14:30 33-36 (4件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/33-36</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/33-36" />
-    <updated>2026-11-04T14:29:58+09:00</updated>
-    <category term="新日" />
-    <summary>▶33 &gt;&gt;32 まずメキシコでのキラvs朱里が終わらないとわからない ▶34 &gt;&gt;29 オーカーンはよく見たらつぶらな瞳をしてます余 ▶35 地味にMJFが他団体に参戦するのって、めっちゃレアじゃない？ ▶36 また心優しき男ゲイブになってる・・・</summary>
-  </entry>
-  <entry>
-    <title>Progress on provable inference for large language models</title>
-    <id>https://www.anthropic.com/research/provable-inference</id>
-    <link href="https://www.anthropic.com/research/provable-inference" />
-    <updated>2026-11-03T20:27:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Roy Rinberg (Anthropic), Alex Allain (Anthropic); Alessandro Chiesa (EPFL, StarkWare), Miranda Christ (MIT, RESI), Rahul Dalal (Anthropic STEM Fellows Program, Succinct), Giacomo Fenzi (EPFL), Ben May…</summary>
   </entry>
 </feed>
