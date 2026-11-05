@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-06T05:00:16.659647+09:00</updated>
+  <updated>2026-11-06T05:30:13.087381+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>高校生がNew Relic × ChatGPTでScyllaDBの1.1秒遅延を追ったら、CPU steal 72%が見えた</title>
+    <id>https://qiita.com/harupython/items/8db7460b05ac8705837d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/harupython/items/8db7460b05ac8705837d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-05T16:17:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1秒の読み取り遅延から、OSのCPU stealまでたどり着いた 私は現在高校生で、個人でソフトウェアの開発・運用をしています。最近導入したNew Relicが予想以上に便利だったので、実際の障害調査で何ができたのか紹介します。 ScyllaDBを使っているシステムで、設...</summary>
+  </entry>
+  <entry>
+    <title>JavaScriptとReactの学習として、それぞれでTodoアプリを作りました。</title>
+    <id>https://qiita.com/Tukirukiki/items/9af8c76c9c08fe6bf785?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Tukirukiki/items/9af8c76c9c08fe6bf785?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-05T14:08:06+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>JavaScriptとReactの学習として、それぞれでTodoアプリを作りました。 JavaScript版 React版 追加・完了・削除・未完了に戻す処理を実装する中で、Reactでは画面の構造や更新処理を書きやすいと感じました。 この記事では、その理由を実際のコ...</summary>
+  </entry>
+  <entry>
+    <title>2026年11月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
+    <id>https://qiita.com/ennagara128/items/bec153471d577eb808ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ennagara128/items/bec153471d577eb808ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-05T09:44:16+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 営業こそコミュニティでは「No sell」でい...</summary>
+  </entry>
+  <entry>
+    <title>PR投げたらClaudeがレビューしてくれる仕組みを作ってみた</title>
+    <id>https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18</id>
+    <link href="https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18" />
+    <updated>2026-11-05T07:42:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Yokohama North Meetup #18 での登壇資料でございます。</summary>
+  </entry>
+  <entry>
+    <title>【テスト】TestingLibraryElementError: Found multiple elements with the textに沼った</title>
+    <id>https://qiita.com/ryu0947/items/44248a2e594a902dd607?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu0947/items/44248a2e594a902dd607?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-05T00:14:58+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに VitestとRTLでReactアプリをテストしていたらTestingLibraryElementError: Found multiple elements with the textエラーが出ました。 解決するのにかなり時間が掛かってしまったので原因と解決方...</summary>
+  </entry>
+  <entry>
+    <title>【2026年11月版】Amazon Bedrockの安価なLLMを19個、RAGで徹底比較してみた（Nova 2 Lite / Claude Haiku 4.5 / gpt-oss / Qwen3 / DeepSeek など）</title>
+    <id>https://qiita.com/MURAMASA2470/items/0e59f2f6d037aa5e7ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/MURAMASA2470/items/0e59f2f6d037aa5e7ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T17:53:22+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 業務で「社内の資料を検索して、その内容だけを根拠に答える」RAGのチャットボットを作っています。 回答を作るモデルには、これまで Amazon Nova 2 Lite を使っていました。安くて速いのですが、数字の読み違いや、資料に無い数字を作ってしまう回答がちょ...</summary>
+  </entry>
+  <entry>
+    <title>【Git初心者】「やばい、間違えた！」から生還するコマンド備忘録（プッシュ前・プッシュ後）</title>
+    <id>https://qiita.com/tomita_e/items/7bce4bda7ecd13446fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/tomita_e/items/7bce4bda7ecd13446fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T15:14:15+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに IT知識ゼロの文系から新卒でSEになった私が、現場配属されてすぐ直面したのが「Git」の壁でした。それ以前（研修期間）は勉強したものの、ブランチの切り替えもやったことがないレベル。正直、リポジトリが何者かや、リモートとローカルの違いもよくわかっていませんでした。...</summary>
+  </entry>
+  <entry>
+    <title>Cronを使わずに、ISRとオンデマンド再検証でAPIを更新する</title>
+    <id>https://qiita.com/okokok/items/f9e3e203f8913d852c89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/okokok/items/f9e3e203f8913d852c89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-03T16:56:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>fxサイトをvercelにデプロイしているのですが、政策金利をAPIで取得するコンテンツを作ろうとした際に、リクエストごとにAPIを叩くのは冗長なので、バッチで実行しようと考えたのですが、vercelではcronが一つしか使えないため(他のプロジェクトで利用)、ISRとオン...</summary>
+  </entry>
   <entry>
     <title>04:30-05:00 705-707 (3件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/705-707</id>
@@ -741,69 +805,5 @@
     <updated>2026-11-05T15:36:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>HOME &gt; ニュース &gt; データ転送量が約4倍となる新規格「Bluetooth HDT」正式承認。ロスレスオーディオの標準化へ Bluetooth SIGは、米国時間2026年11月4日、Bluetooth技術の性能を飛躍的に引き上げるという新規格「Bluetooth 高データスループット（High Data Throughput、以下 Bluetooth HDT）」を正式承認したと発表し...</summary>
-  </entry>
-  <entry>
-    <title>「勝利の女神：NIKKE」のPCランチャー経由の不正プログラム配布についてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/11/05/133509</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/05/133509" />
-    <updated>2026-11-05T13:48:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月5日、Level Infiniteは「勝利の女神：NIKKE」のPCランチャーの一部ファイルが第三者に改ざんされ、起動時に不正プログラムが実行される可能性があったと公表しました。ここでは関連する情報をまとめます。 公式CDNのスクリプト4件を改ざん 「勝利の女神：NIKKE」はSHIFT UPが開発し、Level Infiniteが配信して...</summary>
-  </entry>
-  <entry>
-    <title>Mod共有サイト「Nexus Mods」、AIの利用開示を義務化。「AIの是非」にコミュニティ揺れるも、ひとまず“禁止”はしない - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261104-477375/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261104-477375/" />
-    <updated>2026-11-05T08:29:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Mod共有サイト「Nexus Mods」は11月3日、AI生成コンテンツに関する声明を発表した。これまでもAI生成を利用したことを示すタグは存在したが、新たにAI利用の開示が必須となる。 Nexus ModsはPC版ゲーム向けのMod共有プラットフォームだ。2001年にRobin Scott氏によって設立され、運営元はイギリス・デヴォン州に拠点を置...</summary>
-  </entry>
-  <entry>
-    <title>15:30-16:00 461-471 (11件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/461-471</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/461-471" />
-    <updated>2026-11-05T15:55:29+09:00</updated>
-    <category term="新日" />
-    <summary>▶461 &gt;&gt;429 海野豹太を拍手してるバカがいるなw ▶462 ヘナレの言う通りや 吉田と削りあってた頃思い出せ ▶463 &gt;&gt;85 同期の岡なんかヤングライオン時代をピークに劣化しかしてないんだから維持してるだけマシだろ ▶464 &gt;&gt;449 謎のマスクマンが現れる ▶465 &gt;&gt;449 本当に不可抗力の事故起きたらノーコンテストにでもすればいいじゃん 実際のところは大体の事故は不可抗力なん…</summary>
-  </entry>
-  <entry>
-    <title>15:00-15:30 455-460 (6件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/455-460</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/455-460" />
-    <updated>2026-11-05T15:28:08+09:00</updated>
-    <category term="新日" />
-    <summary>▶455 YOHが勝ちブックとして、脱臼して負けた両国みたいな事がまた起きたらどうすんのかね ▶456 流行語大賞のノミネートが発表されたからそろそろ新日スレ流行語大賞2026も考えよう ▶457 まぁODNOFかおいブシロード！の二択やろなぁ ▶458 辻語録で9ある 1 みなさんに【お知らせ】があります 2 物事の本質は何なのか自分で確かめる事を忘れないでください 3 俺の肌感覚ではこのG1、…</summary>
-  </entry>
-  <entry>
-    <title>ドコモで不正アクセスか 5日午前1時すぎから緊急メンテナンス オンラインサービス一部を停止 復旧のめど立たず（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/dba2b8b66a6501211b96b8d2d3a1f75051bc122d</id>
-    <link href="https://news.yahoo.co.jp/articles/dba2b8b66a6501211b96b8d2d3a1f75051bc122d" />
-    <updated>2026-11-05T14:55:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NTTドコモは、不正アクセスを受けた可能性が高いとして、オンラインのサービスの一部を停止しました。 復旧のめどはたっていません。 【詳しく】不正アクセス 関連情報まとめ テレ朝NEWSNTTドコモによりますと、午前1時過ぎから、オンラインショップや契約情報の変更などがインターネット上でできる「mydocomo（マイ・ド...</summary>
-  </entry>
-  <entry>
-    <title>国産日本語翻訳AI「PLaMo 3 Translate」の4モデルをPFNが無料公開、スマホ上のローカル動作でも爆速＆高精度の日本語翻訳が可能になったので試してみた</title>
-    <id>https://gigazine.net/news/20261105-plamo-3-translate-open-weight/</id>
-    <link href="https://gigazine.net/news/20261105-plamo-3-translate-open-weight/" />
-    <updated>2026-11-05T12:37:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI開発企業のPreferred Networks(PFN)が2026年11月5日、翻訳に特化した大規模言語モデル「PLaMo 3 Translate」のモデルウェイトを公開しました。8億から310億パラメータまで4種類のモデルが用意されており、最小モデルでも既存の大規模な翻訳AIを上回る性能を発揮するとされています。スマートフォンやPCでインターネッ...</summary>
-  </entry>
-  <entry>
-    <title>Leanで書く証明付きの日付と税計算</title>
-    <id>https://s.conao3.com/blog/2026/5499a8</id>
-    <link href="https://s.conao3.com/blog/2026/5499a8" />
-    <updated>2026-11-05T12:15:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>控訴期間の末日や所得税の額は、条文を読めば計算の手順が決まります。 それでも、年末年始に当たる末日の繰り下げや、税率の区分の境目のように、手で計算すると間違えやすい所があります。 プログラムに書いた場合も、その計算が条文どおりかを確かめるには手間がかかります。 lean-ritsuryo は、日本の法令が定める期...</summary>
-  </entry>
-  <entry>
-    <title>Discord、“イマドキ”な言語「Rust」でアプリ全面刷新へ。メモリ使用量がっつり減りそう - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261105-477644/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261105-477644/" />
-    <updated>2026-11-05T13:59:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Discordのデスクトップ版およびモバイル版のクライアントを、Rustベースのネイティブアプリケーションとして刷新する方針が明かされた。 Discordの共同創業者兼CTOであるStanislav Vishnevskiy氏は11月5日、Discordのデスクトップ版およびモバイル版のクライアントを、Rustベースのネイティブアプリケーションとして刷新...</summary>
   </entry>
 </feed>
