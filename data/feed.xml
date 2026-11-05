@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-05T21:00:16.877207+09:00</updated>
+  <updated>2026-11-05T21:30:14.545451+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ドコモ「５Ｇ」の一部で障害発生…不正アクセスで「マイ ドコモ」などから最大３０万件の個人情報流出</title>
+    <id>https://www.yomiuri.co.jp/economy/20261105-GYT1T00285/</id>
+    <link href="https://www.yomiuri.co.jp/economy/20261105-GYT1T00285/" />
+    <updated>2026-11-05T14:04:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【読売新聞】 ＮＴＴドコモは５日、携帯電話の高速・大容量の通信規格「５Ｇ」の一部サービスで、音声通話やデータ通信が利用しづらくなっていると発表した。５日午後６時時点で復旧の見通しは立っていない。原因は調査中だが、今のところ、サイバー</summary>
+  </entry>
+  <entry>
+    <title>Xで積み重ねた日々をmixi2へ。過去ポストのインポート機能ができるまで</title>
+    <id>https://zenn.dev/mixi/articles/bcf2363e83b0a2</id>
+    <link href="https://zenn.dev/mixi/articles/bcf2363e83b0a2" />
+    <updated>2026-11-05T13:29:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！mixi2 エンジニアの久野です🦆 今回は、X の過去ポストを mixi2 に取り込めるインポート機能について、開発のきっかけや設計、実装で考えたことを紹介します！ 開発のきっかけ mixi2には、過去の投稿をカレンダーから振り返る機能があります📅 日付を辿って、その日に書いたことや撮った写真を見返せる、自分の記録を積み重ねていくための機能です。 月ごとのカレンダー 日ごとのカレンダー…</summary>
+  </entry>
+  <entry>
+    <title>Siri AIにアプリをつなぎ、振る舞いを評価する</title>
+    <id>https://zenn.dev/d_date/articles/e8e2c5d53b424e</id>
+    <link href="https://zenn.dev/d_date/articles/e8e2c5d53b424e" />
+    <updated>2026-11-05T12:51:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! Xcode 27.3 beta時点の情報です。 2026年11月3日、iOS 27.3 betaとともにSiri AI Developer Previewが始まり、どのアプリでも独自のアクションとコンテンツをSiri AIに渡せるようになりました。あわせて、Siriの振る舞いをテストとして書けるSiri Evaluationsも登場しています。 この記事では、まずSiri AIとは何かを整理し…</summary>
+  </entry>
+  <entry>
+    <title>警察庁とGoogleなどによるボットネットXCPEのテイクダウンについてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/11/05/095634</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/05/095634" />
+    <updated>2026-11-05T12:25:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月2日(米国時間)、Googleは、警察庁などと連携し、セットトップボックスに出荷前から組み込まれたバックドアで構成されるボットネット「XCPE」をテイクダウンしたと公表しました。ここでは関連する情報をまとめます。 XCPEとは何か XCPEは、機器の出荷前にファームウェアへ組み込まれたバックドア「x.cpe」(一部...</summary>
+  </entry>
+  <entry>
+    <title>09:00-09:30 363-364 (2件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/363-364</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/363-364" />
+    <updated>2026-11-05T09:28:27+09:00</updated>
+    <category term="新日" />
+    <summary>▶363 ABEMA撤退で日本のWWE熱が下がるからAEW側も仕掛けるタイミングだってのもあるのかな ▶364 &gt;&gt;355 そうなんだ。 社長のトークショーでそれっぽいこと話したらしいが</summary>
+  </entry>
+  <entry>
+    <title>レガシーVBA処理をWSL×C#でモダンに再構築した話</title>
+    <id>https://zenn.dev/nickelth/articles/vbatocsharponwsl</id>
+    <link href="https://zenn.dev/nickelth/articles/vbatocsharponwsl" />
+    <updated>2026-11-04T22:02:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>課題 配属されてすぐの案件で社内ツールとしてVBAを書かされたが、TypeScript経験者である自分にとってBasic系特有の型不安&amp;ネスト見づらい問題が不快。 納品して2か月後、出力に問題があるとの指摘を受けてソース改修に臨んだが、自分が書いたVBAのはずなのに処理フローが不明すぎて唖然。 フローチャート図を書かない自分が悪いが、ACCESSから脱却したいくせに新たなACCESSツールを作るこ…</summary>
+  </entry>
+  <entry>
+    <title>AIルールだけでは守られない規約を、自作lintで縛るようにした</title>
+    <id>https://zenn.dev/zoma/articles/72011082f2b1b7</id>
+    <link href="https://zenn.dev/zoma/articles/72011082f2b1b7" />
+    <updated>2026-11-04T18:50:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI に実装させるようになってから、思い通りの出力にならないものの解決策を AI ルールだけに求め、AI 向けのルールファイルを書き足し続けていました。しかし実際には、AI がルール通りに書かないケースも多く、人による手直しやレビュー指摘が相次いでいました。 振り返ると、規約は lint で縛るのが元々の基本でした。それを忘れて、AI ルールの更新ばかりしていました。そして lint でも縛ると決…</summary>
+  </entry>
   <entry>
     <title>20:30-21:00 630-651 (22件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/630-651</id>
@@ -471,14 +527,6 @@
     <summary>米OpenAIは11月4日（現地時間）、画像生成AIの新版「ChatGPT Images 2.6」を発表した。9月に公開した「Images 2.5」の後継モデルで、画像生成速度を50％向上させたほか、編集精度を改善した。新機能としてGIFアニメーションの作成や、保存した写真を別のチャットでも再利用できる機能も追加する。 Images 2.6は同日から...</summary>
   </entry>
   <entry>
-    <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
-    <id>https://zenn.dev/nexta_/articles/42a828ca2b8a02</id>
-    <link href="https://zenn.dev/nexta_/articles/42a828ca2b8a02" />
-    <updated>2026-11-05T16:34:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>サブエージェントをよく使った日ほど、作業履歴の数字が小さく出ていた。 直した後は、2つの画面の数字がどの日も一致している。 人が作るなら、同じ「使ったトークン」を2か所で別々に数えることはまずしない。 数える関数を1つ作って、両方の画面から呼ぶ。 気づいていなかったわけではない Claude Code の会話の記録...</summary>
-  </entry>
-  <entry>
     <title>14:00-14:30 442-448 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/442-448</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/442-448" />
@@ -533,6 +581,14 @@
     <updated>2026-11-04T19:00:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！株式会社 WOGO で長期インターンをしている福岡幹崇と申します。 WOGO では、社内向けに小規模な業務用アプリを運用しています。従来、このアプリは RDS を VPC 内に配置する構成で動作しており、トラフィックがほぼゼロであっても無視できない金額の固定費が毎月生じていました。高い可用性や高負荷への対応を求められない社内アプリにとって、こうした固定費は割高です。そこで最近…</summary>
+  </entry>
+  <entry>
+    <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
+    <id>https://zenn.dev/nexta_/articles/42a828ca2b8a02</id>
+    <link href="https://zenn.dev/nexta_/articles/42a828ca2b8a02" />
+    <updated>2026-11-04T11:30:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code のセッションを、VSCode の拡張機能で5つほど並べて使っている。 Markdown が見やすく、コードも見られて、VSCode から離れなくて済むからだ。 ただ、パネルの見出しは短く、5枚並べるとどれが何をしているのか分からなくなる。 使用枠があとどれくらい持つのかも気になる。 そこで、動いているセッションを1枚で見るダッシュボードを自分用に作った。 いま動いているセッ…</summary>
   </entry>
   <entry>
     <title>13:30-14:00 440-441 (2件)</title>
@@ -749,61 +805,5 @@
     <updated>2026-11-05T10:29:05+09:00</updated>
     <category term="新日" />
     <summary>▶373 引退しても社長が一番表に出てる感じがするね。 だからこそ引退時の体重くらいまで戻してほしいな。 ▶374 &gt;&gt;367 だから交渉次第でネバーセイネバーなわけよ 別に返上とか剥奪とかでいいところをロッキーの交渉で寝させられたわけでしょ ▶375 Twitterに日本語で書いてあったけどタイチがワタリではザックと組みたいって会社に要望を出したらしい ▶376 &gt;&gt;370 有明アリーナを予約し…</summary>
-  </entry>
-  <entry>
-    <title>OSSは「プルリクエストを送る」から「自分用に直す」へ？ AI時代のメンテナーがPR受付を閉じると宣言した理由</title>
-    <id>https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2611/05/news004.html" />
-    <updated>2026-11-05T06:34:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>連載目次 オープンソースソフトウェア（OSS）に貢献するなら、プルリクエスト（PR：コードの変更を元のプロジェクトに提案する仕組み）を送る。GitHubが広めたこの作法は、20年近く「当たり前」だった。その当たり前が、AIによって揺らいでいる。AIが数分で生成したPRを、人間のメンテナー（OSSの管理者）が何時間もかけ...</summary>
-  </entry>
-  <entry>
-    <title>“AI”のせいで「PostgreSQL 19」の公開が11月にずれ込み？／LLMで見つかるバグが急増してコミッターの手が回らず、大型機能の見送りも【やじうまの杜】</title>
-    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153596.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153596.html" />
-    <updated>2026-11-04T19:12:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>“AI”のせいで「PostgreSQL 19」の公開が11月にずれ込み？／LLMで見つかるバグが急増してコミッターの手が回らず、大型機能の見送りも【やじうまの杜】</summary>
-  </entry>
-  <entry>
-    <title>Raspberry Piが再び値上げで16GBモデルが6万円超えに、発売時の3倍以上に高騰</title>
-    <id>https://gigazine.net/news/20261104-raspberry-pi-price-rise/</id>
-    <link href="https://gigazine.net/news/20261104-raspberry-pi-price-rise/" />
-    <updated>2026-11-04T14:07:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>安価な小型PCとして知られる「Raspberry Pi」シリーズの一部モデルが2026年11月2日に値上げされました。メモリ容量16GBの「Raspberry Pi 5」は80ドル(約1万2700円)値上げされて385ドル(約6万1100円)となり、2025年1月の発売時と比べて価格は3倍以上に到達しています。 Price rises for some 16GB Raspberry Pi prod…</summary>
-  </entry>
-  <entry>
-    <title>Webデザインのインスピレーションを得られる！ デザインの細部に関するアイデアがまとめられた -Design Details</title>
-    <id>https://coliss.com/articles/build-websites/operation/work/designdetails.html</id>
-    <link href="https://coliss.com/articles/build-websites/operation/work/designdetails.html" />
-    <updated>2026-11-04T10:19:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>最近のWebサイトに使用されているデザインの細部に関するアイデア、さまざまなモーションをキュレーションしたサイトを紹介します。 Webサイトは業種で分類されており、さらにページ内のセクションごとにも分類されており、デザインのスタイルやコンポーネントの構成をはじめ、デザインについても詳しく解説されています...</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Microsoft Edgeに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261105.html#1</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261105.html#1" />
-    <updated>2026-11-05T09:52:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Microsoft Edgeに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Sophos UTMに任意のコード実行につながる脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261105.html#2</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261105.html#2" />
-    <updated>2026-11-05T09:52:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Sophos UTMに任意のコード実行につながる脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Cisco Secure Firewall ASAおよびFTD Softwareにサービス運用妨害（DoS）の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261105.html#3</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261105.html#3" />
-    <updated>2026-11-05T09:52:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Cisco Secure Firewall ASAおよびFTD Softwareにサービス運用妨害（DoS）の脆弱性</summary>
   </entry>
 </feed>
