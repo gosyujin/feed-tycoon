@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-05T20:00:14.431069+09:00</updated>
+  <updated>2026-11-05T20:30:14.561018+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>20:00-20:30 614-629 (16件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/614-629</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/614-629" />
+    <updated>2026-11-05T20:29:13+09:00</updated>
+    <category term="新日" />
+    <summary>▶614 成田シュン組優勝か揉めて1.4でTV王座戦かどっちなんだ ▶615 8時だＪＡＹ！ ▶616 &gt;&gt;497 むしろ髪型的にチャッキーTでは？ ▶617 成田シュンとウルフボルチンの決勝が見たい ▶618 ワールドタッグリーグって復帰以降シングルが一切できなくなった中西が 永田と組んで公式戦12.3試合やってたの見て、シングルとタッグって 選手にとって負担が全然違うんだなって思った記憶がある…</summary>
+  </entry>
+  <entry>
+    <title>自作AIエージェントの開発をやめた - 無駄と文化</title>
+    <id>https://blog.mudatobunka.org/entry/2026/11/05/100000</id>
+    <link href="https://blog.mudatobunka.org/entry/2026/11/05/100000" />
+    <updated>2026-11-05T18:16:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。 が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。 3行まとめ 分析エージェントを開発するのはやめて、分析 MCP として作り直した AI エージェントの全てを開発する...</summary>
+  </entry>
   <entry>
     <title>19:30-20:00 599-613 (15件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/599-613</id>
@@ -431,6 +447,14 @@
     <summary>米OpenAIは11月4日（現地時間）、画像生成AIの新版「ChatGPT Images 2.6」を発表した。9月に公開した「Images 2.5」の後継モデルで、画像生成速度を50％向上させたほか、編集精度を改善した。新機能としてGIFアニメーションの作成や、保存した写真を別のチャットでも再利用できる機能も追加する。 Images 2.6は同日から...</summary>
   </entry>
   <entry>
+    <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
+    <id>https://zenn.dev/nexta_/articles/42a828ca2b8a02</id>
+    <link href="https://zenn.dev/nexta_/articles/42a828ca2b8a02" />
+    <updated>2026-11-05T16:34:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>サブエージェントをよく使った日ほど、作業履歴の数字が小さく出ていた。 直した後は、2つの画面の数字がどの日も一致している。 人が作るなら、同じ「使ったトークン」を2か所で別々に数えることはまずしない。 数える関数を1つ作って、両方の画面から呼ぶ。 気づいていなかったわけではない Claude Code の会話の記録...</summary>
+  </entry>
+  <entry>
     <title>14:00-14:30 442-448 (7件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/442-448</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/442-448" />
@@ -485,14 +509,6 @@
     <updated>2026-11-04T19:00:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！株式会社 WOGO で長期インターンをしている福岡幹崇と申します。 WOGO では、社内向けに小規模な業務用アプリを運用しています。従来、このアプリは RDS を VPC 内に配置する構成で動作しており、トラフィックがほぼゼロであっても無視できない金額の固定費が毎月生じていました。高い可用性や高負荷への対応を求められない社内アプリにとって、こうした固定費は割高です。そこで最近…</summary>
-  </entry>
-  <entry>
-    <title>コードを読まずにバイブコーディングしたら、Claude Codeは分かっていてスルーしていた</title>
-    <id>https://zenn.dev/nexta_/articles/42a828ca2b8a02</id>
-    <link href="https://zenn.dev/nexta_/articles/42a828ca2b8a02" />
-    <updated>2026-11-04T11:30:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude Code のセッションを、VSCode の拡張機能で5つほど並べて使っている。 Markdown が見やすく、コードも見られて、VSCode から離れなくて済むからだ。 ただ、パネルの見出しは短く、5枚並べるとどれが何をしているのか分からなくなる。 使用枠があとどれくらい持つのかも気になる。 そこで、動いているセッションを1枚で見るダッシュボードを自分用に作った。 いま動いているセッ…</summary>
   </entry>
   <entry>
     <title>13:30-14:00 440-441 (2件)</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-05T09:52:00+09:00</updated>
     <category term="JPCERT" />
     <summary>複数のAdobe製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: ヤマハ製NWR100に複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261105.html#7</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261105.html#7" />
-    <updated>2026-11-05T09:52:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>ヤマハ製NWR100に複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のWatchGuard製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261105.html#8</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261105.html#8" />
-    <updated>2026-11-05T09:52:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のWatchGuard製品に脆弱性</summary>
   </entry>
 </feed>
