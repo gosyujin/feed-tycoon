@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-06T08:30:14.262170+09:00</updated>
+  <updated>2026-11-06T08:40:52.484004+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>税法を定理証明支援系 Lean で書いて、プロダクト実装を「全入力で」確かめる - freee Developers Hub</title>
+    <id>https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa</id>
+    <link href="https://developers.freee.co.jp/entry/lean-formal-verification-tax-law-qa" />
+    <updated>2026-11-05T00:32:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。 この記事では、一般的なソフトウェアテストでは確かめきれない税の計算を、定理証明支援系 Lean と AI エージェントで検証した取り組みを紹介します。1 節から 4 節で、その手段と進め方を書きます。5 節から 7 節で、そこでわかった 3 つの成果（書き方が...</summary>
+  </entry>
   <entry>
     <title>08:00-08:30 718 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/718</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-05T13:52:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: 「システム設計視点の行動経済学」、第56回を始めましょう。その前に、まず前回の復習として、 一つの糾弾が千の沈黙を生む ― チリングエフェクトの連鎖構造 : システム設計視点の行動経済学 (55) https://qiita.com/maskot1977/it...</summary>
-  </entry>
-  <entry>
-    <title>技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門」を頒布します。書籍ページと試し読みを公開しました - $shibayu36-&gt;blog;</title>
-    <id>https://blog.shibayu36.org/entry/2026/11/04/120000</id>
-    <link href="https://blog.shibayu36.org/entry/2026/11/04/120000" />
-    <updated>2026-11-05T13:18:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>以前告知した「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」が完成しました！ 技術書典21の書籍ページと、試し読みのPDFも公開しています。 今回作った本は、次の動画のようなターミナルで動く対戦シューティングゲームをGoで作りながら、オンラインゲームに...</summary>
   </entry>
 </feed>
