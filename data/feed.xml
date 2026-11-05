@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-06T01:00:14.906053+09:00</updated>
+  <updated>2026-11-06T01:30:14.665343+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>01:00-01:30 696-698 (3件)</title>
+    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/696-698</id>
+    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/696-698" />
+    <updated>2026-11-06T01:23:42+09:00</updated>
+    <category term="新日" />
+    <summary>▶696 学校プロレスでタイチがまた組みたいってマイクで言ったら「いいよ」って言ってたからなザック ▶697 アメリカの株価が歴史的大暴落してるらしい あちこちに影響出るだろうな ▶698 プロレス3年生と1年生のタッグって危険じゃね？</summary>
+  </entry>
+  <entry>
+    <title>#27 緊急！ISUCON2026優勝者に聞く、完全自律AIエージェントの作り方と今後のOSS | kawasy | 八百万のOSS</title>
+    <id>https://yaoyorozu-oss.henteko07.com/episode/4b51fca1-644f-4b3d-bcd7-42c44f9cf507</id>
+    <link href="https://yaoyorozu-oss.henteko07.com/episode/4b51fca1-644f-4b3d-bcd7-42c44f9cf507" />
+    <updated>2026-11-05T15:09:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>今回は、AIエージェントを完全自律で動かしてISUCON2026で優勝したkawasyさんをゲストに迎えたゲスト回です。fukabori.fmで語られた大会の全体像を踏まえて、準備の過程での判断と、その背景にある考え方を伺いました。 kawasyさんは当初から「人間が介入せず、8時間止まらずに最後まで自律的に動くこと」を目標に準備し...</summary>
+  </entry>
+  <entry>
+    <title>続・ソフトウェアアーキテクトのための意思決定術: Decision Readiness, Revisited — When AI Changes the Economics of Software Architecture</title>
+    <id>https://speakerdeck.com/snoozer05/decision-readiness-revisited</id>
+    <link href="https://speakerdeck.com/snoozer05/decision-readiness-revisited" />
+    <updated>2026-11-05T13:39:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「『ソフトウェアアーキテクトのための意思決定術』のその先 ――AIで置き換わる仕事と残る意思決定」の発表資料です #意思決定術_findy https://findy.connpass.com/event/409797/ アーカイブ動画: https://findy-code.io/even…</summary>
+  </entry>
   <entry>
     <title>00:30-01:00 695 (1件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/695</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-05T09:51:35+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに ちょっとした不具合を本番のサーバーで直接直し、Git に戻すのを忘れたまま、次のデプロイでその修正を消してしまったことがあります。同じ失敗を繰り返さないために、個人で運用している PHP のサイトを、レンタルサーバー（Xserver）にデプロイするためのシェルスクリプトを作りました。この記事では、その考え方と中身を紹介します。 こんなふうに動きます。反映する前に、何が追加・更新・削除され…</summary>
-  </entry>
-  <entry>
-    <title>GitHub Copilot Fusion一般提供開始、Claude Codeに迫る性能でコストは約半分</title>
-    <id>https://news.mynavi.jp/techplus/article/20261104-5225011/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20261104-5225011/" />
-    <updated>2026-11-05T08:31:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GitHub Copilot Fusion一般提供開始、Claude Codeに迫る性能でコストは約半分 GitHubは2026年10月28日(現地時間)、「Route and orchestrate models with GitHub Copilot Fusion - GitHub Changelog」において、複数のAIモデルを自動選択・連携させる「Copilot Fusion」の一般提供を…</summary>
-  </entry>
-  <entry>
-    <title>Editorはもう古い。新ロールへ安全に移る768試行</title>
-    <id>https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration</id>
-    <link href="https://zenn.dev/acntechjp/articles/zenn-gcp-basic-roles-migration" />
-    <updated>2026-11-04T23:13:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>3行でまとめ Google Cloud に、Owner・Editor・Viewer の後継となる新しい基本ロール Admin・Writer・Reader が登場しました ただし名前を置き換えるだけで移行すると、一部の人にだけ見せていたデータが、Reader を持つ全員に読めるようになってしまいます 移行前に影響を洗い出すスクリプトを作り、答えを伏せた試験で、影響のある55か所をすべて見つけられるこ…</summary>
-  </entry>
-  <entry>
-    <title>Cortex AI Gateway-Part2: GAリリースにPreview以降の追加機能を検証</title>
-    <id>https://zenn.dev/snowflakejp/articles/01fc867db3bf02</id>
-    <link href="https://zenn.dev/snowflakejp/articles/01fc867db3bf02" />
-    <updated>2026-11-04T21:45:11+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 著者はSnowflakeに所属しておりますが、本記事は個人の見解であり、所属する組織の公式見解ではありません。 ! 2026年11月4日時点の情報です。Cortex AI Gatewayの推論・可観測性・コスト管理は2026年11月3日にGA（一般提供）になりました。Trace analytics、Responses API、Tools for Cortex AI GatewayはPrevie…</summary>
   </entry>
 </feed>
