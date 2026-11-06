@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-06T23:30:23.031220+09:00</updated>
+  <updated>2026-11-07T00:00:12.122307+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWS CLI v2と出力が同じで最大550倍速いawsrをRustで作った</title>
+    <id>https://s.conao3.com/blog/2026/f681b9</id>
+    <link href="https://s.conao3.com/blog/2026/f681b9" />
+    <updated>2026-11-06T13:29:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>比べる下限として、同じ PC で C の hello world を動かすと、動的リンクで 1.1ms、静的リンクで 0.7ms かかります。 API を呼ぶコマンドの残りの数 ms は、プロセスの起動、エンドポイントのルールの評価、HTTP の送受信にかかっています。 本家は Python で書かれていて、呼ぶたびにインタプリタを起動し、多くのモジ...</summary>
+  </entry>
+  <entry>
+    <title>142. ISUCON2026で優勝する方法 w/ kawasy</title>
+    <id>https://open.spotify.com/episode/3upWlmL3EZ16icnugHzRJf</id>
+    <link href="https://open.spotify.com/episode/3upWlmL3EZ16icnugHzRJf" />
+    <updated>2026-11-06T13:15:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。話したネタISUCON2026で、競技中に人間が介入せず優勝fukabori.ep #52 ISUCON今回の出題課題競技当日に人間が行った操作とは？約3か月の準備で作ったハー...</summary>
+  </entry>
   <entry>
     <title>23:00-23:30 937-944 (8件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/937-944</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-06T03:25:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>GitHub Next⁠⁠、AI生成コードが仕様を満たすことを証明する「PDD Kit」を紹介 GitHub Nextは2026年11月4日、Microsoft Researchと共同開発するProof-Driven Development Kit（PDD Kit）の仕組みと、ログイン処理への適用例を紹介した。PDD Kitは、開発者との対話を通じて要求を機械で検証できる仕様にまとめ、AIエージェ…</summary>
-  </entry>
-  <entry>
-    <title>OpenAPI Hono というライブラリを作りました</title>
-    <id>https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c</id>
-    <link href="https://zenn.dev/mini_bg_pro_n/articles/cd79010b1d1b9c" />
-    <updated>2026-11-05T21:32:53+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>OpenAPI Hono https://github.com/nakita628/openapi-hono はじめに 私は、OpenAPIが大好きです。APIの形を、言語に依存しない1つの定義として書けて、そこからドキュメントもクライアントも作れます。 そして、Zod OpenAPI Honoも好きです。createRoute()でルートを書いて、app.openapi()で登録する。それだけで…</summary>
-  </entry>
-  <entry>
-    <title>【.NET 11】SafeFileHandleの新規APIでハマった点について</title>
-    <id>https://zenn.dev/prozolic/articles/f74a9711a6a22c</id>
-    <link href="https://zenn.dev/prozolic/articles/f74a9711a6a22c" />
-    <updated>2026-11-05T20:52:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに .NET 11 RC2やRC3などがリリースされて、もうすぐ.NET 11の正式リリースが行われる時期になりました。 そしてふと 改めて.NET 11 の新規 API を眺めていると、低レベル I/Oの機能が色々入っています。その中でハンドル関連のAPIについて、色々はまった点も含めて調べた内容に記載しておきます。 https://learn.microsoft.com/ja-jp/do…</summary>
   </entry>
 </feed>
