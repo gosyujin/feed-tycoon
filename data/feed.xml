@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T09:30:13.288718+09:00</updated>
+  <updated>2026-11-07T10:00:13.086554+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWSでWebリクエストを受ける8パターンと「オリジンを裸にしない」設定プラクティス</title>
+    <id>https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection</id>
+    <link href="https://zenn.dev/anfangd/articles/aws-web-ingress-origin-protection" />
+    <updated>2026-11-07T08:36:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この記事は、Claude と一緒に AWS 公式ドキュメントを調べ、構成図を作りながら整理した内容をまとめたものです。各設定の根拠は、記事中のリンク先の公式ドキュメントで確認できます。 はじめに 先日、X（旧Twitter）でこんな趣旨の話題が流れてきました。 CloudFront + WAF → ALB の構成では、ALB の SG に CloudFront...</summary>
+  </entry>
+  <entry>
+    <title>東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限 | Ledge.ai</title>
+    <id>https://ledge.ai/articles/nicam_claude_code_migration</id>
+    <link href="https://ledge.ai/articles/nicam_claude_code_migration" />
+    <updated>2026-11-07T04:26:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Top &gt; 学術＆研究 &gt; 東大・国立環境研、20年以上開発されてきた大気モデルをClaude Codeで移植 実行速度1.71倍、進行を制約したのは人間のレビューと利用上限</summary>
+  </entry>
+  <entry>
+    <title>私は Gemini ですが、 GeoAI と LLM / 生成AI は特段関係がなさそうです｜ゆいせき</title>
+    <id>https://note.com/yuiseki/n/n048539c60690</id>
+    <link href="https://note.com/yuiseki/n/n048539c60690" />
+    <updated>2026-11-06T22:07:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「LLMにプロンプトを投げてQGISを動かしてみた！ これぞ最新のGeoAI！」 「自律型AIエージェントにShapefileを食わせるGeoAIツールを作りました」 最近、X（旧Twitter）のタイムラインやテック系記事で、このような投稿を頻繁に見かけるようになりました。 AIモデルである私（Gemini）としても、自分たちの仲間が地図を...</summary>
+  </entry>
+  <entry>
+    <title>AIで実装は速くなったのに、なぜアウトカムは増えないのか？ ボトルネックが移った先にあるエンジニアの仕事</title>
+    <id>https://codezine.jp/article/detail/30105</id>
+    <link href="https://codezine.jp/article/detail/30105" />
+    <updated>2026-11-06T09:09:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIコーディングによって実装が速くなった今、チームのボトルネックはコードの外へ移動した。カミナシで新規BtoBプロダクトを開発するソフトウェアエンジニアの清水氏は、AIで機能を大量に作るだけでは意味がないと指摘する。新規プロダクトを開発するにあたって、AIで浮いた時間で取り組んできたのが、現場への直接訪問...</summary>
+  </entry>
   <entry>
     <title>「AIであってほしかった」近所の書店にいったらBLのエロ本が子供向けの本のすぐ近くに平積みされている。子供への性加害は辞めるべきだ。</title>
     <id>https://posfie.com/@Acg3C2/p/NF0FdOe</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-06T12:09:39+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>一緒にQiita書きましょう！！！！！ この熱量で社内に呼びかけました。 一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、約3か月後に投稿一覧を見たら、、、、 Qiita投稿文化を社内に広めようと...</summary>
-  </entry>
-  <entry>
-    <title>AIに自販機経営を1年任せてみた 指示は“利益の最大化”だけ 米ハーバード大などがシミュレーション</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/06/2000002899/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/06/2000002899/" />
-    <updated>2026-11-06T12:02:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...</summary>
-  </entry>
-  <entry>
-    <title>LLMに全部お任せ、の次へ。仕事のルールからわかるニューロシンボリックAIと自動推論</title>
-    <id>https://qiita.com/Dash3/items/82954e7925fe63ad6a13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Dash3/items/82954e7925fe63ad6a13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T10:15:18+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに：AIの提案を、仕事で使える判断にするには 「AIが経費申請を読んで、必要な確認まで進めてくれたら便利だな」 そう思ったとき、気になるのは読み取りの速さだけではありません。金額を間違えていないか。社内の規程を守っているか。わからないことを、わからないまま止められる...</summary>
-  </entry>
-  <entry>
-    <title>ubuntu-latest が 26.04 になったら、ECS（arm64）がイメージを pull できなくなった話</title>
-    <id>https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ogura-gmoconnect/items/6d75b12b6c726ebcd751?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-05T21:28:43+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GMOコネクトの小倉です。 依存ライブラリを更新する PR をマージしたら、ECS の新しいタスクが起動しなくなりました。アプリのコードも Dockerfile も、ビルドの手順も変えていないのに、です😇 調べてみると、GitHub Actions の ubun...</summary>
-  </entry>
-  <entry>
-    <title>ECR に1回 push しただけで3件並ぶ正体は、provenance attestation だった</title>
-    <id>https://qiita.com/ogura-gmoconnect/items/85e75da0f74f9005c1b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ogura-gmoconnect/items/85e75da0f74f9005c1b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-05T21:28:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GMOコネクトの小倉です。 GitHub Actions からイメージを1回 push しただけなのに、ECR のイメージ一覧に3件並ぶようになりました。タグが付いているのは1件だけで、残りの2件は「-」のまま。しかも1件はサイズが 0.00 MB です😇 ラン...</summary>
   </entry>
 </feed>
