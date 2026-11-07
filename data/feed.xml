@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T20:30:13.387907+09:00</updated>
+  <updated>2026-11-07T21:00:15.894749+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>シン・ウルトラモード</title>
+    <id>https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode</id>
+    <link href="https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode" />
+    <updated>2026-11-07T10:09:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 Kiro Crew は、Kiro CLI や Claude Code などのエージェントのチャットを、ダッシュボードや Slack から扱うオープンソースのツールです。0.6 までの機能は以前の記事で紹介しています。 大きな仕事を 1 つのチャットに頼むと、途中でコンテキストがいっぱいになったり、どこま…</summary>
+  </entry>
+  <entry>
+    <title>GitHub - soudai/postgresql-use-improve-agents-skill</title>
+    <id>https://github.com/soudai/postgresql-use-improve-agents-skill</id>
+    <link href="https://github.com/soudai/postgresql-use-improve-agents-skill" />
+    <updated>2026-11-06T22:14:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
+  </entry>
+  <entry>
+    <title>AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構</title>
+    <id>https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html</id>
+    <link href="https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html" />
+    <updated>2026-11-05T19:17:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>独立行政法人情報処理推進機構（IPA）は、AIが社会や産業の基盤となる時代に求められる要求管理の考え方と実践を解説した「AI時代の要求管理ハンドブック」を公開しました。 AIやデータ、ソフトウェアの活用が広がり、ビジネス環境や技術が急速に変化する中、組織や社会が「何を実現したいのか」を明確にし、その目的を...</summary>
+  </entry>
   <entry>
     <title>AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記</title>
     <id>https://www.pospome.work/entry/2026/11/07/192125</id>
@@ -415,14 +439,6 @@
     <summary>▶995 ジョシュってあんな協力的なのに、ずっと無駄にしてる気がするな ▶996 TMDKはプロレス巧い陽キャの集まりだからなぁ 学校でも会社でもそういう奴等が結局引っ張ってくこと多い ▶997 ドラディションに定期的に協力しているのは いつか来る藤波引退大会を新日で主催したいからなんかな ▶998 そうだよ</summary>
   </entry>
   <entry>
-    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
-    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
-    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
-    <updated>2026-11-07T08:38:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...</summary>
-  </entry>
-  <entry>
     <title>07:00-07:30 991-994 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994" />
@@ -445,6 +461,14 @@
     <updated>2026-11-06T18:08:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web…</summary>
+  </entry>
+  <entry>
+    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
+    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
+    <updated>2026-11-06T17:59:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。 今回は画面を…</summary>
   </entry>
   <entry>
     <title>Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた</title>
@@ -570,9 +594,9 @@
     <title>[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件</title>
     <id>https://zenn.dev/xin9le/articles/9a1cf8e10494d6</id>
     <link href="https://zenn.dev/xin9le/articles/9a1cf8e10494d6" />
-    <updated>2026-11-07T01:49:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような...</summary>
+    <updated>2026-11-06T23:39:45+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような感じです。サンプルコードは C# / .NET です。 和暦への変換 // 和暦のカルチャ情報を作…</summary>
   </entry>
   <entry>
     <title>01:00-01:30 978-980 (3件)</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-06T20:22:32+09:00</updated>
     <category term="はてブ IT" />
     <summary>ドコモ不正アクセス、「料金プラン」などの情報も流出 「重く受け止めている」</summary>
-  </entry>
-  <entry>
-    <title>Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2154280.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2154280.html" />
-    <updated>2026-11-06T13:58:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」</summary>
-  </entry>
-  <entry>
-    <title>画面は見やすく広告なし！ 睡眠モニター機能はどう？ Amazonの新型スマートクロック「Echo Time」の使い勝手と気になる点</title>
-    <id>https://www.itmedia.co.jp/pcuser/articles/2611/06/news059.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/06/news059.html" />
-    <updated>2026-11-06T12:36:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>おなじみの球形ボディーを採用 正面の液晶に時計を表示可能 かつては円筒形のボディーが特徴だったAmazonのスマートスピーカー「Echo」は、現在は球形ボディーに統一されている。ラインアップには「Echo Dot」「Echo Dot Max」「Echo Studio」といった製品が並ぶ。 →Amazonが新型「Echo Dot」を発売 液晶ディスプレイ...</summary>
-  </entry>
-  <entry>
-    <title>21:00-21:30 905-912 (8件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/905-912</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/905-912" />
-    <updated>2026-11-06T21:27:27+09:00</updated>
-    <category term="新日" />
-    <summary>▶905 &gt;&gt;900 海野は色々勿体無いよな レスラーとしてハネられるもの沢山備えているのにそれらチャンスをずっとフイにして来てるよ あとスレ立て乙 ▶906 小畑君はデビュー早々、セコンド中にアーチャーにボコられるのか…。 ▶907 &gt;&gt;897 所詮エリート止まりで永田しか名前知らないレスリング選手だし最低限やっぱりボルチンみたいにオリンピックにギリギリ出られなかったじゃないとオリンピアンは長州…</summary>
   </entry>
 </feed>
