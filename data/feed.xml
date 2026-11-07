@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T12:30:13.286753+09:00</updated>
+  <updated>2026-11-07T13:00:30.873764+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>毎朝のセキュリティ確認をAIに任せたら、判定の基準が「人が動く必要があるか」に変わった</title>
+    <id>https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria</id>
+    <link href="https://zenn.dev/stock_inc/articles/ai-daily-security-check-criteria" />
+    <updated>2026-11-07T09:36:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必...</summary>
+  </entry>
+  <entry>
+    <title>「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2154396.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2154396.html" />
+    <updated>2026-11-06T17:44:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</summary>
+  </entry>
+  <entry>
+    <title>OpenAIが「AIデータセンターの電力やインフラは全額自己負担」「電気・水道の使用量を公表」などの約束を発表</title>
+    <id>https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/</id>
+    <link href="https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/" />
+    <updated>2026-11-06T15:13:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月、アメリカで中間選挙に合わせて行われた複数の住民投票でAIデータセンターに反対する声が非常に強かったことを受けて、OpenAIがAIデータセンターの展開にあたっては地域に最大限配慮していくという内容の約束を発表しました。 Setting a new standard for responsible AI infrastructure | OpenAI https://op...</summary>
+  </entry>
   <entry>
     <title>【重要】280blocker Android版の新規販売停止について | 280blocker</title>
     <id>https://280blocker.net/blog/20261106/20261106082700/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-06T11:38:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>これは画期的！ 劇場の席番号を入力すると、ステージの見え方を3Dで確認できるサービス【やじうまWatch】</summary>
-  </entry>
-  <entry>
-    <title>「奴隷的な分業」からの解放…党職員は「実践できている」小池晃氏 「共産党しかない」</title>
-    <id>https://www.sankei.com/article/20261105-3SIBTM45DFGOTPS5SKE3RDIKLY/?outputType=asynd</id>
-    <link href="https://www.sankei.com/article/20261105-3SIBTM45DFGOTPS5SKE3RDIKLY/?outputType=asynd" />
-    <updated>2026-11-05T13:51:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>共産党の小池晃書記局長は4日の記者会見で、思想家カール・マルクスが説いた「奴隷的な分業」からの解放や労働の喜びという理想を、党職員は「実践できていると思う」と語った。職員が対等な立場で党の方針決定に参加しているといい、「こういうふうに民主的な討論をやっている政党は、自慢になってしまうが、共産党しか...</summary>
-  </entry>
-  <entry>
-    <title>リモートのエージェントが起動した dev server を手元でプレビュー：VS Code 1.145 の Remote browser proxy を試した</title>
-    <id>https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shahin0809/items/a1bd931855f392806ee6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T16:28:29+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 最近 Microsoft Student Ambassador の Associate に昇格したロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願いします。 間違っている箇所や「ここが分かりにくかった」という指摘は、やさし...</summary>
-  </entry>
-  <entry>
-    <title>Claude Certified Developer - Foundations (CCDV-F) 昨日受けてきました。【日本語受験】</title>
-    <id>https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takeshi_Qiita/items/f8298084825898921cb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T16:20:39+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年11月5日、テストセンターで Claude Certified Developer – Foundations（CCDV-F） を受験し、896点で合格しました。 ざっくりまとめると、 勉強時間は 10時間未満 教材は みのるんさんが公開している問...</summary>
   </entry>
 </feed>
