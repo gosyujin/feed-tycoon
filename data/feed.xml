@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T06:00:14.013565+09:00</updated>
+  <updated>2026-11-08T06:30:13.530931+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -471,20 +471,20 @@
     <summary>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…</summary>
   </entry>
   <entry>
+    <title>Weight-Space Programming やってみた(やらせてみた)</title>
+    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
+    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
+    <updated>2026-11-07T11:39:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の仮説を立て、重みに...</summary>
+  </entry>
+  <entry>
     <title>旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい</title>
     <id>https://togetter.com/li/2767610</id>
     <link href="https://togetter.com/li/2767610" />
     <updated>2026-11-07T11:20:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...</summary>
-  </entry>
-  <entry>
-    <title>Weight-Space Programming やってみた(やらせてみた)</title>
-    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
-    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
-    <updated>2026-11-07T09:57:13+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 https://x.com/rikiyatakehi/status/2117313742891327994 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重…</summary>
   </entry>
   <entry>
     <title>ISUCON 2026参加記</title>
@@ -655,6 +655,14 @@
     <summary>▶995 ジョシュってあんな協力的なのに、ずっと無駄にしてる気がするな ▶996 TMDKはプロレス巧い陽キャの集まりだからなぁ 学校でも会社でもそういう奴等が結局引っ張ってくこと多い ▶997 ドラディションに定期的に協力しているのは いつか来る藤波引退大会を新日で主催したいからなんかな ▶998 そうだよ</summary>
   </entry>
   <entry>
+    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
+    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
+    <updated>2026-11-07T08:38:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...</summary>
+  </entry>
+  <entry>
     <title>07:00-07:30 991-994 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994" />
@@ -677,14 +685,6 @@
     <updated>2026-11-06T18:08:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web…</summary>
-  </entry>
-  <entry>
-    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
-    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
-    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
-    <updated>2026-11-06T17:59:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。 今回は画面を…</summary>
   </entry>
   <entry>
     <title>Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた</title>
