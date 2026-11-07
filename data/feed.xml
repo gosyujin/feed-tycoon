@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T17:00:13.583259+09:00</updated>
+  <updated>2026-11-07T17:30:13.766525+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた</title>
+    <id>https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-07T13:47:45+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年10月にOCI Database Servicesで機能拡張があり、マネージドMCPサーバーが利用できるようになりました。 この機能により、ユーザーはMCP対応のAIクライアントから自然言語で依頼し、OCI上のデータベース環境の構成や状態を確認できるよ...</summary>
+  </entry>
+  <entry>
+    <title>AI is dramatically accelerating AI research right now</title>
+    <id>https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</id>
+    <link href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai" />
+    <updated>2026-11-07T07:42:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>This post discusses a public METR report on AI R&amp;D acceleration at Anthropic. I did not work on this project or see the unredacted report.1 All opinions are my own and do not represent METR or the rep…</summary>
+  </entry>
+  <entry>
+    <title>周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
+    <id>https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-07T06:05:58+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 周りはみんな使っている。でも、私は使えなかった 私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。 やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。 みんな GitHub ...</summary>
+  </entry>
+  <entry>
+    <title>【ServiceNow】自動採番の仕組みが変わったらしいので調査したメモ</title>
+    <id>https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/daifuku085/items/ef891ad3bd037427b2e9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-07T05:07:38+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>事象 Build Agent でカスタムテーブルを作成し、その際に自動採番される Number フィールドを作らせました。 一通り検証を終えた後で採番をリセットしたいと思い、[System Definition] &gt; [Number Maintenance] を開いてみた...</summary>
+  </entry>
+  <entry>
+    <title>【RTL】テストは成功しているのにactで囲めと警告された</title>
+    <id>https://qiita.com/ryu0947/items/59d3a7f4e032deea8212?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu0947/items/59d3a7f4e032deea8212?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-07T03:04:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに RTLでテストを行っていたらテストは成功しているのに、ターミナルに以下の警告が出ました。 An update to App inside a test was not wrapped in act(...). When testing, code that c...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeに「サブエージェントを使って」と書くのはやめよう。288回測ったら見つかる量は同じでコストだけ最大221%増えた</title>
+    <id>https://qiita.com/yunany90/items/631be4b879ec5e1b6b33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yunany90/items/631be4b879ec5e1b6b33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-07T00:31:24+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Claude Code 2.1.318で新しい設定が増えました。サブエージェントのeffort（CLAUDE_CODE_SUBAGENT_EFFORT）です。検索をExploreサブエージェントに任せてeffortを上げれば、もっと見つけてくれそうです。 そこで288回測り...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code で WPF 業務アプリに単体テストを作成した話 ― 意識した 3 つのこと</title>
+    <id>https://qiita.com/kazutoyamaura/items/d63520304cca26f033d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kazutoyamaura/items/d63520304cca26f033d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T17:45:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに .NET Framework / WPF の業務アプリに、Claude Code を使って MSTest の単体テストを後付けしました。 対象は、パン屋さんの「作業実績入力アプリ（店頭タブレット版）」のような画面だと思ってください。 もとのアプリは、テストのしや...</summary>
+  </entry>
+  <entry>
+    <title>「プロンプトを書くClaude」と「実装するClaude」を分けたら開発が回り始めた話</title>
+    <id>https://qiita.com/kazutoyamaura/items/5a0874965d892a5acdb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kazutoyamaura/items/5a0874965d892a5acdb2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T17:34:33+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに ここ1か月ほど、業務の開発をほぼ Claude Code（デスクトップアプリ） で進めています。 この記事では、実際にどのように Claude を使っていたのかを振り返りながら、うまくいったやり方をまとめます。 この1か月で Claude と一緒にやったことは、...</summary>
+  </entry>
+  <entry>
+    <title>無人で動かす claude -p に渡す道具を絞る(--allowedTools で git をサブコマンドごとに・専用の --settings でフックだけ足す)</title>
+    <id>https://qiita.com/takamatt_ai/items/d9c67f245a794e659f30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takamatt_ai/items/d9c67f245a794e659f30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T16:52:31+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>この記事を読み終えると、claude -p を cron や launchd で無人で動かすときに、「やってよいこと」だけを渡す設定が書けます。 根拠は、手元の Mac で毎日 15:00 に動かしているスクリプトの、2026-11-04〜11-05 の3回分の実行です。 ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code は、あなたのメールアドレスを知っている。User-Agent に入れて送るかを Claude Code・Codex・Gemini CLI で試した</title>
+    <id>https://qiita.com/suwa_nobu/items/314fb8cf661ef05046d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/suwa_nobu/items/314fb8cf661ef05046d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T16:26:15+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>2026年11月6日の朝、Hacker News に「Claude Code sends your email address to websites」という投稿が出ました。元は GitHub の issue（#107757）で、Claude Code が Web 検索の途...</summary>
+  </entry>
+  <entry>
+    <title>EC2 がダウンしていてもメンテナンス画面を出せるようにした（ALB の固定レスポンス）</title>
+    <id>https://qiita.com/Tukirukiki/items/c8ee91004e6d47c5f0a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Tukirukiki/items/c8ee91004e6d47c5f0a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T16:03:57+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに EC2 がダウンしていても、ユーザーにメンテナンスの案内を出せるようにしました。 ALB（Application Load Balancer）のリスナールールで「固定レスポンス」を返す設定にして実現しています。サーバーを一切使わずに、ALB 自身がメンテナンス...</summary>
+  </entry>
+  <entry>
+    <title>種族値合計600以上のポケモンを返すAPIをクリーンアーキテクチャで作成した【TypeScript/Hono/Vitest/TDD/PokeAPI】</title>
+    <id>https://qiita.com/keikeigo/items/937f993ba3bdafa4184c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/keikeigo/items/937f993ba3bdafa4184c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T15:24:13+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>1. はじめに 今回は、Honoとクリーンアーキテクチャを学ぶことを目的としてAPIを作成しました。 ↓作ったAPIのリポジトリ 2. 何を作ったか APIの概要 種族値の合計が600以上の第一世代のポケモンを返すAPIです。 600以上をハイスタッツと定義して...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeでリポジトリを作らずに試作する</title>
+    <id>https://qiita.com/kentasatomi/items/1c3e1ac9244d973ce5e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kentasatomi/items/1c3e1ac9244d973ce5e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T12:27:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>11月4日付のClaude Code 2.1.318の変更履歴で、クラウドセッションに「No repository」が加わったことが案内されました。Anthropicがホストする環境で、リポジトリを選ばずにセッションを始められます。小さな処理を試すだけなら、GitHubに検...</summary>
+  </entry>
+  <entry>
+    <title>ぐちゃぐちゃだった AWS IAM を整理した話（ユーザー・グループ・ポリシー・ロール）</title>
+    <id>https://qiita.com/Tukirukiki/items/45d489328f0647aff899?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Tukirukiki/items/45d489328f0647aff899?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T11:46:40+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>なぜ整理しようと思ったのか AWS の IAM 権限がぐちゃぐちゃになっていました。 過去に在籍していたエンジニアのアカウントが残ったまま グループを場当たり的に作っていて、どのグループが何のためのものか分からない 誰に何の権限が付いているのか、パッと見て分からない ...</summary>
+  </entry>
+  <entry>
+    <title>postgres:18 が起動直後に終了する原因：データディレクトリの場所が変わった（16 → 18 移行手順付き）</title>
+    <id>https://qiita.com/anderslee2020/items/3bcbb9bbae3b7322c728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/anderslee2020/items/3bcbb9bbae3b7322c728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T11:05:01+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>ネットにある PostgreSQL + Docker の記事の Compose ファイルをそのまま使い、タグだけ 18 にすると、コンテナが数秒で止まります。 $ docker run -d --name pgold -e POSTGRES_PASSWORD=secret ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code のコミット前フックで TruffleHog を実行し、シークレット入りのコミットを止める</title>
+    <id>https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/CircleCIJapan/items/00c07ba3c040a8d2e84d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T10:40:35+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Claude CodeのようなAIコーディングエージェントは、コードの変更からコミットまでを自分で進めます。エージェントが書いたコードにAPIキーが直書きされていても、そのままコミットされることがあります。一度コミットしたキーは、ファイルを消してもGitのコミット履歴に残り...</summary>
+  </entry>
+  <entry>
+    <title>AIの集計レポートはあったけど、CloudWatch ダッシュボードを整理した話</title>
+    <id>https://qiita.com/Tukirukiki/items/a1a0208d9ba97324eb89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Tukirukiki/items/a1a0208d9ba97324eb89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-04T17:18:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 運用している Web サービスの CloudWatch ダッシュボードを整理しました。 もともとダッシュボードはあったものの、グラフが場当たり的に足されていて、正直「開いても何も分からない」状態でした。そのため日々の状況確認は、AI（Claude Code）に...</summary>
+  </entry>
   <entry>
     <title>Google Antigravity 2.29 が公開。クラウドで動くリモートエージェントと音声モードを追加 | HelenTech</title>
     <id>https://helentech.jp/news-antigravity-2-29-adds-remote-agents-voice-mode-93305/</id>
@@ -223,6 +359,14 @@
     <summary>▶995 ジョシュってあんな協力的なのに、ずっと無駄にしてる気がするな ▶996 TMDKはプロレス巧い陽キャの集まりだからなぁ 学校でも会社でもそういう奴等が結局引っ張ってくこと多い ▶997 ドラディションに定期的に協力しているのは いつか来る藤波引退大会を新日で主催したいからなんかな ▶998 そうだよ</summary>
   </entry>
   <entry>
+    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
+    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
+    <updated>2026-11-07T08:38:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...</summary>
+  </entry>
+  <entry>
     <title>07:00-07:30 991-994 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994" />
@@ -245,14 +389,6 @@
     <updated>2026-11-06T18:08:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web…</summary>
-  </entry>
-  <entry>
-    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
-    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
-    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
-    <updated>2026-11-06T17:59:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。 今回は画面を…</summary>
   </entry>
   <entry>
     <title>Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた</title>
@@ -378,9 +514,9 @@
     <title>[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件</title>
     <id>https://zenn.dev/xin9le/articles/9a1cf8e10494d6</id>
     <link href="https://zenn.dev/xin9le/articles/9a1cf8e10494d6" />
-    <updated>2026-11-06T23:39:45+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような感じです。サンプルコードは C# / .NET です。 和暦への変換 // 和暦のカルチャ情報を作…</summary>
+    <updated>2026-11-07T01:49:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような...</summary>
   </entry>
   <entry>
     <title>01:00-01:30 978-980 (3件)</title>
@@ -669,141 +805,5 @@
     <updated>2026-11-06T14:13:04+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>2026年10月、MagicPodのMCPサーバーが刷新されました。Claudeのコネクタ一覧から接続するだけで、Claudeとの対話を通じてMagicPodのテストケースを作成・編集・実行できるようになっています。 https://prtimes.jp/main/html/rd/p/000000079.000027392.html 以前、MagicPod MCPサーバーとClaudeを組み合わせ…</summary>
-  </entry>
-  <entry>
-    <title>【.NET/Unity】C# の型制約とボックス化をハックする — IL と手動スタック配置</title>
-    <id>https://zenn.dev/aakei/articles/csharp-stack-box</id>
-    <link href="https://zenn.dev/aakei/articles/csharp-stack-box" />
-    <updated>2026-11-06T12:01:26+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事は、C# とランタイムの挙動を調べるための実験です。unsafe な操作やランタイム内部の構造に依存する実装を含みます。手動でボックスをスタックに置く方法は、実用を推奨しません。 はじめに 最近（2026 年 11 月 6 日現在）、Omochaya さんの 「【C# / Unity】型制約なしゼロアロケでDisposeする方法」 を読みました。 型制約のない T に対して、ボックスを…</summary>
-  </entry>
-  <entry>
-    <title>freeeインターン 2週間で掴んだ仕事の進め方 ― 夏インターンを終えて</title>
-    <id>https://zenn.dev/amanon/articles/1bbf5afc0fbf9f</id>
-    <link href="https://zenn.dev/amanon/articles/1bbf5afc0fbf9f" />
-    <updated>2026-11-06T10:48:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめまして。日本工学院専門学校ITスペシャリスト科3年の天野滉瑛です。 2026年8月31日から9月11日までの2週間、フリー株式会社のインターンシップ（アドバンスコース）に参加し、課金基盤チームに配属されました。 会社からPCが支給されるような大きな会社のインターンは、今回が初めてでした。RubyKaigiに参加してからRubyへのモチベーションが高く、Railsの大規模なコードベースに触れら…</summary>
-  </entry>
-  <entry>
-    <title>今更だけど、AIってどう使えばいいの？</title>
-    <id>https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</id>
-    <link href="https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c" />
-    <updated>2026-11-06T10:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIメニュー画像ってやばくね？ 最近、AIで生成した料理の画像をメニューに使用している飲食店の事例を目にすることがある。 なかには、人間の食べ物とは思えないような見た目の画像もあり、思わず目を引かれる。 規則的な米の配置や、麺の気持ち悪い形など。 直接作ってみた。 一見すると「そんなものを作っている意味が分からん」になるが、一方で「我々が作るソースコードや文書も同じじゃないか？」とも考えてしまう。…</summary>
-  </entry>
-  <entry>
-    <title>spec as code ではなく、code as spec — 仕様書のように書かれたコードを正にする</title>
-    <id>https://zenn.dev/ruri/articles/code-as-spec</id>
-    <link href="https://zenn.dev/ruri/articles/code-as-spec" />
-    <updated>2026-11-06T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>TL;DR 仕様書を厳密に書こうとするほど、仕様書はプログラムに似ていきます。その行き着く先は、読みづらいコードです。それなら最初から、仕様書のように読めるコードを書けばいいのです。ドメインモデリングをした可読性の高いコードを、仕様の正（SSoT）にします。 仕様書をリポジトリに残すなら、コードと同じだけの信頼を担保する仕組みが要ります。コードにはコンパイラとテストがありますが、自然言語の仕様書に…</summary>
-  </entry>
-  <entry>
-    <title>iPhoneの低電力モードは常時オンでいい？実機検証で分かった注意点 - iPhone Mania</title>
-    <id>https://iphone-mania.jp/tech-608351/</id>
-    <link href="https://iphone-mania.jp/tech-608351/" />
-    <updated>2026-11-06T04:01:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>iPhoneの低電力モードは常時オンのままでもいいのでしょうか。 約3年使っているiPhone15 Pro（iOS27.0.1）で、低電力モードをオンにして写真アプリの同期表示を確認しました。Appleが案内する制限とあわせて、場面ごとの使い分けと、写真の同期が止まったときの対処をまとめます。 低電力モードONなのに写真は「同期済み...</summary>
-  </entry>
-  <entry>
-    <title>.NET にも build.cs 欲しいんじゃーーー</title>
-    <id>https://zenn.dev/sator_imaging/articles/c10d8da7685308</id>
-    <link href="https://zenn.dev/sator_imaging/articles/c10d8da7685308" />
-    <updated>2026-11-05T22:05:08+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>某 NIKKE のゲームランチャーが攻撃されるインシデントが発生しました。 協力会社（出資元？）が CDN として使っていたドメインが期限切れになり、一部のスクリプトが改ざんされたことが原因だそうです。 動的データは開発体験を上げるが・・・ いわゆる RemoteConfig 等のゲームに関連するもの「ではなく」 常に最新版をサーバーから引っ張ってくれば楽できて開発体験が上がる によって問題が起き…</summary>
-  </entry>
-  <entry>
-    <title>Claude CodeからPremiere Proを290回動かして、53分のPodcastを全自動編集してみた</title>
-    <id>https://zenn.dev/salt2/articles/2b6e403e059b10</id>
-    <link href="https://zenn.dev/salt2/articles/2b6e403e059b10" />
-    <updated>2026-11-04T21:33:10+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>普段は Premiere Pro と After Effects で動画を編集しています。社内で始めたポッドキャスト「Locked in」の第1回（約53分）を、今回は Claude Code に編集させてみました。 素材は iPhone で撮った 4K 映像が3アングル分（合計約36GB）と、マイク2本の WAV です。そこから YouTube 用の本編1本（4K）と、縦型ショート20本を作りま…</summary>
-  </entry>
-  <entry>
-    <title>19:30-20:00 887-896 (10件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/887-896</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/887-896" />
-    <updated>2026-11-06T19:59:18+09:00</updated>
-    <category term="新日" />
-    <summary>▶887 見た目だけならウルフの方がマグマ色 海野は髪が長い分WARの色が強い ▶888 不屈のライオンなんてキャッチコピーやめてさ、 目ん玉飛び出るレッスルアンドロマンスってことで ▶889 何々プロデュースって実際にやってんの？ただの飾り？食っちゃ寝のデブがカード組んだり他団体と交渉してるとか思えないんだけどw ▶890 &gt;&gt;889 取り敢えずネット上で不平不満しか言わない御仁よりは仕事してる…</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeがユーザーのメールアドレスを外部サイトに勝手に送信する問題が発覚、約4カ月前から報告されていたことも判明</title>
-    <id>https://gigazine.net/news/20261106-claude-code-mail-address/</id>
-    <link href="https://gigazine.net/news/20261106-claude-code-mail-address/" />
-    <updated>2026-11-06T15:09:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AnthropicのAIコーディングツール「Claude Code」が、ユーザーのメールアドレスを許可なく外部のウェブサイトに送信していたという問題が報告されました。2026年11月5日にGitHubで新たな問題報告が投稿されましたが、同様の問題は7月にも報告されており、Anthropicの対応が注目されています。 Bug Report: Privacy viola...</summary>
-  </entry>
-  <entry>
-    <title>セキュリティ関連書 9タイトル全文無料公開《2026年11月5日〜11月9日》 - インプレスブックス</title>
-    <id>https://book.impress.co.jp/items/cp261105</id>
-    <link href="https://book.impress.co.jp/items/cp261105" />
-    <updated>2026-11-05T14:01:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不正アクセスやランサムウェアなど、情報セキュリティに関するリスクへの関心が急速に高まっています。 こうした状況を受け、関係著者各位のご賛同とご協力のもと、インプレスが刊行するセキュリティ関連書籍・ムック【全9タイトル】を5日間限定で全文無料公開いたします。 システム開発や社内インフラの管理といった専...</summary>
-  </entry>
-  <entry>
-    <title>19:00-19:30 874-886 (13件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/874-886</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/874-886" />
-    <updated>2026-11-06T19:15:27+09:00</updated>
-    <category term="新日" />
-    <summary>▶874 ゼァチャンネル金本浩二編面白かった ▶875 誰もカード発表気にしてない件 ▶876 棚橋JAM2のカード発表 https://youtu.be/V6D7F5ALMxk ▶877 小畑デビューするのか ▶878 まぁCSテレ朝独占配信なんて見れないからどうでもいいや… ▶879 ラドホはいい奴ばっかりだよ 悪くなるか新日本から居なくなるだけだよ ▶880 和製ボルチンこと小畑君もデビュー…</summary>
-  </entry>
-  <entry>
-    <title>新世代のAI PC「NVIDIA RTX Spark」は誰のための製品なのか？【使ってわかるAI PC】</title>
-    <id>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2154358.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2154358.html" />
-    <updated>2026-11-06T17:12:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>新世代のAI PC「NVIDIA RTX Spark」は誰のための製品なのか？【使ってわかるAI PC】</summary>
-  </entry>
-  <entry>
-    <title>不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ</title>
-    <id>https://www.jnsa.org/dl/annual/20261106.pdf</id>
-    <link href="https://www.jnsa.org/dl/annual/20261106.pdf" />
-    <updated>2026-11-06T12:54:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ</summary>
-  </entry>
-  <entry>
-    <title>18:30-19:00 861-873 (13件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/861-873</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/861-873" />
-    <updated>2026-11-06T18:57:32+09:00</updated>
-    <category term="新日" />
-    <summary>▶861 &gt;&gt;857 社長「帰れないから北海道を堪能しかないな」 ▶862 &gt;&gt;843 いつ痩せるんだ ▶863 &gt;&gt;861 空白の一日で爆食するぜ ▶864 &gt;&gt;862 今年のコンクルソは諦めたって言ってたな(審査員するって) ▶865 LA道場といえば安田忠夫遅刻からのドンフライブチギレからの謎抗争 ▶866 &gt;&gt;860 なるほど まぁ柴田打撃食らいすぎてるからな ▶867 デブだの痩せろだの…</summary>
-  </entry>
-  <entry>
-    <title>セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/06/2000002978/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/06/2000002978/" />
-    <updated>2026-11-06T17:41:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>情報セキュリティの普及啓発に向けて活動する日本ネットワークセキュリティ協会（JNSA）は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。利用者のIDやハッシュ化したパスワードなどが漏えいした...</summary>
-  </entry>
-  <entry>
-    <title>米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/06/2000002949/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/06/2000002949/" />
-    <updated>2026-11-06T14:39:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。米メディアが報じた。南部テキサス州などの知事選では、規制推進派の野党・民主党系が当選。AI建設への逆風が強まるとの見方が出ている。 米選挙...</summary>
-  </entry>
-  <entry>
-    <title>MicrosoftのAIターミナル「Intelligent Terminal 0.3」、過去最大のアップデート／エージェントとタブを縦に並べるサイドバー導入、ウィンドウを閉じても動きつづけるヘッドレスモードも追加</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2154135.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2154135.html" />
-    <updated>2026-11-06T10:37:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>MicrosoftのAIターミナル「Intelligent Terminal 0.3」、過去最大のアップデート／エージェントとタブを縦に並べるサイドバー導入、ウィンドウを閉じても動きつづけるヘッドレスモードも追加</summary>
   </entry>
 </feed>
