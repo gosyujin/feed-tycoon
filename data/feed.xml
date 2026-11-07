@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T23:00:13.948427+09:00</updated>
+  <updated>2026-11-07T23:30:13.083706+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>証明駆動開発（PDD Kit）とは｜エージェントのコードを行ごとに読まずに信頼する GitHub Next の試み</title>
+    <id>https://ai-heartland.com/explain/proof-driven-development/</id>
+    <link href="https://ai-heartland.com/explain/proof-driven-development/" />
+    <updated>2026-11-07T09:15:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHub Next と Microsoft Research が、エージェントが書いたコードを、行ごとに全部読まずに信頼するための研究プロトタイプ「PDD Kit」を公開しました（2026年11月）。PDD は Proof-Driven Development（証明駆動開発）の略で、「専門家だけのものだった形式手法を、日常のソフトウェアに持ち込む」試みです。本記事...</summary>
+  </entry>
+  <entry>
+    <title>Inside GitHub's new Git storage architecture</title>
+    <id>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</id>
+    <link href="https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/" />
+    <updated>2026-11-07T07:30:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Last week at GitHub Universe, we announced our new Git storage architecture, capable of handling thousands of writes per second with reads that scale on demand. Through internal testing, we’ve demonst…</summary>
+  </entry>
+  <entry>
+    <title>Active Directory と Entra ID のむむむな関係</title>
+    <id>https://speakerdeck.com/murachiakira/entraidandaddc-20261106</id>
+    <link href="https://speakerdeck.com/murachiakira/entraidandaddc-20261106" />
+    <updated>2026-11-06T23:52:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>第63回 Tokyo Jazug Night【Microsoft Entra 回】で実施したセッションのスライドです。 Azure や Microsoft 365 などのクラウド サービスの ID プロバイダーである Entra ID と、オンプレミスの組織の ID プロバイダーとして利用されている …</summary>
+  </entry>
+  <entry>
+    <title>SpaceX、Qualcommと複数年契約 「Starlink Mobile」の地上5G網を2027年から全米に展開へ</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/05/2000002889/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/05/2000002889/" />
+    <updated>2026-11-05T08:11:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Qualcommは、通信インフラ向けブランド「Dragonwing」の「QRU100」と「QDU100」、および通信信号処理用のソフトウェアを提供する。これらを使った基地局は、64系統の送信アンテナと64系統の受信アンテナを組み合わせる「Massive MIMO」技術に対応し、通信範囲や容量、周波数利用効率を改善する。消費電力を抑えることで...</summary>
+  </entry>
   <entry>
     <title>パブリックサブネットを持たない Web配信基盤の現在地 | ドクセル</title>
     <id>https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-06T19:35:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>お客さまの設定により、お客さま情報が「非表示」となっております。お客さま情報を表示するにはdアカウントでログインしてください。 お客さま情報表示についてへ お客さま情報表示についてへ Tweet 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによる...</summary>
-  </entry>
-  <entry>
-    <title>国家サイバー統括室、事業者向けに不正アクセス対策のポイントをまとめた資料を公開 ウェブサイト・モバイルアプリで基本的な対策の徹底を呼びかけ</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2154286.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2154286.html" />
-    <updated>2026-11-06T12:59:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>国家サイバー統括室、事業者向けに不正アクセス対策のポイントをまとめた資料を公開 ウェブサイト・モバイルアプリで基本的な対策の徹底を呼びかけ</summary>
-  </entry>
-  <entry>
-    <title>【三浦優子のIT業界通信】 「困っている誰かを助けるための開発が原動力」アイオーデータ細野会長インタビュー</title>
-    <id>https://pc.watch.impress.co.jp/docs/column/miura/2151306.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/miura/2151306.html" />
-    <updated>2026-11-06T11:09:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【三浦優子のIT業界通信】 「困っている誰かを助けるための開発が原動力」アイオーデータ細野会長インタビュー</summary>
-  </entry>
-  <entry>
-    <title>22:00-22:30 925-931 (7件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/925-931</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/925-931" />
-    <updated>2026-11-06T22:20:44+09:00</updated>
-    <category term="新日" />
-    <summary>▶925 &gt;&gt;923 ひぐらしも気がついたら20年以上前のオールドカルチャーだな ▶926 &gt;&gt;903 ハイレベルな辻さんファンで草 ▶927 デブの白ジャムなんか誰が興味あんの？ ▶928 小畑はコーナーで脚で相手を動けなくさせながら客に対して . 後楽園！おきてんのかぁぁぁ！(うぇぇぇぇい！) 後楽園！！おきてんのかぁぁぁぁぁ！！(うぇぇぇぇい！！) オレにつづいて声出せ～！！(うぇぇぇぇい！…</summary>
-  </entry>
-  <entry>
-    <title>「Microsoft Access」でIEベースのWebブラウザーコントロールが廃止へ、2027年5月に／対象フォームは手作業で洗い出し。「Edge」版への置き換えを</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2154137.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2154137.html" />
-    <updated>2026-11-06T17:07:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Microsoft Access」でIEベースのWebブラウザーコントロールが廃止へ、2027年5月に／対象フォームは手作業で洗い出し。「Edge」版への置き換えを</summary>
   </entry>
 </feed>
