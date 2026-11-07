@@ -2,17 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T08:00:15.406514+09:00</updated>
+  <updated>2026-11-08T08:30:14.403590+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
   <entry>
-    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
-    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
-    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
-    <updated>2026-11-07T22:18:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...</summary>
+    <title>goda-pm.vim: goda.vim のためのプラグインマネージャー</title>
+    <id>https://zenn.dev/shougo/articles/goda-pm-vim-beta</id>
+    <link href="https://zenn.dev/shougo/articles/goda-pm-vim-beta" />
+    <updated>2026-11-07T13:46:13+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>始めに これまで goda.vim の上に、ddu.vim や ddc.vim など私の作成した denops プラグインを移植してきました。goda-fi.vim、goda-cmp.vim、goda-term.vim、goda-hex.vim、goda-skk.vim といったプラグインです。そして最後に残っていたのがプラグインマネージャー、つまり dpp.vim でした。 https://gi…</summary>
+  </entry>
+  <entry>
+    <title>米津玄師に学ぶ：一人で全部作れる時代に、なぜ人と作るのか</title>
+    <id>https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others</id>
+    <link href="https://zenn.dev/tokium_dev/articles/yonezu-kenshi-why-create-with-others" />
+    <updated>2026-11-06T13:08:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。株式会社TOKIUM26卒エンジニアのタケノコご飯です。 突然ですがエンジニアの皆さん、今日は人と話しましたか？ 在宅で、且つmtgのない日だともしかしたら一言も人と話していないかもしれません。 出社している皆さんも、今日何人の同僚と会話をしましたか？ Slackなども含め、どのくらい人と交流しましたでしょうか。 正直なところ、私はつい個人作業に没頭してしまい、 今日誰とも関わらなかっ…</summary>
   </entry>
   <entry>
     <title>無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能</title>
@@ -21,6 +29,14 @@
     <updated>2026-11-07T18:05:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
+    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
+    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
+    <updated>2026-11-07T15:44:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるものです。 https://blog.cloudflare…</summary>
   </entry>
   <entry>
     <title>Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題</title>
@@ -487,20 +503,20 @@
     <summary>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…</summary>
   </entry>
   <entry>
-    <title>Weight-Space Programming やってみた(やらせてみた)</title>
-    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
-    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
-    <updated>2026-11-07T11:39:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の仮説を立て、重みに...</summary>
-  </entry>
-  <entry>
     <title>旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい</title>
     <id>https://togetter.com/li/2767610</id>
     <link href="https://togetter.com/li/2767610" />
     <updated>2026-11-07T11:20:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...</summary>
+  </entry>
+  <entry>
+    <title>Weight-Space Programming やってみた(やらせてみた)</title>
+    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
+    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
+    <updated>2026-11-07T09:57:13+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 https://x.com/rikiyatakehi/status/2117313742891327994 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重…</summary>
   </entry>
   <entry>
     <title>ISUCON 2026参加記</title>
@@ -671,14 +687,6 @@
     <summary>▶995 ジョシュってあんな協力的なのに、ずっと無駄にしてる気がするな ▶996 TMDKはプロレス巧い陽キャの集まりだからなぁ 学校でも会社でもそういう奴等が結局引っ張ってくこと多い ▶997 ドラディションに定期的に協力しているのは いつか来る藤波引退大会を新日で主催したいからなんかな ▶998 そうだよ</summary>
   </entry>
   <entry>
-    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
-    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
-    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
-    <updated>2026-11-07T08:38:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...</summary>
-  </entry>
-  <entry>
     <title>07:00-07:30 991-994 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994" />
@@ -701,6 +709,14 @@
     <updated>2026-11-06T18:08:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web…</summary>
+  </entry>
+  <entry>
+    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
+    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
+    <updated>2026-11-06T17:59:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。 今回は画面を…</summary>
   </entry>
   <entry>
     <title>Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-07T04:16:01+09:00</updated>
     <category term="新日" />
     <summary>▶988 &gt;&gt;956 デブ社側からのアイディアなのにバカかい？？</summary>
-  </entry>
-  <entry>
-    <title>03:30-04:00 986-987 (2件)</title>
-    <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/986-987</id>
-    <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/986-987" />
-    <updated>2026-11-07T03:56:49+09:00</updated>
-    <category term="新日" />
-    <summary>▶986 さっきの新日ちゃんぴおんでの海野の話良かったよ。ザック辻オスプとの関係性。オスプのはちょっと知ってたけど。時期的に鈴木軍だっただろうザックの話してもいいんだね。 ▶987 &gt;&gt;743 ザックはゲイだろ</summary>
-  </entry>
-  <entry>
-    <title>【重要】セキュリティ強化に伴う新規会員登録の仕様変更について - メンテナンス・障害情報 - DMMヘルプセンター</title>
-    <id>https://support.dmm.com/announcements/875</id>
-    <link href="https://support.dmm.com/announcements/875" />
-    <updated>2026-11-02T18:46:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>このたび、昨今のセキュリティ情勢を踏まえ、予防措置として新規会員登録およびメールアドレス変更時に登録できるメールアドレスの条件を変更いたしました。 今後は、当社が利用可能と確認したドメインのメールアドレスのみがご登録いただけます。 また、登録済みメールアドレスの変更・再設定および復旧用メールアドレ...</summary>
   </entry>
 </feed>
