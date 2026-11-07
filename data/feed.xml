@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T01:00:14.309118+09:00</updated>
+  <updated>2026-11-08T01:30:13.674702+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Libghostty 1.0</title>
+    <id>https://mitchellh.com/writing/libghostty-1-0</id>
+    <link href="https://mitchellh.com/writing/libghostty-1-0" />
+    <updated>2026-11-07T20:09:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>libghostty-vt 1.0 is here. libghostty is a portable, high-performance C library for terminal emulation, extracted directly from the core of Ghostty. The 1.0 release means both the library itself and t…</summary>
+  </entry>
   <entry>
     <title>AI時代に求められる優秀なTechLeadの振る舞い</title>
     <id>https://speakerdeck.com/pospome/ai-jidai-ni-motomerareru-yuushuuna-techlead-no-furumai-2</id>
@@ -391,20 +399,20 @@
     <summary>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…</summary>
   </entry>
   <entry>
-    <title>Weight-Space Programming やってみた(やらせてみた)</title>
-    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
-    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
-    <updated>2026-11-07T11:39:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の仮説を立て、重みに...</summary>
-  </entry>
-  <entry>
     <title>旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい</title>
     <id>https://togetter.com/li/2767610</id>
     <link href="https://togetter.com/li/2767610" />
     <updated>2026-11-07T11:20:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...</summary>
+  </entry>
+  <entry>
+    <title>Weight-Space Programming やってみた(やらせてみた)</title>
+    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
+    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
+    <updated>2026-11-07T09:57:13+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 https://x.com/rikiyatakehi/status/2117313742891327994 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重…</summary>
   </entry>
   <entry>
     <title>ISUCON 2026参加記</title>
@@ -575,14 +583,6 @@
     <summary>▶995 ジョシュってあんな協力的なのに、ずっと無駄にしてる気がするな ▶996 TMDKはプロレス巧い陽キャの集まりだからなぁ 学校でも会社でもそういう奴等が結局引っ張ってくこと多い ▶997 ドラディションに定期的に協力しているのは いつか来る藤波引退大会を新日で主催したいからなんかな ▶998 そうだよ</summary>
   </entry>
   <entry>
-    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
-    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
-    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
-    <updated>2026-11-07T08:38:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...</summary>
-  </entry>
-  <entry>
     <title>07:00-07:30 991-994 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994" />
@@ -605,6 +605,14 @@
     <updated>2026-11-06T18:08:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web…</summary>
+  </entry>
+  <entry>
+    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
+    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
+    <updated>2026-11-06T17:59:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。 今回は画面を…</summary>
   </entry>
   <entry>
     <title>Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-06T13:29:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>比べる下限として、同じ PC で C の hello world を動かすと、動的リンクで 1.1ms、静的リンクで 0.7ms かかります。 API を呼ぶコマンドの残りの数 ms は、プロセスの起動、エンドポイントのルールの評価、HTTP の送受信にかかっています。 本家は Python で書かれていて、呼ぶたびにインタプリタを起動し、多くのモジ...</summary>
-  </entry>
-  <entry>
-    <title>142. ISUCON2026で優勝する方法 w/ kawasy</title>
-    <id>https://open.spotify.com/episode/3upWlmL3EZ16icnugHzRJf</id>
-    <link href="https://open.spotify.com/episode/3upWlmL3EZ16icnugHzRJf" />
-    <updated>2026-11-06T13:15:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>kawasyさんをゲストに、ISUCON2026で競技中に人間が介入せず優勝したAIエージェント、ハーネスの仕組み、当日までに準備したことなどについて語っていただきました。話したネタISUCON2026で、競技中に人間が介入せず優勝fukabori.ep #52 ISUCON今回の出題課題競技当日に人間が行った操作とは？約3か月の準備で作ったハー...</summary>
   </entry>
 </feed>
