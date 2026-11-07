@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T17:30:13.766525+09:00</updated>
+  <updated>2026-11-07T18:00:13.855564+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】 | TBS NEWS DIG</title>
+    <id>https://newsdig.tbs.co.jp/articles/-/3068819</id>
+    <link href="https://newsdig.tbs.co.jp/articles/-/3068819" />
+    <updated>2026-11-07T13:39:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ワイヤレスが主流となるなか「有線イヤホン」が再び注目され、あのBOSEも11年ぶりに有線タイプを発売。その人気のワケとは？ 有線イヤホンを使っている人は街のあちこちで見かけますが、そのまま使うのではなく“…</summary>
+  </entry>
+  <entry>
+    <title>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成できる「Terminal-Mac」がリリース。</title>
+    <id>https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html</id>
+    <link href="https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html" />
+    <updated>2026-11-06T07:38:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成するアプリ「Terminal-Mac」がリリースされています。詳細は以下から。 AIエージェントにタスクをまかせる際、セキュリティ的にホストマシンのフルアクセス権限を与えるのは避けたいため、VMPalやGhostVMなどAIエージェント用の仮想マ...</summary>
+  </entry>
   <entry>
     <title>OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた</title>
     <id>https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -359,14 +375,6 @@
     <summary>▶995 ジョシュってあんな協力的なのに、ずっと無駄にしてる気がするな ▶996 TMDKはプロレス巧い陽キャの集まりだからなぁ 学校でも会社でもそういう奴等が結局引っ張ってくこと多い ▶997 ドラディションに定期的に協力しているのは いつか来る藤波引退大会を新日で主催したいからなんかな ▶998 そうだよ</summary>
   </entry>
   <entry>
-    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
-    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
-    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
-    <updated>2026-11-07T08:38:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見...</summary>
-  </entry>
-  <entry>
     <title>07:00-07:30 991-994 (4件)</title>
     <id>https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994</id>
     <link href="https://medaka.5ch.io/test/read.cgi/wres/1793755347/991-994" />
@@ -389,6 +397,14 @@
     <updated>2026-11-06T18:08:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ サイボウズ株式会社 プロダクトエンジニアの くらっち (@kuracchi04) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることができるようになるための最初の一歩として、フロントエンドエンジニアの一部のメンバーは積極的に Web…</summary>
+  </entry>
+  <entry>
+    <title>タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった</title>
+    <id>https://zenn.dev/rescuenow/articles/4c03a548cd6589</id>
+    <link href="https://zenn.dev/rescuenow/articles/4c03a548cd6589" />
+    <updated>2026-11-06T17:59:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、しもちです。 前回の「2026年自分流AIエージェント環境構築の秋」では、司令塔のエージェントに作業役を回してもらう仕組みを紹介しました。司令塔には作業だけでなく、抱えているタスク全体の管理も任せていて、どれに手を付けるか、どの順で進めるかも司令塔が決めます。自分でタスクの一覧を見て回ることはなくなり、司令塔が出してくる確認待ちに答えるのが主な仕事になりました。 今回は画面を…</summary>
   </entry>
   <entry>
     <title>Security Hub の SBOM インベントリで、Athena を使わずに組織全体のソフトウェアを調べてみた</title>
@@ -514,9 +530,9 @@
     <title>[破壊的変更] 明治時代の開始日が変更になって単体テストが失敗した件</title>
     <id>https://zenn.dev/xin9le/articles/9a1cf8e10494d6</id>
     <link href="https://zenn.dev/xin9le/articles/9a1cf8e10494d6" />
-    <updated>2026-11-07T01:49:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような...</summary>
+    <updated>2026-11-06T23:39:45+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「お前は何を言っているんだ？」と思うかもしれませんが、本当なのだから仕方ない！動いていたはずの CI の単体テストが突然コケるという事態に遭遇してビックリ。「何もしてないのに壊れた」。まじで。 何が起きたか ありのままのコードを載せるわけにはいかないのでポイントを絞って記載します。ざっくり以下のような感じです。サンプルコードは C# / .NET です。 和暦への変換 // 和暦のカルチャ情報を作…</summary>
   </entry>
   <entry>
     <title>01:00-01:30 978-980 (3件)</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-06T20:23:28+09:00</updated>
     <category term="新日" />
     <summary>▶897 矢野オーカーン裕二郎平澤のせいでアマレスエリートの新人にはワクワクしなくなってしまった どうせ毒にも薬にも無いレスラーになるんだろ ▶898 &gt;&gt;897 矢野はヒールで盛り上げてたし裕次郎は内藤とのコンビはメキシコでハポネスブームを作るぐらい大活躍してたじゃん 他の2人はまぁ…</summary>
-  </entry>
-  <entry>
-    <title>月間はてなブックマーク数ランキング（2026年10月） - はてなブックマーク開発ブログ</title>
-    <id>https://bookmark.hatenastaff.com/entry/2026/11/06/170402</id>
-    <link href="https://bookmark.hatenastaff.com/entry/2026/11/06/170402" />
-    <updated>2026-11-06T17:04:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。2026年10月のトップ50です*1。 順位 タイトル 1位 80億分の1 · ランダムに生まれ、一度きりの人生を生きる人生シミュレーション 2位 何これ、すごすぎる！！ PhotoshopやIllustratorをオープンソースで再構築、しかもWi...</summary>
-  </entry>
-  <entry>
-    <title>Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録</title>
-    <id>https://zenn.dev/genda_jp/articles/7b423bcd20b532</id>
-    <link href="https://zenn.dev/genda_jp/articles/7b423bcd20b532" />
-    <updated>2026-11-06T14:13:04+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>2026年10月、MagicPodのMCPサーバーが刷新されました。Claudeのコネクタ一覧から接続するだけで、Claudeとの対話を通じてMagicPodのテストケースを作成・編集・実行できるようになっています。 https://prtimes.jp/main/html/rd/p/000000079.000027392.html 以前、MagicPod MCPサーバーとClaudeを組み合わせ…</summary>
   </entry>
 </feed>
