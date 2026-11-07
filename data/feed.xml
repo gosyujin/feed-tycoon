@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-07T22:30:15.042385+09:00</updated>
+  <updated>2026-11-07T23:00:13.948427+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>パブリックサブネットを持たない Web配信基盤の現在地 | ドクセル</title>
+    <id>https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134</id>
+    <link href="https://www.docswell.com/s/suzryo/KDMX88-2026-11-07-160134" />
+    <updated>2026-11-07T16:55:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パブリックサブネットを持たない Web配信基盤の現在地 — CloudFront VPCオリジンの仕組みと2026/7/16障害を解説します クラスメソッド株式会社 鈴木 亮（@suzryo） SHIFT トラック ｜ 2026/11/07 15:05〜15:20 #jawsug #jawsfesta2026</summary>
+  </entry>
+  <entry>
+    <title>デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap</title>
+    <id>https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/</id>
+    <link href="https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/" />
+    <updated>2026-11-06T12:45:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap AIに実装を任せ、コードもテストも自動で進む「エージェント型開発」。効率化への期待が高まる一方、経験豊富な開発者ほど導入に慎重だ。コードが動けばそれでいい、とはいかないらしい。彼らが警戒するのは、動作確認だけでは...</summary>
+  </entry>
   <entry>
     <title>なぜかWindowsの「ペイント」にリモートコード実行の脆弱性</title>
     <id>https://gigazine.net/news/20261106-ms-paint-remote-code-execution-vulnerability/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-06T17:07:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>「Microsoft Access」でIEベースのWebブラウザーコントロールが廃止へ、2027年5月に／対象フォームは手作業で洗い出し。「Edge」版への置き換えを</summary>
-  </entry>
-  <entry>
-    <title>ChatGPTが夫の毒殺計画を手助け、毒物の選定から毒を上手く隠すための方法の提案まで</title>
-    <id>https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/</id>
-    <link href="https://gigazine.net/news/20261106-wife-chatgpt-plan-murder/" />
-    <updated>2026-11-06T14:27:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ChatGPTが毒殺を実行するための計画立案を手助けしたことが訴訟により明らかになりました。訴訟では、ChatGPTは殺人未遂の共謀犯とされています。 Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder. - Ars Technica https://arstechnica.com/tech-pol…</summary>
-  </entry>
-  <entry>
-    <title>Discordがメモリ使用量削減と安全性向上のためデスクトップ版アプリをRustで再構築へ</title>
-    <id>https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/</id>
-    <link href="https://gigazine.net/news/20261106-discord-rebuild-app-in-rust/" />
-    <updated>2026-11-06T11:23:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Discordのデスクトップ版アプリは、長らくクロスプラットフォーム向けアプリケーション構築用のフレームワークであるElectronで作られていましたが、このたびRust製に全面刷新する方針が示されました。再構築によりメモリ使用量が大幅に削減されるほか、安全性が向上することになります。 Discord is ditching Electron ...</summary>
   </entry>
 </feed>
