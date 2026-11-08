@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T18:00:16.006474+09:00</updated>
+  <updated>2026-11-08T18:30:12.852557+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>仕事、ドパ越えて利益 - オイオイオイ書くわアイツ</title>
+    <id>https://ttmmjm.hatenablog.com/entry/2026/11/06/135935</id>
+    <link href="https://ttmmjm.hatenablog.com/entry/2026/11/06/135935" />
+    <updated>2026-11-07T00:36:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI 使って楽し～ ここ半年くらいで、AI に任せられる仕事がかなり増えた。 障害対応なら、Datadog のログやメトリクスを調べてもらう。 必要なら AWS や Kubernetes の情報も渡す。 大量の調査が短時間で終わって、対応案が出てくる。 依存更新やリファクタリングなら、コードとドキュメントを読ませて、先にテストを増...</summary>
+  </entry>
+  <entry>
+    <title>オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化</title>
+    <id>https://cloud.watch.impress.co.jp/docs/news/2154360.html</id>
+    <link href="https://cloud.watch.impress.co.jp/docs/news/2154360.html" />
+    <updated>2026-11-06T17:53:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オープンソース監視ツールのLTS版「Zabbix 8.0 LTS」、OpenTelemetryにネイティブ対応しオブザーバビリティを強化</summary>
+  </entry>
   <entry>
     <title>Jw_cadを思わせる無料BIM「SumiCAD」登場！ 開発者の意外な正体とは | 建設ITブログ</title>
     <id>https://ken-it.world/it/2026/11/sumicad-free-bim.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-07T09:36:39+09:00</updated>
     <category term="はてブ IT" />
     <summary>本番環境に攻撃の兆候が来ていないかを、AIエージェントが平日の朝に確認して、判定付きのレポートを作るルーティンを動かしています。 動かし始めて1週間で、判定の基準を3回変えました。最初は「何かが起きたら赤」でしたが、それだと社員の普段の作業でも毎週赤になります。最後は、何が起きたかではなく、人が動く必...</summary>
-  </entry>
-  <entry>
-    <title>「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2154396.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2154396.html" />
-    <updated>2026-11-06T17:44:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Discord」がクライアント全体を「Rust」で書き直し、「Electron」から脱却へ／「Zed」のUIフレームワーク「GPUI」を採用、モバイル版とコードを共有</summary>
-  </entry>
-  <entry>
-    <title>OpenAIが「AIデータセンターの電力やインフラは全額自己負担」「電気・水道の使用量を公表」などの約束を発表</title>
-    <id>https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/</id>
-    <link href="https://gigazine.net/news/20261106-openai-responsible-ai-infrastructure/" />
-    <updated>2026-11-06T15:13:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月、アメリカで中間選挙に合わせて行われた複数の住民投票でAIデータセンターに反対する声が非常に強かったことを受けて、OpenAIがAIデータセンターの展開にあたっては地域に最大限配慮していくという内容の約束を発表しました。 Setting a new standard for responsible AI infrastructure | OpenAI https://op...</summary>
   </entry>
 </feed>
