@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T11:30:13.968184+09:00</updated>
+  <updated>2026-11-08T12:00:14.681290+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>WordPress 7.2からランダムなページにリダイレクトする謎機能が実装されることに – Capital P – WordPressメディア</title>
+    <id>https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/</id>
+    <link href="https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/" />
+    <updated>2026-11-07T14:03:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>makeブログでの発表”Your Content Is Going To Get More Random!“によると、今年12月のリリース予定のWordPress 7.2には /random にアクセスすると、ランダムな投稿に飛ばされる機能が実装されるようだ。「なんのために？」という機能だが、どうもこれはマット・マレンウェグが繰り返し要望していた機能で、自身が開発し...</summary>
+  </entry>
   <entry>
     <title>Amazonで探す、ChatGPTが使いやすいノートパソコン10選｜持ち歩きと自宅作業で選ぶ｜スプリー | 軽やかノート</title>
     <id>https://note.com/spry_bounce_note/n/n130dd232030e</id>
@@ -63,20 +71,20 @@
     <summary>こんにちは。株式会社TOKIUM26卒エンジニアのタケノコご飯です。 突然ですがエンジニアの皆さん、今日は人と話しましたか？ 在宅で、且つmtgのない日だともしかしたら一言も人と話していないかもしれません。 出社している皆さんも、今日何人の同僚と会話をしましたか？ Slackなども含め、どのくらい人と交流しましたでしょうか。 正直なところ、私はつい個人作業に没頭してしまい、 今日誰とも関わらなかっ…</summary>
   </entry>
   <entry>
+    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
+    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
+    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
+    <updated>2026-11-07T22:18:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...</summary>
+  </entry>
+  <entry>
     <title>無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能</title>
     <id>https://gigazine.net/news/20261107-harmony/</id>
     <link href="https://gigazine.net/news/20261107-harmony/" />
     <updated>2026-11-07T18:05:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...</summary>
-  </entry>
-  <entry>
-    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
-    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
-    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
-    <updated>2026-11-07T15:44:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるものです。 https://blog.cloudflare…</summary>
   </entry>
   <entry>
     <title>Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題</title>
@@ -543,20 +551,20 @@
     <summary>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…</summary>
   </entry>
   <entry>
+    <title>Weight-Space Programming やってみた(やらせてみた)</title>
+    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
+    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
+    <updated>2026-11-07T11:39:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重みや内部活性を調べ、挙動の仮説を立て、重みに...</summary>
+  </entry>
+  <entry>
     <title>旦那のデスクトップPCがハッキングされてクレカ不正利用が判明、今朝マウスを触っていないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい</title>
     <id>https://togetter.com/li/2767610</id>
     <link href="https://togetter.com/li/2767610" />
     <updated>2026-11-07T11:20:55+09:00</updated>
     <category term="はてブ IT" />
     <summary>くろの @kuro3519 旦那のデスクトップPCがハッキングされ、クレカ不正利用判明 1000円台、2000円台のゲーム課金が数ヶ月前から複数あり、問合せ中だったが、ついに今朝マウス触ってないのにポイントが勝手に動き、決済メールをチマチマ消す決定的瞬間を目撃したらしい 即LAN抜いてカード止めて… 返金されるんかな… 2026-...</summary>
-  </entry>
-  <entry>
-    <title>Weight-Space Programming やってみた(やらせてみた)</title>
-    <id>https://zenn.dev/nwn/articles/cf9fe78aa33861</id>
-    <link href="https://zenn.dev/nwn/articles/cf9fe78aa33861" />
-    <updated>2026-11-07T09:57:13+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>GPT-6 AstraにQwen3.5-0.8Bの重みを編集させることができたという論文が話題です。 https://x.com/rikiyatakehi/status/2117313742891327994 Xで反応を見ていると、AstraがQwenの重みを丸ごと読み込んで、その数値の意味を理解したように受け取られている場面がありました。実験でAstraがやったのは、コードを書いて対象モデルの重…</summary>
   </entry>
   <entry>
     <title>ISUCON 2026参加記</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-06T15:47:19+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Copilot Studio の Microsoft Copilot Harness の検証やプロジェクト用に、Azure サブスクリプションで従量課金される Power Platform 環境 を用意する機会がよくあるので、手順をメモしておきます。 M365 ...</summary>
-  </entry>
-  <entry>
-    <title>2026年11月6日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title>
-    <id>https://qiita.com/ennagara128/items/f20ec4b1f63037568468?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/f20ec4b1f63037568468?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T11:39:01+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。 通勤中などにながら聴きしよう！ （Qiita投稿は通勤には間に合わないと思われますが） フィードバックとか助かりますのでください ↓こちらから 出典 どっちが人間？ AIで声をクローンして、本人と...</summary>
   </entry>
 </feed>
