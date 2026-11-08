@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T22:00:14.105500+09:00</updated>
+  <updated>2026-11-08T22:30:13.239663+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHub - DIYgod/pinky: Let AI agents use your phone, with you in the loop.</title>
+    <id>https://github.com/DIYgod/pinky</id>
+    <link href="https://github.com/DIYgod/pinky" />
+    <updated>2026-11-08T16:40:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Let any AI agent use your iPhone or Android phone, from macOS, Windows or Linux, with you in the loop. Download · Get started · FAQ · Discord English · 简体中文 A real Claude Code run on an Android 16 emu…</summary>
+  </entry>
+  <entry>
+    <title>スクラムマスターは、いつまでスクラムマスターでいられるのか｜dora_e_m</title>
+    <id>https://note.com/dora_e_m/n/n021d6063d284</id>
+    <link href="https://note.com/dora_e_m/n/n021d6063d284" />
+    <updated>2026-11-08T00:12:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>先日、Agile X Conferenceで知人のスクラムマスターと雑談していたときに話していたこと。 「50代、60代になっても、定年までスクラムマスターを続けるというキャリアはあるのでしょうか。」 あるかないかでいえば、いますでにシニア世代で活躍している方はいるので「あるか、ないか」でいえば、あるというのが答えにな...</summary>
+  </entry>
   <entry>
     <title>Macのセキュリティの仕組み - 標準機能と安全に使うための対策｜npaka</title>
     <id>https://note.com/npaka/n/nae09bd9ce37d</id>
@@ -351,20 +367,20 @@
     <summary>こんにちは。株式会社TOKIUM26卒エンジニアのタケノコご飯です。 突然ですがエンジニアの皆さん、今日は人と話しましたか？ 在宅で、且つmtgのない日だともしかしたら一言も人と話していないかもしれません。 出社している皆さんも、今日何人の同僚と会話をしましたか？ Slackなども含め、どのくらい人と交流しましたでしょうか。 正直なところ、私はつい個人作業に没頭してしまい、 今日誰とも関わらなかっ…</summary>
   </entry>
   <entry>
+    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
+    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
+    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
+    <updated>2026-11-07T22:18:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...</summary>
+  </entry>
+  <entry>
     <title>無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能</title>
     <id>https://gigazine.net/news/20261107-harmony/</id>
     <link href="https://gigazine.net/news/20261107-harmony/" />
     <updated>2026-11-07T18:05:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...</summary>
-  </entry>
-  <entry>
-    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
-    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
-    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
-    <updated>2026-11-07T15:44:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるものです。 https://blog.cloudflare…</summary>
   </entry>
   <entry>
     <title>Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-06T10:40:35+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Claude CodeのようなAIコーディングエージェントは、コードの変更からコミットまでを自分で進めます。エージェントが書いたコードにAPIキーが直書きされていても、そのままコミットされることがあります。一度コミットしたキーは、ファイルを消してもGitのコミット履歴に残り...</summary>
-  </entry>
-  <entry>
-    <title>AIの集計レポートはあったけど、CloudWatch ダッシュボードを整理した話</title>
-    <id>https://qiita.com/Tukirukiki/items/a1a0208d9ba97324eb89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tukirukiki/items/a1a0208d9ba97324eb89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-04T17:18:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 運用している Web サービスの CloudWatch ダッシュボードを整理しました。 もともとダッシュボードはあったものの、グラフが場当たり的に足されていて、正直「開いても何も分からない」状態でした。そのため日々の状況確認は、AI（Claude Code）に...</summary>
-  </entry>
-  <entry>
-    <title>Google Antigravity 2.29 が公開。クラウドで動くリモートエージェントと音声モードを追加 | HelenTech</title>
-    <id>https://helentech.jp/news-antigravity-2-29-adds-remote-agents-voice-mode-93305/</id>
-    <link href="https://helentech.jp/news-antigravity-2-29-adds-remote-agents-voice-mode-93305/" />
-    <updated>2026-11-07T12:00:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Google は AI 開発プラットフォーム「Antigravity」のバージョン 2.29 を公開し、クラウド上でエージェントを動かす「リモートエージェント」と、音声で指示ができる「音声モード」を追加しました。 このバージョンには、会話ページや Automations ページの再設計、内蔵ブラウザの改善、Jupyter ノートブックの表示対応...</summary>
   </entry>
 </feed>
