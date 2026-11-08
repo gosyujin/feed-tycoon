@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T20:30:29.296931+09:00</updated>
+  <updated>2026-11-08T21:00:15.680243+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>MCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更 | Hiraoku.dev</title>
+    <id>https://hiraoku.dev/blog/mcp-cli-cloud/</id>
+    <link href="https://hiraoku.dev/blog/mcp-cli-cloud/" />
+    <updated>2026-11-08T11:33:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>MCPAICLIAgentCloudMCPはなぜ復権したのか：CLIが支持された理由と、流れを変えた仕様変更なぜMCPへの批判が生まれ、CLIが支持されたのか。2026年7月28日版のステートレス化と、ツールの遅延読み込み・コード実行から、MCPの再評価を支えた変化を解説します。 Tech·Hiraoku·2026年11月7日·43 分で読めます いま、MCPはAI...</summary>
+  </entry>
+  <entry>
+    <title>Weight-Space Programming を試す - Qwenをずんだもん口調にする｜npaka</title>
+    <id>https://note.com/npaka/n/n703107f1009a</id>
+    <link href="https://note.com/npaka/n/n703107f1009a" />
+    <updated>2026-11-07T18:16:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1. はじめに「Weight-Space Programming やってみた（やらせてみた）」という記事で、Qwenの重みを直接書き換え、ずんだもん口調にする実験が紹介されていました。 そこで、自分も参考記事の手法をもとに、Codexで同様の実験を試してみました。 2. Weight-Space Programmingとは「Weight-Space Programming」は、AIがモ...</summary>
+  </entry>
   <entry>
     <title>日本で言う「活け締め」をAIロボで自動化したらしいんだが、ビジネスの組み方賢すぎる.</title>
     <id>https://posfie.com/@su_damari/p/xvcxjNy</id>
@@ -327,20 +343,20 @@
     <summary>こんにちは。株式会社TOKIUM26卒エンジニアのタケノコご飯です。 突然ですがエンジニアの皆さん、今日は人と話しましたか？ 在宅で、且つmtgのない日だともしかしたら一言も人と話していないかもしれません。 出社している皆さんも、今日何人の同僚と会話をしましたか？ Slackなども含め、どのくらい人と交流しましたでしょうか。 正直なところ、私はつい個人作業に没頭してしまい、 今日誰とも関わらなかっ…</summary>
   </entry>
   <entry>
-    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
-    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
-    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
-    <updated>2026-11-07T22:18:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...</summary>
-  </entry>
-  <entry>
     <title>無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能</title>
     <id>https://gigazine.net/news/20261107-harmony/</id>
     <link href="https://gigazine.net/news/20261107-harmony/" />
     <updated>2026-11-07T18:05:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
+    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
+    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
+    <updated>2026-11-07T15:44:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるものです。 https://blog.cloudflare…</summary>
   </entry>
   <entry>
     <title>Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-07T10:47:18+09:00</updated>
     <category term="はてブ IT" />
     <summary>ロート製薬（大阪市）は11月6日、9月11日に公表した通信販売システムへの不正アクセスについて、顧客279万7545人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報も不正に取得されていたことが分かったという。 漏えいしたのは、複数の顧客管理システムに保存されていた氏名、住所、電...</summary>
-  </entry>
-  <entry>
-    <title>年末調整の書類、どこから書けばいい？ 基礎控除申告書の収入・所得を算出するには？【2026年(令和8年分)年末調整の書き方ガイド 前編】</title>
-    <id>https://internet.watch.impress.co.jp/docs/special/2154000.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/special/2154000.html" />
-    <updated>2026-11-06T17:50:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>年末調整の書類、どこから書けばいい？ 基礎控除申告書の収入・所得を算出するには？【2026年(令和8年分)年末調整の書き方ガイド 前編】</summary>
-  </entry>
-  <entry>
-    <title>GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261107de72062</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261107de72062" />
-    <updated>2026-11-07T12:30:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GMOインターネットグループのサービスが不正アクセスを受けた問題で、2年前、子会社が、「アクティブディレクトリ」という機能を通じて管理者がすべての利用者の情報にアクセスできる状況になっており、リスクが…</summary>
   </entry>
 </feed>
