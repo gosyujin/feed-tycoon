@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T07:30:12.206310+09:00</updated>
+  <updated>2026-11-09T08:00:17.698110+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>日本の公開データ研究マップ（JapanStatsMAPs）を公開しました | 香田将英（shoei05）</title>
+    <id>https://shoei05.com/articles/3001/</id>
+    <link href="https://shoei05.com/articles/3001/" />
+    <updated>2026-11-08T21:05:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本の公的統計を使った研究論文を探せるサイト「日本の公開データ研究マップ（JapanStatsMAPs）」を公開しました。データとコードはGitHubにあります。 2026年11月7日時点で1,269本の論文を収載し、テーマ、データ源、解析データの年、研究の型から探せます。この記事ではサイトの中身と使い方、分類の方法と注意点を紹...</summary>
+  </entry>
   <entry>
     <title>「エントロピーを下げれる奴が偉い」、｜ラクビル株式会社</title>
     <id>https://note.com/rakbil/n/n16a0b62cd206</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-07T16:55:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>パブリックサブネットを持たない Web配信基盤の現在地 — CloudFront VPCオリジンの仕組みと2026/7/16障害を解説します クラスメソッド株式会社 鈴木 亮（@suzryo） SHIFT トラック ｜ 2026/11/07 15:05〜15:20 #jawsug #jawsfesta2026</summary>
-  </entry>
-  <entry>
-    <title>デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap</title>
-    <id>https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/</id>
-    <link href="https://kn.itmedia.co.jp/kn/article/2611/06/2000002925/" />
-    <updated>2026-11-06T12:45:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デキるプログラマーほど「AI任せ」を嫌う、エージェント型開発のちょっと怖い話：904th Lap AIに実装を任せ、コードもテストも自動で進む「エージェント型開発」。効率化への期待が高まる一方、経験豊富な開発者ほど導入に慎重だ。コードが動けばそれでいい、とはいかないらしい。彼らが警戒するのは、動作確認だけでは...</summary>
   </entry>
 </feed>
