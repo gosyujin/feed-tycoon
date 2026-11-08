@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-08T23:00:16.641430+09:00</updated>
+  <updated>2026-11-08T23:30:16.855516+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Excelで帳票レイアウトを作成、CSVデータから簡単に単票や明細付きの帳票を生成できる「AS-DataReport」が新登場［PR］</title>
+    <id>https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html</id>
+    <link href="https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html" />
+    <updated>2026-11-09T00:16:44+09:00</updated>
+    <category term="Publickey" />
+    <summary>年度の切り替え時に取引先に提出する見積書のフォーマットが変わる、取引先から納品書のフォーマットを指定されたなど、ビジネスにおいて帳票のレイアウトに新たな要求が寄せられることは珍しくありません。 しかし業務システムをそのたびに作り変えるのは一...</summary>
+  </entry>
+  <entry>
+    <title>MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と</title>
+    <id>https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html</id>
+    <link href="https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html" />
+    <updated>2026-11-09T00:12:29+09:00</updated>
+    <category term="Publickey" />
+    <summary>Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「M...</summary>
+  </entry>
+  <entry>
+    <title>ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定</title>
+    <id>https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html</id>
+    <link href="https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html" />
+    <updated>2026-11-09T00:09:07+09:00</updated>
+    <category term="Publickey" />
+    <summary>ターミナルエミュレータ「Ghostty」のコア部分を汎用ライブラリ化した「Libghostty 1.0」正式版がリリースされました。 「Libghostty」は、HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナル...</summary>
+  </entry>
+  <entry>
+    <title>Claudeの性能向上ペース、約2倍に加速--「AIを使ってAIを開発」が要因か</title>
+    <id>https://japan.cnet.com/article/35254548/</id>
+    <link href="https://japan.cnet.com/article/35254548/" />
+    <updated>2026-11-08T08:01:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIがAI開発を加速か Anthropicの性能向上ペース約2倍に AIがAIの開発を速めている可能性がある。AI研究機関METRは11月5日、AnthropicのAIモデルの性能向上が、従来の約2倍のペースに速まったとする調査報告書を公開した。METRは、その主な要因が研究開発へのAI活用にあると推定している。 AnthropicのAIモデルの性能指...</summary>
+  </entry>
+  <entry>
+    <title>「DuckDB 2.0 LTS」正式リリース。Quackプロトコルによるクライアント/サーバ機能や非同期処理による高速化など</title>
+    <id>https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html</id>
+    <link href="https://www.publickey1.jp/blog/26/duckdb_20_ltsquack.html" />
+    <updated>2026-10-26T00:44:47+09:00</updated>
+    <category term="Publickey" />
+    <summary>DuckDB Foundationは、シングルバイナリで高速なデータ分析を実現するOLAP型データベース「DuckDB 2.0 LTS」（コード名：Cinnamon Teal）の正式リリースを発表しました。 Announcing Duck...</summary>
+  </entry>
   <entry>
     <title>Meta、「Muse」で自分専用アプリを作れる新機能「スペース」</title>
     <id>https://www.watch.impress.co.jp/docs/news/2154571.html</id>
@@ -375,20 +415,20 @@
     <summary>こんにちは。株式会社TOKIUM26卒エンジニアのタケノコご飯です。 突然ですがエンジニアの皆さん、今日は人と話しましたか？ 在宅で、且つmtgのない日だともしかしたら一言も人と話していないかもしれません。 出社している皆さんも、今日何人の同僚と会話をしましたか？ Slackなども含め、どのくらい人と交流しましたでしょうか。 正直なところ、私はつい個人作業に没頭してしまい、 今日誰とも関わらなかっ…</summary>
   </entry>
   <entry>
-    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
-    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
-    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
-    <updated>2026-11-07T22:18:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるも...</summary>
-  </entry>
-  <entry>
     <title>無料でDiscordのようなチャット・音声・動画・ボットなどを駆使した小さなコミュニティを自分たちで運営できる「Harmony」、既存のDiscordサーバーと接続できるブリッジ機能もオープンソースでセルフホスト可能</title>
     <id>https://gigazine.net/news/20261107-harmony/</id>
     <link href="https://gigazine.net/news/20261107-harmony/" />
     <updated>2026-11-07T18:05:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>友人同士でチャットや音声通話を楽しんだり趣味の仲間と情報を共有したりする際には、Discordのようなコミュニティ向けサービスが便利です。こうした環境を自分たちで運営しながら既存のDiscordサーバーとも交流を続けられるようにしたのが、チャット・音声・動画・画面共有・ボットなどの機能を備えた無料のオープンソ...</summary>
+  </entry>
+  <entry>
+    <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
+    <id>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</id>
+    <link href="https://zenn.dev/tomipetit/articles/zero-wire-github-actions" />
+    <updated>2026-11-07T15:44:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュースのように読めるブリーフィングを出してくれるものです。 https://blog.cloudflare…</summary>
   </entry>
   <entry>
     <title>Excel管理を見直す5つの兆候：運用で直す問題とシステム化する問題</title>
@@ -765,45 +805,5 @@
     <updated>2026-11-06T16:26:15+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>2026年11月6日の朝、Hacker News に「Claude Code sends your email address to websites」という投稿が出ました。元は GitHub の issue（#107757）で、Claude Code が Web 検索の途...</summary>
-  </entry>
-  <entry>
-    <title>EC2 がダウンしていてもメンテナンス画面を出せるようにした（ALB の固定レスポンス）</title>
-    <id>https://qiita.com/Tukirukiki/items/c8ee91004e6d47c5f0a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tukirukiki/items/c8ee91004e6d47c5f0a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T16:03:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに EC2 がダウンしていても、ユーザーにメンテナンスの案内を出せるようにしました。 ALB（Application Load Balancer）のリスナールールで「固定レスポンス」を返す設定にして実現しています。サーバーを一切使わずに、ALB 自身がメンテナンス...</summary>
-  </entry>
-  <entry>
-    <title>種族値合計600以上のポケモンを返すAPIをクリーンアーキテクチャで作成した【TypeScript/Hono/Vitest/TDD/PokeAPI】</title>
-    <id>https://qiita.com/keikeigo/items/937f993ba3bdafa4184c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/keikeigo/items/937f993ba3bdafa4184c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T15:24:13+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに 今回は、Honoとクリーンアーキテクチャを学ぶことを目的としてAPIを作成しました。 ↓作ったAPIのリポジトリ 2. 何を作ったか APIの概要 種族値の合計が600以上の第一世代のポケモンを返すAPIです。 600以上をハイスタッツと定義して...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeでリポジトリを作らずに試作する</title>
-    <id>https://qiita.com/kentasatomi/items/1c3e1ac9244d973ce5e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kentasatomi/items/1c3e1ac9244d973ce5e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T12:27:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>11月4日付のClaude Code 2.1.318の変更履歴で、クラウドセッションに「No repository」が加わったことが案内されました。Anthropicがホストする環境で、リポジトリを選ばずにセッションを始められます。小さな処理を試すだけなら、GitHubに検...</summary>
-  </entry>
-  <entry>
-    <title>ぐちゃぐちゃだった AWS IAM を整理した話（ユーザー・グループ・ポリシー・ロール）</title>
-    <id>https://qiita.com/Tukirukiki/items/45d489328f0647aff899?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tukirukiki/items/45d489328f0647aff899?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T11:46:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>なぜ整理しようと思ったのか AWS の IAM 権限がぐちゃぐちゃになっていました。 過去に在籍していたエンジニアのアカウントが残ったまま グループを場当たり的に作っていて、どのグループが何のためのものか分からない 誰に何の権限が付いているのか、パッと見て分からない ...</summary>
-  </entry>
-  <entry>
-    <title>postgres:18 が起動直後に終了する原因：データディレクトリの場所が変わった（16 → 18 移行手順付き）</title>
-    <id>https://qiita.com/anderslee2020/items/3bcbb9bbae3b7322c728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/anderslee2020/items/3bcbb9bbae3b7322c728?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T11:05:01+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ネットにある PostgreSQL + Docker の記事の Compose ファイルをそのまま使い、タグだけ 18 にすると、コンテナが数秒で止まります。 $ docker run -d --name pgold -e POSTGRES_PASSWORD=secret ...</summary>
   </entry>
 </feed>
