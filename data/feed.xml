@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T05:00:13.787766+09:00</updated>
+  <updated>2026-11-09T05:30:13.175573+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>部品の脆弱性は、どこまで広がるのか？ 主要 64 製品と 8 部品の依存関係をたどったら、OpenSSL は 20、SQLite は 16、PHP は 11 だった</title>
+    <id>https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/songchong/items/41a88eb41845af761b19?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-09T04:10:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AI が、広く使われるソフトウェア部品（コンポーネント）の脆弱性を見つけ始めました。Google の AI のエージェント（Big Sleep） は SQLite の脆弱性を、Google の AI で作ったテスト（OSS-Fuzz） は OpenSSL の脆弱性を見つけ...</summary>
+  </entry>
+  <entry>
+    <title>Viteのキャッシュ削除</title>
+    <id>https://qiita.com/J-T_ky2g/items/5613fa8313b472cbe71f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/5613fa8313b472cbe71f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T21:36:55+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>コマンド rm -r ./node_modules/.vite 参考</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントのための git worktree の使い方</title>
+    <id>https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T19:52:57+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに AIエージェントで複数のセッションを立ち上げ、並列でタスクを進めたい時、 それぞれのエージェントが同じファイルを編集しようとすると、片方のエージェントが編集した内容がもう片方のエージェントによって書き換えられてしまい、うまく行きません。 それを解決するためにgi...</summary>
+  </entry>
+  <entry>
+    <title>【AWS初心者】AWSの基礎を学び、VPCとサブネットを作成してみた</title>
+    <id>https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T18:34:56+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに これまでC#やASP.NETなどを使用したWebアプリケーション開発を経験してきましたが、AWSについては初心者です。 今回、AWS Certified Solutions Architect – Associate（SAA）の取得を目標に、AWSの学習を始めま...</summary>
+  </entry>
+  <entry>
+    <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
+    <id>https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T18:00:22+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。 では、悪用される...</summary>
+  </entry>
+  <entry>
+    <title>【React】再レンダリングが起きるタイミングと memo / useCallback で防ぐ方法</title>
+    <id>https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T17:26:55+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに React の再レンダリングについて、実際にコードを書いて確かめながらまとめました。 再レンダリングはいつ起きるのか 不要な再レンダリングを memo と useCallback で防ぐ方法 の 2 つを、例を出しながら説明します。 環境 React ...</summary>
+  </entry>
+  <entry>
+    <title>JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！</title>
+    <id>https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T16:43:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>どうもこんにちは。 2026/11/7（土）にJAWS FESTA 2026が開催されましたね。（いぎだがっだぁ...） 前日の夜から翌日まで楽しそうなツイートを見てて、いいなぁ...って。 ↓を見てください。ほんとに楽しそうなんですよ。 来年は行きますからね！...</summary>
+  </entry>
+  <entry>
+    <title>【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った</title>
+    <id>https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T15:17:41+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 社内勉強会向けに、Amazon Bedrock AgentCore のハンズオン環境を Terraform で作りました。 受講者1人に1台の EC2 を用意し、EC2 で動く code-server をブラウザから開いてもらう構成です。全体の構成は以前の記事に...</summary>
+  </entry>
+  <entry>
+    <title>Reactのアンマウントはいつ起きる？位置と種類で理解する</title>
+    <id>https://qiita.com/shun123/items/586906ea13bc03bfcea6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shun123/items/586906ea13bc03bfcea6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T11:34:44+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Reactを書いていると「アンマウント」という言葉をよく目にします。なんとなく「コンポーネントが消えること」だと思っていましたが、いざ「どんな条件でアンマウントされるのか」「props が変わったらアンマウントされるのか」と聞かれると、うまく説明できませんでした...</summary>
+  </entry>
+  <entry>
+    <title>dots vs Muse</title>
+    <id>https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/enoshiman/items/7bbe521d2d094f4d3e81?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-08T01:24:19+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AIアシスタント間で壁打ちして議論を闘わせてみたので久々の記事にしてみます。 自分のPCにCodex入れてちょとしたAIアプリケーション開発をやっています。 dotsが登場したのでさくやと名付けて基本さくやと会話しながら作業を進めてきました。 意外と役に立つ秘書になったので...</summary>
+  </entry>
+  <entry>
+    <title>Geminiを使って社内勉強会の資料を作ってみた！ プロンプトの「壁打ち」で見えた生成AI活用のコツ</title>
+    <id>https://qiita.com/cw_inada/items/1f36d18c3c60b48b4466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/cw_inada/items/1f36d18c3c60b48b4466?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-07T23:22:58+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 日々の業務に追われる中で、「社内勉強会の資料作り」のような準備作業に十分な時間を割けず、困った経験はありませんか？ 生成AIを活用した業務効率化が注目される中、「自分もAIを使ってサクッと資料を作ってみたいけれど、実際の業務でどう使えばいいか分からない」と感じて...</summary>
+  </entry>
+  <entry>
+    <title>東京リージョンで使っていてもバージニア北部に依存しているもの</title>
+    <id>https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yama3133/items/5416c243e14a5406dd6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T22:18:11+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2025年10月20日、us-east-1(バージニア北部)で大規模な障害が起きました。 東京リージョンでシステムを動かしている人にも影響が出ました。 一方で、AWS の設定には 「ロググループは us-east-1 に作ること」 のように、東京で使っていても ...</summary>
+  </entry>
+  <entry>
+    <title>【IT初心者向け】1年目に覚えてよかったGitコマンド3選</title>
+    <id>https://qiita.com/tsurugi_komaki/items/e4fc5a485363a0d6bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/tsurugi_komaki/items/e4fc5a485363a0d6bdfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-06T18:08:03+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>0, はじめに プログラミングを学び始め、チーム開発や実際の業務に足を踏み入れると、Gitは絶対に避けて通れない、必要不可欠なインフラとなります。 最初はcommit、push、pull という基本のサイクルを覚えるだけでも一苦労ですが、gitの基礎的な操作に慣れてくると...</summary>
+  </entry>
   <entry>
     <title>Shizuku-Duplex: Japanese Full-Duplex Model for Natural Conversation</title>
     <id>https://shizuku.ai/en/blog/1/</id>
@@ -701,109 +805,5 @@
     <updated>2026-11-06T14:56:31+09:00</updated>
     <category term="はてブ IT" />
     <summary>OpenAI、セキュリティ特化AIモデル「GPT-6 Cyber」を発表、一部顧客に限定提供／Firefox、Linuxカーネル、Brotliの脆弱性発見・検証に活躍</summary>
-  </entry>
-  <entry>
-    <title>シン・ウルトラモード</title>
-    <id>https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode</id>
-    <link href="https://zenn.dev/aws_japan/articles/kiro-crew-ultra-mode" />
-    <updated>2026-11-07T10:09:30+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、AWS Japan でソリューションアーキテクトをしているいなりくです。 Kiro Crew は、Kiro CLI や Claude Code などのエージェントのチャットを、ダッシュボードや Slack から扱うオープンソースのツールです。0.6 までの機能は以前の記事で紹介しています。 大きな仕事を 1 つのチャットに頼むと、途中でコンテキストがいっぱいになったり、どこま…</summary>
-  </entry>
-  <entry>
-    <title>GitHub - soudai/postgresql-use-improve-agents-skill</title>
-    <id>https://github.com/soudai/postgresql-use-improve-agents-skill</id>
-    <link href="https://github.com/soudai/postgresql-use-improve-agents-skill" />
-    <updated>2026-11-06T22:14:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>AI時代の要求管理ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構</title>
-    <id>https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html</id>
-    <link href="https://www.ipa.go.jp/digital/kaihatsu/youkyu-kanri.html" />
-    <updated>2026-11-05T19:17:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>独立行政法人情報処理推進機構（IPA）は、AIが社会や産業の基盤となる時代に求められる要求管理の考え方と実践を解説した「AI時代の要求管理ハンドブック」を公開しました。 AIやデータ、ソフトウェアの活用が広がり、ビジネス環境や技術が急速に変化する中、組織や社会が「何を実現したいのか」を明確にし、その目的を...</summary>
-  </entry>
-  <entry>
-    <title>AI時代に求められる優秀なTechLeadの振る舞い - pospomeのプログラミング日記</title>
-    <id>https://www.pospome.work/entry/2026/11/07/192125</id>
-    <link href="https://www.pospome.work/entry/2026/11/07/192125" />
-    <updated>2026-11-07T19:23:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>"TechLead Conference 2026 Autumn powered by connpass" の登壇資料です。 概要： 生成AIの進化によって、ソフトウェア開発のあり方は大きく変化しています。AIがコードを書く時代になり、技術的な知識や経験だけでなく、TechLeadとしてどのような価値を生み出すべきなのか、改めて考える必要があるのではないでしょう...</summary>
-  </entry>
-  <entry>
-    <title>ISUCON2026をClaude Codeが優勝したらしい｜laiso</title>
-    <id>https://sizu.me/laiso/posts/k59is4cnd77f</id>
-    <link href="https://sizu.me/laiso/posts/k59is4cnd77f" />
-    <updated>2026-11-07T19:00:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>タイトルは釣りです（懐かしいブログ仕草） 正確には、元Wantedly CTOのkawasyさんが、ISUCON参加に向けて3ヶ月以上の試行錯誤をしたハーネスを、本番では無停止で自律的に8時間動作させて1位のスコアを叩き出したらしい。 もちろん他のチームも競技にClaude CodeやCodexなどを大活用して挑んだようだけど、完全自律実行...</summary>
-  </entry>
-  <entry>
-    <title>上司に｢クビだ｣と罵られた設計で"日本人初受賞"…ホンダジェット開発者が30年かけて覆した｢飛行機の常識｣</title>
-    <id>https://president.jp/articles/-/121455</id>
-    <link href="https://president.jp/articles/-/121455" />
-    <updated>2026-11-06T12:20:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>世界が認めたホンダジェットの斬新な設計 全米工学アカデミー（NAE）は2026年9月8日、ホンダジェットの生みの親である藤野道格氏を、J・C・ハンサカー航空工学賞の受賞者に選んだと発表した。航空工学の分野で優れた業績を上げた人に贈られる賞で、授賞式は10月4日、ワシントンで開かれた。 同アカデミーは、藤野氏の功...</summary>
-  </entry>
-  <entry>
-    <title>長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2154439.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2154439.html" />
-    <updated>2026-11-07T06:50:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>長いパスワードで認証を回避する脆弱性「*sshole」、「Alpine Linux」などに影響／2016年から存在、「OpenSSH 10.6p2」で対策</summary>
-  </entry>
-  <entry>
-    <title>120FPS達成が大変だった話。</title>
-    <id>https://project-asura.com/blog/archives/14007</id>
-    <link href="https://project-asura.com/blog/archives/14007" />
-    <updated>2026-11-07T15:12:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちわ、Pocolです。 とあるタイトルで120FPS達成しろというオーダーを受けた時の対応がとても大変だったので、昔話として、そのときの対応について記載を残しておこうと思いました。 まず最初にやるべきこと。 最初にやるべきことは課題点・問題点の洗い出しです。 対応開始当初はそもそも60FPS達成もままならない...</summary>
-  </entry>
-  <entry>
-    <title>ワイヤレス主流時代になぜ？「有線イヤホン」再流行のワケ【THE TIME,】 | TBS NEWS DIG</title>
-    <id>https://newsdig.tbs.co.jp/articles/-/3068819</id>
-    <link href="https://newsdig.tbs.co.jp/articles/-/3068819" />
-    <updated>2026-11-07T13:39:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ワイヤレスが主流となるなか「有線イヤホン」が再び注目され、あのBOSEも11年ぶりに有線タイプを発売。その人気のワケとは？ 有線イヤホンを使っている人は街のあちこちで見かけますが、そのまま使うのではなく“…</summary>
-  </entry>
-  <entry>
-    <title>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成できる「Terminal-Mac」がリリース。</title>
-    <id>https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html</id>
-    <link href="https://applech2.com/archives/20261106-terminal-mac-macos-running-in-your-terminal.html" />
-    <updated>2026-11-06T07:38:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AppleのAVFを利用しターミナル内にAIエージェントが操作できるmacOS仮想マシンを作成するアプリ「Terminal-Mac」がリリースされています。詳細は以下から。 AIエージェントにタスクをまかせる際、セキュリティ的にホストマシンのフルアクセス権限を与えるのは避けたいため、VMPalやGhostVMなどAIエージェント用の仮想マ...</summary>
-  </entry>
-  <entry>
-    <title>OCI Database ServicesのマネージドMCPサーバーをCodexから使ってみた</title>
-    <id>https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mo__mo/items/4a8b7100b6b65a582889?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-07T13:47:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年10月にOCI Database Servicesで機能拡張があり、マネージドMCPサーバーが利用できるようになりました。 この機能により、ユーザーはMCP対応のAIクライアントから自然言語で依頼し、OCI上のデータベース環境の構成や状態を確認できるよ...</summary>
-  </entry>
-  <entry>
-    <title>AI is dramatically accelerating AI research right now</title>
-    <id>https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</id>
-    <link href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai" />
-    <updated>2026-11-07T07:42:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>This post discusses a public METR report on AI R&amp;D acceleration at Anthropic. I did not work on this project or see the unredacted report.1 All opinions are my own and do not represent METR or the rep…</summary>
-  </entry>
-  <entry>
-    <title>周回遅れ？インフラエンジニア、今さら GitHub Copilot app を使い始める！？</title>
-    <id>https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/carol0226/items/21c4ad96de4d8df2f047?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-07T06:05:58+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 周りはみんな使っている。でも、私は使えなかった 私の周りには、Microsoft MVP や、AI をフル活用されている方々がいます。 やまぱん (@aktsmm) さん、Yuya (@yuyanz) さん、あいぼーい(@iboy)さん。 みんな GitHub ...</summary>
   </entry>
 </feed>
