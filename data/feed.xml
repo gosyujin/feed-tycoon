@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T12:30:12.905914+09:00</updated>
+  <updated>2026-11-09T13:00:10.953497+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ShopifyのReact Native→ネイティブ移行を支える「Reflex」をSwiftとKotlinで試す</title>
+    <id>https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin</id>
+    <link href="https://zenn.dev/tellernovel_inc/articles/reflex-native-swift-kotlin" />
+    <updated>2026-11-09T10:38:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している@kazutoyoです！ 先日、Shopify Engineeringから「Reflex」というモバイルアプリのアーキテクチャの記事が公開されました。 https://shopify.engineering/reflex ShopifyはReact Nativeで作っていたアプリをネイティブに置き換えていて、…</summary>
+  </entry>
+  <entry>
+    <title>Herdr.app と hc の上で Claude Code の司令塔を回している</title>
+    <id>https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c</id>
+    <link href="https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c" />
+    <updated>2026-11-09T01:00:51+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Herdr.app と hc の上で Claude Code の司令塔を回している 前提: 2026-11 時点の個人の運用メモ。 Herdr.app 0.1.13 / hc (herdr-core) 0.1.18 / Claude Code 2.1.318。 一言で: 自分が話す相手は司令塔の Claude Code 1 体だけ。 ほかの agent の面倒は司令塔に見させる。 使っている道具…</summary>
+  </entry>
   <entry>
     <title>図書館の蔵書目録のためのルビエンジン「カーリル Furikake」をリリースしました</title>
     <id>https://blog.calil.jp/2026/11/furikake.html</id>
@@ -95,12 +111,12 @@
     <summary>2026年11月5日、ドコモは、ドコモオンラインショップとMy docomoへの不正アクセスで顧客情報が流出したことを確認したと公表しました。ここでは関連する情報をまとめます。 経路遮断と一時再開の後に再停止 ドコモオンラインショップとMy docomoでは、2026年11月4日10時30分頃にアラートを検知して対応を始め、攻撃経路...</summary>
   </entry>
   <entry>
-    <title>AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】</title>
+    <title>AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】</title>
     <id>https://www.watch.impress.co.jp/docs/series/nishida/2154614.html</id>
     <link href="https://www.watch.impress.co.jp/docs/series/nishida/2154614.html" />
     <updated>2026-11-09T08:24:01+09:00</updated>
     <category term="はてブ IT" />
-    <summary>AIが「最安」を選び続ける世界は幸せなのか? Museと節約・買い物自動化の光と影【西田宗千佳のイマトミライ】</summary>
+    <summary>AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】</summary>
   </entry>
   <entry>
     <title>Googleの開発者「Gemini使えば時オカリメイクをiPhone Duoで遊べるよ！」→炎上 : ゴールデンタイムズ</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-08T11:14:28+09:00</updated>
     <category term="はてブ IT" />
     <summary>PR 外でノートパソコンを開いたら、残りの電池が思ったより少ない。スマホも地図やテザリングで減っていく。そんな日に持っていきたいのが、20,000mAh以上のモバイルバッテリーです。ただ、容量だけで選ぶと、パソコンに必要な出力が足りなかったり、毎日持ち歩くには重すぎたりします。 Amazonの売れ筋情報を入口に、メ...</summary>
-  </entry>
-  <entry>
-    <title>生成AI時代のIAMのマニアックな話</title>
-    <id>https://speakerdeck.com/takuros/jaws-festa-2026-public</id>
-    <link href="https://speakerdeck.com/takuros/jaws-festa-2026-public" />
-    <updated>2026-11-07T11:15:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JAWS FESTA 2026 in AKITA(2026年11月7日)の登壇資料です。 プログラムには鍵を渡せるのに、なぜLLMには渡してはいけないのか。AIエージェントからAWSを操作するときに、鍵ではなく権限を渡す考え方を、IAMの代理実行とAI専用ロールから解説しました。 関連書籍 …</summary>
-  </entry>
-  <entry>
-    <title>WordPress 7.2からランダムなページにリダイレクトする謎機能が実装されることに – Capital P – WordPressメディア</title>
-    <id>https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/</id>
-    <link href="https://capitalp.jp/2026/11/06/wordpress-7-2-random-redirect/" />
-    <updated>2026-11-07T14:03:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>makeブログでの発表”Your Content Is Going To Get More Random!“によると、今年12月のリリース予定のWordPress 7.2には /random にアクセスすると、ランダムな投稿に飛ばされる機能が実装されるようだ。「なんのために？」という機能だが、どうもこれはマット・マレンウェグが繰り返し要望していた機能で、自身が開発し...</summary>
   </entry>
 </feed>
