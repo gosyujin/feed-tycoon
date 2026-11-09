@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-10T08:00:15.785659+09:00</updated>
+  <updated>2026-11-10T08:30:11.881715+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Go における Gra ceful Shutdown とハマりどころ</title>
+    <id>https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown</id>
+    <link href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown" />
+    <updated>2026-11-10T06:51:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →</summary>
+  </entry>
+  <entry>
+    <title>「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞</title>
+    <id>https://www.tsukuba-sp.org/news/wghx7ljlx7/</id>
+    <link href="https://www.tsukuba-sp.org/news/wghx7ljlx7/" />
+    <updated>2026-11-10T06:05:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...</summary>
+  </entry>
+  <entry>
+    <title>並列度を下げたら速くなった — go build の重複コンパイルを実測で見る</title>
+    <id>https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b</id>
+    <link href="https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b" />
+    <updated>2026-11-09T23:54:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>バクラクの monorepo で、同時に走らせる go build を 9 → 2 に減らしたら、起動時のビルドが 2.4 倍速くなりました。-debug-actiongraph でビルドの中を覗き、重複コンパイルが起きる理由と、さらに速くする方法を実測で紹介します。 layerx.go #6（2…</summary>
+  </entry>
+  <entry>
+    <title>政府、大学に防衛専門研究所 AI・宇宙など先端技術いかし装備品開発 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUA091EZ0Z01C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUA091EZ0Z01C26A1000000/" />
+    <updated>2026-11-09T21:04:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>政府は防衛装備品の開発に応用できる技術の研究を担う拠点を2031年度までに大学や国立研究開発法人に新設する。人工知能（AI）や宇宙などの分野を念頭に置く。基礎研究ができる環境を整え先端技術を駆使する「新しい戦い方」への備えを強化する。年内に改定する安全保障関連3文書の一つである防衛力整備計画に外部の研究...</summary>
+  </entry>
+  <entry>
+    <title>盗んだ情報をAIに査定させるインフォスティーラー「VOLTA」についてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/11/09/144357</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/09/144357" />
+    <updated>2026-11-09T14:56:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月31日、Cisco Talosは、盗んだ情報をLLMに査定させるフェーズを持つWindows向けインフォスティーラー「VOLTA」の解析結果を公表しました。ここでは関連する情報をまとめます。 VOLTAとは何か VOLTAは、Windows(x86-64)向けのインフォスティーラー。窃取のあとに被害者をLLMに評価させるフェーズが備わっている...</summary>
+  </entry>
   <entry>
     <title>Introducing Claude Fable 5.2 and Claude Mythos 5.2</title>
     <id>https://www.anthropic.com/claude-fable-and-mythos-5-2</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-09T00:07:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>[スタパ齋藤の「スタパトロニクスMobile」] フロッピーディスク型SSDケースで物欲が大爆発！ 必要ないけど超欲しいレトロガジェットを買いまくりッ!!!</summary>
-  </entry>
-  <entry>
-    <title>アメリカ産のAIでオープンモデル「Ripple-65B Preview」登場、パラメーター数10倍の大型モデルを上回る性能で開発費は10分の1</title>
-    <id>https://gigazine.net/news/20261108-ripple-65b-preview/</id>
-    <link href="https://gigazine.net/news/20261108-ripple-65b-preview/" />
-    <updated>2026-11-08T19:05:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIを使用してシリコンチップを設計する再帰的自己改善に取り組むアメリカのスタートアップ「Ricursive Intelligence」が、アメリカ産のオープンウェイトモデル「Ripple-65B Preview」をリリースしました。Ripple-65B Previewはエージェント型コーディングのベンチマーク「Terminal-Bench 2.1」で80.52点を記録し、より大...</summary>
-  </entry>
-  <entry>
-    <title>情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/09/2000002926/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/09/2000002926/" />
-    <updated>2026-11-09T08:11:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>9月末から企業を標的とした不正アクセスが相次いでおり、ユーザーなどの個人情報がそこかしこで漏えいしている。被害に遭った各社は「漏えいした情報の悪用はない」としつつ詐欺メール・電話に注意を呼び掛けている状況だが、実際に詐欺メールの報告件数などに動きはあるのか。推移を監視する企業や組織に、9月下旬～10...</summary>
-  </entry>
-  <entry>
-    <title>ロピアがAIのキモ飯ポスターに実物を寄せてきてて草「これ作ってからAIにしたのか、AIに弁当寄せたのかどっちか気になる」「この発想はなかった」</title>
-    <id>https://togetter.com/li/2768126</id>
-    <link href="https://togetter.com/li/2768126" />
-    <updated>2026-11-08T20:54:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>いし@万博から園芸博へ @mk_ishi AIイラストに「イラストはイメージです」が入ってるからまともだなと思った。 プロが作ってれば入れる当たり前の文字なんだけど、 素人が作ると入れないからすぐわかる。 そして、そのロピアのやつ食べたい。 x.com/po0zj/status/2… 2026-11-08 18:08:49</summary>
-  </entry>
-  <entry>
-    <title>ドコモオンラインショップとMy docomoへの不正アクセスについてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/11/09/090504</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/09/090504" />
-    <updated>2026-11-09T09:46:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月5日、ドコモは、ドコモオンラインショップとMy docomoへの不正アクセスで顧客情報が流出したことを確認したと公表しました。ここでは関連する情報をまとめます。 経路遮断と一時再開の後に再停止 ドコモオンラインショップとMy docomoでは、2026年11月4日10時30分頃にアラートを検知して対応を始め、攻撃経路...</summary>
-  </entry>
-  <entry>
-    <title>AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】</title>
-    <id>https://www.watch.impress.co.jp/docs/series/nishida/2154614.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/series/nishida/2154614.html" />
-    <updated>2026-11-09T08:24:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIが「最安」を選び続ける世界は幸せなのか? Museが買い物を担う未来【西田宗千佳のイマトミライ】</summary>
   </entry>
 </feed>
