@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T16:00:14.053210+09:00</updated>
+  <updated>2026-11-09T16:30:10.626526+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Macにはユーザーの人間関係をグラフ化する常駐プログラムが搭載されている</title>
+    <id>https://gigazine.net/news/20261109-macos-personal-knowledge-graph/</id>
+    <link href="https://gigazine.net/news/20261109-macos-personal-knowledge-graph/" />
+    <updated>2026-11-09T16:02:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2022年10月にリリースされたmacOS Ventura(macOS 13)以降のmacOSには、「ユーザーが誰で、どういった知り合いを持っていて、どのような関係を築いているのか」といった情報をグラフ化するための2つのデーモン(常駐プログラム)が搭載されていることが明らかになりました。 Anatomy of Apple's Personal Knowledge Graph —...</summary>
+  </entry>
+  <entry>
+    <title>Kaigi on Rails 2026 で学んだ「操作を見出す」設計で、実務の fat model をリファクタした話 #kaigionrails - Speee DEVELOPER BLOG</title>
+    <id>https://tech.speee.jp/entry/2026/11/09/142755</id>
+    <link href="https://tech.speee.jp/entry/2026/11/09/142755" />
+    <updated>2026-11-09T14:32:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは、Speee で不動産一括査定サービス「イエウール」の開発をしている福井です。新卒で入社して半年、Rails を触りはじめて1年足らずの私が、Kaigi on Rails 2026 の発表で学んだ設計の考え方で、実務の fat model をリファクタした話を紹介します！ TL;DR モデルにある on: や if: の条件を業務ルール...</summary>
+  </entry>
   <entry>
     <title>X Mileさんと合同AI勉強会をして分かった、AIに任せるところと人がやるところ - ROXX開発者ブログ</title>
     <id>https://techblog.roxx.co.jp/entry/2026/11/09/075141</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-08T07:25:04+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 以下の後に次のテストを書いてうまくいかなかった 問題 「学習履歴が表示される」でモックが残ってうまくいかない const { useGetLearnRecords } = vi.hoisted(() =&gt; { return { useGe...</summary>
-  </entry>
-  <entry>
-    <title>Vitestでモックをテストケースごとに差し替えるようにする</title>
-    <id>https://qiita.com/J-T_ky2g/items/a0284d1131cfc643cbbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/J-T_ky2g/items/a0284d1131cfc643cbbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T06:51:44+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに vitestでapiレスポンスが取れている時、取れていない時のモックを差し替えたい 追記） この記事の内容でモックが差し替えできるようにはなるが、残ってしまい毎回内容を書かないといけないことについては以下に記載 問題 もともと以下のようにモックして...</summary>
-  </entry>
-  <entry>
-    <title>Goのerrorがnilにならないとき、ポインタではなくinterfaceの型を見る</title>
-    <id>https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Shiro_Shihi/items/10e5d76ebd638a2c472f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T01:02:15+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>次の4つの比較は、同じnilを相手にしているのに答えが分かれます。 型付きnilを返すerror == nil → false 明示的にnilを返すerror == nil → true nilの*int == nil → true その*intを...</summary>
   </entry>
 </feed>
