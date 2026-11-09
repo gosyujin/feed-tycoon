@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-10T02:00:15.638388+09:00</updated>
+  <updated>2026-11-10T02:30:15.323538+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>個性を磨くUI観点</title>
+    <id>https://zenn.dev/silverbirder/books/ui-craft-techniques</id>
+    <link href="https://zenn.dev/silverbirder/books/ui-craft-techniques" />
+    <updated>2026-11-09T09:00:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「AIっぽいね」そんな無個性なWebサイトは愛着が湧きません。個性はUIの細部を磨くことで滲み出るものです。本書では、文字・余白・形・色・操作などを、架空の個人ブログの作例で考えます。</summary>
+  </entry>
+  <entry>
+    <title>翻訳特化モデル「PLaMo 3 Translate」をオープンウェイトで公開しました | PLaMo翻訳</title>
+    <id>https://translate.preferredai.jp/news/20261105-2-plamo3-translate-open-weight/</id>
+    <link href="https://translate.preferredai.jp/news/20261105-2-plamo3-translate-open-weight/" />
+    <updated>2026-11-06T17:02:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PLaMo翻訳で利用している翻訳特化型の大規模言語モデル（LLM）「PLaMo 3 Translate」を、本日オープンウェイトモデルとしてHugging Faceで公開しました。10月の大型アップデートの際に、今後の予定としてお伝えしていたものです。 オープンウェイトモデルとは、モデルを手元の機器で動かすために必要な「モデルの重み」...</summary>
+  </entry>
   <entry>
     <title>🦀 2026-11-09: 大江戸Ruby会議11でカニの話した → 一人反省会｜taea</title>
     <id>https://sizu.me/taea/posts/2cw9xvxtshtv</id>
@@ -546,8 +562,8 @@
     <title>Herdr.app と hc の上で Claude Code の司令塔を回している</title>
     <id>https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c</id>
     <link href="https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c" />
-    <updated>2026-11-09T09:25:27+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-11-09T01:00:51+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>Herdr.app と hc の上で Claude Code の司令塔を回している 前提: 2026-11 時点の個人の運用メモ。 Herdr.app 0.1.13 / hc (herdr-core) 0.1.18 / Claude Code 2.1.318。 一言で: 自分が話す相手は司令塔の Claude Code 1 体だけ。 ほかの agent の面倒は司令塔に見させる。 使っている道具…</summary>
   </entry>
   <entry>
@@ -789,21 +805,5 @@
     <updated>2026-11-08T22:06:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>1. はじめにLinuxディストリビューションの「Ubuntu」には、ウイルスやマルウェア、不正アクセス、情報漏洩などから保護するためのセキュリティ機能が標準搭載されています。 Ubuntuには、PC向けの「Ubuntu Desktop」とサーバー向けの「Ubuntu Server」があり、用途によって注意すべき攻撃が異なります。 今回は、Ubuntu...</summary>
-  </entry>
-  <entry>
-    <title>サイバー攻撃に強い「基幹インフラ」病院、28年までに30施設 厚労省 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUA066DV0W6A101C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUA066DV0W6A101C2000000/" />
-    <updated>2026-11-07T07:24:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>厚生労働省は2028年までに高度医療を提供する国内の約30病院を指定し、サイバー攻撃に強い体制を整備する。救命や災害に対応した大学病院などを念頭に置く。経済安全保障推進法にもとづく基幹インフラ制度の一つと位置づける。27年中にまず関東や近畿、中部など8つの地域ごとに少なくとも1施設を指定する。28年末までに...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - google/elephant-goldfish-model: Open-source skills for designing and reviewing software with AI agents</title>
-    <id>https://github.com/google/elephant-goldfish-model</id>
-    <link href="https://github.com/google/elephant-goldfish-model" />
-    <updated>2026-10-28T10:38:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Design with an elephant. Review with a goldfish. Install · Quickstart · Documentation · Website Thousands of Google engineers use EGM, an open-source plugin, to draft specs with deep-context agents an…</summary>
   </entry>
 </feed>
