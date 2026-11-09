@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T15:30:13.740299+09:00</updated>
+  <updated>2026-11-09T16:00:14.053210+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>X Mileさんと合同AI勉強会をして分かった、AIに任せるところと人がやるところ - ROXX開発者ブログ</title>
+    <id>https://techblog.roxx.co.jp/entry/2026/11/09/075141</id>
+    <link href="https://techblog.roxx.co.jp/entry/2026/11/09/075141" />
+    <updated>2026-11-09T14:09:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、ROXXでEM（エンジニアリングマネージャー）を務めている窪内です。 10月14日、同じビルに入っているX Mileさんと、合同でAI勉強会を開きました！ 両社あわせて30名弱が集まり、LT6本とブレイクアウト5部屋を2時間に詰め込んだ、にぎやかな会になりました。 同じビルで、同じ人材紹介の領域にいる2社ですが、...</summary>
+  </entry>
+  <entry>
+    <title>株式会社セガ</title>
+    <id>https://www.sega.co.jp/release/261109_1.html</id>
+    <link href="https://www.sega.co.jp/release/261109_1.html" />
+    <updated>2026-11-09T13:26:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>株式会社セガ（以下、当社）は、当社と当社グループ会社の株式会社セガ フェイブの製品・サービスに関する一部のメールマガジンの配信にアララ株式会社（以下、アララ社）の配信システムを利用しております。このたび、アララ社が第三者による不正アクセスを受け、メールマガジンの配信に利用したお客様のメールアドレス...</summary>
+  </entry>
   <entry>
     <title>Yahoo! JAPAN IDのログインを「パスキー」に一本化する話で、パスキーだけになった場合はデバイスが壊れたりしたらお終いになり、この時代にクラウド依存も危ないのでは？</title>
     <id>https://togetter.com/li/2768426</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-08T01:02:15+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>次の4つの比較は、同じnilを相手にしているのに答えが分かれます。 型付きnilを返すerror == nil → false 明示的にnilを返すerror == nil → true nilの*int == nil → true その*intを...</summary>
-  </entry>
-  <entry>
-    <title>[宇宙最速!?]AI音声チャットでTTFA 0.2秒を実現したった~Jev × ElevenLabs~</title>
-    <id>https://qiita.com/kikuziro/items/027679848c85f95b7ef7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kikuziro/items/027679848c85f95b7ef7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T00:17:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>TTFA（Time To First Audio）とはメッセージを送ってからAIの最初の声が鳴り始めるまでの時間のことをこの記事では指します。人は相手がしゃべり出した時点で返事が来たと感じるので会話のテンポはほぼこの数字で決まります。 💬 はじめに 皆さんはAI...</summary>
-  </entry>
-  <entry>
-    <title>差分を流れ順に 1 ステップずつ読むツールを作った話</title>
-    <id>https://qiita.com/y_tsubasa/items/46a5748d97ca50ed00ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/y_tsubasa/items/46a5748d97ca50ed00ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-07T15:52:13+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AI にコードを書いてもらう量が増えてから、書く時間より読む時間のほうが長くなりました。 できあがった差分を git diff やエディターのgit変更箇所で上から眺めても、ファイルはパスの順に並んでいるだけなので、処理の流れを追うのは大変です。AI に説明させると今度は長...</summary>
   </entry>
 </feed>
