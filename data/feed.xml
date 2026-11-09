@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T22:30:13.624041+09:00</updated>
+  <updated>2026-11-09T23:00:13.938215+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場</title>
+    <id>https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/</id>
+    <link href="https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/" />
+    <updated>2026-11-09T20:13:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI開発企業のZyphraがAIエージェントツール「MAIA」のベータ版を公開しました。 MAIA by Zyphra https://zyphra.com/maia Our mission at Zyphra is to make open superintelligence accessible to everyone. Today, we're excited to beta release…</summary>
+  </entry>
+  <entry>
+    <title>ゴールドマン・サックスは銀行員やトレーダーによるAIコーディングエージェントの使用を制限している、なぜか？</title>
+    <id>https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/</id>
+    <link href="https://gigazine.net/news/20261109-goldman-sachs-restricts-ai/" />
+    <updated>2026-11-09T15:20:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>金融大手のゴールドマン・サックスが、一部の従業員による「Claude Code」や「GitHub」の利用を制限していると報じられています。 Goldman Restricts Traders and Bankers From Using Some AI Tools - Bloomberg https://www.bloomberg.com/news/articles/2026-11-02/gold…</summary>
+  </entry>
   <entry>
     <title>無印良品、ネットストア再開延期 リスト型攻撃を確認、新たに約27万件漏えいか</title>
     <id>https://www.itmedia.co.jp/news/article/2611/09/2000003038/</id>
@@ -450,8 +466,8 @@
     <title>Herdr.app と hc の上で Claude Code の司令塔を回している</title>
     <id>https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c</id>
     <link href="https://zenn.dev/hoshinotsuyoshi/articles/c994c29833f36c" />
-    <updated>2026-11-09T09:25:27+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-11-09T01:00:51+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>Herdr.app と hc の上で Claude Code の司令塔を回している 前提: 2026-11 時点の個人の運用メモ。 Herdr.app 0.1.13 / hc (herdr-core) 0.1.18 / Claude Code 2.1.318。 一言で: 自分が話す相手は司令塔の Claude Code 1 体だけ。 ほかの agent の面倒は司令塔に見させる。 使っている道具…</summary>
   </entry>
   <entry>
@@ -789,21 +805,5 @@
     <updated>2026-11-08T17:26:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに React の再レンダリングについて、実際にコードを書いて確かめながらまとめました。 再レンダリングはいつ起きるのか 不要な再レンダリングを memo と useCallback で防ぐ方法 の 2 つを、例を出しながら説明します。 環境 React ...</summary>
-  </entry>
-  <entry>
-    <title>JAWS FESTA 2026 in AKITA に参加できなかったので、資料だけでも見たい！と思ってまとめました！</title>
-    <id>https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kurracchi_enj/items/ce0098bd28fa043c1e5f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T16:43:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>どうもこんにちは。 2026/11/7（土）にJAWS FESTA 2026が開催されましたね。（いぎだがっだぁ...） 前日の夜から翌日まで楽しそうなツイートを見てて、いいなぁ...って。 ↓を見てください。ほんとに楽しそうなんですよ。 来年は行きますからね！...</summary>
-  </entry>
-  <entry>
-    <title>【AgentCore】エージェントのハンズオンをブラウザの中だけで完結させる教材を作った</title>
-    <id>https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryu-ki/items/a6cb026b2d3a54d175cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T15:17:41+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 社内勉強会向けに、Amazon Bedrock AgentCore のハンズオン環境を Terraform で作りました。 受講者1人に1台の EC2 を用意し、EC2 で動く code-server をブラウザから開いてもらう構成です。全体の構成は以前の記事に...</summary>
   </entry>
 </feed>
