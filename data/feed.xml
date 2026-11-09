@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T23:00:13.938215+09:00</updated>
+  <updated>2026-11-09T23:30:15.483219+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
+    <id>https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html</id>
+    <link href="https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html" />
+    <updated>2026-11-10T00:25:30+09:00</updated>
+    <category term="Publickey" />
+    <summary>Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud Native C...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、150以上のオープンソースUIコンポーネントがBlazorに寄贈されたことを発表。InfragisticsとSyncfusionから</title>
+    <id>https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html</id>
+    <link href="https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html" />
+    <updated>2026-11-10T00:22:44+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは、C#などの.NETテクノロジーを用いてWebアプリケーションの開発を可能にするフレームワーク「Blazor」に150以上のオープンソースUIコンポーネントが寄贈されたことを発表しました（発表1、発表2） これはマイクロソフ...</summary>
+  </entry>
+  <entry>
+    <title>「Outlook」の検索が改善 ～待ち時間を削減、接続不良時はローカルへ自動切り替え／独自の小規模言語モデルによるランキングも開発中</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2154680.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2154680.html" />
+    <updated>2026-11-09T16:34:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Outlook」の検索が改善 ～待ち時間を削減、接続不良時はローカルへ自動切り替え／独自の小規模言語モデルによるランキングも開発中</summary>
+  </entry>
+  <entry>
+    <title>Release v1.65.0 · microsoft/playwright</title>
+    <id>https://github.com/microsoft/playwright/releases/tag/v1.65.0</id>
+    <link href="https://github.com/microsoft/playwright/releases/tag/v1.65.0" />
+    <updated>2026-11-09T09:19:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
+  </entry>
   <entry>
     <title>チームでの複数人同時利用を前提としたAIエージェント「MAIA」が登場</title>
     <id>https://gigazine.net/news/20261109-maia-zyphra-multiplayer-ai-agent/</id>
@@ -660,7 +692,7 @@
     <link href="https://zenn.dev/tomoshige_n/articles/22e19d310acf88" />
     <updated>2026-11-08T16:42:36+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>正規性検定後の統計的仮設検定とは？ ここで考えたいのは、データが得られた後に正規性検定を行なって、正規分布であるという帰無仮説が棄却されなかった場合に、正規分布であると判断して、差の検定などの統計的仮説検定を行なってもいいのか？という話に関連するものです。確かに、手続きとしてそれはダメということはわかるのですが、理論的に示した方が気持ちがいいということで、書いてみました。 こんなことを書くと、事前…</summary>
+    <summary>正規性検定後の統計的仮説検定とは？ ここで考えたいのは、データが得られた後に正規性検定を行なって、正規分布であるという帰無仮説が棄却されなかった場合に、正規分布であると判断して、差の検定などの統計的仮説検定を行なってもいいのか？という話に関連するものです。確かに、手続きとしてそれはダメということはわかるのですが、理論的に示した方が気持ちがいいということで、書いてみました。 こんなことを書くと、事前…</summary>
   </entry>
   <entry>
     <title>超知能で人類はどういう手順で滅ぶと言われているのか，を並べてから，違和感を覚えなくなっていくだろう，と書いた自分の本を読み直す｜落合陽一</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-08T21:36:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>コマンド rm -r ./node_modules/.vite 参考</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントのための git worktree の使い方</title>
-    <id>https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sf-12/items/34ddfb7d7f245085fb2b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T19:52:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AIエージェントで複数のセッションを立ち上げ、並列でタスクを進めたい時、 それぞれのエージェントが同じファイルを編集しようとすると、片方のエージェントが編集した内容がもう片方のエージェントによって書き換えられてしまい、うまく行きません。 それを解決するためにgi...</summary>
-  </entry>
-  <entry>
-    <title>【AWS初心者】AWSの基礎を学び、VPCとサブネットを作成してみた</title>
-    <id>https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/nt_a_yamada/items/e0d114eec727a23f8bec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T18:34:56+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに これまでC#やASP.NETなどを使用したWebアプリケーション開発を経験してきましたが、AWSについては初心者です。 今回、AWS Certified Solutions Architect – Associate（SAA）の取得を目標に、AWSの学習を始めま...</summary>
-  </entry>
-  <entry>
-    <title>脆弱性の情報は間に合っている？ 英語は 2 時間以内、悪用は 4 割が 1 日以内、日本語は中央値 4.6 日後。悪用された 74 件を調べて分かった</title>
-    <id>https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/songchong/items/b3c6c879f03f9bb665d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T18:00:22+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AI を使ったサイバー攻撃で、脆弱性が公表されてから悪用されるまでの時間は、週から日の単位に縮みました。日本政府も、2026 年 5 月の Project YATA-Shield で、AI の悪用で攻撃のスピードと規模が劇的に増加していると書いています。 では、悪用される...</summary>
-  </entry>
-  <entry>
-    <title>【React】再レンダリングが起きるタイミングと memo / useCallback で防ぐ方法</title>
-    <id>https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tukirukiki/items/583d75fdee91bc129610?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T17:26:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに React の再レンダリングについて、実際にコードを書いて確かめながらまとめました。 再レンダリングはいつ起きるのか 不要な再レンダリングを memo と useCallback で防ぐ方法 の 2 つを、例を出しながら説明します。 環境 React ...</summary>
   </entry>
 </feed>
