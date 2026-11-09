@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-09T20:30:12.968729+09:00</updated>
+  <updated>2026-11-09T21:00:13.283480+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ニトリ、不正アクセスにより個人・法人会員の情報最大3762件が流出の可能性</title>
+    <id>https://internet.watch.impress.co.jp/docs/news/2154931.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/news/2154931.html" />
+    <updated>2026-11-09T18:26:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ニトリ、不正アクセスにより個人・法人会員の情報最大3762件が流出の可能性</summary>
+  </entry>
+  <entry>
+    <title>https://www.nitorihd.co.jp/news/items/2b702dbe4d438f7fef74945d68e5bd27.pdf</title>
+    <id>https://www.nitorihd.co.jp/news/items/2b702dbe4d438f7fef74945d68e5bd27.pdf</id>
+    <link href="https://www.nitorihd.co.jp/news/items/2b702dbe4d438f7fef74945d68e5bd27.pdf" />
+    <updated>2026-11-09T17:47:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>https://www.nitorihd.co.jp/news/items/2b702dbe4d438f7fef74945d68e5bd27.pdf</summary>
+  </entry>
+  <entry>
+    <title>記事は短くていい</title>
+    <id>https://zenn.dev/herp_inc/articles/90d6052024a30f</id>
+    <link href="https://zenn.dev/herp_inc/articles/90d6052024a30f" />
+    <updated>2026-11-09T16:23:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>採用広報などでブログを書くノルマがある方は多いのではないだろうか。 もっと言うと、ノルマをクリアするために生成AIを使って記事をかさ増ししていないだろうか。 その必要はないと声を大にして伝えたい。 LLMがある今、文章は低コストで大量に生み出せるが、生み出した分だけ価値の総量が増えるわけではない。まず、...</summary>
+  </entry>
+  <entry>
+    <title>Anthropicの非公開AIモデルを使って18年間未解決だった量子コンピューターの難問が証明される</title>
+    <id>https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/</id>
+    <link href="https://gigazine.net/news/20261109-anthropic-psi-aaronson-ambainis/" />
+    <updated>2026-11-09T14:13:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI物理学スタートアップのPhysical Superintelligence(PSI)が2026年11月6日、2008年から未解決だった量子コンピューティングの難問「アーロンソン＝アンバイニス予想」の証明に成功したと発表しました。証明にはAnthropicの非公開AIモデルを組み込んだ研究システムが使われており、数学的な証明をコンピューターで検証す...</summary>
+  </entry>
+  <entry>
+    <title>中国製AI「Qwen3.8-27B」の中国政府寄りの回答を減らしたAI「Arete-27B」が登場、プロパガンダを含む回答が22％から0.9％に減少</title>
+    <id>https://gigazine.net/news/20261109-nous-research-arete-27b/</id>
+    <link href="https://gigazine.net/news/20261109-nous-research-arete-27b/" />
+    <updated>2026-11-09T13:02:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェント「Hermes Agent」を開発するNous Researchが2026年11月6日に新たなAIモデル「Arete-27B」を公開しました。中国のアリババが開発した「Qwen3.8-27B」を追加学習させたモデルで、中国政府の公式見解に沿った回答を生成する割合を22％から0.9％に減らすことに成功したとのことです。 Introducing Arete-27B: ...</summary>
+  </entry>
+  <entry>
+    <title>超低コストで効率的な学習に成功した画像生成AIモデル「P-JiT」、オープンウェイトで公開中</title>
+    <id>https://gigazine.net/news/20261109-pjit-21k/</id>
+    <link href="https://gigazine.net/news/20261109-pjit-21k/" />
+    <updated>2026-11-09T07:17:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 Training a Text...</summary>
+  </entry>
   <entry>
     <title>米航空管制システム、数十年前から続くフロッピーディスク依存のシステムからついに脱却へ【やじうまWatch】</title>
     <id>https://internet.watch.impress.co.jp/docs/yajiuma/2154695.html</id>
@@ -757,53 +805,5 @@
     <updated>2026-11-08T14:14:50+09:00</updated>
     <category term="はてブ IT" />
     <summary>Try out Artifacts created by Claude users</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeの「今後確認しない」が秘密情報をGitHubに漏らす — 1,122件の公開ファイルに1,379件の秘密情報 - Dev &amp; Gadget Note</title>
-    <id>https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets</id>
-    <link href="https://dev.ponkotsu.dev/entry/claude-code-settings-local-secrets" />
-    <updated>2026-11-08T19:31:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Claude Codeで「Yes, and don't ask again（今後確認しない）」を選ぶと、承認したコマンドがそのままプロジェクト内の.claude/settings.local.jsonに保存されます。コマンドにパスワードやAPIキーが含まれていると、平文のまま残ります。セキュリティ企業Apiiroの調査（11月7日公表）では、公開GitHubリポジトリにある...</summary>
-  </entry>
-  <entry>
-    <title>政府、「サイバーセキュリティ緊急対策パッケージ」策定 予備費から100億円</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2154548.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2154548.html" />
-    <updated>2026-11-07T08:05:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>政府、「サイバーセキュリティ緊急対策パッケージ」策定 予備費から100億円</summary>
-  </entry>
-  <entry>
-    <title>MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と</title>
-    <id>https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html</id>
-    <link href="https://www.publickey1.jp/blog/26/mcpmcpruby_sdkmcp_sdk_tier_1.html" />
-    <updated>2026-11-09T08:06:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>MCP仕様を完全にサポートしたMCP公式のRuby SDKが登場。「MCP SDK Tier 1」に到達と Linux Foundation傘下でMCP（Model Context Protocol）の仕様策定を行っている「Agentic AI Foundation（AAIF）」は、MCP公式のRuby SDKがMCP仕様を完全にサポートした「MCP SDK Tier 1」に到達したことを明らかに…</summary>
-  </entry>
-  <entry>
-    <title>ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定</title>
-    <id>https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html</id>
-    <link href="https://www.publickey1.jp/blog/26/libghostty_10windowsrex.html" />
-    <updated>2026-11-09T06:14:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ターミナル用ライブラリ［Libghostty 1.0」リリース。Windows版マルチプレクサ「Rex」もまもなく登場予定 ターミナルエミュレータ「Ghostty」のコア部分を汎用ライブラリ化した「Libghostty 1.0」正式版がリリースされました。 「Libghostty」は、HashiCorpの共同創業者であり、同社を退社後は個人開発者としてターミナ...</summary>
-  </entry>
-  <entry>
-    <title>Excelで帳票レイアウトを作成、CSVデータから簡単に単票や明細付きの帳票を生成できる「AS-DataReport」が新登場［PR］</title>
-    <id>https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html</id>
-    <link href="https://www.publickey1.jp/blog/26/excelcsvas-datareportpr.html" />
-    <updated>2026-11-09T00:16:44+09:00</updated>
-    <category term="Publickey" />
-    <summary>年度の切り替え時に取引先に提出する見積書のフォーマットが変わる、取引先から納品書のフォーマットを指定されたなど、ビジネスにおいて帳票のレイアウトに新たな要求が寄せられることは珍しくありません。 しかし業務システムをそのたびに作り変えるのは一...</summary>
-  </entry>
-  <entry>
-    <title>Claudeの性能向上ペース、約2倍に加速--「AIを使ってAIを開発」が要因か</title>
-    <id>https://japan.cnet.com/article/35254548/</id>
-    <link href="https://japan.cnet.com/article/35254548/" />
-    <updated>2026-11-08T08:01:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIがAI開発を加速か Anthropicの性能向上ペース約2倍に AIがAIの開発を速めている可能性がある。AI研究機関METRは11月5日、AnthropicのAIモデルの性能向上が、従来の約2倍のペースに速まったとする調査報告書を公開した。METRは、その主な要因が研究開発へのAI活用にあると推定している。 AnthropicのAIモデルの性能指...</summary>
   </entry>
 </feed>
