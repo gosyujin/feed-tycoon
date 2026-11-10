@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-10T09:00:14.348000+09:00</updated>
+  <updated>2026-11-10T09:30:15.685009+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Zed の UI フレームワーク GPUI で Rust のデスクトップ ToDo アプリを作る</title>
+    <id>https://azukiazusa.dev/blog/gpui-todo-app/</id>
+    <link href="https://azukiazusa.dev/blog/gpui-todo-app/" />
+    <updated>2026-11-09T23:59:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>use gpui_kit::{prelude::*, *}; struct TodoApp { title: SharedString, } impl Render for TodoApp { fn render(&amp;mut self, _window: &amp;mut Window, _cx: &amp;mut Context ) -&gt; impl IntoElement { div() .flex() .fle…</summary>
+  </entry>
   <entry>
     <title>暴走は必要悪か、自由を謳歌するAI アンソロピックが気づいた｢感情｣ - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOGN151Q50V11C26A0000000/</id>
@@ -44,7 +52,7 @@
     <link href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown" />
     <updated>2026-11-10T06:51:50+09:00</updated>
     <category term="はてブ IT" />
-    <summary>Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →</summary>
+    <summary>JavaScript: Past, Present, and Future - NDC Porto 2020</summary>
   </entry>
   <entry>
     <title>「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-09T07:55:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>「Apache HTTP Server 2.4.70」が公開 ～メモリ破損やWindowsでのクラッシュを修正／これまでのすべてのバージョンで更新を推奨</summary>
-  </entry>
-  <entry>
-    <title>Statement from NVIDIA Board of Directors</title>
-    <id>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</id>
-    <link href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors" />
-    <updated>2026-11-09T07:39:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independ…</summary>
   </entry>
 </feed>
