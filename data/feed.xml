@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-10T12:37:13.008559+09:00</updated>
+  <updated>2026-11-10T13:00:13.239945+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>大学1年生がつくったOSSがGitHub Star 1万超。AIに渡す「画面の設計図」はどう生まれた？ - レバテックLAB</title>
+    <id>https://levtech.jp/media/detail_965/</id>
+    <link href="https://levtech.jp/media/detail_965/" />
+    <updated>2026-11-10T10:12:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OSS開発者 inori（いのり） 大学1年生。個人でアプリやOSSを開発している。M3E Canvasの作者。 @lnkiai @m3e-canvas デモ 急速に注目を集めている技術やオープンソースプロジェクトを取り上げ、開発者本人への取材を通じて、その「バズり」の裏側にあるストーリーを探る連載「OSS TREND WATCH」。 今回は、大学1年生の...</summary>
+  </entry>
+  <entry>
+    <title>GitHub - paisu-supai/sonoba: 画面の文字をその場で訳文に置き換える Windows 11 用の常駐アプリ。OCR も翻訳も PC の中で動きます（PP-OCRv6、PLaMo 3 Translate）。</title>
+    <id>https://github.com/paisu-supai/sonoba</id>
+    <link href="https://github.com/paisu-supai/sonoba" />
+    <updated>2026-11-09T22:10:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>キーは設定で変えられます。マウスの中ボタンとサイドボタンも割り当てられます。キーごとに既定へ戻すことも、無効にすることもできます。ホットキーが止まるのは、設定画面でキーを選んでいる間だけです。 範囲はドラッグで選びます。ドラッグ中は範囲の外側に緑の線が出ます。ドラッグせずにクリックすると、白枠の付...</summary>
+  </entry>
   <entry>
     <title>Amazon CloudWatch Logs announces account-level retention policies - AWS</title>
     <id>https://aws.amazon.com/about-aws/whats-new/2026/11/amazon-cloudwatch-log-retention/</id>
@@ -463,20 +479,20 @@
     <summary>Meta、MuseとMeta AIを強化 記憶力とタスク実行能力が向上</summary>
   </entry>
   <entry>
+    <title>マイクロソフト、150以上のオープンソースUIコンポーネントがBlazorに寄贈されたことを発表。InfragisticsとSyncfusionから</title>
+    <id>https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html</id>
+    <link href="https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html" />
+    <updated>2026-11-10T08:17:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マイクロソフト、150以上のオープンソースUIコンポーネントがBlazorに寄贈されたことを発表。InfragisticsとSyncfusionから マイクロソフトは、C#などの.NETテクノロジーを用いてWebアプリケーションの開発を可能にするフレームワーク「Blazor」に150以上のオープンソースUIコンポーネントが寄贈されたことを発表しまし...</summary>
+  </entry>
+  <entry>
     <title>Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表</title>
     <id>https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html</id>
     <link href="https://www.publickey1.jp/blog/26/googlekubernetes10aiagent_sustrategvisorcncf.html" />
     <updated>2026-11-10T08:00:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>Google、Kubernetesで10倍高密度にAIエージェントを実行可能にする「Agent Sustrate」と「gVisor」、オープンソースとしてCNCFに寄贈と発表 Googleは、Kubernetes上にAIエージェントのための高効率な基盤を構築するためのオープンソースソフトウェア「Agent Substrate」と「gVisor」を、Linux Foundation傘下のCloud…</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、150以上のオープンソースUIコンポーネントがBlazorに寄贈されたことを発表。InfragisticsとSyncfusionから</title>
-    <id>https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html</id>
-    <link href="https://www.publickey1.jp/blog/26/150uiblazorinfragisticssyncfusion.html" />
-    <updated>2026-11-10T00:22:44+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトは、C#などの.NETテクノロジーを用いてWebアプリケーションの開発を可能にするフレームワーク「Blazor」に150以上のオープンソースUIコンポーネントが寄贈されたことを発表しました（発表1、発表2） これはマイクロソフ...</summary>
   </entry>
   <entry>
     <title>「Outlook」の検索が改善 ～待ち時間を削減、接続不良時はローカルへ自動切り替え／独自の小規模言語モデルによるランキングも開発中</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-07T20:44:17+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに pushして静的解析などを忘れており、ciで気づくことがあった 問題 pre-commit hookあたりのタイミングで実施したいが、チーム全員を揃えるには本当にベストか？判断が必要である 解決 以下のようなエイリアスを入れる。pushコマンドのオ...</summary>
-  </entry>
-  <entry>
-    <title>【JaSST'26 Niigata 参加レポート】AIに任せた品質は、誰が見立てるのか</title>
-    <id>https://qiita.com/Fujisakkun/items/2058c59fc65d38ee301d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Fujisakkun/items/2058c59fc65d38ee301d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-06T18:09:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年9月18日に開催された JaSST'26 Niigata にオンライン参加してきました。今回のテーマは「AI時代のQA Re-Engineering —— 思考の純度を高め、品質の壁を突破する」でした。LayerX の中野直樹さんによる基調講演「AIに...</summary>
-  </entry>
-  <entry>
-    <title>モニターにも値上げの波 アイオーデータは10月に実施、EIZOも12月以降に メーカー各社に聞いた</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/09/2000003015/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/09/2000003015/" />
-    <updated>2026-11-09T15:16:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>メモリ製品やPCで値上げが相次いできたが、その動きがモニターにも広がっている。アイオーデータ（金沢市）は10月1日、液晶ディスプレイなど計32型番の価格を引き上げた。モニター関連の改定率は4.4〜15.4％に上る。 同社は告知で、値上げの理由として世界的な半導体部品や原材料価格の高騰、輸送費や燃料費などのコスト...</summary>
   </entry>
 </feed>
