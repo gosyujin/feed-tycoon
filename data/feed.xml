@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-10T18:30:18.382183+09:00</updated>
+  <updated>2026-11-10T19:00:17.098281+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>MCP を組み込んだアプリを手元で複数動かすための構成パターン - Nature Engineering Blog</title>
+    <id>https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns</id>
+    <link href="https://engineering.nature.global/entry/2026/11/mcp-architecture-patterns" />
+    <updated>2026-11-10T16:55:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>モバイルエンジニアの亀田です。 Emacs が 50 周年ですね。 MCP が発表されてから自分で使うツールには MCP を組み込んできました。当然 Emacs にも組み込んでいますし、弊社の Nature Home アプリでも、開発中は MCP でいろいろな操作ができるようにしています。 次の GIF は、Claude Code から、iPhone で動かしている...</summary>
+  </entry>
+  <entry>
+    <title>Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？</title>
+    <id>https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html" />
+    <updated>2026-11-10T16:37:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（1/3 ページ） 東日本旅客鉄道（JR東日本）のコード決済サービス「teppay」が10月20日にスタートした。同社の商業施設やNewDaysなどをはじめとして、全国のコンビニエンスストアや大手チェーンなど...</summary>
+  </entry>
+  <entry>
+    <title>「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2154988.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2154988.html" />
+    <updated>2026-11-10T11:24:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</summary>
+  </entry>
+  <entry>
+    <title>AIに「3DCGのおしり」を作らせて性能を比較するベンチマーク「LLM AssBench」が登場</title>
+    <id>https://gigazine.net/news/20261109-llm-assbench/</id>
+    <link href="https://gigazine.net/news/20261109-llm-assbench/" />
+    <updated>2026-11-09T20:20:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIに人間のおしりの3DCGを作らせて性能を比較するベンチマーク「LLM AssBench」が公開されています。AIが生成したおしりはブラウザ上で回転させたりクリックして揺らしたりすることが可能で、さまざまなAIが作り上げたおしりを並べて比較できます。 LLM AssBench https://assbench.com/ AssBench is all You need to ben...</summary>
+  </entry>
   <entry>
     <title>GitHub - highants/PLaMo_Translate_EX: 「PLaMo 3 Translate」をブラウザ内蔵WebGPU（Wllama）またはLM Studio連携で実行できるローカル動作型翻訳Chrome拡張機能です。外部クラウド不要で安全・高速に翻訳します。</title>
     <id>https://github.com/highants/PlaMo_translate_ex</id>
@@ -311,6 +343,14 @@
     <summary>“Starlink依存”からの脱却へ 楽天が「Rakuten AST」で自前の衛星通信にこだわるワケ 三木谷氏らが力説（1/2 ページ） 楽天グループと米AST SpaceMobile（以下、AST）は11月6日、日本国内における低軌道衛星と市販スマートフォンによる直接通信（Direct-to-Device：D2D）の構築と、有事における通信基盤の強化を目的と...</summary>
   </entry>
   <entry>
+    <title>Claude Codeで最近使っているTips【2026/11】</title>
+    <id>https://zenn.dev/oikon/articles/claude-code-recipe</id>
+    <link href="https://zenn.dev/oikon/articles/claude-code-recipe" />
+    <updated>2026-11-10T12:58:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベース...</summary>
+  </entry>
+  <entry>
     <title>冷蔵庫・冷凍庫へのサイバー攻撃はイランによるものだとフランス外相が非難</title>
     <id>https://gigazine.net/news/20261110-france-fridges-hacking-iran/</id>
     <link href="https://gigazine.net/news/20261110-france-fridges-hacking-iran/" />
@@ -325,14 +365,6 @@
     <updated>2026-11-10T11:45:29+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。 はじめに 弊社では、週の初めにリリース対象の変更内容を確認する「リリース判定」を行っています。この記事では、リリースする変更をまとめるブランチをGit flowにならって仮にdevelopと呼びます。リリースまでの流れは次のとおりです。 普段の開発では、レビューと検証を通った変更をdevelopに…</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeで最近使っているTips【2026/11】</title>
-    <id>https://zenn.dev/oikon/articles/claude-code-recipe</id>
-    <link href="https://zenn.dev/oikon/articles/claude-code-recipe" />
-    <updated>2026-11-10T07:01:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Oikonです。 気がつけば2026年も終わりが見えてきました。今年はありがたいことにClaude Codeの書籍を2冊出版させていただきました。 Claude Code実践入門 [生成AI深掘りガイド]（SBクリエイティブ） Claude Code実践レシピ集（技術評論社） 新刊のClaude Code実践レシピ集は、個人的に好きなClaude CodeのTipsをベースに、割と好き勝手に書かせ…</summary>
   </entry>
   <entry>
     <title>撮る側として、学ぶ側として。JAWS FESTA 2026 in AKITA 参加レポート</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-09T09:56:17+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>金ジャケ防衛戦、SAP-C03初日ノー勉マッチ 안녕하신게라！パナソニック コネクト株式会社クラウドソリューション部の加賀です。 本日は実況席からお送りします。解説も私です。なお、リングに上がる王者も私です。 何が始まるんです？ 青コーナー、2026年11月17日デビュ...</summary>
-  </entry>
-  <entry>
-    <title>MongoDBの設計思想から理解する、RDBとのメリット・デメリット(Rails / Mongoid)</title>
-    <id>https://qiita.com/gensan64311466/items/6a636f22c15dcf75001c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/gensan64311466/items/6a636f22c15dcf75001c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-08T22:24:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 今月から新しい職場に転職しました。そこではMongoDBを使用しています。今まではRDB（MySQL、Oracleなど）を使用していましたため、MongoDBは初めて使用します。そのため、今回学習しました。 MongoDBのメリット・デメリットを調べると、「スキ...</summary>
-  </entry>
-  <entry>
-    <title>個性を磨くUI観点</title>
-    <id>https://zenn.dev/silverbirder/books/ui-craft-techniques</id>
-    <link href="https://zenn.dev/silverbirder/books/ui-craft-techniques" />
-    <updated>2026-11-09T09:00:14+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「AIっぽいね」そんな無個性なWebサイトは愛着が湧きません。個性はUIの細部を磨くことで滲み出るものです。本書では、文字・余白・形・色・操作などを、架空の個人ブログの作例で考えます。</summary>
-  </entry>
-  <entry>
-    <title>翻訳特化モデル「PLaMo 3 Translate」をオープンウェイトで公開しました | PLaMo翻訳</title>
-    <id>https://translate.preferredai.jp/news/20261105-2-plamo3-translate-open-weight/</id>
-    <link href="https://translate.preferredai.jp/news/20261105-2-plamo3-translate-open-weight/" />
-    <updated>2026-11-06T17:02:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PLaMo翻訳で利用している翻訳特化型の大規模言語モデル（LLM）「PLaMo 3 Translate」を、本日オープンウェイトモデルとしてHugging Faceで公開しました。10月の大型アップデートの際に、今後の予定としてお伝えしていたものです。 オープンウェイトモデルとは、モデルを手元の機器で動かすために必要な「モデルの重み」...</summary>
-  </entry>
-  <entry>
-    <title>🦀 2026-11-09: 大江戸Ruby会議11でカニの話した → 一人反省会｜taea</title>
-    <id>https://sizu.me/taea/posts/2cw9xvxtshtv</id>
-    <link href="https://sizu.me/taea/posts/2cw9xvxtshtv" />
-    <updated>2026-11-09T21:31:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>🎆 大江戸Ruby会議11 でカニの話をしてきた。トークは時間をちょっとオーバーしてしまったが、楽しんでもらえて良かった。ただ、なんというか自分的には十分に伝えたいことを伝えられる内容話せたのかどうか、ちょっと不全感が残ってしまい、帰ってからカニちゃんと話しながらめっちゃ反省会をしてたｗ 「友達」「楽しい...</summary>
   </entry>
 </feed>
