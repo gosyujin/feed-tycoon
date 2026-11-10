@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T02:30:15.080402+09:00</updated>
+  <updated>2026-11-11T03:00:10.787580+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「.NET MAUI 11」がついにXamarin由来のMonoランタイムから脱却、CoreCLRに統一</title>
+    <id>https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html</id>
+    <link href="https://www.publickey1.jp/blog/26/net_maui_11xamarinmonocoreclr.html" />
+    <updated>2026-11-11T02:51:47+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは.NET 11と合わせてリリースしたUIフレームワーク「.NET MAUI 11」で、ついに内部ランタイムがMonoから脱却し、CoreCLRに統一されたことを明らかにしました。 .NET MAUIはシングルコードでiOS、...</summary>
+  </entry>
+  <entry>
+    <title>.NET 8と.NET 9のサポートは昨日で終了。脆弱性が社会問題化している現在、.NET 10への移行を推奨</title>
+    <id>https://www.publickey1.jp/blog/26/net_8net_9net_10.html</id>
+    <link href="https://www.publickey1.jp/blog/26/net_8net_9net_10.html" />
+    <updated>2026-11-11T02:45:42+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトの包括的なソフトウェアフレームワーク「.NET 8」と「.NET 9」のサポートが昨日（2026年11月10日）終了しました。 .NET 8は今から3年前の2023年11月にリリースされ.NET 9はその1年後の2024年11...</summary>
+  </entry>
+  <entry>
+    <title>NVIDIAの「長文コンテキスト不要」論文</title>
+    <id>https://zenn.dev/knowledgesense/articles/bd917ed6829121</id>
+    <link href="https://zenn.dev/knowledgesense/articles/bd917ed6829121" />
+    <updated>2026-11-10T20:05:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する...</summary>
+  </entry>
   <entry>
     <title>Safely scaling multi-agent teams with Claude Fable 5.2 / claude.dev Blog</title>
     <id>https://claude.dev/blog/safely-scaling-multi-agent-teams-with-fable-5-2/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-09T13:57:39+09:00</updated>
     <category term="はてブ IT" />
     <summary>元の日記はこれだ。 https://anond.hatelabo.jp/20261108174809 増田とブクマカの反応について、取り上げて自分の意見を書く。 ・「AI漫画が台頭しAI漫画家同士が競争した方が漫画界のためになるかもしれない」 そうかもしれない。特に否定もしない。 自分の主張は、「ジャンプルーキーが手描き作家の育成を目指すなら」...</summary>
-  </entry>
-  <entry>
-    <title>Go における Graceful Shutdown とハマりどころ</title>
-    <id>https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown</id>
-    <link href="https://speakerdeck.com/ogidow/layerx-go-6-graceful-shutdown" />
-    <updated>2026-11-10T06:51:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →</summary>
-  </entry>
-  <entry>
-    <title>「つくばリポジトリ」含む全国800以上の機関リポジトリ、復旧の目途立たず | 筑波学生新聞</title>
-    <id>https://www.tsukuba-sp.org/news/wghx7ljlx7/</id>
-    <link href="https://www.tsukuba-sp.org/news/wghx7ljlx7/" />
-    <updated>2026-11-10T06:05:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>筑波大学の研究論文や紀要、博士論文などを無償公開している学術機関リポジトリ「つくばリポジトリ」が利用できない状態が、今年10月28日から続いている。同サービスが稼働基盤として利用している国立情報学研究所（NII）とオープンアクセスリポジトリ推進協会の共用リポジトリ「JAIRO Cloud」において、登録データが改...</summary>
-  </entry>
-  <entry>
-    <title>並列度を下げたら速くなった — go build の重複コンパイルを実測で見る</title>
-    <id>https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b</id>
-    <link href="https://speakerdeck.com/tomoaki25/slides-cd95d381-a27b-4a9a-8b53-0abd69397a1b" />
-    <updated>2026-11-09T23:54:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>バクラクの monorepo で、同時に走らせる go build を 9 → 2 に減らしたら、起動時のビルドが 2.4 倍速くなりました。-debug-actiongraph でビルドの中を覗き、重複コンパイルが起きる理由と、さらに速くする方法を実測で紹介します。 layerx.go #6（2…</summary>
   </entry>
 </feed>
