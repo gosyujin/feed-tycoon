@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-10T15:00:15.823516+09:00</updated>
+  <updated>2026-11-10T15:30:14.175553+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ドメインとブランドを持たない。複数プロダクト向けデザインシステムの設計判断 - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <id>https://tech-blog.rakus.co.jp/entry/20261110/design-system</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20261110/design-system" />
+    <updated>2026-11-10T15:02:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに プロダクト開発支援課フロントエンド推進チームの安彦です。 プロダクト開発支援課は2026年10月に発足したばかりの組織です。私たちのチームが顧客としているのは、プロダクトの先にいるエンドユーザーだけではありません。社内でプロダクトを作っている開発者もまた、私たちが価値を届けるべき顧客として捉え...</summary>
+  </entry>
+  <entry>
+    <title>既存サービスの ECS タスクを read-only root filesystem &amp; non-root 構成に作り変える - MNTSQ Techブログ</title>
+    <id>https://tech.mntsq.co.jp/entry/2026/11/10/113203</id>
+    <link href="https://tech.mntsq.co.jp/entry/2026/11/10/113203" />
+    <updated>2026-11-10T11:33:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに なぜやるのか read-only 化と non-root 化の嬉しさ 進め方 read-only 化 /tmp 配下は例外的に書き込めるようにする ECS Exec のエージェントにも書き込み先を与える 空のボリュームはイメージの中身を隠す uv run で起動するサービスには UV_NO_SYNC=1 を渡す 依存の更新で書き込みが増える 検証は rollout と...</summary>
+  </entry>
   <entry>
     <title>前沢友作氏の請求棄却 メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞</title>
     <id>https://mainichi.jp/articles/20261109/k00/00m/040/284000c</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-09T07:17:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>2名の研究者によるAI研究組織「Linum」が画像生成モデル「Pyramid-JiT(P-JiT)」を公開しました。P-JiTは画像生成AIが抱える「生成に時間とコストがかかる」「制御が難しい」という二つの主要な課題の克服を目指しており、開発コストを2万1千ドル(約331万5千円)に抑えられたことがアピールされています。 Training a Text...</summary>
-  </entry>
-  <entry>
-    <title>米航空管制システム、数十年前から続くフロッピーディスク依存のシステムからついに脱却へ【やじうまWatch】</title>
-    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2154695.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2154695.html" />
-    <updated>2026-11-09T12:04:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米航空管制システム、数十年前から続くフロッピーディスク依存のシステムからついに脱却へ【やじうまWatch】</summary>
-  </entry>
-  <entry>
-    <title>セガ メールアドレス219万件余流出 アララ不正アクセスの影響 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261109de72932</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261109de72932" />
-    <updated>2026-11-09T18:28:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ゲーム大手のセガは、メールマガジンの配信に使用していた委託先のサービスが不正アクセスを受け、メールアドレス219万6000件あまりが外部に流出したと発表しました。 顧客の氏名、クレジットカードの情…</summary>
   </entry>
 </feed>
