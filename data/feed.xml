@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T00:00:12.009513+09:00</updated>
+  <updated>2026-11-12T00:24:28.757799+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に</title>
+    <id>https://www.publickey1.jp/blog/26/playwrightbun.html</id>
+    <link href="https://www.publickey1.jp/blog/26/playwrightbun.html" />
+    <updated>2026-11-12T00:07:35+09:00</updated>
+    <category term="Publickey" />
+    <summary>Webアプリケーションのテストフレームワーク「Playwright」が、最新バージョンのv1.65.0で、Bunでのテストランナー実行を正式にサポートしました。 PlaywrightのテストランナーはこれまでNode.jsが用いられていまし...</summary>
+  </entry>
+  <entry>
+    <title>AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始</title>
+    <id>https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html</id>
+    <link href="https://www.publickey1.jp/blog/26/awsaiec2vmaws_nitro_sandboxes.html" />
+    <updated>2026-11-12T00:04:47+09:00</updated>
+    <category term="Publickey" />
+    <summary>Amazon Web Services（AWS）は、Amazon EC2インスタンス上でほぼネイティブのEC2性能で動作しつつ、Nitroシステムハードウェアレベルのきわめて強力な隔離環境を備えた軽量な仮想マシン「AWS Nitro San...</summary>
+  </entry>
+  <entry>
+    <title>ITエンジニアが選ぶ「ITエンジニア本大賞2027」投票スタート</title>
+    <id>https://www.publickey1.jp/blog/26/itit2027.html</id>
+    <link href="https://www.publickey1.jp/blog/26/itit2027.html" />
+    <updated>2026-11-12T00:01:02+09:00</updated>
+    <category term="Publickey" />
+    <summary>翔泳社が毎年開催している「ITエンジニア本大賞」の今年の投票が開始されました。 「ITエンジニア本大賞2027」投票がスタート！ https://t.co/9elKdpCcVS 今年読んでよかったおすすめ本を投票してみてください&amp;mdash...</summary>
+  </entry>
   <entry>
     <title>【速報】内閣府メルマガ利用者アドレス6万件漏えい</title>
     <id>https://www.47news.jp/15214649.html</id>
@@ -780,29 +804,5 @@
     <updated>2026-11-11T09:07:00+09:00</updated>
     <category term="JPCERT" />
     <summary>複数のAbsolute Security製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のElastic製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261111.html#9</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261111.html#9" />
-    <updated>2026-11-11T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のElastic製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Google Chromeに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261111.html#10</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261111.html#10" />
-    <updated>2026-11-11T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Google Chromeに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Androidに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261111.html#11</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261111.html#11" />
-    <updated>2026-11-11T09:07:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Androidに複数の脆弱性</summary>
   </entry>
 </feed>
