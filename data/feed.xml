@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T15:30:16.164901+09:00</updated>
+  <updated>2026-11-11T16:00:15.725389+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>相次ぐ個人情報流出対策に、パスワードは紙に書いてアナログ管理 一部「伏せ文字」で</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/11/2000003092/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/11/2000003092/" />
+    <updated>2026-11-11T11:07:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>高齢者にもスマートフォン（スマホ）はすっかり浸透した。NTTドコモモバイル社会研究所が1月、60～84歳の1300人に聞いたところ、スマホ所有率は60代で95％、70代は86％、80～84歳でも69％となった。スマホのアプリは便利だが、設定したパスワードを思い出せなくなることもあれば、最近はスマホに記憶させておいたままだ...</summary>
+  </entry>
+  <entry>
+    <title>HTML-in-Canvasでページトランジションするライブラリを作った - マルシテイア</title>
+    <id>https://blog.amagi.dev/entry/vfx-js-transitions</id>
+    <link href="https://blog.amagi.dev/entry/vfx-js-transitions" />
+    <updated>2026-11-11T07:53:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>先日 @vfx-js/transitions を公開しました。 HTML-in-Canvasでページ遷移時のWebGLトランジション ができるライブラリです。 I published VFX-JS Transitions v0.1.0. You can add next-level page transitions to your website, with just a few lines.#V…</summary>
+  </entry>
   <entry>
     <title>核融合データの正しい隠し方 | blog.jxck.io</title>
     <id>https://blog.jxck.io/entries/2026-11-11/vivant.html</id>
@@ -175,12 +191,12 @@
     <summary>前置き .github/workflows/verify-actions-lockfile.yml Reusable workflow版 前置き gh actions-lock については下記が詳しいです。 songmu.jp 1回 gh actions-lock を実行してしまえば既存のactionに関してはdependabotとかでlockファイルが更新されます。 しかし新しいworkflow…</summary>
   </entry>
   <entry>
-    <title>NTTドコモで通信障害 原因調査中 | NHKニュース</title>
+    <title>NTTドコモ通信障害続く 不正アクセス確認されず | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261111de73934</id>
     <link href="https://news.web.nhk/newsweb/na/nd-20261111de73934" />
     <updated>2026-11-11T11:57:22+09:00</updated>
     <category term="はてブ IT" />
-    <summary>NTTドコモによりますと、全国で音声通話やデータ通信、ショートメールなどの携帯電話のサービスが利用しにくい状況が発生しているということです。 会社は原因の調査を進めていて、不正アクセスによるものか…</summary>
+    <summary>NTTドコモでは、11日午前10時半すぎから通信障害が発生し、一部の利用者の間で携帯電話のサービスが利用しづらくなっています。 会社は原因を調査していますが、今のところ不正アクセスによるものではない…</summary>
   </entry>
   <entry>
     <title>Waymo自動運転タクシー、「停車スクールバスの横を通過する癖」直らず？ 米当局が調査</title>
@@ -788,21 +804,5 @@
     <updated>2026-11-10T16:55:00+09:00</updated>
     <category term="はてブ IT" />
     <summary>モバイルエンジニアの亀田です。 Emacs が 50 周年ですね。 MCP が発表されてから自分で使うツールには MCP を組み込んできました。当然 Emacs にも組み込んでいますし、弊社の Nature Home アプリでも、開発中は MCP でいろいろな操作ができるようにしています。 次の GIF は、Claude Code から、iPhone で動かしている...</summary>
-  </entry>
-  <entry>
-    <title>Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2611/10/news077.html" />
-    <updated>2026-11-10T16:37:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Suicaのコード決済「teppay」にまつわる5つの疑問 なぜ本人確認がマイナカードのみ？ なぜ起動の遅いSuicaアプリ経由？（1/3 ページ） 東日本旅客鉄道（JR東日本）のコード決済サービス「teppay」が10月20日にスタートした。同社の商業施設やNewDaysなどをはじめとして、全国のコンビニエンスストアや大手チェーンなど...</summary>
-  </entry>
-  <entry>
-    <title>「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2154988.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2154988.html" />
-    <updated>2026-11-10T11:24:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Google Chrome 157」にゼロデイ脆弱性、セキュリティアップデートが公開／すでに悪用を確認。Windows/Mac環境にはv157.0.8103.50/.51が展開</summary>
   </entry>
 </feed>
