@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T22:00:16.798741+09:00</updated>
+  <updated>2026-11-11T22:30:14.598740+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SREのためのFinOps入門</title>
+    <id>https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres</id>
+    <link href="https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres" />
+    <updated>2026-11-11T19:50:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月11日に開催された Tamachi.sre#7 の発表資料です。 Tamachi.sre#7 - connpass https://tamachi-sre.connpass.com/event/408227/ スライド内で紹介した過去の発表資料： SREとソフトウェア…</summary>
+  </entry>
+  <entry>
+    <title>無料プラン廃止とストレージ制限の衝撃！ 「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか</title>
+    <id>https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html" />
+    <updated>2026-11-11T15:04:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>無料プラン廃止とストレージ制限の衝撃！ 「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか：Windowsフロントライン（1/2 ページ） Microsoftは11月5日（米国時間）、教育機関向けに提供している「Microsoft 365 Education」のプラン改定を発表した。同社は近年、クラウド型生...</summary>
+  </entry>
   <entry>
     <title>アマゾン、サイトの仕組み変更へ 出品値下げ強要疑いで公取委が調査（朝日新聞） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf</id>
@@ -354,9 +370,9 @@
     <title>ISUCON2026 で優勝しました（準備編）</title>
     <id>https://zenn.dev/luvtechno/articles/isucon2026-preparation</id>
     <link href="https://zenn.dev/luvtechno/articles/isucon2026-preparation" />
-    <updated>2026-11-11T14:38:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。 モチベーション 私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの...</summary>
+    <updated>2026-11-11T14:05:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。 モチベーション 私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの土曜日を過ごしながら参加できるかもしれないと思いました。それが開発のきっかけで…</summary>
   </entry>
   <entry>
     <title>ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い</title>
@@ -788,21 +804,5 @@
     <updated>2026-11-10T08:55:39+09:00</updated>
     <category term="はてブ IT" />
     <summary>AIに店の経営を任せたところ、人間のスタッフとの間で摩擦が生じ、スタッフが次第にAIへの報告を控えるようになった――。PwC Japanグループ（東京都千代田区、以下PwC）は11月6日、AIに売店の経営判断を任せる実証実験の結果を公表した。AIは約2週間にわたり店舗運営の判断を担ったものの、人間からの指摘を適切に反映で...</summary>
-  </entry>
-  <entry>
-    <title>HAC125DX 用の無線カメラを Pi Zero 2 W で作って、ライブスタックしてみた</title>
-    <id>https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera</id>
-    <link href="https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera" />
-    <updated>2026-11-11T05:52:00+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 撮影専用の天体望遠鏡である Sky-Watcher の HAC125DX（口径 125mm、焦点距離 250mm、F2）のプライムフォーカスに載せる 無線カメラ を作りました。Raspberry Pi Zero 2 W に IMX585 というイメージセンサを取り付け、バッテリーで動かし、撮った RAW を Wi-Fi で PC に送って、PC 側でライブスタックします。 この記事では、…</summary>
-  </entry>
-  <entry>
-    <title>LiteLLM Adaptive Routerを検証する（後編）：学習シグナルと運用上の注意</title>
-    <id>https://zenn.dev/aws_japan/articles/4399262cf00559</id>
-    <link href="https://zenn.dev/aws_japan/articles/4399262cf00559" />
-    <updated>2026-11-10T23:30:35+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに この記事は前後編の後編です。前編では、Adaptive Routerによる分類、Beta分布からの品質サンプル、モデルスコア、重み、min_quality_tier を扱いました。 後編では、会話からモデルごとの品質を学習する条件と、運用時に注意が必要な動作を検証します。 後編でわかったことのまとめ 項目 結果 モデル選択の学習方法 次のターンの user 発話と、応答間の類似度を評価す…</summary>
   </entry>
 </feed>
