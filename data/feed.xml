@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T13:30:14.429192+09:00</updated>
+  <updated>2026-11-11T14:00:13.916751+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2155430.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2155430.html" />
+    <updated>2026-11-11T12:18:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Qwen4」早くも登場、最上位「Qwen4-Max」を無料でも試せる</summary>
+  </entry>
+  <entry>
+    <title>Snowflake Dashboards 2.0が最高な理由と、これからBIに求められること</title>
+    <id>https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi</id>
+    <link href="https://zenn.dev/dataheroes/articles/snowflake-dashboards-2-and-future-of-bi" />
+    <updated>2026-11-11T09:21:10+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事について Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 とも呼ばれています）が出ました。触ってみて、正直かなり感動しています。何年も前から「Snowflakeの中でパッと数字を見て、それに質問したいだけなのに、ちょうどいいものがない」と不満を持っていたのですが、ようやくその答えが来たと感じたからです。 この記事では、なぜこれが私にとって最…</summary>
+  </entry>
+  <entry>
+    <title>AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita</title>
+    <id>https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</id>
+    <link href="https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a" />
+    <updated>2026-11-11T00:08:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないからです。 そこで試したのが、テ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Fable 5.2のプロンプトガイドを読んで正直に思ったことを書く</title>
+    <id>https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2</id>
+    <link href="https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2" />
+    <updated>2026-11-10T21:44:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2 Fable 5.2が発表されたのでプロンプトガイドのページを読んで思ったことをざっくりと書いていきます。 個人的に印象に残った内容を引用しつつ、所感を書きます。網羅的ではないので要約を見たい…</summary>
+  </entry>
+  <entry>
+    <title>職務経歴書の JSON から「技術ごとの経験年数」を出す ― 形を決めつけない集計を TypeScript で</title>
+    <id>https://zenn.dev/megrou/articles/e04a9edaaea79d</id>
+    <link href="https://zenn.dev/megrou/articles/e04a9edaaea79d" />
+    <updated>2026-11-10T21:41:25+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに フリーランスのエンジニアとして、職務経歴書を何度も書き直してきました（エンジニアの業界では、案件ごとの期間・使用技術・担当工程を表にした職務経歴書を「スキルシート」と呼ぶことも多いです）。毎回いちばん手間がかかり、しかも自信が持てないのが 「C# 約○年」のような技術ごとの経験年数 です。 先日、ポートフォリオサイトの更新ついでに、職務経歴書に載せている 37 件の案件からこの年数を計算…</summary>
+  </entry>
+  <entry>
+    <title>Rustで作られたExpoの新フレームワーク「Exact」で、モバイル・Web・デスクトップアプリを作ってみた</title>
+    <id>https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression</id>
+    <link href="https://zenn.dev/tellernovel_inc/articles/expo-exact-first-impression" />
+    <updated>2026-11-10T14:06:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している@kazutoyoです！ 先日、Expoから「Exact」という新しいクロスプラットフォームのアプリランタイムが公開されました。 https://x.com/ccheever/status/2119764253242695754 https://github.com/expo/exact この記事ではExac…</summary>
+  </entry>
+  <entry>
+    <title>o11y基盤とAIで戦ったISUCON2026参加記（126,634点・126位）</title>
+    <id>https://zenn.dev/tokium_dev/articles/2026-11-10-isucon2026</id>
+    <link href="https://zenn.dev/tokium_dev/articles/2026-11-10-isucon2026" />
+    <updated>2026-11-10T13:04:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、Lapi（@dragoneena12）です。 2026年10月31日に開催されたISUCON2026に、o8nさんとチーム「熱帯魚同好会」として2人で参加しました。2人ともISUCONへの参加は今回が初めてです。今回はAIの利用に制限がないとのことだったので、お互いにAIを使いまくる方針で進めました。僕はClaude Code（Claude Opus 5.5）を使いました。…</summary>
+  </entry>
+  <entry>
+    <title>Zennに投稿された26.4万件の記事のデータから見る現在の技術ブログ</title>
+    <id>https://zenn.dev/northward/articles/zenn-data-report-2611</id>
+    <link href="https://zenn.dev/northward/articles/zenn-data-report-2611" />
+    <updated>2026-11-09T16:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>前に執筆した記事「技術ブログはゆるやかに衰退している」では、2026年に投稿された約5.2万件の記事のデータを集め、Like数の減少から技術ブログの衰退を論じました。 この記事では、調査範囲を拡大し、Zennに今まで投稿された約26.4万件の記事のデータを用い、Zennの発展の様子をより詳細に調べ、生成AIの普及によって技術ブログがどのような影響を受けているのかなどを考察します。 はじめにデータを…</summary>
+  </entry>
   <entry>
     <title>「またAIの見え方変わった」ダウン症で知的障害のある弟とのやりとりに、AIを活用したら解決できることが増えたという話に注目が集まる</title>
     <id>https://togetter.com/li/2769126</id>
@@ -481,9 +545,9 @@
     <title>NVIDIAの「長文コンテキスト不要」論文</title>
     <id>https://zenn.dev/knowledgesense/articles/bd917ed6829121</id>
     <link href="https://zenn.dev/knowledgesense/articles/bd917ed6829121" />
-    <updated>2026-11-10T09:01:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する記事です。NVIDIAの研究チームによって2026年11月に発表された新手法の論文[1]につ…</summary>
+    <updated>2026-11-10T20:05:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>本記事では、AIエージェントの推論コストを下げつつ、精度を保つ手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「AIに長い文章を読ませると、コストが高くなる」問題に関する...</summary>
   </entry>
   <entry>
     <title>Safely scaling multi-agent teams with Claude Fable 5.2 / claude.dev Blog</title>
@@ -740,69 +804,5 @@
     <updated>2026-11-10T10:43:41+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: 「システム設計視点の行動経済学」、第60回を始めましょう。その前に、まず前回の復習として、 育成就労制度の設計検証 ― 財源幻想と多文化共生の強制の交差点 : システム設計視点の行動経済学 (59) https://qiita.com/maskot1977/i...</summary>
-  </entry>
-  <entry>
-    <title>障害が起きてから動くのはもう終わりにしよう！New Relic「Advanced APM」で実現するプロアクティブ改善</title>
-    <id>https://qiita.com/nr-mito/items/927b6bc074f35ecc181d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/nr-mito/items/927b6bc074f35ecc181d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-10T08:50:51+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>本記事では、アプリケーションのパフォーマンス改善で大きな効果を発揮する Advanced APM(Transaction 360,Intelligent Workload,Performance Risks Inbox) について、その特徴と設定手順を紹介します！ Adv...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code を新しい Fable 5.2 に切り替えると速く安くなるのか。36回測ったら、Fable 5.1 より2割速く3割安く、費用は Opus 5.5 の1.6倍だった</title>
-    <id>https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/suwa_nobu/items/a6a104575596915dac2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-10T08:50:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>2026年11月9日（日本時間では11月10日）、Anthropic が Claude Fable 5.2 と Claude Mythos 5.2 を発表しました。Hacker News では800点を超える投稿になっています。Mythos 5.2 は審査を通った組織だけが...</summary>
-  </entry>
-  <entry>
-    <title>AI攻撃をAIで迎え撃つ必要はあるのか――旧日本軍の戦史から考える「省資源型戦術防御」</title>
-    <id>https://qiita.com/01rabbit/items/9f18f7d208ace293991b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/01rabbit/items/9f18f7d208ace293991b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-10T07:55:53+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>要旨 2026年秋、国内で不正アクセスと情報漏えいが相次ぎ、JPCERT/CCは攻撃者がAIを使っていたことや、AIを用いたペネトレーションテスト基盤が悪用されたことを確認した。攻撃側がAIを使う以上、防御側もより高価なAIを入れ続けるしかないのか。本稿はこの前提を疑っ...</summary>
-  </entry>
-  <entry>
-    <title>ひとりで作るOSSを、チームの基準でレビューする（Codex・Claude・CodeRabbit）</title>
-    <id>https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/figueiredoluiz/items/1a043190d8f00d2ebda6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-10T01:24:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに テストの重複を検出する静的解析ツールを、2つひとりでメンテナンスしている。Vitest向けの vitest-dedup と、Cucumber/Gherkin向けの cuke-dedup だ。どちらもRustで書かれていて、npmとGitHub Actionで配布...</summary>
-  </entry>
-  <entry>
-    <title>React学習のアウトプットとして学習記録アプリを個人開発</title>
-    <id>https://qiita.com/yukmaru/items/f24479a1b40dd2ff1346?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yukmaru/items/f24479a1b40dd2ff1346?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-09T23:55:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに UdemyでReactの基礎を学び、そのアウトプットとして簡単な学習記録アプリを開発しました。本記事では、開発を通して学んだことや大変だった点、工夫したことをまとめました。 成果物 開発したのは学習記録アプリです。使ったReactの機能はStateだけです。 ...</summary>
-  </entry>
-  <entry>
-    <title>【AWS】RAG小、新機能全マシ、IAMカタメ、予算スクナメで</title>
-    <id>https://qiita.com/kikuziro/items/eb28e7084445ff060783?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kikuziro/items/eb28e7084445ff060783?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-09T23:21:44+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>🍜 はじめに 今年はRAGに使えそうなアプデがたくさん出たので全部載せでちょっとした検索システムを作ってみました。今回トッピングしたのはこの6件です。 DynamoDBのベクトル検索（8/5） Strands Decider 2B（10/1） BedrockでClaud...</summary>
-  </entry>
-  <entry>
-    <title>「お見送りは車が見えなくなるまで頭を下げよ」GMOの“バイブル”で定められた「細かすぎる会食ルール10カ条」 経営者仲間は「熊谷さんはいつも客の前で社員を説教している」 | デイリー新潮</title>
-    <id>https://www.dailyshincho.jp/article/2026/11091303/</id>
-    <link href="https://www.dailyshincho.jp/article/2026/11091303/" />
-    <updated>2026-11-09T19:36:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「お見送りは車が見えなくなるまで頭を下げよ」GMOの“バイブル”で定められた「細かすぎる会食ルール10カ条」 経営者仲間は「熊谷さんはいつも客の前で社員を説教している」 GMOインターネットグループに対する不正アクセス騒動では、同社のコーポレートガバナンスのあり方に厳しい目が向けられている。同社社員がガバナ...</summary>
-  </entry>
-  <entry>
-    <title>初参加！JAWS FESTA 2026さ行ってきたどレポート</title>
-    <id>https://qiita.com/manaty/items/caccf7b6e18bedca5805?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/manaty/items/caccf7b6e18bedca5805?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-09T19:05:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに こんにちは、JAWS FESTAに初めて参加してきたマナティです！ 今回はその参加レポートになりますー！ 初めて参加して感じたこと、今回のFESTAから受け取ったテーマ、そして「もっと地方のイベントやコミュニティにも顔を出して、たくさんのエンジニアと交流したい！...</summary>
   </entry>
 </feed>
