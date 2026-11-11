@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T20:30:14.575084+09:00</updated>
+  <updated>2026-11-11T21:00:16.884969+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIに書かせた、が全然AIが書いてない件</title>
+    <id>https://zenn.dev/appleworld/articles/65aed6c725af71</id>
+    <link href="https://zenn.dev/appleworld/articles/65aed6c725af71" />
+    <updated>2026-11-11T11:11:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。 私もAIに記事を書かせたい。ここに書くのは、自分の文体で書かせようとした休日一日の記録で、中身はほぼ愚痴である。 自分で書けるのに任せるのは、積み上がると踏んだからだ。文体の指示書は、直すたびに次の初稿が良くなる。それが本当なら、いまの手間は払う価値がある。この賭けの記録でもある。 1. 何を作っていたか 技術記…</summary>
+  </entry>
   <entry>
     <title>政府、高性能AI暴走に罰則検討 悪質事業者に対抗手段へ法改正</title>
     <id>https://www.47news.jp/15215887.html</id>
@@ -314,9 +322,9 @@
     <title>ISUCON2026 で優勝しました（準備編）</title>
     <id>https://zenn.dev/luvtechno/articles/isucon2026-preparation</id>
     <link href="https://zenn.dev/luvtechno/articles/isucon2026-preparation" />
-    <updated>2026-11-11T14:38:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。 モチベーション 私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの...</summary>
+    <updated>2026-11-11T14:05:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！ @kawasy です。当日編に続いて、この記事では3か月の準備期間に何をしていたかを、時系列で追いながら振り返ります。 モチベーション 私は土曜日はいつも、子どもを習い事に連れて行っています。Slack でレギュレーションの「AI 利用可」を見かけたとき、全部 AI に任せられれば、いつもどおりの土曜日を過ごしながら参加できるかもしれないと思いました。それが開発のきっかけで…</summary>
   </entry>
   <entry>
     <title>ジェンスン・フアンCEOの不倫関係を利用して1兆円分以上のNVIDIA製半導体が中国に出荷されていた疑い</title>
@@ -796,13 +804,5 @@
     <updated>2026-11-10T17:41:07+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Eclipseでカバレッジを計測すると、コードが赤、黄、緑で色分けされます。 どこまでカバーできたかは見えるものの、その色をどう決めているかは見えづらく、ちょっと黒魔術っぽく感じます。 Eclipseからカバレッジを計測し、結果を表示するプラグインがEclEmmaで、計測と解析にはJaCoCoを使います。 その仕組みを調べるため、計測前後のclassファイルを比べてみました。 小さなJUnitのテ…</summary>
-  </entry>
-  <entry>
-    <title>商工会議所ネット試験管理システムへの不正アクセスによる受験者情報（個人情報）漏えいの可能性について｜日本商工会議所</title>
-    <id>https://www.jcci.or.jp/news/news/2026/1110170000.html</id>
-    <link href="https://www.jcci.or.jp/news/news/2026/1110170000.html" />
-    <updated>2026-11-10T21:45:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>当所がネット試験で利用している外部サーバー（試験管理システム）への不正アクセスが確認され、最大約98万人分（約197万件）の受験者情報が漏えいした可能性があることが判明いたしました。 現時点において、当該受験者情報が漏えいした事実や、不正利用された事実は確認されておりません。 受験者をはじめ関係者の皆様...</summary>
   </entry>
 </feed>
