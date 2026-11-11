@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T21:30:15.275632+09:00</updated>
+  <updated>2026-11-11T22:00:16.798741+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>アマゾン、サイトの仕組み変更へ 出品値下げ強要疑いで公取委が調査（朝日新聞） - Yahoo!ニュース</title>
+    <id>https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf</id>
+    <link href="https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf" />
+    <updated>2026-11-11T17:48:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アマゾン（朝日新聞） 公正取引委員会が11日、ネット通販大手アマゾンの日本法人「アマゾンジャパン」（東京都）から出された、通販サイトの改善計画を認定したと発表した。 【深掘り】アマゾン通販サイトこう変わる サイトの出品者に値下げを強要していた疑いがあるとして、公取委が独占禁止法違反（不公正な取引方法...</summary>
+  </entry>
   <entry>
     <title>新着情報詳細｜靖國神社</title>
     <id>https://www.yasukuni.or.jp/news_detail.html?id=734</id>
@@ -796,13 +804,5 @@
     <updated>2026-11-10T23:30:35+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに この記事は前後編の後編です。前編では、Adaptive Routerによる分類、Beta分布からの品質サンプル、モデルスコア、重み、min_quality_tier を扱いました。 後編では、会話からモデルごとの品質を学習する条件と、運用時に注意が必要な動作を検証します。 後編でわかったことのまとめ 項目 結果 モデル選択の学習方法 次のターンの user 発話と、応答間の類似度を評価す…</summary>
-  </entry>
-  <entry>
-    <title>LiteLLM Adaptive Router を検証する（前編）：モデル選択と学習の仕組み</title>
-    <id>https://zenn.dev/aws_japan/articles/ac9ae548d57323</id>
-    <link href="https://zenn.dev/aws_japan/articles/ac9ae548d57323" />
-    <updated>2026-11-10T23:28:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに LiteLLM の Adaptive Router（auto_router/adaptive_router、BETA）は、1つのモデル名で受け付けたリクエストを、内容に応じて複数のモデルへ振り分けます。モデルの品質とコストを評価し、会話から得た反応を以後の選択に反映します。 公式ドキュメントだけでは、次の仕様を把握しにくい状態です。 モデル選択で参照する情報 weights（品質とコスト…</summary>
   </entry>
 </feed>
