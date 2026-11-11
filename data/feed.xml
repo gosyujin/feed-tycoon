@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-11T10:30:13.665869+09:00</updated>
+  <updated>2026-11-11T11:00:13.238057+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>予定どおりに進まない育児を、どう回す？エンジニアが家庭で実践する、夫婦どちらか1人でも回る仕組み - レバテックLAB</title>
+    <id>https://levtech.jp/media/detail_961/</id>
+    <link href="https://levtech.jp/media/detail_961/" />
+    <updated>2026-11-11T09:22:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>hitode909 株式会社はてなのエンジニアリングマネージャー。学生時代から趣味でWebサービス開発に熱中。「YAPC::Asia」や「YAPC::Japan」など勉強会にて登壇多数。2011年から毎日更新している「hitode909の日記」では、ITと、5歳の子どもとの暮らしについて書いている。現在はマンガサービスの開発チームで、コードとチ...</summary>
+  </entry>
+  <entry>
+    <title>Google、「Gemini 4 Carbon」提供開始--AstraやFable対抗の最上位AI</title>
+    <id>https://japan.cnet.com/article/35254674/</id>
+    <link href="https://japan.cnet.com/article/35254674/" />
+    <updated>2026-11-11T08:32:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Carbonは、サイバーセキュリティー対策、長期にわたる自律的な作業、複雑なコーディングや科学研究など、多段階の課題を時間をかけて検証する用途に向けたモデル。ソフトウェア開発や資料分析などの一般的な知識作業には「Gemini 4 Argon」、特に難しい課題にはCarbonと使い分ける位置付けだ。 Googleが公表した性能評価...</summary>
+  </entry>
+  <entry>
+    <title>ソフトバンクG、マスク氏の「債務不履行」投稿に「全くの事実無根」 7〜9月期決算は1兆円超の赤字</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/10/2000003079/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/10/2000003079/" />
+    <updated>2026-11-11T03:29:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソフトバンクグループの後藤芳光CFO（最高財務責任者）は11月10日の決算説明会で、米SpaceXのイーロン・マスクCEOがXで同グループの「債務不履行」を指摘した件について「全くの事実無根」と否定した。 マスク氏は6日、Xで「SoftBank is defaulting on their turbine orders」（ソフトバンクはタービンの発注で債務不履...</summary>
+  </entry>
   <entry>
     <title>2026年度 新卒研修『AWS インフラハンズオン』の資料を公開します | CyberAgent Developers Blog</title>
     <id>https://developers.cyberagent.co.jp/blog/archives/66422/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-10T15:02:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに プロダクト開発支援課フロントエンド推進チームの安彦です。 プロダクト開発支援課は2026年10月に発足したばかりの組織です。私たちのチームが顧客としているのは、プロダクトの先にいるエンドユーザーだけではありません。社内でプロダクトを作っている開発者もまた、私たちが価値を届けるべき顧客として捉え...</summary>
-  </entry>
-  <entry>
-    <title>既存サービスの ECS タスクを read-only root filesystem &amp; non-root 構成に作り変える - MNTSQ Techブログ</title>
-    <id>https://tech.mntsq.co.jp/entry/2026/11/10/113203</id>
-    <link href="https://tech.mntsq.co.jp/entry/2026/11/10/113203" />
-    <updated>2026-11-10T11:33:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに なぜやるのか read-only 化と non-root 化の嬉しさ 進め方 read-only 化 /tmp 配下は例外的に書き込めるようにする ECS Exec のエージェントにも書き込み先を与える 空のボリュームはイメージの中身を隠す uv run で起動するサービスには UV_NO_SYNC=1 を渡す 依存の更新で書き込みが増える 検証は rollout と...</summary>
-  </entry>
-  <entry>
-    <title>前沢友作氏の請求棄却 メタに「なりすまし広告」削除求めた訴訟 | 毎日新聞</title>
-    <id>https://mainichi.jp/articles/20261109/k00/00m/040/284000c</id>
-    <link href="https://mainichi.jp/articles/20261109/k00/00m/040/284000c" />
-    <updated>2026-11-10T13:41:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>インスタグラムなどになりすましの詐欺広告を掲載されたとして実業家の前沢友作氏が、運営する米IT大手メタと日本法人（東京）に広告の削除などを求めた訴訟の判決で、東京地裁は10日、前沢氏の請求を棄却した。SNS事業者の責任を明らかにすることが目的だとして、前沢氏側は損害賠償の請求額をあえて1円にとどめたが、...</summary>
-  </entry>
-  <entry>
-    <title>退屈なCoding AgentはMuseにやらせよう</title>
-    <id>https://zenn.dev/watany/articles/342b9815dd0553</id>
-    <link href="https://zenn.dev/watany/articles/342b9815dd0553" />
-    <updated>2026-11-10T13:12:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわかるタイプのプロダクトで、使ってないとClaudeやCodexで良いじゃん、なんで今更驚き屋してんの？って思わ...</summary>
   </entry>
 </feed>
