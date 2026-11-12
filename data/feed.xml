@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T20:30:13.241361+09:00</updated>
+  <updated>2026-11-12T20:54:12.122529+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox</title>
+    <id>https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B</id>
+    <link href="https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B" />
+    <updated>2026-11-12T19:43:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Dockerコンテナは、環境構築やデプロイの容易さから広く普及して久しいと思う ホストマシンを選ばず（サーバーでは大抵Linuxだろうが）、Kubernetesでスケーリングも可能 実行権限やFSの内容も、コンテナ内に閉じているからDCやVPCには影響が出ない。安全！ 安心！ と思ってると死ぬぞ Dockerだから安全は嘘 Dockerを使...</summary>
+  </entry>
+  <entry>
+    <title>Claude Fable 5.2、フェルマーの最終定理を約30時間で形式化―1000エージェントの協調実験 | 財経新聞</title>
+    <id>https://www.zaikei.co.jp/article/20261111/877067.html</id>
+    <link href="https://www.zaikei.co.jp/article/20261111/877067.html" />
+    <updated>2026-11-12T19:22:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アンソロピックは2026年11月9日、1000のClaude Fable 5.2エージェントが、フェルマーの最終定理の証明を約30時間で形式化したと発表した。同社の技術記事によると、実験には初期版モデルを使い、60の目標命題や既存の47補題などを与えた。最終定理の形式化に要した時間は28.7時間だった。 形式化とは、数学の論証をコン...</summary>
+  </entry>
+  <entry>
+    <title>Gemini Decisions API: Fast, calibrated multimodal decisions</title>
+    <id>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/</id>
+    <link href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/" />
+    <updated>2026-11-12T11:37:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Gemini Decisions API: Fast, calibrated multimodal decisions</summary>
+  </entry>
   <entry>
     <title>WebサイトをAgent Readyにしよう</title>
     <id>https://unvalley.me/ja/blog/1793627906</id>
@@ -370,9 +394,9 @@
     <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
     <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
     <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
-    <updated>2026-11-12T09:44:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラウドエージェ…</summary>
+    <updated>2026-11-12T10:43:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
   </entry>
   <entry>
     <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-11T21:29:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証</summary>
-  </entry>
-  <entry>
-    <title>Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title>
-    <id>https://forbesjapan.com/articles/detail/107841</id>
-    <link href="https://forbesjapan.com/articles/detail/107841" />
-    <updated>2026-11-11T20:13:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期...</summary>
-  </entry>
-  <entry>
-    <title>「警察庁推奨アプリ」ダウンロードページの偽サイトに注意！ SMSでダウンロード求める トビラシステムズが注意喚起</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2155633.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2155633.html" />
-    <updated>2026-11-11T18:33:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「警察庁推奨アプリ」ダウンロードページの偽サイトに注意！ SMSでダウンロード求める トビラシステムズが注意喚起</summary>
-  </entry>
-  <entry>
-    <title>2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2155377.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2155377.html" />
-    <updated>2026-11-11T12:20:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</summary>
   </entry>
 </feed>
