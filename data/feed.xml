@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T21:30:14.222978+09:00</updated>
+  <updated>2026-11-12T22:00:16.399331+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>[新サービス] AWS Emulator 発表！実 AWS と比べ、Claude Code にローカルでテストと修正を繰り返させてみた | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/20261112-aws-emulator/</id>
+    <link href="https://dev.classmethod.jp/articles/20261112-aws-emulator/" />
+    <updated>2026-11-12T16:58:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>主な仕様は次のとおりです。 Linux では RPM パッケージまたは Debian パッケージで導入します。macOS と Windows ではドキュメントに掲載された Dockerfile からイメージをビルドし、コンテナで動かします（ビルド済みのイメージは公開されていません） 既定では 127.0.0.1:9297 で HTTPS を提供します。起動のたびに認...</summary>
+  </entry>
+  <entry>
+    <title>「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2155719.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2155719.html" />
+    <updated>2026-11-12T14:25:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Apache HTTP Server 2.4.71」が公開 ～深刻度「Critical」を含む3件の脆弱性を修正／「mod_http2」にリモートコード実行の欠陥、v2.4.55以降が影響</summary>
+  </entry>
   <entry>
     <title>宝くじ公式サイト、会員の当落情報まで第三者が閲覧の可能性 リスト型攻撃か</title>
     <id>https://www.itmedia.co.jp/news/article/2611/12/2000003158/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-10T01:11:23+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに ログ調査でよく使うLinuxコマンドをまとめました。 サーバーの状態確認 → ログの絞り込み → 中身を読む、という調査の順番に沿って並べています。 数十GBクラスの巨大なファイルを扱うときは、ディスクI/Oへの影響もあるので注意しましょう。 不正アクセスが世の...</summary>
-  </entry>
-  <entry>
-    <title>「アマゾンジャパン」に公取委が行政処分、他サイトの最安値以下の商品を「おすすめ出品」として優遇</title>
-    <id>https://www.yomiuri.co.jp/national/20261111-GYT1T00255/</id>
-    <link href="https://www.yomiuri.co.jp/national/20261111-GYT1T00255/" />
-    <updated>2026-11-11T17:18:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【読売新聞】 運営する通販サイトで競合他社サイトより安い商品を優遇し、出品者に値下げを余儀なくさせたのは独占禁止法違反の疑いがあるとして、公正取引委員会は１１日、米アマゾンの日本法人「アマゾンジャパン」（東京）に対し、同法に基づく行</summary>
-  </entry>
-  <entry>
-    <title>アマゾンが予想外の打診、公取委が頼ったドイツ 攻防2年の舞台裏：朝日新聞</title>
-    <id>https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html</id>
-    <link href="https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html" />
-    <updated>2026-11-11T17:36:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ネット通販大手「アマゾンジャパン」を調査していた公正取引委員会は11日、同社が提出した改善計画を認め、調査を終了した。 当初は長期化も予想された競争当局による巨大ネット企業の調査。どういう経緯で決着…</summary>
   </entry>
 </feed>
