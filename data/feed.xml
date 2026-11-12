@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T20:54:12.122529+09:00</updated>
+  <updated>2026-11-12T21:00:15.369484+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIエージェントが決定を勝手に変えてしまった5つのパターンと工夫</title>
+    <id>https://zenn.dev/dress_code/articles/568fd547315abe</id>
+    <link href="https://zenn.dev/dress_code/articles/568fd547315abe" />
+    <updated>2026-11-12T12:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。Dress Code の HR Force チームで給与ドメインを担当している、いっしーです。 僕はほぼ一日中、Claude Code や Codex に何かしら任せています。仕事では、決定とその理由を ADR に、実装する動作を OpenSpec の仕様書に残し、エージェントにはそれらを読ませてから作業させています。 ところが、決めたはずのことが、いつのまにか変わっていることがありま…</summary>
+  </entry>
   <entry>
     <title>そのヤバいDockerイメージをいつまで使うのか - keroxpのScrapbox</title>
     <id>https://scrapbox.io/keroxp/%E3%81%9D%E3%81%AE%E3%83%A4%E3%83%90%E3%81%84Docker%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%92%E3%81%84%E3%81%A4%E3%81%BE%E3%81%A7%E4%BD%BF%E3%81%86%E3%81%AE%E3%81%8B</id>
@@ -394,9 +402,9 @@
     <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
     <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
     <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
-    <updated>2026-11-12T10:43:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
+    <updated>2026-11-12T09:44:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラウドエージェ…</summary>
   </entry>
   <entry>
     <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-11T12:30:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>Amazon傘下のホームセキュリティブランド「Ring」が、屋内用ロボットシリーズの「Ring Robotics」を発表しました。屋内用ドローンの「Ring Drone Cam」と屋内用移動式ロボット「Ring Rover Cam」が登場しています。 Ring announces Ring Robotics, ushering in a new era of security https://ww…</summary>
-  </entry>
-  <entry>
-    <title>ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2155676.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2155676.html" />
-    <updated>2026-11-11T21:29:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証</summary>
   </entry>
 </feed>
