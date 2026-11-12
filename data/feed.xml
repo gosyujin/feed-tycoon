@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T11:30:13.977680+09:00</updated>
+  <updated>2026-11-12T12:00:13.087223+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Mozkey（もずきー）| 書くことに集中できる、日本語入力。</title>
+    <id>https://koyasi777.com/mozkey/</id>
+    <link href="https://koyasi777.com/mozkey/" />
+    <updated>2026-11-12T11:13:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>書くことに集中できる、 日本語入力。自然に変換し、使うほど馴染む。 あなたの入力スタイルに合わせられる、日本語IME。</summary>
+  </entry>
+  <entry>
+    <title>本職の弁護士が訴訟相手からバリバリのAI書面が来た時の対応をコメント、こちらの書面もAIに読み込まれるのを想定すると、相手のAIが説得してくれる模様</title>
+    <id>https://togetter.com/li/2769528</id>
+    <link href="https://togetter.com/li/2769528" />
+    <updated>2026-11-12T10:55:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>弁護士荒川香遥 @koyoarakawa 相手本人から、ＡＩバリバリ書面に出くわすが、こういうときの反論書は、ＡＩに読み込まれることを前提に裁判例をつけまくることにしてる。相手は判例検索に課金していないから判例を使った反論ができないし、こちらの書面を読み込ませて、相手がＡＩに説得されてきちんとした妥結を図れて...</summary>
+  </entry>
+  <entry>
+    <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
+    <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
+    <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
+    <updated>2026-11-12T10:43:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
+  </entry>
+  <entry>
+    <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
+    <id>https://gihyo.jp/article/2026/11/chimera-vocal-synth</id>
+    <link href="https://gihyo.jp/article/2026/11/chimera-vocal-synth" />
+    <updated>2026-11-11T00:55:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製⁠⁠、ブラウザから操作する音声シンセサイザー ソフトウェアエンジニアのJameson Hodge氏は、肺や声帯、声道などを物理モデルで再現して音を作る音声シンセサイザー「CHIMERA Vocal Synth」を公開している。ブラウザ上で舌や唇、顎の動きを操...</summary>
+  </entry>
   <entry>
     <title>Kotlin コンテキストパラメータの詳細な挙動を調べてみた - ドワンゴ教育サービス開発者ブログ</title>
     <id>https://blog.nnn.dev/entry/2026/11/12/110000</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-10T09:38:48+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 最近はAIを使ってアプリの修正をすることが増えました。指示を出せば、それなりに動くコードがすぐに出てきます。 その一方で、「動いたからOK」とソースの中身を理解しないまま作業を終えてしまうことが、自分にもありました。 だからこそ私は、AIにコードを書かせる時代だ...</summary>
-  </entry>
-  <entry>
-    <title>Promise.raceのタイムアウトで処理が止まらない理由：待機と中断をNode.jsで実測</title>
-    <id>https://qiita.com/ennagara128/items/844e15cb69bdb2605a63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/844e15cb69bdb2605a63?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-09T12:04:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Promise.race でタイムアウトを作っても、競わせた処理は自動では止まりません。待つ側がエラーを受け取ったあとに、本来の処理の完了ログが出る例を実測しました。 Claude Code のコードでも、待機と中断を分けて読みます。前回は結果の選び方、今回は処理の継続です...</summary>
-  </entry>
-  <entry>
-    <title>モデル駆動型アプリ内で Dataverse の選択肢に SharePoint Lists みたいな選択肢ごとの背景色をつける</title>
-    <id>https://qiita.com/YurimyMiyu/items/43e1926e18d6c7d4fd40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/YurimyMiyu/items/43e1926e18d6c7d4fd40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-09T08:01:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに モデル駆動型アプリを作っている皆さん、ごきげんよう！ 百合宮桜(Miyu)です(*'▽') Dataverse の選択肢、1つ1つに異なる背景色をつけたい！って思ったことはありませんか？ こんな風に製品のテーマカラーに沿って、色分けできたら分かりやすいと思いませ...</summary>
-  </entry>
-  <entry>
-    <title>AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話</title>
-    <id>https://gigazine.net/news/20261111-mysterious-beeps/</id>
-    <link href="https://gigazine.net/news/20261111-mysterious-beeps/" />
-    <updated>2026-11-11T15:03:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンやタブレットなどのマイクを活用し、最終的に音の発生源を約40cmの範囲まで絞り込むことに成功したとのことで...</summary>
-  </entry>
-  <entry>
-    <title>ChatGPTでビジネスを展開できる新機能 自社サイトのクリック数集計、顧客へのAIチャット提供など 一部機能は米国から</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2611/11/2000003088/" />
-    <updated>2026-11-11T09:34:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIは11月10日（現地時間）、企業がChatGPT上でのWebサイトのクリック数を集計したり、顧客にAIチャット機能を提供したりできる新機能「Businesses in ChatGPT」のβ版を発表した。 企業は「Business Hub」に自社の情報を登録することで、ChatGPT上での自社への言及数やWebサイトクリック数、Webサイトが引用されて...</summary>
   </entry>
 </feed>
