@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T08:30:14.073610+09:00</updated>
+  <updated>2026-11-12T09:00:14.302869+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWS Emulator and the engineer's job when agents write the code</title>
+    <id>https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html</id>
+    <link href="https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html" />
+    <updated>2026-11-12T06:01:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AWS Emulator and the engineer's job when agents write the codeNovember 11, 2026 • 1671 words In 2004, barely a month into my new job at Amazon, I got the opportunity to pick an intern to join my team.…</summary>
+  </entry>
+  <entry>
+    <title>脆弱性の影響調査を Devin Automations で自動化した話</title>
+    <id>https://zenn.dev/rescuenow/articles/2ee1c4b66ecec8</id>
+    <link href="https://zenn.dev/rescuenow/articles/2ee1c4b66ecec8" />
+    <updated>2026-11-11T22:16:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>処理の流れは、毎日の定期実行と Slack からの依頼の 2 本です。 定期実行: 新着 CVE 登録 毎日の定期実行で Devin Automation が起動し、次の 2 つを行います。 登録: 直近 48 時間に NVD で公開された CVSS 一定以上の CVE のうち、 Notion データベースに未登録であれば登録する 更新: 登録済みの CVE で CVSS が前回...</summary>
+  </entry>
+  <entry>
+    <title>「上限がある仕事」はオープンモデルへ──トークン爆発の時代に、今井翔太氏とNVIDIA井﨑武士氏が引くAIモデル選定の線</title>
+    <id>https://codezine.jp/article/detail/30321</id>
+    <link href="https://codezine.jp/article/detail/30321" />
+    <updated>2026-11-11T19:22:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントの普及で推論に使うトークンは桁違いに増え、最先端のフロンティアモデルだけを使い続ければコストは回収できない。一方で、オープンモデルには出自や安全性のリスクもある中で、どの問題をどのモデルで解けばよいのか。NVIDIAが開発者を招いて開催した「NVIDIA Agentic AI Day Japan 2026」では、AI研究...</summary>
+  </entry>
   <entry>
     <title>GitHub - aws/aws-emulator: AWS Emulator is a local emulator of the AWS APIs.</title>
     <id>https://github.com/aws/aws-emulator</id>
@@ -258,9 +282,9 @@
     <title>テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に</title>
     <id>https://www.publickey1.jp/blog/26/playwrightbun.html</id>
     <link href="https://www.publickey1.jp/blog/26/playwrightbun.html" />
-    <updated>2026-11-12T00:07:35+09:00</updated>
-    <category term="Publickey" />
-    <summary>Webアプリケーションのテストフレームワーク「Playwright」が、最新バージョンのv1.65.0で、Bunでのテストランナー実行を正式にサポートしました。 PlaywrightのテストランナーはこれまでNode.jsが用いられていまし...</summary>
+    <updated>2026-11-12T07:38:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Webアプリケーションのテストフレームワーク「Playwright」が、最新バージョンのv1.65.0で、Bunでのテストランナー実行を正式にサポートしました。 PlaywrightのテストランナーはこれまでNode.jsが用いられていました。今回、そのNode.jsに加えて、Bunでのテストランナーの実行を正式にサポートしました。 BunがTypeScri...</summary>
   </entry>
   <entry>
     <title>AWS、AIエージェント向けに強力な隔離環境とネイティブなEC2性能を備えた軽量VM「AWS Nitro Sandboxes」提供開始</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-11T09:21:10+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>この記事について Snowflakeから新しいDashboards（ドキュメント上は Dashboards 2.0 とも呼ばれています）が出ました。触ってみて、正直かなり感動しています。何年も前から「Snowflakeの中でパッと数字を見て、それに質問したいだけなのに、ちょうどいいものがない」と不満を持っていたのですが、ようやくその答えが来たと感じたからです。 この記事では、なぜこれが私にとって最…</summary>
-  </entry>
-  <entry>
-    <title>AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita</title>
-    <id>https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</id>
-    <link href="https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a" />
-    <updated>2026-11-11T00:08:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないからです。 そこで試したのが、テ...</summary>
-  </entry>
-  <entry>
-    <title>Claude Fable 5.2のプロンプトガイドを読んで正直に思ったことを書く</title>
-    <id>https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2</id>
-    <link href="https://zenn.dev/tree_and_tree/articles/thoughts-on-claude-fable-5-2" />
-    <updated>2026-11-10T21:44:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに https://platform.claude.com/docs/ja/build-with-claude/prompt-engineering/prompting-claude-fable-5-2 Fable 5.2が発表されたのでプロンプトガイドのページを読んで思ったことをざっくりと書いていきます。 個人的に印象に残った内容を引用しつつ、所感を書きます。網羅的ではないので要約を見たい…</summary>
-  </entry>
-  <entry>
-    <title>職務経歴書の JSON から「技術ごとの経験年数」を出す ― 形を決めつけない集計を TypeScript で</title>
-    <id>https://zenn.dev/megrou/articles/e04a9edaaea79d</id>
-    <link href="https://zenn.dev/megrou/articles/e04a9edaaea79d" />
-    <updated>2026-11-10T21:41:25+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに フリーランスのエンジニアとして、職務経歴書を何度も書き直してきました（エンジニアの業界では、案件ごとの期間・使用技術・担当工程を表にした職務経歴書を「スキルシート」と呼ぶことも多いです）。毎回いちばん手間がかかり、しかも自信が持てないのが 「C# 約○年」のような技術ごとの経験年数 です。 先日、ポートフォリオサイトの更新ついでに、職務経歴書に載せている 37 件の案件からこの年数を計算…</summary>
   </entry>
 </feed>
