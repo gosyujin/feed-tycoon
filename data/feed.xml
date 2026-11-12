@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T20:00:15.588516+09:00</updated>
+  <updated>2026-11-12T20:30:13.241361+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>WebサイトをAgent Readyにしよう</title>
+    <id>https://unvalley.me/ja/blog/1793627906</id>
+    <link href="https://unvalley.me/ja/blog/1793627906" />
+    <updated>2026-11-12T18:11:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントがWebサイトを読むことが当たり前になりました。 僕は過去にあるWebサイトを公開していたのですが、その時Vibe Codingによる実装ミスをしていて完全にやらかしたことがあります。そんなことに懲りずに、この記事ではWebサイトをAgent Readyにしていきます。ここでいうAgent Readyは、「エージェントがWeb...</summary>
+  </entry>
   <entry>
     <title>AWS Emulator がリリースされたので試してみた | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/aws-emulator-local-try/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-11T12:20:00+09:00</updated>
     <category term="はてブ IT" />
     <summary>2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</summary>
-  </entry>
-  <entry>
-    <title>内閣府 メールアドレス6万件余漏えい アララ不正アクセス影響 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261111de74151</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261111de74151" />
-    <updated>2026-11-11T16:17:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>内閣府は所管する政策のメールマガジンなどの配信サービスを提供している会社が不正アクセスを受けた影響で、登録されているメールアドレス、延べおよそ6万3000件が漏えいしたと発表しました。 内閣府によ…</summary>
   </entry>
 </feed>
