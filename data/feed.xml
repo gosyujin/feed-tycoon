@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T02:00:15.682022+09:00</updated>
+  <updated>2026-11-13T02:30:20.648465+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GmailやGoogleフォトの情報をGoogle検索のAIや広告に使わせないための設定方法まとめ</title>
+    <id>https://gigazine.net/news/20261112-google-gmail-photos-search-ads/</id>
+    <link href="https://gigazine.net/news/20261112-google-gmail-photos-search-ads/" />
+    <updated>2026-11-12T22:46:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleは2026年10月16日にプライバシーポリシーを改定し、ユーザーがGmailやGoogleフォトの情報をパーソナライズド広告に対応する別のGoogleサービスで使うことを許可した場合、その情報が広告のカスタマイズにも使われることがあると明記しました。メールサービス「Proton Mail」を運営するProtonは、Google検索やGoogl...</summary>
+  </entry>
   <entry>
     <title>FIDO2対応のUSBセキュリティキー「SecuX」がエアリアから、物理的複製不可技術も採用</title>
     <id>https://akiba-pc.watch.impress.co.jp/docs/news/news/2155530.html</id>
@@ -634,9 +642,9 @@
     <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
     <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
     <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
-    <updated>2026-11-12T09:44:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラウドエージェ…</summary>
+    <updated>2026-11-12T10:43:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
   </entry>
   <entry>
     <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-11T17:55:48+09:00</updated>
     <category term="はてブ IT" />
     <summary>Today we’re launching Claude Whiteboards and Claude Sheets in beta, and Claude Dashboards (opens in new tab) becomes generally available as Claude Data. Whiteboards is a shared board where your team b…</summary>
-  </entry>
-  <entry>
-    <title>Notionをアンインストールしました</title>
-    <id>https://lifehacking.jp/2026/11/goodbye-notion/</id>
-    <link href="https://lifehacking.jp/2026/11/goodbye-notion/" />
-    <updated>2026-11-11T15:05:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル・ワークスペースとして人気の高い Notion から情報漏洩に関する情報が発信されていました。 Notion それ自体というわけではなく、Notion AI という AI 機能を提供している Fireworks AI に対する不正アクセスに起因するとのことですが、ユーザー側からすれば入力したプロンプトが漏れたのは同じことです。 昨日...</summary>
   </entry>
 </feed>
