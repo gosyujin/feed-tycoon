@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T23:00:16.967936+09:00</updated>
+  <updated>2026-11-12T23:30:18.442387+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Google Antigravity、クラウド上でAIエージェントが働く「リモートエージェント」機能を搭載。就業時間外でもAIエージェントは働き続ける</title>
+    <id>https://www.publickey1.jp/blog/26/google_antigravityaiai.html</id>
+    <link href="https://www.publickey1.jp/blog/26/google_antigravityaiai.html" />
+    <updated>2026-11-13T00:13:43+09:00</updated>
+    <category term="Publickey" />
+    <summary>Googleが提供するAIエージェントによる開発環境「Antigravity」に、新機能「リモートエージェント」が搭載されました。 We want Antigravity to be working for you all the time...</summary>
+  </entry>
+  <entry>
+    <title>AWSをローカルマシン上でエミュレートする、AWS公式の「AWSエミューレタ」正式リリース</title>
+    <id>https://www.publickey1.jp/blog/26/awsawsaws_1.html</id>
+    <link href="https://www.publickey1.jp/blog/26/awsawsaws_1.html" />
+    <updated>2026-11-13T00:09:51+09:00</updated>
+    <category term="Publickey" />
+    <summary>Amazon Web Servicesは、ローカルマシン上でAWSのAPIをエミュレートする「AWSエミュレータ」の正式リリースを発表しました。 ダウンロードしてインストールすれば誰でも無料で利用でき、AWSアカウントも不要です。 Toda...</summary>
+  </entry>
+  <entry>
+    <title>NVIDIA Announces CEO Transition</title>
+    <id>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</id>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition" />
+    <updated>2026-11-12T23:14:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Jensen Huang Resigns Colette Kress, Executive Vice President and Chief Financial Officer, Appointed Interim CEO Harvey C. Jones Appointed First-Ever Chair of the Board NVIDIA (NASDAQ: NVDA) Board of D…</summary>
+  </entry>
+  <entry>
+    <title>AI「Muse」専用メアド開始、「日本で取れた」報告続々 メール送受信も任せられる</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/" />
+    <updated>2026-11-12T13:11:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米MetaのパーソナルAIエージェント「Muse」に11月11日（日本時間）から、専用のメールアドレス（@muse.ai）を持たせられるようになった。日本でも12日までに、「Museのメールアドレスが取れた」との報告が相次いでいる。 ユーザーは、Museのメアドから店舗などに予約メールを送らせたり、予定関連のメールをMuseのメアド...</summary>
+  </entry>
   <entry>
     <title>GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起 - GMO Flatt Security Blog</title>
     <id>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</id>
@@ -554,9 +586,9 @@
     <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
     <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
     <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
-    <updated>2026-11-12T10:43:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
+    <updated>2026-11-12T09:44:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラウドエージェ…</summary>
   </entry>
   <entry>
     <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-11T14:51:20+09:00</updated>
     <category term="はてブ IT" />
     <summary>npx modern-web-guidance@latest update インストール手順の詳細やその他の情報については、Modern Web Guidance のドキュメントをご覧ください。また、こちらの動画で概要を簡単に確認することもできます。 デベロッパーと企業が Modern Web Guidance を使用すべき理由 コーディング エージェントが、開発者がかつてな...</summary>
-  </entry>
-  <entry>
-    <title>【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間</title>
-    <id>https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html" />
-    <updated>2026-11-12T06:15:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間</summary>
-  </entry>
-  <entry>
-    <title>2026 年、すべての主要ブラウザで使えるようになった CSS 機能</title>
-    <id>https://sterfield.co.jp/blog/blog-44/</id>
-    <link href="https://sterfield.co.jp/blog/blog-44/" />
-    <updated>2026-11-11T19:02:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 2023 年に「2023 年の新しい CSS 機能」という記事を書きました。今回はその 2026 年版です。 2026 年は、Chrome・Firefox・Safari のすべてで使えるようになった CSS 機能がたくさんありました。その中には、これまで JavaScript を書かないとできなかったことが、CSS の数行でできるようになったものもありま...</summary>
-  </entry>
-  <entry>
-    <title>お客様の前に立つフロント人材になるために、技術以外の最小構成 | フューチャー技術ブログ</title>
-    <id>https://future-architect.github.io/articles/20261111a/</id>
-    <link href="https://future-architect.github.io/articles/20261111a/" />
-    <updated>2026-11-11T10:20:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>秋のブログ週間2026 の記事です。 はじめにTIG（Technology Innovation Group）の真野です。 フューチャーでは、お客様との会議に出て、プロジェクトを提案・推進することを「フロントに立つ」と呼ぶことがあります1。お客様と直接やり取りすることはITコンサルタントの成長に不可欠ですし、マネジメント目線でも組織の...</summary>
-  </entry>
-  <entry>
-    <title>グーグル、新ドメイン「.eat」「.fly」「.here」の受付開始を発表</title>
-    <id>https://japan.cnet.com/article/35254705/</id>
-    <link href="https://japan.cnet.com/article/35254705/" />
-    <updated>2026-11-11T14:45:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleは2012年にICANN（Internet Corporation for Assigned Names and Numbers）にこれらのトップレベルドメインの申請を済ませていたが、このほど米国時間11月10日に一般向けの登録受付を開始した。 企業にとっては、自社のドメイン名を第三者に先取りされる「サイバースクワッティング」の懸念が常につきまとう。新た...</summary>
   </entry>
 </feed>
