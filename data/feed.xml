@@ -2,10 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T17:00:15.652876+09:00</updated>
+  <updated>2026-11-12T17:30:13.154995+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>VS Code の Local harness は2027年2月に削除：Copilot harness へ移行する手順とつまずきポイント</title>
+    <id>https://qiita.com/shahin0809/items/ccb8a8ddf11d6cb4113d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shahin0809/items/ccb8a8ddf11d6cb4113d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T16:50:38+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに こんにちは！VSCode/GitHubオタクのMicrosoft Student Ambassador/GitHub Copilot User Group Japan運営のロホマン シャヒンです！ この記事が少しでも参考になったら、ぜひいいね・共有をお願い...</summary>
+  </entry>
+  <entry>
+    <title>Oracle AI Database Agent Engineを試してみた</title>
+    <id>https://qiita.com/marfujim/items/8b1ab40586665c899095?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/marfujim/items/8b1ab40586665c899095?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T16:16:54+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 「注文1002の配送状況と、遅れている理由を教えてください。」 このような質問に答えるには、注文表から現在の状態を取得し、その情報を使って回答を組み立てる必要があります。 今回は、Oracle AI Database Agent Engineを使い、PL/SQL...</summary>
+  </entry>
+  <entry>
+    <title>MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org</title>
+    <id>https://www.hageatama.org/20261112/1794464751</id>
+    <link href="https://www.hageatama.org/20261112/1794464751" />
+    <updated>2026-11-12T15:35:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 コード: CQQRFV muse.ai はい、というわけで、Meta社製AIエージェントのMuseに課金も始めて、いろいろと設定を進めています。 先月まではGrok Botなどとの協...</summary>
+  </entry>
+  <entry>
+    <title>数十億人のユーザー数をわずか数KBのメモリで推定できるアルゴリズム「HyperLogLog」とは？</title>
+    <id>https://gigazine.net/news/20261112-hyperloglog-with-coin-toss/</id>
+    <link href="https://gigazine.net/news/20261112-hyperloglog-with-coin-toss/" />
+    <updated>2026-11-12T15:04:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ウェブサイトを訪れたユーザーの数を正確に把握するには、訪問者のIDを記録して重複を取り除く必要があります。しかし、2007年に発表されたアルゴリズム「HyperLogLog」を使えば、わずか数KBのメモリで数十億人規模のユーザー数を推定することが可能です。このHyperLogLogの仕組みについて、科学誌のScientific American...</summary>
+  </entry>
+  <entry>
+    <title>AIでテストを量産したら、レビューが重くなった——レガシーコードの安全網づくり - RAKUS Developers Blog | ラクス エンジニアブログ</title>
+    <id>https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review</id>
+    <link href="https://tech-blog.rakus.co.jp/entry/20261112/characterization-test-review" />
+    <updated>2026-11-12T15:01:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 伝票画面の表示処理が抱える問題 人間とAIによる大量テストの作成 並行して作ったら、レビューが重くなった 分担して進めたら、設計に差が生まれた 統一のために整えた2つのこと 1. 設計・実装の方針を揃える 2. 基準をレビュースキルにして、セルフチェックを統一する まとめ：AIに書かせるなら、方針と基準を...</summary>
+  </entry>
+  <entry>
+    <title>Jev × scikit-learnで問い合わせを仕分ける：文章を6つの確率特徴量に変える</title>
+    <id>https://qiita.com/ryosuke_ohori/items/3604de1da2af5c28dc9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryosuke_ohori/items/3604de1da2af5c28dc9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T13:35:55+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>みなさん、こんにちは。サポート窓口に「請求書の控えがほしい」と「いまサービスにつながらない」が同時に届いたら、後者を先に見たいですよね。今回は、問い合わせの文章を Jev で6つの数値に変え、scikit-learn で standard / urgent に振り分けるパイ...</summary>
+  </entry>
+  <entry>
+    <title>耳で聞く！ システム設計 視点の 行動経済学 4</title>
+    <id>https://qiita.com/maskot1977/items/03beb1732c2cd547a801?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/03beb1732c2cd547a801?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T10:46:05+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご指定のソース動画のタイトルおよび、その詳細な内容について解説します。 1. ソース動画のタイトル 「家計簿感覚の節約が国を滅ぼす : システム設計視点の行動経済学 P...</summary>
+  </entry>
+  <entry>
+    <title>CLAUDE.md に「このコードはあなたのもの」と書くと、重複したコードをまとめてくれるのか。Claude Code・Codex・Gemini CLI で132回試したら、まとめたのは Claude だけだった</title>
+    <id>https://qiita.com/suwa_nobu/items/1dd9df248ee6f4c9dfd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/suwa_nobu/items/1dd9df248ee6f4c9dfd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T09:12:54+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AI に機能を1つ足してもらうと、既存のコードをコピーして、似た関数がもう1つ増えている。レビューでよく見る光景です。11月7日に書かれた「AI usage generates a fragile codebase」（AI を使うとコードが脆くなる）は、Hacker New...</summary>
+  </entry>
+  <entry>
+    <title>RTLのモックを差し替えて再度renderしても要素が変わらない</title>
+    <id>https://qiita.com/J-T_ky2g/items/ed88ecaccb135410ed2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/ed88ecaccb135410ed2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T08:51:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Vitest, RTLを使っている 問題 そのテストケースのトップでモック差しかえ→renderしてケースごとの差し替えはうまくいっていたので、このように書いたがうまくいかない test("学習記録が削除できる", async () =&gt; { re...</summary>
+  </entry>
+  <entry>
+    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
+    <id>https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T08:39:20+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
+  </entry>
+  <entry>
+    <title>シングル AZ 構成の本番環境 EC2 を夜間土日に停止する運用のリスクについて考える</title>
+    <id>https://qiita.com/takeda_h/items/38d3f358b4e7f09efcd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takeda_h/items/38d3f358b4e7f09efcd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-12T01:46:03+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>自治体では昨今ガバメントクラウドのコスト削減が課題になっています。 コスト削減のため、本番環境であっても「シングル AZ 構成にしたい」「夜間や土日は EC2 インスタンスを停止したい」といった相談を見かけることがあります。 シングル AZ 構成や夜間土日の停止運用は、本番...</summary>
+  </entry>
+  <entry>
+    <title>【2026年版】スマホで競プロをやろう！(C++)</title>
+    <id>https://qiita.com/deuteridayo/items/38afbfa4be6591b22f14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/deuteridayo/items/38afbfa4be6591b22f14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-11T23:30:15+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>みなさんは、PCを持たずに外出したのにも関わらず突然競プロをやりたくなってスマホコーディングしたことはありますか？ 私は3年前にiOSアプリを用いてスマホコーディングを行うための環境構築の方法を紹介しました。 しかし、この記事で紹介したエディターがApp Storeか...</summary>
+  </entry>
+  <entry>
+    <title>Claude Opus 5.5とFable 5.2はどちらを使うべきか、Claude Codeで同じ課題を解かせて比べてみた</title>
+    <id>https://qiita.com/MURAMASA2470/items/ad5a0cade2bd5b3165f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/MURAMASA2470/items/ad5a0cade2bd5b3165f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-11T15:13:47+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Claude Codeで使えるモデルに、Opus 5.5とFable 5.2があります。 Fable 5.2の方が上位のモデルですが、単価はOpus 5.5の2倍です。 普段の開発でどちらを選べばよいのか、調べてもあまり具体的な数字が出てきませんでした。 なので...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeのeffortでトークン量はどれくらい変わるか検証してみた</title>
+    <id>https://qiita.com/MURAMASA2470/items/620d6d6a8fd7fdc5f38e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/MURAMASA2470/items/620d6d6a8fd7fdc5f38e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-11T15:12:16+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに Claude Codeには、モデルとは別に「effort」という設定があります。 low・medium・high・xhigh・maxの5段階です。 上げるほどよく考える代わりに、トークンを使います。 ただ、1段階上げるとトークンがどれくらい増えるのかは、調べても...</summary>
+  </entry>
+  <entry>
+    <title>IBM TechXchange 2026（アトランタ）見聞感録！ - May the Bob be with us -</title>
+    <id>https://qiita.com/numafuji_iguazu/items/4fb7b06514ef62b9e65e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/numafuji_iguazu/items/4fb7b06514ef62b9e65e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-11T09:07:53+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは、 アトランタに行ってきましたよ。 2026年10月26日〜29日に米国アトランタで開催された「IBM TechXchange 2026」に参加し、Tech Talk に登壇してきました。今年からIBM Championになりましたので、いろいろ始めての体験をし...</summary>
+  </entry>
+  <entry>
+    <title>CVE-2026-98432（Linuxカーネル IPv4 TCPのuse-after-free）各ディストリビューションの対応状況【2026年11月10日時点】</title>
+    <id>https://qiita.com/k2_naka/items/692fc8b09d9a412c4383?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/k2_naka/items/692fc8b09d9a412c4383?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-10T23:02:45+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>筆者表記 工程 担当 課題提示・取捨選択・内容チェック 筆者 初回調査・原案作成・編成 Claude Fable 5.2 追加調査（公開履歴・アドバイザリの照合表） GPT-6 Astra 一次資料照合・最終稿 Claude Fable 5.2 ...</summary>
+  </entry>
+  <entry>
+    <title>「問題があっても言いづらい」ふりかえり、3チームはどこから手をつけたか（トナリノ）</title>
+    <id>https://qiita.com/h-yamakawa/items/e1fbe82a22ff464603ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/h-yamakawa/items/e1fbe82a22ff464603ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-10T14:26:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>※この記事はAgileStudioに掲載した記事の転載です。 元記事：「問題があっても言いづらい」ふりかえり、3チームはどこから手をつけたか（トナリノ） 「問題があっても言いづらい」 あなたのチームの、次のふりかえりを思い浮かべてみてください。ボードに付箋が貼られて...</summary>
+  </entry>
   <entry>
     <title>Compromised GitHub accounts push CI secret stealer to tens of thousands of repositories</title>
     <id>https://www.aikido.dev/blog/compromised-github-accounts-push-ci-secret-stealer-to-tens-of-thousands-of-repositories</id>
@@ -669,141 +805,5 @@
     <updated>2026-11-11T08:25:22+09:00</updated>
     <category term="はてブ IT" />
     <summary>I’ve been using ed25519-sk keys with YubiKeys since practically the moment they were available. But because of some specific use-cases (and because, frankly, YubiKeys are expensive) I’ve had a few tra…</summary>
-  </entry>
-  <entry>
-    <title>(令和8年11月11日)アマゾンジャパン合同会社から申請があった確約計画の認定について | 公正取引委員会</title>
-    <id>https://www.jftc.go.jp/houdou/pressrelease/2026/nov/261111_daigo.amazon.html</id>
-    <link href="https://www.jftc.go.jp/houdou/pressrelease/2026/nov/261111_daigo.amazon.html" />
-    <updated>2026-11-11T18:56:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>２ アマゾンストアの商品詳細ページにおける出品情報の掲載の仕組み等⑴ アマゾンジャパンは、「Amazon.co.jp」と称するオンラインショッピングストア（注３）（以下「アマゾンストア」という。）を運営している。アマゾンジャパンは、アマゾンストアで商品又は役務（以下、単に「商品」という。）の出品を希望する者と...</summary>
-  </entry>
-  <entry>
-    <title>ソフトバンクが「Apple One」提供--2年間、月122円相当のPayPayポイント還元</title>
-    <id>https://japan.cnet.com/article/35254715/</id>
-    <link href="https://japan.cnet.com/article/35254715/" />
-    <updated>2026-11-11T16:36:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ソフトバンクは11月11日、アップルの4つのサービスをまとめて利用できる「Apple One」の個人プランを、ソフトバンク、ワイモバイル、LINEMOの契約者向けに11月18日から提供すると発表した。同社経由で初めて申し込むと、月額料金（税抜き）の10％にあたる122円相当のPayPayポイントが、2年間にわたり毎月付与される。 Ap...</summary>
-  </entry>
-  <entry>
-    <title>Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場</title>
-    <id>https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/</id>
-    <link href="https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/" />
-    <updated>2026-11-11T17:58:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。 Open your apps in Claude and work in them together | C…</summary>
-  </entry>
-  <entry>
-    <title>メール配信のユミルリンク、不正アクセスで約4786万件漏えい JR東海やアイスタイルに影響</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/11/2000003114/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/11/2000003114/" />
-    <updated>2026-11-11T17:42:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>メール配信サービスを手掛けるユミルリンク（東京都渋谷区）は11月11日、10月19日に公表した不正アクセスについて、メールアドレスなど延べ4786万4147件の個人情報が外部に流出したと発表した。10月26日時点では最大約5162万件が流出した可能性があるとしていたが、その後の調査で件数を精査した。同社のメールサービス...</summary>
-  </entry>
-  <entry>
-    <title>「AIとのチャット記録」が漏えいか、Notion 委託先に不正アクセス</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/" />
-    <updated>2026-11-11T16:05:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>クラウド型ワークスペース「Notion」を運営する米Notion Labsは11月9日（現地時間）、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。委託先の米Fireworks.aiへの不正アクセスに起因するもの。影響範囲は全ワークスペースの1％未満としている。 Notion AIの利用状況を分析する...</summary>
-  </entry>
-  <entry>
-    <title>SREのためのFinOps入門</title>
-    <id>https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres</id>
-    <link href="https://speakerdeck.com/muziyoshiz/introduction-to-finops-for-sres" />
-    <updated>2026-11-11T19:50:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月11日に開催された Tamachi.sre#7 の発表資料です。 Tamachi.sre#7 - connpass https://tamachi-sre.connpass.com/event/408227/ スライド内で紹介した過去の発表資料： SREとソフトウェア…</summary>
-  </entry>
-  <entry>
-    <title>無料プラン廃止とストレージ制限の衝撃！ 「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか</title>
-    <id>https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/11/news066.html" />
-    <updated>2026-11-11T15:04:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>無料プラン廃止とストレージ制限の衝撃！ 「Microsoft 365 Education」新プランに見る――“アメとムチ”の戦略でGoogleの牙城は崩せるか：Windowsフロントライン（1/2 ページ） Microsoftは11月5日（米国時間）、教育機関向けに提供している「Microsoft 365 Education」のプラン改定を発表した。同社は近年、クラウド型生...</summary>
-  </entry>
-  <entry>
-    <title>アマゾン、サイトの仕組み変更へ 出品値下げ強要疑いで公取委が調査（朝日新聞） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf</id>
-    <link href="https://news.yahoo.co.jp/articles/ead6f0a23b6d38419aad9a962b9e5afaab7db1cf" />
-    <updated>2026-11-11T17:48:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アマゾン（朝日新聞） 公正取引委員会が11日、ネット通販大手アマゾンの日本法人「アマゾンジャパン」（東京都）から出された、通販サイトの改善計画を認定したと発表した。 【深掘り】アマゾン通販サイトこう変わる サイトの出品者に値下げを強要していた疑いがあるとして、公取委が独占禁止法違反（不公正な取引方法...</summary>
-  </entry>
-  <entry>
-    <title>新着情報詳細｜靖國神社</title>
-    <id>https://www.yasukuni.or.jp/news_detail.html?id=734</id>
-    <link href="https://www.yasukuni.or.jp/news_detail.html?id=734" />
-    <updated>2026-11-11T19:27:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>令和8年11月11日 靖國神社オンライン授与品・頒布品サイトへの不正アクセスによる個人情報漏洩のお詫びとお知らせ 令和8年11月11日 靖國神社社務所 令和8年10月28日、当神社が運営するオンライン授与品・頒布品サイトが外部から不正アクセスを受けたことが判明し、同日中に同サイトの公開を停止いたしました。その後の調...</summary>
-  </entry>
-  <entry>
-    <title>靖国神社に不正アクセス 約1万4500件の個人情報漏えい、パスワードが特定されるおそれも</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/11/2000003119/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/11/2000003119/" />
-    <updated>2026-11-11T19:16:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>靖国神社（東京都千代田区）は11月11日、同神社が運営する通販サイト「オンライン授与品・頒布品サイト」への不正アクセスにより、約1万4500件の個人情報が漏えいしたと発表した。同サイトは現在公開を停止しており、再開時期は未定という。 漏えいしたのは、同サイトの会員が登録した氏名、メールアドレス、ハッシュ化...</summary>
-  </entry>
-  <entry>
-    <title>Claude内で表計算アプリをそのまま実行できる「Claude Sheets」が登場、「Claude Whiteboards」と「Claude Data」も</title>
-    <id>https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/</id>
-    <link href="https://gigazine.net/news/20261111-claude-sheets-whiteboards-data/" />
-    <updated>2026-11-11T12:56:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Anthropicが、AIの「Claude」が取り扱うことができるツール群を発表しました。外部のツールではできなかった細かい作業を行えるようになります。 Claude Whiteboards, Claude Sheets, and Claude Data | Claude by Anthropic https://claude.com/ja/resources/articles/sheets-wh…</summary>
-  </entry>
-  <entry>
-    <title>AIに書かせた、が全然AIが書いてない件</title>
-    <id>https://zenn.dev/appleworld/articles/65aed6c725af71</id>
-    <link href="https://zenn.dev/appleworld/articles/65aed6c725af71" />
-    <updated>2026-11-11T11:11:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。 私もAIに記事を書かせたい。ここに書くのは、自分の文体で書かせようとした休日一日の記録で、中身はほぼ愚痴である。 自分で書けるのに任せるのは、積み上がると踏んだからだ。文体の指示書は、直すたびに次の初稿が良くなる。それが本当なら、いまの手間は払う価値がある。この賭けの記録でもある。 1. 何を作っていたか 技術記…</summary>
-  </entry>
-  <entry>
-    <title>政府、高性能AI暴走に罰則検討 悪質事業者に対抗手段へ法改正</title>
-    <id>https://www.47news.jp/15215887.html</id>
-    <link href="https://www.47news.jp/15215887.html" />
-    <updated>2026-11-11T19:56:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対...</summary>
-  </entry>
-  <entry>
-    <title>政府、高性能AI暴走に罰則検討 悪質事業者に対抗手段へ法改正 | NEWSjp</title>
-    <id>https://news.jp/i/1493175213544620448</id>
-    <link href="https://news.jp/i/1493175213544620448" />
-    <updated>2026-11-11T18:22:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対...</summary>
-  </entry>
-  <entry>
-    <title>【速報】政府、AI開発事業者に罰則検討</title>
-    <id>https://www.47news.jp/15215659.html</id>
-    <link href="https://www.47news.jp/15215659.html" />
-    <updated>2026-11-11T18:55:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>政府が、高性能人工知能（AI）が引き起こすリスクに対処するため、サービス開発事業者への罰則を新設する方向で検討していることが11日、分かった。</summary>
-  </entry>
-  <entry>
-    <title>最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。→「これ、どこまで本当だろうか 情報系など一部の学部に限った話？ それとも水産学や経営学、日本文学、体育学など全般？」</title>
-    <id>https://posfie.com/@kalofollow/p/kDMLpbM</id>
-    <link href="https://posfie.com/@kalofollow/p/kDMLpbM" />
-    <updated>2026-11-11T13:26:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>asu_ para @atsush1_sada 最近、大学生と話して大変だなと思ったのが、AIに月に２万円くらい（Maxプラン相当）は課金していないと、周りに差がつけられる/おいていかれる+生活費も上がっている、のでさらに関係ないものも含めてバイトを増やさなければならないという事情。 圧倒的な格差の拡大が見えないところにある。 ...</summary>
-  </entry>
-  <entry>
-    <title>1600万画素の画像を生成できる画像生成AI「MiniMax-H3-Image」が登場、ローカルで実行可能で画像編集や複数画像参照にも対応</title>
-    <id>https://gigazine.net/news/20261111-minimax-h3-image/</id>
-    <link href="https://gigazine.net/news/20261111-minimax-h3-image/" />
-    <updated>2026-11-11T11:11:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>中国企業のMiniMaxが画像生成AI「MiniMax-H3-Image」を公開しました。1600万ピクセルの画像を実用的な速度で生成できることを強みとしています。 MiniMaxAI/MiniMax-H3-Image · Hugging Face https://huggingface.co/MiniMaxAI/MiniMax-H3-Image 4K image generation in 10…</summary>
   </entry>
 </feed>
