@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T22:30:14.593085+09:00</updated>
+  <updated>2026-11-12T23:00:16.967936+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>GitHub Actions を狙った広域サプライチェーン攻撃（11/10~11/12）に関する注意喚起 - GMO Flatt Security Blog</title>
+    <id>https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack</id>
+    <link href="https://blog.flatt.tech/entry/github_actions_widespread_supply_chain_attack" />
+    <updated>2026-11-12T22:19:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月10日から12日にかけて、GitHub 上の多数のリポジトリに対して悪性コミットにより GitHub Actions のワークフローに悪性コードが注入される事例が発生しています。 挿入されたコードは、ワークフローや npm フックが実行されると、CI環境内のシークレットを収集し、C2サーバーへのHTTP通信または Telegram Bot ...</summary>
+  </entry>
+  <entry>
+    <title>当社開発環境における情報漏えいのおそれに関するお知らせとお詫び（第一報） | 株式会社サイバーセキュリティクラウド</title>
+    <id>https://www.cscloud.co.jp/news/info/20261112-2/</id>
+    <link href="https://www.cscloud.co.jp/news/info/20261112-2/" />
+    <updated>2026-11-12T13:28:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>公開日：2026年11月12日 株式会社サイバーセキュリティクラウド 平素は格別のご高配を賜り、厚く御礼申し上げます。 このたび、当社がソフトウェア開発に利用している「GitHub」※上の当社管理領域への不審なアクセスを確認し、当該領域に保存されていた個人情報について漏えいのおそれがあることが判明したため、お知ら...</summary>
+  </entry>
   <entry>
     <title>Rails: DHHがRails World 2026キーノートで「語らなかった」部分とは（翻訳）｜TechRacho by BPS株式会社</title>
     <id>https://techracho.bpsinc.jp/hachi8833/2026_11_12/161307</id>
@@ -538,9 +554,9 @@
     <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
     <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
     <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
-    <updated>2026-11-12T09:44:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラウドエージェ…</summary>
+    <updated>2026-11-12T10:43:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
   </entry>
   <entry>
     <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-11T14:45:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>Googleは2012年にICANN（Internet Corporation for Assigned Names and Numbers）にこれらのトップレベルドメインの申請を済ませていたが、このほど米国時間11月10日に一般向けの登録受付を開始した。 企業にとっては、自社のドメイン名を第三者に先取りされる「サイバースクワッティング」の懸念が常につきまとう。新た...</summary>
-  </entry>
-  <entry>
-    <title>software-factory-mode-2026aki skill - 橋本商会</title>
-    <id>https://scrapbox.io/shokai/software-factory-mode-2026aki_skill</id>
-    <link href="https://scrapbox.io/shokai/software-factory-mode-2026aki_skill" />
-    <updated>2026-11-12T01:34:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>software-factory-mode pluginの中の、現在の基本skill 移動式Software Factory (2026秋)として、GyazoやHelpfeelの開発環境にshokaiの考えるSoftware Factory 2026秋相当の作業フローを持ち込みたいを実装したもの ほぼ正気を疑う技術 - bugのないvibe codingを目指してで説明してる流れなのだが、内容を知…</summary>
-  </entry>
-  <entry>
-    <title>PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた</title>
-    <id>https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T00:47:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年11月、Google Cloudのブログで、CodeMenderをGitHubのプルリクエスト（PR）に組み込む構成が紹介されました。CodeMenderは、コードの脆弱性を見つけて直してくれるGoogleのAIエージェントです。 タイトルだけ見たとき...</summary>
   </entry>
 </feed>
