@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-12T14:30:18.772661+09:00</updated>
+  <updated>2026-11-12T15:00:14.947406+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Google初の紛失防止タグ「Pixel Tag」実機レビュー！ Galaxy SmartTag2との比較で見えた薄さの魅力と検知の実力</title>
+    <id>https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html" />
+    <updated>2026-11-12T12:02:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>紛失防止タグは各社から発売されているが、Googleブランドの製品は「Google Pixel Tag」が初めてとなる。Android端末で構成する「Find Hub」ネットワークに対応し、離れた場所にあるタグの位置を地図で確認できる。タグが近くにあるときは、UWB（超広帯域無線）などを使って距離と方向を表示することも可能だ。 実機を試...</summary>
+  </entry>
+  <entry>
+    <title>Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/" />
+    <updated>2026-11-12T08:24:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Googleは11月11日（現地時間）、ツールの選択やモデルの振り分け、ポリシー違反のチェックなど、あらかじめ用意した選択肢から答えを選ぶ用途に特化したAPI「Gemini Decisions API」を発表した。専用モデル「Gemini Decision 1」を使い、Google AI StudioのGemini APIを通じて利用できる。</summary>
+  </entry>
+  <entry>
+    <title>Amazon Bedrock AgentCore Gatewayで、vLLMのQwenとAmazon Bedrockを使い分けてみた</title>
+    <id>https://zenn.dev/fusic/articles/4dc357178cbc1e</id>
+    <link href="https://zenn.dev/fusic/articles/4dc357178cbc1e" />
+    <updated>2026-11-12T07:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Fusicのレオナです。 社内ではOpenCodeから量子化されたQwen3.6を使っています。モデルはRunPodのGPUを借りてvLLMで動かしており、GPUを借りるのは平日の日中だけです。GPUがない時間帯は、Amazon Bedrockで使えるモデル群を代わりに答えさせたいと考えました。 そこで、Amazon Bedrock AgentCore Gateway(以下、AgentC…</summary>
+  </entry>
+  <entry>
+    <title>React Nativeのローカル開発をAIに任せやすくするStimを試してみた</title>
+    <id>https://zenn.dev/mybest_dev/articles/6b5d8597681def</id>
+    <link href="https://zenn.dev/mybest_dev/articles/6b5d8597681def" />
+    <updated>2026-11-11T17:05:34+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！ マイベストでプロダクトエンジニアをしているIchikiです！ 普段はReact Nativeでモバイルアプリを中心に開発しています。 最近だとGit worktreeで複数のAIエージェントに並行して実装を頼むことが増えたのですが、ここ最近以下のような悩みが増えてきていました。 別の作業で使っているMetro (Server)とポートがぶつかる 起動中のSimulatorが、どのwo…</summary>
+  </entry>
   <entry>
     <title>Google、判断に特化した高速・低コストモデル「Gemini Decision 1」を発表／出力トークンは課金なし</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2155703.html</id>
@@ -90,9 +122,9 @@
     <title>Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤</title>
     <id>https://zenn.dev/ubie_dev/articles/45501469c9c044</id>
     <link href="https://zenn.dev/ubie_dev/articles/45501469c9c044" />
-    <updated>2026-11-12T10:43:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラ...</summary>
+    <updated>2026-11-12T09:44:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Ubie CTO の @yukukotani です。 Ubie では 2023 年、GPT-3.5 Turbo が出た頃から、Web UI や Slack を起点に動くクラウドエージェント基盤を内製してきました（当時の様子）。 2025 年には、Software Factory を目指して、クラウド型エンジニアリングエージェント Uvin の開発も始めました（当時の様子）。一貫してクラウドエージェ…</summary>
   </entry>
   <entry>
     <title>声帯や肺をシミュレートして声を合成する「CHIMERA Vocal Synth」公開 ―Rust製、ブラウザから操作する音声シンセサイザー | gihyo.jp</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-11T16:02:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>内閣府（読売新聞） 内閣府は１１日、配信しているメールマガジン利用者のメールアドレス６万２８６３件が流出したと発表した。企業向けメール配信サービスなどを手がけるアララが不正アクセスを受けた影響という。メールマガジンの登録時に入力された氏名や年齢などの個人情報も漏えいした可能性があり、調査を続けて...</summary>
-  </entry>
-  <entry>
-    <title>訂正：Google版AirTag『Pixel Tag』発売、10億台のAndroid端末で探す紛失防止トラッカー UWBと新技術『Bluetooth CS』採用 | テクノエッジ TechnoEdge</title>
-    <id>https://www.techno-edge.net/article/2026/11/11/5701.html</id>
-    <link href="https://www.techno-edge.net/article/2026/11/11/5701.html" />
-    <updated>2026-11-11T12:49:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleが忘れ物防止・発見トラッカー Pixel Tagを国内で発売しました。11月12日から、表参道のGoogle Store店頭およびオンラインで購入できます。 訂正：当初、「11月11日からは表参道のGoogle Storeで」購入可能としていましたが、Googleの訂正によると、正しくは店頭・オンラインともに12日からでした。お詫びして訂正...</summary>
-  </entry>
-  <entry>
-    <title>Linuxカーネル開発でAIによるバグ修正が効果。トーバルズ氏「潮目が変わり始めている兆候」 | テクノエッジ TechnoEdge</title>
-    <id>https://www.techno-edge.net/article/2026/11/11/5697.html</id>
-    <link href="https://www.techno-edge.net/article/2026/11/11/5697.html" />
-    <updated>2026-11-11T12:41:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Linuxカーネルの開発現場では、AIを活用したコード修正が成果を上げ始めているようです。Linuxの生みの親であるリーナス・トーバルズ氏は、Linux 7.4-rc2のリリースを告知する開発者向けメーリングリストへの投稿で、今回の変更の多くがAIによる修正に関係していると説明しました。 さらに、BPF（Berkeley Packet Filter...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！Python で学ぶ マクロ経済学 入門 44</title>
-    <id>https://qiita.com/maskot1977/items/bda81b085f271a117a16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/bda81b085f271a117a16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-11T11:51:25+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 本動画のタイトルは 「教育を削る国は数学的に自滅する : Pythonで学ぶマクロ経済学入門 Podcast 44」 です。 動画の概要 この動画は、Qiitaの解説...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！ システム設計 視点の 行動経済学 3</title>
-    <id>https://qiita.com/maskot1977/items/09d92705ae323e88fca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/09d92705ae323e88fca8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-11T11:29:49+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご提示いただいたソース動画のタイトルおよびその詳細な内容について解説します。 ソース動画のタイトル 動画タイトル: 「財源幻想を捨て供給能力を守るシステム設計 :...</summary>
   </entry>
 </feed>
