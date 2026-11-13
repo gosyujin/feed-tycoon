@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T21:00:13.306237+09:00</updated>
+  <updated>2026-11-13T21:30:15.809005+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明</title>
+    <id>https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/</id>
+    <link href="https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/" />
+    <updated>2026-11-13T16:26:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が467社・9140人を対象に集めた情報を分析した結果わかったもので、自己申告制の調査よりも...</summary>
+  </entry>
+  <entry>
+    <title>aws-emulatorにTerraformでリソースを作成できるか試してみる | フューチャー技術ブログ</title>
+    <id>https://future-architect.github.io/articles/20261113a/</id>
+    <link href="https://future-architect.github.io/articles/20261113a/" />
+    <updated>2026-11-13T15:21:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>（https://aws.amazon.com/jp/products/developer-tools/emulator/ より引用） こんにちは。TIGの伊藤です。2026/11/11、AWSからaws-emulatorというツールが発表されました。 https://aws.amazon.com/jp/products/developer-tools/emulator/ これまで、私はLocal…</summary>
+  </entry>
+  <entry>
+    <title>400gを切るモバイルモニター（タッチ対応）と Samsung DeX との相性が良い - えいのうにっき</title>
+    <id>https://blog.a-know.me/entry/2026/11/12/225133</id>
+    <link href="https://blog.a-know.me/entry/2026/11/12/225133" />
+    <updated>2026-11-13T09:32:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>主にコンテンツを消費することを目的として、ずっと12.9インチの iPad Pro（2018, 第3世代）を愛用していたのですが、いつの間にやら子供に奪われてしまっておりまして。 「それなら仕方がない、もう一台買うか」.....とは、昨今の物価高のなかでは簡単に決断できず。さてどうしたものかと考えあぐねていると、Amazon で...</summary>
+  </entry>
   <entry>
     <title>良品計画への不正アクセスについてまとめてみた - piyolog</title>
     <id>https://piyolog.hatenadiary.jp/entry/2026/11/13/162738</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-12T16:56:50+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 今回、私は株式会社GENEROSITY様のもとでインターンシップを行わせていただき、その間に今回のハンドトラッキングで盆栽を手入れするアプリの企画立てから開発を行いました。その過程を記していきます。 概要 今回私が開発したのは「MR盆栽」 これは現実空間上にバ...</summary>
-  </entry>
-  <entry>
-    <title>新Genieの発表を受けて、Genieファミリーの変遷と構成、今後の方向性を整理する</title>
-    <id>https://qiita.com/taka_yayoi/items/49129c0d657364f3bd04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/taka_yayoi/items/49129c0d657364f3bd04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T11:40:54+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年11月11日、Databricksが第2世代のGenieを発表しました。Genieは、質問に答えるアシスタントから、仕事を引き受けて裏で動き続ける常時稼働の自律エージェントに変わります。 Databricks Launches New Always-...</summary>
-  </entry>
-  <entry>
-    <title>【Production Ready RAG】PDF・Office・テキストなど17形式で、原文の引用箇所をハイライトしてみた</title>
-    <id>https://qiita.com/engchina/items/68febc83ffd16eb56f08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/engchina/items/68febc83ffd16eb56f08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T11:36:09+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>初めに RAGの回答に文書名が付いていると、少し安心します。 ただ、実際に確認しようとすると、次のところで手が止まります。 PDFの何ページの、どの段落なのか。 Excelのどのsheet、どの行なのか。 Wordを変換した場合、元のどの段落に対応するのか。 TXTやM...</summary>
-  </entry>
-  <entry>
-    <title>10年以上前に自作したシリアル通信の試験ツールを、AIにWPFへ置き換えてもらった ― ついでに内部のバグも直してもらった</title>
-    <id>https://qiita.com/okakousuke1124/items/ae982344111c31542d21?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/okakousuke1124/items/ae982344111c31542d21?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T07:33:25+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ハードウェアのシリアル通信を試験するとき、汎用の端末ソフトでは手数が多い、と感じていました。同じ命令を残しておいて、送り直すことができない。秒数を指定して、同じ命令を送り続けることもできない。相手は独自のハードウェアだったので、その試験に合った機能が欲しくなりました。 そこ...</summary>
   </entry>
 </feed>
