@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T12:30:13.275168+09:00</updated>
+  <updated>2026-11-13T13:00:13.792778+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>緊急情報の音声放送システムにランサムウェア攻撃 滋賀県甲賀市、屋外拡声器など使えず</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/13/2000003167/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/13/2000003167/" />
+    <updated>2026-11-13T10:26:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>滋賀県甲賀（こうか）市は11月12日、音声放送システムのサーバがランサムウェア攻撃を受け、屋外拡声器と音声放送端末機が使えなくなっていると発表した。各機器を使った緊急情報も停止しており、緊急情報は市の公式LINEやテレビ、ラジオなどで伝える。 音声放送端末機設置者の氏名・事業所名が漏えいした可能性もあると...</summary>
+  </entry>
+  <entry>
+    <title>GitHub - hirosassa/wasm2rs: Transpile WebAssembly binaries into standalone native Rust source code.</title>
+    <id>https://github.com/hirosassa/wasm2rs</id>
+    <link href="https://github.com/hirosassa/wasm2rs" />
+    <updated>2026-11-12T19:31:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>wasm2rs transpiles a WebAssembly binary into standalone, native Rust source code. Instead of embedding a WebAssembly runtime and JIT-compiling a .wasm module at startup, wasm2rs turns the module into…</summary>
+  </entry>
   <entry>
     <title>Google、高速で低価格の「Gemini 4 Hydrogen」発表 無料ユーザーも利用可能</title>
     <id>https://www.itmedia.co.jp/news/article/2611/13/2000003162/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-12T10:21:31+09:00</updated>
     <category term="はてブ IT" />
     <summary>NTTドコモは11月11日、同日午前10時34分から全国で発生していた「5G SA（Standalone）」サービス契約者の携帯電話サービスが利用しづらい状況について、約9時間後の午後7時17分に完全復旧したと発表した。 原因は5G SAの契約者を収容する交換機の輻輳で、5日に発生した障害と同じ。不正アクセスの形跡やサイバー攻撃を示...</summary>
-  </entry>
-  <entry>
-    <title>Google初の紛失防止タグ「Pixel Tag」実機レビュー！ Galaxy SmartTag2との比較で見えた薄さの魅力と検知の実力</title>
-    <id>https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html</id>
-    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/12/news033.html" />
-    <updated>2026-11-12T12:02:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>紛失防止タグは各社から発売されているが、Googleブランドの製品は「Google Pixel Tag」が初めてとなる。Android端末で構成する「Find Hub」ネットワークに対応し、離れた場所にあるタグの位置を地図で確認できる。タグが近くにあるときは、UWB（超広帯域無線）などを使って距離と方向を表示することも可能だ。 実機を試...</summary>
-  </entry>
-  <entry>
-    <title>Google、選択肢から答えを選ぶことに特化した「Gemini Decisions API」発表 回答を生成せず確率で返す</title>
-    <id>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/</id>
-    <link href="https://www.itmedia.co.jp/aiplus/article/2611/12/2000003123/" />
-    <updated>2026-11-12T08:24:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Googleは11月11日（現地時間）、ツールの選択やモデルの振り分け、ポリシー違反のチェックなど、あらかじめ用意した選択肢から答えを選ぶ用途に特化したAPI「Gemini Decisions API」を発表した。専用モデル「Gemini Decision 1」を使い、Google AI StudioのGemini APIを通じて利用できる。</summary>
   </entry>
 </feed>
