@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T20:00:14.100847+09:00</updated>
+  <updated>2026-11-13T20:30:12.722172+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>お客様からメールもCopilotも使えないと問い合わせが来て「Microsoft 365が障害発生してまして」と伝えたら「そんなのCopilotに聞いたらすぐ復旧するでしょ」と言われた</title>
+    <id>https://togetter.com/li/2769964</id>
+    <link href="https://togetter.com/li/2769964" />
+    <updated>2026-11-13T17:56:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Shadowhat @shadowhat お客様からメールが送れないしCopilotも使えないと問い合わせが来たので、 「M365が障害発生してまして」 と伝えたら、 「そんなのCopilotに聞いたらすぐ復旧するでしょ。すぐに聞いて早く対処してください」 といわれてしまった。 M365やCopilotがどう動いているかの根本が理解されてない模様... ...</summary>
+  </entry>
+  <entry>
+    <title>【解説】 AIの先駆者、誤った判断で破滅……エヌビディアのフアンCEO辞任 - BBCニュース</title>
+    <id>https://www.bbc.com/japanese/articles/cjy5xype60l0o</id>
+    <link href="https://www.bbc.com/japanese/articles/cjy5xype60l0o" />
+    <updated>2026-11-13T17:29:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>もし私が先週の今頃、米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）が辞任の見通しだと言っても、信じてもらえなかっただろう。 この大成功を収めたAIチップ（半導体）企業の共同創業者の一人であり、会社をゼロから築き上げるためにたゆまぬ努力を重ね、いくつかの危機的状況を乗り越え、無尽蔵...</summary>
+  </entry>
+  <entry>
+    <title>絶対に「お金の管理」だけはAIに任せてはならない理由</title>
+    <id>https://japan.cnet.com/article/35254833/</id>
+    <link href="https://japan.cnet.com/article/35254833/" />
+    <updated>2026-11-13T15:34:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Metaの「Muse」や「OpenClaw」、OpenAIの「dots」といったエージェントが、AI分野で大きな話題になっている。これらは、情報を提供するチャットボット以上のことができるとうたっている。依頼に応じて実際に行動できるツールなのだ。 AIエージェントの利用を始める際には、アプリやブラウザー、データを使って作業できる...</summary>
+  </entry>
+  <entry>
+    <title>Microsoft 365で世界規模の大規模障害が発生し復旧したサーバーも再び停止する事態に、OutlookやTeamsなど幅広いサービスに影響</title>
+    <id>https://gigazine.net/news/20261113-microsoft-365-down/</id>
+    <link href="https://gigazine.net/news/20261113-microsoft-365-down/" />
+    <updated>2026-11-13T13:00:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Microsoftのクラウドサービス「Microsoft 365」で2026年11月13日に世界規模の大規模障害が発生し、メールサービスの「Outlook」やチャット・会議ツールの「Microsoft Teams」、AIアシスタントの「Microsoft 365 Copilot」などが利用しにくい状態となっています。Microsoftは復旧作業を進めていますが、一度復旧したサー...</summary>
+  </entry>
   <entry>
     <title>Microsoft 365の障害で上司が事業部の部長から「こうなる事を予想して事前に対処しておくのがシステム部だろうが！」と言われ、反抗して早退…連絡の受け手は必然的に私に</title>
     <id>https://togetter.com/li/2770045</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-12T12:55:02+09:00</updated>
     <category term="はてブ IT" />
     <summary>FIDO2対応のUSBセキュリティキー「SecuX」がエアリアから、物理的複製不可技術も採用</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAジェンスン・フアン氏がCEO辞任</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2156075.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2156075.html" />
-    <updated>2026-11-12T23:44:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIAジェンスン・フアン氏がCEO辞任</summary>
-  </entry>
-  <entry>
-    <title>AWSが「人間がコードを一行も書いていない」エミュレータを公開——AIエージェントだけで構築し、1日数千件を自律修正するパイプラインの全貌</title>
-    <id>https://ai.freelance-job.com/article/6af4dfd749a7d098b46764d2</id>
-    <link href="https://ai.freelance-job.com/article/6af4dfd749a7d098b46764d2" />
-    <updated>2026-11-12T21:11:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>11月11日、About Amazonが「How we built the agents that built AWS Emulator」と題した記事を公開した。AWSサービスのローカルエミュレータ「AWS Emulator」を、人間のコードレビューを一切介在させず自律型AIエージェントだけで構築した取り組みを詳細に紹介したものだ。 AIがコードを「補助する」段階はすでに過去に...</summary>
-  </entry>
-  <entry>
-    <title>iPhone DuoでWindows 11が動いた！Google AI Studio責任者がGemini 4 Carbonで開発、折ればノートPC風に - すまほん!!</title>
-    <id>https://smhn.info/202611-windowsios-windows-11-iphone-duo-gemini-4-carbon</id>
-    <link href="https://smhn.info/202611-windowsios-windows-11-iphone-duo-gemini-4-carbon" />
-    <updated>2026-11-12T22:23:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>画像出典：Ammaar Reshi氏のX投稿 GoogleのAI開発ツール「Google AI Studio」でプロダクトとデザインの責任者を務めるAmmaar Reshi氏は11月11日（米国時間）、Appleの折りたたみスマホ「iPhone Duo」でWindows 11を動かしたとXに投稿しました。 Googleの最新AIモデル「Gemini 4 Carbon」を活用して実現したとのこと。…</summary>
-  </entry>
-  <entry>
-    <title>ECSに環境変数経由で渡したSecrets Manager管理のDB パスワードを、接続エラーなしでローテーションできるかやってみた | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/myan-ecs-secrets-rotation-20261110/</id>
-    <link href="https://dev.classmethod.jp/articles/myan-ecs-secrets-rotation-20261110/" />
-    <updated>2026-11-11T21:35:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ECSに環境変数経由で渡したSecrets Manager管理のDB パスワードを、接続エラーなしでローテーションできるかやってみた | DevelopersIO</summary>
   </entry>
 </feed>
