@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T14:00:15.781117+09:00</updated>
+  <updated>2026-11-13T14:30:22.130160+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>見えてきたJR東日本「UWBウォークスルー改札」 1分間で60人通過の技術【鈴木淳也のPay Attention】</title>
+    <id>https://www.watch.impress.co.jp/docs/series/suzukij/2156076.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/series/suzukij/2156076.html" />
+    <updated>2026-11-13T09:33:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>見えてきたJR東日本「UWBウォークスルー改札」 1分間で60人通過の技術【鈴木淳也のPay Attention】</summary>
+  </entry>
+  <entry>
+    <title>AI搭載の家庭用3Dプリンター「MakeBuddy Smart5」 高品質な3Dプリントと家族で楽しむ創作・学びの体験を提供</title>
+    <id>https://ai.watch.impress.co.jp/docs/news/2156013.html</id>
+    <link href="https://ai.watch.impress.co.jp/docs/news/2156013.html" />
+    <updated>2026-11-12T22:38:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI搭載の家庭用3Dプリンター「MakeBuddy Smart5」 高品質な3Dプリントと家族で楽しむ創作・学びの体験を提供</summary>
+  </entry>
   <entry>
     <title>2026年11月に発生したMicrosoft 365の接続障害についてまとめてみた - piyolog</title>
     <id>https://piyolog.hatenadiary.jp/entry/2026/11/13/114230</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-12T08:51:32+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Vitest, RTLを使っている 問題 そのテストケースのトップでモック差しかえ→renderしてケースごとの差し替えはうまくいっていたので、このように書いたがうまくいかない test("学習記録が削除できる", async () =&gt; { re...</summary>
-  </entry>
-  <entry>
-    <title>【AWS】AWS EmulatorでCDK/Terraformのスタックはどこまで動くか【AWSEmulator】</title>
-    <id>https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Nana_777/items/3f3c71525d867b22c9f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T08:39:20+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年11月11日、AWSからAWS Emulatorが公式にリリースされました。AWS SDKやAWS CLIの呼び出しを、AWSアカウントなしで、ローカルやCI上のエミュレーターに向けられるツールです。公式は、実装されているAPIには有効な呼び出しにAW...</summary>
-  </entry>
-  <entry>
-    <title>シングル AZ 構成の本番環境 EC2 を夜間土日に停止する運用のリスクについて考える</title>
-    <id>https://qiita.com/takeda_h/items/38d3f358b4e7f09efcd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takeda_h/items/38d3f358b4e7f09efcd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T01:46:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>自治体では昨今ガバメントクラウドのコスト削減が課題になっています。 コスト削減のため、本番環境であっても「シングル AZ 構成にしたい」「夜間や土日は EC2 インスタンスを停止したい」といった相談を見かけることがあります。 シングル AZ 構成や夜間土日の停止運用は、本番...</summary>
   </entry>
 </feed>
