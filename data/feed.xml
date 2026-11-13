@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T16:00:14.902961+09:00</updated>
+  <updated>2026-11-13T16:30:15.173363+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮</title>
+    <id>https://gigazine.net/news/20261113-gemini-4-hydrogen/</id>
+    <link href="https://gigazine.net/news/20261113-gemini-4-hydrogen/" />
+    <updated>2026-11-13T12:22:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 Introducing Gemini 4 ...</summary>
+  </entry>
+  <entry>
+    <title>無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場</title>
+    <id>https://gigazine.net/news/20261113-aws-emulator/</id>
+    <link href="https://gigazine.net/news/20261113-aws-emulator/" />
+    <updated>2026-11-13T07:36:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジ...</summary>
+  </entry>
   <entry>
     <title>Microsoft 365の接続障害が長期化 OutlookやCopilotなどに影響</title>
     <id>https://www.watch.impress.co.jp/docs/news/2156244.html</id>
@@ -295,7 +311,7 @@
     <summary>【読売新聞】 【ニューヨーク＝木瀬武】米マイクロソフトのメールサービス「アウトルック」などで１２日、大規模なシステム障害が発生した。北米を中心にメールの送受信などに支障が生じ、同社は世界各地の利用者にも影響が及ぶ可能性があると発表し</summary>
   </entry>
   <entry>
-    <title>アウトルックでメール送れず 「マイクロソフト365」で大規模障害：朝日新聞</title>
+    <title>マイクロソフト障害「サイバー攻撃確認されず」 政府の反応と影響は：朝日新聞</title>
     <id>https://www.asahi.com/articles/ASVCD6X84VCDUHBI001M.html</id>
     <link href="https://www.asahi.com/articles/ASVCD6X84VCDUHBI001M.html" />
     <updated>2026-11-13T07:20:37+09:00</updated>
@@ -383,12 +399,12 @@
     <summary>アメリカのIT大手「マイクロソフト」は、「マイクロソフト365」と呼ばれるメールなどさまざまなソフトを使えるサービスで、世界各地に影響するおそれのある接続障害が発生していると発表しました。 マイク…</summary>
   </entry>
   <entry>
-    <title>マイクロソフト、「365」世界で大規模障害 メール送れずビジネスに影響 - 日本経済新聞</title>
+    <title>マイクロソフト365大規模障害、「サイバー攻撃を示唆する事実ない」 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/</id>
     <link href="https://www.nikkei.com/article/DGXZQOGN12CY20S6A111C2000000/" />
     <updated>2026-11-13T05:58:39+09:00</updated>
     <category term="はてブ IT" />
-    <summary>【シリコンバレー=山田遼太郎】米マイクロソフトの業務ソフト「マイクロソフト365」で日本時間13日未明から大規模な障害が起きた。世界各地で電子メールソフトに接続できない不具合が生じ、ビジネスに支障が出ている。日本も対象とみられる。マイクロソフトは日本時間13日午前3時（米西部時間12日午前10時ごろ）、X（旧...</summary>
+    <summary>【シリコンバレー=山田遼太郎】米マイクロソフトの業務ソフト「マイクロソフト365」で日本時間13日未明から大規模な障害が起きた。日本も含め、世界各地で電子メールソフトに接続できない不具合が生じ、ビジネスに支障が出ている。一部では復旧した。マイクロソフト日本法人の広報担当者は13日、「サイバー攻撃を示唆す...</summary>
   </entry>
   <entry>
     <title>お漏らししまくりの今だからこそIAPを再度推していく</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-12T07:40:28+09:00</updated>
     <category term="はてブ IT" />
     <summary>どこにお金をかける？ 2026-2027年版Wi-Fiルーター買い替えガイド “レジデンシャルプロキシ”としての悪用を防ぐ備えと、快適につながる性能</summary>
-  </entry>
-  <entry>
-    <title>無印良品「21年までクレカ番号で顧客を識別していた」 “全ケタ保有＆漏えい“巡り謝罪 削除漏れなぜ発生</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/12/2000003144/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/12/2000003144/" />
-    <updated>2026-11-12T17:34:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「無印良品」を展開する良品計画（東京都文京区）は11月12日、不正アクセスによる顧客情報の流出について記者会見を開き、清水智社長らが謝罪した。過去に取得したクレジットカード番号の全桁を削除せず保管していた問題について「データの運用管理に不備があった。私どもの落ち度」と説明した。 同社は10月30日、公式ア...</summary>
-  </entry>
-  <entry>
-    <title>AppleがローカルAI実行アプリ「Harbor」を開発中であることが判明、複数のMacを接続してメモリを共有可能</title>
-    <id>https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/</id>
-    <link href="https://gigazine.net/news/20261112-apple-claris-harbor-local-ai/" />
-    <updated>2026-11-12T13:13:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AppleがMacでAIをローカル実行するためのアプリ「Harbor」を開発中であることが判明しました。開発はApple傘下のClarisが担当しています。 Claris Harbor | Claris, an Apple company https://content.claris.com/local-ai-server-get-started Apple's Claris Testing 'H…</summary>
   </entry>
 </feed>
