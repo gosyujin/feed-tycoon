@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T21:30:15.809005+09:00</updated>
+  <updated>2026-11-13T22:00:17.376496+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>#26 Home Repo パターン</title>
+    <id>https://blog.lai.so/2026-11-13/</id>
+    <link href="https://blog.lai.so/2026-11-13/" />
+    <updated>2026-11-13T18:55:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Home Repoパターンはコーディングエージェントで開発するときのワークスペース構成のパターンで、/grill-me などで知られる Matt Pocock が提唱し、自身のサイト AI Hero で解説しました。 The Home Repo PatternOne repo for your skills, AGENTS.md and shared docs, with pointers to…</summary>
+  </entry>
+  <entry>
+    <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
+    <id>https://zenn.dev/karamage/articles/5c3f8370b2b370</id>
+    <link href="https://zenn.dev/karamage/articles/5c3f8370b2b370" />
+    <updated>2026-11-13T15:02:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い:...</summary>
+  </entry>
+  <entry>
+    <title>宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース</title>
+    <id>https://news.yahoo.co.jp/articles/27d715bca9199d6f230059857ba8a03352ea0fb3</id>
+    <link href="https://news.yahoo.co.jp/articles/27d715bca9199d6f230059857ba8a03352ea0fb3" />
+    <updated>2026-11-12T14:32:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>宝くじの発売元である全国の都道府県と指定都市は11月11日、宝くじ公式サイトで一部会員のアカウントに第三者が不正ログインし、会員情報を閲覧した可能性があると発表した。公式サイトとアプリは、パスワードが意図せず変更される事象を確認して一時停止している。対象者には個別にメールで連絡する。 （画像）宝くじの...</summary>
+  </entry>
   <entry>
     <title>AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明</title>
     <id>https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-12T20:59:01+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>こんにちは。 11/11にStable版が配信された、VSCode 1.146のリリースノートを見ていたら、Compare Modelsという面白そうな機能を見つけました。 今日はこの機能についての解説と、実際に試してみようと思います！ VS Code 1.146 リリー...</summary>
-  </entry>
-  <entry>
-    <title>Gemma 5が出るぞ！ OllamaとvLLMでの予行比較</title>
-    <id>https://qiita.com/ryosuke_ohori/items/5c560c086d8c92173ac7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryosuke_ohori/items/5c560c086d8c92173ac7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T18:13:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。今回は、次のGemmaを手元で試せるようになったとき、何をどう比べるかを考えてみます。 「請求の確認をしたいのですが、ログイン画面でエラーが出ます」。こういう問い合わせ、請求という単語に引っ張られそ...</summary>
-  </entry>
-  <entry>
-    <title>財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61)</title>
-    <id>https://qiita.com/maskot1977/items/0f8816d5e85ba791176f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/0f8816d5e85ba791176f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T17:43:00+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: 「システム設計視点の行動経済学」、第61回を始めましょう。その前に、まず前回の復習として、 システム設計視点の行動経済学 全60回 総復習 https://qiita.com/maskot1977/items/d811bfa98fd0ee273bb2 をよく読...</summary>
-  </entry>
-  <entry>
-    <title>【Part 1】ハンドトラッキングで行う盆栽育成アプリの開発</title>
-    <id>https://qiita.com/Rikuto_q/items/5b27251bb934f50bf903?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Rikuto_q/items/5b27251bb934f50bf903?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T16:56:50+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 今回、私は株式会社GENEROSITY様のもとでインターンシップを行わせていただき、その間に今回のハンドトラッキングで盆栽を手入れするアプリの企画立てから開発を行いました。その過程を記していきます。 概要 今回私が開発したのは「MR盆栽」 これは現実空間上にバ...</summary>
   </entry>
 </feed>
