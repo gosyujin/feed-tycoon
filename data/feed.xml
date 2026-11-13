@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-13T18:00:17.695559+09:00</updated>
+  <updated>2026-11-13T18:30:14.075150+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例</title>
+    <id>https://ktlog.net/posts/claude-code-ai-ecosystem</id>
+    <link href="https://ktlog.net/posts/claude-code-ai-ecosystem" />
+    <updated>2026-11-13T14:21:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...</summary>
+  </entry>
+  <entry>
+    <title>「好機が来た」――なぜ今Sakana AIは、イチからAIモデルを作るのか “新たな一手”のねらいを聞いた</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2611/13/2000003141/" />
+    <updated>2026-11-13T11:42:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「好機が来た」――Sakana AIは、自社で一からAIモデルを開発しはじめた理由についてこのように表現する。モデルの名前は「Sakana Sawara（仮称）」。同社が10月26日に開催したシンポジウムで発表した。 日本のAI開発には、大きく分けて2つの方向性がある。海外企業のオープンなAIモデルをベースに、応答や振る舞いを調整...</summary>
+  </entry>
   <entry>
     <title>「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/5797fd48c4bd5ca4579498f09aa3fb2484b110b1</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-12T13:42:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>新経営体制でも「クリエイター主権」。新たなAIとの関係を示した「Adobe MAX 2026」【西田宗千佳のRandomTracking】</summary>
-  </entry>
-  <entry>
-    <title>Node.js 22 / 24 / 26 の脆弱性、自分のアプリが影響を受けるか確認する方法【2026年11月】</title>
-    <id>https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy</id>
-    <link href="https://zenn.dev/rakko_inc/articles/nodejs-security-nov-2026-proxy" />
-    <updated>2026-11-12T11:31:30+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Next.js や NestJS でアプリを書いていて、「Node.js の脆弱性が公表されたけれど、自分のアプリは対象なのか」を自分で判断したい人に向けた記事です。 2026年11月11日に、Node.js 22・24・26 系のセキュリティリリースが公表されました。深刻度が High の 7 件は、ロードバランサーや nginx の後ろで Node.js を動かしている構成には届きません。 T…</summary>
-  </entry>
-  <entry>
-    <title>libsignal のグループ暗号化を追って、署名改ざんのテストを追加した</title>
-    <id>https://zenn.dev/under_michi/articles/7791295efdb23e</id>
-    <link href="https://zenn.dev/under_michi/articles/7791295efdb23e" />
-    <updated>2026-11-12T10:12:25+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに この記事は、東京大学工学部電子情報工学科・電気電子工学科の3年次後期実験の一つ、「大規模ソフトウェアを手探る」の実験レポートを兼ねています。 この記事は Signal, libsignalをいじってみた の実験の子ページです。libsignal自体の説明は親ページを参照してください。 この記事の目的は、libsignal でまだテストされていないケースをデバッグで見つけて、テストを追加す…</summary>
   </entry>
 </feed>
