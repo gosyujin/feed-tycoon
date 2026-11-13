@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T06:30:14.302461+09:00</updated>
+  <updated>2026-11-14T07:00:14.200400+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
+    <id>https://joisino.hatenablog.com/entry/searchrecbook</id>
+    <link href="https://joisino.hatenablog.com/entry/searchrecbook" />
+    <updated>2026-11-13T19:50:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...</summary>
+  </entry>
+  <entry>
+    <title>ng: Neovim のためのシンプルな GUI</title>
+    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
+    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
+    <updated>2026-11-13T19:49:55+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の…</summary>
+  </entry>
+  <entry>
+    <title>Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで</title>
+    <id>https://gigazine.net/news/20261113-firefox-vpn/</id>
+    <link href="https://gigazine.net/news/20261113-firefox-vpn/" />
+    <updated>2026-11-13T18:17:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Firefoxブラウザには無料のVPNが内蔵されており、ウェブサイトがIPアドレスを使ってユーザーの所在地を特定したり、ウェブ上のアクセス履歴を追跡したりすることを制限することができます。通常は内蔵VPNを利用するにはサインインした上で月間50GBのデータ制限がありますが、2026年11月10日から2027年1月31日までの期間...</summary>
+  </entry>
   <entry>
     <title>Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena</title>
     <id>https://nowokay.hatenablog.com/entry/2026/11/13/101644</id>
@@ -146,9 +170,9 @@
     <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
     <id>https://zenn.dev/karamage/articles/5c3f8370b2b370</id>
     <link href="https://zenn.dev/karamage/articles/5c3f8370b2b370" />
-    <updated>2026-11-13T15:02:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い:...</summary>
+    <updated>2026-11-13T11:48:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。 問い: AI同士の敵対的レビューで、成果物は本当に信頼できるものになるのか? 結論: なりま…</summary>
   </entry>
   <entry>
     <title>宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-13T06:58:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>AIが作成?画像は別人?選挙ポスター複数掲示 作成費に公費支出 尼崎市議補選、戸惑う有権者</title>
-    <id>https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml</id>
-    <link href="https://www.kobe-np.co.jp/news/society/202611/0021027302.shtml" />
-    <updated>2026-11-13T10:21:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>１５日投開票の兵庫県尼崎市議補選（欠員１）で、生成人工知能（ＡＩ）で作成したとみられる人物の選挙ポスターが複数掲示されている。市選挙管理委員会によると、少なくとも１人の顔は「候補者と全く違う」。選挙ポスターを巡っては昨年５月、品位保持などを目的に改正公選法が施行されたが具体的な基準はない。顔を知...</summary>
-  </entry>
-  <entry>
-    <title>前回1,737名が申込、来場者の約75％が大手企業に所属！AI時代の内製開発を考える「内製開発Summit 2027」スポンサー募集開始</title>
-    <id>https://prtimes.jp/main/html/rd/p/000000288.000045379.html</id>
-    <link href="https://prtimes.jp/main/html/rd/p/000000288.000045379.html" />
-    <updated>2026-11-13T10:08:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>◾️企業属性 規模：従業員数1,000名以上のエンタープライズ企業 業界：製造・金融・小売・サービスなど ◾️参加者属性 ・情報システム部門の責任者、プロジェクトマネージャー、プロダクトマネージャー、エンジニアリングマネージャーなど、技術面からプロダクト開発やプロジェクトを牽引する方 ・経営層、DX推進担当者、...</summary>
-  </entry>
-  <entry>
-    <title>パンダを守るテクノロジーはどのように進化した？ - レバテックLAB</title>
-    <id>https://levtech.jp/media/detail_970/</id>
-    <link href="https://levtech.jp/media/detail_970/" />
-    <updated>2026-11-13T10:07:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>中国を象徴する動物といえばパンダ。そんな中国のパンダはそれぞれの時代の最新テクノロジーで分析されてきました。ふんのDNAから顔認識、レノボの国家公園AIエージェント、テンセントの「AI飼育員」まで、中国のパンダ保護×テクノロジーを、技術の層ごとに読み解きます。 中国アジアITライター 山谷 剛史 1976年生まれ...</summary>
   </entry>
 </feed>
