@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T23:00:15.052723+09:00</updated>
+  <updated>2026-11-14T23:30:12.768439+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/</id>
+    <link href="https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/" />
+    <updated>2026-11-14T21:48:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>どうも！オペ部の西村祐二です！ S3 にフロントエンドを置き、Amazon Cognito のユーザープールでログインさせ、ID プールで AWS の一時認証情報を渡す。AWS で SPA を作るときによく見る構成です。この構成が攻撃用の AI エージェントにどう使われたかを、Datadog Security Labs が2026年11月9日の記事「On the hunt fo...</summary>
+  </entry>
+  <entry>
+    <title>AIについての追記</title>
+    <id>https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html</id>
+    <link href="https://www.ms.u-tokyo.ac.jp/~konno/grad_ai.html" />
+    <updated>2026-11-14T19:13:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Associate Professor, Graduate School of Mathematical Sciences 私のところで大学院入学を希望する方へ―AIについての追記 この文章は2026年11月に書いています．この年は，AIが数学にもたらした影響がある閾値を超えた年として記憶されるでしょう．大学院教育にも当然多大な影響があります．学生さんから，AIについて...</summary>
+  </entry>
   <entry>
     <title>マーケ支援のプレイド、不正アクセスでサービス停止 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUC13B0E0T11C26A1000000/</id>
@@ -455,20 +471,20 @@
     <summary>NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...</summary>
   </entry>
   <entry>
+    <title>ng: Neovim のためのシンプルな GUI</title>
+    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
+    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
+    <updated>2026-11-13T20:38:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の窓を与えるだけです。 リポジトリ: ...</summary>
+  </entry>
+  <entry>
     <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
     <id>https://joisino.hatenablog.com/entry/searchrecbook</id>
     <link href="https://joisino.hatenablog.com/entry/searchrecbook" />
     <updated>2026-11-13T19:50:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...</summary>
-  </entry>
-  <entry>
-    <title>ng: Neovim のためのシンプルな GUI</title>
-    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
-    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
-    <updated>2026-11-13T19:49:55+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の…</summary>
   </entry>
   <entry>
     <title>Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-13T09:19:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>1. Gemini 4 Hydrogen2026年11月12日、Google DeepMindは新しいAIモデル「Gemini 4 Hydrogen」を発表しました。 「Gemini 4 Hydrogen」は、高速な推論と高い知能を両立し、コーディングやAIエージェントによる作業の効率化に特化したAIモデルです。 主な特徴は次のとおりです。 ・高速処理：従来のGemini 3.8 Flashより.…</summary>
-  </entry>
-  <entry>
-    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
-    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
-    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
-    <updated>2026-11-13T00:31:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 https://unsolublesugar.com/20261112/120000/ この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、…</summary>
-  </entry>
-  <entry>
-    <title>AliExpress で買った丸いノブを、自分だけの AI デバイスにしてみた</title>
-    <id>https://zenn.dev/bmexami/articles/knobby-esp32-round-knob</id>
-    <link href="https://zenn.dev/bmexami/articles/knobby-esp32-round-knob" />
-    <updated>2026-11-12T23:26:56+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AI デバイスが欲しくなった AI デバイスがいろいろ出てきて、自分も何か触りたくなりました。 声で文字を打ったり Mac を操作したりする自作アプリを作っていたので、そのアプリを手元で操作できるデバイスを探して、AliExpress を見て回りました。見つけたのが JC3636K718 です。 丸い画面の裏に ESP32-S3 が載っていて、つまみ、振動モーター、電池、金属のケースまで、全部そろ…</summary>
   </entry>
 </feed>
