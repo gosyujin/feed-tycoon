@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T22:00:19.629202+09:00</updated>
+  <updated>2026-11-14T22:30:13.141579+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マイクロソフト大規模障害 74カ国・地域に混乱拡大 官公庁や企業のメール停止 技術的原因か - スポニチ Sponichi Annex 社会</title>
+    <id>https://www.sponichi.co.jp/society/news/2026/11/14/kiji/20261114s00042000074000c.html</id>
+    <link href="https://www.sponichi.co.jp/society/news/2026/11/14/kiji/20261114s00042000074000c.html" />
+    <updated>2026-11-14T09:01:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マイクロソフト大規模障害 74カ国・地域に混乱拡大 官公庁や企業のメール停止 技術的原因か</summary>
+  </entry>
   <entry>
     <title>AIチームを率いるとは、どういうこと？ with プログラマー・起業家 amachang Part1 | The Update</title>
     <id>https://theupdate.coffee/episodes/0J7UP7922ZXV6NBTt7w9Jl/</id>
@@ -36,7 +44,7 @@
     <link href="https://zenn.dev/takesako/articles/e9b10360d889ca" />
     <updated>2026-11-14T16:09:37+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>PerlOS を作って低レイヤーを学ぼう 普段書いているC言語のプログラムで疑問に思ったことはないでしょうか？ #include &lt;stdio.h&gt;で使われる標準ライブラリの実体は、どこにあるのか？ main関数が呼ばれるまで、誰がどんなことをしているのか？ printf関数は、どうやって文字を画面に出しているのか？ このハンズオンでは、組み込み用のPerl言語処理系「microperl」を自作O…</summary>
+    <summary>PerlOS を作って低レイヤーを学ぼう 普段書いているC言語のプログラムで疑問に思ったことはないでしょうか？ #include &lt;stdio.h&gt;で使われる標準ライブラリの実体は、どこにあるのか？ main関数が呼ばれるまで、誰がどんなことをしているのか？ printf関数は、どうやって文字を画面に出しているのか？ この記事では、組み込み用のPerl言語処理系「microperl」を自作OSに組…</summary>
   </entry>
   <entry>
     <title>ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備</title>
@@ -431,20 +439,20 @@
     <summary>NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...</summary>
   </entry>
   <entry>
-    <title>ng: Neovim のためのシンプルな GUI</title>
-    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
-    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
-    <updated>2026-11-13T20:38:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の窓を与えるだけです。 リポジトリ: ...</summary>
-  </entry>
-  <entry>
     <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
     <id>https://joisino.hatenablog.com/entry/searchrecbook</id>
     <link href="https://joisino.hatenablog.com/entry/searchrecbook" />
     <updated>2026-11-13T19:50:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...</summary>
+  </entry>
+  <entry>
+    <title>ng: Neovim のためのシンプルな GUI</title>
+    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
+    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
+    <updated>2026-11-13T19:49:55+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の…</summary>
   </entry>
   <entry>
     <title>Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-12T18:53:38+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>修羅場で育った私が、次世代の育て方を考える 社会人 4 年目のころ、同じ案件で PM（プロジェクトマネージャー）を務めていた先輩が退職することになりました。その役割を引き継いだのが、エンジニアだった私です。 PM とはどんな役割で、何をすればいいのか。 当時の私はさっぱり分かりませんでした。 顧客への進捗報告やスケジュールの管理、果てはパートナーの発注まで、目の前のことをとにかく手探りでやるしかあ…</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例</title>
-    <id>https://ktlog.net/posts/claude-code-ai-ecosystem</id>
-    <link href="https://ktlog.net/posts/claude-code-ai-ecosystem" />
-    <updated>2026-11-13T14:21:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>公開 2026.11.08 Claude Codeのおすすめ環境を全体図で解説。ハーネス・スキル・MCPの仕組みと実例 Claude Codeのおすすめ環境は、入口をClaude Code 1つにまとめ、判断AIや権限ルールなどのハーネスを通してから、ほかのAI・スキル・MCP・外部APIへ仕事を振り分ける形です。全体図と3つの実例でまとめました。 Claude C...</summary>
   </entry>
 </feed>
