@@ -2,10 +2,154 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T17:00:15.667829+09:00</updated>
+  <updated>2026-11-14T17:30:15.919551+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ちょっと見ない間にClaude APIが進化してた！</title>
+    <id>https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T15:32:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>ClaudeのAPI、ただモデル呼び出すだけでしょと思ってたんですが、どんどん進化してました！ 環境 Pythonのプロジェクトを作成し、Anthropicの公式SDKをインストールします。 uv init app --python 3.13 --no-package c...</summary>
+  </entry>
+  <entry>
+    <title>「Error: Expected key descriptor but found "" in ""」 RTLでinput type="number"のデフォルト値0を消す</title>
+    <id>https://qiita.com/J-T_ky2g/items/757b73893b5fde454b83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/J-T_ky2g/items/757b73893b5fde454b83?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T14:59:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに input type="number"のデフォルト値0を消して未入力のバリデーションテストをしたかった 問題 値を触らないと0になり未入力でなくなる 解決 userEventを使う場合 await userEvent.clear(timeInput...</summary>
+  </entry>
+  <entry>
+    <title>RHEL 10.2から10.3へのリリースアップ作業纏め</title>
+    <id>https://qiita.com/duelist2020jp/items/af21a54cb3726f1a323f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/duelist2020jp/items/af21a54cb3726f1a323f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T12:58:54+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 11/11にRed Hat Enterprise Linux(以下、RHEL)の10.3がリリースされました。同日に9.9もリリースされています。 私は個人の検証環境としてRHEL9環境とRHEL10環境の両方を維持しています。本日RHEL10.2から10...</summary>
+  </entry>
+  <entry>
+    <title>RHEL9.8から9.9へのリリースアップ作業纏め</title>
+    <id>https://qiita.com/duelist2020jp/items/9b1da0b932afce1a888f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/duelist2020jp/items/9b1da0b932afce1a888f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T12:39:16+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 11/11にRed Hat Enterprise Linux(以下、RHEL)の9.9がリリースされました。同日に10.3もリリースされています。 本日、個人のRHEL9.8環境を9.9にリリースアップしましたので、備忘録として纏めました。 更新作業 私...</summary>
+  </entry>
+  <entry>
+    <title>「利上げできない」も「利上げしすぎる」も日本では成立しない——金利チャネル神話とDomar条件 : システム設計視点の行動経済学 (62)</title>
+    <id>https://qiita.com/maskot1977/items/dcd3c5a7ed7d0bcc0dc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/dcd3c5a7ed7d0bcc0dc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T10:10:55+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: 「システム設計視点の行動経済学」、第62回を始めましょう。その前に、まず前回の復習として、 財源幻想はなぜ生き残るのか——三層防衛構造という設計バグ : システム設計視点の行動経済学 (61) https://qiita.com/maskot1977/item...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeを並列で回すとsettings.jsonが壊れる問題を、mkdirロックとアトミック書き込みで止める</title>
+    <id>https://qiita.com/joinclass/items/8c40b05a48487aa588c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/joinclass/items/8c40b05a48487aa588c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T08:30:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 当社（合同会社ジョインクラス）では、Claude Code を launchd から 17 本以上のジョブで動かしています。部署ごとのエージェントが手の空いたときに backlog を1件進め、CEO代理が承認キューを判断し、出版部が新刊を書く、といった具合です...</summary>
+  </entry>
+  <entry>
+    <title>ハーネスは「普通の人」にも関係してきた: Muse、DeepSeek Harness、Databricks Genie ZeroOps から考える</title>
+    <id>https://qiita.com/taka_yayoi/items/898b2fb743cf829dad0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/taka_yayoi/items/898b2fb743cf829dad0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T07:36:09+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 前回の記事では、Claude Code を題材にハーネスとは何かを整理しました。 その中で、Claude Code や Codex を自分の仕事を楽にするために使うだけなら、ハーネスという用語を知らなくても十分に成果を出せる、と書きました。ハーネスを理解す...</summary>
+  </entry>
+  <entry>
+    <title>AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた</title>
+    <id>https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/yama3133/items/11a360fc97ed3ec09742?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T01:43:26+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに ゼロトラストは「社内ネットワークの中にいるから信頼する」という前提を置かず、アクセスのたびに身元と権限を確認する考え方です。 この記事では、AWSでどのサービスのどのリソースを作れば形になるのかに絞って整理します。構成を5つのパートに分け、それぞれで作るリソース...</summary>
+  </entry>
+  <entry>
+    <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+    <id>https://huggingface.co/blog/ggml-org/llama-cpp-v1</id>
+    <link href="https://huggingface.co/blog/ggml-org/llama-cpp-v1" />
+    <updated>2026-11-14T00:32:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware - from consumer-grade local machines to high-end enterprise servers. Through quantization, optimized backends, and a…</summary>
+  </entry>
+  <entry>
+    <title>【Agent Skills】モデルが賢くなるとスキルはどうなる？</title>
+    <id>https://qiita.com/ryu-ki/items/202d150ad48dbccf7981?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryu-ki/items/202d150ad48dbccf7981?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-14T00:22:50+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに これまで、エージェントに渡すスキルをいくつも作ってきましたが、モデルが賢くなったらこれらがどうなるのかは、ちゃんと考えたことがありませんでした。 そこで、自分のスキルを1本読み返して、何が残りそうかを考えてみました。この記事では、その見立てと、要らなくなった記述...</summary>
+  </entry>
+  <entry>
+    <title>二層 k-ε モデル</title>
+    <id>https://qiita.com/openyanagi/items/ed4e431267bace10d0a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/openyanagi/items/ed4e431267bace10d0a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T23:02:03+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>OpenCFD社の OpenFOAM v2512 で 二層 $k-\varepsilon$ モデルが追加された。今後、役に立つかも知れないので、調査および動作確認を行う。 Turbulence: New two-layer wall treatment for kEpsil...</summary>
+  </entry>
+  <entry>
+    <title>「とりあえず触ってみてください」で受入テストを始めていませんか？要件定義で決める受入基準の書き方</title>
+    <id>https://qiita.com/TH_stickey/items/23d26568962034b72cf8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/TH_stickey/items/23d26568962034b72cf8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T21:17:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 受入テストの初日、発注側の担当者が画面を触りながら「思っていたのと違う」「このケースはどうなるの？」と言い始めます。開発側は「仕様書どおりです」と答え、そこから仕様変更か不具合かの議論が始まります。 こうした指摘にも、実は2つの段階があります。発注側の中で要望や...</summary>
+  </entry>
+  <entry>
+    <title>地理空間情報と詰将棋に見るLLMの課題 ―空間・状態・制約を扱う過程に共通点はあるか―</title>
+    <id>https://qiita.com/lehukuku0120/items/6d4bcb83608e653a3e24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/lehukuku0120/items/6d4bcb83608e653a3e24?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T19:59:14+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 私がChatGPTで詰将棋を試したところ、予想に反して、数手詰めでも次の一手や変化を正しく答えられないことがありました。 そこで気になったのは、単に正解できなかったことよりも、どの段階で読み違えたのかという点です。駒の配置を読み取れなかったのか。それとも、配置は...</summary>
+  </entry>
+  <entry>
+    <title>Proxmox × Cisco：Open vSwitchのRSTPで起動・ネットワーク変更時の約30秒待ちを短縮する</title>
+    <id>https://qiita.com/hshimomu/items/56618894a7e07af50d74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/hshimomu/items/56618894a7e07af50d74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T18:21:27+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>前記事からの更新：起動やネットワーク変更時の「約30秒待ち」を短くする 以前、ポストESXi時代にネットワークエンジニアに送るProxmox再入門で、Proxmox上にCiscoの仮想アプライアンスを収容する方法を紹介しました。Open vSwitch（以下、OVS）でV...</summary>
+  </entry>
+  <entry>
+    <title>「この余白を2mmに」で直るチラシデザイン。Claude Codeと入稿まで。</title>
+    <id>https://qiita.com/nttdata-ccs-techblog/items/71f81eba6a4bcf4de1df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/nttdata-ccs-techblog/items/71f81eba6a4bcf4de1df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T17:00:27+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>NTTデータCCSで、なぜかGISチームに所属しているデザイナーのホンゴウです。中途入社で、地図の専門家に囲まれて働いています。最近、明治の東京で汽車や鉄道馬車を乗り継ぐとどうなるかを体験できるプロトタイプを作りました（またの機会に紹介します）。汽車が1日に数本しかない時...</summary>
+  </entry>
+  <entry>
+    <title>【Microsoft Fabric 入門 #1】60日間の試用版を始める手順</title>
+    <id>https://qiita.com/Gen1112/items/99f80fa4e032f7b8de59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Gen1112/items/99f80fa4e032f7b8de59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T15:53:30+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>本記事は 2026年11月時点の Microsoft Learn 公式ドキュメント「Fabric 試用版」（英語版の最終更新：2026年8月12日）を基に作成しています。日本語版は機械翻訳のため、ボタン名などは実際の画面の表記に合わせています。画面表記や仕様は変わる場合...</summary>
+  </entry>
+  <entry>
+    <title>QuarkusのCycloneDX ExtensionでSBOMを生成・埋め込み、実行中のアプリから取得してみた</title>
+    <id>https://qiita.com/autonomura/items/15e2fdda0840f4a9c7e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/autonomura/items/15e2fdda0840f4a9c7e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T12:40:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに SBOM（Software Bill of Materials）は、アプリケーションを構成するライブラリーや依存関係を記録した「ソフトウェアの部品表」です。使用しているコンポーネントとそのバージョンを可視化することで、脆弱性の影響調査やソフトウェア・サプライチェ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeに同じ調査を繰り返させないためのメモの残し方</title>
+    <id>https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-13T11:34:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>Claude Codeに同じ調査を繰り返させないためのメモの残し方 Anthropicは2026年11月6日、AIエージェントが作業で得た知識を次のセッションへ残す仕組みについて、技術解説「The components of agent memory」を公開しました。会話...</summary>
+  </entry>
   <entry>
     <title>知人の「録画映像」が会議に現れる 北朝鮮の暗号資産窃取「FaceStealer」、FBIが盗撮動画900本超を押収 | テクノエッジ TechnoEdge</title>
     <id>https://www.techno-edge.net/article/2026/11/13/5722.html</id>
@@ -183,20 +327,20 @@
     <summary>NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...</summary>
   </entry>
   <entry>
+    <title>ng: Neovim のためのシンプルな GUI</title>
+    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
+    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
+    <updated>2026-11-13T20:38:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の窓を与えるだけです。 リポジトリ: ...</summary>
+  </entry>
+  <entry>
     <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
     <id>https://joisino.hatenablog.com/entry/searchrecbook</id>
     <link href="https://joisino.hatenablog.com/entry/searchrecbook" />
     <updated>2026-11-13T19:50:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...</summary>
-  </entry>
-  <entry>
-    <title>ng: Neovim のためのシンプルな GUI</title>
-    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
-    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
-    <updated>2026-11-13T19:49:55+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の…</summary>
   </entry>
   <entry>
     <title>Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで</title>
@@ -346,9 +490,9 @@
     <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
     <id>https://zenn.dev/karamage/articles/5c3f8370b2b370</id>
     <link href="https://zenn.dev/karamage/articles/5c3f8370b2b370" />
-    <updated>2026-11-13T11:48:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。 問い: AI同士の敵対的レビューで、成果物は本当に信頼できるものになるのか? 結論: なりま…</summary>
+    <updated>2026-11-13T15:02:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。...</summary>
   </entry>
   <entry>
     <title>宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース</title>
@@ -661,149 +805,5 @@
     <updated>2026-11-12T22:00:01+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>RAG の回答を LLM Judge(採点役の LLM)で全件チェックすると、費用がかさみます。なので、どこかで間引きたくなります。 RAG 評価の記事に、こんなコメントをもらいました。「Judge は高いので、もっともらしさのスコアが 0.7 を超えた回答にだけ回している...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の SessionStart hook で渡していた 31 万字は、会話にほぼ入っていなかった（上限は 1 万字）</title>
-    <id>https://qiita.com/ussu_ussu_ussu/items/e3d3653b05e359e2dfbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ussu_ussu_ussu/items/e3d3653b05e359e2dfbb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T20:18:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>きっかけ Claude Code でいくつものプロジェクトを並行して進めていて、プロジェクトごとに「次にやること」を 1 つのファイルに書いています（以下、まとめて pickup と呼びます）。 会話を始めるたびに、SessionStart hook でその全部を Cla...</summary>
-  </entry>
-  <entry>
-    <title>claude codeにMacを1台まるごと渡してチェスをさせてみた【terminal-mac】</title>
-    <id>https://qiita.com/hiroshi_ito9854/items/a3ea4d3db0d45f12f500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hiroshi_ito9854/items/a3ea4d3db0d45f12f500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T19:23:02+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AIエージェントにPC操作（computer use）をさせたいけど自分のMacで直接動かすのは怖い。マウスを取り合うしログイン中のブラウザやファイルにも手が届いてしまいます。 2026年11月、terminal-mac が公開されました。 macOSの仮想マシ...</summary>
-  </entry>
-  <entry>
-    <title>MuseのVMが定期的に再起動して地味に辛いので計測してみた</title>
-    <id>https://qiita.com/yuuzin217/items/b030d81168bf8040dbe1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yuuzin217/items/b030d81168bf8040dbe1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T19:08:25+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 少し前に、Museを使い始めて1週間の記録を記事にしました。 金欠エンジニアの味方、Museでできること：1週間使ってみて分かったこと その中で「できなかったこと」の1つに挙げたのが、VMが定期的に再起動することです。 ただ当時は、 ISUCON中に、作業が途...</summary>
-  </entry>
-  <entry>
-    <title>AI 診断で出た緊急・高21件中6件は OWASP ASVS の1項目だった。せめて L1 は要件に入れたい話（2026年版）</title>
-    <id>https://qiita.com/ntaka329/items/012ad27328ecaae1c469?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ntaka329/items/012ad27328ecaae1c469?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T18:34:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GMOコネクトの永田です。 請負で関わっている2つのシステムで、Claude Code にソースを読ませて脆弱性を探す診断（ホワイトボックス診断）を回していました。緊急・高の指摘が出そろったところで並べてみると、どれもどこかで聞いたことのある話でした。 試しに ...</summary>
-  </entry>
-  <entry>
-    <title>フェーブル君降臨、オーパス先生と一緒にGASマネージャーAIエージェント化1号機を作った夜の話</title>
-    <id>https://qiita.com/shu15511551/items/b47e97c774b8040c36c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/shu15511551/items/b47e97c774b8040c36c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T06:09:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに ―― 棟梁が戻ってきた しばらくお休みしていたオーパス先生（Claude Opus）が、戻ってきました。 お休みの間、私はフラッシュ君（Gemini Flash）と二人で GASマネージャーを鍛えていました。いちばん大きな出来事は、GAS の書き換えが 2 秒台...</summary>
-  </entry>
-  <entry>
-    <title>iPhone Duo購入者の30％、返品可能期間中に返品した？ 海外メディアが衝撃的なデータを公開【やじうまWatch】</title>
-    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2156142.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2156142.html" />
-    <updated>2026-11-13T11:53:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>iPhone Duo購入者の30％、返品可能期間中に返品した？ 海外メディアが衝撃的なデータを公開【やじうまWatch】</summary>
-  </entry>
-  <entry>
-    <title>総務省が新しい無料オンライン講座「統計解析プログラミング」を1月に開講 Pythonでのデータ分析が4週間で学べる</title>
-    <id>https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html</id>
-    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2611/13/news013.html" />
-    <updated>2026-11-13T09:15:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>連載目次 総務省は2026年11月10日、データサイエンス・オンライン講座の新講座「“わかる・使える”統計解析プログラミング」の受講者募集を開始した。開講は2027年1月12日（火）で、3月16日（火）まで。オンライン学習サービス「gacco（ガッコ）」で受講登録でき、登録料・受講料は無料だ。受講登録の期限は2027年2月22日...</summary>
-  </entry>
-  <entry>
-    <title>Googleが無料で使える高性能AI「Gemini 4 Hydrogen」を発表、従来モデルの2.5倍の速度で動作し競合AIを上回る性能も発揮</title>
-    <id>https://gigazine.net/news/20261113-gemini-4-hydrogen/</id>
-    <link href="https://gigazine.net/news/20261113-gemini-4-hydrogen/" />
-    <updated>2026-11-13T12:22:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleが2026年11月12日に新たなAIモデル「Gemini 4 Hydrogen」を発表しました。従来の高速モデル「Gemini 3.8 Flash」と比べて処理速度と推論能力が大幅に向上しており、プログラミングや資料作成などの複雑な作業を効率的に進められるとのこと。GeminiアプリやGoogle検索などでも利用可能です。 Introducing Gemini 4 ...</summary>
-  </entry>
-  <entry>
-    <title>無料でAWSをローカル環境で再現できるAmazon公式エミュレーターが登場</title>
-    <id>https://gigazine.net/news/20261113-aws-emulator/</id>
-    <link href="https://gigazine.net/news/20261113-aws-emulator/" />
-    <updated>2026-11-13T07:36:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Amazonはすべて自律AIエージェントによって開発された新しいローカルAWSエミュレーター「AWS Emulator」をリリースしました。AWS EmulatorはAWSサービスをローカル環境で実行することによりAWSアプリケーションの開発とテストを可能にするとのことです。注目すべき点として、AWS Emulatorのプロジェクトでは人間のエンジ...</summary>
-  </entry>
-  <entry>
-    <title>Microsoft 365の接続障害が長期化 OutlookやCopilotなどに影響</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2156244.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2156244.html" />
-    <updated>2026-11-13T13:50:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Microsoft 365の接続障害が長期化 OutlookやCopilotなどに影響</summary>
-  </entry>
-  <entry>
-    <title>AIコンテンツを排除 心拍で証明する「実在する人間」だけのSNSが登場</title>
-    <id>https://japan.cnet.com/article/35254830/</id>
-    <link href="https://japan.cnet.com/article/35254830/" />
-    <updated>2026-11-13T12:24:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>創業者で最高経営責任者（CEO）のWill Ahmed氏は、プレスリリースでHumansを「これまでに登場した中で、人間であることを最も確実に確認できるネットワーク」と表現した。すべてのアカウントが、心拍の確認された実在の人物にひも付いているためだ。 Humansでは、WHOOPの会員が自身の成果に加え、ウェアラブルデバイスで...</summary>
-  </entry>
-  <entry>
-    <title>UI SDK</title>
-    <id>https://ui-sdk.dev/</id>
-    <link href="https://ui-sdk.dev/" />
-    <updated>2026-11-13T09:29:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>A library of behaviors for agents to build the next generation of user interfaces. Say we give an agent a Select component. It can build a Select. Makes sense, right? But what if, instead, we gave it…</summary>
-  </entry>
-  <entry>
-    <title>Microsoft、Linux版「Autoruns」を公開 ～自動起動するプログラムを洗い出せるSysinternalsツール／「Rust」言語で開発。「systemd」や「cron」、ブラウザー拡張機能などをカバー</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2155574.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2155574.html" />
-    <updated>2026-11-13T11:33:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Microsoft、Linux版「Autoruns」を公開 ～自動起動するプログラムを洗い出せるSysinternalsツール／「Rust」言語で開発。「systemd」や「cron」、ブラウザー拡張機能などをカバー</summary>
-  </entry>
-  <entry>
-    <title>「EmEditor」のMac版がついに登場 ～2027年1月末まで無料のプレビュー版が公開／巨大ファイルやCSVの高速処理など、Windows向けとほぼ同等の機能を搭載</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2155970.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2155970.html" />
-    <updated>2026-11-13T10:02:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「EmEditor」のMac版がついに登場 ～2027年1月末まで無料のプレビュー版が公開／巨大ファイルやCSVの高速処理など、Windows向けとほぼ同等の機能を搭載</summary>
-  </entry>
-  <entry>
-    <title>Windows 11の9月パッチで発生したUSBオーディオ機器の問題、ようやく全面解決／2026年11月のセキュリティ更新プログラムの適用を</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2155714.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2155714.html" />
-    <updated>2026-11-13T10:00:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Windows 11の9月パッチで発生したUSBオーディオ機器の問題、ようやく全面解決／2026年11月のセキュリティ更新プログラムの適用を</summary>
-  </entry>
-  <entry>
-    <title>ぼくのClaude Codeの使い方</title>
-    <id>https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata</id>
-    <link href="https://speakerdeck.com/falken/boku-no-claude-code-no-tsukaikata" />
-    <updated>2026-11-13T00:11:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Sapporo Claude Code Meetup LT, 2026/11/12</summary>
-  </entry>
-  <entry>
-    <title>理解がボトルネックなら理解を高速化すればいいじゃない - funwarioisii</title>
-    <id>https://scrapbox.io/funwarioisii/%E7%90%86%E8%A7%A3%E3%81%8C%E3%83%9C%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AA%E3%82%89%E7%90%86%E8%A7%A3%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84</id>
-    <link href="https://scrapbox.io/funwarioisii/%E7%90%86%E8%A7%A3%E3%81%8C%E3%83%9C%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF%E3%81%AA%E3%82%89%E7%90%86%E8%A7%A3%E3%82%92%E9%AB%98%E9%80%9F%E5%8C%96%E3%81%99%E3%82%8C%E3%81%B0%E3%81%84%E3%81%84%E3%81%98%E3%82%83%E3%81%AA%E3%81%84" />
-    <updated>2026-11-12T22:52:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>橋本和幸 / わこー 自己紹介 わこー / funwarioisii ですfunwarioisii.icon 去年の7月に札幌に引っ越してきました STORES株式会社 ソフトウェアエンジニア 主にRailsでWebバックエンド 最近はSwiftでPOSレジ 今年プライベートで作ったもの 生活の面倒を見てくれるハーネス 最近MuseとかDotsとかが便利すぎて… Duet待って...</summary>
-  </entry>
-  <entry>
-    <title>AIが記録し続けた、猫との8カ月。100件のねこ日記から見えてきたこと - レバテックLAB</title>
-    <id>https://levtech.jp/media/detail_968/</id>
-    <link href="https://levtech.jp/media/detail_968/" />
-    <updated>2026-11-12T09:17:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>からあげ エンジニア、テックブロガー。AIや電子工作など、気になった技術を自分で試して発信している。自作のAIアシスタント基盤「xangi」を開発し、日常でも活用中。白黒のソラ、黒猫のウミと暮らす。 @karaage0703 ブログ 愛猫：ソラ 白黒ハチワレの男の子。大胆かつ甘えん坊。ちょっと太め。パパの足をかじる習性が...</summary>
   </entry>
 </feed>
