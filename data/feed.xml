@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T10:00:14.532095+09:00</updated>
+  <updated>2026-11-14T10:30:18.984473+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>かつて、noteのようなブログもTwitterのような短文投稿もDiscordのようなコミュニティ運営もすべてまとめてできる、夢のようなサービスがあったのじゃ</title>
+    <id>https://togetter.com/li/2770247</id>
+    <link href="https://togetter.com/li/2770247" />
+    <updated>2026-11-14T10:06:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>HPPS＠平和荘 @HPPS_HEIWASOU 若い人には想像できんかもしれんが、その昔、 noteのようなブログも、 Twitterのような短文投稿も、 Discordのようなコミュニティ運営も、 ジョルテのようなカレンダー共有も、 TwiPlaのようなイベント参加者管理も、 すべてまとめてできる、夢のようなサービスがあったのじゃ。 そして当時...</summary>
+  </entry>
+  <entry>
+    <title>「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話</title>
+    <id>https://togetter.com/li/2770134</id>
+    <link href="https://togetter.com/li/2770134" />
+    <updated>2026-11-14T01:00:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「あの人は館長の次くらいに偉い」国会図書館でバイトしていた頃、仕事をしてる姿を見たことがない人がいた→COBOLの話題から始まる往年の技術者の話</summary>
+  </entry>
+  <entry>
+    <title>【速報】マネックス証券、マイナカード画像漏えいか</title>
+    <id>https://www.47news.jp/15227159.html</id>
+    <link href="https://www.47news.jp/15227159.html" />
+    <updated>2026-11-14T00:36:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マネックス証券は13日、委託先が運営・管理する口座開設システムが不正アクセスを受け、運転免許証やマイナンバーカードといった本人確認書類の画像1592件と、最大113万件のメールアドレスが漏えいした恐れがあると発表した。</summary>
+  </entry>
+  <entry>
+    <title>ゲームのコードのわずか0.1％未満にAIを使用したことを公表しただけで400件以上の低評価レビューが殺到</title>
+    <id>https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/</id>
+    <link href="https://gigazine.net/news/20261113-indie-game-used-ai-bad-review/" />
+    <updated>2026-11-13T19:30:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>人気インディーゲーム「Big Walk」の開発元がゲームのプログラムのごく一部に生成AIを使用したことを公表したところ、400件以上の低評価レビューが殺到する事態となりました。生成AIが関わったコードは全体の0.1％未満で、主に技術的な問題の調査や不具合の修正に利用されたとのこと。生成AIの使用を巡ってゲーム開発者...</summary>
+  </entry>
   <entry>
     <title>Let’s Write a PostScript Interpreter</title>
     <id>https://beyondloom.com/blog/postscript.html</id>
@@ -234,9 +266,9 @@
     <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
     <id>https://zenn.dev/karamage/articles/5c3f8370b2b370</id>
     <link href="https://zenn.dev/karamage/articles/5c3f8370b2b370" />
-    <updated>2026-11-13T15:02:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出て、以下の問いにはじめて気づきました。 問い:...</summary>
+    <updated>2026-11-13T11:48:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。 問い: AI同士の敵対的レビューで、成果物は本当に信頼できるものになるのか? 結論: なりま…</summary>
   </entry>
   <entry>
     <title>宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-13T08:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに CAD や 3D スキャン（点群/3DGS）のデータを扱う Web アプリケーションを作るとき、最初にぶつかるのが「アップロード」です。 CAD の部品や点群は 1 ファイルが大きく、数 GB になることが珍しくありません ファイルが分散しています。CAD のアセンブリは、親のファイルが何十〜何百もの部品ファイルを参照する構成になっています。スキャンデータも、計測ごと・領域ごとにファイル…</summary>
-  </entry>
-  <entry>
-    <title>長期反復タスクにおけるAIコーディングエージェントの性能低下をベンチマークする「SlopCodeBench」</title>
-    <id>https://gigazine.net/news/20261112-slopcodebench/</id>
-    <link href="https://gigazine.net/news/20261112-slopcodebench/" />
-    <updated>2026-11-12T23:04:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIにプログラムを作成させると短時間で動作するコードを得られますが、機能の追加を繰り返すうちに古い処理との整合性が崩れたりコードが複雑になったりすることがあります。こうした問題を調べるために開発され、AI自身が作ったコードに新しい仕様を段階的に追加させながら機能の維持や品質の変化を測定するベンチマー...</summary>
-  </entry>
-  <entry>
-    <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
-    <id>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</id>
-    <link href="https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat" />
-    <updated>2026-11-12T20:41:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。 PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では…</summary>
-  </entry>
-  <entry>
-    <title>JAWS FESTA 2026 in AKITA 当日スタッフを振り返ってみる</title>
-    <id>https://zenn.dev/atuykunkamuy/articles/e7bf74ff539a98</id>
-    <link href="https://zenn.dev/atuykunkamuy/articles/e7bf74ff539a98" />
-    <updated>2026-11-12T17:11:52+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 2026年11月7日（土）に開催された「JAWS FESTA 2026 in AKITA」で実行委員として当日スタッフ班を担当しました。 今後JAWS DAYSやJAWS FESTAで実行委員を担当する方に何かしら参考になるものがあればと思い、振り返り記事を書きます。 ! この記事は当日スタッフ班のリーダーとしての個人的な振り返りです。 「次にやるならこうする」というメモとして読んでもら…</summary>
-  </entry>
-  <entry>
-    <title>非同期処理でもポーリングが必要なのはなぜ？</title>
-    <id>https://zenn.dev/yuyak/articles/polling-async-completion</id>
-    <link href="https://zenn.dev/yuyak/articles/polling-async-completion" />
-    <updated>2026-11-12T16:27:13+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>非同期処理とポーリングの関係を、自分の中で整理するためにこの記事をまとめました。公式ドキュメントなどを参考にしながら、記載しています。 awaitでAPIの応答を待っているのに、別のAPIを何度も呼んで完了を確認する。そんなコードを見ると、「非同期処理なら、終わったときに結果を返してくれるのでは？」と感じるかもしれません。 ここでは、時間のかかる集計を受け付けるHTTP APIを例に考えます。ポイ…</summary>
   </entry>
 </feed>
