@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T17:30:15.919551+09:00</updated>
+  <updated>2026-11-14T18:00:13.546359+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ゲーム開発者の40％が生成AIを使用しているもののそれ以上に多くの人が生成AIは有害だと考えている</title>
+    <id>https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/</id>
+    <link href="https://gigazine.net/news/20261114-developers-games-industry-using-generative-ai/" />
+    <updated>2026-11-14T13:02:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ゲーム開発にAIを活用することに対しては賛否両論ありますが、世界最大級のゲーム開発者会議であるGDCの最新レポートから、業界で活躍する開発者の40％が生成AIを利用していることが明らかになりました。 A new report reckons 40% of developers in the video games industry are using generative AI - but eve…</summary>
+  </entry>
+  <entry>
+    <title>An update on our recent security incident · Cursor</title>
+    <id>https://cursor.com/blog/security-incident-update</id>
+    <link href="https://cursor.com/blog/security-incident-update" />
+    <updated>2026-11-14T11:05:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>On October 29, we shared that we were investigating a security incident and a malicious, unauthorized copy of Anthropic's Claude Code extension that appeared in the Cursor VS Code extension marketplac…</summary>
+  </entry>
+  <entry>
+    <title>幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明</title>
+    <id>https://gigazine.net/news/20261114-llm-fluency-credible/</id>
+    <link href="https://gigazine.net/news/20261114-llm-fluency-credible/" />
+    <updated>2026-11-14T08:05:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーション)」の問題が常につきまといます。新たな研究では、AIの回答に幻覚があ...</summary>
+  </entry>
+  <entry>
+    <title>GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能</title>
+    <id>https://gigazine.net/news/20261113-google-intelligent-eyewear/</id>
+    <link href="https://gigazine.net/news/20261113-google-intelligent-eyewear/" />
+    <updated>2026-11-13T11:41:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleは2026年11月12日、SamsungおよびメガネブランドのWarby Parker、Gentle Monsterと共同開発したスマートグラス「Intelligent Eyewear」の予約受付を開始しました。AIアシスタントのGeminiを搭載し、スマートフォンを取り出すことなく目の前にある物について質問したり、外国語の会話をリアルタイムで翻訳したりす...</summary>
+  </entry>
   <entry>
     <title>ちょっと見ない間にClaude APIが進化してた！</title>
     <id>https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-13T09:22:46+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Nov 12, 2026 はじめに OWASP Dependency-Track v5.2を使って、脆弱性情報の自動収集から、Slackへの通知、Pleasanterの脆弱性対応台帳への自動登録までを、二日がかりでつなげました。この記事では、その設定手順と、実際につまずい...</summary>
-  </entry>
-  <entry>
-    <title>Copilot in SharePoint で、リストとライブラリの作成はどこまで楽になったか試してみた</title>
-    <id>https://qiita.com/Takashi_Masumori/items/c2b9270a9a13a316b618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Takashi_Masumori/items/c2b9270a9a13a316b618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T09:05:49+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Copilot in SharePoint で、リストとライブラリの作成はどこまで楽になったか試してみた はじめに SharePoint のリストやドキュメント ライブラリは、Power Apps や Power Automate と組み合わせる前提で作ることもあると思...</summary>
-  </entry>
-  <entry>
-    <title>【AWS】AgentCore runtimeをV1からV2へ移行しよう【AgentCore】</title>
-    <id>https://qiita.com/Nana_777/items/25f3d9c5449a62cdc50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Nana_777/items/25f3d9c5449a62cdc50f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T08:44:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Amazon Bedrock AgentCoreの次世代のruntimeは、2026年9月18日に公開されました。公式ドキュメントではV2と呼ばれ、従来のruntimeはV1です。V2は、初期化済みのエージェントのスナップショットからセッションを復元する方式で、...</summary>
-  </entry>
-  <entry>
-    <title>Finder の代わりに使える macOS ファイルマネージャー「Macorn」を作りました。フォルダはそのまま、整理はいくつもの次元で</title>
-    <id>https://qiita.com/ponta8240/items/06e4a9360abdc68a5c48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ponta8240/items/06e4a9360abdc68a5c48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T07:16:58+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Finder をはじめとするふつうのファイルマネージャーでは、ファイルの置き場所はフォルダの階層の1つだけです。1つのファイルは、1つのフォルダにしか入れられません。 しかもその形は、たいてい人の都合ではなく、ツールやリポジトリの都合で決まります。リポジトリは...</summary>
-  </entry>
-  <entry>
-    <title>LLM-as-a-Judgeの節約術、320件測ったらサイコロで選ぶのと同じ</title>
-    <id>https://qiita.com/kenimo49/items/f015c6b8a9bab77a6ff4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kenimo49/items/f015c6b8a9bab77a6ff4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T22:00:01+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>RAG の回答を LLM Judge(採点役の LLM)で全件チェックすると、費用がかさみます。なので、どこかで間引きたくなります。 RAG 評価の記事に、こんなコメントをもらいました。「Judge は高いので、もっともらしさのスコアが 0.7 を超えた回答にだけ回している...</summary>
   </entry>
 </feed>
