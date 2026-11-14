@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T15:00:14.639582+09:00</updated>
+  <updated>2026-11-14T15:30:13.485727+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」</title>
+    <id>https://togetter.com/li/2770282</id>
+    <link href="https://togetter.com/li/2770282" />
+    <updated>2026-11-14T12:49:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>沖田 丈11 @vjoe 俺、会社のかなり重要なデータを扱ってんのね そんで、他社から入社してきた上司から 「なんで沖田は重要なデータ任されてる程に信用されてんの？」 って聞かれて 「セキュリティ兼内部監査として、取締役の誰が休日に会社PCで熟女AV観てたか把握しているけどバラしてないから」 で納得してもらえた 202...</summary>
+  </entry>
+  <entry>
+    <title>AWSでゼロトラスト構成を作る手順を5つのパートに分けて整理してみた - Qiita</title>
+    <id>https://qiita.com/yama3133/items/11a360fc97ed3ec09742</id>
+    <link href="https://qiita.com/yama3133/items/11a360fc97ed3ec09742" />
+    <updated>2026-11-14T07:56:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに ゼロトラストは「社内ネットワークの中にいるから信頼する」という前提を置かず、アクセスのたびに身元と権限を確認する考え方です。 この記事では、AWSでどのサービスのどのリソースを作れば形になるのかに絞って整理します。構成を5つのパートに分け、それぞれで作るリソースとAWS CLIのコマンドを順に並べま...</summary>
+  </entry>
   <entry>
     <title>【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）</title>
     <id>https://zenn.dev/canly/articles/e2bd67c9a4c18b</id>
@@ -298,9 +314,9 @@
     <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
     <id>https://zenn.dev/karamage/articles/5c3f8370b2b370</id>
     <link href="https://zenn.dev/karamage/articles/5c3f8370b2b370" />
-    <updated>2026-11-13T11:48:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。 問い: AI同士の敵対的レビューで、成果物は本当に信頼できるものになるのか? 結論: なりま…</summary>
+    <updated>2026-11-13T15:02:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。...</summary>
   </entry>
   <entry>
     <title>宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-13T11:39:00+09:00</updated>
     <category term="はてブ IT" />
     <summary>「Gemini」の検索数が前年比約5.9倍に急伸 ChatGPTとの差は2.5倍へ</summary>
-  </entry>
-  <entry>
-    <title>【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件</title>
-    <id>https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/ubiq/2156149.html" />
-    <updated>2026-11-13T11:15:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【笠原一輝のユビキタス情報局】 フアン氏辞任のNVIDIA、33年の成功を支えたCUDAと次のリーダーの条件</summary>
-  </entry>
-  <entry>
-    <title>仕組み編：Two-Towerによる検索システム（学習・推論・配信）</title>
-    <id>https://zenn.dev/ca_kagglers/articles/two-tower-mechanism</id>
-    <link href="https://zenn.dev/ca_kagglers/articles/two-tower-mechanism" />
-    <updated>2026-11-13T10:55:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに ihiratchです。本記事では、検索・推薦タスクで使われる Two-Tower モデルについて解説します。 Two-Tower は、クエリとアイテムをそれぞれ別のニューラルネットワークでベクトルに変換し、その類似度から関連度を評価するモデルです。アイテム側のベクトルを事前に計算しておけるため、大量の候補から効率よく検索することができます。 本記事は「仕組み編」として、検索タスクから始ま…</summary>
   </entry>
 </feed>
