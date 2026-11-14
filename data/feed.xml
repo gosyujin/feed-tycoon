@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T06:30:13.584633+09:00</updated>
+  <updated>2026-11-15T07:00:13.492833+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>常時稼働エージェントの作り方（Claude公式ブログを資料化）</title>
+    <id>https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata</id>
+    <link href="https://speakerdeck.com/minorun365/jouji-kadou-ejento-no-tsukurikata" />
+    <updated>2026-11-15T01:06:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents</summary>
+  </entry>
+  <entry>
+    <title>Building always-on agents</title>
+    <id>https://claude.com/resources/articles/building-always-on-agents</id>
+    <link href="https://claude.com/resources/articles/building-always-on-agents" />
+    <updated>2026-11-14T09:52:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a r…</summary>
+  </entry>
+  <entry>
+    <title>GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux</title>
+    <id>https://github.com/libracoder/kiri</id>
+    <link href="https://github.com/libracoder/kiri" />
+    <updated>2026-11-08T22:13:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>A tiny, fast container runtime for macOS, Windows and Linux. Runs your Docker images and works with the docker CLI, Compose and buildx you already use. Download · Features · Build from source · Releas…</summary>
+  </entry>
   <entry>
     <title>AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い</title>
     <id>https://www.47news.jp/15231027.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-12T14:32:31+09:00</updated>
     <category term="はてブ IT" />
     <summary>宝くじの発売元である全国の都道府県と指定都市は11月11日、宝くじ公式サイトで一部会員のアカウントに第三者が不正ログインし、会員情報を閲覧した可能性があると発表した。公式サイトとアプリは、パスワードが意図せず変更される事象を確認して一時停止している。対象者には個別にメールで連絡する。 （画像）宝くじの...</summary>
-  </entry>
-  <entry>
-    <title>AIユーザーの平均労働時間は非AIユーザーより最大で90分長いことが判明</title>
-    <id>https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/</id>
-    <link href="https://gigazine.net/news/20261113-ai-users-have-long-worktime-than-non-ai-users/" />
-    <updated>2026-11-13T16:26:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIユーザーと非AIユーザーを比べたとき、平均労働時間はAIユーザーのほうが最大で90分長いことが明らかになりました。この数字は従業員モニタリングソフトウェアを開発・提供しているActivTrakの研究部門・ActivTrak生産性研究所が467社・9140人を対象に集めた情報を分析した結果わかったもので、自己申告制の調査よりも...</summary>
-  </entry>
-  <entry>
-    <title>aws-emulatorにTerraformでリソースを作成できるか試してみる | フューチャー技術ブログ</title>
-    <id>https://future-architect.github.io/articles/20261113a/</id>
-    <link href="https://future-architect.github.io/articles/20261113a/" />
-    <updated>2026-11-13T15:21:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>（https://aws.amazon.com/jp/products/developer-tools/emulator/ より引用） こんにちは。TIGの伊藤です。2026/11/11、AWSからaws-emulatorというツールが発表されました。 https://aws.amazon.com/jp/products/developer-tools/emulator/ これまで、私はLocal…</summary>
-  </entry>
-  <entry>
-    <title>400gを切るモバイルモニター（タッチ対応）と Samsung DeX との相性が良い - えいのうにっき</title>
-    <id>https://blog.a-know.me/entry/2026/11/12/225133</id>
-    <link href="https://blog.a-know.me/entry/2026/11/12/225133" />
-    <updated>2026-11-13T09:32:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>主にコンテンツを消費することを目的として、ずっと12.9インチの iPad Pro（2018, 第3世代）を愛用していたのですが、いつの間にやら子供に奪われてしまっておりまして。 「それなら仕方がない、もう一台買うか」.....とは、昨今の物価高のなかでは簡単に決断できず。さてどうしたものかと考えあぐねていると、Amazon で...</summary>
   </entry>
 </feed>
