@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T14:30:14.542521+09:00</updated>
+  <updated>2026-11-14T15:00:14.639582+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）</title>
+    <id>https://zenn.dev/canly/articles/e2bd67c9a4c18b</id>
+    <link href="https://zenn.dev/canly/articles/e2bd67c9a4c18b" />
+    <updated>2026-11-14T08:45:16+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026/11/13、Claude Duet が Claude の Team プランの管理画面に出てきました。 筆者が見た範囲でも、X で「Team の管理画面に出た」という報告がいくつもあり、カンリーの管理画面にも 2026/11/13 の午前に「Claude Duet（ベータ）」のページが出ていました。組織で ON にして実際に触ってみたので、Duet で何ができるかと、組織で使うと…</summary>
+  </entry>
+  <entry>
+    <title>ぎりぎりで受かった AWS AIF の記録</title>
+    <id>https://zenn.dev/flagxs/articles/c5d6aac5e432b7</id>
+    <link href="https://zenn.dev/flagxs/articles/c5d6aac5e432b7" />
+    <updated>2026-11-13T14:28:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026 年 9 月 27 日に AWS Certified AI Practitioner（AIF-C01）を受験し、734 点で合格しました。合格ラインは 700 点です。 受験日は、AWS の受験料割引キャンペーンの期限（9 月 30 日）より前の、最後の日曜日でした。 試験が終わった時点では、落ちたと思っていました。 初めての資格試験だったこともあり、何をどのくらいやって、どのく…</summary>
+  </entry>
   <entry>
     <title>「GeForce RTX 5090」搭載グラボに50万円超の“幅” そのワケは？</title>
     <id>https://www.itmedia.co.jp/pcuser/articles/2611/14/news013.html</id>
@@ -282,9 +298,9 @@
     <title>【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え</title>
     <id>https://zenn.dev/karamage/articles/5c3f8370b2b370</id>
     <link href="https://zenn.dev/karamage/articles/5c3f8370b2b370" />
-    <updated>2026-11-13T15:02:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。...</summary>
+    <updated>2026-11-13T11:48:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIが書いたコードをマルチエージェントで多角的な視点で別のAIに容赦なく叩かせ、 それを何往復もループで繰り返せば品質は上がっていくはず。。。 純粋無垢な私はずっと、そう信じていた頃がありました。 ところが、かなりトークンを注ぎ込んだPRからあっさり本番バグが出てしまい、以下の疑問にはじめて気づきました。 問い: AI同士の敵対的レビューで、成果物は本当に信頼できるものになるのか? 結論: なりま…</summary>
   </entry>
   <entry>
     <title>宝くじ公式サイトに不正ログイン、当落情報や住所・氏名など閲覧された可能性（アスキー） - Yahoo!ニュース</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-13T10:55:36+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに ihiratchです。本記事では、検索・推薦タスクで使われる Two-Tower モデルについて解説します。 Two-Tower は、クエリとアイテムをそれぞれ別のニューラルネットワークでベクトルに変換し、その類似度から関連度を評価するモデルです。アイテム側のベクトルを事前に計算しておけるため、大量の候補から効率よく検索することができます。 本記事は「仕組み編」として、検索タスクから始ま…</summary>
-  </entry>
-  <entry>
-    <title>最強オープンウェイトモデル Kimi-K3.1-Pro をセルフホストして独自ベンチで比べてみた</title>
-    <id>https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark</id>
-    <link href="https://zenn.dev/fixstars/articles/kimi-k31-pro-benchmark" />
-    <updated>2026-11-13T08:50:35+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Kimi-K3.1-Pro は、中国のベンチャー企業 Moonshot AI が開発したオープンウェイトの大規模言語モデルです。サイズは 2.8T-A104B と 2026/11/12 時点で公開されている主要なモデルでは最大、 Artificial Analysis v5 指標では 46 点であり二番手 (DeepSeek-V4.1-Flash-1017, 33 点) を大きく引き離しています。…</summary>
-  </entry>
-  <entry>
-    <title>サイバーセキュリティクラウド、GitHubから顧客情報流出か 「セキュリティ企業として重く受け止め」</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/13/2000003163/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/13/2000003163/" />
-    <updated>2026-11-13T08:29:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>WAF（Web Application Firewall）など企業向けセキュリティサービスを手掛けるサイバーセキュリティクラウドは11月12日、ソフトウェア開発に利用しているGitHub上の同社管理領域に不審なアクセスがあり、保存していた個人情報が漏えいしたおそれがあると発表した。 従業員が業務で使っていたGitHubの認証情報1件が外部に...</summary>
   </entry>
 </feed>
