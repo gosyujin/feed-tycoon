@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T19:30:20.523939+09:00</updated>
+  <updated>2026-11-14T20:00:15.872319+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>1時間で作るPerlOS: Yet Another Perl Computer</title>
+    <id>https://zenn.dev/takesako/articles/e9b10360d889ca</id>
+    <link href="https://zenn.dev/takesako/articles/e9b10360d889ca" />
+    <updated>2026-11-14T16:09:37+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>PerlOS を作って低レイヤーを学ぼう 普段書いているC言語のプログラムで疑問に思ったことはないでしょうか？ #include &lt;stdio.h&gt;で使われる標準ライブラリの実体は、どこにあるのか？ main関数が呼ばれるまで、誰がどんなことをしているのか？ printf関数は、どうやって文字を画面に出しているのか？ このハンズオンでは、組み込み用のPerl言語処理系「microperl」を自作O…</summary>
+  </entry>
+  <entry>
+    <title>ハッカソン初心者に伝えたい、失敗から学んだチーム開発前の3つの準備</title>
+    <id>https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation</id>
+    <link href="https://zenn.dev/kinuuu/articles/hackathon-team-dev-preparation" />
+    <updated>2026-11-14T13:01:19+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ハッカソンで開発を始める前に、チームで確認しておきたいことが3つあります。 全員が同じアプリを起動できるか Gitで変更を共有し、取り込めるか 担当するタスクの内容と、完了条件が伝わっているか これまでに20回ほどハッカソンに参加し、主にチームの取りまとめ役として、企画から開発・デプロイまでを担当してきました。その中で、開発を始めるときの流れや初心者向けの説明をドキュメントにまとめたり、PRテンプ…</summary>
+  </entry>
+  <entry>
+    <title>相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/14/2000003193/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/14/2000003193/" />
+    <updated>2026-11-14T08:23:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>不正アクセスによる情報漏えいが相次ぐなか、パスワードを紙に書いて管理するアナログな方法を見直す動きがある。100円ショップ「ダイソー」では、紙の「パスワード管理ノート」が品薄になっている。運営する大創産業（広島県東広島市、以下ダイソー）はITmedia NEWSの取材に対し、ネットワークにつながっていない紙で管...</summary>
+  </entry>
+  <entry>
+    <title>AWS Emulatorで、CloudFront＋API Gateway＋Cognitoの構成をローカルで動かしてみた</title>
+    <id>https://zenn.dev/visionarray/articles/2978284b5a9706</id>
+    <link href="https://zenn.dev/visionarray/articles/2978284b5a9706" />
+    <updated>2026-11-13T20:31:59+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年11月11日に、AWSのAPIを手元で動かせる「AWS Emulator」が一般公開されました。AWS CLIやSDKのエンドポイントをローカルに変えるだけで、コードを変えずにS3やDynamoDBを使えるというものです。 S3にファイルを置く、DynamoDBに書いて読む、くらいなら動くだろうと思ったので、もう少し欲張ってみました。CloudFront、S3、API Gate…</summary>
+  </entry>
+  <entry>
+    <title>SlackでMarkdown記法が使えるようになっていた</title>
+    <id>https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f</id>
+    <link href="https://zenn.dev/lnest_knowledge/articles/ed5977bd7b6c1f" />
+    <updated>2026-11-11T14:52:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 2026年11月11日時点の検証です。Markdownの文字列をメッセージ入力欄に貼り付けて投稿し、表示はmacOS版Slackとブラウザ版（Chrome）で確認しました。機能の導入日や、すべてのワークスペース・端末で同じ動作になるかは確認していません。 メッセージ内に表が表示される 今回、使いどころが多そうだと感じたのが表です。次のようなパイプ区切りのMarkdownを貼り付けました。 |…</summary>
+  </entry>
   <entry>
     <title>動いた農林中金、AI株を「底値買い」 長期で安定成長を期待 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUB109MD0Q6A111C2000000/</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-13T13:40:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>会員数3000万人超の大手ECモール「Qoo10」（キューテン）を運営するeBay Japanは11月12日、6日に同社のシステムが不正アクセスを受け、一部の個人情報が閲覧されたと発表した。氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。 対象となる可能性がある個人情報には、...</summary>
-  </entry>
-  <entry>
-    <title>宝くじ公式サイトに不正アクセス 4436アカウントに被害</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2156159.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2156159.html" />
-    <updated>2026-11-13T11:59:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>宝くじ公式サイトに不正アクセス 4436アカウントに被害</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！Python で学ぶ マクロ経済学 入門 45</title>
-    <id>https://qiita.com/maskot1977/items/6d3f5c504360cf7858c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/6d3f5c504360cf7858c4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T14:06:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご指定のソース動画のタイトルおよびその詳細な内容について解説します。 1. ソース動画のタイトル 「人口減少であなたの給料は上がる : Pythonで学ぶマクロ...</summary>
-  </entry>
-  <entry>
-    <title>Claude Fable 5.2はOpusの単価2倍、でも1タスクは約半額!? Mythos5.2との違いと使いどころ</title>
-    <id>https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryosuke_ohori/items/17995524b433cf04fd55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T13:26:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。 Claude CodeでOpusに何度か聞いても、原因が分からない。そこでFable 5.2に切り替えるとして、気になるのは「その1件を解くのに、結局いくらかかるんだろう？」ということです。 Fabl...</summary>
-  </entry>
-  <entry>
-    <title>本番(prod)サーバーに自動処理を組んだのでまとめ</title>
-    <id>https://qiita.com/metappi/items/b2319478cd692c9b492f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/metappi/items/b2319478cd692c9b492f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T13:23:59+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>今回は本番環境(prdサーバー)に自動処理の実行環境を設定しました。 指定した時刻に記事を公開するための「予約公開」の仕組み 画面操作とは別に処理を進める「AI審査」に対して採用 ⭐︎この記事でわかること⭐︎ １：自動処理を組むとは ２：仕組みとメリット、デメリット ...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！ システム設計 視点の 行動経済学 5</title>
-    <id>https://qiita.com/maskot1977/items/76cb2a92efe0433b1de4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/76cb2a92efe0433b1de4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T10:56:06+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトルおよびその詳細な内容解説は以下の通りです。 1. ソース動画のタイトル 『人手不足の正体はシステム設計のバグ : システム設計視点の行動経済学 Po...</summary>
   </entry>
 </feed>
