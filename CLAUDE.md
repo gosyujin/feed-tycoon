@@ -14,3 +14,4 @@
 - 実装・検証したら、ユーザーの明示的な承認を得るまでコミット・push しない。
 - push 後は `gh run list --workflow=deploy-pages.yml` と `gh run watch <id> --exit-status` でデプロイ成功を確認してから完了報告する。
 - 保留・不要と言われた事項(X の取得、push 通知など)は、本人から話題が出るまで再提案しない。
+- hateb-tycoon との統合は 2026-10-01 に見送った。話が出たら `docs/decisions/hateb-tycoon-merge.md` の「再検討するとき」から始める。
