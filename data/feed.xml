@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T20:30:19.529897+09:00</updated>
+  <updated>2026-11-14T21:00:14.006346+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2156117.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2156117.html" />
+    <updated>2026-11-13T11:57:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google、高速・高効率な「Gemini 4 Hydrogen」を発表 ～「Claude Sonnet 5.5」「GPT-6.1 Terra」のライバル／前世代「3.8 Flash」の2.5倍の速さでタスクを完了</summary>
+  </entry>
   <entry>
     <title>1時間で作るPerlOS: Yet Another Perl Computer</title>
     <id>https://zenn.dev/takesako/articles/e9b10360d889ca</id>
@@ -407,20 +415,20 @@
     <summary>NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...</summary>
   </entry>
   <entry>
+    <title>ng: Neovim のためのシンプルな GUI</title>
+    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
+    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
+    <updated>2026-11-13T20:38:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の窓を与えるだけです。 リポジトリ: ...</summary>
+  </entry>
+  <entry>
     <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
     <id>https://joisino.hatenablog.com/entry/searchrecbook</id>
     <link href="https://joisino.hatenablog.com/entry/searchrecbook" />
     <updated>2026-11-13T19:50:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...</summary>
-  </entry>
-  <entry>
-    <title>ng: Neovim のためのシンプルな GUI</title>
-    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
-    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
-    <updated>2026-11-13T19:49:55+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の…</summary>
   </entry>
   <entry>
     <title>Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-13T13:54:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>「磁気テープ」再注目 生成AIの普及でデータ量莫大に 情報流出リスク低く需要高まる（テレビ朝日） 富士フイルムがデータ保存用の磁気テープの生産能力を5倍にすると発表しました。不正アクセスによる情報流出への対策が求められる中、ネットワークから切り離してデータを保存する昔ながらのテープの技術が再注目され...</summary>
-  </entry>
-  <entry>
-    <title>「Qoo10」不正アクセス、個人情報漏えい 「住所の地理座標」や「身体的特徴」も対象の可能性</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/13/2000003186/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/13/2000003186/" />
-    <updated>2026-11-13T13:40:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>会員数3000万人超の大手ECモール「Qoo10」（キューテン）を運営するeBay Japanは11月12日、6日に同社のシステムが不正アクセスを受け、一部の個人情報が閲覧されたと発表した。氏名や住所の他、住所の地理座標、顧客が任意で入力した身体的特徴などが含まれる可能性があるという。 対象となる可能性がある個人情報には、...</summary>
   </entry>
 </feed>
