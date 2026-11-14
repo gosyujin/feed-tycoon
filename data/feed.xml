@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-14T23:30:12.768439+09:00</updated>
+  <updated>2026-11-15T00:00:13.953214+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
+    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
+    <updated>2026-11-14T19:07:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML...</summary>
+  </entry>
+  <entry>
+    <title>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/route53-recordset-protections/</id>
+    <link href="https://dev.classmethod.jp/articles/route53-recordset-protections/" />
+    <updated>2026-11-14T07:48:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</summary>
+  </entry>
+  <entry>
+    <title>当社サービスへの不正アクセスに関するご報告</title>
+    <id>https://plaid.co.jp/news/20261113/</id>
+    <link href="https://plaid.co.jp/news/20261113/" />
+    <updated>2026-11-13T20:27:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>現在、当社の提供する「KARTE」に対する第三者からの不正アクセスを検知したため、緊急メンテナンスとしてKARTE全体のサービスを停止しています。 現在、障害解消に向けて調査対応を進めております。新たに公表すべき事実が判明した際には速やかにお知らせいたします。 ■ 対象プロジェクト KARTEをご利用の全てのプロジ...</summary>
+  </entry>
   <entry>
     <title>Cognitoの自己サインアップが有効だと、誰でもAWSの一時認証情報を取得できる：AI攻撃ツールARTEXの事例と確認したい設定3点 | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/cognito-self-signup-agentic-attack/</id>
@@ -471,20 +495,20 @@
     <summary>NTTドコモビジネスなど4社は11月13日、データセンターの排熱を活用してエビを養殖する実証実験を発表した。2026年度中に養殖に適した排熱の回収方法を模索し、2027年度には回収した熱を使ってクルマエビ科の一種「バナメイエビ」を育てる計画だ。なぜエビの養殖を選んだのか、育てたエビはどうするのか。担当者に話を聞...</summary>
   </entry>
   <entry>
-    <title>ng: Neovim のためのシンプルな GUI</title>
-    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
-    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
-    <updated>2026-11-13T20:38:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の窓を与えるだけです。 リポジトリ: ...</summary>
-  </entry>
-  <entry>
     <title>『検索システム』『推薦システム』とLLM時代の検索推薦 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ</title>
     <id>https://joisino.hatenablog.com/entry/searchrecbook</id>
     <link href="https://joisino.hatenablog.com/entry/searchrecbook" />
     <updated>2026-11-13T19:50:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>拙著『検索システム』『推薦システム』が発売されました。 ▲カバーイラストがおしゃれで嬉しい これらはその名の通り検索システムと推薦システムの教科書です。LLM 時代の新基準になることを目指して執筆しました。すべてのログデータをプロンプトに入れて「これを前提に何を推薦すればいいか」と LLM に訊くという投げ...</summary>
+  </entry>
+  <entry>
+    <title>ng: Neovim のためのシンプルな GUI</title>
+    <id>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</id>
+    <link href="https://zenn.dev/shougo/articles/ng-nvim-simple-gui" />
+    <updated>2026-11-13T19:49:55+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの UI です。GVim が Vim にとってそうであるように、ng は Neovim に GUI の…</summary>
   </entry>
   <entry>
     <title>Firefoxの内蔵VPNを無料＆データ通信量無制限で全ユーザーに提供するとMozillaが発表、2027年1月31日まで</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-13T14:03:44+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 最近は、AI Agentを使ってコードを書くことが日常になりました。その一方で、自分で直接コードを書く頻度は本当に減ったと感じています。何年もかけて少しずつ変わったというより、ここ2年も経たないうちの変化です。 今や新しいモデルが出るたびに、Artificial Analysisのグラフを眺めています。少し前まで十分良いと思っていた性能を上回りつつ、速度も出て、コストとのバランスも良いの…</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト障害、市場ではFAX活用 投信で基準価格公表に遅れも - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUB133K20T11C26A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUB133K20T11C26A1000000/" />
-    <updated>2026-11-13T13:50:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米マイクロソフトの業務ソフト「マイクロソフト365」の大規模障害の影響が金融市場の取引にも及んでいる。取引内容の確認などに使っているメールが止まり、市場参加者はファクスなど代替手段の活用に追われている。「マイクロソフトのメールシステムを使っている証券会社から、発注はやめてほしいと言われた」。国内投信...</summary>
-  </entry>
-  <entry>
-    <title>フィーチャーチームに配属された新卒エンジニアのAIに振り回されない「AI活用」</title>
-    <id>https://zenn.dev/safie_inc/articles/b6fa3de06606be</id>
-    <link href="https://zenn.dev/safie_inc/articles/b6fa3de06606be" />
-    <updated>2026-11-13T12:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、新卒4期生（2026年新卒）の武内です。光陰矢の如しとはよく言ったもので、4ヶ月の研修を経て実際の現場に配属されて、あっという間に3ヶ月(!?)が経とうとしています。 この記事では、配属から今日までを振り返りつつ、AIネイティブ世代？としてどのようにこの期間「AIを活用してキャッチアップや実際の業務を行ったか」を紹介できればと思っています。 初配属：フィーチャーチーム 新卒研…</summary>
-  </entry>
-  <entry>
-    <title>Gemini 4 Hydrogen の概要｜npaka</title>
-    <id>https://note.com/npaka/n/nf3aa0a193147</id>
-    <link href="https://note.com/npaka/n/nf3aa0a193147" />
-    <updated>2026-11-13T09:19:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1. Gemini 4 Hydrogen2026年11月12日、Google DeepMindは新しいAIモデル「Gemini 4 Hydrogen」を発表しました。 「Gemini 4 Hydrogen」は、高速な推論と高い知能を両立し、コーディングやAIエージェントによる作業の効率化に特化したAIモデルです。 主な特徴は次のとおりです。 ・高速処理：従来のGemini 3.8 Flashより.…</summary>
   </entry>
 </feed>
