@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T05:30:11.857758+09:00</updated>
+  <updated>2026-11-16T06:00:16.628647+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>IAM Identity Center に追加リージョン（セカンダリ）を作ってみた（KMSキーの作成から大阪リージョンの追加まで） | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/add-iic-secondary-region/</id>
+    <link href="https://dev.classmethod.jp/articles/add-iic-secondary-region/" />
+    <updated>2026-11-15T21:27:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1.KMS からマルチリージョンキーを作る プライマリの東京リージョンから KMS 画面に遷移し、【キーの作成】を開きます。 キーのタイプ：対称 キーの使用法：暗号化および復号化 詳細オプション；「マルチリージョンキー」を選ぶ 任意のエイリアスを入力し、キー管理者とキーユーザーの選択に進みます。 今回はキーポリシ...</summary>
+  </entry>
+  <entry>
+    <title>Sprite stacking for fake 3D pixel art cars and props</title>
+    <id>https://www.spritecook.ai/blog/sprite-stacking-pixel-art</id>
+    <link href="https://www.spritecook.ai/blog/sprite-stacking-pixel-art" />
+    <updated>2026-11-15T17:22:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Sprite stacking for fake 3D pixel art cars and propsTurn a top-down car to any angle from one small sheet of flat slices. How sprite stacking works, how to cut the slices from four flat views, and tes…</summary>
+  </entry>
   <entry>
     <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
     <id>https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-14T07:48:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</summary>
-  </entry>
-  <entry>
-    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
-    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
-    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
-    <updated>2026-11-13T22:08:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はClaude Code（AnthropicのClaude）と一緒に行いました。 書き換え…</summary>
-  </entry>
-  <entry>
-    <title>当社サービスへの不正アクセスに関するご報告</title>
-    <id>https://plaid.co.jp/news/20261113/</id>
-    <link href="https://plaid.co.jp/news/20261113/" />
-    <updated>2026-11-13T20:27:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>現在、当社の提供する「KARTE」に対する第三者からの不正アクセスを検知したため、緊急メンテナンスとしてKARTE全体のサービスを停止しています。 現在、障害解消に向けて調査対応を進めております。新たに公表すべき事実が判明した際には速やかにお知らせいたします。 ■ 対象プロジェクト KARTEをご利用の全てのプロジ...</summary>
   </entry>
 </feed>
