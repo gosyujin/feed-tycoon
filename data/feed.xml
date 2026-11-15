@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T19:30:13.183261+09:00</updated>
+  <updated>2026-11-15T20:00:13.639833+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>フロントエンドのフレームワークを、安全に段階的に入れ替える</title>
+    <id>https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928</id>
+    <link href="https://zenn.dev/yasuakiomokawa/articles/de83bb4c4ea928" />
+    <updated>2026-11-14T16:12:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事の想定読者 React などで書いた画面を、別の framework へ少しずつ移したいエンジニア 移行の計画を承認する立場で、「作業がどこまで安全で、途中で止めたらどうなるのか」を判断したいマネージャー framework の名前は例として出します。移す先が Vue でも Svelte でも、考え方は同じです。 読み方の目安です。 エンジニアの方: 「この形が使える前提」で自分のアプリに…</summary>
+  </entry>
+  <entry>
+    <title>Skills を持つ単一エージェントは、サブエージェント構成より品質で上回ることが多い — Anthropic が示す移行の手順</title>
+    <id>https://zenn.dev/happy_elements/articles/201519107f93de</id>
+    <link href="https://zenn.dev/happy_elements/articles/201519107f93de" />
+    <updated>2026-11-12T12:38:09+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026 年 10 月 22 日、Anthropic の claude.com ブログに「Building agents: When to fold subagents into your main agent loop」が公開されました。サブエージェントに分けて組んだエージェントを、メインのエージェントループに取り込み、Skills（必要になったときに読み込む手順や知識のまとまり）とツールを持た…</summary>
+  </entry>
   <entry>
     <title>自作フィードリーダーを作った - A Day in the Life</title>
     <id>https://secon.dev/entry/2026/11/12/220000-my-own-feed-reader/</id>
@@ -250,9 +266,9 @@
     <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
     <id>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</id>
     <link href="https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat" />
-    <updated>2026-11-13T13:25:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る...</summary>
+    <updated>2026-11-12T20:41:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。 PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では…</summary>
   </entry>
   <entry>
     <title>NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-14T12:04:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>Microsoft 365、接続障害から回復 後日詳細を報告へ</summary>
-  </entry>
-  <entry>
-    <title>Google、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開 | gihyo.jp</title>
-    <id>https://gihyo.jp/article/2026/11/a2ui-1.0</id>
-    <link href="https://gihyo.jp/article/2026/11/a2ui-1.0" />
-    <updated>2026-11-13T09:18:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Google⁠⁠、AIエージェント向けUIプロトコル「A2UI」バージョン1.0を公開 GoogleのA2UIチームは2026年11月11日、AIエージェントがフォームやグラフなどの対話型UIを返すためのオープンプロトコル「A2UI」の初の安定版となるバージョン1.0を公開した。利用者の依頼に応じてエージェントがUIの構成や表示内容を記述し、アプ...</summary>
-  </entry>
-  <entry>
-    <title>「なんでお前は重要なデータを任されるほど信用されてんの？」と上司に聞かれたセキュリティ担当者の回答、信頼に値する妙な説得力がある「情報って武器だなぁ」</title>
-    <id>https://togetter.com/li/2770282</id>
-    <link href="https://togetter.com/li/2770282" />
-    <updated>2026-11-14T12:49:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>沖田 丈11 @vjoe 俺、会社のかなり重要なデータを扱ってんのね そんで、他社から入社してきた上司から 「なんで沖田は重要なデータ任されてる程に信用されてんの？」 って聞かれて 「セキュリティ兼内部監査として、取締役の誰が休日に会社PCで熟女AV観てたか把握しているけどバラしてないから」 で納得してもらえた 202...</summary>
   </entry>
 </feed>
