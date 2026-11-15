@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T00:30:14.415373+09:00</updated>
+  <updated>2026-11-16T01:00:13.670982+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>こんなに変わった！ AWSネットワークの常識</title>
+    <id>https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote</id>
+    <link href="https://speakerdeck.com/shotashiratori/nw-jaws-10th-keynote" />
+    <updated>2026-11-15T21:30:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NW-JAWS 10周年イベントのKeynote資料です</summary>
+  </entry>
+  <entry>
+    <title>さようならSSH鍵、こんにちはゼロトラスト ― AIフレンドリーで快適な自宅鯖SSH</title>
+    <id>https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026</id>
+    <link href="https://speakerdeck.com/atalie2m/goodbye-ssh-key-jisabakan-2026" />
+    <updated>2026-11-15T20:08:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>自宅鯖でありがちな、「SSH鍵をサーバごとに分けると管理が面倒。でも、同じ鍵をあちこちで使い回すのも怖いよね」という悩み。コーディングエージェントの登場によって、この問題はさらに大きくなりました。人間が使っているSSH鍵をそのままエージェントに渡すわけにもいかないし、かといって専用の鍵を増やして管理する…</summary>
+  </entry>
+  <entry>
+    <title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説 - Qiita</title>
+    <id>https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5</id>
+    <link href="https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5" />
+    <updated>2026-11-15T19:12:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。 認証。ファイアウォール。脆弱性の名前。 セキュリティと聞くと、そこを勉強すればいいと思う人が多いのではないかと思います。 ただ、みんなが思っているセキュ...</summary>
+  </entry>
   <entry>
     <title>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
     <id>https://www.publickey1.jp/blog/26/postgresql_194ai.html</id>
@@ -103,14 +127,6 @@
     <summary>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship...</summary>
   </entry>
   <entry>
-    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
-    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
-    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
-    <updated>2026-11-15T13:23:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...</summary>
-  </entry>
-  <entry>
     <title>Linux Kernel Internals</title>
     <id>https://kernel-internals.org/</id>
     <link href="https://kernel-internals.org/" />
@@ -125,6 +141,14 @@
     <updated>2026-11-14T18:13:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>Tokyo Test Fest 2026 における LT 登壇資料です。 https://tokyotestfest.com/home_2026/</summary>
+  </entry>
+  <entry>
+    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
+    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
+    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
+    <updated>2026-11-13T00:31:01+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 https://unsolublesugar.com/20261112/120000/ この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、…</summary>
   </entry>
   <entry>
     <title>プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-14T11:05:25+09:00</updated>
     <category term="はてブ IT" />
     <summary>On October 29, we shared that we were investigating a security incident and a malicious, unauthorized copy of Anthropic's Claude Code extension that appeared in the Cursor VS Code extension marketplac…</summary>
-  </entry>
-  <entry>
-    <title>幻覚がひどいAIでも言葉遣いが洗練されていれば人を簡単に騙せることが判明</title>
-    <id>https://gigazine.net/news/20261114-llm-fluency-credible/</id>
-    <link href="https://gigazine.net/news/20261114-llm-fluency-credible/" />
-    <updated>2026-11-14T08:05:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ChatGPTなどに代表される大規模言語モデルは、その根本的な仕組みとして、モデル自身は自分の回答が合っているか間違っているかを判断できません。そのためこの手のAIには事実ではないことをまるで事実かのように話してしまう「幻覚(ハルシネーション)」の問題が常につきまといます。新たな研究では、AIの回答に幻覚があ...</summary>
-  </entry>
-  <entry>
-    <title>GoogleのGemini搭載スマートグラス「Intelligent Eyewear」が予約受付開始、70以上の言語のリアルタイム翻訳やハンズフリーでのAI操作が可能</title>
-    <id>https://gigazine.net/news/20261113-google-intelligent-eyewear/</id>
-    <link href="https://gigazine.net/news/20261113-google-intelligent-eyewear/" />
-    <updated>2026-11-13T11:41:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleは2026年11月12日、SamsungおよびメガネブランドのWarby Parker、Gentle Monsterと共同開発したスマートグラス「Intelligent Eyewear」の予約受付を開始しました。AIアシスタントのGeminiを搭載し、スマートフォンを取り出すことなく目の前にある物について質問したり、外国語の会話をリアルタイムで翻訳したりす...</summary>
-  </entry>
-  <entry>
-    <title>ちょっと見ない間にClaude APIが進化してた！</title>
-    <id>https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/moritalous/items/9e7c02b749037238b2bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T15:32:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ClaudeのAPI、ただモデル呼び出すだけでしょと思ってたんですが、どんどん進化してました！ 環境 Pythonのプロジェクトを作成し、Anthropicの公式SDKをインストールします。 uv init app --python 3.13 --no-package c...</summary>
   </entry>
 </feed>
