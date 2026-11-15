@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T06:30:13.824083+09:00</updated>
+  <updated>2026-11-16T07:00:13.451558+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Lightdashで作れるグラフを試してみた【dbt v2】</title>
+    <id>https://zenn.dev/ryatora/articles/lightdash-chart-catalog</id>
+    <link href="https://zenn.dev/ryatora/articles/lightdash-chart-catalog" />
+    <updated>2026-11-16T00:07:26+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. 概要 1.1 本記事の目的 NBA（アメリカのプロバスケットボールリーグ）のデータを使って、Lightdash[1]で様々なグラフを作成してみました。各グラフのYAMLも載せています。 2章で準備をして、3章でグラフを種類ごとに作ります。4章では、組み込みにないグラフを作る方法に触れます。 1.2 Lightdashとは Lightdashは、dbtのプロジェクトか、Lightdash独自の…</summary>
+  </entry>
+  <entry>
+    <title>FTDで実装するTLS Decryption</title>
+    <id>https://zenn.dev/5x4x7/articles/92a962f3cd6cb6</id>
+    <link href="https://zenn.dev/5x4x7/articles/92a962f3cd6cb6" />
+    <updated>2026-11-15T22:49:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>※概要だけ確認される場合は検証部分は見なくてよいかと思います。 ※検証環境で登場するVMはCMLを含め、全てProxmox VE上に構築しています。フルバーチャルで検証できるようになり、良い時代になりましたね。 ※検証はFTD、FMCともに10.0.0を使用しています。 ! 自分が書いてみたいという理由だけでHTML/CSSを埋め込んでみましたが、力尽きました。 スマホで見ると表示が崩れますが、ギ…</summary>
+  </entry>
+  <entry>
+    <title>Canton Networkとは何か――金融機関が「見せる相手を選べる」ブロックチェーンに集まる理由</title>
+    <id>https://zenn.dev/komlock_lab/articles/canton-network-evm-comparison-2026</id>
+    <link href="https://zenn.dev/komlock_lab/articles/canton-network-evm-comparison-2026" />
+    <updated>2026-11-15T18:06:22+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは！ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でエンジニアをしている小原（@brto_0224）です。 オンチェーン金融の大きなニュースには、たびたびCanton Networkの名前が出てきます。米国の証券決済を担うDTCCがCantonとつながる証券のデジタル化サービスを動かし始め、J.P. Morganも銀行預金…</summary>
+  </entry>
+  <entry>
+    <title>.NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！</title>
+    <id>https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale</id>
+    <link href="https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale" />
+    <updated>2026-11-15T16:58:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今まで ASP.NET Core Blazor の InteractiveServer のモードでは、サーバー側のメモリに保持される回路（Circuit）をスケールイン時に別のサーバーへ移行できませんでした。そのため柔軟なスケールアウト！スケールイン！するようなシステムにするのをあきらめざるを得ませんでした…。 .NET 11 では、サーバー側からクライアント側に状態を保存させてから再接…</summary>
+  </entry>
   <entry>
     <title>IAM Identity Center に追加リージョン（セカンダリ）を作ってみた（KMSキーの作成から大阪リージョンの追加まで） | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/add-iic-secondary-region/</id>
@@ -271,14 +303,6 @@
     <summary>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship...</summary>
   </entry>
   <entry>
-    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
-    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
-    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
-    <updated>2026-11-15T13:23:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...</summary>
-  </entry>
-  <entry>
     <title>Linux Kernel Internals</title>
     <id>https://kernel-internals.org/</id>
     <link href="https://kernel-internals.org/" />
@@ -293,6 +317,14 @@
     <updated>2026-11-14T18:13:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>Tokyo Test Fest 2026 における LT 登壇資料です。 https://tokyotestfest.com/home_2026/</summary>
+  </entry>
+  <entry>
+    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
+    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
+    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
+    <updated>2026-11-13T00:31:01+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 https://unsolublesugar.com/20261112/120000/ この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、…</summary>
   </entry>
   <entry>
     <title>プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-14T21:54:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>しー@園芸博NEXT！ @Sh_i0916 すげぇ！！！ フロッピーや！！ フロッピーや！！！ 教科書とかで見たフロッピーや！！ 初めて触ったかも！！ うっす！！！！ かるっ！！！！！ すげぇ！！ これで容量どれくらいあるんですか？ #フロッピー #富士通 pic.x.com/Ofx3uVhKaf 2026-11-14 09:04:15</summary>
-  </entry>
-  <entry>
-    <title>現代のソフトウェアは劣化しているかもしれないが昔のソフトウェアはもっとひどかったという指摘</title>
-    <id>https://gigazine.net/news/20261114-software-used-to-be-horrible/</id>
-    <link href="https://gigazine.net/news/20261114-software-used-to-be-horrible/" />
-    <updated>2026-11-14T12:09:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ソフトウェアの肥大化や動作の遅さ、バグの増加などを理由に「昔のソフトウェアの方が品質が高かった」と主張する人もいます。しかし、1990年からコンピューターを使い続けてきたソフトウェアエンジニアのジェイク・ヴォイトコ氏は過去のソフトウェアが抱えていた問題を振り返り、現代のソフトウェアがいかに改善されて...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフトの障害が全面復旧 メールやAI、ほぼ1日半経て - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC141CH0U6A111C2000000/" />
-    <updated>2026-11-14T15:07:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米マイクロソフトは14日、業務ソフト「マイクロソフト365」で起きた大規模な障害についてサービスが全面復旧したと発表した。日本時間14日午後2時半すぎに接続状況ページで復旧を報告した。メールソフト「Outlook（アウトルック）」や人工知能（AI）支援機能「Copilot（コパイロット）」などが利用できない影響が出てい...</summary>
-  </entry>
-  <entry>
-    <title>Gemini、Google Walletと連携して家計を分析--サブスクの値上げも検出</title>
-    <id>https://japan.cnet.com/article/35254868/</id>
-    <link href="https://japan.cnet.com/article/35254868/" />
-    <updated>2026-11-14T07:02:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。 「Personal Intelligence」の連携先にGoogle Walletが加わる（画像：Google、公式ブ...</summary>
-  </entry>
-  <entry>
-    <title>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/route53-recordset-protections/</id>
-    <link href="https://dev.classmethod.jp/articles/route53-recordset-protections/" />
-    <updated>2026-11-14T07:48:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</summary>
   </entry>
 </feed>
