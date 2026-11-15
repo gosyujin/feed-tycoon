@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T16:15:02.100448+09:00</updated>
+  <updated>2026-11-15T16:30:13.818337+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マザーボードは、ほぼ壊れない ―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序</title>
+    <id>https://clivelab.jp/blogs/news/motherboard-rarely-fails</id>
+    <link href="https://clivelab.jp/blogs/news/motherboard-rarely-fails" />
+    <updated>2026-11-14T16:57:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>―組み立て2,400台とサポート43,000件で見えた、PCの故障の順序 はじめに：結論から PCのパーツが壊れる順序は、ほぼ決まっています。 稼働部品（ファン・ポンプ） → SSD → 電源 → グラフィックボード → その他。 そして意外に思われるかもしれませんが、マザーボードが単独で壊れるケースは稀です。長年サポートの現場に...</summary>
+  </entry>
   <entry>
     <title>【やきとりつづらや＠上田】上田名物「美味だれ焼き鳥」発祥店の系譜を持つ老舗焼きとり店 - 御成門プログラマーのグルメ記録</title>
     <id>https://food.onarimon.jp/entry/2026/11/14/203910</id>
@@ -82,9 +90,9 @@
     <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
     <id>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</id>
     <link href="https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat" />
-    <updated>2026-11-12T20:41:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。 PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では…</summary>
+    <updated>2026-11-13T13:25:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る...</summary>
   </entry>
   <entry>
     <title>NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続</title>
@@ -287,20 +295,20 @@
     <summary>グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。 「Personal Intelligence」の連携先にGoogle Walletが加わる（画像：Google、公式ブ...</summary>
   </entry>
   <entry>
+    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
+    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
+    <updated>2026-11-14T19:07:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML...</summary>
+  </entry>
+  <entry>
     <title>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/route53-recordset-protections/</id>
     <link href="https://dev.classmethod.jp/articles/route53-recordset-protections/" />
     <updated>2026-11-14T07:48:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</summary>
-  </entry>
-  <entry>
-    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
-    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
-    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
-    <updated>2026-11-13T22:08:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はClaude Code（AnthropicのClaude）と一緒に行いました。 書き換え…</summary>
   </entry>
   <entry>
     <title>当社サービスへの不正アクセスに関するご報告</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-13T18:17:59+09:00</updated>
     <category term="はてブ IT" />
     <summary>Firefoxブラウザには無料のVPNが内蔵されており、ウェブサイトがIPアドレスを使ってユーザーの所在地を特定したり、ウェブ上のアクセス履歴を追跡したりすることを制限することができます。通常は内蔵VPNを利用するにはサインインした上で月間50GBのデータ制限がありますが、2026年11月10日から2027年1月31日までの期間...</summary>
-  </entry>
-  <entry>
-    <title>Fable 5.2は物理モデリング音源の実装も作曲もすごい - きしだのHatena</title>
-    <id>https://nowokay.hatenablog.com/entry/2026/11/13/101644</id>
-    <link href="https://nowokay.hatenablog.com/entry/2026/11/13/101644" />
-    <updated>2026-11-13T23:22:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Fable 5.2が出て今週いっぱいくらいPlusでも使えるのだけど、Fableじゃないとダメなことってなんだろなと思いつつ、楽器の物理シミュレーションがOpusはまだあまりうまくなかったなと、Fableさんに物理モデリング音源を作ってもらって曲もつくってもらったら、物理モデリングも結構できていたのだけど、曲がちゃんとして...</summary>
   </entry>
 </feed>
