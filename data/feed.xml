@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T11:30:13.280451+09:00</updated>
+  <updated>2026-11-15T12:00:15.167968+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>個人開発で5週間150万DL、AIと爆速で作るCAD「SolidCraft」 - FabScene（ファブシーン）</title>
+    <id>https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/</id>
+    <link href="https://fabscene.com/new/interview/solidcraft-open-source-cad-ai-1-5m-downloads-brennen-herbruck/" />
+    <updated>2026-11-15T08:49:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Claude CodeやCodexのようなAIコーディングツールが広がり、個人が手がけられるソフトウェアの規模が変わりつつある。米国の開発者Brennen Herbruck氏が2026年10月に書き始めたオープンソースの3D CAD「SolidCraft」は、その一例だ。公開から約5週間で正式版を58回リリースし、GitHubからのダウンロードは約150万回、ス...</summary>
+  </entry>
   <entry>
     <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
     <id>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-12T22:38:20+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 簡単な処理（クレカ明細からジャンルを仕分ける）にGeminiのAPIを利用している 問題 503で処理が完了できない 解決 一時的にモデルをgemini-3.8-flash → gemini-3.5-flash で変更して解決。出力も問題なさそう ...</summary>
-  </entry>
-  <entry>
-    <title>予測モデルを作るだけでは、戦略にならない ― 横断面ロングショートの機械学習設計</title>
-    <id>https://qiita.com/tikeda123/items/461412ad2520c31bdea6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tikeda123/items/461412ad2520c31bdea6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-12T14:09:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに #記事の内容を300秒動画にまとめました：https://youtu.be/OM2e7PVft28 機械学習で株式のロングショート戦略を作ろうとすると、多くの人がまず予測モデルの精度を上げることに集中します。特徴量を増やし、モデルを入れ替え、予測誤差を少しで...</summary>
   </entry>
 </feed>
