@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T22:00:13.136117+09:00</updated>
+  <updated>2026-11-15T22:30:15.753577+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Claude Codeに同じ調査を繰り返させないためのメモの残し方 - Qiita</title>
+    <id>https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff</id>
+    <link href="https://qiita.com/kentasatomi/items/06ccfbf7f6a2a24883ff" />
+    <updated>2026-11-15T12:23:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Claude Codeに同じ調査を繰り返させないためのメモの残し方 Anthropicは2026年11月6日、AIエージェントが作業で得た知識を次のセッションへ残す仕組みについて、技術解説「The components of agent memory」を公開しました。会話の記録、そこから作るメモ、後で読み直して訂正する処理を分けて説明しています。 Anthropi...</summary>
+  </entry>
+  <entry>
+    <title>iPad mini を「持ち歩ける仕事道具」にしたアクセサリ｜Kyohei - OSS, 外資IT</title>
+    <id>https://note.com/kyohei_dev/n/ncd04abe5aebc</id>
+    <link href="https://note.com/kyohei_dev/n/ncd04abe5aebc" />
+    <updated>2026-11-14T17:56:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ほんまにありがとう！！iPad miniガチで最高ですわ！！大好き！！ https://t.co/rjd0R7d5n4 pic.twitter.com/jtNI1MH2MM — Kyohei - OSS, 外資IT (@labelmake) November 6, 2026 iPhone Duoを一瞬買おうとしていたけど、お届け日が来年になって、SNS上でなんかいろいろレビューとかみてたらやっぱい…</summary>
+  </entry>
   <entry>
     <title>【速報】スペースXの「スターシップ」が発射台に初帰還！ 第15回飛行試験でキャッチ成功</title>
     <id>https://sorae.info/space/20261115-starship-15.html</id>
@@ -13,14 +29,6 @@
     <updated>2026-11-15T14:42:37+09:00</updated>
     <category term="はてブ IT" />
     <summary>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship...</summary>
-  </entry>
-  <entry>
-    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
-    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
-    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
-    <updated>2026-11-15T13:23:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...</summary>
   </entry>
   <entry>
     <title>Linux Kernel Internals</title>
@@ -37,6 +45,14 @@
     <updated>2026-11-14T18:13:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>Tokyo Test Fest 2026 における LT 登壇資料です。 https://tokyotestfest.com/home_2026/</summary>
+  </entry>
+  <entry>
+    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
+    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
+    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
+    <updated>2026-11-13T00:31:01+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 https://unsolublesugar.com/20261112/120000/ この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、…</summary>
   </entry>
   <entry>
     <title>プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.</title>
@@ -338,9 +354,9 @@
     <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
     <id>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</id>
     <link href="https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat" />
-    <updated>2026-11-13T13:25:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る...</summary>
+    <updated>2026-11-12T20:41:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。 PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では…</summary>
   </entry>
   <entry>
     <title>NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-14T00:22:50+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに これまで、エージェントに渡すスキルをいくつも作ってきましたが、モデルが賢くなったらこれらがどうなるのかは、ちゃんと考えたことがありませんでした。 そこで、自分のスキルを1本読み返して、何が残りそうかを考えてみました。この記事では、その見立てと、要らなくなった記述...</summary>
-  </entry>
-  <entry>
-    <title>二層 k-ε モデル</title>
-    <id>https://qiita.com/openyanagi/items/ed4e431267bace10d0a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/openyanagi/items/ed4e431267bace10d0a6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T23:02:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>OpenCFD社の OpenFOAM v2512 で 二層 $k-\varepsilon$ モデルが追加された。今後、役に立つかも知れないので、調査および動作確認を行う。 Turbulence: New two-layer wall treatment for kEpsil...</summary>
-  </entry>
-  <entry>
-    <title>「とりあえず触ってみてください」で受入テストを始めていませんか？要件定義で決める受入基準の書き方</title>
-    <id>https://qiita.com/TH_stickey/items/23d26568962034b72cf8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/TH_stickey/items/23d26568962034b72cf8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T21:17:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 受入テストの初日、発注側の担当者が画面を触りながら「思っていたのと違う」「このケースはどうなるの？」と言い始めます。開発側は「仕様書どおりです」と答え、そこから仕様変更か不具合かの議論が始まります。 こうした指摘にも、実は2つの段階があります。発注側の中で要望や...</summary>
   </entry>
 </feed>
