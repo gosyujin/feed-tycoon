@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T12:30:13.497702+09:00</updated>
+  <updated>2026-11-15T13:00:12.044502+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>独プールで15人体調不良 マイクロソフト障害影響 | NEWSjp</title>
+    <id>https://news.jp/i/1494496378441958289</id>
+    <link href="https://news.jp/i/1494496378441958289" />
+    <updated>2026-11-15T11:57:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【ベルリン共同】ドイツ公共放送WDRは14日、米IT大手マイクロソフトの主力業務ソフトの大規模障害による影響で、西部ブリュールのテーマパーク内にあるプールの利用者15人が体調不良を訴えたと報じた。障害により安全管理システムの警報メールが担当者に届かず、塩素を注入する装置の不具合に気付かず水中塩素濃度が著し...</summary>
+  </entry>
+  <entry>
+    <title>Not todo: 技術者倫理がなければ作る予定だったもの一覧 | ActiveTK's Note</title>
+    <id>https://note.activetk.jp/etc/uncensored-dev-list</id>
+    <link href="https://note.activetk.jp/etc/uncensored-dev-list" />
+    <updated>2026-11-15T09:59:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Not todo: 技術者倫理がなければ作る予定だったもの一覧 作成日時 2026/11/11 19:35 最終更新 2026/11/11 19:35 この記事は非公開(現在執筆途中)です序章画像をアップロードするだけで撮影地点を特定できるサイト分類器自動バイパスツール国内CDNオリジンの総当たり特定ツールphp2shell testerファイルのメタ情報編集ツ...</summary>
+  </entry>
+  <entry>
+    <title>XCPEマルウェアの解析と国内における観測実態</title>
+    <id>https://blog.nicter.jp/2026/11/xcpe_campaign/</id>
+    <link href="https://blog.nicter.jp/2026/11/xcpe_campaign/" />
+    <updated>2026-11-06T21:02:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026年11月3日、Googleは、世界で130万台以上のAndroid搭載機器に影響を及ぼしていたXCPEボットネットのテイクダウンを発表しました1。XCPEは、一部のAndroid搭載セットトップボックスなどにプリインストールされているマルウェアで、遠隔からのコマンド実行や情報収集に加え、外部モジュールを導入することで...</summary>
+  </entry>
   <entry>
     <title>pingしながら問題の切り分けまでしてくれるspingが良さげかも | kawarimidoll.com</title>
     <id>https://kawarimidoll.com/posts/202610201/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-13T15:33:23+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 通っているプログラミングスクールと外部企業の合同企画で、約2週間のハッカソンに受講生3人のチームで参加しました。 項目 内容 期間 約2週間 チーム 受講生3人（チーム開発は全員初めて） 作ったもの 上司向けの日報管理アプリ 技術 Ra...</summary>
-  </entry>
-  <entry>
-    <title>Unityを選ぶ企業は赤字体質である。</title>
-    <id>https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/roripika/items/bdeb5537efc1f27af726?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T12:29:15+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>※本記事について 本記事は、筆者がゲーム開発の現場で抱えている課題感や知見をもとに、AI（Antigravity / Gemini）と壁打ち・議論した内容をAIに整理・執筆させたものです。 はじめに：なぜ「Unityにすれば早く作れる」が実現しないのか ゲーム開発の現...</summary>
-  </entry>
-  <entry>
-    <title>「ざっくり工数どのくらい？」に「ざっくり工数このくらい」で答えてはいけない</title>
-    <id>https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tsutorm/items/c9ab1e1c64474c341d77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T11:03:33+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「このアプリ作ろうと思ったら、ざっくり工数どのくらい？」 こう聞かれて、つい「ざっくり 〇人月くらいですかね」と答えてしまった経験はないでしょうか。 以前、「"工数が足らない" からの脱却」 という記事で、計画に対して工数が足らない局面の話を書きました。今回はそ...</summary>
-  </entry>
-  <entry>
-    <title>Claude API の Message Threads で、会話の履歴を自分で持たなくてよくなるのか。公式を読むと、スレッドは5分で切れ、写しは自分で持ち続ける前提だった</title>
-    <id>https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/suwa_nobu/items/40e9eba3a7d99a2a485b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T09:00:23+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Claude API に、11月2日から「Message Threads（メッセージスレッド）」というベータの機能が入りました（API の変更履歴）。会話をサーバー側に持ってもらい、2回目からは新しいメッセージだけを送ればよい、という機能です。 これを読んで私が最初に思った...</summary>
   </entry>
 </feed>
