@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T07:00:13.451558+09:00</updated>
+  <updated>2026-11-16T07:30:17.346548+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」</title>
+    <id>https://www.yomiuri.co.jp/world/20261115-GYT1T00190/</id>
+    <link href="https://www.yomiuri.co.jp/world/20261115-GYT1T00190/" />
+    <updated>2026-11-15T23:50:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【読売新聞】 【ニューデリー＝青木佐知子】世界各地で発生した米マイクロソフトのサービスの大規模障害を巡り、サイバー安全保障の観点から独自の業務システムを導入していたインドの政府機関では、目立った影響や混乱はなかった。印メディアは「世</summary>
+  </entry>
+  <entry>
+    <title>北陸Ruby会議02で基調講演をさせていただきました | うなすけとあれこれ</title>
+    <id>https://blog.unasuke.com/2026/hokurikurk02/</id>
+    <link href="https://blog.unasuke.com/2026/hokurikurk02/" />
+    <updated>2026-11-15T20:46:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この度は、北陸Ruby会議02の基調講演者としてお招きいただき、ありがとうございました。 https://regional.rubykaigi.org/hokuriku02/ オファーをいただいたタイミングで、会場が福井県立恐竜博物館になると聞き、化石発掘を絡めて「dig」という単語を使いたいというのと、プロトコルのossificationについてのネタは入れ...</summary>
+  </entry>
   <entry>
     <title>Lightdashで作れるグラフを試してみた【dbt v2】</title>
     <id>https://zenn.dev/ryatora/articles/lightdash-chart-catalog</id>
@@ -303,6 +319,14 @@
     <summary>アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship...</summary>
   </entry>
   <entry>
+    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
+    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
+    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
+    <updated>2026-11-15T13:23:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、公開後の調整までを扱います。作業の大半を Cl...</summary>
+  </entry>
+  <entry>
     <title>Linux Kernel Internals</title>
     <id>https://kernel-internals.org/</id>
     <link href="https://kernel-internals.org/" />
@@ -317,14 +341,6 @@
     <updated>2026-11-14T18:13:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>Tokyo Test Fest 2026 における LT 登壇資料です。 https://tokyotestfest.com/home_2026/</summary>
-  </entry>
-  <entry>
-    <title>脱WordPress：10年超の個人ブログをAstro + Cloudflare Workersへ移行しPageSpeed 100点を実現</title>
-    <id>https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb</id>
-    <link href="https://zenn.dev/unsoluble_sugar/articles/8cdf1efc01e6cb" />
-    <updated>2026-11-13T00:31:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 10 年以上 WordPress で運用してきた個人ブログを Astro + Cloudflare Workers の静的サイト に移行しました。 移行の経緯と読者向けのまとめはブログ側の記事に書いています。 https://unsolublesugar.com/20261112/120000/ この記事では技術的な中身をまとめます。記事データの変換から Cloudflare での公開、…</summary>
   </entry>
   <entry>
     <title>プラレールの上を走るペンプロッタを、人間と一緒に作った話【前編】――作る話｜Kohya S.</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-13T23:03:05+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに AWSでは、実は IAMロール①をAssumeした状態からさらにIAMロール②をAssumeすること（ロールチェイニング） ができます。 この記事ではロールチェイニングについて調べた内容をご紹介します。 今回調べようと思ったのは、構築中の仕組みのテストで利用でき...</summary>
-  </entry>
-  <entry>
-    <title>AWS SAAに737点で合格。Udemyの講座を流し見して、模擬試験に集中した話</title>
-    <id>https://qiita.com/ktdatascience/items/2e52969a445c07cd3ff4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ktdatascience/items/2e52969a445c07cd3ff4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T12:07:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AWS認定ソリューションアーキテクト アソシエイト（SAA-C03）に737点で合格しました。使った教材はUdemyの動画講座と模擬試験です。動画はざっと流し見し、学習の中心は問題演習に置きました。普段からAIとのやり取りで文章を読む時間が長いため、読むことに疲...</summary>
-  </entry>
-  <entry>
-    <title>「すげぇ！教科書とかで見たフロッピーや！！これで容量どれくらいあるんですか？」若者のほのぼのとした感想がぶっ刺さるネット民</title>
-    <id>https://togetter.com/li/2770437</id>
-    <link href="https://togetter.com/li/2770437" />
-    <updated>2026-11-14T21:54:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>しー@園芸博NEXT！ @Sh_i0916 すげぇ！！！ フロッピーや！！ フロッピーや！！！ 教科書とかで見たフロッピーや！！ 初めて触ったかも！！ うっす！！！！ かるっ！！！！！ すげぇ！！ これで容量どれくらいあるんですか？ #フロッピー #富士通 pic.x.com/Ofx3uVhKaf 2026-11-14 09:04:15</summary>
   </entry>
 </feed>
