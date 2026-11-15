@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T10:00:16.731665+09:00</updated>
+  <updated>2026-11-15T10:30:12.548738+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「PowerShell 7.7」が一般公開 ～.NET 11ベース、セキュリティ強化や新コマンドを追加／2年サポートの「標準期間サポート」（STS）リリース</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2156192.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2156192.html" />
+    <updated>2026-11-14T13:56:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「PowerShell 7.7」が一般公開 ～.NET 11ベース、セキュリティ強化や新コマンドを追加／2年サポートの「標準期間サポート」（STS）リリース</summary>
+  </entry>
+  <entry>
+    <title>たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】</title>
+    <id>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html" />
+    <updated>2026-11-13T17:26:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】</summary>
+  </entry>
   <entry>
     <title>AWS セキュリティサービスでアクセスキーの漏えいリスクを最小限に抑える実践的な手順 | Amazon Web Services</title>
     <id>https://aws.amazon.com/jp/blogs/news/practical-steps-to-minimize-key-exposure-using-aws-security-services/</id>
@@ -175,20 +191,20 @@
     <summary>グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。 「Personal Intelligence」の連携先にGoogle Walletが加わる（画像：Google、公式ブ...</summary>
   </entry>
   <entry>
-    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
-    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
-    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
-    <updated>2026-11-14T19:07:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML...</summary>
-  </entry>
-  <entry>
     <title>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/route53-recordset-protections/</id>
     <link href="https://dev.classmethod.jp/articles/route53-recordset-protections/" />
     <updated>2026-11-14T07:48:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</summary>
+  </entry>
+  <entry>
+    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
+    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
+    <updated>2026-11-13T22:08:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はClaude Code（AnthropicのClaude）と一緒に行いました。 書き換え…</summary>
   </entry>
   <entry>
     <title>当社サービスへの不正アクセスに関するご報告</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-13T17:38:59+09:00</updated>
     <category term="はてブ IT" />
     <summary>3. 原因 『ハンゲ』サーバーへの第三者による不正アクセスが原因となります。詳細については現在も調査を進めております。 4. お客様へのお願いと二次被害への注意喚起 パスワードの変更: 他社サービスで同一のパスワードを使い回されている場合は、念のため速やかに変更していただきますようお願いいたします。 不審な...</summary>
-  </entry>
-  <entry>
-    <title>高品質と高スピードを支える品質のシフトレフトのアプローチ</title>
-    <id>https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement</id>
-    <link href="https://speakerdeck.com/goyoki/shift-left-approach-for-team-improvement" />
-    <updated>2026-11-13T09:56:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自己紹介 ⚫経歴 • 開発者、テストエンジニア、コンサルタント、QAエンジニアとさまざまな立場で さまざまなプロダクトの品質保証や品質管理業務に従事 • テストや品質マネジメントについて執筆・講演・研究・技術指導複数 • 現在は車メーカーで車載開発のQA/テストテックリード、QMアーキテクトを担当 • JSTQB技術委員...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフトの障害 在宅勤務の人はどう対応した？ | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261113de75652</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261113de75652" />
-    <updated>2026-11-13T20:08:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「マイクロソフト」のサービスで発生した障害は、在宅勤務をする人にも影響が出ています。 都内のコンサルティング会社に勤める横山倫太郎さんは、育児のため週2日ほど、在宅勤務をしています。 人事部に所…</summary>
   </entry>
 </feed>
