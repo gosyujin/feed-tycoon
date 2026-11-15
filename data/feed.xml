@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-15T15:00:15.161748+09:00</updated>
+  <updated>2026-11-15T15:30:15.567977+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【やきとりつづらや＠上田】上田名物「美味だれ焼き鳥」発祥店の系譜を持つ老舗焼きとり店 - 御成門プログラマーのグルメ記録</title>
+    <id>https://food.onarimon.jp/entry/2026/11/14/203910</id>
+    <link href="https://food.onarimon.jp/entry/2026/11/14/203910" />
+    <updated>2026-11-14T21:29:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>長野県上田市にあります1981年創業(昭和56年)の老舗焼き鳥屋「やきとり つづらや」さんを紹介します。 上田のご当地グルメ「美味だれ焼き鳥(おいだれやきとり)」発祥のお店である「鳥正」さんのご家族が味を引き継いで営業している由緒あるお店です。 外観・場所・アクセス メニュー やきとり 豚レバー 白レバー(鳥) か...</summary>
+  </entry>
   <entry>
     <title>PostgreSQLのバージョンアップ後に ANALYZE VERBOSE を実行する理由</title>
     <id>https://zenn.dev/fusic/articles/e05247d244838e</id>
@@ -74,9 +82,9 @@
     <title>AIで膨らみ続けるテストケースを、リスクベースドテストで選んで回すまでの記録</title>
     <id>https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat</id>
     <link href="https://zenn.dev/pivotmedia/articles/risk-based-testing-for-uat" />
-    <updated>2026-11-12T20:41:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。ビジネス映像メディア「PIVOT」で、QAエンジニア兼PjMをしている ケイスケ です。 PIVOTのモバイルアプリ（iOS / Android）では、AIでテストケースを書くようになってから、ケースの数が増え続けています。リリース前のUAT（受け入れテスト）で全件を回すのが難しくなってきたので、リスクベースドテスト（RBT）で回すケースを選ぶことにしました。ルールは一度では…</summary>
+    <updated>2026-11-13T13:25:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>定義は、機能を変えるたびに、その PR で行を足したり、書き換えたり、消したりします。PR のレビューを通るので、定義を読めば今の挙動が分かります。実行の結果は定義には書かず、リリースごとの実行記録に書きます。 仕様書を兼ねているので、ケースは細かくなります。非会員のとき、ログアウト後、iPad のとき、戻る...</summary>
   </entry>
   <entry>
     <title>NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続</title>
@@ -159,7 +167,7 @@
     <summary>Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a r…</summary>
   </entry>
   <entry>
-    <title>GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux</title>
+    <title>GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative</title>
     <id>https://github.com/libracoder/kiri</id>
     <link href="https://github.com/libracoder/kiri" />
     <updated>2026-11-08T22:13:52+09:00</updated>
@@ -279,20 +287,20 @@
     <summary>グーグルは米国時間11月13日、AIアシスタント「Gemini」で「Google Wallet」の情報を使い、支出の分析や予算づくりを支援する機能の提供を米国で開始した。ウェブ版とAndroid、iOS向けに順次展開する。現時点で日本では利用できない。 「Personal Intelligence」の連携先にGoogle Walletが加わる（画像：Google、公式ブ...</summary>
   </entry>
   <entry>
+    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
+    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
+    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
+    <updated>2026-11-14T19:07:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>同じ問いに対する書き換えたモデルの答えでは、「誤って攻撃してしまう病気」「ビール: 最も注意」と書かれていました（サンプリングなので、文全体は元と同じではありません）。 測った条件 モデル: Qwen3.8-Flash-Next。mlx-serveの変換で作った4ビットのMLX版で、出力層だけ8ビットです。 問い: 医療の問い60問。JMML...</summary>
+  </entry>
+  <entry>
     <title>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/route53-recordset-protections/</id>
     <link href="https://dev.classmethod.jp/articles/route53-recordset-protections/" />
     <updated>2026-11-14T07:48:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>[アップデート] Amazon Route 53 で、レコードセットの変更/削除を保護できるようになりました | DevelopersIO</summary>
-  </entry>
-  <entry>
-    <title>Qwen3.8 Flash Nextに混ざる中国語を、出力層の書き換えで消した: 27%→0%、他の重みは1バイトも変えずに</title>
-    <id>https://zenn.dev/caphtech/articles/qwen38-zh-ban</id>
-    <link href="https://zenn.dev/caphtech/articles/qwen38-zh-ban" />
-    <updated>2026-11-13T22:08:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事は個人（と会社）の実験の記録です。モデルはQwen3.8-Flash-Next（Qwen Community License 1.0）、問いの一部にJMMLUのCC BY-SA 4.0版（Hugging Faceのnlp-waseda/JMMLU_CC-BY-SA）の医療の問題を使いました。実装と実行はClaude Code（AnthropicのClaude）と一緒に行いました。 書き換え…</summary>
   </entry>
   <entry>
     <title>当社サービスへの不正アクセスに関するご報告</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-13T23:22:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>Fable 5.2が出て今週いっぱいくらいPlusでも使えるのだけど、Fableじゃないとダメなことってなんだろなと思いつつ、楽器の物理シミュレーションがOpusはまだあまりうまくなかったなと、Fableさんに物理モデリング音源を作ってもらって曲もつくってもらったら、物理モデリングも結構できていたのだけど、曲がちゃんとして...</summary>
-  </entry>
-  <entry>
-    <title>TypeScriptの有用性を、実際に動かして確かめてみた</title>
-    <id>https://qiita.com/MC_Engineer_Mtfuji/items/bef09d7c9e1288f38ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/MC_Engineer_Mtfuji/items/bef09d7c9e1288f38ad3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T16:20:36+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに Javaを書いていると、フロントエンドの話でTypeScriptの名前をよく聞きます。JavaScriptに型を付けただけ、というのが最初の印象で、なぜここまで選ばれるのかはピンときていませんでした。調べるだけでなく、小さなコードを書いて、自分の手で確かめ...</summary>
   </entry>
 </feed>
