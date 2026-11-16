@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T14:30:20.731198+09:00</updated>
+  <updated>2026-11-16T15:00:16.551775+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>最先端スパコン「富岳」に不正アクセス 企業の機密情報流出に懸念 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/" />
+    <updated>2026-11-16T13:53:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>理化学研究所が運用する日本で最先端スーパーコンピューター「富岳」の運用システムが外部から不正なアクセスを受けたことが16日、分かった。富岳は自動車や製薬、素材など企業の製品開発にも利用されている。企業の機密情報の流出につながりかねない。所管する文部科学省に報告した。富岳は1300億円をかけて整備された...</summary>
+  </entry>
+  <entry>
+    <title>「40年動いていたCOBOLコード」の隠れバグ――残すか否か、現行踏襲に潜む“時限爆弾”</title>
+    <id>https://atmarkit.itmedia.co.jp/ait/articles/2611/16/news023.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2611/16/news023.html" />
+    <updated>2026-11-16T08:53:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「40年動いていたCOBOLコード」の隠れバグ――残すか否か、現行踏襲に潜む“時限爆弾”：2035年へのレガシーモダナイゼーション実務論（9）（1/2 ページ） レガシーシステムの移行では「現行踏襲」が重視されるが、長年稼働してきたシステムに不具合が潜んでいたらどうすべきか。従来は見つからなかった不具合もAIによって発...</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントは悪意ある指示を記憶するのか？— AgentCore MemoryとGuardrailsで検証</title>
+    <id>https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails</id>
+    <link href="https://zenn.dev/takuyousou/articles/agentcore-memory-poisoning-guardrails" />
+    <updated>2026-11-16T00:40:12+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 外部資料に含まれる悪意ある指示によって、AIエージェントが意図しないToolを呼び出してしまう。これは、プロンプトインジェクションの代表的なリスクの一つです。 以前の記事では、System Prompt・Amazon Bedrock Guardrails・AgentCore Policy の役割を、権限外の顧客資料を取得させようとするシナリオで比較しました。 https://zenn.d…</summary>
+  </entry>
+  <entry>
+    <title>「死別」「死別 30代」で検索している人に見つけてほしい、私の体験記</title>
+    <id>https://zenn.dev/hamapu/articles/a53a58363327b6</id>
+    <link href="https://zenn.dev/hamapu/articles/a53a58363327b6" />
+    <updated>2026-11-15T23:05:49+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに この記事は、30代で夫と死別した私の体験記です。 私自身、表題のように「死別」や「死別 30代」という文言で検索しまくっていた時期がありました。自分と同じ境遇の物語があれば、悲しい気持ちが紛れると思ったからです。後に詳しく書きますが、残念ながら心に届くものは見つかりませんでした。無いなら書くしかない。この記事が、同じような状況の人に少しでも寄り添えたらと思い、自分の体験をまとめることにし…</summary>
+  </entry>
+  <entry>
+    <title>サンドボックス内のAIエージェントにHerdrを安全に使わせたい</title>
+    <id>https://zenn.dev/naofumimurata/articles/nono-hc-proxy</id>
+    <link href="https://zenn.dev/naofumimurata/articles/nono-hc-proxy" />
+    <updated>2026-11-15T18:46:35+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code を nono のサンドボックス内で動かしています。サンドボックス内で実行しているときも、ターミナルマルチプレクサの Herdr をエージェントに使わせたいのですが、何もせず Herdr の操作を許可するとサンドボックスを抜けられてしまうため、エージェントと Herdr の間にプロキシを挟む構成を作ってみました。 前提 nono https://nono.sh AI エージェ…</summary>
+  </entry>
+  <entry>
+    <title>Apple container で docker compose を動かす（DNS 名と SSH で簡単になった）</title>
+    <id>https://zenn.dev/7kaji/articles/a9e056ced5f0c1</id>
+    <link href="https://zenn.dev/7kaji/articles/a9e056ced5f0c1" />
+    <updated>2026-11-15T18:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Apple container で docker compose を動かす では、container 1.0.0 の container machine の中に本物の Docker と docker compose を入れて動かしました。そのときは、既定カーネルに netfilter が無くて Kata Containers のカーネルへ差し替えたり、machine の IP を追いかけ…</summary>
+  </entry>
+  <entry>
+    <title>AIで作った結婚式向けの地図サイトを1年後にコードレビューして分かった3つのこと</title>
+    <id>https://zenn.dev/taka26taka/articles/76bceac9cae8aa</id>
+    <link href="https://zenn.dev/taka26taka/articles/76bceac9cae8aa" />
+    <updated>2026-11-15T13:48:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事は、Qiita に投稿した記事を、Zenn 向けに再構成したものです。 当時の記憶と、残っているコード・ドキュメントをもとに掘り起こして書いているので、一部に記憶違いが混ざっているかもしれません。ご容赦ください。 はじめに 2025 年に結婚式を挙げました。私は Web エンジニアとして働いています。 私たち夫婦は隣町同士の出身で、遠方から来てくれるゲストには、こちらに来たことがない人…</summary>
+  </entry>
+  <entry>
+    <title>AIの回答が長すぎて、理解しないまま実装している問題（理解負債）</title>
+    <id>https://zenn.dev/kent_code/articles/5892898be90cac</id>
+    <link href="https://zenn.dev/kent_code/articles/5892898be90cac" />
+    <updated>2026-11-15T09:19:17+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>主に C#/.NET で業務システムを作って25年くらいになります。ここ1年ほどは、設計の相談も実装も Claude Code と一緒にやっています。 便利なのは間違いないんですが、使えば使うほどストレスも溜まっていました。返ってくる情報の量が膨大で、頭がついていかないのです。。 つまり、回答が長すぎて、理解が追いつかないまま実装に進んでしまう。 この記事では、この課題に対して CLAUDE.md…</summary>
+  </entry>
   <entry>
     <title>スパコン「富岳」に不正アクセス 理研が明らかに</title>
     <id>https://www.itmedia.co.jp/news/article/2611/16/2000003224/</id>
@@ -741,69 +805,5 @@
     <updated>2026-11-14T23:43:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>少人数のチームを作るだけでは、組織は変わらないAIによって個人ができることが増え、少人数のチームが良さそうだという話自体は、最近になって出てきたものではありません。 例えば、 @TAKAKING22 さんの「AI時代のアジャイルチームを目指して」で、少人数のチームとAIを組み合わせた働き方や、それを支える組織のあり...</summary>
-  </entry>
-  <entry>
-    <title>最初に「あい」を学ぶことば日本語でプログラミング入門 「Mindで定番アルゴリズム」リンク集</title>
-    <id>https://qiita.com/mylifewithviolin/items/9b3f33b109264928752b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mylifewithviolin/items/9b3f33b109264928752b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T16:10:21+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 最初に「あい」を学ぶことば日本語でプログラミング入門シリーズは母国語のプログラミング言語が存在するという文化的価値をアピールするためのもので、題材としてはさまざまな定番アルゴリズムを疑似言語ではなくコンパイル・実行可能なプログラミング言語の日本語で書いてみようと...</summary>
-  </entry>
-  <entry>
-    <title>RTX 5070 TiでローカルAI VTuberを自作した話 ― Ollama × Live2D × TTS</title>
-    <id>https://qiita.com/4eena/items/acf90b128e188791bb48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/4eena/items/acf90b128e188791bb48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T15:16:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ブラウザでテキストを送ると、ローカルLLMが返答し、Live2Dキャラクターの3imiが表情を変えながら声で返すアプリを作りました。Open-LLM-VTuberを土台に、Ollamaへの接続、音声合成、Live2Dモデルの表示と制御を組み合わせています。 動作デモ 実際...</summary>
-  </entry>
-  <entry>
-    <title>AWS Security ハンズオンで学ぶ、フロンティアモデルを活用したコードレビュー</title>
-    <id>https://qiita.com/soulgemanalyst/items/20e7c72cc2006a331445?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/soulgemanalyst/items/20e7c72cc2006a331445?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T13:54:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AWS セキュリティハンズオン連続開催のご案内 https://aws.amazon.com/jp/blogs/news/aws-security-handson-series/ 本記事では、上記ハンズオンの11月11日開催回「Claude/GPT などのフロンティアモデル...</summary>
-  </entry>
-  <entry>
-    <title>エンジニアなら全問正解したい！セキュリティ攻撃手法の一問一答15問【答えは折りたたみ】</title>
-    <id>https://qiita.com/pds_siken/items/a7032fe29f9ec113463b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/pds_siken/items/a7032fe29f9ec113463b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T10:35:50+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに ニュースや脆弱性情報でよく見る攻撃手法の名前。なんとなく知っているつもりでも、「違いを説明して」と言われると意外と詰まるものです。 本記事では、エンジニアなら押さえておきたい攻撃手法を15問の一問一答にしました。答えは折りたたんでいるので、考えてから開いてみてく...</summary>
-  </entry>
-  <entry>
-    <title>0。3回連続で拒否されてきた`git checkout -B main origin/main`を、今日2つのリポジトリに投げたら、拒否された回数はこの数字だった</title>
-    <id>https://qiita.com/Hideki_Tamae/items/d67159e5cde6132eab13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Hideki_Tamae/items/d67159e5cde6132eab13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T09:48:49+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 0。 これが今回の数字です。何の0かというと、今日のステップ0(Zenn/Qiita両リポジトリをoriginに合わせる準備作業)で、git checkout -B main origin/mainを2つのリポジトリに対してそれぞれ実行したとき、Claude C...</summary>
-  </entry>
-  <entry>
-    <title>ローミング縮小でも楽天モバイルからユーザーが流出しない理由 一方で浮上する「副回線化とARPU低下」の懸念</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2611/14/news014.html" />
-    <updated>2026-11-14T09:29:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ローミング縮小でも楽天モバイルからユーザーが流出しない理由 一方で浮上する「副回線化とARPU低下」の懸念：石野純也のMobile Eye（1/2 ページ） 10月1日に、これまで結んできたローミング協定が終了したKDDIと楽天モバイル。新たに契約を結び、楽天モバイルがエリア化できていないルーラルエリア（田舎や過疎地など...</summary>
-  </entry>
-  <entry>
-    <title>【個人開発】第1回：Cloudflareで独自ドメインのメール受信環境を構築する！～ドメイン取得からWorkersでの受信確認まで～</title>
-    <id>https://qiita.com/kandu/items/73bfa5a8d2aedd3c0dd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kandu/items/73bfa5a8d2aedd3c0dd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-13T00:41:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに SNS で、Cloudflare のサービスを組み合わせることで、独自ドメインのメールシステムを構築できるという投稿を見かけました。 普段、メールサービスとしては Gmail や Outlook などを利用していますが、メールの送受信に関する仕組みについて...</summary>
-  </entry>
-  <entry>
-    <title>AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか</title>
-    <id>https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/</id>
-    <link href="https://gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/" />
-    <updated>2026-11-15T09:01:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>近年のAIの進化はSRE(サイト信頼性エンジニアリング)に大きな影響を与えています。AIがインシデント対応の大部分を自動化するにつれて、人間が担うべき「稀・複雑・曖昧」な問題への対応能力が低下するという「自動化の皮肉」が指摘されています。オープンソースのシステム監視・分析ツール「SigNoz」の開発者エリザベス...</summary>
   </entry>
 </feed>
