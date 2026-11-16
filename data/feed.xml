@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T15:00:16.551775+09:00</updated>
+  <updated>2026-11-16T15:30:15.733658+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化</title>
+    <id>https://gigazine.net/news/20261116-rust-1-100/</id>
+    <link href="https://gigazine.net/news/20261116-rust-1-100/" />
+    <updated>2026-11-16T14:55:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>プログラミング言語「Rust」の開発チームが2026年11月12日に「Rust 1.100.0」をリリースしました。Rust 1.100では約10年にわたって開発が続けられてきた「never型」が正式に利用可能になったほか、外部パッケージの安全対策やメモリ管理に関する機能の改善などが行われています。 Announcing Rust 1.100.0 | Rust Blog h...</summary>
+  </entry>
+  <entry>
+    <title>ESET、サイバーセキュリティ特化型のAIモデル「ESET NeoCortex」を発表／ネットワークから収集される膨大なセキュリティ情報をAIにより分析、警告可能</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2156456.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2156456.html" />
+    <updated>2026-11-16T11:01:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ESET、サイバーセキュリティ特化型のAIモデル「ESET NeoCortex」を発表／ネットワークから収集される膨大なセキュリティ情報をAIにより分析、警告可能</summary>
+  </entry>
+  <entry>
+    <title>情報セキュリティを知る6冊。守るためには、まず攻撃を知る【IPUSIRON】 - レバテックLAB</title>
+    <id>https://levtech.jp/media/detail_971/</id>
+    <link href="https://levtech.jp/media/detail_971/" />
+    <updated>2026-11-16T10:36:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>IPUSIRON（イプシロン） 1979年福島県相馬市生まれ。相馬市在住。タイトルにある「ミジンコ」は、サインに添えて素早く描けるシンプルなイラストとして採用したものであり、同時に「常に初心を忘れない」という自戒も込めている。2001年に『ハッカーの教科書』（データハウス）を上梓。情報・物理的・人的の観点から総合...</summary>
+  </entry>
+  <entry>
+    <title>10年間作れなかったアプリが、AIでわずか10日で完成して感動 好きなキャラが踊る3Dライブをついに実現 (1/6)</title>
+    <id>https://ascii.jp/elem/000/004/451/4451644/</id>
+    <link href="https://ascii.jp/elem/000/004/451/4451644/" />
+    <updated>2026-11-16T10:15:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>今回は筆者がAIを使って作成したコンサートアプリの紹介です。Claude「Opus 5.5」を中心に、AIによるダンスモーションの自動作成、ライトやカメラなどの自動演出機能を持たせ、アバターフォーマットの「VRM」を使って、リアルタイム3Dでキャラクターを自動的に踊らせるシステムを作りました。実作業時間は約10日間です。...</summary>
+  </entry>
   <entry>
     <title>最先端スパコン「富岳」に不正アクセス 企業の機密情報流出に懸念 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOSG162TT0W6A111C2000000/</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-15T08:08:45+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに CEF(Chromium 158)の ROM 使用量と RAM 使用量の削減について検証しました。YouTube の再生と CEF の API が動く状態のまま、次のところまで削りました(arm64)。 ROM(配布物のサイズ) 構成 サイズ CEF 既定...</summary>
-  </entry>
-  <entry>
-    <title>AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録</title>
-    <id>https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T08:01:56+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録 私の環境では、コードを書くのはAIがほとんどです。 ゲームは Claude Code、サーバーやサイトのプログラムは Codex、GitHub の内側の作業は Copilot、そして日常の開発相手はミュ...</summary>
-  </entry>
-  <entry>
-    <title>【Vitest + RTL】Reactアプリをテストする</title>
-    <id>https://qiita.com/ryu0947/items/f9d1cf940005b7a7909a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryu0947/items/f9d1cf940005b7a7909a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T00:35:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに VitestとRTLでReactアプリをテストしました。テストした内容と躓いたところをまとめます。 テストするReactアプリの概要 テストするのは学習内容と時間を記録する簡易的なアプリです。 以下使用ライブラリ React 19.2.8 Vite 8.3...</summary>
-  </entry>
-  <entry>
-    <title>社長の一言は重い。RAGにも忖度させてみた（重み付け検索）</title>
-    <id>https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kikuziro/items/43b360420d0cdcbf190c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T00:30:41+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 皆さんこんな経験ありませんか？ 新人の頃に正しいことを言っても誰も賛同してくれないのに、同じことを社長が言うと全員が賛同する。理不尽ですよねー人間は「誰が言ったか」で情報に重みを付けています。じゃあRAGはどうか？チャンクは全部平等で社長の決定事項も新人のつぶ...</summary>
-  </entry>
-  <entry>
-    <title>AI時代のチーム組成を考える｜Genki Sano</title>
-    <id>https://note.com/sanogemaru/n/ne9df8a63ec82</id>
-    <link href="https://note.com/sanogemaru/n/ne9df8a63ec82" />
-    <updated>2026-11-14T23:43:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>少人数のチームを作るだけでは、組織は変わらないAIによって個人ができることが増え、少人数のチームが良さそうだという話自体は、最近になって出てきたものではありません。 例えば、 @TAKAKING22 さんの「AI時代のアジャイルチームを目指して」で、少人数のチームとAIを組み合わせた働き方や、それを支える組織のあり...</summary>
   </entry>
 </feed>
