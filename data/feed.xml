@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T21:00:15.136492+09:00</updated>
+  <updated>2026-11-16T21:30:13.618396+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>もういい加減"技術勉強会"やめませんか？ - Qiita</title>
+    <id>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e</id>
+    <link href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e" />
+    <updated>2026-11-16T20:51:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上…</summary>
+  </entry>
+  <entry>
+    <title>ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/16/2000003226/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/16/2000003226/" />
+    <updated>2026-11-16T17:20:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>11月12日（現地時間）、米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。退任と言いつつも、公式アナウンスに本人のメッセージが一切載ってないあたり、事実上の解任と見るのが正しいのだろう。 現時点ではこの先の動きを読むのは非常に難しい。記事の後半でも紹介するが、単に不倫と...</summary>
+  </entry>
+  <entry>
+    <title>日本やアメリカ・イギリス・インドなど「パックス・シリカ」加盟国がAIサプライチェーンの安全保障で合意</title>
+    <id>https://gigazine.net/news/20261116-pax-silica-protect-ai-supply-chains/</id>
+    <link href="https://gigazine.net/news/20261116-pax-silica-protect-ai-supply-chains/" />
+    <updated>2026-11-16T16:34:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アメリカ商務省が主導し日本などが参加している国際的な協力の枠組み「パックス・シリカ(Pax Silica)」の加盟国が、中国からの脅威にさらされやすいAI技術やサプライチェーンを共同で把握・保護していく方針で合意したことがわかりました。 US and allies sign accord to protect AI supply chains from China https://w...</summary>
+  </entry>
+  <entry>
+    <title>謎のHTTPステータスコード「483 I'm Not a Freezer」がIETFに提案され、「X」で話題に／エイプリルフールではない【やじうまの杜】</title>
+    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156718.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156718.html" />
+    <updated>2026-11-16T15:38:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>謎のHTTPステータスコード「483 I'm Not a Freezer」がIETFに提案され、「X」で話題に／エイプリルフールではない【やじうまの杜】</summary>
+  </entry>
   <entry>
     <title>ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？ Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2156753.html</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-15T18:06:22+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でエンジニアをしている小原（@brto_0224）です。 オンチェーン金融の大きなニュースには、たびたびCanton Networkの名前が出てきます。米国の証券決済を担うDTCCがCantonとつながる証券のデジタル化サービスを動かし始め、J.P. Morganも銀行預金…</summary>
-  </entry>
-  <entry>
-    <title>.NET 11 の ASP.NET Core Blazor の新機能のスケールイン対応機能！</title>
-    <id>https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale</id>
-    <link href="https://zenn.dev/microsoft/articles/aspnetcore-blazor-dotnet11-scale" />
-    <updated>2026-11-15T16:58:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 今まで ASP.NET Core Blazor の InteractiveServer のモードでは、サーバー側のメモリに保持される回路（Circuit）をスケールイン時に別のサーバーへ移行できませんでした。そのため柔軟なスケールアウト！スケールイン！するようなシステムにするのをあきらめざるを得ませんでした…。 .NET 11 では、サーバー側からクライアント側に状態を保存させてから再接…</summary>
-  </entry>
-  <entry>
-    <title>IAM Identity Center に追加リージョン（セカンダリ）を作ってみた（KMSキーの作成から大阪リージョンの追加まで） | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/add-iic-secondary-region/</id>
-    <link href="https://dev.classmethod.jp/articles/add-iic-secondary-region/" />
-    <updated>2026-11-15T21:27:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1.KMS からマルチリージョンキーを作る プライマリの東京リージョンから KMS 画面に遷移し、【キーの作成】を開きます。 キーのタイプ：対称 キーの使用法：暗号化および復号化 詳細オプション；「マルチリージョンキー」を選ぶ 任意のエイリアスを入力し、キー管理者とキーユーザーの選択に進みます。 今回はキーポリシ...</summary>
-  </entry>
-  <entry>
-    <title>Sprite stacking for fake 3D pixel art cars and props</title>
-    <id>https://www.spritecook.ai/blog/sprite-stacking-pixel-art</id>
-    <link href="https://www.spritecook.ai/blog/sprite-stacking-pixel-art" />
-    <updated>2026-11-15T17:22:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Sprite stacking for fake 3D pixel art cars and propsTurn a top-down car to any angle from one small sheet of flat slices. How sprite stacking works, how to cut the slices from four flat views, and tes…</summary>
-  </entry>
-  <entry>
-    <title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title>
-    <id>https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T03:58:36+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>今週（11 月 16〜22 日）にやることは、図の 6 つです。①〜④ には、すでに悪用されている脆弱性があります。この 4 つから先に済ませてください。 ① の Outlook の脆弱性は、Microsoft が悪用を確認したと公表しています。IT連携マップの編集部は...</summary>
   </entry>
 </feed>
