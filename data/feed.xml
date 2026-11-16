@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T23:30:16.816591+09:00</updated>
+  <updated>2026-11-17T00:00:15.709094+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
+    <id>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</id>
+    <link href="https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html" />
+    <updated>2026-11-17T03:30:31+09:00</updated>
+    <category term="Publickey" />
+    <summary>Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM...</summary>
+  </entry>
+  <entry>
+    <title>Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開</title>
+    <id>https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html</id>
+    <link href="https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html" />
+    <updated>2026-11-17T00:23:28+09:00</updated>
+    <category term="Publickey" />
+    <summary>神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラ...</summary>
+  </entry>
+  <entry>
+    <title>「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2611/16/2000003229/" />
+    <updated>2026-11-16T16:25:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Googleは11月12日（現地時間）、新たなAIモデル「Gemini 4 Hydrogen」（以下、Hydrogen）を発表した。同社は「最先端モデルを誰にでも」とし、低コストで日々の作業をサポートするとしている。 Xなどでも、第三者機関の総合指標で上位モデル「Gemini 4 Argon」（以下、Argon）を上回りながら、「Gemini」アプリの無料...</summary>
+  </entry>
+  <entry>
+    <title>Data-Oriented Design in Yuku's Parser</title>
+    <id>https://arshad.fyi/posts/yuku-parser.html</id>
+    <link href="https://arshad.fyi/posts/yuku-parser.html" />
+    <updated>2026-11-16T14:00:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>June 28, 2026 Yuku is a JavaScript and TypeScript parser I write in Zig, and its npm packages are downloaded tens of millions of times a week. It parses typescript.js, an 8 MB file, in about 15 ms on…</summary>
+  </entry>
+  <entry>
+    <title>エヌビディアのフアン氏復帰求め15万8000人超署名 マスク氏らも賛同</title>
+    <id>https://www.afpbb.com/articles/-/3662533</id>
+    <link href="https://www.afpbb.com/articles/-/3662533" />
+    <updated>2026-11-16T11:26:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この写真にはショッキングな表現、または18歳以上の年齢制限の対象となる内容が含まれます。 ご覧になる場合にはご了承の上、クリックしてください。 【11月16日 AFP】米実業家イーロン・マスク氏や配車サービス大手ウーバーの共同創業者らが、米半導体大手エヌビディアのジェンスン・フアン前最高経営責任者（CEO）の復...</summary>
+  </entry>
+  <entry>
+    <title>Haru-4B: 低遅延・多言語の全二重連続音声対話基盤モデル</title>
+    <id>https://blog.higurashi.ai/melte/haru4b-ja/</id>
+    <link href="https://blog.higurashi.ai/melte/haru4b-ja/" />
+    <updated>2026-11-13T17:10:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>聞きながら話せる全二重（full-duplex）の連続音声対話基盤モデル、Haru-4Bを公開しました。音声を入力として受け取り、音声で応答するspeech-to-speechのモデルです。 Haru-4Bが目指すのは、人とAIの自然な対話です。LLMや音声合成で生成した合成対話ではなく、大規模な実環境の音声から、相づち・割り込み・ターンテイ...</summary>
+  </entry>
   <entry>
     <title>激動期の安保：AI編 ウィキペディア「汚染」（その1） 露の偽情報拡散、進化 | 毎日新聞</title>
     <id>https://mainichi.jp/articles/20261116/ddm/001/010/121000c</id>
@@ -757,53 +805,5 @@
     <updated>2026-11-16T00:25:09+09:00</updated>
     <category term="はてブ IT" />
     <summary>今日は、石狩データセンターと、さくらのクラウドの15周年です。 比較的、さくらインターネットの歴史の中では新しい方かと思っていたのですが、ちょうど来月で創業30周年だと考えると、実に歴史の半分は石狩データセンターと、さくらのクラウドに支えられてきたのだと驚かされます。 創業から自社データセンターまで さ...</summary>
-  </entry>
-  <entry>
-    <title>またオマエ（MT7925）か…。高級PCでもWi-Fiで320MHz幅通信ができない問題を考える【イニシャルB】</title>
-    <id>https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html" />
-    <updated>2026-11-16T08:15:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>またオマエ（MT7925）か…。高級PCでもWi-Fiで320MHz幅通信ができない問題を考える【イニシャルB】</summary>
-  </entry>
-  <entry>
-    <title>ネットワーク構成図をAWS CLIの出力内容から draw.ioで自動作成してみた (Claude Skill 化) | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/aws-networkmap-claude-20261113/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-networkmap-claude-20261113/" />
-    <updated>2026-11-14T18:15:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>おはようございます。gio です。 前々から作りたかった構成図の自動化ツールをClaudeで作成しました。 まずこれを使えば、頭の中にネットワーク導線がイメージできるかと思います。 はじめに ネットワーク構成図の手書きからの作業卒業を目標に色々やってみました。 ポイントとしては以下の3点です。 実環境から情報を取...</summary>
-  </entry>
-  <entry>
-    <title>内製 Coding Agent "haro" と社内 GPU で、探索的テスト AI Agent をぶん回している - LayerX エンジニアブログ</title>
-    <id>https://tech.layerx.co.jp/entry/haro-et-agent</id>
-    <link href="https://tech.layerx.co.jp/entry/haro-et-agent" />
-    <updated>2026-11-16T09:08:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、Hiromu Nakamura (pon) です。LayerX で AI/MLOps テックリードをやってます！ 最近、公開前の機能の探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。探索的テストはテストケースを前もって作り込まず、実際に画面を触りながら次に試す...</summary>
-  </entry>
-  <entry>
-    <title>かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org</title>
-    <id>https://p2ptk.org/monopoly/5688</id>
-    <link href="https://p2ptk.org/monopoly/5688" />
-    <updated>2026-11-16T06:09:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...</summary>
-  </entry>
-  <entry>
-    <title>LLMはソフトウェア開発に「重力」をもたらした ― 建築家と考える、AI時代の設計 - arclamp</title>
-    <id>https://arclamp.hatenablog.com/entry/2026/11/14/224526</id>
-    <link href="https://arclamp.hatenablog.com/entry/2026/11/14/224526" />
-    <updated>2026-11-15T06:36:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月26日のAgile X Conferenceで、建築家の村井一さんと「『人が読む設計』から『検証できる設計』へ」というテーマで対談しました。 私は、LLMの登場によって、ソフトウェア開発における「設計」と「施工」を工学的に分離できるようになるのではないかと考えています。これまでソフトウェア開発では、コードを書...</summary>
-  </entry>
-  <entry>
-    <title>【AV Watchアワード】26年も無双だった液晶ブラビア。安いだけじゃないTCL台頭で老舗ブランド危うし！～AV Watchアワード座談会・液晶編</title>
-    <id>https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html" />
-    <updated>2026-11-13T08:33:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【AV Watchアワード】26年も無双だった液晶ブラビア。安いだけじゃないTCL台頭で老舗ブランド危うし！～AV Watchアワード座談会・液晶編</summary>
   </entry>
 </feed>
