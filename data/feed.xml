@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T06:30:22.770715+09:00</updated>
+  <updated>2026-11-17T07:00:15.171432+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIが文学界を揺るがしている</title>
+    <id>https://gigazine.net/news/20261116-ai-literary-world/</id>
+    <link href="https://gigazine.net/news/20261116-ai-literary-world/" />
+    <updated>2026-11-16T19:02:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で...</summary>
+  </entry>
+  <entry>
+    <title>Secretlint v14.0.0リリース: 設定なしで動作するように変更、大規模リポジトリのチェックを高速化</title>
+    <id>https://efcl.info/2026/11/16/secretlint-v14/</id>
+    <link href="https://efcl.info/2026/11/16/secretlint-v14/" />
+    <updated>2026-11-16T16:27:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソースコードや設定ファイルに含まれるAPIトークンやパスワードなどの機密情報を見つけるSecretlintのv14.0.0をリリースしました。 Release v14.0.0 · secretlint/secretlint このバージョンの主な変更点は次の2つです。 設定ファイルなしで動作（公式ルールとプリセットをsecretlint本体に同梱） ファイル数が多いリポ...</summary>
+  </entry>
   <entry>
     <title>不名誉なはずのフアン氏の辞任、それでもシリコンバレーからは支持する声やまず</title>
     <id>https://www.cnn.co.jp/business/35254956.html</id>
@@ -108,7 +124,7 @@
     <link href="https://nulab.com/ja/info/20261116_cacoo_01/" />
     <updated>2026-11-16T14:45:42+09:00</updated>
     <category term="はてブ IT" />
-    <summary>株式会社ヌーラボ（以下、当社）は、2026年11月14日、当社が提供するオンラインホワイトボードツール「Cacoo」の運用環境および当社が管理するお問い合わせ記録の一部に対し、第三者による不正アクセスが行われたことを確認いたしました。 お客様、株主・投資家の皆様をはじめ、関係者の皆様に多大なるご迷惑とご心配を...</summary>
+    <summary>【2026年11月16日 16:00追記】 影響を受けたお客様への個別のご連絡を、順次進めております。 また、個人情報保護委員会への報告を完了いたしました。 株式会社ヌーラボ（以下、当社）は、2026年11月14日、当社が提供するオンラインホワイトボードツール「Cacoo」の運用環境および当社が管理するお問い合わせ記録の一部...</summary>
   </entry>
   <entry>
     <title>起動不能トラブル修復 KB5127936 KB5132061｜Nackie</title>
@@ -196,7 +212,7 @@
     <link href="https://note.com/kon_yu/n/n5bf7289d3e9f" />
     <updated>2026-11-16T13:50:13+09:00</updated>
     <category term="はてブ IT" />
-    <summary>2年間続けてきた「首都圏の自宅と、札幌の2拠点生活」に区切りをつけ、このたび札幌の部屋を解約してきた。 フリーランスのソフトウェアエンジニアとしてリモートワークをしながら、生まれ故郷である札幌に自分専用の拠点を持つ暮らしは想像以上に快適だった。2年間運用してみてそろそろ飽きたので先日解約して部屋を出...</summary>
+    <summary>2年間続けてきた首都圏の自宅と札幌と二拠点生活に区切りをつけ、このたび札幌の部屋を解約してきた。 フリーランスのソフトウェアエンジニアとしてリモートワークをしながら、生まれ故郷である札幌に自分専用の拠点を持つ暮らしは想像以上に快適だった。2年間運用してみてそろそろ飽きたので先日解約して部屋を出た。 ...</summary>
   </entry>
   <entry>
     <title>ストレージ高騰でリファービッシュHDDが人気に／余ったSATA電源を有効活用！ アイネックスの“かゆいところに手が届く”新アイテムたち</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-16T06:39:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>無音NASはこんなに快適だったのか！使って分かったHDD NASとの大きな違い ～「MINISFORUM S5」でオールフラッシュNAS生活[Sponsored]</summary>
-  </entry>
-  <entry>
-    <title>“初めてのインシデント調査”に備えられる JPCERT/CCがチェックリストを無償公開</title>
-    <id>https://www.itmedia.co.jp/enterprise/articles/2611/15/news003.html</id>
-    <link href="https://www.itmedia.co.jp/enterprise/articles/2611/15/news003.html" />
-    <updated>2026-11-15T10:30:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>セキュリティインシデント対応の調整と支援を手掛ける一般社団法人JPCERTコーディネーションセンター（以下、JPCERT/CC）は2026年11月11日、「インシデント調査報告書チェックリスト」を公開した。調査を依頼する被害組織と、報告書を作成する担当者が共通認識を持ってインシデント調査を円滑に進めるための補助ツールだ...</summary>
-  </entry>
-  <entry>
-    <title>「最後かもしれないだろ？」 AI 以前の個人ゲーム開発者の、AI との折り合いのつけ方｜Tatsuya Koyama | ゲーム開発と絵と音楽</title>
-    <id>https://note.com/tatsuya_koyama/n/nb7aa1ba71aba</id>
-    <link href="https://note.com/tatsuya_koyama/n/nb7aa1ba71aba" />
-    <updated>2026-11-16T10:58:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>趣味でゲーム開発をしている者です。 この記事の文章や挿絵は、筆者（人間）が作っています。 この記録は、2026 年 2 月時点の、とある人間がうだうだ考えたものです。 AI 以前のゲーム開発者20 年くらい前、僕は今から見るとおもちゃみたいなスペックのノート PC のキーボードを叩いて、ゲームプログラミングをしていた...</summary>
   </entry>
 </feed>
