@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T09:30:19.417430+09:00</updated>
+  <updated>2026-11-16T10:00:18.458616+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>内製 Coding Agent "haro" と社内 GPU で、探索的テスト AI Agent をぶん回している - LayerX エンジニアブログ</title>
+    <id>https://tech.layerx.co.jp/entry/haro-et-agent</id>
+    <link href="https://tech.layerx.co.jp/entry/haro-et-agent" />
+    <updated>2026-11-16T09:08:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、Hiromu Nakamura (pon) です。LayerX で AI/MLOps テックリードをやってます！ 最近、公開前の機能の探索的テストを、社内の Background Coding Agent「haro」と、社内 GPU で動かしている Qwen3.8-27B にまかせています。探索的テストはテストケースを前もって作り込まず、実際に画面を触りながら次に試す...</summary>
+  </entry>
+  <entry>
+    <title>かくしてGoogleは詐欺師の楽園と化した » p2ptk[.]org</title>
+    <id>https://p2ptk.org/monopoly/5688</id>
+    <link href="https://p2ptk.org/monopoly/5688" />
+    <updated>2026-11-16T06:09:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>以下の文章は、コリイ・ドクトロウの「Google is a scammer’s paradise」という記事を翻訳したものである。 Pluralistic 「邪悪になるな」など忘れてしまえ。Googleの真のモットーは、下劣なスパイダーマン主義、「大いなる力には、何の責任も伴わない」だ。インターネットの事実上の支配者は、不在地主なのだ。 Google―...</summary>
+  </entry>
+  <entry>
+    <title>LLMはソフトウェア開発に「重力」をもたらした ― 建築家と考える、AI時代の設計 - arclamp</title>
+    <id>https://arclamp.hatenablog.com/entry/2026/11/14/224526</id>
+    <link href="https://arclamp.hatenablog.com/entry/2026/11/14/224526" />
+    <updated>2026-11-15T06:36:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月26日のAgile X Conferenceで、建築家の村井一さんと「『人が読む設計』から『検証できる設計』へ」というテーマで対談しました。 私は、LLMの登場によって、ソフトウェア開発における「設計」と「施工」を工学的に分離できるようになるのではないかと考えています。これまでソフトウェア開発では、コードを書...</summary>
+  </entry>
   <entry>
     <title>【AV Watchアワード】26年も無双だった液晶ブラビア。安いだけじゃないTCL台頭で老舗ブランド危うし！～AV Watchアワード座談会・液晶編</title>
     <id>https://av.watch.impress.co.jp/docs/topic/avwaward/2155465.html</id>
@@ -274,9 +298,9 @@
     <title>Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開</title>
     <id>https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html</id>
     <link href="https://www.publickey1.jp/blog/26/cloudflareaikitesurf.html" />
-    <updated>2026-11-16T00:30:19+09:00</updated>
-    <category term="Publickey" />
-    <summary>Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under ...</summary>
+    <updated>2026-11-16T07:34:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lic…</summary>
   </entry>
   <entry>
     <title>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-08T22:13:52+09:00</updated>
     <category term="はてブ IT" />
     <summary>A tiny, fast container runtime for macOS, Windows and Linux. Runs your Docker images and works with the docker CLI, Compose and buildx you already use. Download · Features · Build from source · Releas…</summary>
-  </entry>
-  <entry>
-    <title>AI悪用の攻撃拠点、千台発見 サイトの弱点探索、不正侵入疑い</title>
-    <id>https://www.47news.jp/15231027.html</id>
-    <link href="https://www.47news.jp/15231027.html" />
-    <updated>2026-11-14T23:55:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>高性能な人工知能（AI）を悪用したサイバー攻撃の拠点と疑われるサーバーが10月以降、世界のインターネット上に少なくとも千台前後存在していることが14日、分かった。日本の情報セキュリティー専門機関が海外企業と連携した国際的調査で判明した。国内外のウェブサイトを標的としてAIを使って弱点を探索し、不正侵入を...</summary>
-  </entry>
-  <entry>
-    <title>あなたのAIはまだ、「ものの調べ方」を知らない。──調査スキル「imozuru」を作ってバズった話</title>
-    <id>https://qiita.com/BaspisKawaE/items/933b883e4585ebd59299?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/BaspisKawaE/items/933b883e4585ebd59299?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T21:14:20+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>株式会社パレットリンクの@BaspisKawaEです。 今回は、AIに調べものをさせるスキルを公開したら反応を多くいただいたので、なぜわざわざ調べものをスキルにしたのかを解説します。 よろしくお願いします! 対象読者：AIに調べものを任せていて、答えが物足りないと...</summary>
-  </entry>
-  <entry>
-    <title>agentgatewayで始めるMCP管理</title>
-    <id>https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/licux/items/cd639f2ae807b35b6697?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T19:49:51+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>agentgateway AIエージェントが様々なタスクをこなすためには、様々なMCPサーバーやAIエージェントと接続して機能を拡張する必要があります。数が少なければ、MCPサーバーやAIエージェントとの通信の監視やトラフィックを制御できますが、接続数が増えると管理が煩雑...</summary>
   </entry>
 </feed>
