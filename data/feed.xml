@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T10:00:18.458616+09:00</updated>
+  <updated>2026-11-16T10:30:17.886323+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>またオマエ（MT7925）か…。高級PCでもWi-Fiで320MHz幅通信ができない問題を考える【イニシャルB】</title>
+    <id>https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/column/shimizu/2154830.html" />
+    <updated>2026-11-16T08:15:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>またオマエ（MT7925）か…。高級PCでもWi-Fiで320MHz幅通信ができない問題を考える【イニシャルB】</summary>
+  </entry>
+  <entry>
+    <title>ネットワーク構成図をAWS CLIの出力内容から draw.ioで自動作成してみた (Claude Skill 化) | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/aws-networkmap-claude-20261113/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-networkmap-claude-20261113/" />
+    <updated>2026-11-14T18:15:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>おはようございます。gio です。 前々から作りたかった構成図の自動化ツールをClaudeで作成しました。 まずこれを使えば、頭の中にネットワーク導線がイメージできるかと思います。 はじめに ネットワーク構成図の手書きからの作業卒業を目標に色々やってみました。 ポイントとしては以下の3点です。 実環境から情報を取...</summary>
+  </entry>
   <entry>
     <title>内製 Coding Agent "haro" と社内 GPU で、探索的テスト AI Agent をぶん回している - LayerX エンジニアブログ</title>
     <id>https://tech.layerx.co.jp/entry/haro-et-agent</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-15T01:06:17+09:00</updated>
     <category term="はてブ IT" />
     <summary>以下のURLを私のClaude Codeに渡して、スライドをポン出しする実験です。 https://claude.com/ja/resources/articles/building-always-on-agents</summary>
-  </entry>
-  <entry>
-    <title>Building always-on agents</title>
-    <id>https://claude.com/resources/articles/building-always-on-agents</id>
-    <link href="https://claude.com/resources/articles/building-always-on-agents" />
-    <updated>2026-11-14T09:52:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Always-on agents run indefinitely, deciding how and when to act across many sessions. This guide walks through their core primitives and how they fit together. Over the past few months, we’ve seen a r…</summary>
-  </entry>
-  <entry>
-    <title>GitHub - libracoder/kiri: A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative</title>
-    <id>https://github.com/libracoder/kiri</id>
-    <link href="https://github.com/libracoder/kiri" />
-    <updated>2026-11-08T22:13:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>A tiny, fast container runtime for macOS, Windows and Linux. Runs your Docker images and works with the docker CLI, Compose and buildx you already use. Download · Features · Build from source · Releas…</summary>
   </entry>
 </feed>
