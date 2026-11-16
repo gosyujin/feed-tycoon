@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T15:30:15.733658+09:00</updated>
+  <updated>2026-11-16T16:00:17.038115+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Herdrで、エージェントに渡した仕事を受け入れまで見守りたい - じゃあ、おうちで学べる</title>
+    <id>https://syu-m-5151.hatenablog.com/entry/2026/11/15/093525</id>
+    <link href="https://syu-m-5151.hatenablog.com/entry/2026/11/15/093525" />
+    <updated>2026-11-15T23:02:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 前回の記事ではHerdrのサイドバーで、どのエージェントが自分を待っているかを探す方法を書きました。Herdrが表示するのは、エージェントの作業中や入力待ちといった状態です。渡した仕事が終わったかどうかは、画面と会話を読んで自分で判断するしかありません。 syu-m-5151.hatenablog.com Addy Osmani氏は20...</summary>
+  </entry>
   <entry>
     <title>ついに「Rust 1.100」リリース、約10年越しの新機能が正式採用されパッケージの安全対策も強化</title>
     <id>https://gigazine.net/news/20261116-rust-1-100/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-15T09:48:37+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに AIアシスタントの「Grok Bot」を使い始めてみました。チャットで答えを返すだけでなく、自分専用のコンピューターを持っていて、こちらのアプリ（メールなど）に接続して実際に作業してくれるのが特徴です。 この記事では、初回セットアップから、 メールアカウントの...</summary>
-  </entry>
-  <entry>
-    <title>Chromium Embedded Framework (CEF) のROMとRAMの使用量をローエンド機向けにどこまで削減できるか？</title>
-    <id>https://qiita.com/rairaii/items/bad396ec591698160afb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/rairaii/items/bad396ec591698160afb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T08:08:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに CEF(Chromium 158)の ROM 使用量と RAM 使用量の削減について検証しました。YouTube の再生と CEF の API が動く状態のまま、次のところまで削りました(arm64)。 ROM(配布物のサイズ) 構成 サイズ CEF 既定...</summary>
   </entry>
 </feed>
