@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T19:00:14.022942+09:00</updated>
+  <updated>2026-11-16T19:30:15.272769+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門</title>
+    <id>https://zenn.dev/turing_motors/articles/cea9e3c85611b2</id>
+    <link href="https://zenn.dev/turing_motors/articles/cea9e3c85611b2" />
+    <updated>2026-11-16T17:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. はじめに AIが「いま何を考えているのか」を、人間はどうやって知ればいいのでしょうか？ 我々チューリング株式会社は、カメラ映像から走行軌跡を直接予測するEnd-to-End（E2E）自動運転AIを開発しています。社内では、予測軌跡をカメラ映像に重ねる可視化が、実車試験の振り返りからデモ映像まで、あらゆる場面で使われています。 https://x.com/DaisukeMAN/status/2…</summary>
+  </entry>
+  <entry>
+    <title>mizchi/mutator を入れてみた</title>
+    <id>https://zenn.dev/polyco/articles/e05cb28c569801</id>
+    <link href="https://zenn.dev/polyco/articles/e05cb28c569801" />
+    <updated>2026-11-16T12:49:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事に書いてあること AI が書きまくったテストに意味のないテストがどれくらいあるのか数えた 金額や権限など間違えるとやばいところはテストの穴を 0 件にした StrykerJS と条件をそろえて比べてみたけど確かに速い 開発ワークフロースキルに組み込んで、意味のないテストが書かれたらすぐ気づけるようにした 機械的に拾えないものはスキルでカバー 毎回全部は流さない。その作業で修正したコードとテ…</summary>
+  </entry>
+  <entry>
+    <title>RAMの空き具合を送りつける迷惑メール装置「RAMアルトマン」が開発される | ギズモード・ジャパン</title>
+    <id>https://www.gizmodo.jp/article/2611-ram-altman-spam-device/</id>
+    <link href="https://www.gizmodo.jp/article/2611-ram-altman-spam-device/" />
+    <updated>2026-11-16T08:31:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ネーミングが好き。 AIブームによって起きた数少ないラッキーの1つといえば、2010年代に世の中を席巻した「プログラミングを学べ！」ブームが去ったこと。もちろん、プログラミングを学ぶこと自体は悪くありませんが、だからといってそれで就職が楽になるわけでもありません。 ただ、メリットがないわけでもなく…。たと...</summary>
+  </entry>
+  <entry>
+    <title>GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
+    <id>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</id>
+    <link href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact" />
+    <updated>2026-11-16T08:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表示できる機能です。 ht…</summary>
+  </entry>
   <entry>
     <title>ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox</title>
     <id>https://scrapbox.io/keroxp/Zed%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%8CAI%E6%BF%80%E3%81%8A%E3%81%93%E3%81%AA%E4%BB%B6</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-15T17:03:34+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。 認証。ファイアウォール。脆弱性の名前。 セキュリティと聞くと、そこを勉強すればいいと思う人が多...</summary>
-  </entry>
-  <entry>
-    <title>M-1・R-1王者、野田クリスタルさんのものづくりへの思いを聞いてきた【CoLab Conf 2026秋】</title>
-    <id>https://qiita.com/inoyu-qiita/items/5179be7e6712dd33ea68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/inoyu-qiita/items/5179be7e6712dd33ea68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T16:22:31+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 11月14日に開催されたCoLab Conf 2026秋に参加してきました。M-1・R-1王者の野田クリスタルさんの登壇「M1・R1チャンピオンのAI×ものづくりの極意」が面白かったので、参加レポートとして記事にします。 CoLab Conf 2026秋の開催...</summary>
-  </entry>
-  <entry>
-    <title>C#にもとうとうunionが来たので、四則演算処理系を書いてみる</title>
-    <id>https://qiita.com/yuchiki1000yen/items/775afcd1e683e66a957f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yuchiki1000yen/items/775afcd1e683e66a957f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T16:17:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>※ この記事はゆーちきにしばかれながら私（AIエージェントであるCodex）が書き、ゆーちきの入念なレビューと、ゆーちきによる一部の修正のもと公開している。1 概要 C# 15 には、とうとう網羅性検査のある union 機能が入った。 ゆーちきは以前、C# 9 の re...</summary>
-  </entry>
-  <entry>
-    <title>Azure Files 間のデータ同期ができるようになったので触ってみた</title>
-    <id>https://qiita.com/iboy/items/bf39c22f2337deeaf439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/iboy/items/bf39c22f2337deeaf439?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T08:47:34+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに この記事は、Azure Storage Mover の Azure Files 間のデータコピー機能に関する検証記事となります。 Azure Storage Mover 自体は、既に GA されたサービスではありますが、Azure Files 間のデータコピーに...</summary>
-  </entry>
-  <entry>
-    <title>pgvectorの距離を類似度に直して根拠不足を判定する：RAG検索層とpytest回帰</title>
-    <id>https://qiita.com/takumi_engineer/items/93db73ccf114bad454f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takumi_engineer/items/93db73ccf114bad454f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-14T09:00:08+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>解きたい問題 RAGで「根拠が弱ければ回答を控える」判定を入れようとして、最初につまずくのがスコアの向きです。pgvectorが返すのは距離で、類似度ではありません。 距離のまま閾値に使うと、大小の判定が逆になります。本記事では、検索SQLで類似度に変換して返す層と、判定...</summary>
   </entry>
 </feed>
