@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T22:00:24.210801+09:00</updated>
+  <updated>2026-11-16T22:30:14.332966+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>RTX Sparkは本当にローカルAIに強いのか？RTX 5090や5070 Ti、5060 Ti 16GB、4090 Laptop GPUと性能を比較 (1/3)</title>
+    <id>https://ascii.jp/elem/000/004/450/4450424/</id>
+    <link href="https://ascii.jp/elem/000/004/450/4450424/" />
+    <updated>2026-11-16T20:18:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAが開発したSoC「RTX Spark N1X」を搭載したPCの販売がはじまった。RTX SparkはArmベースのCPU（最大20コア）に、GeForce RTX 50シリーズ相当のGPUを組み合わせた同社肝いりの製品だ。最近流行の「ローカルAI」、つまり「ChatGPT」や「Claude」「Gemini」といったクラウドサービス上のAIに頼らず、オフラインの環境...</summary>
+  </entry>
+  <entry>
+    <title>2026-11-16 JAWS-UG コンテナ支部 #31 ゆるLT大会 ECR のライフサイクルポリシーを いい感じに設定したい / ECR Lifecycle policy</title>
+    <id>https://speakerdeck.com/masasuzu/2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy</id>
+    <link href="https://speakerdeck.com/masasuzu/2026-11-16-jaws-ug-kontena-shibu-31-yuru-lt-taikai-ecr-no-raifusaikuru-porishi-o-ii-kanji-ni-settei-shitai-ecr-lifecycle-policy" />
+    <updated>2026-11-16T19:59:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>[JAWS-UGコンテナ支部 #31 ゆるLT大会 - connpass](https://jawsug-container.connpass.com/event/400814/) で発表する内容。 ゆるふわです</summary>
+  </entry>
+  <entry>
+    <title>Appleの共同設立者であるスティーブ・ウォズニアックはApple Iを組み立てる前にどうやってBASIC言語を開発したのか？</title>
+    <id>https://gigazine.net/news/20261116-apple-basic-wozniak/</id>
+    <link href="https://gigazine.net/news/20261116-apple-basic-wozniak/" />
+    <updated>2026-11-16T18:36:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>by Gage Skidmore Apple初のマイクロコンピュータ「Apple I」向けに、Apple共同設立者のスティーブ・ウォズニアック氏は「Integer BASIC」を開発しました。Apple Iが開発される前にどうやってInteger BASICを開発したのか、Q＆Aサービス「Stack Exchange」でまとめられています。 How did Woz write the Apple…</summary>
+  </entry>
+  <entry>
+    <title>Protomaps: Self-hosting map tiles has gotten cheap and easy — Bruce Röttgers</title>
+    <id>https://bruceroettgers.eu/blog/protomaps/</id>
+    <link href="https://bruceroettgers.eu/blog/protomaps/" />
+    <updated>2026-11-16T16:17:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Protomaps: Self-hosting map tiles has gotten cheap and easyPMTiles is a tile format which works via HTTP Range requests and can be deployed as a single file to a storage bucket. I came across Protomap…</summary>
+  </entry>
+  <entry>
+    <title>メルカリ、アプリ開発「2日→数十分」へ 直面したAI時代の“意外な課題”とは？</title>
+    <id>https://www.itmedia.co.jp/business/articles/2611/16/news031.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2611/16/news031.html" />
+    <updated>2026-11-16T07:16:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>これまで1日、2日と時間を要していたUIやプロトタイプの作成が、いまでは数十分で完了する──。 生成AIの急速な浸透は、メルカリのアプリ開発現場に革新をもたらした。これまではフロントエンド（画面デザイン担当）からバックエンド（裏側のシステム担当）と専門ごとに役割を分けていたが、いまは1～3人の少人数チームで...</summary>
+  </entry>
   <entry>
     <title>「私は冷凍庫ではありません」を意味するHTTPステータスコード案が登場、海外ユーザーも困惑【やじうまWatch】</title>
     <id>https://internet.watch.impress.co.jp/docs/yajiuma/2156607.html</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-15T23:21:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>データベースの中身を調べたいとき、サーバーへのアップロードや専用ソフトのインストールが必要になる場面があります。そうした手間を省き、ブラウザ上でSQLiteデータベース(.sqlite・.db)・SQLダンプファイル・CSVファイルを開いて編集と形式変換ができる無料のWebアプリが「editsqlite」です。 SQLite Editor Online ...</summary>
-  </entry>
-  <entry>
-    <title>git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタン</title>
-    <id>https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime</id>
-    <link href="https://zenn.dev/yskszk63/articles/codepipeline-zip-dostime" />
-    <updated>2026-11-15T22:28:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>git archive で作成した zip ファイルを AWS CodePipeline のビルドのソースとして使う場合はDOSタイムスタンプをUTCで作成すべき 要約 zip ファイルには DOS タイムスタンプと拡張タイムスタンプがある DOS タイムスタンプはタイムゾーン無しのタイムスタンプ 拡張タイムスタンプはUTCで格納されたタイムスタンプ AWS C...</summary>
-  </entry>
-  <entry>
-    <title>俺、8210円で買える「透明レトロカメラ」に夢中なんだ。これ面白いんだぜ！ (1/5)</title>
-    <id>https://ascii.jp/elem/000/004/451/4451322/</id>
-    <link href="https://ascii.jp/elem/000/004/451/4451322/" />
-    <updated>2026-11-15T21:22:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>スマホがあれば、誰でも簡単に綺麗な写真が撮れて、すぐに画像を確認できます。ですが、この作業が当たり前すぎて、ちょっと退屈さを感じていませんか？ そんな現代の写真撮影に、強い未体験感と新鮮な驚きを与えてくれるユニークなデバイスが登場しました。ライティング機材で知られるGodoxの「Godox C100」です。 実売...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト障害、インド政府機関ほぼ影響なし…印メディア「技術的自立の正しさ証明」</title>
-    <id>https://www.yomiuri.co.jp/world/20261115-GYT1T00190/</id>
-    <link href="https://www.yomiuri.co.jp/world/20261115-GYT1T00190/" />
-    <updated>2026-11-15T23:50:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【読売新聞】 【ニューデリー＝青木佐知子】世界各地で発生した米マイクロソフトのサービスの大規模障害を巡り、サイバー安全保障の観点から独自の業務システムを導入していたインドの政府機関では、目立った影響や混乱はなかった。印メディアは「世</summary>
-  </entry>
-  <entry>
-    <title>北陸Ruby会議02で基調講演をさせていただきました | うなすけとあれこれ</title>
-    <id>https://blog.unasuke.com/2026/hokurikurk02/</id>
-    <link href="https://blog.unasuke.com/2026/hokurikurk02/" />
-    <updated>2026-11-15T20:46:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この度は、北陸Ruby会議02の基調講演者としてお招きいただき、ありがとうございました。 https://regional.rubykaigi.org/hokuriku02/ オファーをいただいたタイミングで、会場が福井県立恐竜博物館になると聞き、化石発掘を絡めて「dig」という単語を使いたいというのと、プロトコルのossificationについてのネタは入れ...</summary>
-  </entry>
-  <entry>
-    <title>Lightdashで作れるグラフを試してみた【dbt v2】</title>
-    <id>https://zenn.dev/ryatora/articles/lightdash-chart-catalog</id>
-    <link href="https://zenn.dev/ryatora/articles/lightdash-chart-catalog" />
-    <updated>2026-11-16T00:07:26+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>1. 概要 1.1 本記事の目的 NBA（アメリカのプロバスケットボールリーグ）のデータを使って、Lightdash[1]で様々なグラフを作成してみました。各グラフのYAMLも載せています。 2章で準備をして、3章でグラフを種類ごとに作ります。4章では、組み込みにないグラフを作る方法に触れます。 1.2 Lightdashとは Lightdashは、dbtのプロジェクトか、Lightdash独自の…</summary>
   </entry>
 </feed>
