@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-16T17:30:12.919737+09:00</updated>
+  <updated>2026-11-16T18:08:44.817079+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>自作ゲームが勝手に「鍵屋」で売られていた開発者、自腹で買って“横流しの犯人”を突き止める。業界向けキー配布ツールから永久追放 - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/newsjp/20261116-479415/</id>
+    <link href="https://automaton-media.com/articles/newsjp/20261116-479415/" />
+    <updated>2026-11-16T16:52:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ある開発者が自身のゲームのプロダクトキー（Steamキー）が、いわゆる鍵屋で販売されていることを発見。実際に購入して配布記録を確認したところ、イタリアのメディアGiocositaが取得したものであったとして注意喚起をおこなっている。 Steamにおいてゲームをプレイするには通常通りSteamストアで購入するほか、開発者や...</summary>
+  </entry>
+  <entry>
+    <title>OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」 カード番号は渡さず、購入ごとに生体認証</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/16/2000003208/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/16/2000003208/" />
+    <updated>2026-11-16T08:12:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米OpenAIは11月13日（現地時間）、AIエージェントがユーザーに代わって決済する新機能「ChatGPT Wallet」を発表した。American Express、Mastercard、Visaと提携して開発した。まず米国の「ChatGPT Pro」加入者向けに、常時稼働型エージェント「dots」で段階的に提供を始めた。日本での提供時期は明らかにしていない。 C...</summary>
+  </entry>
+  <entry>
+    <title>ローカルLLMで動く翻訳拡張機能「Sakutto」を開発した話</title>
+    <id>https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension</id>
+    <link href="https://zenn.dev/jammaru_lab/articles/sakutto-local-llm-chrome-extension" />
+    <updated>2026-11-15T05:02:29+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、じゃむまる（@jammaru_lab）です。 英語のページを、無料で、しかも精度よく日本語にしたい場面ってかなり多いですよね。でも、無料の翻訳は精度が物足りないことが多いし、有料のサービスや拡張機能はログイン必須で、月に使える回数に制限がつきがち。僕が欲しかったのは、精度が高くて、無料で、ログインも回数制限もない翻訳機能でした。 そこで作ったのが、ローカルLLMでWebページを翻訳する…</summary>
+  </entry>
   <entry>
     <title>「年齢で断らない」賃貸アパート 全戸に見守りWi-Fi 電波の変化で安否を検知</title>
     <id>https://japan.cnet.com/article/35254951/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-16T07:34:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>Cloudflare、AI専用でタブやテーマや拡張などない軽量ヘッドレスブラウザ「Kitesurf」、オープンソースで公開 Cloudflareは、AIエージェントが操作することを想定した軽量のヘッドレスブラウザ「Kitesurf」をオープンソースで公開したと発表しました。 Kitesurf is now open source on GitHub under the Apache 2.0 lic…</summary>
-  </entry>
-  <entry>
-    <title>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか</title>
-    <id>https://www.publickey1.jp/blog/26/postgresql_194ai.html</id>
-    <link href="https://www.publickey1.jp/blog/26/postgresql_194ai.html" />
-    <updated>2026-11-15T23:03:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか オープンソースのリレーショナルデータベース「PostgreSQL」は、先週木曜日（2026年11月12日）に最終リリース候補版となるPostgreSQL 19 RC2が公開され、予定では今週の11月19日に正式リリースとなる見通しです。 そ...</summary>
-  </entry>
-  <entry>
-    <title>Museに雑に投げて頭を空けておく - taxin.dev</title>
-    <id>https://taxin.dev/articles/2026-11-15</id>
-    <link href="https://taxin.dev/articles/2026-11-15" />
-    <updated>2026-11-15T21:11:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年10月末にMeta社からパーソナルAIエージェント「Muse」の日本提供が開始されましたね。 私はリリースして数日経ったくらいから使い始めました。 仕事やエンジニアリングに関する内容ではなく、主にプライベートな調べ物やタスクをMuseに任せるようにしています。 「あれどうしてたっけ」「あれやらないと」と思った...</summary>
-  </entry>
-  <entry>
-    <title>10年先も食べていくための海図を書きました ― 新刊『職業としてのITエンジニア』12月16日発売｜久松剛</title>
-    <id>https://comemo.nikkei.com/n/nd532d55c26c5</id>
-    <link href="https://comemo.nikkei.com/n/nd532d55c26c5" />
-    <updated>2026-11-15T12:26:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>本書は、その不安のループから抜け出すために、エンジニアを取り巻く市場のしくみを読み解く本です。どんな人材が求められ、企業は何を基準に採用し、給料はどう決まるのか。求人・採用・転職・年収・技術スタックの構造を、現場と経営の両面から扱っています。 10〜20社をポーリングして見えたもの私は常時10社から20社...</summary>
   </entry>
 </feed>
