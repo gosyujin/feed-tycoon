@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T16:30:18.642247+09:00</updated>
+  <updated>2026-11-17T17:00:12.372331+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Zoom・CNN・BBC・IKEAなど178組織のサイトにOptimizely経由で悪意のあるJavaScriptが配信され仮想通貨の盗難被害も発生</title>
+    <id>https://gigazine.net/news/20261117-infect-malware-optimizely/</id>
+    <link href="https://gigazine.net/news/20261117-infect-malware-optimizely/" />
+    <updated>2026-11-17T16:13:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ウェブサイトの改善や効果測定に使われる「Optimizely(オプティマイズリー)」を通じて悪意のあるJavaScriptが配信され、Zoom・CNN・Salesforce・GitLab・BBC・IKEAなど178組織のウェブサイトに影響が及んでいたことが判明しました。悪意のあるJavaScriptには仮想通貨の送金先を書き換えたりクレジットカード情報を盗み取...</summary>
+  </entry>
+  <entry>
+    <title>ChatGPTやClaudeがMacを操作する時代に--Appleが「macOS 27.3」で対応強化</title>
+    <id>https://japan.cnet.com/article/35254992/</id>
+    <link href="https://japan.cnet.com/article/35254992/" />
+    <updated>2026-11-17T14:32:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleは11月16日、ChatGPTやClaudeなどのAIエージェントがMacを操作したり、データにアクセスしたりする際の権限を、より細かく管理できる仕組みを発表した。「macOS 27.3」のベータ2で導入し、アクセスのたびに利用者の許可を求める設定や、アプリによる操作状況を示す機能などを追加する。 背景には、利用者に代わって...</summary>
+  </entry>
+  <entry>
+    <title>Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2157036.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2157036.html" />
+    <updated>2026-11-17T13:51:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Microsoft 365の大規模障害、原因はサーバーの潜在的なバグ</summary>
+  </entry>
+  <entry>
+    <title>今週のはてなブックマーク数ランキング（2026年11月第3週） - はてなブックマーク開発ブログ</title>
+    <id>https://bookmark.hatenastaff.com/entry/2026/11/17/120014</id>
+    <link href="https://bookmark.hatenastaff.com/entry/2026/11/17/120014" />
+    <updated>2026-11-17T12:00:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。11月9日（月）～11月15日（日）〔2026年11月第3週〕のトップ30です*1。 順位 タイトル 1位 完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場 | Game*Spark - 国...</summary>
+  </entry>
+  <entry>
+    <title>脱獄したPlayStation 4で90億パラメーターのAIモデルを毎秒最大43トークンで動作させる「Garlic LLM」が登場</title>
+    <id>https://gigazine.net/news/20261117-playstation-4-garlic-llm/</id>
+    <link href="https://gigazine.net/news/20261117-playstation-4-garlic-llm/" />
+    <updated>2026-11-17T10:52:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2013年に発売されたソニーの家庭用ゲーム機「PlayStation 4(PS4)」で90億パラメーターの大規模言語モデルをローカル実行できるオープンソースのアプリ「Garlic LLM」が登場しました。PS4に搭載されたGPUを直接操作することで毎秒最大43トークンの生成速度を実現しており、インターネット接続なしでAIとのチャットや音声...</summary>
+  </entry>
+  <entry>
+    <title>Breaking change: Japanese Calendar minimum supported date corrected - .NET</title>
+    <id>https://learn.microsoft.com/en-us/dotnet/core/compatibility/globalization/11/japanese-calendar-min-date</id>
+    <link href="https://learn.microsoft.com/en-us/dotnet/core/compatibility/globalization/11/japanese-calendar-min-date" />
+    <updated>2026-11-17T09:59:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The start date of the Japanese Meiji era has been updated from 1868-09-08 to 1868-10-23 to reflect the latest Unicode Common Locale Data Repository (CLDR) data and improved historical accuracy. This d…</summary>
+  </entry>
   <entry>
     <title>NVIDIA、CEO 交代に関するお知らせ</title>
     <id>https://blogs.nvidia.co.jp/blog/nvidia-announces-ceo-transition/</id>
@@ -399,14 +447,6 @@
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
   </entry>
   <entry>
-    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
-    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
-    <updated>2026-11-17T00:11:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...</summary>
-  </entry>
-  <entry>
     <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
     <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
     <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
@@ -437,6 +477,14 @@
     <updated>2026-11-16T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
+  </entry>
+  <entry>
+    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
+    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
+    <updated>2026-11-16T18:12:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。 元々は2021年〜2024年6月まで在籍していました。 以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。 今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラット…</summary>
   </entry>
   <entry>
     <title>Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge</title>
@@ -757,53 +805,5 @@
     <updated>2026-11-16T11:04:42+09:00</updated>
     <category term="はてブ IT" />
     <summary>米アマゾン・ドット・コムの商用インターネットサービス「アマゾン・レオ」のデモンストレーションを見る報道関係者（2026年6月4日撮影）。（c）JUSTIN TALLIS/AFP 【11月16日 AFP】米アマゾン・ドット・コムは15日、ロケットの打ち上げ失敗により、商用インターネットサービス「アマゾン・レオ」向けの衛星40基を失った...</summary>
-  </entry>
-  <entry>
-    <title>もういい加減"技術勉強会"やめませんか？ - Qiita</title>
-    <id>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e</id>
-    <link href="https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e" />
-    <updated>2026-11-16T20:51:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。 誰かがAIで作った綺麗なスライドを持ってきて、それを読み上…</summary>
-  </entry>
-  <entry>
-    <title>ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/16/2000003226/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/16/2000003226/" />
-    <updated>2026-11-16T17:20:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>11月12日（現地時間）、米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。退任と言いつつも、公式アナウンスに本人のメッセージが一切載ってないあたり、事実上の解任と見るのが正しいのだろう。 現時点ではこの先の動きを読むのは非常に難しい。記事の後半でも紹介するが、単に不倫と...</summary>
-  </entry>
-  <entry>
-    <title>日本やアメリカ・イギリス・インドなど「パックス・シリカ」加盟国がAIサプライチェーンの安全保障で合意</title>
-    <id>https://gigazine.net/news/20261116-pax-silica-protect-ai-supply-chains/</id>
-    <link href="https://gigazine.net/news/20261116-pax-silica-protect-ai-supply-chains/" />
-    <updated>2026-11-16T16:34:22+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アメリカ商務省が主導し日本などが参加している国際的な協力の枠組み「パックス・シリカ(Pax Silica)」の加盟国が、中国からの脅威にさらされやすいAI技術やサプライチェーンを共同で把握・保護していく方針で合意したことがわかりました。 US and allies sign accord to protect AI supply chains from China https://w...</summary>
-  </entry>
-  <entry>
-    <title>謎のHTTPステータスコード「483 I'm Not a Freezer」がIETFに提案され、「X」で話題に／エイプリルフールではない【やじうまの杜】</title>
-    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156718.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2156718.html" />
-    <updated>2026-11-16T15:38:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>謎のHTTPステータスコード「483 I'm Not a Freezer」がIETFに提案され、「X」で話題に／エイプリルフールではない【やじうまの杜】</summary>
-  </entry>
-  <entry>
-    <title>ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？ Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2156753.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2156753.html" />
-    <updated>2026-11-16T17:21:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？ Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</summary>
-  </entry>
-  <entry>
-    <title>「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2156687.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2156687.html" />
-    <updated>2026-11-16T13:55:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も</summary>
   </entry>
 </feed>
