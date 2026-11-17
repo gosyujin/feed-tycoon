@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T22:00:14.350581+09:00</updated>
+  <updated>2026-11-17T22:30:13.434718+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Apple、自立型AIエージェントによる情報漏洩やプライバシー侵害のリスクに対し、macOS 27.3 Golden Gate Beta 2で、フルディスクアクセスの細分化やアプリのアクセス許可の明示化などを開始。</title>
+    <id>https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html</id>
+    <link href="https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html" />
+    <updated>2026-11-17T16:32:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleが自立型AIエージェントによる情報漏洩やプライバシー侵害対策として、macOS 27.3 Golden Gate Beta 2で、Macのフルディスクアクセスを細分化＆アクセス許可の明示化を開始すると発表しています。詳細は以下から。 Appleは現地時間2026年11月16日、今年09月にリリースした「macOS 27 Golden Gate」の2度目のマイナ...</summary>
+  </entry>
+  <entry>
+    <title>OpenAI、児童性的虐待コンテンツ（CSAM）検出ツールを公開 ChatGPTで探すと24時間アカウント停止の警告も</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/17/2000003254/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003254/" />
+    <updated>2026-11-17T10:54:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米OpenAIは11月16日（現地時間）、児童性的虐待コンテンツ（CSAM：Child Sexual Abuse Material）を検出する新たな画像分類ツールを発表した。生成AIで作成された画像や、これまで確認されていない画像も検出対象とする。審査を通過した組織に、OpenAI APIを通じて無償で提供する。 新ツール「OpenAI CSAM Image Classif...</summary>
+  </entry>
   <entry>
     <title>The Software Engineering Handbook</title>
     <id>https://davisjam.github.io/model-based-agentic-software-engineering/book/se-handbook/software-engineering-handbook.pdf</id>
@@ -167,20 +183,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T15:39:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
-  </entry>
-  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
+  </entry>
+  <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T12:13:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-16T22:42:28+09:00</updated>
     <category term="はてブ IT" />
     <summary>この文章、AIっぽいからすごくいやだ。 見出しで区切って、言い回しもきれいに整えてくれた文章。間違ったことは何も書いていない。でも読んだ瞬間に「これ自分の文章じゃないな」と分かってしまうんですよね。 AIで文章を書いている人なら同じような経験があるかと思います。「〜です」の連続を崩して「いかがでしょう...</summary>
-  </entry>
-  <entry>
-    <title>「Microsoft 365」大規模障害、7月の修正で混入した不具合が原因 負荷増と容量減が重なり世界に波及</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/17/2000003245/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003245/" />
-    <updated>2026-11-17T07:24:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米Microsoftは11月15日（現地時間）、12日に発生したMicrosoft 365の大規模障害について、暫定的なインシデントレポートを公表した。7月に適用した修正に潜んでいた不具合が、サーバの負荷増加と処理能力の低下によって表面化し、障害が世界規模に連鎖したという。 Copilot、AIエージェント、プラットフォーム担当エグゼ...</summary>
-  </entry>
-  <entry>
-    <title>スーパーコンピューター「富岳」への不正アクセスについてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/11/17/030254</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/17/030254" />
-    <updated>2026-11-17T06:42:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
   </entry>
 </feed>
