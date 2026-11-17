@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T19:00:21.950515+09:00</updated>
+  <updated>2026-11-17T19:30:13.720774+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
+    <id>https://zenn.dev/mizchi/articles/mutation-test-quality</id>
+    <link href="https://zenn.dev/mizchi/articles/mutation-test-quality" />
+    <updated>2026-11-17T18:59:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
+  </entry>
+  <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T15:39:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
+  </entry>
+  <entry>
+    <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
+    <updated>2026-11-17T13:10:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
+  </entry>
+  <entry>
+    <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
+    <id>https://zenn.dev/hidechannu/articles/20261115-orca-shotgun-parallel-worktrees</id>
+    <link href="https://zenn.dev/hidechannu/articles/20261115-orca-shotgun-parallel-worktrees" />
+    <updated>2026-11-16T23:46:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 一年前、私は git worktree を使ったAIの並列開発に挫折しました（当時の記事）。 あれから1年。今では、朝会で大量にチケットを拾って、まとめてAIに投げると、開発タスクが爆速で終わっていくという日常になっています。 変わったのは、AIモデルの進化と、Orcaというツールと、自分で作ったスキル（orca-shot...</summary>
+  </entry>
   <entry>
     <title>楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a</id>
@@ -623,6 +655,14 @@
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
   </entry>
   <entry>
+    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
+    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
+    <updated>2026-11-17T00:11:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...</summary>
+  </entry>
+  <entry>
     <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
     <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
     <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
@@ -653,14 +693,6 @@
     <updated>2026-11-16T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
-  </entry>
-  <entry>
-    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
-    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
-    <updated>2026-11-16T18:12:44+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。 元々は2021年〜2024年6月まで在籍していました。 以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。 今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラット…</summary>
   </entry>
   <entry>
     <title>Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-15T07:25:00+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、IETF のサイドミーティング、のぞいたことはありますか？ 公式の WG や BoF とは別に、...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト</title>
-    <id>https://www.gamespark.jp/article/2026/11/16/174930.html</id>
-    <link href="https://www.gamespark.jp/article/2026/11/16/174930.html" />
-    <updated>2026-11-16T20:08:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト</summary>
-  </entry>
-  <entry>
-    <title>ジェンスン・フアン氏、NVIDIA CEO復帰を模索か。関係者と協議との報 | テクノエッジ TechnoEdge</title>
-    <id>https://www.techno-edge.net/article/2026/11/16/5729.html</id>
-    <link href="https://www.techno-edge.net/article/2026/11/16/5729.html" />
-    <updated>2026-11-16T19:24:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIAのCEOを辞任したジェンスン・フアン氏が、辞めたばかりのNVIDIA CEO職への復帰について側近らと協議していると報じられています。 英Financial Times（FT）が事情に詳しい複数の関係者の話として伝えたところでは、フアン氏の側近の1人はFTに対し、シリコンバレーの幹部らを集めた「ウォールーム」を立ち上げ、前C...</summary>
-  </entry>
-  <entry>
-    <title>16日のドコモ通信障害、60％復旧</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2155699.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2155699.html" />
-    <updated>2026-11-16T14:15:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>16日のドコモ通信障害、60％復旧</summary>
-  </entry>
-  <entry>
-    <title>「人工知能学会」で「おじさん構文」の研究発表、問われる「若者に絵文字を使っていいのか」問題…ＡＩとの関係は（読売新聞オンライン） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/dc105d5bce6f91e416e636572c143f7bfaf95f51</id>
-    <link href="https://news.yahoo.co.jp/articles/dc105d5bce6f91e416e636572c143f7bfaf95f51" />
-    <updated>2026-11-15T16:20:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「若者は上司から絵文字がついた文章を受け取るとどう思うか――」。人工知能学会の研究会で、大学生が「おじさん構文」と呼ばれる文章についての研究結果を報告した。大学や企業のＡＩ研究者らが参加する学会で、場違いとも思える研究の発表。なぜ彼はこんな報告を行ったのか。話を聞くと「ＡＩとの距離感」の重要性が見...</summary>
   </entry>
 </feed>
