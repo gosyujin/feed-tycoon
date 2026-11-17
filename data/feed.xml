@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T06:30:19.072806+09:00</updated>
+  <updated>2026-11-18T07:00:14.725309+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表</title>
+    <id>https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html</id>
+    <link href="https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html" />
+    <updated>2026-11-18T06:48:15+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、同社が開発したコーディング用AIモデルのフラグシップで高性能かつ低価格を売り文句とする「MAI Code 2」と、さらに安価な「...</summary>
+  </entry>
+  <entry>
+    <title>［速報］マイクロソフト、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」正式リリース</title>
+    <id>https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html</id>
+    <link href="https://www.publickey1.jp/blog/26/postgresqlazure_horizondb.html" />
+    <updated>2026-11-18T06:45:41+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のミッションクリティカル向けデータベースサービス「Azure HorizonDB」の正式リリースを発表し...</summary>
+  </entry>
+  <entry>
+    <title>［速報］PostgreSQL互換のサーバレスでOLTPとOLAP両対応を実現する「Microsoft Fabric HorizonDB」パブリックプレビュー</title>
+    <id>https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html</id>
+    <link href="https://www.publickey1.jp/blog/26/postgresqloltpolapmicrosoft_fabric_horizondb.html" />
+    <updated>2026-11-18T06:43:09+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、PostgreSQL互換のサーバレスデータベース「Microsoft Fabric HorizonDB」のパブリックプレビュー版...</summary>
+  </entry>
+  <entry>
+    <title>［速報］AIがOracle DBからPostgreSQLへの移行を支援、「Azure Database Migration Service」プレビュー</title>
+    <id>https://www.publickey1.jp/blog/26/aioracle_dbpostgresqlazure_database_migration_service.html</id>
+    <link href="https://www.publickey1.jp/blog/26/aioracle_dbpostgresqlazure_database_migration_service.html" />
+    <updated>2026-11-18T06:40:32+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Azure Database Migration Service （Azure DMS）におけるOracle DBからPostg...</summary>
+  </entry>
+  <entry>
+    <title>［速報］Azure SQL Databaseをローカルで実行する「Azure SQL Database local development container」パブリックプレビュー</title>
+    <id>https://www.publickey1.jp/blog/26/azure_sql_databaseazure_sql_database_local_development_container.html</id>
+    <link href="https://www.publickey1.jp/blog/26/azure_sql_databaseazure_sql_database_local_development_container.html" />
+    <updated>2026-11-18T06:37:53+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Azure SQL Databaseをローカルで実行する「Azure SQL Database local developmen...</summary>
+  </entry>
+  <entry>
+    <title>軽量なマイクロVMでネイティブよりアプリを高速起動できる「Hyperlight-Unikraft」登場</title>
+    <id>https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html</id>
+    <link href="https://www.publickey1.jp/blog/26/vmhyperlight-unikraft.html" />
+    <updated>2026-11-17T03:30:31+09:00</updated>
+    <category term="Publickey" />
+    <summary>Cloud Native Computing Foundationは、Linuxアプリケーションを再コンパイルや再ビルドすることなくそのまま、Unikernelのような軽量かつセキュアな実行環境で仮想マシンによる堅牢な隔離環境で実行できるM...</summary>
+  </entry>
+  <entry>
+    <title>Node.jsとnpmをWebブラウザ上で実行可能にする「OpenVessel」、神戸ソフトがオープンソースで公開</title>
+    <id>https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html</id>
+    <link href="https://www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html" />
+    <updated>2026-11-17T00:23:28+09:00</updated>
+    <category term="Publickey" />
+    <summary>神戸ソフトは、Webブラウザ上でNode.jsとパッケージマネージャのnpm、AstroなどのNode.jsに対応したフレームワークなどが実行できる「OpenVessel」をオープンソースで公開しました。 OpenVesselは、Webブラ...</summary>
+  </entry>
   <entry>
     <title>AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた</title>
     <id>https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -749,61 +805,5 @@
     <updated>2026-11-17T00:14:11+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! かなり長い記事なので目次から適宜気になるところをつまんでもらえたらと思います。 もちろん通しで読んでもらうのは大歓迎＆大喜びです！ TL;DR 自分用の情報収集Discordサーバーを、2ヶ月ほどAI駆動開発で育てている（起票したイシュー555件、マージしたPR403本） イシュードリブン開発で、起票→精査→ready→実装→マージ→振り返りの流れをAIが回し、人は判断が必要なところだけ関わる…</summary>
-  </entry>
-  <entry>
-    <title>専門家に使ってもらうAIプロダクトをつくる - 病院の医事課向けDPCコーディング支援システムの設計と評価</title>
-    <id>https://speakerdeck.com/hagino3000/building-ai-product-for-expert</id>
-    <link href="https://speakerdeck.com/hagino3000/building-ai-product-for-expert" />
-    <updated>2026-11-16T23:54:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI本気で社会実装Night (2026-11-16) の資料です</summary>
-  </entry>
-  <entry>
-    <title>X の投稿を Rust で画像にするライブラリ xeet を試す</title>
-    <id>https://zenn.dev/yamauz/articles/fb97f92af23a3e</id>
-    <link href="https://zenn.dev/yamauz/articles/fb97f92af23a3e" />
-    <updated>2026-11-16T18:20:35+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>X の投稿を、ブラウザを使わずに PNG にするライブラリ xeet を触ってみました。 自分が個人で作っている メトロノームアプリ Metronome.fm の LP に、X の投稿をカードとして載せたいなと思っていて、どうやるか考えていたところでした。X の埋め込みだとページで X のスクリプトを読み込むことになるのがちょっと嫌だし、スクショを手で撮って貼るのも面倒です。そんなときにたまたま…</summary>
-  </entry>
-  <entry>
-    <title>インフラ＆CI/CD（GitHub Actionsの自動デプロイ）〜化石時代のFTPから脱却。あえて作り込まない「運用カバー」の自動化〜</title>
-    <id>https://zenn.dev/dgft/articles/da631c5758aa6a</id>
-    <link href="https://zenn.dev/dgft/articles/da631c5758aa6a" />
-    <updated>2026-11-16T17:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。DGフィナンシャルテクノロジー（DGFT）技術本部のイナガキです。 本連載では、長らく実務から離れていた私が、生成AIを相棒にして実質100時間で社内の「作業実績報告システム」を立ち上げた裏側をご紹介しています。 第4回となる今回は、インフラ構成と「GitHub Actionsを用いた自動デプロイ（CI/CD）」についてのお話です。 私が現役でコードを書いていた時代、Webシ…</summary>
-  </entry>
-  <entry>
-    <title>若手の「説明力」は、AI開発で育てられるか ― 資料レビューAIを題材にしたOJTの実践</title>
-    <id>https://zenn.dev/nttdata_tech/articles/d159fdd9c38c00</id>
-    <link href="https://zenn.dev/nttdata_tech/articles/d159fdd9c38c00" />
-    <updated>2026-11-16T16:30:17+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>1. はじめに 生成AIを使えば、経験の浅いコンサルタントでも、短時間で整った資料を作れるようになりました。しかし「なぜ、この結論に決めたのか」を説明できなければ、責任を持った提案にはなり得ません。 今年度、私は2年目社員のトレーナーとして、資料レビューAIの開発をテーマに指導に取り組んでいます。目指しているのは、実務で役立つAIを作ることと、その開発過程を本人の学びにつなげることです。育成は現在…</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAが小型AIスパコンDGX Sparkを4台つなげてメモリ容量512GBを実現する「DGX Spark Developer Kit」を発表、最大700Bのモデルを実行可能</title>
-    <id>https://gigazine.net/news/20261117-dgx-spark-developer-kit/</id>
-    <link href="https://gigazine.net/news/20261117-dgx-spark-developer-kit/" />
-    <updated>2026-11-17T12:46:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIAが小型AIスーパーコンピューター「DGX Spark」を4台連係させてAIクラスターを形成できる「DGX Spark Developer Kit」を発表しました。 NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab | NVIDIA Blog https://blogs.nvidia.com/blo…</summary>
-  </entry>
-  <entry>
-    <title>AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2156904.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2156904.html" />
-    <updated>2026-11-17T10:04:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIが時代遅れのWebサイトを書くのを防ぐスキル「Modern Web Guidance」が安定版に／「Edge」「Firefox」も参加、Webサイトのモダナイズにも</summary>
-  </entry>
-  <entry>
-    <title>大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2156755.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2156755.html" />
-    <updated>2026-11-17T08:54:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>大阪公立大学、委託先であるNECの個人情報漏えいについて発表、機密性の高い個人情報を削除せず保持</summary>
   </entry>
 </feed>
