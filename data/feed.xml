@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T17:30:08.573298+09:00</updated>
+  <updated>2026-11-17T18:00:08.129345+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>実行中のWinUIアプリを調査する「WinUI DevTools」を試験導入、「winapp」v0.8.0が公開／C++プロジェクト対応、ブランチごとの並行実行も</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2157064.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2157064.html" />
+    <updated>2026-11-17T15:42:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>実行中のWinUIアプリを調査する「WinUI DevTools」を試験導入、「winapp」v0.8.0が公開／C++プロジェクト対応、ブランチごとの並行実行も</summary>
+  </entry>
+  <entry>
+    <title>AIを活用したPerlのGo移植（テスト編） - Mirrativ Tech Blog</title>
+    <id>https://tech.mirrativ.stream/entry/2026/11/17/100000</id>
+    <link href="https://tech.mirrativ.stream/entry/2026/11/17/100000" />
+    <updated>2026-11-17T10:52:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、バックエンド基盤チームの藤井脩紀です。 バックエンド基盤チームは、バックエンドエンジニアの生産性向上やコスト削減を目的に、エンジニア主導で課題を発見・解決している部署です。 ミラティブのバックエンドはPerlからGoへの移植を進めています。その一環として、Perlで書かれたE2Eテスト250ファイルを...</summary>
+  </entry>
   <entry>
     <title>耳で聞く！Python で学ぶ マクロ経済学 入門 47</title>
     <id>https://qiita.com/maskot1977/items/eaf4d8c547c3cfe8d8bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -583,14 +599,6 @@
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
   </entry>
   <entry>
-    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
-    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
-    <updated>2026-11-17T00:11:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...</summary>
-  </entry>
-  <entry>
     <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
     <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
     <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
@@ -621,6 +629,14 @@
     <updated>2026-11-16T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
+  </entry>
+  <entry>
+    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
+    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
+    <updated>2026-11-16T18:12:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。 元々は2021年〜2024年6月まで在籍していました。 以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。 今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラット…</summary>
   </entry>
   <entry>
     <title>Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-16T14:45:42+09:00</updated>
     <category term="はてブ IT" />
     <summary>【2026年11月16日 16:00追記】 影響を受けたお客様への個別のご連絡を、順次進めております。 また、個人情報保護委員会への報告を完了いたしました。 株式会社ヌーラボ（以下、当社）は、2026年11月14日、当社が提供するオンラインホワイトボードツール「Cacoo」の運用環境および当社が管理するお問い合わせ記録の一部...</summary>
-  </entry>
-  <entry>
-    <title>起動不能トラブル修復 KB5127936 KB5132061｜Nackie</title>
-    <id>https://note.com/nackie_o/n/n7120b0327e52</id>
-    <link href="https://note.com/nackie_o/n/n7120b0327e52" />
-    <updated>2026-11-15T23:12:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>復旧方法です原因：2026年11月のwindows update自動更新によりメモリ整合性機能が強制的に有効になり、古いドライバーが邪魔して起動不能になります。 主にCD/DVD関係で ROXIO 、SONIC easy なんちゃら 、 powerDVD セキュリティーソフトではカスペルスキーの古いバージョン（こっちの場合は少々厄介。セーフモードで起...</summary>
-  </entry>
-  <entry>
-    <title>AIが「宿題の時代」を終わらせた--元教授が語る学びの危機 ChatGPTを手放せない学生も</title>
-    <id>https://japan.cnet.com/article/35254950/</id>
-    <link href="https://japan.cnet.com/article/35254950/" />
-    <updated>2026-11-16T16:11:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>宿題を採点し、学生にフィードバックを返す作業は、教育者にとっておそらく最も骨の折れる仕事だ。私が教授として教えていた頃、工夫を凝らした課題の提出物を読んでも、分かるのはせいぜい、授業の概念や重要な要素を学生にどれだけうまく伝えられたかということだった。しかしAI時代を迎えた今、その作業は腹立たしい...</summary>
   </entry>
 </feed>
