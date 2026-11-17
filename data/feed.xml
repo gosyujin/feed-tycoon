@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T23:00:14.676812+09:00</updated>
+  <updated>2026-11-17T23:30:14.010300+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>自動でクレーンのようにモノをつかんで部屋をお片付けしてくれるオープンソースロボット「Stringman」</title>
+    <id>https://gigazine.net/news/20261117-stringman-cable-robot/</id>
+    <link href="https://gigazine.net/news/20261117-stringman-cable-robot/" />
+    <updated>2026-11-17T22:35:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オープンソースハードウェアを開発するNeufangled Roboticsが、床に散らばったおもちゃや衣類を片付けるためのロボット「Stringman」を開発しました。天井近くの四隅から伸ばしたラインで2本指の「手」をつり下げ、クレーンのように動かしてモノを運んでもらうことができます。 Stringman from Neufangled Robotics http...</summary>
+  </entry>
+  <entry>
+    <title>カンファレンスノベルティの話から考える、技術カンファレンスの続け方 - 941::blog</title>
+    <id>https://blog.kushii.net/archives/2026/11/17/211328</id>
+    <link href="https://blog.kushii.net/archives/2026/11/17/211328" />
+    <updated>2026-11-17T21:15:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>技術カンファレンスのノベルティがいらない、という話をXで見かけました。 年間20以上の技術カンファレンスに参加するので、その気持ちはよくわかります。名入れされていると捨てるのも忍びないし、そんなに欲しいかと言われると悩ましい。 わたしは技術カンファレンスの運営に15年以上関わり、スポンサー担当もかなりの...</summary>
+  </entry>
+  <entry>
+    <title>SWITCHBOT、オールシーズン温度を自動調整する「moera スマートマットレストッパー」を発表</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/news/2157234.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2157234.html" />
+    <updated>2026-11-17T19:59:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>SWITCHBOT、オールシーズン温度を自動調整する「moera スマートマットレストッパー」を発表</summary>
+  </entry>
+  <entry>
+    <title>楽天証券、年収など顧客情報漏洩 不正アクセスで最大447万口座分 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUB179TR0X11C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUB179TR0X11C26A1000000/" />
+    <updated>2026-11-17T19:25:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>楽天証券は17日、第三者による不正アクセスを受け、顧客の年収や金融資産などの個人情報が最大約447万口座分漏洩したと発表した。氏名や住所、生年月日、勤務先、電話番号、メールアドレス、出金先の銀行口座番号なども含まれる。年収や金融資産は顧客の自己申告に基づく。保有する金融商品の資産情報や最終ログイン日な...</summary>
+  </entry>
+  <entry>
+    <title>OpenAIが児童ポルノ検出ツールを開発し監視団体に提供開始</title>
+    <id>https://gigazine.net/news/20261117-openai-child-safety/</id>
+    <link href="https://gigazine.net/news/20261117-openai-child-safety/" />
+    <updated>2026-11-17T14:06:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIがAI生成画像を含む児童性的虐待コンテンツの検出を支援するツールを発表しました。新しいツールで監視団体を支援するとともに、ChatGPTに新しい警告機能を追加し、開発者向けガイダンスを公開することで、オンライン児童性的虐待との闘いを強化することを掲げています。 Strengthening the fight against online ...</summary>
+  </entry>
   <entry>
     <title>「BtoBマーケティングなら才流」と言われるまでの一連の取り組みを解説 | 社長ブログ | 才流</title>
     <id>https://sairu.co.jp/blog/110447/</id>
@@ -199,20 +239,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T15:39:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
-  </entry>
-  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
+  </entry>
+  <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T12:13:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -765,45 +805,5 @@
     <updated>2026-11-16T21:12:03+09:00</updated>
     <category term="はてブ IT" />
     <summary>前提: 卓球の推し活を裏側で支えるData Vault 導入のモチベーション 1: 選手の同定や名寄せをどうするか? 2: 関係性の変化をどう扱うか? 3: 属性の変化をどう扱うか? まとめ: データ統合やデータ分析に頻出の課題に向き合う道具としてのData Vault Data Vaultの構成要素 エンティティとそれを識別するキーを記録する: Hu...</summary>
-  </entry>
-  <entry>
-    <title>【速報】日清食品 LINE公式アカウントに「友だち追加」していたユーザーIDやアカウント名137万件超情報漏えい 外部サービスに不正アクセスで | TBS NEWS DIG</title>
-    <id>https://newsdig.tbs.co.jp/articles/-/3088634</id>
-    <link href="https://newsdig.tbs.co.jp/articles/-/3088634" />
-    <updated>2026-11-16T19:25:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日清食品は、利用していた外部サービスへの不正アクセスにより、LINEの公式アカウントを友だち追加していた利用者の情報など、137万件あまりが外部に漏えいしたと発表しました。◆漏えいした個人情報・今年9月9日…</summary>
-  </entry>
-  <entry>
-    <title>ゲーム内チャット経由で「トロイの木馬」を仕掛けるサイバー攻撃発生。今や個人開発ゲームも狙われる - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261116-479456/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261116-479456/" />
-    <updated>2026-11-16T19:13:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>放置インクリメンタル『CivIdle』 にて、悪意のある人物によってクロスサイトスクリプティング（XSS）攻撃がおこなわれた。 個人デベロッパーFish Pond StudioのRuoyu Sun氏は11月15日、放置インクリメンタル『CivIdle』 にて、悪意のある人物によってクロスサイトスクリプティング（XSS）攻撃がおこなわれたことを発表...</summary>
-  </entry>
-  <entry>
-    <title>Android 16搭載のスマホ型電子ペーパー「BOOX Palma 3」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2156781.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2156781.html" />
-    <updated>2026-11-16T17:14:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Android 16搭載のスマホ型電子ペーパー「BOOX Palma 3」</summary>
-  </entry>
-  <entry>
-    <title>スーパーコンピュータ「富岳」および「理究（りきゅう）」への不正アクセスによる個人情報漏えいの可能性について | 理化学研究所</title>
-    <id>https://www.riken.jp/pr/news/2026/20261116_2/index.html</id>
-    <link href="https://www.riken.jp/pr/news/2026/20261116_2/index.html" />
-    <updated>2026-11-17T00:23:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>概要 理化学研究所（理研）計算科学研究センターが運用するスーパーコンピュータ「富岳」[1]の運用系システムに対し、11月12日に外部の第三者による不正アクセスがあったことを、11月13日に確認しました。 調査の結果、「富岳」の利用者のホームディレクトリに保存されていたファイルの一部と、利用者の認証システムに登...</summary>
-  </entry>
-  <entry>
-    <title>AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ</title>
-    <id>https://kei-1010.hatenablog.com/entry/2026/11/16/120828</id>
-    <link href="https://kei-1010.hatenablog.com/entry/2026/11/16/120828" />
-    <updated>2026-11-16T21:26:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>人類滅亡みたいなAI脅威論を唱えている奴は現実が見えてないとしか思えない。 世間ではいまだに「2030年までには人間抜きでAIが次世代AIを作り始め、2040年には半導体工場から発電所までAIが勝手に回してシンギュラリティが起き人類滅亡」みたいな脅威論を本気で信じている連中がいる。 結論から言うと、人間を一切介さ...</summary>
   </entry>
 </feed>
