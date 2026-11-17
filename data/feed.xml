@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T22:30:13.434718+09:00</updated>
+  <updated>2026-11-17T23:00:14.676812+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「BtoBマーケティングなら才流」と言われるまでの一連の取り組みを解説 | 社長ブログ | 才流</title>
+    <id>https://sairu.co.jp/blog/110447/</id>
+    <link href="https://sairu.co.jp/blog/110447/" />
+    <updated>2026-11-17T16:04:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>一部の方から、「BtoBマーケティングなら才流、というポジションを取れていますよね」と言っていただくことがある。 正確なブランド調査を行ったわけではないが、特定セグメントにおいては、第一想起に近いポジションを獲得できているのではないかと思っている。もちろん、最初からそうした知名度があったわけではない。...</summary>
+  </entry>
+  <entry>
+    <title>内製 Background Agent “haro”に アラート対応を任せたら 回すたびに賢くなっていった - LayerX エンジニアブログ</title>
+    <id>https://tech.layerx.co.jp/entry/haro-alert-loop</id>
+    <link href="https://tech.layerx.co.jp/entry/haro-alert-loop" />
+    <updated>2026-11-17T13:20:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、Kazu です。今年の 4 月に新卒として LayerX に入社して、現在バクラク勤怠の開発をしています。最近、社内の麻雀部で部長に就任しました。 このところ、バクラク勤怠のアラートの巡回を、社内の Background Coding Agent「haro」のスケジュール実行に任せています。Background Coding Agent とは、PC を閉...</summary>
+  </entry>
   <entry>
     <title>Apple、自立型AIエージェントによる情報漏洩やプライバシー侵害のリスクに対し、macOS 27.3 Golden Gate Beta 2で、フルディスクアクセスの細分化やアプリのアクセス許可の明示化などを開始。</title>
     <id>https://applech2.com/archives/20261117-apple-strengthens-macos-security-against-risks-from-ai-agents.html</id>
@@ -183,20 +199,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T15:39:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
+  </entry>
+  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
-  </entry>
-  <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T12:13:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-16T21:26:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>人類滅亡みたいなAI脅威論を唱えている奴は現実が見えてないとしか思えない。 世間ではいまだに「2030年までには人間抜きでAIが次世代AIを作り始め、2040年には半導体工場から発電所までAIが勝手に回してシンギュラリティが起き人類滅亡」みたいな脅威論を本気で信じている連中がいる。 結論から言うと、人間を一切介さ...</summary>
-  </entry>
-  <entry>
-    <title>スパコン「富岳」不正アクセス受け停止 利用者情報流出の恐れ | 毎日新聞</title>
-    <id>https://mainichi.jp/articles/20261116/k00/00m/040/139000c</id>
-    <link href="https://mainichi.jp/articles/20261116/k00/00m/040/139000c" />
-    <updated>2026-11-16T22:51:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>理化学研究所計算科学研究センターのスーパーコンピューター「富岳」＝神戸市中央区で2020年6月16日、望月亮一撮影 理化学研究所が運用するスーパーコンピューター「富岳」のシステムが、今月12日に外部の第三者から不正アクセスを受けたことが判明した。富岳は企業や大学が研究開発に活用しており、利用者約4200人分の...</summary>
-  </entry>
-  <entry>
-    <title>語尾を直しても抜けないAIっぽさ。本当に変えるべきは文章の「骨格」でした。｜吉村伸一｜構造で伝える人</title>
-    <id>https://note.com/shin_yoshimura/n/n2e2873a61087</id>
-    <link href="https://note.com/shin_yoshimura/n/n2e2873a61087" />
-    <updated>2026-11-16T22:42:28+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この文章、AIっぽいからすごくいやだ。 見出しで区切って、言い回しもきれいに整えてくれた文章。間違ったことは何も書いていない。でも読んだ瞬間に「これ自分の文章じゃないな」と分かってしまうんですよね。 AIで文章を書いている人なら同じような経験があるかと思います。「〜です」の連続を崩して「いかがでしょう...</summary>
   </entry>
 </feed>
