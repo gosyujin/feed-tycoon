@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T19:30:13.720774+09:00</updated>
+  <updated>2026-11-17T20:00:14.273621+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ローカルLLM入門</title>
+    <id>https://zenn.dev/port_inc/articles/ff974c7456f4db</id>
+    <link href="https://zenn.dev/port_inc/articles/ff974c7456f4db" />
+    <updated>2026-11-17T16:17:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための…</summary>
+  </entry>
+  <entry>
+    <title>シャープ「AQUOS sense11」発表・26日発売、約157gの薄型ボディに6年セキュリティ更新対応</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/news/2154453.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2154453.html" />
+    <updated>2026-11-17T15:33:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>シャープ「AQUOS sense11」発表・26日発売、約157gの薄型ボディに6年セキュリティ更新対応</summary>
+  </entry>
+  <entry>
+    <title>Linuxカーネルに「NoisyTCP」脆弱性（CVE-2026-99288） 認証不要の遠隔攻撃でサーバー停止、約11年間潜在|セキュリティニュースのセキュリティ対策Lab</title>
+    <id>https://rocket-boys.co.jp/security-measures-lab/noisytcp_cve_2026_99288_linux_tcp_remote-dos/</id>
+    <link href="https://rocket-boys.co.jp/security-measures-lab/noisytcp_cve_2026_99288_linux_tcp_remote-dos/" />
+    <updated>2026-11-17T12:06:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>セキュリティ研究者のHyunwoo Kim氏（@v4bel）は2026年11月16日、LinuxカーネルのTCP接続処理に存在する脆弱性「NoisyTCP」（CVE-2026-99288）の技術的な詳細を公開しました。認証前に受信するTCP通信を通じてカーネルの競合状態を引き起こし、サーバーを異常停止させることが可能だと報告しています。 対象は特殊なサー...</summary>
+  </entry>
+  <entry>
+    <title>お問い合わせの8割を、AIボットが解決するようになった話</title>
+    <id>https://zenn.dev/rimo/articles/701d18b7764669</id>
+    <link href="https://zenn.dev/rimo/articles/701d18b7764669" />
+    <updated>2026-11-17T10:05:13+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>問い合わせ対応の自動化に取り組んだ背景 増え続ける問い合わせと少人数のCS体制 Rimoでは、サービス内のチャットウィジェットから届くお問い合わせに、カスタマーサポート（CS）のメンバーが回答する運用を続けてきました。ところが、利用者の増加に伴って問い合わせ数も増え続け、月に150件を超える状況になりました（154件、164件と増加）。これを2〜3人のCSで分担していたため、1件ずつ丁寧に対応し続…</summary>
+  </entry>
+  <entry>
+    <title>dbt + TerraformでCortex Searchを構築し，最小権限を目指すためにハマったこと</title>
+    <id>https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform</id>
+    <link href="https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform" />
+    <updated>2026-11-17T09:19:31+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ナウキャストでエンジニアをしているTakumiです。 みなさん，Cortex Searchをどうリソース管理してますか？dbt？Terraform？手作業？Snowflake CLI？ 自分の場合は，TerraformでDBとスキーマを管理し，スキーマ配下のオブジェクトをdbtで作るというおおまかな方針を取りました。 その時にdbtでCortex Searchを作ろうとしてハ…</summary>
+  </entry>
+  <entry>
+    <title>最近、コードを真面目に読まなくなった</title>
+    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
+    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
+    <updated>2026-11-17T00:24:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
+  </entry>
   <entry>
     <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
     <id>https://zenn.dev/mizchi/articles/mutation-test-quality</id>
@@ -15,20 +63,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T15:39:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
-  </entry>
-  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
+  </entry>
+  <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T12:13:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -322,9 +370,9 @@
     <title>mise + gh skill で、dotfiles から Agent Skills を管理する</title>
     <id>https://zenn.dev/dress_code/articles/30bd78e1a67f87</id>
     <link href="https://zenn.dev/dress_code/articles/30bd78e1a67f87" />
-    <updated>2026-11-17T12:08:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 Mac の開発環境は dotfiles で管理していて、Homebrew のパッケージ、言語や CLI のツール、設定ファイルの symlink まで mise で入れています。新しい Mac でも make install を 1 回実行すれば、ほぼ元の環境に戻ります（2 回目以降の入れ直しは make mise）。 その do...</summary>
+    <updated>2026-11-17T12:00:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 Mac の開発環境は dotfiles で管理していて、Homebrew のパッケージ、言語や CLI のツール、設定ファイルの symlink まで mise で入れています。新しい Mac でも make install を 1 回実行すれば、ほぼ元の環境に戻ります（2 回目以降の入れ直しは make mise）。 その dotfiles…</summary>
   </entry>
   <entry>
     <title>RAGの改善を速く回すための評価基盤</title>
@@ -655,14 +703,6 @@
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
   </entry>
   <entry>
-    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
-    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
-    <updated>2026-11-17T00:11:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...</summary>
-  </entry>
-  <entry>
     <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
     <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
     <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
@@ -693,6 +733,14 @@
     <updated>2026-11-16T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
+  </entry>
+  <entry>
+    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
+    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
+    <updated>2026-11-16T18:12:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。 元々は2021年〜2024年6月まで在籍していました。 以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。 今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラット…</summary>
   </entry>
   <entry>
     <title>Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge</title>
@@ -757,53 +805,5 @@
     <updated>2026-11-16T16:27:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>ソースコードや設定ファイルに含まれるAPIトークンやパスワードなどの機密情報を見つけるSecretlintのv14.0.0をリリースしました。 Release v14.0.0 · secretlint/secretlint このバージョンの主な変更点は次の2つです。 設定ファイルなしで動作（公式ルールとプリセットをsecretlint本体に同梱） ファイル数が多いリポ...</summary>
-  </entry>
-  <entry>
-    <title>不名誉なはずのフアン氏の辞任、それでもシリコンバレーからは支持する声やまず</title>
-    <id>https://www.cnn.co.jp/business/35254956.html</id>
-    <link href="https://www.cnn.co.jp/business/35254956.html" />
-    <updated>2026-11-16T20:28:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>不倫報道を受けてエヌビディアCEOを辞任したジェンスン・フアン氏だが、ハイテク業界はそのリーダーシップを称賛する声であふれている/Evelyn Hockstein/Reuters （CNN） 米半導体大手エヌビディアの創業者、ジェンスン・フアン氏が同社の最高経営責任者（CEO）の座を退いたことは、企業スキャンダルと受け止められた。...</summary>
-  </entry>
-  <entry>
-    <title>ECSマネージドインスタンスとNitro SandboxでDocker in Dockerして遊んでみる</title>
-    <id>https://qiita.com/har1101/items/b7d95297d9cdfe3dc245?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/har1101/items/b7d95297d9cdfe3dc245?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T21:16:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは、ふくちです。 最近なんだかコンテナが話題ですね。いろんな会社のソフトウェアファクトリーを見ているとKubernetesがよく採用されているのを見ており、なんだかトレンドを感じます。 とはいえ私はKubernetesまったくわからんどころかECSすら最近まともに触...</summary>
-  </entry>
-  <entry>
-    <title>香港、監視カメラにAI活用 市民からは悪用懸念の声も</title>
-    <id>https://www.afpbb.com/articles/-/3662623</id>
-    <link href="https://www.afpbb.com/articles/-/3662623" />
-    <updated>2026-11-16T16:58:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>香港・ビクトリア湾の九竜側に設置された監視カメラ（2023年9月13日撮影）。(c)Peter PARKS/AFP 【11月16日 AFP】香港は16日、監視カメラ網に人工知能（AI）を活用した顔認証機能を導入した。国家安全保障や犯罪防止を名目に、公共空間の監視を拡大する。 中国は、香港で大規模な民主派デモが起きた2019年以降、統制を強...</summary>
-  </entry>
-  <entry>
-    <title>門番・幹部・受付係で理解する before_action / skip_before_action</title>
-    <id>https://qiita.com/mmsbox/items/f1c2dc798bc4ddfe29ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mmsbox/items/f1c2dc798bc4ddfe29ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T16:41:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに プログラミングスクールで、Railsの管理画面を作るカリキュラムを進めていました。 手順どおりにコードを書けば、画面はちゃんと動きます。 でも、ふと手が止まりました。 うーん🧐 class Staff::DashboardsController &lt; Staff:...</summary>
-  </entry>
-  <entry>
-    <title>Databricksに入社して6年目の振り返り</title>
-    <id>https://qiita.com/taka_yayoi/items/2524ad5eb46107cba519?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/taka_yayoi/items/2524ad5eb46107cba519?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T14:10:52+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2020年11月16日にデータブリックス・ジャパンに入社して、今日で6年が経ちました。 去年は5年目の節目に、Qiitaに書いてきた記事をデータとAIで振り返りました。 Databricksに入社して5年目の振り返り 今年も同じやり方で振り返ります。去年の記...</summary>
-  </entry>
-  <entry>
-    <title>【最新動向】IETF 127 San Francisco Side Meeting 分析 ― 41件中20件がAI、その半数はエージェントの認証・委任・証跡</title>
-    <id>https://qiita.com/satokan3/items/df0a3229bcc8b62e7b72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/satokan3/items/df0a3229bcc8b62e7b72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-15T07:25:00+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは！ GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。 皆さん、IETF のサイドミーティング、のぞいたことはありますか？ 公式の WG や BoF とは別に、...</summary>
   </entry>
 </feed>
