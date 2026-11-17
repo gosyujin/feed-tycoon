@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T07:30:13.697704+09:00</updated>
+  <updated>2026-11-18T08:00:16.937042+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita</title>
+    <id>https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share</id>
+    <link href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=post_article&amp;utm_medium=twitter&amp;utm_source=twitter_share" />
+    <updated>2026-11-17T23:00:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...</summary>
+  </entry>
+  <entry>
+    <title>L40S 1台で社内RAGは何人まで使えるか</title>
+    <id>https://zenn.dev/epicai_techblog/articles/29b509117755af</id>
+    <link href="https://zenn.dev/epicai_techblog/articles/29b509117755af" />
+    <updated>2026-11-17T19:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 社内にLLMを導入する際に、「このGPUで何人まで利用できるのか」とよく尋ねられます。答えはモデルや設定によって変わり、検索用の埋め込みモデルを同じGPUで動かすかどうかにも左右されます。そこで、実際の利用に近い条件で計測することにしました。 利用人数を示した資料はすでにいくつか公開されています。 BroadcomのSPOCはコーディング支援を想定し、H100 4枚に300人分の負荷をか…</summary>
+  </entry>
+  <entry>
+    <title>アマゾンジャパン、25年に日本で1.5兆円以上投資 新オフィスも公開 - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUC1735O0X11C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC1735O0X11C26A1000000/" />
+    <updated>2026-11-17T17:04:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アマゾンジャパン（東京・港）は17日、2025年の日本での総投資額が1.5兆円以上だったと発表した。物流施設やオフィスの新設などのインフラ整備のほか、従業員への報酬やテクノロジー開発が含まれる。同日、11月上旬に新設した「Amazon 麻布台オフィス」を報道陣に公開した。目黒から本社を移転し、3つ目の拠点となる。麻...</summary>
+  </entry>
+  <entry>
+    <title>Go Conference 2026実行委員を終えて</title>
+    <id>https://zenn.dev/mire0726/articles/1f3f118662a0f5</id>
+    <link href="https://zenn.dev/mire0726/articles/1f3f118662a0f5" />
+    <updated>2026-11-17T16:21:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Go Conference 2026が無事終わり二ヶ月ほど経ちました。記事を書こう書こうと思っていたのですが、すっかり引き延ばして今になってしまいました... 言い訳をすると、開催から二ヶ月余りほぼ海外旅行をしており... けど来年の自分が振り返りを書くときに、前回との違いを感じて欲しいので！今更ですが書いていきます！！ ※この記事は全て人間が書いています はじめに 今年は閉会式で、実行委員長の交…</summary>
+  </entry>
+  <entry>
+    <title>LTを盛り上げよう！AWSサービス応援うちわ制作裏話</title>
+    <id>https://zenn.dev/namiki64/articles/7aab23e02d1dc4</id>
+    <link href="https://zenn.dev/namiki64/articles/7aab23e02d1dc4" />
+    <updated>2026-11-17T12:55:17+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 私が運営に携わっているJAWS-UG大阪で、「あなたの推しサービス教えて！」 というLTイベントを開催しました。 https://jawsugosaka.connpass.com/event/408808/ こちらのイベントにて、よりLTを盛り上げるために 応援うちわ を作りました。 イメージ図 私自身はアイドル文化に疎くライブにも行ったことがないのですが、アイドル側がファンを楽しませる…</summary>
+  </entry>
+  <entry>
+    <title>Claude Desktop 開発のすゝめ</title>
+    <id>https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop</id>
+    <link href="https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop" />
+    <updated>2026-11-17T12:41:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに PeopleX でプロダクト開発をしている Aki です。もともとフロントエンドのエンジニアで、最近はバックエンドの実装にも挑戦しています。 私のメインのエディタは、ここ数年 VS Code でした。使い始めたのは前の職場にいた2018年ごろだったと思います（その前は Atom を使っていました）。ちょうど Subversion から GitHub に本格的に移り、JavaScript…</summary>
+  </entry>
+  <entry>
+    <title>OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する</title>
+    <id>https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare</id>
+    <link href="https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare" />
+    <updated>2026-11-17T11:35:22+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりまし…</summary>
+  </entry>
+  <entry>
+    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
+    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
+    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
+    <updated>2026-11-17T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んでいます（なぜエージェントハーネスで開発パイプラインを作ってい…</summary>
+  </entry>
   <entry>
     <title>Faster type-aware linting with tsrs</title>
     <id>https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs</id>
@@ -426,17 +490,9 @@
     <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
     <id>https://zenn.dev/mizchi/articles/mutation-test-quality</id>
     <link href="https://zenn.dev/mizchi/articles/mutation-test-quality" />
-    <updated>2026-11-17T18:59:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
-  </entry>
-  <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T15:39:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
+    <updated>2026-11-17T18:53:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれていま…</summary>
   </entry>
   <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
@@ -445,6 +501,14 @@
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
+  </entry>
+  <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T12:13:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -741,69 +805,5 @@
     <updated>2026-11-17T12:00:08+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 Mac の開発環境は dotfiles で管理していて、Homebrew のパッケージ、言語や CLI のツール、設定ファイルの symlink まで mise で入れています。新しい Mac でも make install を 1 回実行すれば、ほぼ元の環境に戻ります（2 回目以降の入れ直しは make mise）。 その dotfiles…</summary>
-  </entry>
-  <entry>
-    <title>RAGの改善を速く回すための評価基盤</title>
-    <id>https://speakerdeck.com/yosukeyoshida/slides</id>
-    <link href="https://speakerdeck.com/yosukeyoshida/slides" />
-    <updated>2026-11-16T23:03:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>01 · 背景 バクラクヘルプデスク エージェント：社内問合せ対応を自動化 経費申請の締切はいつですか？ 経費申請の提出期限は支払発生日の 翌月第3営業日までです。 出典：経費精算マニュアル（提出期限） 締切を過ぎてしまったらどうしたらいい？ 期日後も提出が必要です。備考欄に実際の 利用日を記載して申請してくだ...</summary>
-  </entry>
-  <entry>
-    <title>モリサワや「mineo」など会員情報漏えい マーケツール「KARTE」不正アクセス、外部サービス連携用シークレットキーなども</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/17/2000003257/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003257/" />
-    <updated>2026-11-17T12:51:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>プレイドは11月16日、企業向けマーケティングサービス「KARTE」（カルテ）が13日に不正アクセスを受け、利用企業のアカウント情報や、利用企業から預かっている顧客情報の一部、利用企業が外部サービスとの連携に使うシークレットキーなどが漏えいしたと発表した。 この影響で、阪急阪神ホテルズは会員の氏名や住所など...</summary>
-  </entry>
-  <entry>
-    <title>paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に 本番環境のデータを動作検証環境へ複製・保管</title>
-    <id>https://internet.watch.impress.co.jp/docs/news/2156774.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/news/2156774.html" />
-    <updated>2026-11-17T08:22:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>paiza、動作検証環境のアクセス管理不備で個人情報最大約90万件が10年以上外部からアクセス可能に 本番環境のデータを動作検証環境へ複製・保管</summary>
-  </entry>
-  <entry>
-    <title>Google マップ「マップに相談」4つの新機能展開</title>
-    <id>https://jetstream.blog/2026/11/17/google-maps-ask-maps-holiday-travel-features-2026/</id>
-    <link href="https://jetstream.blog/2026/11/17/google-maps-ask-maps-holiday-travel-features-2026/" />
-    <updated>2026-11-17T07:53:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この記事のポイント Google、「Google マップ」の Google AI「Gemini」統合サービス「マップに相談（Ask Maps）」に展開する新機能として、ホリデーシーズンの旅行や日常の用事をサポートする複数の新機能を発表。ステップバイステップの旅行日程作成、「Know before you go（出発前の事前ヒント）」ルート案内、予約検...</summary>
-  </entry>
-  <entry>
-    <title>OpenCode | Browse, your real browser for coding agents</title>
-    <id>https://opencode.ai/product/browse</id>
-    <link href="https://opencode.ai/product/browse" />
-    <updated>2026-11-07T14:10:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>An MCP server and a Chromium extension that let your agents use your real browser, with your tabs, your logins and your extensions. They open and drive tabs with Playwright, take screenshots and recor…</summary>
-  </entry>
-  <entry>
-    <title>AIに打ち明けた相談は“広告トラッカー”に筒抜け？ ChatGPT、Claude、Gemini含む42サービスを米大が調査</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/17/2000003241/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003241/" />
-    <updated>2026-11-17T12:01:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同メディア所属のアーティスト・おね氏が手掛けている。X：＠shi...</summary>
-  </entry>
-  <entry>
-    <title>たった0.5pxにこだわる理由。 AI時代のアイコンデザインの裏側</title>
-    <id>https://blog.asial.co.jp/7133/</id>
-    <link href="https://blog.asial.co.jp/7133/" />
-    <updated>2026-11-17T11:11:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。 デザイナーの花崎です。 最近は生成AIの進化によって、専門的な知識がなくても、簡単にそれらしいデザインを作れるようになりました。 アイコンひとつをとっても、Webフォントや無料のアイコン素材が豊富にあり、わざわざオリジナルで制作する機会は以前より少なくなっているように感じます。 そんな中、今...</summary>
-  </entry>
-  <entry>
-    <title>スマホ内蔵のセンサーを使って周辺光取得を試す</title>
-    <id>https://zenn.dev/aldagram_tech/articles/f7b57935e31070</id>
-    <link href="https://zenn.dev/aldagram_tech/articles/f7b57935e31070" />
-    <updated>2026-11-17T09:37:04+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>アルダグラムで iOS・Android のアプリ「KANNA」の開発をしている小千田というものです。 普段のアプリ開発では、スマホに入っている各種センサーを使った機能を作ることはあまり多くありません。それでも以前から、何かしら活用できたらいいなという興味はありました。 今回ふと、スマホは周りが暗くなると画面も自動で暗くなるな、と思いました。同じような値をアプリから取れれば、ユーザー体験をよくするこ…</summary>
   </entry>
 </feed>
