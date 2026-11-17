@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T07:00:14.725309+09:00</updated>
+  <updated>2026-11-18T07:30:13.697704+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Faster type-aware linting with tsrs</title>
+    <id>https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs</id>
+    <link href="https://oxc.rs/blog/2026-11-17-faster-type-aware-linting-with-tsrs" />
+    <updated>2026-11-18T01:08:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>We’re adding tsrs as an alternative to tsgolint for type-aware linting in Oxlint. It’s the Rust port of TypeScript announced by Cloudflare and VoidZero in October. Teams at Cloudflare, Owner.com and O…</summary>
+  </entry>
   <entry>
     <title>［速報］マイクロソフト、コーディング用AIモデルとして高性能かつ低価格「MAI Code 2」「MAI Code 2 Flash」発表</title>
     <id>https://www.publickey1.jp/blog/26/aimai_code_2mai_code_2_flash.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-17T09:37:04+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>アルダグラムで iOS・Android のアプリ「KANNA」の開発をしている小千田というものです。 普段のアプリ開発では、スマホに入っている各種センサーを使った機能を作ることはあまり多くありません。それでも以前から、何かしら活用できたらいいなという興味はありました。 今回ふと、スマホは周りが暗くなると画面も自動で暗くなるな、と思いました。同じような値をアプリから取れれば、ユーザー体験をよくするこ…</summary>
-  </entry>
-  <entry>
-    <title>AI駆動開発で自分用の情報収集Discordサーバーを作る</title>
-    <id>https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server</id>
-    <link href="https://zenn.dev/tree_and_tree/articles/ai-driven-discord-info-server" />
-    <updated>2026-11-17T00:14:11+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! かなり長い記事なので目次から適宜気になるところをつまんでもらえたらと思います。 もちろん通しで読んでもらうのは大歓迎＆大喜びです！ TL;DR 自分用の情報収集Discordサーバーを、2ヶ月ほどAI駆動開発で育てている（起票したイシュー555件、マージしたPR403本） イシュードリブン開発で、起票→精査→ready→実装→マージ→振り返りの流れをAIが回し、人は判断が必要なところだけ関わる…</summary>
   </entry>
 </feed>
