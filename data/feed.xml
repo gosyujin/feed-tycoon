@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T09:00:19.069346+09:00</updated>
+  <updated>2026-11-17T09:30:14.406231+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>スーパーコンピュータ「富岳」および「理究（りきゅう）」 への不正アクセスによる個人情報漏えいの可能性について | 理化学研究所</title>
+    <id>https://www.riken.jp/pr/news/2026/20261116_2/index.html</id>
+    <link href="https://www.riken.jp/pr/news/2026/20261116_2/index.html" />
+    <updated>2026-11-17T00:23:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>概要 理化学研究所（理研）計算科学研究センターが運用するスーパーコンピュータ「富岳」[1]の運用系システムに対し、11月12日に外部の第三者による不正アクセスがあったことを、11月13日に確認しました。 調査の結果、「富岳」の利用者のホームディレクトリに保存されていたファイルの一部と、利用者の認証システムに登...</summary>
+  </entry>
+  <entry>
+    <title>AIバブル崩壊間近な現状、AIが人類を滅ぼせるわけねーだろ - サッとぶ</title>
+    <id>https://kei-1010.hatenablog.com/entry/2026/11/16/120828</id>
+    <link href="https://kei-1010.hatenablog.com/entry/2026/11/16/120828" />
+    <updated>2026-11-16T21:26:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI脅威論を唱えている奴は現実が見えてないとしか思えない。 世間ではいまだに「2030年までには人間抜きでAIが次世代AIを作り始め、2040年には半導体工場から発電所までAIが勝手に回してシンギュラリティが起き人類滅亡」みたいな脅威論を本気で信じている連中がいる。 結論から言うと、人間を一切介さない「完全自律の...</summary>
+  </entry>
   <entry>
     <title>スパコン「富岳」不正アクセス受け停止 利用者情報流出の恐れ | 毎日新聞</title>
     <id>https://mainichi.jp/articles/20261116/k00/00m/040/139000c</id>
@@ -39,14 +55,6 @@
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は取材に対して認め、利用者にメールで通知しています。ここでは関連する情報をまとめます。 運用系システムへの不正アクセス 理研が神戸市の施設で運用する富岳の運用系システムが、外部の第三者...</summary>
   </entry>
   <entry>
-    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
-    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
-    <updated>2026-11-17T00:11:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...</summary>
-  </entry>
-  <entry>
     <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
     <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
     <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
@@ -77,6 +85,14 @@
     <updated>2026-11-16T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
+  </entry>
+  <entry>
+    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
+    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
+    <updated>2026-11-16T18:12:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。 元々は2021年〜2024年6月まで在籍していました。 以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。 今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラット…</summary>
   </entry>
   <entry>
     <title>Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge</title>
@@ -495,14 +511,6 @@
     <summary>1. はじめに AIが「いま何を考えているのか」を、人間はどうやって知ればいいのでしょうか？ 我々チューリング株式会社は、カメラ映像から走行軌跡を直接予測するEnd-to-End（E2E）自動運転AIを開発しています。社内では、予測軌跡をカメラ映像に重ねる可視化が、実車試験の振り返りからデモ映像まで、あらゆる場面で使われています。 https://x.com/DaisukeMAN/status/2…</summary>
   </entry>
   <entry>
-    <title>GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
-    <id>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</id>
-    <link href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact" />
-    <updated>2026-11-16T12:56:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表...</summary>
-  </entry>
-  <entry>
     <title>mizchi/mutator を入れてみた</title>
     <id>https://zenn.dev/polyco/articles/e05cb28c569801</id>
     <link href="https://zenn.dev/polyco/articles/e05cb28c569801" />
@@ -517,6 +525,14 @@
     <updated>2026-11-16T08:31:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>ネーミングが好き。 AIブームによって起きた数少ないラッキーの1つといえば、2010年代に世の中を席巻した「プログラミングを学べ！」ブームが去ったこと。もちろん、プログラミングを学ぶこと自体は悪くありませんが、だからといってそれで就職が楽になるわけでもありません。 ただ、メリットがないわけでもなく…。たと...</summary>
+  </entry>
+  <entry>
+    <title>GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
+    <id>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</id>
+    <link href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact" />
+    <updated>2026-11-16T08:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表示できる機能です。 ht…</summary>
   </entry>
   <entry>
     <title>ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-14T12:04:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>レジスタもペルソナもそうだけど、批判的な感想があがっただけで世界の終わりみたいな反応してる 特にペルソナなんて一部の表現がキショかったって言ってるだけじゃん 公共に向けた広告への批判とかじゃないんだから、 この程度のお気持ちで規制とかされるわけないし、ブロックで見て見ぬふりすりゃいいのに</summary>
-  </entry>
-  <entry>
-    <title>”レギュレーション違反”ファミコンカセットの技術解説</title>
-    <id>https://www.youtube.com/watch?v=sWcTcyCgSbY</id>
-    <link href="https://www.youtube.com/watch?v=sWcTcyCgSbY" />
-    <updated>2026-11-15T16:48:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>レトロゲーム界隈をお騒がせした”レギュレーション違反”ファミコンカセットの技術解説動画を作りました！ なぜ作者はこのようなカセットを作ったのか、その理由を詳しく解説します。また、この高性能カセットを限界まで使った制作中ゲームも紹介します！ 「レギュレーション違反騒動」として炎上した経緯などは以下の記...</summary>
-  </entry>
-  <entry>
-    <title>Herdrで、エージェントに渡した仕事を受け入れまで見守りたい - じゃあ、おうちで学べる</title>
-    <id>https://syu-m-5151.hatenablog.com/entry/2026/11/15/093525</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2026/11/15/093525" />
-    <updated>2026-11-15T23:02:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 前回の記事ではHerdrのサイドバーで、どのエージェントが自分を待っているかを探す方法を書きました。Herdrが表示するのは、エージェントの作業中や入力待ちといった状態です。渡した仕事が終わったかどうかは、画面と会話を読んで自分で判断するしかありません。 syu-m-5151.hatenablog.com Addy Osmani氏は20...</summary>
   </entry>
 </feed>
