@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T11:30:12.808425+09:00</updated>
+  <updated>2026-11-17T12:00:15.408172+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>テスト分析はどうやらテスト対象分析だけではダメで、テスト要求分析も必要らしい - mhlyc -practice</title>
+    <id>https://mhlyc.morioka-swtest.jp/entry/2015/09/10/010930</id>
+    <link href="https://mhlyc.morioka-swtest.jp/entry/2015/09/10/010930" />
+    <updated>2026-11-17T11:24:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>テスト分析の記事について、識者の方々にありがたいコメントをいただきました 以下の記事について、識者の方々から多くのコメントをいただきました。ありがたいことです。 テスト分析についてなんとなくわかった気がする - mhlyc -presentation そこで言われたのがタイトルの「テスト分析はどうやらテスト対象分析だけで...</summary>
+  </entry>
+  <entry>
+    <title>位置情報「流出」のルート 売買されるあなたの居場所</title>
+    <id>https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/</id>
+    <link href="https://vdata.nikkei.com/newsgraphics/location-data-leaks-route/" />
+    <updated>2026-11-17T03:59:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>個人のプライバシーに深く関わるスマートフォンの位置情報。日本国内のデータが「商品」として海外市場に流れている。アプリの裏側で起きる不透明な流出ルートに迫った。</summary>
+  </entry>
+  <entry>
+    <title>ISUCON2026と私とPostgreSQL - そーだいなるらくがき帳</title>
+    <id>https://soudai.hatenablog.com/entry/2026/11/16/143354</id>
+    <link href="https://soudai.hatenablog.com/entry/2026/11/16/143354" />
+    <updated>2026-11-16T19:44:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ISUCON2026、大敗勢の「失敗から学ぶISUCONの正しい歩き方」そーだいです。 当日のスコアは最高でも5万チョイ、そのあとPostgreSQLを中心にした構成で延長戦をしても10万点弱で、PostgreSQLを利用して優勝することはおろか、20位以内に入ることすら難しいというのが現実です。 だけど、ISUCONは仕事の延長上にあると思っ...</summary>
+  </entry>
+  <entry>
+    <title>「トークンが37%減った」の声も――Claude Code新機能「Code Mode」、公式には数字の明記なし – shiritomo</title>
+    <id>https://hashout.jp/ai/14412/</id>
+    <link href="https://hashout.jp/ai/14412/" />
+    <updated>2026-11-16T19:02:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「37% fewer tokens. my max plan is gonna last way longer（トークンが37%減った。 これでMaxプランがもっと長持ちする）」。 Claude Codeの新機能を試した海外の開発者が、Xにそんな感想を投稿しました。 Claude Codeは、Anthropicが提供するターミナル上で動くAIコーディングツールです。 11月中旬、そこに「Code…</summary>
+  </entry>
   <entry>
     <title>メルカリ×VercelのVPが実例をもとに、AI投資を語る。「AI Engineering Summit Tokyo 2026」追加登壇者を発表！ | ニュース | ファインディ株式会社(Findy Inc)</title>
     <id>https://findy.co.jp/4671/</id>
@@ -159,14 +191,6 @@
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
   </entry>
   <entry>
-    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
-    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
-    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
-    <updated>2026-11-17T00:11:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>図にはありませんが、Issue単位の小さな改修のテスト設計を行うenhance-qaと、Skillを使うための環境を整えるenv-setupを合わせて、合計12個のSkillを実装しています。 個々のSkillの詳しい説明は割愛します。 2. 成果物をMarkdownにしてGitHubに集めた 当初は、計画書はConfluence、テストケースや実行結果はスプレッド...</summary>
-  </entry>
-  <entry>
     <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
     <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
     <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
@@ -197,6 +221,14 @@
     <updated>2026-11-16T19:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
+  </entry>
+  <entry>
+    <title>QA生産性を爆上げさせるためのQA AIプラットフォーム構築</title>
+    <id>https://zenn.dev/gatechnologies/articles/8bdea59269eb10</id>
+    <link href="https://zenn.dev/gatechnologies/articles/8bdea59269eb10" />
+    <updated>2026-11-16T18:12:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>akkiです。2026年7月からGA technologiesに出戻り入社してQAエンジニアをしています。 元々は2021年〜2024年6月まで在籍していました。 以前はインプロセスQAとして活動していましたが、現在はプロダクトのQAからは離れ、QAプロセス全体の改善や、インプロセスQAを行っているメンバーの支援をしています。 今回は出戻り入社してから現在まで私が取り組んできた、QA AIプラット…</summary>
   </entry>
   <entry>
     <title>Amazonの衛星ネット「Leo」、過去最多40基の打ち上げが失敗 ロケットの上段点火までは順調も飛行10分で異常発生 | テクノエッジ TechnoEdge</title>
@@ -615,14 +647,6 @@
     <summary>1. はじめに AIが「いま何を考えているのか」を、人間はどうやって知ればいいのでしょうか？ 我々チューリング株式会社は、カメラ映像から走行軌跡を直接予測するEnd-to-End（E2E）自動運転AIを開発しています。社内では、予測軌跡をカメラ映像に重ねる可視化が、実車試験の振り返りからデモ映像まで、あらゆる場面で使われています。 https://x.com/DaisukeMAN/status/2…</summary>
   </entry>
   <entry>
-    <title>GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
-    <id>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</id>
-    <link href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact" />
-    <updated>2026-11-16T12:56:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表...</summary>
-  </entry>
-  <entry>
     <title>mizchi/mutator を入れてみた</title>
     <id>https://zenn.dev/polyco/articles/e05cb28c569801</id>
     <link href="https://zenn.dev/polyco/articles/e05cb28c569801" />
@@ -637,6 +661,14 @@
     <updated>2026-11-16T08:31:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>ネーミングが好き。 AIブームによって起きた数少ないラッキーの1つといえば、2010年代に世の中を席巻した「プログラミングを学べ！」ブームが去ったこと。もちろん、プログラミングを学ぶこと自体は悪くありませんが、だからといってそれで就職が楽になるわけでもありません。 ただ、メリットがないわけでもなく…。たと...</summary>
+  </entry>
+  <entry>
+    <title>GitHub IssueにArtifactとしてHTMLとMarkdownを添付できるようになった</title>
+    <id>https://zenn.dev/kesin11/articles/20261114_github_issue_artifact</id>
+    <link href="https://zenn.dev/kesin11/articles/20261114_github_issue_artifact" />
+    <updated>2026-11-16T08:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>今年もGitHub Universeが開催され、多くの新機能が発表されました！ 一方、派手な発表の影に隠れてあまり目立っていませんが、普段使いしているIssueにも「Issue Artifact」という機能がPublic Previewとして追加されています。Issueに対してHTMLやMarkdownをArtifactとして添付し、Issue画面上の専用パネルでそのまま表示できる機能です。 ht…</summary>
   </entry>
   <entry>
     <title>ZedのコントリビューションポリシーがAI激おこな件 - keroxpのScrapbox</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-16T13:53:56+09:00</updated>
     <category term="はてブ IT" />
     <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！ システム設計 視点の 行動経済学 6</title>
-    <id>https://qiita.com/maskot1977/items/c56d123a2fb6673fa90c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/c56d123a2fb6673fa90c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T13:50:21+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトルおよびその詳細な内容についてお伝えします。 ソース動画のタイトル 「人手不足を悪化させる外国人労働依存の罠 : システム設計視点の行動経済学 Podc...</summary>
-  </entry>
-  <entry>
-    <title>AI駆動開発を導入するためのツールをAIで作ってみた</title>
-    <id>https://qiita.com/kizuku_tabata/items/79e3411b93aff5c46177?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kizuku_tabata/items/79e3411b93aff5c46177?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T13:28:02+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 最近、AI コーディングツールを使って開発する機会が一気に増えました。速いし、便利です。 ただ、チームで AI を前提とした開発を進めようとしたとき、何度か話題に上がったのが 「OSS スニペット」 の問題でした。 AIの生成したコードが、既存のOSSと似てい...</summary>
-  </entry>
-  <entry>
-    <title>デフレ30年で「ハイパーインフレになる」——発生条件の剥落 : システム設計視点の行動経済学 (63)</title>
-    <id>https://qiita.com/maskot1977/items/8054ca6abbe944b09562?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/8054ca6abbe944b09562?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T12:03:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: 「システム設計視点の行動経済学」、第63回を始めましょう。その前に、まず前回の復習として、 「利上げできない」も「利上げしすぎる」も日本では成立しない——金利チャネル神話とDomar条件 : システム設計視点の行動経済学 (62) https://qiita....</summary>
-  </entry>
-  <entry>
-    <title>【速報】Google「Gemini 4 Hydrogen」登場！Argon・Carbonとの比較で読み解く Gemini 4 シリーズまとめ</title>
-    <id>https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tomokoro/items/41cc59d0085fa03c5d52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T10:31:54+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに 2026年11月12日、Google DeepMindよりGemini 4ファミリーの最新モデル「Gemini 4 Hydrogen」が発表されました。 Gemini 4 シリーズは、2026年10月1日の「Gemini 4 Argon」発表（10月13日...</summary>
   </entry>
 </feed>
