@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T23:30:14.010300+09:00</updated>
+  <updated>2026-11-18T00:00:17.350194+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>人型ロボットに人間の動きを学習させるためのAI「GR00T 2」をNVIDIAが発表、数回のお手本からタスクを学べる</title>
+    <id>https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/</id>
+    <link href="https://gigazine.net/news/20261117-nvidia-robot-gr00t-2/" />
+    <updated>2026-11-17T18:07:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAがロボットを操作するための世界行動モデル「GR00T 2」を発表しました。 GR00T 2: Scaling Robot Foundation Models for Generalization, Dexterity, and Adaptation https://research.nvidia.com/labs/gear/gr00t-2/ GR00T 2は「人間の動作を記録した合計4…</summary>
+  </entry>
+  <entry>
+    <title>ドコモ通信障害 藤井総務相「大変遺憾」原因究明求める | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261117de76976</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261117de76976" />
+    <updated>2026-11-17T12:17:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NTTドコモで相次ぐ通信障害について、藤井総務大臣は閣議のあとの記者会見で、通信サービスは重要なインフラであり、障害が続いていることは大変遺憾だとしたうえで、原因などについて速やかに報告するよう求めま…</summary>
+  </entry>
+  <entry>
+    <title>AWSインシデント対応の段階的隔離戦略を考えてみた | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-incident-response-phased-isolation/" />
+    <updated>2026-11-17T07:02:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>インシデント対応で「全停止ボタン」に頼るのではなく、隔離レベル（L0〜L3）を事業影響とセットで設計し、AWS公式のContain Runbookを使った可逆隔離をドリルしてみました。ContainEC2とContainIAMの実行速度や動作確認の結果をお伝えします。 こんにちは、せーのです。 インシデント対応として、「とりあえず全部止め...</summary>
+  </entry>
   <entry>
     <title>自動でクレーンのようにモノをつかんで部屋をお片付けしてくれるオープンソースロボット「Stringman」</title>
     <id>https://gigazine.net/news/20261117-stringman-cable-robot/</id>
@@ -239,20 +263,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T15:39:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
+  </entry>
+  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
-  </entry>
-  <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T12:13:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-17T09:08:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>同社幹部のCharles Lamanna氏が11月16日、暫定的な原因分析をXで公開した。障害が発生したのは、複数のMicrosoft 365サービスへの接続を中継する「ネットワークゲートウェイ」。同氏は、3つの要因が重なったと説明している。 3つの要因が重なり、サーバが次々に応答不能に 1つ目は、7月に展開を始めたゲートウェイ専用の...</summary>
-  </entry>
-  <entry>
-    <title>GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold | Google Cloud Blog</title>
-    <id>https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold</id>
-    <link href="https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold" />
-    <updated>2026-11-17T06:39:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move be…</summary>
-  </entry>
-  <entry>
-    <title>AI学習用途で古書大量注文か Amazonでの在庫切れ、26年4月以降急増 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC0451P0U6A101C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC0451P0U6A101C2000000/" />
-    <updated>2026-11-17T02:06:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>電子商取引（EC）サイト「アマゾン」上で古書の大量注文が発生している事案で、これらの取引にフランス企業や人材派遣大手のグロップ（岡山市）の物流センターが関わっていることが判明した。日経ビジネスがアマゾンのデータを解析した調査では、2026年は過去2年と比べて古書の在庫切れタイトル数が13万件増加しているこ...</summary>
-  </entry>
-  <entry>
-    <title>推し活サイトで学ぶData Vault入門 - yasuhisa's blog</title>
-    <id>https://www.yasuhisay.info/entry/2026/11/16/205648</id>
-    <link href="https://www.yasuhisay.info/entry/2026/11/16/205648" />
-    <updated>2026-11-16T21:12:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>前提: 卓球の推し活を裏側で支えるData Vault 導入のモチベーション 1: 選手の同定や名寄せをどうするか? 2: 関係性の変化をどう扱うか? 3: 属性の変化をどう扱うか? まとめ: データ統合やデータ分析に頻出の課題に向き合う道具としてのData Vault Data Vaultの構成要素 エンティティとそれを識別するキーを記録する: Hu...</summary>
   </entry>
 </feed>
