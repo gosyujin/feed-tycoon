@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T21:00:09.077261+09:00</updated>
+  <updated>2026-11-17T21:30:15.409318+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか</title>
+    <id>https://gigazine.net/news/20261117-macos-control-data-access-full-disk/</id>
+    <link href="https://gigazine.net/news/20261117-macos-control-data-access-full-disk/" />
+    <updated>2026-11-17T14:11:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>現地時間の2026年11月16日、AppleがmacOS 27.3 beta 2でアプリに許可されているデータアクセスの範囲をよりわかりやすく、細かく指定できるよう権限設定を見直したことを発表しました。これはAIエージェントがユーザーの意図しないデータにアクセスすることを防ぐための措置であると報じられています。 Updates to Devic...</summary>
+  </entry>
+  <entry>
+    <title>Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2156900.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2156900.html" />
+    <updated>2026-11-17T14:08:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</summary>
+  </entry>
   <entry>
     <title>メルカリ、Google Play ストアでアプリが検索・ダウンロードできない状態に</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003274/</id>
@@ -135,20 +151,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T15:39:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
-  </entry>
-  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
+  </entry>
+  <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T12:13:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-16T23:22:24+09:00</updated>
     <category term="はてブ IT" />
     <summary>米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると...</summary>
-  </entry>
-  <entry>
-    <title>実践パスキー認証設計</title>
-    <id>https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9</id>
-    <link href="https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9" />
-    <updated>2026-11-16T21:53:34+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事の想定読者 これからパスキーを自分のサービスに入れたいが、まず全体像と勘所をつかみたい開発エンジニア パスキーがなぜ有効かを、ビジネス側 (事業責任者、営業、サポート) に説明する立場のテックリード library の使い方の解説ではありません。「何を決めておけば、後から困らないか」を、実際のサービスで設計した記録として書きます。 読み方の目安です。 エンジニアの方: 「サマリー」のあと、…</summary>
-  </entry>
-  <entry>
-    <title>Kotlin Fest 2026 参加記</title>
-    <id>https://zenn.dev/0st_ts/articles/d55862e1a134c2</id>
-    <link href="https://zenn.dev/0st_ts/articles/d55862e1a134c2" />
-    <updated>2026-11-16T19:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、わかと（@0ts_st）です。 2026年11月14日、東京コンファレンスセンター品川で開催されたKotlin Fest 2026に参加してきました！ 今回は学生スカラシップで参加しました。この制度、Kotlin Festでは今回が初めてだったそうです。こういう機会を作ってくださった運営・スポンサーの皆さん、ありがとうございます！ 普段はGoやTypeScriptを触ることが多いので、…</summary>
   </entry>
 </feed>
