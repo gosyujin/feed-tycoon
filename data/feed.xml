@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-17T21:30:15.409318+09:00</updated>
+  <updated>2026-11-17T22:00:14.350581+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>The Software Engineering Handbook</title>
+    <id>https://davisjam.github.io/model-based-agentic-software-engineering/book/se-handbook/software-engineering-handbook.pdf</id>
+    <link href="https://davisjam.github.io/model-based-agentic-software-engineering/book/se-handbook/software-engineering-handbook.pdf" />
+    <updated>2026-11-17T03:56:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>THE SOFTWARE ENGINEERING HANDBOOK A Judgment and Decision-Making Approach JAMES C. DAVIS FIRST EDITION © James C. Davis, 2026–present Edition 1 — first published 2026-09-12 · last modified 2026-11-16…</summary>
+  </entry>
+  <entry>
+    <title>製造業のベテランにAIを教えて見えた、自走を分けるもの</title>
+    <id>https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy</id>
+    <link href="https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy" />
+    <updated>2026-11-14T12:41:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>あれから、どうなったか 私は大手製造業で、デジタルやAIを使った改善や業務変革を進めるチームにいる。肩書きはマネージャーだが、部下はおらず、実態はプレイヤーだ。大手製造業では、よくある話だと思う。チームはもともと製造現場の改善を担う組織で、近年そこへデジタルやAIの役割が加わった。 前回の記事では、AI...</summary>
+  </entry>
   <entry>
     <title>Appleがアプリのデータアクセス範囲をわかりやすく詳細に指定できるようにアップデート、AIエージェントの意図せぬデータアクセスを防ぐことが狙いか</title>
     <id>https://gigazine.net/news/20261117-macos-control-data-access-full-disk/</id>
@@ -151,20 +167,20 @@
     <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
   </entry>
   <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T15:39:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
+  </entry>
+  <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
     <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
     <updated>2026-11-17T13:10:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
-  </entry>
-  <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T12:13:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
   </entry>
   <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-17T06:42:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026年11月16日、スーパーコンピューター「富岳」が外部から不正アクセスを受けたことが明らかになりました。理化学研究所は同日に公表し、利用者には前日にメールで通知しています。ここでは関連する情報をまとめます。 公開ダッシュボードから内部システム侵入 理研が運用する富岳の運用系システムに、外部の第三者が1...</summary>
-  </entry>
-  <entry>
-    <title>Teenage Engineering、今度はCDプレーヤーを作ってるっぽい | ギズモード・ジャパン</title>
-    <id>https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/</id>
-    <link href="https://www.gizmodo.jp/article/2611-teenage-engineering-cd-player/" />
-    <updated>2026-11-16T23:53:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ははーん、"遊べるプレーヤー"だなこれ！ 「シンセ作りやめようと思ってる」と語って間もないうちに、ユニークなギターアンプ兼スピーカーを発表した、Teenage Engineering（TE）。音ネタから完全に離れる感じはなさそうですね。 その傾向をさらに裏付けるようなリーク情報が出てきました。TEの次なる製品は、CDプレーヤ...</summary>
-  </entry>
-  <entry>
-    <title>Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/16/2000003244/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/16/2000003244/" />
-    <updated>2026-11-16T23:22:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると...</summary>
   </entry>
 </feed>
