@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T07:30:15.354123+09:00</updated>
+  <updated>2026-11-19T08:00:14.649643+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/</id>
+    <link href="https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/" />
+    <updated>2026-11-19T06:41:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、…</summary>
+  </entry>
+  <entry>
+    <title>アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261117de77369</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261117de77369" />
+    <updated>2026-11-18T21:57:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…</summary>
+  </entry>
   <entry>
     <title>Terraform 0 to 100：100個以上のリポジトリを常に最新にし続けるための自動化</title>
     <id>https://speakerdeck.com/sue445/terraform-0-to-100</id>
@@ -215,20 +231,20 @@
     <summary>iPhoneで入退室 パナ、Appleウォレット社員証対応の入退室管理システム</summary>
   </entry>
   <entry>
-    <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
-    <id>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</id>
-    <link href="https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html" />
-    <updated>2026-11-19T01:00:37+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...</summary>
-  </entry>
-  <entry>
     <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
     <id>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</id>
     <link href="https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html" />
     <updated>2026-11-19T00:58:32+09:00</updated>
     <category term="Publickey" />
     <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+    <id>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</id>
+    <link href="https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html" />
+    <updated>2026-11-18T23:07:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...</summary>
   </entry>
   <entry>
     <title>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張</title>
@@ -266,9 +282,9 @@
     <title>ローカルLLM入門</title>
     <id>https://zenn.dev/port_inc/articles/ff974c7456f4db</id>
     <link href="https://zenn.dev/port_inc/articles/ff974c7456f4db" />
-    <updated>2026-11-17T16:17:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための…</summary>
+    <updated>2026-11-17T23:09:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オンプレとローカルは、どちらも入力を外に出さずに済みます。違いは 計算力と費用を会社が持つか、利用者の端末が持つか です。 「入力が外に出るか」は机上の話ではありません。 情報の持ち出しは、社内で安心して使える手元の選択肢があれば起きにくくなります。預け先での漏えいや設定ミスには、ローカルならそもそ...</summary>
   </entry>
   <entry>
     <title>Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
@@ -279,20 +295,20 @@
     <summary>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ...</summary>
   </entry>
   <entry>
+    <title>最近、コードを真面目に読まなくなった</title>
+    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
+    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
+    <updated>2026-11-18T11:28:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...</summary>
+  </entry>
+  <entry>
     <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita</title>
     <id>https://qiita.com/kikuziro/items/cd1389f6a1601494895f</id>
     <link href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f" />
     <updated>2026-11-18T08:54:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...</summary>
-  </entry>
-  <entry>
-    <title>最近、コードを真面目に読まなくなった</title>
-    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
-    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
-    <updated>2026-11-17T00:24:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
   </entry>
   <entry>
     <title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T08:09:30+09:00</updated>
     <category term="はてブ IT" />
     <summary>Back to blogSolid 2.0 - The Long HoldSolid 2.0 reaches stable after five years: async in the reactive graph, server functions, diagnostics built for agents, and a smaller API. Ryan Carniato·November 1…</summary>
-  </entry>
-  <entry>
-    <title>グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2157106.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2157106.html" />
-    <updated>2026-11-17T18:50:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>グーグルの「Gemini」、スキルの共有やGoogleドライブなどからのファイル追加に順次対応</summary>
-  </entry>
-  <entry>
-    <title>クラムシェルの夢は滅びぬ。Arc G3 Extreme搭載の8型「GPD WIN Mini Ultra」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2157343.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2157343.html" />
-    <updated>2026-11-18T11:24:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>クラムシェルの夢は滅びぬ。Arc G3 Extreme搭載の8型「GPD WIN Mini Ultra」</summary>
   </entry>
 </feed>
