@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T17:30:13.699234+09:00</updated>
+  <updated>2026-11-18T18:00:23.891260+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NewsPicks漏えい、Metabase脆弱性が原因 パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/18/2000003300/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/18/2000003300/" />
+    <updated>2026-11-18T17:06:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ユーザベースは11月18日、経済メディア「NewsPicks」が不正アクセスを受けてユーザーの氏名や住所、クレジットカード情報の一部が流出した問題の調査報告を公表し、BIツール「Metabase」の脆弱性が原因だったことなどを明らかにした。 同社は、MetabaseがSQLインジェクションの脆弱性を公表した6日後（3営業日後）の8月1...</summary>
+  </entry>
+  <entry>
+    <title>Windows 11がClaude CodeやCodexなどの使用状況を収集してMicrosoftに送信していることが判明</title>
+    <id>https://gigazine.net/news/20261117-windows-coding-agent-telemetry/</id>
+    <link href="https://gigazine.net/news/20261117-windows-coding-agent-telemetry/" />
+    <updated>2026-11-17T16:59:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Windows 11が「Claude Code」や「Codex」などのAIコーディングエージェントや開発者向けツールの使用状況を記録し、Microsoftへの送信対象となる診断データに含めていることが明らかになりました。Windows 11の内部動作を調査した開発者のシュシェン・リー氏が2026年11月16日に報告しています。続きを読む...</summary>
+  </entry>
   <entry>
     <title>AIで自己紹介してみた</title>
     <id>https://qiita.com/whywhy/items/baa11c6e253c8498d5dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -239,12 +255,12 @@
     <summary>「公開していないAPIだから、攻撃者には見つからない」。そんな前提で設計されたシステムは、AIによって危うくなるかもしれません。 直近、複数の事業者で個人情報の漏えいが発生し、公的機関が相次いで注意を喚起しています。その原因の一つとして挙げられているのが、公開アプリを解析し、接続先のサーバを攻撃する手...</summary>
   </entry>
   <entry>
-    <title>Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始</title>
+    <title>Suicaペンギンの後継キャラはB案「紫のうさぎ」に 愛称募集を開始</title>
     <id>https://www.watch.impress.co.jp/docs/news/2157432.html</id>
     <link href="https://www.watch.impress.co.jp/docs/news/2157432.html" />
     <updated>2026-11-18T14:20:59+09:00</updated>
     <category term="はてブ IT" />
-    <summary>Suicaペンギンの後継キャラは紫のB案に 愛称募集を開始</summary>
+    <summary>Suicaペンギンの後継キャラはB案「紫のうさぎ」に 愛称募集を開始</summary>
   </entry>
   <entry>
     <title>ネットにつながらない携帯、KDDIが発売へ──誰向けなのか？ 「スマホが電話の再発明なら、これは再再発明」</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-17T16:22:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>Googleは11月16日、AIノートツール「Gemini Notebook」で、手持ちの資料から、操作しながら学んだり情報を確認したりできるウェブサイトを生成する機能の提供を開始した。18歳以上を対象に、Google Workspaceの契約者を含むウェブ版の利用者へ世界各地で順次展開する。</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフトの幹部、大規模障害を引き起こした3つの原因を公表</title>
-    <id>https://japan.zdnet.com/article/35254976/</id>
-    <link href="https://japan.zdnet.com/article/35254976/" />
-    <updated>2026-11-17T15:00:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>印刷する メールで送る テキスト HTML 電子書籍 PDF ダウンロード テキスト 電子書籍 PDF クリップした記事をMyページから読むことができます Microsoftは、米国時間11月12日午前に発生し、74カ国で「Microsoft 365」「Copilot」「Outlook」へのアクセスに影響を与えた大規模なサービス障害について、その原因を説明する...</summary>
-  </entry>
-  <entry>
-    <title>14年間使ってきたWordPressをやめて、個人ブログを作り直した話｜星影｜Tech Hunter</title>
-    <id>https://note.com/unsoluble_sugar/n/n58c97b4dee67</id>
-    <link href="https://note.com/unsoluble_sugar/n/n58c97b4dee67" />
-    <updated>2026-11-16T10:04:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>仕組みを簡単に説明すると、WordPressはアクセスされるたびにサーバー側で処理を行ってページを表示しますが、静的サイトでは、あらかじめ作っておいたHTMLファイルをそのまま配信します。 毎回プログラムを動かす必要がないので、表示が速くなり、セキュリティ上のリスクも抑えられます。 サイトの置き場所には「Cloudf...</summary>
   </entry>
 </feed>
