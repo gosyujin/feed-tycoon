@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T20:00:15.803736+09:00</updated>
+  <updated>2026-11-18T20:30:14.396566+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Odin に賭けたい人向けの Odin 言語入門ガイド</title>
+    <id>https://zenn.dev/mizchi/articles/odin-introduction-guide</id>
+    <link href="https://zenn.dev/mizchi/articles/odin-introduction-guide" />
+    <updated>2026-11-18T14:53:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事は自分が Odin 言語を読むためにAIに書かせたものをベースに、おもに所感などを中心に書き換えました。。 「Odin について調べて」 「bit_field が面白そう」 「エラー処理どう書く？」 自分は、「Odin は知ってたけど、まさか Rex で採用されるなんて」ぐらいの気持ちで調べています。Rex はすでに使っています。 Mitchell Hashimoto 氏が、Rex の W…</summary>
+  </entry>
+  <entry>
+    <title>危険コマンドを止める Claude Code hook を書いたのに、素通ししていた</title>
+    <id>https://zenn.dev/minewo/articles/claude-code-hook-fail-open</id>
+    <link href="https://zenn.dev/minewo/articles/claude-code-hook-fail-open" />
+    <updated>2026-11-18T06:31:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 結論: 危険パターンの網羅より先に、パターン照合へ到達できているか・到達できなかったときどちらへ倒れるかを確かめる。抽出に失敗したら止める（fail-closed）。 この記事で得られること PreToolUse hook が「検査に到達する前」に素通しする経路と、その実測 exit code 2 以外の非ゼロはブロックしないという仕様が、fail-open を作る仕組み 抽出できなかったとき…</summary>
+  </entry>
+  <entry>
+    <title>Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する</title>
+    <id>https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</id>
+    <link href="https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries" />
+    <updated>2026-11-17T20:31:17+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIに仕事を頼んで、結果を受け取る。それだけなら、もう珍しくない。 でも、こちらの目標を覚えて、先回りして考え、失敗を振り返り、次の仕事の進め方まで変えていくとしたら？ 私は最近、その可能性に興味を持っている。 きっかけはMetaのパーソナルAIエージェント「Muse」だった。使い始めて驚いたのは、回答のうまさ以上に、秘書のように段取りを考えて仕事を前に進めようとするところだった。 だから、ベンチ…</summary>
+  </entry>
   <entry>
     <title>iPhone Duo、顔認証によるロック解除機能がOSアップデートで追加されて話題に【やじうまWatch】</title>
     <id>https://internet.watch.impress.co.jp/docs/yajiuma/2157352.html</id>
@@ -42,9 +66,9 @@
     <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
     <id>https://zenn.dev/dress_code/articles/6c179ae5129131</id>
     <link href="https://zenn.dev/dress_code/articles/6c179ae5129131" />
-    <updated>2026-11-18T16:04:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年...</summary>
+    <updated>2026-11-18T16:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバ…</summary>
   </entry>
   <entry>
     <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
@@ -271,6 +295,14 @@
     <summary>Back Innovation &amp; AI See all in Innovation &amp; AI Models &amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Noteboo…</summary>
   </entry>
   <entry>
+    <title>CSS では書きにくいアニメーションを Web Animations API で書く</title>
+    <id>https://zenn.dev/omu_tryangle/articles/b5817393592229</id>
+    <link href="https://zenn.dev/omu_tryangle/articles/b5817393592229" />
+    <updated>2026-11-18T08:50:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Web サイトに動きを付けたいとき、まず使うのは CSS の Transitions や Animations だと思います。ホバーしたら色が変わる、モーダルがふわっと出てくる、といった動きは CSS だけで書けますし、そのほうが簡単です。 しかし、次のような場面では CSS アニメーションで書こうとすると少し面倒になります（できないわけで...</summary>
+  </entry>
+  <entry>
     <title>Kaggle 膝コンペ振り返り &amp; 上位解法まとめ | RSNA Knee Abnormality Detection</title>
     <id>https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee</id>
     <link href="https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee" />
@@ -301,14 +333,6 @@
     <updated>2026-11-17T15:51:14+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>この記事のまとめ 同じエージェント・同じタスクで、自律性のレベル（助言／承認付きの実行／自律的な実行）だけを変えて、Claude Code と Strands Harness で実測しました。承認者は、人の代わりのプログラム2種類と、Claude Code の auto モード（別のモデルが審査する）で試しています。 観点 確かめたこと 結果 得られるもの レベルを変えると、成功率やコストは変わる…</summary>
-  </entry>
-  <entry>
-    <title>CSS では書きにくいアニメーションを Web Animations API で書く</title>
-    <id>https://zenn.dev/omu_tryangle/articles/b5817393592229</id>
-    <link href="https://zenn.dev/omu_tryangle/articles/b5817393592229" />
-    <updated>2026-11-16T15:35:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Web サイトに動きを付けたいとき、まず使うのは CSS の Transitions や Animations だと思います。ホバーしたら色が変わる、モーダルがふわっと出てくる、といった動きは CSS だけで書けますし、そのほうが簡単です。 しかし、次のような場面では CSS アニメーションで書こうとすると少し面倒になります（できないわけではないですが）。 ボタンを押すたびに、同じアニメーションを…</summary>
   </entry>
   <entry>
     <title>「非公開APIだから安全」はもう通用しない AIが変える脆弱性発見の常識</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-18T09:15:00+09:00</updated>
     <category term="JPCERT" />
     <summary>SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: WebSAM WinShareにおける複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#22</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#22" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>WebSAM WinShareにおける複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#23</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#23" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>KUSANAGIにおけるHTTPヘッダーインジェクションの脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: JPCERT/CCが「インシデント調査報告書チェックリスト」を公開</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#24</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#24" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>JPCERT/CCが「インシデント調査報告書チェックリスト」を公開</summary>
   </entry>
 </feed>
