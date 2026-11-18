@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T05:30:14.619239+09:00</updated>
+  <updated>2026-11-19T06:00:14.138042+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明</title>
+    <id>https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/</id>
+    <link href="https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/" />
+    <updated>2026-11-18T20:03:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パブリックDNSリゾルバーを運営するCloudflareは、違法なサイトへのアクセスをブロックせよという裁判所命令に従わなかったために多額の制裁金を科され、控訴しています。なぜ従わなかったのか、そもそもパブリックDNSリゾルバーとは何なのかについて、Cloudflareが説明しました。 Quad9’s withdrawal from France: A ca...</summary>
+  </entry>
   <entry>
     <title>AWS JumpStart2026参加レポート</title>
     <id>https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-18T06:45:38+09:00</updated>
     <category term="はてブ IT" />
     <summary>フアン氏は「私の復帰が株主、従業員、会社、米国にとって最善だと取締役会が判断するなら、こうした声に応え、CEOとして復帰できることを光栄に思う」と述べた。復帰に意欲を示す一方、最終的な判断は取締役会に委ねる考えを示した。 また、NVIDIAの全員に求められる基準を満たせず、私生活で重大な過ちを犯したと認め...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - cisco-ai-defense/project-quarry: Detection DSL and engine for AI agents</title>
-    <id>https://github.com/cisco-ai-defense/project-quarry</id>
-    <link href="https://github.com/cisco-ai-defense/project-quarry" />
-    <updated>2026-11-17T23:53:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Project Quarry is a Python framework for detecting threats and behavior patterns in agent conversations. Write rules over messages, tool calls, tool results, and event order. You can also call a confi…</summary>
   </entry>
 </feed>
