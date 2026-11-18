@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T21:00:16.705495+09:00</updated>
+  <updated>2026-11-18T21:30:13.970006+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
+    <id>https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</id>
+    <link href="https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html" />
+    <updated>2026-11-18T15:06:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ...</summary>
+  </entry>
+  <entry>
+    <title>最近、コードを真面目に読まなくなった</title>
+    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
+    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
+    <updated>2026-11-18T11:28:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...</summary>
+  </entry>
+  <entry>
+    <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita</title>
+    <id>https://qiita.com/kikuziro/items/cd1389f6a1601494895f</id>
+    <link href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f" />
+    <updated>2026-11-18T08:54:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...</summary>
+  </entry>
   <entry>
     <title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」</title>
     <id>https://www.itmedia.co.jp/news/article/2611/18/2000003302/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-18T09:15:00+09:00</updated>
     <category term="JPCERT" />
     <summary>複数のAdobe製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のIvanti製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#17</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#17" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のIvanti製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のMozilla製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#18</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#18" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のMozilla製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のFortinet製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#19</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#19" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のFortinet製品に脆弱性</summary>
   </entry>
 </feed>
