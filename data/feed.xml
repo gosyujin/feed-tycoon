@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T10:00:14.537225+09:00</updated>
+  <updated>2026-11-18T10:20:40.437482+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Windowsのフォント管理はこれが便利！ Windows10, 11対応、オープンソースの無料アプリ -tuna-fonts</title>
+    <id>https://coliss.com/articles/build-websites/operation/work/font-manager-for-windows-tuna-fonts.html</id>
+    <link href="https://coliss.com/articles/build-websites/operation/work/font-manager-for-windows-tuna-fonts.html" />
+    <updated>2026-11-18T09:44:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>当ブログでフォントを紹介する度に、「フォントの管理が、、、」という声がちらほら聞こえます。そんなフォントの管理に困っている人にぴったりのWindows10, 11対応のオープンソース無料アプリを紹介します。 インストール済みのフォントを管理するのはもちろん、有効化していないフォントを1クリックで有効化したり、独...</summary>
+  </entry>
+  <entry>
+    <title>Windows 11のスタートアップアプリが遅い原因、レジストリ変更で起動を高速化する方法</title>
+    <id>https://news.mynavi.jp/techplus/article/20261117-5339022/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20261117-5339022/" />
+    <updated>2026-11-17T09:21:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Windows Latestは2026年11月13日(現地時間)、「Your PC isn't slow to start, Windows 11 is quietly holding your apps back on purpose, and one tweak cut a user's wait from 2.5 minutes to 30 seconds」において、Windows 11でス…</summary>
+  </entry>
   <entry>
     <title>Weekly Report: N-able N-centralに複数の脆弱性</title>
     <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#1</id>
@@ -311,14 +327,6 @@
     <summary>Go Conference 2026が無事終わり二ヶ月ほど経ちました。記事を書こう書こうと思っていたのですが、すっかり引き延ばして今になってしまいました... 言い訳をすると、開催から二ヶ月余りほぼ海外旅行をしており... けど来年の自分が振り返りを書くときに、前回との違いを感じて欲しいので！今更ですが書いていきます！！ ※この記事は全て人間が書いています はじめに 今年は閉会式で、実行委員長の交…</summary>
   </entry>
   <entry>
-    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
-    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
-    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
-    <updated>2026-11-17T15:46:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んで...</summary>
-  </entry>
-  <entry>
     <title>LTを盛り上げよう！AWSサービス応援うちわ制作裏話</title>
     <id>https://zenn.dev/namiki64/articles/7aab23e02d1dc4</id>
     <link href="https://zenn.dev/namiki64/articles/7aab23e02d1dc4" />
@@ -341,6 +349,14 @@
     <updated>2026-11-17T11:35:22+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりまし…</summary>
+  </entry>
+  <entry>
+    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
+    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
+    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
+    <updated>2026-11-17T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んでいます（なぜエージェントハーネスで開発パイプラインを作ってい…</summary>
   </entry>
   <entry>
     <title>Faster type-aware linting with tsrs</title>
@@ -762,17 +778,9 @@
     <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
     <id>https://zenn.dev/mizchi/articles/mutation-test-quality</id>
     <link href="https://zenn.dev/mizchi/articles/mutation-test-quality" />
-    <updated>2026-11-17T18:59:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでその...</summary>
-  </entry>
-  <entry>
-    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
-    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
-    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
-    <updated>2026-11-17T15:39:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日2...</summary>
+    <updated>2026-11-17T18:53:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれていま…</summary>
   </entry>
   <entry>
     <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
@@ -783,27 +791,19 @@
     <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
   </entry>
   <entry>
+    <title>毎月6,000 AI Agentsを捌くためにキーボードを捨てた話</title>
+    <id>https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce</id>
+    <link href="https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce" />
+    <updated>2026-11-17T12:13:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…</summary>
+  </entry>
+  <entry>
     <title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title>
     <id>https://zenn.dev/hidechannu/articles/20261115-orca-shotgun-parallel-worktrees</id>
     <link href="https://zenn.dev/hidechannu/articles/20261115-orca-shotgun-parallel-worktrees" />
     <updated>2026-11-16T23:46:05+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに 一年前、私は git worktree を使ったAIの並列開発に挫折しました（当時の記事）。 あれから1年。今では、朝会で大量にチケットを拾って、まとめてAIに投げると、開発タスクが爆速で終わっていくという日常になっています。 変わったのは、AIモデルの進化と、Orcaというツールと、自分で作ったスキル（orca-shot...</summary>
-  </entry>
-  <entry>
-    <title>楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ（CNET Japan） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a</id>
-    <link href="https://news.yahoo.co.jp/articles/141fe69b0f33952604cde710494bbdff584f269a" />
-    <updated>2026-11-17T18:33:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天証券のスマートフォンアプリ「iSPEED」（CNET Japan） 楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会した顧客の情報も含まれる。 同社は11月16日、一部システム...</summary>
-  </entry>
-  <entry>
-    <title>楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2157207.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2157207.html" />
-    <updated>2026-11-17T18:23:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性</summary>
   </entry>
 </feed>
