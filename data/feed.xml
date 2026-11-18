@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T15:00:11.967378+09:00</updated>
+  <updated>2026-11-18T15:30:09.880442+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Kaggle 膝コンペ振り返り &amp; 上位解法まとめ | RSNA Knee Abnormality Detection</title>
+    <id>https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee</id>
+    <link href="https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee" />
+    <updated>2026-11-17T23:09:17+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Kaggle の膝コンペこと「RSNA Knee Abnormality Detection」が、日本時間 2026 年 10 月 24 日に終了しました。本記事では、コンペ終了後の振り返りとして、概要と上位入賞チームのアプローチをまとめました。 コンペ概要 https://www.kaggle.com/competitions/rsna-knee-abnormality-detection RS…</summary>
+  </entry>
+  <entry>
+    <title>決済という機能を実装するのは容易だが、思っていたより考えることが多かった</title>
+    <id>https://zenn.dev/chot/articles/1297582ee96341</id>
+    <link href="https://zenn.dev/chot/articles/1297582ee96341" />
+    <updated>2026-11-17T20:22:51+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「API叩いてよしなにエラーハンドリングするだけやろ」と思っていました。 支払うだけならそうなのですが、「サービスという枠組みの中に決済という機能がある」場合、決済という機能はサービスの信用を背負う責務があるため、支払わせて終わりというほど無責任にはいきません。 こういうケースがある、あるかもな？ こういう場合どうしよう 上記を想定しきるのがとにかく大変だったので、備忘として残しておきます。 想定…</summary>
+  </entry>
+  <entry>
+    <title>AI時代の生産性を考える</title>
+    <id>https://zenn.dev/mediaforce/articles/b7075a9e04e871</id>
+    <link href="https://zenn.dev/mediaforce/articles/b7075a9e04e871" />
+    <updated>2026-11-17T16:12:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI、どのくらい使えてますか？ 先日、社内で「AI時代の生産性」というテーマで話をしました。この記事はその内容を文章にしたものです。 最初に、見出しにもある問いを投げかけたいと思います。 AI、どのくらい使えてますか？ 「毎日使ってる」「コードはほぼ AI に書かせてる」という人も、「たまに調べ物に使うくらい」という人もいると思います。でもこの記事で話したいのは、使用頻度やツールの使いこなしではあ…</summary>
+  </entry>
+  <entry>
+    <title>エージェントの自律性を上げると、何が得られて何を失うか —— 助言・承認付き実行・自律実行を実測する</title>
+    <id>https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f</id>
+    <link href="https://zenn.dev/enterprise_ai/articles/1b1f34af88fb8f" />
+    <updated>2026-11-17T15:51:14+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事のまとめ 同じエージェント・同じタスクで、自律性のレベル（助言／承認付きの実行／自律的な実行）だけを変えて、Claude Code と Strands Harness で実測しました。承認者は、人の代わりのプログラム2種類と、Claude Code の auto モード（別のモデルが審査する）で試しています。 観点 確かめたこと 結果 得られるもの レベルを変えると、成功率やコストは変わる…</summary>
+  </entry>
+  <entry>
+    <title>CSS では書きにくいアニメーションを Web Animations API で書く</title>
+    <id>https://zenn.dev/omu_tryangle/articles/b5817393592229</id>
+    <link href="https://zenn.dev/omu_tryangle/articles/b5817393592229" />
+    <updated>2026-11-16T15:35:01+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Web サイトに動きを付けたいとき、まず使うのは CSS の Transitions や Animations だと思います。ホバーしたら色が変わる、モーダルがふわっと出てくる、といった動きは CSS だけで書けますし、そのほうが簡単です。 しかし、次のような場面では CSS アニメーションで書こうとすると少し面倒になります（できないわけではないですが）。 ボタンを押すたびに、同じアニメーションを…</summary>
+  </entry>
   <entry>
     <title>「非公開APIだから安全」はもう通用しない AIが変える脆弱性発見の常識</title>
     <id>https://atmarkit.itmedia.co.jp/ait/articles/2611/18/news009.html</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-17T18:14:30+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>😀 🔤Hello, World!🔤 ❗️ こんにちは！Un_titledです。その辺の高校生をしています。 みなさんは競プロで何の言語を使っていますか？ 私はC++を主に使っています。他にもPython、Rust、Java... Brainf**kやwhitespace、...</summary>
-  </entry>
-  <entry>
-    <title>Everything Claude Code（ECC）入門：ルール・スキル・フックで開発環境を整える</title>
-    <id>https://qiita.com/takuya035035/items/8a43c6f44aa8a9f6ea0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takuya035035/items/8a43c6f44aa8a9f6ea0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T16:33:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Claude Codeで開発を進めていると、プロジェクトの決まりを毎回伝える場面があります。 「既存の実装パターンを確認してから変更してほしい」 「不具合を直すときは、再現するテストも残してほしい」 「レビューでは、認証や権限制御も確認してほしい」 こうした指示...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - krisgfx9/Wireless-Device-Battery-Monitor: Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair,</title>
-    <id>https://github.com/krisgfx9/Wireless-Device-Battery-Monitor</id>
-    <link href="https://github.com/krisgfx9/Wireless-Device-Battery-Monitor" />
-    <updated>2026-11-17T21:00:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Battery levels of your wireless mouse, headset, keyboard and controller, right on the Windows taskbar. Just want it working? Download WirelessBattery-Setup from the latest release, run it and click th…</summary>
-  </entry>
-  <entry>
-    <title>楽天証券から漏洩した情報とは？ テスト環境に一時的に置いた顧客データを狙われたか（山口健太） - エキスパート - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3</id>
-    <link href="https://news.yahoo.co.jp/expert/articles/a46f1f27a0870d14588ebdbaa074fb457c0d95b3" />
-    <updated>2026-11-18T00:13:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>11月17日、楽天証券が不正アクセスによる情報漏洩の可能性について発表しました。 不正アクセスを受けたのはテスト環境とのことですが、具体的にどのような情報が流出したのか、またなぜテスト環境に顧客データを置いていたのか、広報部に聞いてみました。 テスト環境に置かれた合計約1572万口座のデータが漏洩か楽天証...</summary>
-  </entry>
-  <entry>
-    <title>ブラウザ上でWindows 98向けソフトのオリジナル実行ファイルが動作するエミュレーター「Wine-Assembly」</title>
-    <id>https://gigazine.net/news/20261117-wine-assembly/</id>
-    <link href="https://gigazine.net/news/20261117-wine-assembly/" />
-    <updated>2026-11-17T19:53:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ブラウザ上で動作するWindows 98エミュレーター「Wine-Assembly」が公開されています。OSイメージやソースポートは一切使用せず完全にクライアント側で動作していて、エミュレーター内で動作するプログラムの設定やスコアはブラウザ内にローカル保存されます。 GitHub - vgrichina/berrry-wine: Run real Windows 98 app...</summary>
-  </entry>
-  <entry>
-    <title>メンテナンスモードだったはずでは？ 「Adobe Animate 2027」で懐かしFlashアニメが！／約3年ぶりの機能追加、2Dの絵をAIで回せるターンテーブルを搭載【やじうまの杜】</title>
-    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157125.html" />
-    <updated>2026-11-17T18:23:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>メンテナンスモードだったはずでは？ 「Adobe Animate 2027」で懐かしFlashアニメが！／約3年ぶりの機能追加、2Dの絵をAIで回せるターンテーブルを搭載【やじうまの杜】</summary>
   </entry>
 </feed>
