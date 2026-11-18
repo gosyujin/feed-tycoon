@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T07:00:14.403341+09:00</updated>
+  <updated>2026-11-19T07:30:15.354123+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Terraform 0 to 100：100個以上のリポジトリを常に最新にし続けるための自動化</title>
+    <id>https://speakerdeck.com/sue445/terraform-0-to-100</id>
+    <link href="https://speakerdeck.com/sue445/terraform-0-to-100" />
+    <updated>2026-11-18T17:34:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>CloudNative Days Winter 2026(https://cloudnativedays.jp/) の発表資料です。 https://cloudnativedays.jp/sessions/3188</summary>
+  </entry>
+  <entry>
+    <title>QA効率化におけるAI活用事例</title>
+    <id>https://zenn.dev/applibot_tech/articles/6b8ec8d196634b</id>
+    <link href="https://zenn.dev/applibot_tech/articles/6b8ec8d196634b" />
+    <updated>2026-11-18T15:33:59+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに アプリボットの田中です。普段はUnityエンジニアとしてスマートフォンゲームを開発しており、最近はAIを活用した業務の効率化に取り組んでいます。 プロジェクトメンバーとQA担当者が連携しながら、ここ半年ほど、AIを活用した仕組みをいくつかつくってきました。私を含むチームメンバーで作成した、以下の 3 つを紹介します。 仕様書と実装の差分チェック 不具合の起票数の予測 設計書とマスターデー…</summary>
+  </entry>
+  <entry>
+    <title>9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2157448.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2157448.html" />
+    <updated>2026-11-18T15:05:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」</summary>
+  </entry>
+  <entry>
+    <title>Snowflake の managed access schema で COPY GRANTS 付き CLONE がなぜか初回だけ失敗した話</title>
+    <id>https://zenn.dev/finatext/articles/snowflake-managed-access-copy-grants</id>
+    <link href="https://zenn.dev/finatext/articles/snowflake-managed-access-copy-grants" />
+    <updated>2026-11-18T11:22:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに ナウキャストでデータエンジニアをしている岡田です。 ナウキャストでは、Snowflake を主要なデータ基盤として、データホルダーからお預かりした様々なオルタナティブデータを加工・蓄積しています。その中でも私が所属している Financial Research 事業で扱っているデータについては、エンドユーザーにご提供する手段の 1 つとして Snowflake の Secure Data…</summary>
+  </entry>
+  <entry>
+    <title>ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録</title>
+    <id>https://zenn.dev/rimo/articles/12d6a7b1c58fcd</id>
+    <link href="https://zenn.dev/rimo/articles/12d6a7b1c58fcd" />
+    <updated>2026-11-18T09:51:16+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。Rimo合同会社でフロントエンドエンジニアをしている栗山(koolii)です。 Rimo のフロントエンド（Next.js、TypeScript）では、2026 年 3 月から 7 月にかけて、メインの linter を ESLint から oxlint に移しました。ESLint のルールを大量に増やしている最中に、並行して oxlint へ置き換えを実施しました。今も oxlint…</summary>
+  </entry>
   <entry>
     <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた</title>
     <id>https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</id>
@@ -226,9 +266,9 @@
     <title>ローカルLLM入門</title>
     <id>https://zenn.dev/port_inc/articles/ff974c7456f4db</id>
     <link href="https://zenn.dev/port_inc/articles/ff974c7456f4db" />
-    <updated>2026-11-17T23:09:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>オンプレとローカルは、どちらも入力を外に出さずに済みます。違いは 計算力と費用を会社が持つか、利用者の端末が持つか です。 「入力が外に出るか」は机上の話ではありません。 情報の持ち出しは、社内で安心して使える手元の選択肢があれば起きにくくなります。預け先での漏えいや設定ミスには、ローカルならそもそ...</summary>
+    <updated>2026-11-17T16:17:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための…</summary>
   </entry>
   <entry>
     <title>Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
@@ -239,20 +279,20 @@
     <summary>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ...</summary>
   </entry>
   <entry>
-    <title>最近、コードを真面目に読まなくなった</title>
-    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
-    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
-    <updated>2026-11-18T11:28:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...</summary>
-  </entry>
-  <entry>
     <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita</title>
     <id>https://qiita.com/kikuziro/items/cd1389f6a1601494895f</id>
     <link href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f" />
     <updated>2026-11-18T08:54:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...</summary>
+  </entry>
+  <entry>
+    <title>最近、コードを真面目に読まなくなった</title>
+    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
+    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
+    <updated>2026-11-17T00:24:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
   </entry>
   <entry>
     <title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」</title>
@@ -330,9 +370,9 @@
     <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
     <id>https://zenn.dev/dress_code/articles/6c179ae5129131</id>
     <link href="https://zenn.dev/dress_code/articles/6c179ae5129131" />
-    <updated>2026-11-18T16:04:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年...</summary>
+    <updated>2026-11-18T16:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバ…</summary>
   </entry>
   <entry>
     <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
@@ -559,14 +599,6 @@
     <summary>Back Innovation &amp; AI See all in Innovation &amp; AI Models &amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Noteboo…</summary>
   </entry>
   <entry>
-    <title>CSS では書きにくいアニメーションを Web Animations API で書く</title>
-    <id>https://zenn.dev/omu_tryangle/articles/b5817393592229</id>
-    <link href="https://zenn.dev/omu_tryangle/articles/b5817393592229" />
-    <updated>2026-11-18T08:50:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Web サイトに動きを付けたいとき、まず使うのは CSS の Transitions や Animations だと思います。ホバーしたら色が変わる、モーダルがふわっと出てくる、といった動きは CSS だけで書けますし、そのほうが簡単です。 しかし、次のような場面では CSS アニメーションで書こうとすると少し面倒になります（できないわけで...</summary>
-  </entry>
-  <entry>
     <title>Kaggle 膝コンペ振り返り &amp; 上位解法まとめ | RSNA Knee Abnormality Detection</title>
     <id>https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee</id>
     <link href="https://zenn.dev/ca_kagglers/articles/kaggle-rsna-knee" />
@@ -597,6 +629,14 @@
     <updated>2026-11-17T15:51:14+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>この記事のまとめ 同じエージェント・同じタスクで、自律性のレベル（助言／承認付きの実行／自律的な実行）だけを変えて、Claude Code と Strands Harness で実測しました。承認者は、人の代わりのプログラム2種類と、Claude Code の auto モード（別のモデルが審査する）で試しています。 観点 確かめたこと 結果 得られるもの レベルを変えると、成功率やコストは変わる…</summary>
+  </entry>
+  <entry>
+    <title>CSS では書きにくいアニメーションを Web Animations API で書く</title>
+    <id>https://zenn.dev/omu_tryangle/articles/b5817393592229</id>
+    <link href="https://zenn.dev/omu_tryangle/articles/b5817393592229" />
+    <updated>2026-11-16T15:35:01+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Web サイトに動きを付けたいとき、まず使うのは CSS の Transitions や Animations だと思います。ホバーしたら色が変わる、モーダルがふわっと出てくる、といった動きは CSS だけで書けますし、そのほうが簡単です。 しかし、次のような場面では CSS アニメーションで書こうとすると少し面倒になります（できないわけではないですが）。 ボタンを押すたびに、同じアニメーションを…</summary>
   </entry>
   <entry>
     <title>「非公開APIだから安全」はもう通用しない AIが変える脆弱性発見の常識</title>
@@ -765,45 +805,5 @@
     <updated>2026-11-18T11:24:38+09:00</updated>
     <category term="はてブ IT" />
     <summary>クラムシェルの夢は滅びぬ。Arc G3 Extreme搭載の8型「GPD WIN Mini Ultra」</summary>
-  </entry>
-  <entry>
-    <title>楽天証券への不正アクセスについてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/11/18/100525</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/18/100525" />
-    <updated>2026-11-18T10:53:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月17日、楽天証券は第三者による不正アクセスに伴い、保有する顧客情報の一部が漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 テスト環境から顧客情報漏えいのおそれ 楽天証券は11月16日に一部システムへの第三者による不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断...</summary>
-  </entry>
-  <entry>
-    <title>【山口真弘の電子書籍タッチアンドトライ】 カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</title>
-    <id>https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/ebook/2157170.html" />
-    <updated>2026-11-18T08:15:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【山口真弘の電子書籍タッチアンドトライ】 カバーの装着で念願のページめくりボタンが！2026年版「Kindle Paperwhite シグニチャーエディション」を試す</summary>
-  </entry>
-  <entry>
-    <title>日本郵便が挑む「住所の正規化」――日本国内の住所を7桁の英数字で表す「デジタルアドレス」で、表記揺れや記入の面倒を無くす【地図と位置情報】</title>
-    <id>https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html</id>
-    <link href="https://internet.watch.impress.co.jp/docs/column/chizu3/2152316.html" />
-    <updated>2026-11-18T08:00:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日本郵便が挑む「住所の正規化」――日本国内の住所を7桁の英数字で表す「デジタルアドレス」で、表記揺れや記入の面倒を無くす【地図と位置情報】</summary>
-  </entry>
-  <entry>
-    <title>グーグル、最新サイバー防御AIモデルを日本政府に提供</title>
-    <id>https://www.watch.impress.co.jp/docs/news/2157194.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/news/2157194.html" />
-    <updated>2026-11-17T18:54:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>グーグル、最新サイバー防御AIモデルを日本政府に提供</summary>
-  </entry>
-  <entry>
-    <title>ソシャゲに課金するならAIに課金した方がマシ？中国ゲーム業界の潜在的危機｜上海在住のえいちゃん</title>
-    <id>https://note.com/eichan_sh/n/ne8b7acafaac5</id>
-    <link href="https://note.com/eichan_sh/n/ne8b7acafaac5" />
-    <updated>2026-11-17T16:04:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>今回は中国のゲーム業界とAI、それとタイトル画像の「肥魚」にまつわる記事を紹介します。 但し書きとして、2026年上半期における中国国内のゲーム業界の売上収入は 1884.5億元（約4兆5000億円）で前年同期比12.17％増 でした。 この記事で述べられている「AIによるゲーム業界の浸食」は今のところ数字としては出ておら...</summary>
   </entry>
 </feed>
