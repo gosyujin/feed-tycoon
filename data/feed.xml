@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T11:00:14.336457+09:00</updated>
+  <updated>2026-11-18T11:30:14.115339+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita</title>
+    <id>https://qiita.com/nuco_d/items/b279477cbcdbe5921abd</id>
+    <link href="https://qiita.com/nuco_d/items/b279477cbcdbe5921abd" />
+    <updated>2026-11-17T14:33:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。 部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。 そして諸君は、そのスライドをひと目見てこう思ったはずだ。 「これ、生成AIで作ったでしょ？」 と。本記事では、AIのスライドがなぜ「Claude...</summary>
+  </entry>
+  <entry>
+    <title>最適化プロダクトにおけるUX</title>
+    <id>https://zenn.dev/ctenopoma/books/optimization_ux</id>
+    <link href="https://zenn.dev/ctenopoma/books/optimization_ux" />
+    <updated>2026-11-16T21:47:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>数秒から数分かかる最適化計算を、プロダクトのUXとしてどう設計するかの4部11章。待ち時間の境界と「終わり」の3つの定義、所要時間分布から作る約束、MIPと進捗バーの相性問題、暫定解と品質メーター、ソルバーイベントのパイプライン、バッチと完了通知、実行不能の翻訳、体感性能、キャンセルの意味、再実行と解の安定性。シフト最適化を題材に、各章に触って動かせるHTMLデモが付きます。</summary>
+  </entry>
   <entry>
     <title>auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売</title>
     <id>https://k-tai.watch.impress.co.jp/docs/news/2157313.html</id>
@@ -359,14 +375,6 @@
     <summary>Go Conference 2026が無事終わり二ヶ月ほど経ちました。記事を書こう書こうと思っていたのですが、すっかり引き延ばして今になってしまいました... 言い訳をすると、開催から二ヶ月余りほぼ海外旅行をしており... けど来年の自分が振り返りを書くときに、前回との違いを感じて欲しいので！今更ですが書いていきます！！ ※この記事は全て人間が書いています はじめに 今年は閉会式で、実行委員長の交…</summary>
   </entry>
   <entry>
-    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
-    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
-    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
-    <updated>2026-11-17T15:46:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んで...</summary>
-  </entry>
-  <entry>
     <title>LTを盛り上げよう！AWSサービス応援うちわ制作裏話</title>
     <id>https://zenn.dev/namiki64/articles/7aab23e02d1dc4</id>
     <link href="https://zenn.dev/namiki64/articles/7aab23e02d1dc4" />
@@ -389,6 +397,14 @@
     <updated>2026-11-17T11:35:22+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりまし…</summary>
+  </entry>
+  <entry>
+    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
+    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
+    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
+    <updated>2026-11-17T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んでいます（なぜエージェントハーネスで開発パイプラインを作ってい…</summary>
   </entry>
   <entry>
     <title>Faster type-aware linting with tsrs</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-17T10:05:13+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>問い合わせ対応の自動化に取り組んだ背景 増え続ける問い合わせと少人数のCS体制 Rimoでは、サービス内のチャットウィジェットから届くお問い合わせに、カスタマーサポート（CS）のメンバーが回答する運用を続けてきました。ところが、利用者の増加に伴って問い合わせ数も増え続け、月に150件を超える状況になりました（154件、164件と増加）。これを2〜3人のCSで分担していたため、1件ずつ丁寧に対応し続…</summary>
-  </entry>
-  <entry>
-    <title>dbt + TerraformでCortex Searchを構築し，最小権限を目指すためにハマったこと</title>
-    <id>https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform</id>
-    <link href="https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform" />
-    <updated>2026-11-17T09:19:31+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。ナウキャストでエンジニアをしているTakumiです。 みなさん，Cortex Searchをどうリソース管理してますか？dbt？Terraform？手作業？Snowflake CLI？ 自分の場合は，TerraformでDBとスキーマを管理し，スキーマ配下のオブジェクトをdbtで作るというおおまかな方針を取りました。 その時にdbtでCortex Searchを作ろうとしてハ…</summary>
-  </entry>
-  <entry>
-    <title>最近、コードを真面目に読まなくなった</title>
-    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
-    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
-    <updated>2026-11-17T00:24:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
   </entry>
 </feed>
