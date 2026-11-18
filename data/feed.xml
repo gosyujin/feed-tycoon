@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T21:30:13.970006+09:00</updated>
+  <updated>2026-11-18T22:00:21.481351+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ローカルLLM入門</title>
+    <id>https://zenn.dev/port_inc/articles/ff974c7456f4db</id>
+    <link href="https://zenn.dev/port_inc/articles/ff974c7456f4db" />
+    <updated>2026-11-17T16:17:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための…</summary>
+  </entry>
   <entry>
     <title>Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
     <id>https://applech2.com/archives/20261118-macos-27-3-security-against-risks-from-ai-agents.html</id>
@@ -15,20 +23,20 @@
     <summary>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ...</summary>
   </entry>
   <entry>
-    <title>最近、コードを真面目に読まなくなった</title>
-    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
-    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
-    <updated>2026-11-18T11:28:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...</summary>
-  </entry>
-  <entry>
     <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita</title>
     <id>https://qiita.com/kikuziro/items/cd1389f6a1601494895f</id>
     <link href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f" />
     <updated>2026-11-18T08:54:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...</summary>
+  </entry>
+  <entry>
+    <title>最近、コードを真面目に読まなくなった</title>
+    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
+    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
+    <updated>2026-11-17T00:24:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
   </entry>
   <entry>
     <title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」</title>
@@ -106,9 +114,9 @@
     <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
     <id>https://zenn.dev/dress_code/articles/6c179ae5129131</id>
     <link href="https://zenn.dev/dress_code/articles/6c179ae5129131" />
-    <updated>2026-11-18T16:04:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年...</summary>
+    <updated>2026-11-18T16:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバ…</summary>
   </entry>
   <entry>
     <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-18T09:15:00+09:00</updated>
     <category term="JPCERT" />
     <summary>Gitに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のAdobe製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#16</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#16" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のAdobe製品に脆弱性</summary>
   </entry>
 </feed>
