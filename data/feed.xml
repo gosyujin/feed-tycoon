@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T23:00:15.039140+09:00</updated>
+  <updated>2026-11-18T23:30:16.494767+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
+    <id>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</id>
+    <link href="https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html" />
+    <updated>2026-11-19T01:00:37+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
+    <id>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</id>
+    <link href="https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html" />
+    <updated>2026-11-19T00:58:32+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...</summary>
+  </entry>
   <entry>
     <title>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張</title>
     <id>https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T09:15:00+09:00</updated>
     <category term="JPCERT" />
     <summary>OpenSSLに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: React Server Componentsに任意のコード実行につながる脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#10</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#10" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>React Server Componentsに任意のコード実行につながる脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Node.jsに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#11</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#11" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Node.jsに複数の脆弱性</summary>
   </entry>
 </feed>
