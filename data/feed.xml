@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T18:30:13.998206+09:00</updated>
+  <updated>2026-11-18T19:00:15.566732+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Oracle Java の脆弱性対策について(2026年11月) | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+    <id>https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html</id>
+    <link href="https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html" />
+    <updated>2026-11-18T16:58:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>概要 2026年11月18日（日本時間）に Oracle Java に関するセキュリティ更新プログラムが公表されています。 これらの脆弱性を悪用された場合、アプリケーションプログラムが異常終了する、攻撃者によってパソコンを制御される、といった様々な被害が発生するおそれがあります。 また、Oracle Java SEのソフトウェアにつ...</summary>
+  </entry>
+  <entry>
+    <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
+    <id>https://zenn.dev/dress_code/articles/6c179ae5129131</id>
+    <link href="https://zenn.dev/dress_code/articles/6c179ae5129131" />
+    <updated>2026-11-18T16:04:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年...</summary>
+  </entry>
+  <entry>
+    <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261118de77737</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261118de77737" />
+    <updated>2026-11-18T15:54:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>三菱UFJ eスマート証券はアプリやウェブサイトなどでの案内業務の委託先「プレイド」が不正アクセスを受けた影響で、証券口座番号がおよそ6万件、利用者の年齢の情報がおよそ10万件、漏えいしたと発表しまし…</summary>
+  </entry>
+  <entry>
+    <title>Java4Shell: Write once, RCE everywhere</title>
+    <id>https://calif.io/java4shell</id>
+    <link href="https://calif.io/java4shell" />
+    <updated>2026-11-18T06:33:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>CVE-2026-114938 Java4Shell Write once, RCE everywhere Story by the New York Times A memory-corruption vulnerability in OpenJDK's Base64 decoder. A remote attacker with no credentials can overwrite hea…</summary>
+  </entry>
   <entry>
     <title>わずか3時間で標的に侵入、AIを悪用したサイバー攻撃にFBIが警告</title>
     <id>https://japan.cnet.com/article/35255059/</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-17T17:36:53+09:00</updated>
     <category term="はてブ IT" />
     <summary>アマゾン、麻布台オフィスを公開 デュアルモニター＋昇降デスク整備 日本庭園も</summary>
-  </entry>
-  <entry>
-    <title>ホワイトハッカー報奨制度の中止相次ぐ AIがバグ発見、変わる役割 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC097UG0Z01C26A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC097UG0Z01C26A1000000/" />
-    <updated>2026-11-18T06:50:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>サイバー攻撃につながるソフトウエアの弱点を見つけ、企業に報告するホワイトハッカー（善意のハッカー）の活用が岐路に立っている。人工知能（AI）の活用で報告が急増し、大会や報奨金制度を見直す企業が相次ぐ。トレンドマイクロ子会社のヴィックワン（東京・渋谷）は自動車関連ソフトウエアの脆弱性につながるバグの...</summary>
-  </entry>
-  <entry>
-    <title>ソフトウェアエンジニアの黄昏期をこう過ごそうと思う｜わかばめ</title>
-    <id>https://note.com/wakabame/n/nc76b65a187bb</id>
-    <link href="https://note.com/wakabame/n/nc76b65a187bb" />
-    <updated>2026-11-17T22:10:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>コーディングエージェントが実用的なレベルに達し、私たちは抱えている仕事を圧倒的にこなせるようになった。一方で、ＡＩ自体のソフトウェアエンジニアリング能力が飛躍的に向上していることについて、職業上の危機感を覚えてしまう。上手くすれば相棒だが、ちょっとしたことで不倶戴天のライバルになりそうだ。 この記...</summary>
-  </entry>
-  <entry>
-    <title>楽天証券で情報漏えい、最大約1125万口座に影響</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/news/2157235.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/news/2157235.html" />
-    <updated>2026-11-17T19:23:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天証券で情報漏えい、最大約1125万口座に影響</summary>
-  </entry>
-  <entry>
-    <title>蒸気タービンとは？｜ターボ機械協会</title>
-    <id>https://www.turbo-so.jp/turbo-kids5.html</id>
-    <link href="https://www.turbo-so.jp/turbo-kids5.html" />
-    <updated>2026-11-17T16:23:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>蒸気の持つ熱エネルギーから、羽根車の回転を介して動力を取り出す原動機を蒸気タービンといいます。原子力発電所や火力発電所では、蒸気をつくるために原子炉あるいはボイラを用い、蒸気タービンに発電機を連結させて、電気を作っています。 図１のように、水をやかんで沸騰させて蒸気をつくり、それを「かざぐるま」に...</summary>
   </entry>
 </feed>
