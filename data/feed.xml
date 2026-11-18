@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T20:30:14.396566+09:00</updated>
+  <updated>2026-11-18T21:00:16.705495+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/18/2000003302/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/18/2000003302/" />
+    <updated>2026-11-18T17:46:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグレードに伴い、一部の機能の検証に本番データを使用する必要があった」と説明した。 楽天証券は17日、第三者が社内システム...</summary>
+  </entry>
+  <entry>
+    <title>日本で最も使われているパスワードは「pass1111」 NordPass調査</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/18/2000003304/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/18/2000003304/" />
+    <updated>2026-11-18T17:46:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パスワード管理ツールを提供するNordPassは、ネット上に流出したパスワードを基に、よく使われているものを集計した「Top 200 Most Common Passwords」の2026年版を公開した。日本で最も多かったのは「pass1111」で、11万4401件に上った。 日本のトップ10は「pass1111」「asdf12345」「159753qq」「123456」「sakurazima..…</summary>
+  </entry>
   <entry>
     <title>Odin に賭けたい人向けの Odin 言語入門ガイド</title>
     <id>https://zenn.dev/mizchi/articles/odin-introduction-guide</id>
@@ -66,9 +82,9 @@
     <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
     <id>https://zenn.dev/dress_code/articles/6c179ae5129131</id>
     <link href="https://zenn.dev/dress_code/articles/6c179ae5129131" />
-    <updated>2026-11-18T16:00:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバ…</summary>
+    <updated>2026-11-18T16:04:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年...</summary>
   </entry>
   <entry>
     <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T09:15:00+09:00</updated>
     <category term="JPCERT" />
     <summary>複数のFortinet製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Google Chromeに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#20</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#20" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Google Chromeに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261118.html#21</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261118.html#21" />
-    <updated>2026-11-18T09:15:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>SS1／SS1クラウドおよびそのODM製品rocoeyesにおける複数の脆弱性</summary>
   </entry>
 </feed>
