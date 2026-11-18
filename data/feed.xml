@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T08:00:14.649643+09:00</updated>
+  <updated>2026-11-19T08:30:20.405562+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NGINXの脆弱性 CVE-2026-123633、CVE-2026-123007についてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/11/19/065715</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/19/065715" />
+    <updated>2026-11-19T07:35:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月19日、国家サイバー統括室はWebサーバーnginxにリモートから未認証で任意のコード実行等が可能となる脆弱性が公表されたとして、対象環境の運用管理者に速やかなアップデートの適用等を求める注意喚起を行いました。ここでは関連する情報をまとめます。 どんな脆弱性が確認されたの? nginx.orgとF5は11月18日...</summary>
+  </entry>
+  <entry>
+    <title>ズームやBBCなど178組織のサイトにマルウェア混入、A/Bテスト基盤経由で暗号資産窃取（ビジネス＋IT） - Yahoo!ニュース</title>
+    <id>https://news.yahoo.co.jp/articles/0c11a6c11c48c784e8a6eacd699b559ac261de80</id>
+    <link href="https://news.yahoo.co.jp/articles/0c11a6c11c48c784e8a6eacd699b559ac261de80" />
+    <updated>2026-11-19T03:25:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Optimizely Web経由で、ズームやBBCなどのサイトに悪意あるJavaScriptが配信された（出典：Report URI）（ビジネス+IT） Report URIは、A/Bテスト基盤「Optimizely Web」を通じ、ズームやBBC、CNN、セールスフォースなど178組織のサイトで悪意あるJavaScriptが配信されたと明らかにした。暗号資産の窃取が確認され、決...</summary>
+  </entry>
   <entry>
     <title>nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/</id>
@@ -231,20 +247,20 @@
     <summary>iPhoneで入退室 パナ、Appleウォレット社員証対応の入退室管理システム</summary>
   </entry>
   <entry>
-    <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
-    <id>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</id>
-    <link href="https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html" />
-    <updated>2026-11-19T00:58:32+09:00</updated>
-    <category term="Publickey" />
-    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリース...</summary>
-  </entry>
-  <entry>
     <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
     <id>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</id>
     <link href="https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html" />
     <updated>2026-11-18T23:07:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
+    <id>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</id>
+    <link href="https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html" />
+    <updated>2026-11-18T23:06:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリースを発表しました。 AIを活用することでプログラマだけでなく社内のあらゆる従業員が自分のアイデアをバイブコーディ...</summary>
   </entry>
   <entry>
     <title>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T10:45:17+09:00</updated>
     <category term="はてブ IT" />
     <summary>最大約1125万口座分の情報が漏えいしたおそれがあると発表した楽天証券のWebサイトで、11月18日午前、「ワンタイムキー発行に時間がかかっている」ため、「少々時間をおいてから再度お手続きいただきますようお願い申し上げます」とのメッセージが表示されている。 ワンタイムキーは、出金やログインパスワードの変更、...</summary>
-  </entry>
-  <entry>
-    <title>若者はもう検索しない? SNSとAIで変わる買い物のカタチ</title>
-    <id>https://www.watch.impress.co.jp/docs/topic/2155933.html</id>
-    <link href="https://www.watch.impress.co.jp/docs/topic/2155933.html" />
-    <updated>2026-11-18T08:22:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>若者はもう検索しない? SNSとAIで変わる買い物のカタチ</summary>
-  </entry>
-  <entry>
-    <title>Solid 2.0 - The Long Hold | Solid</title>
-    <id>https://www.solidjs.com/blog/solid-2-0-the-long-hold</id>
-    <link href="https://www.solidjs.com/blog/solid-2-0-the-long-hold" />
-    <updated>2026-11-18T08:09:30+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Back to blogSolid 2.0 - The Long HoldSolid 2.0 reaches stable after five years: async in the reactive graph, server functions, diagnostics built for agents, and a smaller API. Ryan Carniato·November 1…</summary>
   </entry>
 </feed>
