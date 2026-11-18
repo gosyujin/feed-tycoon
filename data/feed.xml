@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T06:00:14.138042+09:00</updated>
+  <updated>2026-11-19T06:30:14.006733+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
+    <id>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html" />
+    <updated>2026-11-18T23:55:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</summary>
+  </entry>
   <entry>
     <title>CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明</title>
     <id>https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/</id>
@@ -202,9 +210,9 @@
     <title>ローカルLLM入門</title>
     <id>https://zenn.dev/port_inc/articles/ff974c7456f4db</id>
     <link href="https://zenn.dev/port_inc/articles/ff974c7456f4db" />
-    <updated>2026-11-17T16:17:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための…</summary>
+    <updated>2026-11-17T23:09:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オンプレとローカルは、どちらも入力を外に出さずに済みます。違いは 計算力と費用を会社が持つか、利用者の端末が持つか です。 「入力が外に出るか」は机上の話ではありません。 情報の持ち出しは、社内で安心して使える手元の選択肢があれば起きにくくなります。預け先での漏えいや設定ミスには、ローカルならそもそ...</summary>
   </entry>
   <entry>
     <title>Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプリがアクセスできるデータや制御できるアプリをコントロールできるようにすると発表。</title>
@@ -215,20 +223,20 @@
     <summary>Appleは、AIエージェントなどに不要な個人情報を渡さないよう、macOS 27.3 Golden Gateで新しいフルディスクアクセスとシステムとアプリの保護のオーバーライドを提供するとユーザーにも通知しています。 […] The post Apple、AIエージェントなどに不要な個人情報や権限を渡さないよう、macOS 27.3 Golden Gateではアプ...</summary>
   </entry>
   <entry>
+    <title>最近、コードを真面目に読まなくなった</title>
+    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
+    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
+    <updated>2026-11-18T11:28:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 ...</summary>
+  </entry>
+  <entry>
     <title>[AWS] S3Vectorsは全文検索エンジンとしてOpenSearchの代わりになるのか？ - Qiita</title>
     <id>https://qiita.com/kikuziro/items/cd1389f6a1601494895f</id>
     <link href="https://qiita.com/kikuziro/items/cd1389f6a1601494895f" />
     <updated>2026-11-18T08:54:33+09:00</updated>
     <category term="はてブ IT" />
     <summary>📝 はじめに S3Vectorsが全文検索に対応しました。 この記事では全文検索の定番であるOpenSearchとS3Vectorsを比べてみました。 👀 対象読者 OpenSearch全文検索のコストが高すぎてヒィヒィ言ってる方 小さめの全文検索機能を安く作りたい方 アップデートの中身 2026年11月17日にS3Vectorsがハイブリッド検索に対応しま...</summary>
-  </entry>
-  <entry>
-    <title>最近、コードを真面目に読まなくなった</title>
-    <id>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</id>
-    <link href="https://zenn.dev/hiromoo/articles/reading-less-preparing-more" />
-    <updated>2026-11-17T00:24:23+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
   </entry>
   <entry>
     <title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」</title>
@@ -306,9 +314,9 @@
     <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
     <id>https://zenn.dev/dress_code/articles/6c179ae5129131</id>
     <link href="https://zenn.dev/dress_code/articles/6c179ae5129131" />
-    <updated>2026-11-18T16:00:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバ…</summary>
+    <updated>2026-11-18T16:04:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバックエンドの typecheck だけで 4 分以上かかっていました。 2026 年...</summary>
   </entry>
   <entry>
     <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-18T11:20:59+09:00</updated>
     <category term="はてブ IT" />
     <summary>KDDIと沖縄セルラー電話は11月18日、通話やショートメッセージ（SMS）などの基本機能に絞った携帯電話「INFOBAR ZERO」を12月25日に発売すると発表した。ウェブ閲覧やSNSには対応しない。価格は3万2780円で、予約受付は同日始まった。 INFOBAR ZEROは、au公式のSIMフリーブランド「au Flex Style」初のオリジナルモデル...</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAフアン氏、辞任後初声明 CEOに復帰できれば「光栄」と投稿（全文）</title>
-    <id>https://japan.cnet.com/article/35255030/</id>
-    <link href="https://japan.cnet.com/article/35255030/" />
-    <updated>2026-11-18T06:45:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>フアン氏は「私の復帰が株主、従業員、会社、米国にとって最善だと取締役会が判断するなら、こうした声に応え、CEOとして復帰できることを光栄に思う」と述べた。復帰に意欲を示す一方、最終的な判断は取締役会に委ねる考えを示した。 また、NVIDIAの全員に求められる基準を満たせず、私生活で重大な過ちを犯したと認め...</summary>
   </entry>
 </feed>
