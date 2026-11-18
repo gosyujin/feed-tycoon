@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-18T10:30:13.893544+09:00</updated>
+  <updated>2026-11-18T11:00:14.336457+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/news/2157313.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2157313.html" />
+    <updated>2026-11-18T10:35:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>auから「INFOBAR ZERO」、通話・SMS専用で復活 12月25日発売</summary>
+  </entry>
+  <entry>
+    <title>メガネの「ジンズ」で個人情報漏えい 最大1800万件余の可能性 | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261117de77389</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261117de77389" />
+    <updated>2026-11-17T21:24:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>メガネチェーンの「ジンズ」は、メールマガジンの配信を委託していた会社が不正アクセスを受けた影響で、会員の氏名の一部や生年月日、メールアドレスなどの個人情報が漏えいしたと明らかにしました。 最大で1…</summary>
+  </entry>
   <entry>
     <title>Javaの「Java4Shell」（CVE-2026-114938）をOracleが正式公表 認証不要で悪用可能な脆弱性、Java 17・21・25・27などに影響|セキュリティニュースのセキュリティ対策Lab</title>
     <id>https://rocket-boys.co.jp/security-measures-lab/java4shell-cve-2026-114938-oracle-openjdk-base64-rce-20261118/</id>
@@ -343,6 +359,14 @@
     <summary>Go Conference 2026が無事終わり二ヶ月ほど経ちました。記事を書こう書こうと思っていたのですが、すっかり引き延ばして今になってしまいました... 言い訳をすると、開催から二ヶ月余りほぼ海外旅行をしており... けど来年の自分が振り返りを書くときに、前回との違いを感じて欲しいので！今更ですが書いていきます！！ ※この記事は全て人間が書いています はじめに 今年は閉会式で、実行委員長の交…</summary>
   </entry>
   <entry>
+    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
+    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
+    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
+    <updated>2026-11-17T15:46:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んで...</summary>
+  </entry>
+  <entry>
     <title>LTを盛り上げよう！AWSサービス応援うちわ制作裏話</title>
     <id>https://zenn.dev/namiki64/articles/7aab23e02d1dc4</id>
     <link href="https://zenn.dev/namiki64/articles/7aab23e02d1dc4" />
@@ -365,14 +389,6 @@
     <updated>2026-11-17T11:35:22+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりまし…</summary>
-  </entry>
-  <entry>
-    <title>フロントエンドの logic と UI は、エージェントの責任範囲で分けられるのか</title>
-    <id>https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd</id>
-    <link href="https://zenn.dev/xtm_blog/articles/20261116-fd1702b0ba06cd" />
-    <updated>2026-11-17T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、クロステック・マネジメント Foundation Dept. 所属の水本です。 Foundation Dept. では、要求仕様書を渡すと、設計から実装、テスト、PR 作成までを AI エージェントが完走する開発基盤を作っています。 エージェントに工程を自律的に回させるための実行の仕組みを、私たちはエージェントハーネスと呼んでいます（なぜエージェントハーネスで開発パイプラインを作ってい…</summary>
   </entry>
   <entry>
     <title>Faster type-aware linting with tsrs</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-17T00:24:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それより…</summary>
-  </entry>
-  <entry>
-    <title>おい、 Mutation Test をやれ。テスト品質を、測るために</title>
-    <id>https://zenn.dev/mizchi/articles/mutation-test-quality</id>
-    <link href="https://zenn.dev/mizchi/articles/mutation-test-quality" />
-    <updated>2026-11-17T18:53:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれていま…</summary>
-  </entry>
-  <entry>
-    <title>米商務省、中国企業による第三国データセンター経由のAIチップ“遠隔利用”を規制へ</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/17/2000003258/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/17/2000003258/" />
-    <updated>2026-11-17T13:10:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米商務省産業安全保障局（BIS）は11月16日（現地時間）、中国などの企業が第三国のデータセンターを経由して米国製の先端半導体を遠隔で利用することを規制する暫定最終規則を発表した。先端チップは物理的な輸出が既に規制されているが、データセンターを介したリモート利用でその規制を回避できる“抜け道”をふさぐのが...</summary>
   </entry>
 </feed>
