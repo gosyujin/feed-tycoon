@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T09:30:14.427322+09:00</updated>
+  <updated>2026-11-19T10:00:13.464807+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」</title>
+    <id>https://togetter.com/li/2772266</id>
+    <link href="https://togetter.com/li/2772266" />
+    <updated>2026-11-19T08:53:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Instagramを一から構築してるんだけど、完全に端末を切り離して一切情報入れてないのに妻のアカウントに自分のアカウントが出てきて早速バレた「Wi-Fiも繋いでないんやぞ」</summary>
+  </entry>
+  <entry>
+    <title>PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応</title>
+    <id>https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</id>
+    <link href="https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560" />
+    <updated>2026-11-19T07:49:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応PHP schedules a critical security release for 19 November, including CVE-2026-115560 この記事のポイント【なぜ重要か】 PHPセキュリティチームは2026年11月19日 14:00〜14:30 U…</summary>
+  </entry>
+  <entry>
+    <title>ニトリ、2990円のノイキャン睡眠イヤホン--「横向きに寝ても耳が痛くなりにくい」</title>
+    <id>https://japan.cnet.com/article/35255099/</id>
+    <link href="https://japan.cnet.com/article/35255099/" />
+    <updated>2026-11-19T07:20:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。</summary>
+  </entry>
+  <entry>
+    <title>AWS WAFのマネージドルールにJava4Shell関連ルールが追加されていたので試してみた | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/aws-waf-known-bad-inputs-java4shell/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-waf-known-bad-inputs-java4shell/" />
+    <updated>2026-11-18T15:47:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>既定が Count なので、Block にするまでは WAF ログに一致が記録されるだけです。 ap-northeast-1 の既定バージョンは現時点で Version_1.26 で、Java4Shell のルールを使うには Version_1.28 の指定が必要です。既定バージョンと最新バージョンは、次のコマンドで確認できます。 $ aws wafv2 list-available-manage…</summary>
+  </entry>
   <entry>
     <title>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
     <id>https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-18T12:26:37+09:00</updated>
     <category term="はてブ IT" />
     <summary>PC 2台対応、Bluetooth接続の指紋リーダー</summary>
-  </entry>
-  <entry>
-    <title>JVN#19906678: Androidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」における複数の脆弱性</title>
-    <id>https://jvn.jp/jp/JVN19906678/</id>
-    <link href="https://jvn.jp/jp/JVN19906678/" />
-    <updated>2026-11-18T12:04:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、複数の脆弱性が存在します。 宮内庁が提供するAndroidアプリ「宮内庁参観音声ガイド- 宮内庁公式アプリ」には、次の複数の脆弱性が存在します。 重要な情報の平文送信（CWE-319） CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:P/VC:N/VI:L/VA:N/SC:N...</summary>
-  </entry>
-  <entry>
-    <title>「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</title>
-    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2157180.html" />
-    <updated>2026-11-18T11:27:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「.NET 11」に興味深い破壊的変更、『明治』の始まりが45日遅くなる／ごくまれにエラーを引き起こすことも【やじうまの杜】</summary>
-  </entry>
-  <entry>
-    <title>設計手法を「道具」として使いこなすために</title>
-    <id>https://speakerdeck.com/a_suenami/sekkei-shuhou-o-dougu-toshite-tsukaikonasu-tame-ni</id>
-    <link href="https://speakerdeck.com/a_suenami/sekkei-shuhou-o-dougu-toshite-tsukaikonasu-tame-ni" />
-    <updated>2026-11-18T10:50:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Findy 様主催『今こそ聞きたいソフトウェア設計 #4』での登壇資料です。</summary>
-  </entry>
-  <entry>
-    <title>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2157295.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2157295.html" />
-    <updated>2026-11-18T09:29:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</summary>
   </entry>
 </feed>
