@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T18:00:14.813083+09:00</updated>
+  <updated>2026-11-19T18:30:13.225926+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>128GBメモリで120BクラスのLLMが動く！ マウスコンピューターの卓上ローカルAI向けミニPC「DAIV CX」の実力</title>
+    <id>https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html" />
+    <updated>2026-11-19T16:38:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マウスコンピューターのDAIVブランドから、ローカルAI向けのミニPC「DAIV CX」シリーズがリリースされた。120Bクラスの巨大なLLMの利用を想定したもので、CPUはAMDのRyzen AI Max+ 395、メモリは128GBというスペックを、小型のデスクトップボディーに収めている。 今回試した「DAIV CX-A9A60」の価格は、同社直販で94万9...</summary>
+  </entry>
+  <entry>
+    <title>Quad9’s withdrawal from France: A canary in the coal mine</title>
+    <id>https://blog.cloudflare.com/quad9-withdrawal-from-france/</id>
+    <link href="https://blog.cloudflare.com/quad9-withdrawal-from-france/" />
+    <updated>2026-11-18T21:35:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>November 17, 2026Quad9’s withdrawal from France: A canary in the coal mine Last month, the Swiss non-profit foundation Quad9 announced that it will withdraw its free public DNS resolver from France. T…</summary>
+  </entry>
   <entry>
     <title>AIモデルとAIエージェントをつなぐ「APIルーター」に注意？ 428件を調べてわかった乗っ取り手口 暗号資産を盗む例も</title>
     <id>https://www.itmedia.co.jp/news/article/2611/19/2000003310/</id>
@@ -228,7 +244,7 @@
     <link href="https://zenn.dev/karamage/books/50c18e52e7d19e" />
     <updated>2026-11-19T10:52:32+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>AIエージェントに仕事を頼むと自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ そんな悩みを持つ人に向けて、React コアチームのエンジニアが公開したスキル集「pstack」の考え方と使い方を、全58スキル、全22プレイブックまで1つ残らず解説した入門書です。 この本を読むと、明日からAIへの頼み方が変わります。 ・寝る前に頼んで、朝には検証済みのPRが作成さ…</summary>
+    <summary>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか pstack は、元React コアチームのエンジニア poteto（Lauren…</summary>
   </entry>
   <entry>
     <title>マイクロソフト、「Copilot」でワード・エクセル・パワポを作成編集可能に</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T23:07:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、AIが生成したアプリを企業内で安全に実行するランタイム「Copilot Managed Runtime」正式リリース</title>
-    <id>https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html</id>
-    <link href="https://www.publickey1.jp/blog/26/aicopilot_managed_runtime.html" />
-    <updated>2026-11-18T23:06:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIが生成したアプリなどを企業内で安全に実行するための基盤となる「Copilot Managed Runtime」の正式リリースを発表しました。 AIを活用することでプログラマだけでなく社内のあらゆる従業員が自分のアイデアをバイブコーディ...</summary>
-  </entry>
-  <entry>
-    <title>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張</title>
-    <id>https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html</id>
-    <link href="https://www.publickey1.jp/blog/26/windows_server_2028microsoft_foundryai.html" />
-    <updated>2026-11-18T23:06:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Windows Server 2028がパブリックプレビュー公開。Microsoft FoundryなどAIによる推論の実行基盤へと拡張 企業内のAI推論基盤へと拡張 Windows Serverはこれまで、Active Directoryによるユーザーやリソースの管理、アプリケーションの実行基盤などとして利用されてきました。 Windows Server 2028では新たにMicrosoft F…</summary>
   </entry>
 </feed>
