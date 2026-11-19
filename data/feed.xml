@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T18:30:13.225926+09:00</updated>
+  <updated>2026-11-19T19:00:21.024362+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>aws s3 互換の高速なコマンド aws3 を作りました - プログラムモグモグ</title>
+    <id>https://itchyny.hatenablog.com/entry/2026/11/19/090000</id>
+    <link href="https://itchyny.hatenablog.com/entry/2026/11/19/090000" />
+    <updated>2026-11-19T10:11:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>aws3という、aws s3と互換性のあるコマンドをRustで作りました。 aws s3をaws3に置き換えるだけで、今までのスクリプトがそのまま動きます。 静的なバイナリでDockerイメージに組み込みやすく、起動も転送も速い、というのが特徴です。 github.com なぜ作ったのか S3互換のオブジェクトストレージを操作するのにAWS CLI...</summary>
+  </entry>
   <entry>
     <title>128GBメモリで120BクラスのLLMが動く！ マウスコンピューターの卓上ローカルAI向けミニPC「DAIV CX」の実力</title>
     <id>https://www.itmedia.co.jp/pcuser/articles/2611/19/news047.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-18T17:25:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>iPhoneで入退室 パナ、Appleウォレット社員証対応の入退室管理システム</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title>
-    <id>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</id>
-    <link href="https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html" />
-    <updated>2026-11-18T23:07:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始 マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発...</summary>
   </entry>
 </feed>
