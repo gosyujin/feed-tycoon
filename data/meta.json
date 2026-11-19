@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-20T07:00:20.156117+09:00",
-  "nextEstimate": "07:30",
+  "updatedAt": "2026-11-20T07:30:21.811446+09:00",
+  "nextEstimate": "08:00",
   "sources": {
     "publickey": {
       "name": "Publickey",
       "url": "https://www.publickey1.jp/atom.xml",
-      "fetchedAt": "2026-11-20T07:00:20.156117+09:00",
+      "fetchedAt": "2026-11-20T07:30:21.811446+09:00",
       "etag": "\"6e60-660a2b65fb7e6\"",
       "lastModified": "Thu, 19 Nov 2026 15:23:40 GMT",
       "ok": true,
@@ -15,7 +15,7 @@
     "hateb-it": {
       "name": "はてブ IT",
       "url": "https://b.hatena.ne.jp/hotentry/it.rss",
-      "fetchedAt": "2026-11-20T07:00:20.156117+09:00",
+      "fetchedAt": "2026-11-20T07:30:21.811446+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,
@@ -24,16 +24,17 @@
     "zenn": {
       "name": "Zenn トレンド",
       "url": "https://zenn.dev/feed",
-      "fetchedAt": "2026-11-20T07:00:20.156117+09:00",
+      "fetchedAt": "2026-11-20T07:30:21.811446+09:00",
       "etag": null,
       "lastModified": "Thu, 19 Nov 2026 21:56:43 GMT",
       "ok": true,
+      "notModified": true,
       "count": 20
     },
     "qiita": {
       "name": "Qiita トレンド",
       "url": "https://qiita.com/popular-items/feed",
-      "fetchedAt": "2026-11-20T07:00:20.156117+09:00",
+      "fetchedAt": "2026-11-20T07:30:21.811446+09:00",
       "etag": "W/\"4461c62460d27db8f0a34125196d6474\"",
       "lastModified": null,
       "ok": true,
@@ -43,7 +44,7 @@
     "www-jpcert-or-jp-rss": {
       "name": "JPCERT",
       "url": "https://www.jpcert.or.jp/rss/jpcert.rdf",
-      "fetchedAt": "2026-11-20T07:00:20.156117+09:00",
+      "fetchedAt": "2026-11-20T07:30:21.811446+09:00",
       "etag": "\"5124-6609afbeb5d00\"",
       "lastModified": "Thu, 19 Nov 2026 06:10:28 GMT",
       "ok": true,
@@ -53,7 +54,7 @@
     "5ch-rss-kk-ataka-workers-dev-feed-xml": {
       "name": "新日",
       "url": "https://5ch-rss.kk-ataka.workers.dev/feed.xml?…",
-      "fetchedAt": "2026-11-20T07:00:20.156117+09:00",
+      "fetchedAt": "2026-11-20T07:30:21.811446+09:00",
       "etag": null,
       "lastModified": null,
       "ok": true,

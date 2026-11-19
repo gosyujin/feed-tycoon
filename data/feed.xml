@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T07:00:20.156117+09:00</updated>
+  <updated>2026-11-20T07:30:21.811446+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ドコモ「dアカウント」、免許証などを撮影する本人確認終了 27年2月末に</title>
+    <id>https://japan.cnet.com/article/35255144/</id>
+    <link href="https://japan.cnet.com/article/35255144/" />
+    <updated>2026-11-19T15:02:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NTTドコモは11月19日、dアカウントで顔と本人確認書類を撮影して申請する「写真撮影で本人確認」を、2027年2月末に終了する予定だと発表した。終了後に新たに本人確認をする人は「かんたん本人確認」で手続きする。すでに本人確認を済ませた人は、改めて手続きする必要はない。</summary>
+  </entry>
   <entry>
     <title>11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
     <id>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</id>
@@ -386,9 +394,9 @@
     <title>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
     <id>https://zenn.dev/kusuke/articles/98e178e6824cac</id>
     <link href="https://zenn.dev/kusuke/articles/98e178e6824cac" />
-    <updated>2026-11-19T10:34:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はng…</summary>
+    <updated>2026-11-19T11:22:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB...</summary>
   </entry>
   <entry>
     <title>脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……</title>
@@ -762,9 +770,9 @@
     <title>pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
     <id>https://zenn.dev/karamage/books/50c18e52e7d19e</id>
     <link href="https://zenn.dev/karamage/books/50c18e52e7d19e" />
-    <updated>2026-11-19T10:52:32+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか pstack は、元React コアチームのエンジニア poteto（Lauren…</summary>
+    <updated>2026-11-19T12:19:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではな...</summary>
   </entry>
   <entry>
     <title>マイクロソフト、「Copilot」でワード・エクセル・パワポを作成編集可能に</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-18T14:42:56+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは！テラーノベルでiOS/Android/Webとフロントエンド周りを担当している@kazutoyoです！ 2026年12月2日に、CocoaPodsのTrunkで新しいPodやバージョンの公開が停止される予定です。 この記事では、React Native・Expoアプリにどんな影響があるか、これから何をすべきかをお話しします。 先に書いておくと、いま動いているアプリのビルドが12月に壊れ…</summary>
-  </entry>
-  <entry>
-    <title>社内向けウェブツールへの不正アクセスに関するお詫び - Kyash お知らせ</title>
-    <id>https://www.kyash.co/information/20261119</id>
-    <link href="https://www.kyash.co/information/20261119" />
-    <updated>2026-11-19T13:40:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>いつもKyashをご利用いただきありがとうございます。 2026年10月28日（水）9時20分頃から11時42分までの間、当社の社内ツールに外部から不正なアクセスがあり、掲載していた社内資料が第三者に取得された可能性があることが判明いたしました。この資料に、一部のお客さまに関する情報が含まれておりました。 お客さまに...</summary>
   </entry>
 </feed>
