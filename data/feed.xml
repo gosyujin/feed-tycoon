@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T22:30:14.183469+09:00</updated>
+  <updated>2026-11-19T23:00:13.862292+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ソフトウェアダークファクトリー | 技術評論社</title>
+    <id>https://gihyo.jp/book/2026/978-4-297-16073-9</id>
+    <link href="https://gihyo.jp/book/2026/978-4-297-16073-9" />
+    <updated>2026-11-19T20:56:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>概要 「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても安全に変更を生み...</summary>
+  </entry>
   <entry>
     <title>OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
     <id>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-18T15:33:59+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに アプリボットの田中です。普段はUnityエンジニアとしてスマートフォンゲームを開発しており、最近はAIを活用した業務の効率化に取り組んでいます。 プロジェクトメンバーとQA担当者が連携しながら、ここ半年ほど、AIを活用した仕組みをいくつかつくってきました。私を含むチームメンバーで作成した、以下の 3 つを紹介します。 仕様書と実装の差分チェック 不具合の起票数の予測 設計書とマスターデー…</summary>
-  </entry>
-  <entry>
-    <title>9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2157448.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2157448.html" />
-    <updated>2026-11-18T15:05:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」</summary>
   </entry>
 </feed>
