@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T23:30:14.533785+09:00</updated>
+  <updated>2026-11-20T00:00:16.661199+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIモデル顔データベース</title>
+    <id>https://ai-portrait-gallery.pages.dev/</id>
+    <link href="https://ai-portrait-gallery.pages.dev/" />
+    <updated>2026-11-19T19:30:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>使い方のヒント 参照画像として、各種AIツールのキャラクター参照・顔参照機能に読み込みます。 顔を揃えたいときは「フェイス」、服装・髪の質感・雰囲気の参考には「スタイリング」が向いています。 同じ画像を使い続けると、生成する画像・動画の顔が揃いやすくなります。 元サイズのPNGをダウンロードして使うと、細...</summary>
+  </entry>
+  <entry>
+    <title>アプリケーションエンジニアの考えるセキュリティ対策（考え方と共通の前提） | フューチャー技術ブログ</title>
+    <id>https://future-architect.github.io/articles/20261119a/</id>
+    <link href="https://future-architect.github.io/articles/20261119a/" />
+    <updated>2026-11-19T14:20:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに前回の「セキュリティ要求は、待ってくれない」では、セキュリティをサービスレベル設計の観点から捉え直し、事業者がどこまで投資し、どういう状況になったらサービスを止めるのかを決めることの大切さを書きました。 この秋も、国内では不正アクセスによる情報漏えいの報道が相次ぎました。また、広く使われて...</summary>
+  </entry>
+  <entry>
+    <title>グーグル、Geminiに作業を任せる「タスク」を日本など6カ国で無料提供 旧「Spark」を改称</title>
+    <id>https://japan.cnet.com/article/35255128/</id>
+    <link href="https://japan.cnet.com/article/35255128/" />
+    <updated>2026-11-19T11:12:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>5月からベータ版として試験提供してきた「Gemini Spark」を改称し、有料のGoogle AIサブスクリプションを契約していない利用者にも対象を広げる。基盤モデルには「Gemini 4 Hydrogen」を採用した。 Geminiの入力欄にある「Chat」と「Task」の切り替えで、指示の種類を選ぶ。タスクには、例えばメールを検索して要点をま...</summary>
+  </entry>
   <entry>
     <title>「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」</title>
     <id>https://togetter.com/li/2772442</id>
@@ -135,7 +159,7 @@
     <summary>本記事は、日本経済新聞社が主催したイベント「Dialogues on the Future」（11月18日開催）の講演プログラム「Future of AI AI革命とどう向き合う」を取材したもの。 運命を変えた1枚の写真 「情報革命」の実現を掲げ、PC用ソフトウェアの流通、ブロードバンド、モバイルインターネット、AIへとテクノロジーの先端を走...</summary>
   </entry>
   <entry>
-    <title>AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになった</title>
+    <title>AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件</title>
     <id>https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7</id>
     <link href="https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7" />
     <updated>2026-11-18T23:06:19+09:00</updated>
@@ -781,29 +805,5 @@
     <updated>2026-11-19T03:25:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>Optimizely Web経由で、ズームやBBCなどのサイトに悪意あるJavaScriptが配信された（出典：Report URI）（ビジネス+IT） Report URIは、A/Bテスト基盤「Optimizely Web」を通じ、ズームやBBC、CNN、セールスフォースなど178組織のサイトで悪意あるJavaScriptが配信されたと明らかにした。暗号資産の窃取が確認され、決...</summary>
-  </entry>
-  <entry>
-    <title>nginx2root の HTTP/2 脆弱性2件を AWS 構成ごとに整理してみた | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/</id>
-    <link href="https://dev.classmethod.jp/articles/nginx-http2-rce-aws-mitigation/" />
-    <updated>2026-11-19T06:41:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NGINX の HTTP/2 の脆弱性 CVE-2026-123007・CVE-2026-123633 の仕組みと AWS 構成ごとの影響を整理し、修正版を使えない環境の緩和策として、http2 off で curl --http2 の接続が HTTP/1.1 になることを Docker で確認しました。 はじめに 2026-11-18 に nginx 1.31.9 と 1.30.7 が公開され、…</summary>
-  </entry>
-  <entry>
-    <title>アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261117de77369</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261117de77369" />
-    <updated>2026-11-18T21:57:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…</summary>
-  </entry>
-  <entry>
-    <title>ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録</title>
-    <id>https://zenn.dev/rimo/articles/12d6a7b1c58fcd</id>
-    <link href="https://zenn.dev/rimo/articles/12d6a7b1c58fcd" />
-    <updated>2026-11-19T07:05:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。Rimo合同会社でフロントエンドエンジニアをしている栗山(koolii)です。 Rimo のフロントエンド（Next.js、TypeScript）では、2026 年 3 月から 7 月にかけて、メインの linter を ESLint から oxlint に移しました。ESLint のルールを大量に増やしている最中に、並行して oxlint へ置き換えを実施しました。...</summary>
   </entry>
 </feed>
