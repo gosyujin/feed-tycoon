@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T06:30:13.379445+09:00</updated>
+  <updated>2026-11-20T07:00:20.156117+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>11月に修正されたPHPの脆弱性についてまとめてみた - piyolog</title>
+    <id>https://piyolog.hatenadiary.jp/entry/2026/11/20/003148</id>
+    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/20/003148" />
+    <updated>2026-11-20T00:54:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月19日、PHPの開発元であるThe PHP Groupは4系統のセキュリティリリース(PHP 8.5.13、8.4.28、8.3.37、8.2.36)を公開し、複数の脆弱性を修正しました。ここでは関連する情報をまとめます。 どんな脆弱性が修正されたの? The PHP Groupは11月18日、19日14時から14時30分(協定世界時、日本時間23時から23時30分)に...</summary>
+  </entry>
+  <entry>
+    <title>Genie 4 is now available</title>
+    <id>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</id>
+    <link href="https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/" />
+    <updated>2026-11-19T17:23:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Back Innovation &amp; AI See all in Innovation &amp; AI Models &amp; Research Google DeepMind Google Research Google Labs Gemini models Quantum computing See all Products Developer tools Gemini app Gemini Noteboo…</summary>
+  </entry>
+  <entry>
+    <title>AIが爆速で開発する時代の、自動テストとの向き合い方</title>
+    <id>https://zenn.dev/daiaoki/articles/webterm-ai-era-testing</id>
+    <link href="https://zenn.dev/daiaoki/articles/webterm-ai-era-testing" />
+    <updated>2026-11-19T16:11:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>WebTerm Learnという、プロのエンジニアを目指す人のためのオンライン学習サービスを個人で開発しています。 スライドで仕組みを学び、そのままブラウザの中のターミナルでコマンドを打って練習する、という形で学べます。 ありがたいことに、いまは1日1校のペースで教育機関に導入していただいています！その一方で、バグを出してはいけないというプレッシャーも日に日に大きくなっています。 生徒「あれ、正し…</summary>
+  </entry>
+  <entry>
+    <title>Gemini Decision 1でスパム退治！</title>
+    <id>https://zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam</id>
+    <link href="https://zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam" />
+    <updated>2026-11-19T15:20:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>我国ではハッキングが相次ぎ、すでに数億人分（！）の個人情報が漏洩したとも聞きます。ネットに関わっていない、ごく一握りを除き、何らかの形で住所やメールアドレスなどが詐欺業者の手に渡っていることでしょう。実際、最近のスパムの急増には手を焼いてます。 典型的なスパムは伝統的と実績のSpamassassinで防げますが、昨今の新手のスパム（詐欺を含む）は、本文に怪しい部分が少なく、Spamassassin…</summary>
+  </entry>
+  <entry>
+    <title>TypeScript 7.1 の Content Mapper で型の生成コマンドをなくす</title>
+    <id>https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen</id>
+    <link href="https://zenn.dev/toiroakr/articles/typescript-content-mapper-codegen" />
+    <updated>2026-11-19T11:10:13+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! 2026-11-19 時点の情報です。この記事の動作は、typescript@next で入る 7.1.0-dev.20261118.1 で確かめています。公式の Iteration Plan では、Stable は 2026-11-24 の予定です。Content Mapper の API は、Stable に向けて安定化している途中で、細部が変わる可能性があります。 はじめに Conten…</summary>
+  </entry>
+  <entry>
+    <title>ログの種別を整理して、何をどこまで残すか決めた話</title>
+    <id>https://zenn.dev/dress_code/articles/a3bf34274af03f</id>
+    <link href="https://zenn.dev/dress_code/articles/a3bf34274af03f" />
+    <updated>2026-11-19T09:00:11+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。Dress Code株式会社でプロダクトエンジニアをしているぽこひで（@pokohide）です。今日（11/19）は、グラセフの発売日なので有給をとっている方も多いかもしれませんね。空き時間にでも読んでもらえると嬉しいです。 Dress Code株式会社は、2024年9月に設立された、人・採用・総務・IT などの領域を統合管理するワークフォースマネジメントプラットフォーム「DRESS…</summary>
+  </entry>
   <entry>
     <title>【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
     <id>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</id>
@@ -338,9 +386,9 @@
     <title>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
     <id>https://zenn.dev/kusuke/articles/98e178e6824cac</id>
     <link href="https://zenn.dev/kusuke/articles/98e178e6824cac" />
-    <updated>2026-11-19T11:22:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB...</summary>
+    <updated>2026-11-19T10:34:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はng…</summary>
   </entry>
   <entry>
     <title>脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……</title>
@@ -757,53 +805,5 @@
     <updated>2026-11-19T13:40:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>いつもKyashをご利用いただきありがとうございます。 2026年10月28日（水）9時20分頃から11時42分までの間、当社の社内ツールに外部から不正なアクセスがあり、掲載していた社内資料が第三者に取得された可能性があることが判明いたしました。この資料に、一部のお客さまに関する情報が含まれておりました。 お客さまに...</summary>
-  </entry>
-  <entry>
-    <title>教師のためのAI入門</title>
-    <id>https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf</id>
-    <link href="https://yamazato.nuee.nagoya-u.ac.jp/PDF/AI-for-Teachers-an-Open-Textbook-v1.0.0.pdf" />
-    <updated>2026-11-19T10:32:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>教師のためのAI入門</summary>
-  </entry>
-  <entry>
-    <title>「能動的サイバー防御」と「サイバー対処能力強化法」は何であって・何でないか | blog.jxck.io</title>
-    <id>https://blog.jxck.io/entries/2026-11-18/active-cyber-defense.html</id>
-    <link href="https://blog.jxck.io/entries/2026-11-18/active-cyber-defense.html" />
-    <updated>2026-11-18T22:11:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Intro GMO の一件で非常に話題になった「能動的サイバー防御」 施行されたばかりの「サイバー対処能力強化法」および、それを統括する「国家サイバー統括室」等を含め その全体像と政府における立て付けについて解説する。 この記事は、サイバーセキュリティアドベントカレンダー 1 日目である。 能動的サイバー防御 サ...</summary>
-  </entry>
-  <entry>
-    <title>Webサーバソフト「nginx」にリモートコード実行の「緊急」脆弱性、日本政府も更新呼び掛け</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/19/2000003325/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/19/2000003325/" />
-    <updated>2026-11-19T12:41:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>nginxは、世界で最も広く使われているオープンソースのWebサーバソフト。HTTPSの通信を処理し、トラフィックをアプリケーションやAPIに振り分けるフロントドアとして、Webシステムの入り口に置かれることが多い。 脆弱性はHTTP/2を有効にしたサーバが対象で、バージョンや構成によって影響を受ける。悪用されると、攻撃...</summary>
-  </entry>
-  <entry>
-    <title>ルール作りから始まった道のり。パナソニックが「全自動ディーガ」でクラウド録画を実現するまで【西田宗千佳のRandomTracking】</title>
-    <id>https://av.watch.impress.co.jp/docs/series/rt/2157283.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/series/rt/2157283.html" />
-    <updated>2026-11-19T11:55:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ルール作りから始まった道のり。パナソニックが「全自動ディーガ」でクラウド録画を実現するまで【西田宗千佳のRandomTracking】</summary>
-  </entry>
-  <entry>
-    <title>Google「TPU v3」の実物ボードを展示、時代を彩った半導体チップが一堂に集結 EdgeTech+ 2026</title>
-    <id>https://news.mynavi.jp/techplus/article/20261119-5354744/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20261119-5354744/" />
-    <updated>2026-11-19T08:53:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月23日00:00まで無料で全文をお読みいただけます。それ以降は会員登録が必要となります。※すでに会員の方はログインをお願いします この半導体ニュースのまとめ ・EdgeTech+ 2026で3日間限定の「チップミュージアム mini☆」が開設 ・Googleから寄贈された4基の「TPU v3」を搭載する実物ボードを展示 ・Intel 400...</summary>
-  </entry>
-  <entry>
-    <title>NewsPicks、カード情報の一部36万1598件が漏えい メールアドレスは32万2531件</title>
-    <id>https://japan.cnet.com/article/35255108/</id>
-    <link href="https://japan.cnet.com/article/35255108/" />
-    <updated>2026-11-19T06:33:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>漏えいしたカード情報は名義、有効期限、カード番号の下3桁または下4桁だった。カード番号の全桁は決済代行会社が管理しており、漏えいしていない。ユーザベースはセキュリティコードも保管していなかった。NewsPicksのログインパスワードは流出したデータに含まれていない。 このほか、氏名5万8754件、配送先住所・宛名...</summary>
   </entry>
 </feed>
