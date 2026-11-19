@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T22:00:17.199594+09:00</updated>
+  <updated>2026-11-19T22:30:14.183469+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>OpenAIがAIを用いてAMD製GPUや独自開発AIチップの改善に成功、半導体設計の専用AIモデルも開発</title>
+    <id>https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/</id>
+    <link href="https://gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/" />
+    <updated>2026-11-19T17:01:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIが自社製AIを用いて独自開発チップ「Jalapeño(ハラペーニョ)」やAMD製GPUの性能向上を実現したことをアピールしています。 Advancing chip design with OpenAI models | OpenAI https://openai.com/index/advancing-chip-design-with-our-models/ OpenAIはカスタム推論…</summary>
+  </entry>
+  <entry>
+    <title>ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる</title>
+    <id>https://gigazine.net/news/20261119-google-genie-4/</id>
+    <link href="https://gigazine.net/news/20261119-google-genie-4/" />
+    <updated>2026-11-19T11:10:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleがインタラクティブな仮想世界を生成できる世界モデル「Genie 4」を正式リリースしました。 Project Genie https://labs.google/projectgenie Genie 4 — Google DeepMind https://deepmind.google/models/genie/ Project Genie update featuring Genie…</summary>
+  </entry>
   <entry>
     <title>美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める</title>
     <id>https://www.itmedia.co.jp/news/article/2611/19/2000003351/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T15:05:34+09:00</updated>
     <category term="はてブ IT" />
     <summary>9BでQwen3.8-27B級の性能！層を2回通す「SenseNova-Loop-9B」</summary>
-  </entry>
-  <entry>
-    <title>Snowflake の managed access schema で COPY GRANTS 付き CLONE がなぜか初回だけ失敗した話</title>
-    <id>https://zenn.dev/finatext/articles/snowflake-managed-access-copy-grants</id>
-    <link href="https://zenn.dev/finatext/articles/snowflake-managed-access-copy-grants" />
-    <updated>2026-11-18T11:22:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに ナウキャストでデータエンジニアをしている岡田です。 ナウキャストでは、Snowflake を主要なデータ基盤として、データホルダーからお預かりした様々なオルタナティブデータを加工・蓄積しています。その中でも私が所属している Financial Research 事業で扱っているデータについては、エンドユーザーにご提供する手段の 1 つとして Snowflake の Secure Data…</summary>
-  </entry>
-  <entry>
-    <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた</title>
-    <id>https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/</id>
-    <link href="https://gigazine.net/news/20261119-cloudflare-tunnel-local-ai/" />
-    <updated>2026-11-19T01:38:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 離れた場所にあるPC同士を接続する方法として前回の記事ではVPNを使用する予定にしていましたが、ユーザ...</summary>
   </entry>
 </feed>
