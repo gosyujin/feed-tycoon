@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T05:30:13.175000+09:00</updated>
+  <updated>2026-11-20T06:00:16.816072+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【事前準備のお願い】PHPのセキュリティリリース公開予定について（11月） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
+    <id>https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html</id>
+    <link href="https://www.ipa.go.jp/security/security-alert/2026/pre-alert20261119.html" />
+    <updated>2026-11-19T19:40:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年10月に公表した PHPの脆弱性（CVE-2026-109618、CVE-2026-109619：PHP2shell)の予告時とは異なり、「デフォルトではない設定、または、一般的ではないセットアップ」で影響するものとの記載がなされております。 本情報の対象となる脆弱性について、本ページ公開時点でIPAが悪用した攻撃を確認しているわけではあ...</summary>
+  </entry>
   <entry>
     <title>[AWS] 徹底比較！ OpenSearch Memory vs AgentCore Memory</title>
     <id>https://qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-19T06:33:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>漏えいしたカード情報は名義、有効期限、カード番号の下3桁または下4桁だった。カード番号の全桁は決済代行会社が管理しており、漏えいしていない。ユーザベースはセキュリティコードも保管していなかった。NewsPicksのログインパスワードは流出したデータに含まれていない。 このほか、氏名5万8754件、配送先住所・宛名...</summary>
-  </entry>
-  <entry>
-    <title>PC-6001のSCREEN 4はなぜ4色に見える？アーティファクト・カラー入門 - RetroPC NEWS</title>
-    <id>https://retropcnews.com/archives/10685</id>
-    <link href="https://retropcnews.com/archives/10685" />
-    <updated>2026-11-18T15:42:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>先日のコラム『令和に輝くレトロPCゲーム｜アスキー出版の『AX-5 オリオン/クエスト』でPC-6001ユーザーは3D空間を漂いまくった』では、3Dシューティングゲーム『オリオン』の魅力を紹介させていただきました。当時の私もPC-6001ユーザーであり、初めて自作プログラムを商品化してもらった機種もPC-6001だったことから、...</summary>
   </entry>
 </feed>
