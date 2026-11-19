@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T00:30:12.692782+09:00</updated>
+  <updated>2026-11-20T01:00:23.821946+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「湘南美容クリニック」などの個人情報流出 氏名など162万人分 不正アクセスで</title>
+    <id>https://japan.cnet.com/article/35255171/</id>
+    <link href="https://japan.cnet.com/article/35255171/" />
+    <updated>2026-11-19T22:48:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>SBCメディカルグループは11月19日、湘南美容クリニックなどの利用者の個人情報が不正アクセスによって流出したと発表した。氏名や連絡先などを含む個人情報162万4000人分のほか、予約の申し込み情報や相談内容なども流出した。流出した情報には、当時暗号化せずに保存していたパスワードも含まれる。 162万4000人分は201...</summary>
+  </entry>
+  <entry>
+    <title>「スター・ウォーズ」の住人がAIで動く ディズニーがAWS活用</title>
+    <id>https://www.watch.impress.co.jp/docs/news/2157922.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2157922.html" />
+    <updated>2026-11-19T17:20:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「スター・ウォーズ」の住人がAIで動く ディズニーがAWS活用</summary>
+  </entry>
+  <entry>
+    <title>AI時代の要求管理ハンドブック</title>
+    <id>https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf</id>
+    <link href="https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf" />
+    <updated>2026-11-07T22:16:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI 時代の要求管理 ハンドブック ～経営・現場・開発がともに描く、問いから実現への道筋～ Version 1.0.0 1 目次 はじめに.......................................................................................................6 本書の使い方....................…</summary>
+  </entry>
   <entry>
     <title>マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も</title>
     <id>https://www.publickey1.jp/blog/26/database_hubai.html</id>
@@ -538,9 +562,9 @@
     <title>pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
     <id>https://zenn.dev/karamage/books/50c18e52e7d19e</id>
     <link href="https://zenn.dev/karamage/books/50c18e52e7d19e" />
-    <updated>2026-11-19T10:52:32+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではないでしょうか pstack は、元React コアチームのエンジニア poteto（Lauren…</summary>
+    <updated>2026-11-19T12:19:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではな...</summary>
   </entry>
   <entry>
     <title>マイクロソフト、「Copilot」でワード・エクセル・パワポを作成編集可能に</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-19T07:20:32+09:00</updated>
     <category term="はてブ IT" />
     <summary>ニトリは11月18日、横向きに寝たときに枕に押されにくいよう、耳からの出っ張りを抑えた睡眠用ワイヤレスイヤホン「ESL-11」の全国販売を始めたと発表した。価格は税込み2990円。11月中旬から全国のニトリ店舗とニトリネットで取り扱っている。</summary>
-  </entry>
-  <entry>
-    <title>AWS WAFのマネージドルールにJava4Shell関連ルールが追加されていたので試してみた | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/aws-waf-known-bad-inputs-java4shell/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-waf-known-bad-inputs-java4shell/" />
-    <updated>2026-11-18T15:47:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>既定が Count なので、Block にするまでは WAF ログに一致が記録されるだけです。 ap-northeast-1 の既定バージョンは現時点で Version_1.26 で、Java4Shell のルールを使うには Version_1.28 の指定が必要です。既定バージョンと最新バージョンは、次のコマンドで確認できます。 $ aws wafv2 list-available-manage…</summary>
-  </entry>
-  <entry>
-    <title>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
-    <id>https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</id>
-    <link href="https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html" />
-    <updated>2026-11-19T01:24:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19日1時半ごろ：今度は「nginx2root」。HTTP/2を止めても塞げない穴が3件 NGINX2Shellの次は、ngin…</summary>
-  </entry>
-  <entry>
-    <title>AIが書いたコードの正しさをどう確かめるか。「証明支援系Lean」という選択肢｜レバテックLAB - レバテックLAB</title>
-    <id>https://levtech.jp/media/detail_974/</id>
-    <link href="https://levtech.jp/media/detail_974/" />
-    <updated>2026-11-18T12:04:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>執筆 中川 幸哉 有限会社 WINGSプロジェクトが運営する、テクニカル執筆コミュニティ（代表：山田祥寛）に所属するテクニカルライター。新潟県上越市出身。会津大学コンピュータ理工学部卒業後、現在は新潟市に在住。ReactやAndroidを軸に、モバイルアプリ開発やWebサイト制作、Webメディア編集部の業務改善や、プログラ...</summary>
   </entry>
 </feed>
