@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T21:00:15.605239+09:00</updated>
+  <updated>2026-11-19T21:30:21.366632+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/19/2000003351/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/19/2000003351/" />
+    <updated>2026-11-19T20:25:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>11月18日、業務の再委託先が使用する情報機器でマルウェア「K2F」への感染が確認され、個人情報が漏えいした可能性があると発表した北海道岩見沢市と新得町。両自治体が業務を委託していたGIS北海道（札幌市）は19日、ITmedia NEWSの取材に応じ、人気ゲーム「勝利の女神：NIKKE」のPC版ランチャー（起動用アプリ）が関係...</summary>
+  </entry>
+  <entry>
+    <title>【速報】タイミー、事業者情報最大22.6万人漏えい</title>
+    <id>https://www.47news.jp/15256728.html</id>
+    <link href="https://www.47news.jp/15256728.html" />
+    <updated>2026-11-19T20:08:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>短時間・単発アルバイトを紹介する「タイミー」（東京）は19日、サービスを利用する求人事業者の情報最大約22万6千人分が漏えいしたと発表した。タイミーの委託先が不正アクセスを受けた。</summary>
+  </entry>
+  <entry>
+    <title>「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2157700.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2157700.html" />
+    <updated>2026-11-19T13:39:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</summary>
+  </entry>
+  <entry>
+    <title>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
+    <id>https://zenn.dev/kusuke/articles/98e178e6824cac</id>
+    <link href="https://zenn.dev/kusuke/articles/98e178e6824cac" />
+    <updated>2026-11-19T11:22:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB...</summary>
+  </entry>
   <entry>
     <title>脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……</title>
     <id>https://www.itmedia.co.jp/news/article/2611/19/2000003338/</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-19T01:38:39+09:00</updated>
     <category term="はてブ IT" />
     <summary>前回の記事ではGPUを搭載したWindows PCに「Ollama」と「Open WebUI」をインストールし、ブラウザからローカルAIを使える環境を構築しました。今回はこのローカルAIをほかのPCからも利用できるようにしていきます。 離れた場所にあるPC同士を接続する方法として前回の記事ではVPNを使用する予定にしていましたが、ユーザ...</summary>
-  </entry>
-  <entry>
-    <title>楽天証券、投信の他社移管を当面無料に--大規模情報漏えい公表に関連か</title>
-    <id>https://japan.cnet.com/article/35255102/</id>
-    <link href="https://japan.cnet.com/article/35255102/" />
-    <updated>2026-11-18T19:02:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>楽天証券の手続き案内によると、移管するには、希望する投資信託を受け入れられるか移管先の金融機関に確認したうえで、依頼書を楽天証券に郵送する必要がある。書類の到着から手続きの完了までは通常約2週間、長い場合は1カ月かかる。この間、対象の投資信託は売買できず、積立注文も受け付けられない。 前日に顧客情報...</summary>
-  </entry>
-  <entry>
-    <title>【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</title>
-    <id>https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/column/hothot/2157471.html" />
-    <updated>2026-11-18T23:55:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【Hothotレビュー】 デスクトップ版RTX Sparkはどこまで速い？128GB搭載のノートPC版と比較</summary>
-  </entry>
-  <entry>
-    <title>CloudflareがなぜパブリックDNSはブロックされるべきではないのかを説明</title>
-    <id>https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/</id>
-    <link href="https://gigazine.net/news/20261118-cloudflare-explain-dns-blocking/" />
-    <updated>2026-11-18T20:03:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>パブリックDNSリゾルバーを運営するCloudflareは、違法なサイトへのアクセスをブロックせよという裁判所命令に従わなかったために多額の制裁金を科され、控訴しています。なぜ従わなかったのか、そもそもパブリックDNSリゾルバーとは何なのかについて、Cloudflareが説明しました。 Quad9’s withdrawal from France: A ca...</summary>
-  </entry>
-  <entry>
-    <title>AWS JumpStart2026参加レポート</title>
-    <id>https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T23:12:33+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AWS JumpStartの2026年11月回に参加したので参加レポートを執筆しました。 ネタバレ防止の観点から、公開されている情報や感想を中心とした内容となります。 AWS JumpStartとは 以下、公式からの引用です。 AWS JumpStar...</summary>
   </entry>
 </feed>
