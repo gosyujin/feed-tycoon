@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T08:30:12.767058+09:00</updated>
+  <updated>2026-11-20T08:53:58.010793+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2158043.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2158043.html" />
+    <updated>2026-11-20T06:48:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」</summary>
+  </entry>
+  <entry>
+    <title>「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由</title>
+    <id>https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html</id>
+    <link href="https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html" />
+    <updated>2026-11-19T18:36:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>連載目次 AIに「先月の売上を集計して」と頼み、返ってきたSQL文を実行したとする。エラーなく動いたが、集計結果には、社内ルールでは売上に含めないキャンセル済みの注文まで入っていた。このように、SQL文が正常に動いても、業務上正しい結果が得られるとは限らない。そのため、AIにはデータ構造に加え、業務用語の意...</summary>
+  </entry>
+  <entry>
+    <title>AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36-&gt;blog;</title>
+    <id>https://blog.shibayu36.org/entry/2026/11/17/120000</id>
+    <link href="https://blog.shibayu36.org/entry/2026/11/17/120000" />
+    <updated>2026-11-18T12:37:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近AIの返答を理解するのに時間がかかってつらかった。そこで自分の認知特性をClaude Codeに分析させ、それに合わせて返答を書かせるSkillを作った。かなり読みやすくなったので作ったものと作り方を紹介する。 作りたいと思った理由: 記憶力が低く、AIの返答を理解するのがつらかった Claude Codeの返答を読んでいて「...</summary>
+  </entry>
   <entry>
     <title>AIに悩みを相談する際に気をつけて欲しいこと｜SSC</title>
     <id>https://www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/</id>
@@ -426,9 +450,9 @@
     <title>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
     <id>https://zenn.dev/kusuke/articles/98e178e6824cac</id>
     <link href="https://zenn.dev/kusuke/articles/98e178e6824cac" />
-    <updated>2026-11-19T11:22:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB...</summary>
+    <updated>2026-11-19T10:34:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はng…</summary>
   </entry>
   <entry>
     <title>脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-18T19:21:37+09:00</updated>
     <category term="はてブ IT" />
     <summary>https://event.cloudnativedays.jp/cndw2026/proposals/1259</summary>
-  </entry>
-  <entry>
-    <title>マスク氏、ゼレンスキー氏を批判「うそをついている」 スターリンクめぐり</title>
-    <id>https://www.afpbb.com/articles/-/3663183</id>
-    <link href="https://www.afpbb.com/articles/-/3663183" />
-    <updated>2026-11-19T12:09:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米宇宙開発企業スペースXのイーロン・マスク最高経営責任者（CEO,、左、2026年10月8日撮影）。(c)Kent NISHIMURA/AFP 【11月19日 AFP】米宇宙開発企業スペースXのイーロン・マスク最高経営責任者（CEO）は18日、ウクライナのウォロディミル・ゼレンスキー大統領が軍事用衛星通信サービス「スターシールド」を使用してい...</summary>
-  </entry>
-  <entry>
-    <title>AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見</title>
-    <id>https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/</id>
-    <link href="https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/" />
-    <updated>2026-11-19T08:12:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ハーバード大学の研究者がAIコーディングエージェントを導入した企業を対象とした調査を実施したところ、AIコーディングエージェントの活用でコードの作成量は約30％増加したものの、コードのレビューにかかる時間が49％増加したため、完成した作業量には目立った増加が見られないことが明らかになりました。 Harvard re...</summary>
-  </entry>
-  <entry>
-    <title>pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
-    <id>https://zenn.dev/karamage/books/50c18e52e7d19e</id>
-    <link href="https://zenn.dev/karamage/books/50c18e52e7d19e" />
-    <updated>2026-11-19T12:19:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIエージェントに仕事を頼むと、自信満々の報告と一緒に検証されていない大量のコードが届いて困ったことはありませんか？ AIエージェントを使い始めた人はもちろん、日常的に使いこなしているエンジニアでも、「どうすれば品質を担保できるのか」「どこまで自律的に仕事を任せられるのか」という疑問は共通の課題ではな...</summary>
   </entry>
 </feed>
