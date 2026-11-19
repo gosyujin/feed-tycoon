@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T13:00:13.091498+09:00</updated>
+  <updated>2026-11-19T13:30:14.431222+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Google、わずか2カ月で4つ目のモデル公開「Gemini 4 Neon」 一部「Fable同等」性能をコスト半分で</title>
+    <id>https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/</id>
+    <link href="https://www.itmedia.co.jp/aiplus/article/2611/19/2000003322/" />
+    <updated>2026-11-19T11:39:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Googleは11月18日（現地時間）、AIモデル「Gemini 4 Neon」（以下、Neon）を公開した。「Gemini 4」シリーズのモデルは「Gemini 4 Argon」（以下、Argon）、「Gemini 4 Carbon」（以下、Carbon）、「Gemini 4 Hydrogen」（以下、Hydrogen）に続き、2カ月足らずで4つ目となる。 Neonは上位モデルのCarbonを…</summary>
+  </entry>
+  <entry>
+    <title>Security advisories: multiple vulnerabilities in Regexp and String case conversion | Ruby</title>
+    <id>https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/</id>
+    <link href="https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/" />
+    <updated>2026-11-19T10:09:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Seven vulnerabilities have been discovered in Ruby’s regular expression engine and in the case conversion of strings. We are aware of PoCs that prove some of them can be used to trigger remote code ex…</summary>
+  </entry>
   <entry>
     <title>宇宙空間でのたった1回の核爆発で低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性</title>
     <id>https://gigazine.net/news/20261119-nuclear-blast-cripple-satellite/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-17T20:02:29+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>1.はじめに 「Microsoft Ignite って、実際どんな雰囲気なの？」 ずっと気になっていたそのイベントに、初めての海外出張で来ています✈️ この記事は、本イベント（11/17〜11/20）が始まる前の「前日編」です。 日本を出発してから、会場でバッジを受け取る...</summary>
-  </entry>
-  <entry>
-    <title>Gemini Decisions による動画の判定</title>
-    <id>https://qiita.com/kataoka_se_sionic/items/6bd2eb0b767b6e10fe6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kataoka_se_sionic/items/6bd2eb0b767b6e10fe6a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T18:05:26+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事の目的 2026/9/15 の TypeSafe の Jev リリース以降、OpenAI, Gemini も 同じ方向性の機能 Decisions をそれぞれ、１か月後、２か月後にリリースしました。 Gemini の Decisions では、入力に映像も使えるよ...</summary>
-  </entry>
-  <entry>
-    <title>Amazon Bedrock AgentCore Policyで実現するユーザー属性ベースのMCPツール認可</title>
-    <id>https://qiita.com/mbear06/items/816e3a7c13875283c656?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mbear06/items/816e3a7c13875283c656?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-16T14:30:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに 生成AIエージェントをエンタープライズ環境に導入する際、「同じAIエージェントを利用していても、ログイン中のユーザーの権限に応じて、実行可能なツールを制限したい。」というような要件が生じることがあります。 例えば、以下のようなケースです。 Adminis...</summary>
   </entry>
 </feed>
