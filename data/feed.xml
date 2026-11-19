@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T16:30:14.171236+09:00</updated>
+  <updated>2026-11-19T16:58:54.201428+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」</title>
+    <id>https://togetter.com/li/2772319</id>
+    <link href="https://togetter.com/li/2772319" />
+    <updated>2026-11-19T14:30:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木...</summary>
+  </entry>
+  <entry>
+    <title>ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官 | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261119de78324</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261119de78324" />
+    <updated>2026-11-19T14:12:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う…</summary>
+  </entry>
+  <entry>
+    <title>Google Playが折りたたみスマホ向けアプリの最適化を義務化、2027年4月から未対応アプリは更新不可に</title>
+    <id>https://sumahodigest.com/?p=76852</id>
+    <link href="https://sumahodigest.com/?p=76852" />
+    <updated>2026-11-19T13:19:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleは、折りたたみスマートフォン向けアプリの品質基準を新たに発表しました。2027年4月からGoogle Playでアプリを公開・更新するには、折りたたみ端末に対応した最低限の品質基準を満たす必要があります。対応を怠った開発者は、アプリの新規公開だけでなく既存アプリのアップデートもできなくなる見込みです。 折り...</summary>
+  </entry>
+  <entry>
+    <title>内製のChrome拡張機能をChromeウェブストアから社内に配布する - kickflow Tech Blog</title>
+    <id>https://tech.kickflow.co.jp/entry/2026/11/11/182411</id>
+    <link href="https://tech.kickflow.co.jp/entry/2026/11/11/182411" />
+    <updated>2026-11-17T13:02:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、CTOの小林です。 社内で作ったChrome拡張機能を、Chromeウェブストアの「ドメイン限定公開」で配布する仕組みを整えました。ストアに載せつつ自社のGoogle Workspaceユーザーにだけ見える状態にし、更新はGitHub Actionsから自動で行います。この記事では、その手順と運用ルールを紹介します。 背景：拡張機...</summary>
+  </entry>
   <entry>
     <title>PR が1年で5倍になった monorepo で、フロントエンドの基盤をつくる — バクラク Frontend Enabling を募集しています - LayerX エンジニアブログ</title>
     <id>https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-18T16:00:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware linting と typecheck は CI の中で重いステップのままで、キャッシュが外れるとバ…</summary>
-  </entry>
-  <entry>
-    <title>三菱UFJ eスマート証券 証券口座番号約6万件漏えい | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261118de77737</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261118de77737" />
-    <updated>2026-11-18T15:54:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>三菱UFJ eスマート証券はアプリやウェブサイトなどでの案内業務の委託先「プレイド」が不正アクセスを受けた影響で、証券口座番号がおよそ6万件、利用者の年齢の情報がおよそ10万件、漏えいしたと発表しまし…</summary>
-  </entry>
-  <entry>
-    <title>Java4Shell: Write once, RCE everywhere</title>
-    <id>https://calif.io/java4shell</id>
-    <link href="https://calif.io/java4shell" />
-    <updated>2026-11-18T06:33:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>CVE-2026-114938 Java4Shell Write once, RCE everywhere Story by the New York Times A memory-corruption vulnerability in OpenJDK's Base64 decoder. A remote attacker with no credentials can overwrite hea…</summary>
-  </entry>
-  <entry>
-    <title>わずか3時間で標的に侵入、AIを悪用したサイバー攻撃にFBIが警告</title>
-    <id>https://japan.cnet.com/article/35255059/</id>
-    <link href="https://japan.cnet.com/article/35255059/" />
-    <updated>2026-11-18T12:13:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>セキュリティ上の欠陥を見つけるために開発されたオープンソースの人工知能（AI）ツールが、サイバー攻撃に悪用されている。米連邦捜査局（FBI）によると、ハッカーはAIを活用したセキュリティテストツール「ARTEX」を使い、世界各地の組織のシステムに侵入している。 同局は米国時間11月13日に公表した警告で、攻撃対象...</summary>
-  </entry>
-  <entry>
-    <title>NewsPicks漏えい、Metabase脆弱性が原因 パッチ適用前日にデータ窃取、JPCERT/CC公表「不審IPアドレス」で攻撃発覚</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/18/2000003300/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/18/2000003300/" />
-    <updated>2026-11-18T17:06:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ユーザベースは11月18日、経済メディア「NewsPicks」が不正アクセスを受けてユーザーの氏名や住所、クレジットカード情報の一部が流出した問題の調査報告を公表し、BIツール「Metabase」の脆弱性が原因だったことなどを明らかにした。 同社は、MetabaseがSQLインジェクションの脆弱性を公表した6日後（3営業日後）の8月1...</summary>
   </entry>
 </feed>
