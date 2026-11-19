@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T15:00:16.429361+09:00</updated>
+  <updated>2026-11-19T15:30:13.817350+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マスク氏、ゼレンスキー氏を批判「うそをついている」 スターリンクめぐり</title>
+    <id>https://www.afpbb.com/articles/-/3663183</id>
+    <link href="https://www.afpbb.com/articles/-/3663183" />
+    <updated>2026-11-19T12:09:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米宇宙開発企業スペースXのイーロン・マスク最高経営責任者（CEO,、左、2026年10月8日撮影）。(c)Kent NISHIMURA/AFP 【11月19日 AFP】米宇宙開発企業スペースXのイーロン・マスク最高経営責任者（CEO）は18日、ウクライナのウォロディミル・ゼレンスキー大統領が軍事用衛星通信サービス「スターシールド」を使用してい...</summary>
+  </entry>
+  <entry>
+    <title>AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見</title>
+    <id>https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/</id>
+    <link href="https://gigazine.net/news/20261119-ai-coding-agents-shifted-bottleneck-code-review/" />
+    <updated>2026-11-19T08:12:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ハーバード大学の研究者がAIコーディングエージェントを導入した企業を対象とした調査を実施したところ、AIコーディングエージェントの活用でコードの作成量は約30％増加したものの、コードのレビューにかかる時間が49％増加したため、完成した作業量には目立った増加が見られないことが明らかになりました。 Harvard re...</summary>
+  </entry>
   <entry>
     <title>pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─</title>
     <id>https://zenn.dev/karamage/books/50c18e52e7d19e</id>
@@ -359,6 +375,14 @@
     <summary>アプリは、専門家だけが作るもの。そんな常識が変わり始めています。 AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。 一方…</summary>
   </entry>
   <entry>
+    <title>ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録</title>
+    <id>https://zenn.dev/rimo/articles/12d6a7b1c58fcd</id>
+    <link href="https://zenn.dev/rimo/articles/12d6a7b1c58fcd" />
+    <updated>2026-11-19T07:05:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。Rimo合同会社でフロントエンドエンジニアをしている栗山(koolii)です。 Rimo のフロントエンド（Next.js、TypeScript）では、2026 年 3 月から 7 月にかけて、メインの linter を ESLint から oxlint に移しました。ESLint のルールを大量に増やしている最中に、並行して oxlint へ置き換えを実施しました。...</summary>
+  </entry>
+  <entry>
     <title>Terraform 0 to 100：100個以上のリポジトリを常に最新にし続けるための自動化</title>
     <id>https://speakerdeck.com/sue445/terraform-0-to-100</id>
     <link href="https://speakerdeck.com/sue445/terraform-0-to-100" />
@@ -389,14 +413,6 @@
     <updated>2026-11-18T11:22:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに ナウキャストでデータエンジニアをしている岡田です。 ナウキャストでは、Snowflake を主要なデータ基盤として、データホルダーからお預かりした様々なオルタナティブデータを加工・蓄積しています。その中でも私が所属している Financial Research 事業で扱っているデータについては、エンドユーザーにご提供する手段の 1 つとして Snowflake の Secure Data…</summary>
-  </entry>
-  <entry>
-    <title>ESLint から oxlint へ。lint が 50 倍速くなるまでの移行の記録</title>
-    <id>https://zenn.dev/rimo/articles/12d6a7b1c58fcd</id>
-    <link href="https://zenn.dev/rimo/articles/12d6a7b1c58fcd" />
-    <updated>2026-11-18T09:51:16+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。Rimo合同会社でフロントエンドエンジニアをしている栗山(koolii)です。 Rimo のフロントエンド（Next.js、TypeScript）では、2026 年 3 月から 7 月にかけて、メインの linter を ESLint から oxlint に移しました。ESLint のルールを大量に増やしている最中に、並行して oxlint へ置き換えを実施しました。今も oxlint…</summary>
   </entry>
   <entry>
     <title>メインPCのローカルAIをVPN・ポート開放なしで外出先のHermes Agentから使えるように「Cloudflare Tunnel＋Access」を設定してみた</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T14:37:05+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>前書き この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。 ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</summary>
-  </entry>
-  <entry>
-    <title>【AWS Emulator】消し忘れの恐怖から卒業！公式エミュレータでS3とLambdaを動かしてみた</title>
-    <id>https://qiita.com/N-Kyo/items/a111d174a751506790e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/N-Kyo/items/a111d174a751506790e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T13:12:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年11月11日、AWS Emulatorが一般提供（GA）になりました。AWSのAPIを自分のPCの中でまねしてくれるツールです。CLIやSDKの接続先を環境変数で切り替えるだけで、AWSへデプロイせずにサービスを試せます。エミュレータ自体の追加料金はか...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！ システム設計 視点の 行動経済学 8</title>
-    <id>https://qiita.com/maskot1977/items/2afff114f7e088920b03?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/2afff114f7e088920b03?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T12:41:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトル、およびその詳しい内容について解説します。 ソース動画のタイトル 本動画のタイトルは 「社会システムのバグを直すゼロトラスト設計 : システム設計視...</summary>
   </entry>
 </feed>
