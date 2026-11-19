@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T09:00:15.449143+09:00</updated>
+  <updated>2026-11-19T09:28:08.228187+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title>
+    <id>https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</id>
+    <link href="https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html" />
+    <updated>2026-11-19T01:24:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 先月はPHP2Shell。今月はNGINX2Shell。 Webサーバーの世界、毎月どこかがShellを取られる連載でも始まったんですか...</summary>
+  </entry>
+  <entry>
+    <title>AIが書いたコードの正しさをどう確かめるか。「証明支援系Lean」という選択肢｜レバテックLAB - レバテックLAB</title>
+    <id>https://levtech.jp/media/detail_974/</id>
+    <link href="https://levtech.jp/media/detail_974/" />
+    <updated>2026-11-18T12:04:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>執筆 中川 幸哉 有限会社 WINGSプロジェクトが運営する、テクニカル執筆コミュニティ（代表：山田祥寛）に所属するテクニカルライター。新潟県上越市出身。会津大学コンピュータ理工学部卒業後、現在は新潟市に在住。ReactやAndroidを軸に、モバイルアプリ開発やWebサイト制作、Webメディア編集部の業務改善や、プログラ...</summary>
+  </entry>
   <entry>
     <title>「PHP」に再び“致命的”な脆弱性、日本時間19日夜にセキュリティリリースへ／サポート中の全バージョンが対象</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2157690.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T09:29:45+09:00</updated>
     <category term="はてブ IT" />
     <summary>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</summary>
-  </entry>
-  <entry>
-    <title>Windows Update後にbootmgfw.efiが欠落したPCの修復手順 – 渋川パソコンサポート</title>
-    <id>https://shibukawa-pc.com/windows-update-missing-bootmgfw-efi-repair/</id>
-    <link href="https://shibukawa-pc.com/windows-update-missing-bootmgfw-efi-repair/" />
-    <updated>2026-11-17T19:47:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月16日、Windows Update後に起動しなくなったHP製PCを修復しました。 修復の経緯と実際に行った作業を本文にまとめ、記事末尾に起動復旧を優先する場合の手順例（最短手順）を追記しています。 EFIシステムパーティションの空き不足による更新失敗は、Microsoftも過去の更新で公表しています。その既知の問題で...</summary>
-  </entry>
-  <entry>
-    <title>Agent Optimizerを使ってHosted Agentを最適化する - Taste of Tech Topics</title>
-    <id>https://acro-engineer.hatenablog.com/entry/2026/11/18/120000</id>
-    <link href="https://acro-engineer.hatenablog.com/entry/2026/11/18/120000" />
-    <updated>2026-11-18T13:09:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1. はじめに こんにちは、2年目エンジニアの飯棲です。 最近は自宅で電子サックスを吹くことにハマっています。 前回の記事では Microsoft Foundry の Hosted Agent を使って、エージェントをデプロイしました。 acro-engineer.hatenablog.com 今回は Hosted Agent を改善するための機能である Agent Optimizer を試して.…</summary>
   </entry>
 </feed>
