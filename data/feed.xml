@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-19T15:30:13.817350+09:00</updated>
+  <updated>2026-11-19T16:00:14.737739+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2157695.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2157695.html" />
+    <updated>2026-11-19T11:51:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</summary>
+  </entry>
+  <entry>
+    <title>信頼性を犠牲にせず、PR マージからデプロイまで人の介入を完全にゼロにするまでの道のり</title>
+    <id>https://speakerdeck.com/knwoop/cndw2026-zero-touch-deploy</id>
+    <link href="https://speakerdeck.com/knwoop/cndw2026-zero-touch-deploy" />
+    <updated>2026-11-18T19:21:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>https://event.cloudnativedays.jp/cndw2026/proposals/1259</summary>
+  </entry>
   <entry>
     <title>マスク氏、ゼレンスキー氏を批判「うそをついている」 スターリンクめぐり</title>
     <id>https://www.afpbb.com/articles/-/3663183</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T16:20:18+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>ご挨拶 はじめまして、受託開発の責任者をやっておりますwhywhyです。 ここ1、2年で「AIに仕事を奪われるから〜」といった話をよく見かけるようになりました。 私自身、普段からAI駆動開発に取り組み、グラフエンジニアリングまで取り入れていることもあって、AIは手段という...</summary>
-  </entry>
-  <entry>
-    <title>手軽に楽しくオブザーバビリティを学ぶ「New Relic Dojo」の紹介</title>
-    <id>https://qiita.com/Fendo181/items/b9dbabc9259c150f56e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Fendo181/items/b9dbabc9259c150f56e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T15:51:25+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「New Relicを導入することになったけれど、何から手を付ければいいかわからない……」 そんなエンジニアやSRE、クラウド担当者に向けて、オブザーバビリティの基本思想からNew Relicを使った具体的な始め方、おすすめの学習ステップまでを手軽に楽しく学べる学習サービス...</summary>
-  </entry>
-  <entry>
-    <title>人間がボトルネックになった時代のAIエージェント設計</title>
-    <id>https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T14:37:05+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>前書き この 1 年でモデルがずいぶんと賢くなり、AI エージェントは、コードの修正やテストの実行くらいなら、1 つのタスクを人間が逐一指示しなくても進められるようになりました。 ところが、エージェントを何本も並べて使い始めると、思ったほど仕事が速くなりません。詰まってい...</summary>
   </entry>
 </feed>
