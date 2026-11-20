@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T06:00:14.830716+09:00</updated>
+  <updated>2026-11-21T06:30:14.404604+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる</title>
+    <id>https://gigazine.net/news/20261120-memory-compress/</id>
+    <link href="https://gigazine.net/news/20261120-memory-compress/" />
+    <updated>2026-11-20T15:24:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ウェブブラウザで大量のタブを開いたり複数のアプリを同時に動かしたりすると、PCのメモリ(RAM)が不足して動作が遅くなることがあります。メモリ不足を解消するにはRAMの増設が効果的ですが、CPUを使ってメモリ内のデータを圧縮すればRAMを増設せずに多くのデータを保持できるとのこと。ソフトウェアエンジニアのテリー...</summary>
+  </entry>
   <entry>
     <title>緊縮の痛みは成長に変わるか——実証的に棄却された仮説が政策に残り続ける認知設計 : システム設計視点の行動経済学 (66)</title>
     <id>https://qiita.com/maskot1977/items/96098e2d0016cf85e7e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -796,13 +804,5 @@
     <updated>2026-11-19T20:29:27+09:00</updated>
     <category term="はてブ IT" />
     <summary>南アフリカの開発者がCとアセンブリでOSをゼロから書いている。UEFIブートローダーからSMPカーネル、コンポジットデスクトップまで。Win32がネイティブAPI。初回リリース目標は2028年8月8日。 Impossible OS LinuxでもWindowsでもないWindowsの対抗馬を名乗るOSは珍しくない。ReactOSはWindows NTのバイナリ互換を目指し...</summary>
-  </entry>
-  <entry>
-    <title>Protobufチームは Implicit Presence を作ったことを後悔しているらしい</title>
-    <id>https://zenn.dev/nagatsukey/articles/1782a56f61a45e</id>
-    <link href="https://zenn.dev/nagatsukey/articles/1782a56f61a45e" />
-    <updated>2026-11-19T20:10:27+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事について 私は普段Webフロントのエンジニアをしていて、TypeScriptを使った開発をすることが多いですが、最近は趣味でGoやProtobufについて勉強しています。 Protobufについて調べていたところ、「Implicit Presence」という面白いページがありました。このページでは、proto3で追加した Implicit Presence が失敗だった理由が書かれており、…</summary>
   </entry>
 </feed>
