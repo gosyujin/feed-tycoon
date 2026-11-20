@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T07:00:14.325802+09:00</updated>
+  <updated>2026-11-21T07:30:13.264951+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SSDの価格は2027年後半に下落し始める可能性あり</title>
+    <id>https://gigazine.net/news/20261120-ssd-prices-outlook/</id>
+    <link href="https://gigazine.net/news/20261120-ssd-prices-outlook/" />
+    <updated>2026-11-20T22:06:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アナリストの分析により、HDDの価格が今後2年で高止まりする一方、SSDは価格が落ち着くという予測が出てきました。 When Will Hard Drive Prices Come Down? The 2026-2028 Outlook | DriveVault https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down…</summary>
+  </entry>
   <entry>
     <title>メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる</title>
     <id>https://gigazine.net/news/20261120-memory-compress/</id>
@@ -183,20 +191,20 @@
     <summary>ノンフライヤーで唐揚げ選手権! 最新4モデルどう違う?</summary>
   </entry>
   <entry>
-    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
-    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
-    <updated>2026-11-20T08:35:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな...</summary>
-  </entry>
-  <entry>
     <title>ネットもLINEも非対応の「INFOBAR ZERO」は誰が買う？ 3万2780円の価値や向き合い方を考える</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html</id>
     <link href="https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html" />
     <updated>2026-11-19T19:48:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>KDDIが発表した「INFOBAR ZERO」は、インターネットやLINEに非対応で通話とSMSに特化した異色の端末だ。価格は3万2780円で12月25日に発売され、povo2.0やセカンドナンバーなど柔軟な回線運用にも対応する。開発陣の発言を手掛かりに、本機の割り切った仕様と価格に納得できるターゲット像を探る。</summary>
+  </entry>
+  <entry>
+    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
+    <updated>2026-11-19T16:28:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agen…</summary>
   </entry>
   <entry>
     <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
@@ -796,13 +804,5 @@
     <updated>2026-11-19T22:48:35+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>! この記事でわかること 一つの dbt の YAML（MetricFlow）から、Snowflake の Semantic View（Apache Ossie 経由）と Lightdash のメトリクスを両方作れた SQL（Semantic View に AGG() で問い合わせ）・AI（Cortex Analyst に自然言語で質問）・BI（Lightdash の画面でメトリクスを選択）の全て…</summary>
-  </entry>
-  <entry>
-    <title>Impossible OS、LinuxでもWindows派生でもない新OSを一人で構築。143万行でプリアルファに到達</title>
-    <id>https://joho-todai.com/impossible-os-new-operating-system-linux-windows/</id>
-    <link href="https://joho-todai.com/impossible-os-new-operating-system-linux-windows/" />
-    <updated>2026-11-19T20:29:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>南アフリカの開発者がCとアセンブリでOSをゼロから書いている。UEFIブートローダーからSMPカーネル、コンポジットデスクトップまで。Win32がネイティブAPI。初回リリース目標は2028年8月8日。 Impossible OS LinuxでもWindowsでもないWindowsの対抗馬を名乗るOSは珍しくない。ReactOSはWindows NTのバイナリ互換を目指し...</summary>
   </entry>
 </feed>
