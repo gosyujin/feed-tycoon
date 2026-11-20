@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T08:00:13.711811+09:00</updated>
+  <updated>2026-11-21T08:30:09.789748+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2158261.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2158261.html" />
+    <updated>2026-11-20T20:11:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</summary>
+  </entry>
   <entry>
     <title>SSDの価格は2027年後半に下落し始める可能性あり</title>
     <id>https://gigazine.net/news/20261120-ssd-prices-outlook/</id>
@@ -796,13 +804,5 @@
     <updated>2026-11-19T23:13:57+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Claude Code では、エージェントに守ってほしい決まりを CLAUDE.md や SKILL.md に書いておくと、エージェントはそれを読んで作業します。私も最初はこうしたルールを普通の Markdown で書いていました。ところがルールが増えるにつれて、どの行がどのルールの例外か、同じ行為を別の場所で禁じていないか、なぜそのルールがあるのかが、読み返さないと分からなくなりました。 YAM…</summary>
-  </entry>
-  <entry>
-    <title>dbt v1 でメトリクスを一元管理する未来 〜Apache Ossie と Lightdash で試す〜</title>
-    <id>https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie</id>
-    <link href="https://zenn.dev/kyami/articles/dbt-snowflake-apache-ossie" />
-    <updated>2026-11-19T22:48:35+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事でわかること 一つの dbt の YAML（MetricFlow）から、Snowflake の Semantic View（Apache Ossie 経由）と Lightdash のメトリクスを両方作れた SQL（Semantic View に AGG() で問い合わせ）・AI（Cortex Analyst に自然言語で質問）・BI（Lightdash の画面でメトリクスを選択）の全て…</summary>
   </entry>
 </feed>
