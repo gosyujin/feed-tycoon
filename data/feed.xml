@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T09:30:11.394046+09:00</updated>
+  <updated>2026-11-20T10:00:11.320473+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>プログラム言語「PHP」に新たな脆弱性 サービス停止の恐れ - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/" />
+    <updated>2026-11-19T22:40:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>世界のウェブサイトの約7割に使われているとされるプログラム言語「PHP」に重大なサイバー上の脆弱性が新たに見つかったことが19日、わかった。運営団体は同日午後11時すぎ（日本時間）に修正プログラムを公表する。サービス停止などの影響が生じる可能性がある。PHPは世界のサイトの69%で使われているとされる。運営団...</summary>
+  </entry>
   <entry>
     <title>Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita</title>
     <id>https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-17T13:02:14+09:00</updated>
     <category term="はてブ IT" />
     <summary>こんにちは、CTOの小林です。 社内で作ったChrome拡張機能を、Chromeウェブストアの「ドメイン限定公開」で配布する仕組みを整えました。ストアに載せつつ自社のGoogle Workspaceユーザーにだけ見える状態にし、更新はGitHub Actionsから自動で行います。この記事では、その手順と運用ルールを紹介します。 背景：拡張機...</summary>
-  </entry>
-  <entry>
-    <title>PR が1年で5倍になった monorepo で、フロントエンドの基盤をつくる — バクラク Frontend Enabling を募集しています - LayerX エンジニアブログ</title>
-    <id>https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling</id>
-    <link href="https://tech.layerx.co.jp/entry/bakuraku-monorepo-and-frontend-enabling" />
-    <updated>2026-11-19T13:50:36+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに バクラク事業部のエンジニアの ypresto です。 今日はバクラクで募集している Frontend Enabling というポジションについて紹介させてください！ バクラクでは原則としてJavaScriptとGoのソースコードをmonorepoで管理しています。JavaScript のパッケージも今120を超えています！ リポジトリ全体でマージされ...</summary>
   </entry>
 </feed>
