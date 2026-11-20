@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T19:00:14.982326+09:00</updated>
+  <updated>2026-11-20T19:30:16.295169+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
+    <id>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</id>
+    <link href="https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html" />
+    <updated>2026-11-20T18:31:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。流出した件数や個人情報が含まれていたかなどの詳細については、「調査…</summary>
+  </entry>
+  <entry>
+    <title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
+    <id>https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</id>
+    <link href="https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f" />
+    <updated>2026-11-20T18:00:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTKの受信機とAndroidのアプリ「DroggerGPS」（以下DrGPS）です。 データを集めるため…</summary>
+  </entry>
+  <entry>
+    <title>「ポケットチェンジ」パスポート番号2万件余流出 | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261120de78976</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261120de78976" />
+    <updated>2026-11-20T14:59:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>通貨を電子マネーに交換する端末などを運営する「ポケットチェンジ」は、不正アクセスの影響で顧客のパスポート番号最大2万4000件あまりが外部に流出したと明らかにしました。 この会社が手がけるほかのサー…</summary>
+  </entry>
+  <entry>
+    <title>日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた</title>
+    <id>https://zenn.dev/chaki/articles/4545be3475fdb4</id>
+    <link href="https://zenn.dev/chaki/articles/4545be3475fdb4" />
+    <updated>2026-11-20T13:33:15+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自宅のPCで日本のレシートを読むなら、今回いちばん良かったのは YomiToku でした。軽量モデルで全体を読み、自信のない行だけ高精度モデルで読み直す「2段読み」で、商品名の完全一致93%、金額100%、1枚約1.8秒。ただし YomiToku は非商用ライセンスです。商用なら NDLOCR-Lite や PP-OCRv6 が現実的な候補になります。話題の画像対応AI（VLM）は、長いレシートで…</summary>
+  </entry>
+  <entry>
+    <title>CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行</title>
+    <id>https://zenn.dev/levtech/articles/14befd8e727f32</id>
+    <link href="https://zenn.dev/levtech/articles/14befd8e727f32" />
+    <updated>2026-11-20T10:26:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！ レバテック開発部の皆様と一緒に、開発に携わらせていただいているナカジーです！ この度は CDK 管理のリソースを Terraform に寄せる IaC 移行作業に携わりました。その際に 「所有権を移譲する手法」 をとることで本番インフラ（12 のサービス＋共通基盤、計 13 スタック）を停止させずに IaC 移行を完遂することができました！ 本記事では、そこで得られたナレッ…</summary>
+  </entry>
+  <entry>
+    <title>オブザーバビリティを組織とともに成長させる - データと知識をつなぐ場としてのGrafana</title>
+    <id>https://speakerdeck.com/mtanda/growing-observability-with-your-organization</id>
+    <link href="https://speakerdeck.com/mtanda/growing-observability-with-your-organization" />
+    <updated>2026-11-18T20:09:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →</summary>
+  </entry>
   <entry>
     <title>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
     <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</id>
@@ -756,53 +804,5 @@
     <updated>2026-11-19T19:37:22+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに ディズニーの長い待ち時間、スマホをただ眺めるだけじゃなくてAI駆動開発も進めたい、、！ 今回はそんな願いを叶えるClaude Codeの「/remote-control」とCodexのRemoteを紹介します。 どちらもPC上の開発作業をスマホから続けられます。...</summary>
-  </entry>
-  <entry>
-    <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた</title>
-    <id>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T17:28:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Claude Code、OpenAI Codex、OpenCode などの AI Coding Agent を使う機会が増えました。コードを読み、ファイルを編集し、テストを実行し、エラーを直す。複数のステップを自律的にこなしてくれます。 ただ、使っていると疑問が...</summary>
-  </entry>
-  <entry>
-    <title>【QA実務】サーバーログから不具合を切り分ける調査フロー</title>
-    <id>https://qiita.com/hayashi-himari/items/d03a99809fbed6aa6814?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/hayashi-himari/items/d03a99809fbed6aa6814?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T13:10:32+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 前回までで、DevToolsによるFE/BEの切り分けと、Request・Response・DBを使った切り分けについて書きました。 【QA実務】「これってFE？BE？」をDevToolsで切り分ける調査フロー 【QA実務】API不具合をRequest・Res...</summary>
-  </entry>
-  <entry>
-    <title>【朗報】Microsoft 365 CopilotがOneDriveのファイルを直接編集できるようになってた！CoworkなしでGitHub Copilotみたいに使える件</title>
-    <id>https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T12:56:02+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Microsoft 365 Copilotくん、いつの間にかめちゃくちゃ進化していました。 以前、Copilotのカスタム指示とOneDriveを組み合わせて、AIに自分専用の知識を蓄積させる仕組みを考えていました。 ただ、当時はファイルの保存先や既存ファイルの...</summary>
-  </entry>
-  <entry>
-    <title>「npm error ERESOLVE could not resolve」の解決方法</title>
-    <id>https://qiita.com/keikeigo/items/e5c62332a746b36d0733?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/keikeigo/items/e5c62332a746b36d0733?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T11:47:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに GitHub Actionsでnpm ciを実行時にエラーが発生しました。 問題 Run npm ci npm error code ERESOLVE npm error ERESOLVE could not resolve npm error npm...</summary>
-  </entry>
-  <entry>
-    <title>【自動修復AI】脆弱性を自動検知・修正する「CodeMender」とAIエージェント時代のセキュリティ基盤</title>
-    <id>https://qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T10:43:56+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに AI技術の進化により、開発スピードが向上する一方で、サイバーセキュリティの攻防における「スピードの概念」も根本から塗り替えられつつあります。 1.1. AI進化に伴う脆弱性の顕在化（PHPコア脆弱性の事例） 記憶に新しい例として、2026年10月末に公表...</summary>
-  </entry>
-  <entry>
-    <title>ソフトウェアは生き物である。</title>
-    <id>https://qiita.com/ruui/items/7f5692b58c295959ab48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ruui/items/7f5692b58c295959ab48?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T07:03:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>ソフトウェアは「自己生命体」である —— なぜ建築家の思想がXPを生んだのか 1. 僕たちはなぜXPをやるのか？ その意外な起源 私たちは毎日、当たり前のようにアジャイル開発やXP（エクストリーム・プログラミング）のプラクティスを実践しています。テストを書き、ペア...</summary>
   </entry>
 </feed>
