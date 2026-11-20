@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T12:30:12.797608+09:00</updated>
+  <updated>2026-11-20T13:00:13.858220+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>PHP「緊急」脆弱性、サービス一時停止の動き再び ウマ娘やグラブル、イープラスなど緊急メンテ</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/20/2000003357/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/20/2000003357/" />
+    <updated>2026-11-20T09:22:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PHP開発元は11月18日、4週間ごとの定例リリースとして、「緊急」脆弱性への対処を含むセキュリティリリースを予告。19日午後11時ごろから修正版を順次公開し、更新を呼び掛けた。 「緊急」の脆弱性はサポート中の全バージョンに影響するが、悪用するには「既定でない設定か一般的でない構成が必要」だ。 一方で10月の「P...</summary>
+  </entry>
+  <entry>
+    <title>Windowsに負けた「PC-98」、生みの親が見切りをつけた切実すぎる理由</title>
+    <id>https://kn.itmedia.co.jp/kn/article/2611/18/2000003276/</id>
+    <link href="https://kn.itmedia.co.jp/kn/article/2611/18/2000003276/" />
+    <updated>2026-11-18T20:25:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Windowsに負けた「PC-98」、生みの親が見切りをつけた切実すぎる理由 日本のPC市場を席巻した「PC-98」は、なぜ主役の座を降りたのか。WindowsやPC/AT互換機に押されたのは確かだが、実は生みの親自身もPC-98に見切りをつけていた。 かつて「国民機」と呼ばれ、日本のPC市場を席巻したNECの「PC-9800」シリーズ（通称、P...</summary>
+  </entry>
   <entry>
     <title>【やじうまミニレビュー】 Kindle専用のはずが……「Kindle Click」はiPhoneでも使えた</title>
     <id>https://pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html</id>
@@ -570,9 +586,9 @@
     <title>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title>
     <id>https://zenn.dev/kusuke/articles/98e178e6824cac</id>
     <link href="https://zenn.dev/kusuke/articles/98e178e6824cac" />
-    <updated>2026-11-19T11:22:17+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ 昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのB...</summary>
+    <updated>2026-11-19T10:34:24+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はng…</summary>
   </entry>
   <entry>
     <title>脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-19T11:49:45+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: 「国家の限界は予算ではなく供給能力 : Pythonで学ぶマクロ経済学入門 Podcast 49」 動画の全体概要と背景 本動画は、YouTubeチャンネル「Pyt...</summary>
-  </entry>
-  <entry>
-    <title>AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例も、寿命が怖い - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261119-479961/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261119-479961/" />
-    <updated>2026-11-19T11:48:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AMDグラボで報告された「SSD無限酷使」不具合、今度はNVIDIAグラボでも発生か。1日で約1テラバイト書き込まれた事例も、寿命が怖い NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生する不具合が相次いで報告されている。 NVIDIAのGPU向けドライバー「G...</summary>
-  </entry>
-  <entry>
-    <title>AIトークノミクスは観測から始めよう - AIコーディングのコスト・無駄・成果を測る</title>
-    <id>https://qiita.com/kobadain/items/7ff26c584cd9b83f7a5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kobadain/items/7ff26c584cd9b83f7a5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T10:40:19+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AIコーディングのコストを測っていても、成果を定量的に説明できる人は少ないのではないでしょうか。今回はAIコーディング環境のさまざまな情報を観測できるPreflightについて紹介します。 はじめに AIエージェントにいくら払い、どれだけの価値が本当に出たのか、この問いに...</summary>
   </entry>
 </feed>
