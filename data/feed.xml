@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T10:30:13.761524+09:00</updated>
+  <updated>2026-11-20T11:00:13.901372+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Checking for NGINX2Root and Java4Shell with Threats in Devin Security | Devin</title>
+    <id>https://devin.ai/blog/nginx2root-java4shell-threats</id>
+    <link href="https://devin.ai/blog/nginx2root-java4shell-threats" />
+    <updated>2026-11-20T09:26:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Helping customers scan for and patch the recently disclosed NGINX2Root and Java4Shell vulnerabilities with Threats in Devin Security.</summary>
+  </entry>
+  <entry>
+    <title>Ruby2Shell (GHSA-34m4-m9fh-gqp5)</title>
+    <id>https://verialabs.com/ruby2shell/</id>
+    <link href="https://verialabs.com/ruby2shell/" />
+    <updated>2026-11-19T16:31:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ruby2ßhell A one-byte heap overflow to remote code execution in Ruby's string case conversion. Reachable without authentication in the default configuration of common Ruby web frameworks and self-host…</summary>
+  </entry>
+  <entry>
+    <title>Web制作者は要チェック！ 新しいユニバーサルセレクタ、アプリのインストールを要求できるinstall要素など、Chrome 158で追加された6つのCSSとUIの新機能</title>
+    <id>https://coliss.com/articles/build-websites/operation/work/chrome-158-adds-6-new-css-feature.html</id>
+    <link href="https://coliss.com/articles/build-websites/operation/work/chrome-158-adds-6-new-css-feature.html" />
+    <updated>2026-11-19T10:05:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>昨日アップデートされたChrome 158に追加された、CSSとUIに関する新しい機能を紹介します。 今回のアップデートで注目は、新しいユニバーサルセレクタ「::highlight(*)」、Webアプリのインストールを要求できるinstall要素、開いているタブを別のデバイスに送信できる新機能など、Web制作者は要チェックです！ Chrome 15...</summary>
+  </entry>
   <entry>
     <title>湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」</title>
     <id>https://www.itmedia.co.jp/news/article/2611/20/2000003355/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-19T07:04:51+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>See the Pen 紫のうさぎ3Dモデル by John Doe (@04) on CodePen. 👆 ドラッグでぐるぐる回せます。 ブラウザだけで見られる.glbはこちら👇 TL;DR 紫のウサギキャラを、参考写真6枚＋ポーズ...</summary>
-  </entry>
-  <entry>
-    <title>【実験】Direct Connectの片系を落とすと、実際どれくらいで切り替わり、行きと戻りはどの回線を通るのか</title>
-    <id>https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T22:42:33+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. はじめに 先日、NW-JAWS DAYで「AWS Direct Connect Resiliency Workshop」に参加し、オンプレミス側のルーター2台とDirect Connect 2回線による冗長構成をハンズオンで構築してきました。 ワークショップの...</summary>
-  </entry>
-  <entry>
-    <title>Lodashへの別れ：標準JavaScriptでここまでできる置き換えチートシート</title>
-    <id>https://qiita.com/figueiredoluiz/items/c47f5f20a9f4118054f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/figueiredoluiz/items/c47f5f20a9f4118054f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T22:16:39+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>TL;DR Lodashのよく使う処理を、標準JavaScriptへ置き換える早見表とコード例をまとめました null・NaN・重複・順序・元データの変更を確認し、debounceや深い比較などは必要に応じて残します エージェントへ移行を依頼する場合は、後半のコピー用...</summary>
-  </entry>
-  <entry>
-    <title>Windows 11の「Snipping Toolが遅い・勝手な自動保存でSSDが埋まる」解決策と、Win+Shift+Sを0.1秒起動にするC# / Win32実装</title>
-    <id>https://qiita.com/poron2356/items/74a4c608c676d5e23546?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/poron2356/items/74a4c608c676d5e23546?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T17:28:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに：Windows 11の「Win + Shift + S」で毎日感じる2つのストレス 開発中のバグ報告やテストエビデンス、社内Slack・Teamsでの連絡、ChatGPT / Claude への画面共有など、Windowsで一番使うショートカットといえば Win...</summary>
   </entry>
 </feed>
