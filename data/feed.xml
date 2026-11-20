@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T18:30:17.507241+09:00</updated>
+  <updated>2026-11-20T19:00:14.982326+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</title>
+    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158241.html" />
+    <updated>2026-11-20T18:26:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「httpS://」だと暗号化されず平文で送信……「PHP」に約20年潜んでいた脆弱性が解決／問題はいたってシンプル、なんともはや……【やじうまの杜】</summary>
+  </entry>
+  <entry>
+    <title>セキュリティリスクを考慮した？ ソースネクストの「みんなの筆王」、サービス終了を発表【やじうまWatch】</title>
+    <id>https://internet.watch.impress.co.jp/docs/yajiuma/2158128.html</id>
+    <link href="https://internet.watch.impress.co.jp/docs/yajiuma/2158128.html" />
+    <updated>2026-11-20T15:56:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>セキュリティリスクを考慮した？ ソースネクストの「みんなの筆王」、サービス終了を発表【やじうまWatch】</summary>
+  </entry>
+  <entry>
+    <title>Mac版Geminiに「Computer use」 PC作業をAIが代行</title>
+    <id>https://www.watch.impress.co.jp/docs/news/2158164.html</id>
+    <link href="https://www.watch.impress.co.jp/docs/news/2158164.html" />
+    <updated>2026-11-20T15:21:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Mac版Geminiに「Computer use」 PC作業をAIが代行</summary>
+  </entry>
+  <entry>
+    <title>Appleの会話要約AI「Siri Recap」を2週間使った結果「自分が救急搬送された」という架空の記録が生成される</title>
+    <id>https://gigazine.net/news/20261120-siri-recap-hands-on/</id>
+    <link href="https://gigazine.net/news/20261120-siri-recap-hands-on/" />
+    <updated>2026-11-20T15:15:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>IT系ニュースサイトのThe VergeがApple Watchで周囲の会話を自動的に要約する新機能「Siri Recap」を2週間にわたって試した体験談を公開しました。 I let Apple’s always-listening AI summarize my life for two weeks | The Verge https://www.theverge.com/tech/103710…</summary>
+  </entry>
+  <entry>
+    <title>お財布のヒモが爆散！ A20 Pro搭載の新型「iPad mini」を買って分かった魅力と“惜しい点”</title>
+    <id>https://www.itmedia.co.jp/pcuser/articles/2611/20/news009.html</id>
+    <link href="https://www.itmedia.co.jp/pcuser/articles/2611/20/news009.html" />
+    <updated>2026-11-20T12:05:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>最近のiPad miniは、Appleにとって大事な製品ラインではないような印象を、ほんのりと受ける状況が続いていました。製品が更新されても刺激が少なく、ファンにとっては依然重要な製品ながら、存在感が薄かったと思います。 自分もミニタブレットは好きなものの、しばらく手を出していない状態でした。そして、先日「Gala...</summary>
+  </entry>
+  <entry>
+    <title>わが社はChatGPTでどう紹介されている？ OpenAIが企業向けの確認機能を提供開始</title>
+    <id>https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html</id>
+    <link href="https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html" />
+    <updated>2026-11-18T11:20:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>OpenAIは2026年11月10日（現地時間）、企業が「ChatGPT」に自社のプロフィールを登録し、認証を受けられる「Business Hub」と、自社のエージェントを公開してユーザーと直接対話できる「Business Agent」を、「Businesses in ChatGPT」のβ版として発表した。 OpenAIは、Businesses in ChatGPTを、毎週ChatGPTを利用する…</summary>
+  </entry>
   <entry>
     <title>PHPが再び重大脆弱性を修正へ 10月の“緊急対応”と今回は何が違うのか</title>
     <id>https://www.itmedia.co.jp/enterprise/articles/2611/19/news048.html</id>
@@ -756,53 +804,5 @@
     <updated>2026-11-19T07:03:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>ソフトウェアは「自己生命体」である —— なぜ建築家の思想がXPを生んだのか 1. 僕たちはなぜXPをやるのか？ その意外な起源 私たちは毎日、当たり前のようにアジャイル開発やXP（エクストリーム・プログラミング）のプラクティスを実践しています。テストを書き、ペア...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeに毎回同じ説明をしていませんか？仕様の手戻りを減らすCLAUDE.mdとタスク設計</title>
-    <id>https://qiita.com/yuonozawa/items/e1a69e11e7fe7da06c6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yuonozawa/items/e1a69e11e7fe7da06c6d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T20:37:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「Claude Codeに毎回同じ説明をしている」「コードは直ったのに、依頼した人から『これじゃない』と言われた」。AIを使った開発で、こんな手戻りはありませんか？ たとえば「登録を増やしたいから、LPを改善して」と頼むケース。ボタンの色や文言を変えることはできます。でも、...</summary>
-  </entry>
-  <entry>
-    <title>【Ignite 2026速報】Azure AI Search が Foundry IQ にリブランドし、2 種類のナレッジグラフ機能を搭載！ほか</title>
-    <id>https://qiita.com/nohanaga/items/21f3f3a1d2ecb14262b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/nohanaga/items/21f3f3a1d2ecb14262b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T08:56:16+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>Microsoft Ignite 2026 にて、Azure AI Search は正式に Foundry IQ に名称変更されました。今後は、Azure ポータル、Foundry ポータル、ドキュメント、および製品ページでは、名称は Foundry IQ (Azure A...</summary>
-  </entry>
-  <entry>
-    <title>サーバーソフト「nginx」に脆弱性、日本人ハッカーら発見 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC191DA0Z11C26A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC191DA0Z11C26A1000000/" />
-    <updated>2026-11-19T15:16:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>日本のサイトの約6割で使われているとされるサーバーソフト「nginx（エンジンエックス）」に重大な脆弱性があることが19日、わかった。日本のホワイトハッカーや米グーグル傘下企業などが発見した。開発元はサイバー攻撃のおそれがあるとして早期の対応を呼びかけている。エンジンエックスは、インターネット利用者の端...</summary>
-  </entry>
-  <entry>
-    <title>Agenship — Software FactoryであなたのチームにAIの開発ラインを</title>
-    <id>https://agenship.ai/</id>
-    <link href="https://agenship.ai/" />
-    <updated>2026-11-19T21:07:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Agenshipは、仕様の策定から実装・テスト・ Pull Requestの作成を、AIエージェントがクラウド上で 進めるSoftware Factoryです。 あなたの組織のAI活用は、今どの段階ですか？あなたの組織のAI活用は、 今どの段階ですか？コーディングエージェントによって、個人のソフトウェア開発は速くなりました。 組織の生産性を上...</summary>
-  </entry>
-  <entry>
-    <title>物流代行サービス「オープンロジ」への不正アクセスについてまとめてみた - piyolog</title>
-    <id>https://piyolog.hatenadiary.jp/entry/2026/11/19/183634</id>
-    <link href="https://piyolog.hatenadiary.jp/entry/2026/11/19/183634" />
-    <updated>2026-11-19T18:59:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月11日、物流代行サービスのオープンロジは同社のシステムが外部の第三者による不正アクセスを受け、保有する出荷データに含まれるお届け先の個人情報などが外部に持ち出されたと公表しました。その後、荷主や委託元の多数が自社の顧客や届け先への影響や影響の可能性を公表しています。ここでは関連する情報を...</summary>
-  </entry>
-  <entry>
-    <title>湘南美容クリニックのSBCグループに不正アクセス、約162万人の個人情報流出 パスワードは暗号化せず保存 | テクノエッジ TechnoEdge</title>
-    <id>https://www.techno-edge.net/article/2026/11/19/5773.html</id>
-    <link href="https://www.techno-edge.net/article/2026/11/19/5773.html" />
-    <updated>2026-11-19T16:30:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けてSBCメディカルグループ株式会社が保有していたデータベースがサイバー攻撃を受け、利用者の個人情報が不正に取得されたと発表しました。氏名、性別、電話番号、メールアドレス、パスワード、住所、生年月日、診察...</summary>
   </entry>
 </feed>
