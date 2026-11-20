@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T14:00:13.785819+09:00</updated>
+  <updated>2026-11-20T14:30:10.052071+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Decision ModelはFAQの回答の確認と問い合わせの振り分けに使えるか</title>
+    <id>https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check</id>
+    <link href="https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check" />
+    <updated>2026-11-20T12:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。 Gen-AX Researchエンジニアの箕輪です。 今回は、文章を生成せずに確率や選択肢だけを返す Decision Model を、FAQ の回答の確認と、問い合わせの振り分けに使えるかを検証した結果について紹介します。 本記事のサマリー 本記事の要点は以下の 4 つです。 回答にはっきりした欠陥があるかの見分けでは、Jev・Decisions API・Clef（27B）は、比較…</summary>
+  </entry>
+  <entry>
+    <title>JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2158081.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2158081.html" />
+    <updated>2026-11-20T11:45:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化</summary>
+  </entry>
+  <entry>
+    <title>Dockerfileでイメージを作成後、レイヤーとキャッシュの確認</title>
+    <id>https://zenn.dev/mutsu_zenn/articles/75498c3f4e693b</id>
+    <link href="https://zenn.dev/mutsu_zenn/articles/75498c3f4e693b" />
+    <updated>2026-11-20T07:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 今回はPythonのライブラリを使って、Dockerfileのレイヤーとキャッシュの動きを確認しました。 この記事は実際に打ったコマンドと出力をもとに、勉強したことを備忘録としてまとめました。 環境 Windows 11 WSL2（Ubuntu） Docker Desktop（Ubuntu側のターミナルから操作） 作業フォルダ：~/docker-practice/hello-py 最初の…</summary>
+  </entry>
+  <entry>
+    <title>GitHub - MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability</title>
+    <id>https://github.com/MSNightmare/FastUnlock</id>
+    <link href="https://github.com/MSNightmare/FastUnlock" />
+    <updated>2026-11-20T01:06:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability The vulnerability exist in the way how narrator handles UI in a locked account context, succesful exploitation results in bypassing b…</summary>
+  </entry>
+  <entry>
+    <title>MetaのMuseを使ってみた: 内部構造とセキュリティの調査</title>
+    <id>https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963</id>
+    <link href="https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963" />
+    <updated>2026-11-20T00:55:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Muse が発表されたときも、話は耳に入っていました。ただ、LLM 領域でパッとしない Meta のプロダクトだし、そこまで革命的なものではないだろうと思って、しばらく放っておきました。 ところが、日が経つにつれて、アメリカ・日本のアプリストアで 1 位になった報道や、X での多くの投稿を見るようになりました。これは何か革命的なことが起きているのかもしれない、と興味をそそられ、元々 Faceboo…</summary>
+  </entry>
+  <entry>
+    <title>「KARTE」不正アクセス、シャープ通販で最大約326万件流出のおそれ DHCは約1911万件漏えい</title>
+    <id>https://japan.cnet.com/article/35255160/</id>
+    <link href="https://japan.cnet.com/article/35255160/" />
+    <updated>2026-11-19T18:57:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>シャープは11月19日、公式通販サイト「COCORO STORE」の顧客情報が最大326万4445件流出した恐れがあると発表した。同社がマーケティングに使うプレイドのサービス「KARTE」が不正アクセスを受けた。前日の18日には、同じサービスを利用するディーエイチシー（DHC）も、氏名やメールアドレスなど約1911万件の顧客情報が漏...</summary>
+  </entry>
   <entry>
     <title>注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起 (更新)</title>
     <id>https://www.jpcert.or.jp/at/2026/at260033.html</id>
@@ -670,20 +718,20 @@
     <summary>昨日から今日にかけて、なんだかすごいことになっていますね。 先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はng…</summary>
   </entry>
   <entry>
-    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
-    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
-    <updated>2026-11-20T08:35:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな...</summary>
-  </entry>
-  <entry>
     <title>脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……</title>
     <id>https://www.itmedia.co.jp/news/article/2611/19/2000003338/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/19/2000003338/" />
     <updated>2026-11-19T18:23:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>11月18日に「緊急」の脆弱性が見つかり、政府も対策を呼び掛けているWebサーバソフト「nginx」。日本でも多くのWebサイトで使われており、脆弱性の影響は大きい。 そんな「nginx」だが、発音が難しい。素直に読むと「ンギンクス」だし、「エヌジンクス」「エヌジーアイエヌエックス」などと発音する人もいるようだが、正...</summary>
+  </entry>
+  <entry>
+    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
+    <updated>2026-11-19T16:28:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agen…</summary>
   </entry>
   <entry>
     <title>新機能、ElastiCache の distributed KV caching を GPU 2 台の vLLM で試す</title>
@@ -756,53 +804,5 @@
     <updated>2026-11-19T11:57:31+09:00</updated>
     <category term="はてブ IT" />
     <summary>日本のソフトバンクグループの孫正義会長。ロイター＝聯合ニュース（中央日報日本語版）「俺は何を成したのか。何も成し得ていないことがくやしくて、悲しくて」。 世界的なIT企業ソフトバンクグループを作った孫正義会長が3年ほど前に自身の人生を振り返りながら2週間にわたり号泣したと告白した。60代にさしかかり事業...</summary>
-  </entry>
-  <entry>
-    <title>NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title>
-    <id>https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html</id>
-    <link href="https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html" />
-    <updated>2026-11-19T15:49:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性...</summary>
-  </entry>
-  <entry>
-    <title>Googleが「Gemini 4 Neon」を発表、最先端の推論能力と高速・低コストな処理を両立しコーディング性能で世界トップに</title>
-    <id>https://gigazine.net/news/20261119-google-gemini-4-neon/</id>
-    <link href="https://gigazine.net/news/20261119-google-gemini-4-neon/" />
-    <updated>2026-11-19T11:23:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleが2026年11月18日、新たなAIモデル「Gemini 4 Neon」を発表しました。Gemini 4 Neonは最上位モデルのGemini 4 Carbonをベースに開発されたモデルで、高度なコーディングやデータ分析、科学研究、企業の業務自動化などにおいて、最先端のAIモデルに匹敵する性能と高速かつ低コストな処理を両立しています。 Introdu...</summary>
-  </entry>
-  <entry>
-    <title>Apple、自然言語で指示するだけで画像を変更できる塗りつぶしを生成機能を実装した「Pielmator Pro v5.0 for Mac/iPad」を公開。AIプロバイダはGoogleを採用。</title>
-    <id>https://applech2.com/archives/20261119-pixelmator-pro-v5-generate-fill.html</id>
-    <link href="https://applech2.com/archives/20261119-pixelmator-pro-v5-generate-fill.html" />
-    <updated>2026-11-19T15:26:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Appleが自然言語で指示するだけで画像のあらゆる部分を変更できる塗りつぶしを生成機能を実装した「Pielmator Pro v5.0 for Mac/iPad」を公開しています。詳細は以下から。 Appleは現地時間2026年11月18日、2025年にリトアニアのPixelmator Teamを買収し、Apple Creator Studioに追加している写真編集アプリ「Pixelmator..…</summary>
-  </entry>
-  <entry>
-    <title>iPhone/iPad向け旧「DMM動画プレイヤー」11月25日で動作停止</title>
-    <id>https://av.watch.impress.co.jp/docs/news/2157782.html</id>
-    <link href="https://av.watch.impress.co.jp/docs/news/2157782.html" />
-    <updated>2026-11-19T12:34:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>iPhone/iPad向け旧「DMM動画プレイヤー」11月25日で動作停止</summary>
-  </entry>
-  <entry>
-    <title>"技術勉強会"をやめる前に、世界観をつくろう - じゃあ、おうちで学べる</title>
-    <id>https://syu-m-5151.hatenablog.com/entry/2026/11/18/113034</id>
-    <link href="https://syu-m-5151.hatenablog.com/entry/2026/11/18/113034" />
-    <updated>2026-11-18T13:30:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>kotowazamanさんのQiitaの記事を読みました。 qiita.com 調べれば分かる一般的な知識を、誰かがまとめて発表するだけの社内勉強会は、AIに聞けば済む時代にはやめてしまおう。そういう主張の記事です。書かれている内容には、一部賛成です。冒頭の会議室では、発表を聞く9人が手元のSlackで返信し、質疑に入って5秒ほど...</summary>
-  </entry>
-  <entry>
-    <title>aws s3 互換の高速なコマンド aws3 を作りました - プログラムモグモグ</title>
-    <id>https://itchyny.hatenablog.com/entry/2026/11/19/090000</id>
-    <link href="https://itchyny.hatenablog.com/entry/2026/11/19/090000" />
-    <updated>2026-11-19T10:11:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>aws3という、aws s3と互換性のあるコマンドをRustで作りました。 aws s3をaws3に置き換えるだけで、今までのスクリプトがそのまま動きます。 静的なバイナリでDockerイメージに組み込みやすく、起動も転送も速い、というのが特徴です。 github.com なぜ作ったのか S3互換のオブジェクトストレージを操作するのにAWS CLI...</summary>
   </entry>
 </feed>

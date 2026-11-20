@@ -1,5 +1,107 @@
 [
   {
+    "title": "Decision ModelはFAQの回答の確認と問い合わせの振り分けに使えるか",
+    "url": "https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check",
+    "domain": "zenn.dev",
+    "description": "こんにちは。 Gen-AX Researchエンジニアの箕輪です。 今回は、文章を生成せずに確率や選択肢だけを返す Decision Model を、FAQ の回答の確認と、問い合わせの振り分けに使えるかを検証した結果について紹介します。 本記事のサマリー 本記事の要点は以下の 4 つです。 回答にはっきりした欠陥があるかの見分けでは、Jev・Decisions API・Clef（27B）は、比較…",
+    "publishedAt": "2026-11-20T12:00:05+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/genax_corp/articles/20261109-judge-models-faq-check",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化",
+    "url": "https://pc.watch.impress.co.jp/docs/news/2158081.html",
+    "domain": "pc.watch.impress.co.jp",
+    "description": "JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化",
+    "publishedAt": "2026-11-20T11:45:47+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2158081.html",
+    "bookmarkCount": 5
+  },
+  {
+    "title": "Dockerfileでイメージを作成後、レイヤーとキャッシュの確認",
+    "url": "https://zenn.dev/mutsu_zenn/articles/75498c3f4e693b",
+    "domain": "zenn.dev",
+    "description": "はじめに 今回はPythonのライブラリを使って、Dockerfileのレイヤーとキャッシュの動きを確認しました。 この記事は実際に打ったコマンドと出力をもとに、勉強したことを備忘録としてまとめました。 環境 Windows 11 WSL2（Ubuntu） Docker Desktop（Ubuntu側のターミナルから操作） 作業フォルダ：~/docker-practice/hello-py 最初の…",
+    "publishedAt": "2026-11-20T07:00:05+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mutsu_zenn/articles/75498c3f4e693b",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "GitHub - MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability",
+    "url": "https://github.com/MSNightmare/FastUnlock",
+    "domain": "github.com",
+    "description": "FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability The vulnerability exist in the way how narrator handles UI in a locked account context, succesful exploitation results in bypassing b…",
+    "publishedAt": "2026-11-20T01:06:23+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/github.com/MSNightmare/FastUnlock",
+    "bookmarkCount": 4
+  },
+  {
+    "title": "MetaのMuseを使ってみた: 内部構造とセキュリティの調査",
+    "url": "https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
+    "domain": "zenn.dev",
+    "description": "Muse が発表されたときも、話は耳に入っていました。ただ、LLM 領域でパッとしない Meta のプロダクトだし、そこまで革命的なものではないだろうと思って、しばらく放っておきました。 ところが、日が経つにつれて、アメリカ・日本のアプリストアで 1 位になった報道や、X での多くの投稿を見るようになりました。これは何か革命的なことが起きているのかもしれない、と興味をそそられ、元々 Faceboo…",
+    "publishedAt": "2026-11-20T00:55:36+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/shoyataguchi/articles/b1bc6a96d4b963",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "「KARTE」不正アクセス、シャープ通販で最大約326万件流出のおそれ DHCは約1911万件漏えい",
+    "url": "https://japan.cnet.com/article/35255160/",
+    "domain": "japan.cnet.com",
+    "description": "シャープは11月19日、公式通販サイト「COCORO STORE」の顧客情報が最大326万4445件流出した恐れがあると発表した。同社がマーケティングに使うプレイドのサービス「KARTE」が不正アクセスを受けた。前日の18日には、同じサービスを利用するディーエイチシー（DHC）も、氏名やメールアドレスなど約1911万件の顧客情報が漏...",
+    "publishedAt": "2026-11-19T18:57:26+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35255160/",
+    "bookmarkCount": 5
+  },
+  {
     "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起 (更新)",
     "url": "https://www.jpcert.or.jp/at/2026/at260033.html",
     "domain": "www.jpcert.or.jp",
@@ -26,9 +128,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T14:00:13.785819+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/type.jp/et/feature/32219/",
-    "bookmarkCount": 4
+    "bookmarkCount": 5
   },
   {
     "title": "生成AIの普及によるWebサイトのトラフィック激減と当社での対策 | 社長ブログ | 才流",
@@ -43,9 +145,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T14:00:13.785819+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/sairu.co.jp/blog/110567/",
-    "bookmarkCount": 4
+    "bookmarkCount": 5
   },
   {
     "title": "“積みCD民”に救世主！アイオー「CDレコプレーヤー」で録音、スマホへコピー、CD-Rバックアップを試す[Sponsored]",
@@ -60,9 +162,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T14:00:13.785819+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/av.watch.impress.co.jp/docs/topic/special/2150156.html",
-    "bookmarkCount": 5
+    "bookmarkCount": 10
   },
   {
     "title": "Windows PCを複数台接続して1個のAI処理クラスターとして扱う機能「RDMA over USB4」をMicrosoftが発表、USBケーブルのみで接続可能で専用機材不要",
@@ -77,9 +179,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T13:30:13.840116+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261120-rdma-over-usb4-windows/",
-    "bookmarkCount": 12
+    "bookmarkCount": 15
   },
   {
     "title": "CLAUDE.md や SKILL.md のルールを Turtle で書き、ルールの書き間違いや矛盾を lint で検査してみた話",
@@ -94,7 +196,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T13:30:13.840116+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hma2moto/articles/turtle-agent-rules-pros-cons",
     "bookmarkCount": 0
   },
@@ -128,9 +230,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T13:30:13.840116+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/joho-todai.com/impossible-os-new-operating-system-linux-windows/",
-    "bookmarkCount": 8
+    "bookmarkCount": 9
   },
   {
     "title": "Protobufチームは Implicit Presence を作ったことを後悔しているらしい",
@@ -179,9 +281,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T13:00:13.858220+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/20/2000003357/",
-    "bookmarkCount": 4
+    "bookmarkCount": 5
   },
   {
     "title": "Windowsに負けた「PC-98」、生みの親が見切りをつけた切実すぎる理由",
@@ -196,7 +298,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T13:00:13.858220+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kn.itmedia.co.jp/kn/article/2611/18/2000003276/",
     "bookmarkCount": 5
   },
@@ -213,9 +315,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T12:00:18.684752+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2157685.html",
-    "bookmarkCount": 15
+    "bookmarkCount": 16
   },
   {
     "title": "Introducing the new AWS WAF security analytics dashboard | Amazon Web Services",
@@ -230,7 +332,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T11:30:12.936235+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/aws.amazon.com/blogs/security/introducing-the-new-aws-waf-security-analytics-dashboard/",
     "bookmarkCount": 11
   },
@@ -247,9 +349,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T11:30:12.936235+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/aiplus/article/2611/20/2000003353/",
-    "bookmarkCount": 21
+    "bookmarkCount": 25
   },
   {
     "title": "Checking for NGINX2Root and Java4Shell with Threats in Devin Security | Devin",
@@ -298,7 +400,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T11:00:13.901372+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/coliss.com/articles/build-websites/operation/work/chrome-158-adds-6-new-css-feature.html",
     "bookmarkCount": 11
   },
@@ -315,9 +417,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T10:30:13.761524+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/20/2000003355/",
-    "bookmarkCount": 101
+    "bookmarkCount": 111
   },
   {
     "title": "phpAfterShell: From Interrupted Session Writes to Remote Code Execution | depthfirst",
@@ -334,7 +436,7 @@
     "firstSeenAt": "2026-11-20T10:30:13.761524+09:00",
     "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/depthfirst.com/research/phpaftershell",
-    "bookmarkCount": 8
+    "bookmarkCount": 9
   },
   {
     "title": "[FT]仕事全てAIに見せる？ 高すぎる透明性には抵抗も - 日本経済新聞",
@@ -366,9 +468,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T10:30:13.761524+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261119-speech-cpp/",
-    "bookmarkCount": 20
+    "bookmarkCount": 22
   },
   {
     "title": "「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 予定を前倒し",
@@ -383,9 +485,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T10:30:13.761524+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/19/2000003344/",
-    "bookmarkCount": 22
+    "bookmarkCount": 23
   },
   {
     "title": "プログラム言語「PHP」に新たな脆弱性 サービス停止の恐れ - 日本経済新聞",
@@ -417,9 +519,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T09:30:11.394046+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/mryo0826/items/c05efd7ac228fe85ab44",
-    "bookmarkCount": 48
+    "bookmarkCount": 52
   },
   {
     "title": "Introducing Amazon OpenSearch Memory: Persistent memory for AI agents | Amazon Web Services",
@@ -451,7 +553,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T09:30:11.394046+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/togetter.com/li/2772052",
     "bookmarkCount": 26
   },
@@ -468,9 +570,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T08:53:58.010793+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2158043.html",
-    "bookmarkCount": 120
+    "bookmarkCount": 130
   },
   {
     "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
@@ -485,9 +587,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T08:53:58.010793+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
-    "bookmarkCount": 66
+    "bookmarkCount": 69
   },
   {
     "title": "AIの返答が理解しづらいので、自分の認知特性をAIに分析させてSkillにした - $shibayu36->blog;",
@@ -502,9 +604,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T08:53:58.010793+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.shibayu36.org/entry/2026/11/17/120000",
-    "bookmarkCount": 168
+    "bookmarkCount": 185
   },
   {
     "title": "AIに悩みを相談する際に気をつけて欲しいこと｜SSC",
@@ -519,9 +621,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T08:30:12.767058+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.assdr.kyoto-u.ac.jp/ssc/consulting_ai/",
-    "bookmarkCount": 351
+    "bookmarkCount": 375
   },
   {
     "title": "[石野純也の「スマホとお金」] 最小構成9万4600円の「AQUOS sense11」、メモリー増量や薄型化でミッドハイを狙うシャープの戦略",
@@ -536,7 +638,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T08:30:12.767058+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/k-tai.watch.impress.co.jp/docs/column/value/2157646.html",
     "bookmarkCount": 27
   },
@@ -570,9 +672,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T08:00:14.058986+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2157865.html",
-    "bookmarkCount": 46
+    "bookmarkCount": 47
   },
   {
     "title": "ドコモ「dアカウント」、免許証などを撮影する本人確認終了 27年2月末に",
@@ -604,9 +706,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T07:00:20.156117+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/11/20/003148",
-    "bookmarkCount": 103
+    "bookmarkCount": 106
   },
   {
     "title": "Genie 4 is now available",
@@ -621,9 +723,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T07:00:20.156117+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
-    "bookmarkCount": 38
+    "bookmarkCount": 40
   },
   {
     "title": "AIが爆速で開発する時代の、自動テストとの向き合い方",
@@ -638,7 +740,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T07:00:20.156117+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/daiaoki/articles/webterm-ai-era-testing",
     "bookmarkCount": 1
   },
@@ -655,7 +757,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T07:00:20.156117+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/satoshi_yoneda/articles/decision-1-anti-spam",
     "bookmarkCount": 0
   },
@@ -723,7 +825,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/kikuziro/items/939887bcd8fbb3a78ba0?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -740,7 +842,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/mryo0826/items/c05efd7ac228fe85ab44?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -757,7 +859,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/N-Kyo/items/80ac96fd59b08b1a879a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -774,7 +876,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/inoyu-qiita/items/f7cdc72b8673a7d94fa5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -791,7 +893,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -808,7 +910,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/hayashi-himari/items/d03a99809fbed6aa6814?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -825,7 +927,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/yuyanz/items/c3bb4801c105d96fa79d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -842,7 +944,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/keikeigo/items/e5c62332a746b36d0733?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -859,7 +961,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/tomokoro/items/64a762de9e5bdf3e8f00?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -876,7 +978,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/ruui/items/7f5692b58c295959ab48?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -893,7 +995,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/yuonozawa/items/e1a69e11e7fe7da06c6d?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -910,7 +1012,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-20T05:30:13.175000+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/nohanaga/items/21f3f3a1d2ecb14262b6?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1097,9 +1199,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-20T00:30:12.692782+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/452/4452982/",
-    "bookmarkCount": 555
+    "bookmarkCount": 561
   },
   {
     "title": "ネットに繋がらない携帯「INFOBAR ZERO」は一体誰向けなのか",
@@ -1116,7 +1218,7 @@
     "firstSeenAt": "2026-11-20T00:30:12.692782+09:00",
     "lastSeenAt": "2026-11-20T08:30:12.767058+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35255140/",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始",
@@ -1320,7 +1422,7 @@
     "firstSeenAt": "2026-11-19T22:30:14.183469+09:00",
     "lastSeenAt": "2026-11-20T06:30:13.379445+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261119-openai-jalapeno-amd-advancing-chip/",
-    "bookmarkCount": 15
+    "bookmarkCount": 16
   },
   {
     "title": "ゲームのように移動可能な世界を生成できるAI「Genie 4」をGoogleが正式リリース、参照画像を入力したり途中で環境を変更したりできる",
@@ -1403,26 +1505,9 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T21:30:21.366632+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kusuke/articles/98e178e6824cac",
-    "bookmarkCount": 177
-  },
-  {
-    "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-    "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-    "domain": "zenn.dev",
-    "description": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな...",
-    "publishedAt": "2026-11-20T08:35:14+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-19T21:00:15.605239+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/9562962cc181a1",
-    "bookmarkCount": 21
+    "bookmarkCount": 179
   },
   {
     "title": "脆弱性で話題「nginx」なんて読む？ 「ンギンクス」ではなく……",
@@ -1440,6 +1525,23 @@
     "lastSeenAt": "2026-11-20T09:30:11.394046+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/19/2000003338/",
     "bookmarkCount": 44
+  },
+  {
+    "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
+    "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
+    "domain": "zenn.dev",
+    "description": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agen…",
+    "publishedAt": "2026-11-19T16:28:27+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-19T21:00:15.605239+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/9562962cc181a1",
+    "bookmarkCount": 35
   },
   {
     "title": "新機能、ElastiCache の distributed KV caching を GPU 2 台の vLLM で試す",
@@ -1828,7 +1930,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/nguyen_thi_thu_trang/items/b9fce43d578e86d2cadf?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1845,7 +1947,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/maskot1977/items/fbdba21ff082ea354571?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1862,7 +1964,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/maskot1977/items/318d2eb1cf1ce1e51cbe?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1896,7 +1998,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/kobadain/items/7ff26c584cd9b83f7a5a?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1913,7 +2015,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/Dingu-suke/items/7d474c38cd597869049e?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1930,7 +2032,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/yamad365/items/573a361f3680522808b8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1947,7 +2049,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/yangon/items/82ccc38c04c3ea1e8d3b?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1964,7 +2066,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/sh_fukatsu/items/5a069f9fce99a86efb05?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1981,7 +2083,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/figueiredoluiz/items/c47f5f20a9f4118054f1?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -1998,7 +2100,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T17:30:15.929756+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/poron2356/items/74a4c608c676d5e23546?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -2153,7 +2255,7 @@
     "firstSeenAt": "2026-11-19T16:00:14.737739+09:00",
     "lastSeenAt": "2026-11-19T17:30:15.929756+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/knwoop/cndw2026-zero-touch-deploy",
-    "bookmarkCount": 17
+    "bookmarkCount": 18
   },
   {
     "title": "マスク氏、ゼレンスキー氏を批判「うそをついている」 スターリンクめぐり",
@@ -2202,7 +2304,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T15:00:16.429361+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/karamage/books/50c18e52e7d19e",
     "bookmarkCount": 44
   },
@@ -2253,7 +2355,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T15:00:16.429361+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/praha/articles/08568310684aa3",
     "bookmarkCount": 2
   },
@@ -2445,40 +2547,6 @@
     "bookmarkCount": 10
   },
   {
-    "title": "宇宙空間でのたった1回の核爆発で低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性",
-    "url": "https://gigazine.net/news/20261119-nuclear-blast-cripple-satellite/",
-    "domain": "gigazine.net",
-    "description": "通信や気象観測、安全保障などに利用されている人工衛星のうち、1万3000基以上が地球の低軌道を周回しています。ウィスコンシン大学マディソン校やプリンストン大学の研究チームが、宇宙空間で核爆発が発生すると低軌道を周回する人工衛星のほぼすべてが機能停止に陥る可能性を示す論文を未査読論文リポジトリのarXivで...",
-    "publishedAt": "2026-11-19T12:33:10+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-19T13:00:13.091498+09:00",
-    "lastSeenAt": "2026-11-20T00:30:12.692782+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261119-nuclear-blast-cripple-satellite/",
-    "bookmarkCount": 61
-  },
-  {
-    "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "domain": "xusheng.dev",
-    "description": "Reverse engineering Windows 11's MissionControlAggregator reveals coding-agent and developer-tool usage bits in a diagnostic ETW report. I recently asked AI to help me look through the latest Windows…",
-    "publishedAt": "2026-11-18T20:35:52+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-19T13:00:13.091498+09:00",
-    "lastSeenAt": "2026-11-19T13:00:13.091498+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/xusheng.dev/posts/windows-coding-agent-telemetry/",
-    "bookmarkCount": 7
-  },
-  {
     "title": "vue-tscの壁を越える：vizeとtsrsでVueの型検査を高速化した",
     "url": "https://zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
     "domain": "zenn.dev",
@@ -2491,7 +2559,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T09:00:15.449143+09:00",
-    "lastSeenAt": "2026-11-20T06:30:13.379445+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/studio/articles/vue-typecheck-vize-tsrs",
     "bookmarkCount": 9
   },
@@ -2559,7 +2627,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-19T05:30:14.619239+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -2644,7 +2712,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T22:00:21.481351+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/port_inc/articles/ff974c7456f4db",
     "bookmarkCount": 55
   },
@@ -2661,7 +2729,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T21:30:13.970006+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hiromoo/articles/reading-less-preparing-more",
     "bookmarkCount": 92
   },
@@ -2729,7 +2797,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T19:00:15.566732+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/dress_code/articles/6c179ae5129131",
     "bookmarkCount": 30
   },
@@ -2780,7 +2848,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T17:30:13.699234+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/Syoitu/items/5bb47c01a8513e52d1b5?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -2865,7 +2933,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T17:30:13.699234+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/KYoshiyama/items/623e13ced9c119b614aa?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -3103,7 +3171,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T15:30:09.880442+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/omu_tryangle/articles/b5817393592229",
     "bookmarkCount": 24
   },
@@ -3538,7 +3606,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T08:00:16.937042+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop",
     "bookmarkCount": 20
   },
@@ -3659,7 +3727,7 @@
     "firstSeenAt": "2026-11-18T07:00:14.725309+09:00",
     "lastSeenAt": "2026-11-20T00:30:12.692782+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
-    "bookmarkCount": 103
+    "bookmarkCount": 104
   },
   {
     "title": "AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた",
@@ -3674,7 +3742,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T05:30:14.166900+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 1
   },
@@ -3691,7 +3759,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T05:30:14.166900+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/kikuziro/items/cd1389f6a1601494895f?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -3776,7 +3844,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-18T05:30:14.166900+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/Un_titled/items/b566535aa04d982bb9c8?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -3844,7 +3912,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-17T19:30:13.720774+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/mutation-test-quality",
     "bookmarkCount": 389
   },
@@ -3861,7 +3929,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-17T19:30:13.720774+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
     "bookmarkCount": 124
   },
@@ -3963,7 +4031,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-17T17:30:08.573298+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/human_hub_T/items/439bda5ea9234b7d9013?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 0
   },
@@ -3997,7 +4065,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-17T17:30:08.573298+09:00",
-    "lastSeenAt": "2026-11-20T12:00:18.684752+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&utm_medium=feed&utm_source=popular_items",
     "bookmarkCount": 1
   },
@@ -4269,7 +4337,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-17T08:30:15.472584+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/gatechnologies/articles/8bdea59269eb10",
     "bookmarkCount": 91
   },
@@ -4456,7 +4524,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-16T19:30:15.272769+09:00",
-    "lastSeenAt": "2026-11-20T13:30:13.840116+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/polyco/articles/e05cb28c569801",
     "bookmarkCount": 4
   },
@@ -5651,57 +5719,6 @@
     "bookmarkCount": 0
   },
   {
-    "title": "Tauri の MSI インストーラーが更新のたびに削除済みデスクトップショートカットを復活させる問題を直した話",
-    "url": "https://zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
-    "domain": "zenn.dev",
-    "description": "はじめに Tauri の MSI インストーラーには、「ユーザーがデスクトップショートカットを削除しても、アプリを更新するたびに復活する」という問題がありました。NSIS 版のインストーラーでは起きない、MSI 版だけの挙動です。 この問題を tauri-bundler 側で修正し、Pull Request が 2026 年 11 月 12 日に dev ブランチへマージされました。この記事では、…",
-    "publishedAt": "2026-11-12T18:34:34+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-13T08:00:15.663794+09:00",
-    "lastSeenAt": "2026-11-13T18:30:14.075150+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/takahiro_nago/articles/article-tauri-msi-desktop-shortcut",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "AWS EmulatorはAWS Blocksのモックを置き換えるのか？実際に動かして見えた「三つ目の層」",
-    "url": "https://zenn.dev/genda_jp/articles/18d1f780f6b41f",
-    "domain": "zenn.dev",
-    "description": "2026年11月11日（米国時間）、AWSが AWS Emulator をリリースしました。AWS SDKやAWS CLIの呼び出しを、クラウドではなく手元のエミュレーターが受けて、AWSと同じ形の応答を返すツールです。 https://github.com/aws/aws-emulator ニュースを見て、真っ先に頭に浮かんだのはこれでした。 「AWS Blocksのモックって、もういらなくなる…",
-    "publishedAt": "2026-11-12T14:20:41+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-13T08:00:15.663794+09:00",
-    "lastSeenAt": "2026-11-15T05:30:13.062495+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/genda_jp/articles/18d1f780f6b41f",
-    "bookmarkCount": 4
-  },
-  {
-    "title": "週刊Cloudflare - 2026/11/08週",
-    "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
-    "domain": "zenn.dev",
-    "description": "こんにちは、あさひです 🙋‍♂️ 今週の Cloudflare のアップデートをまとめていきます！ この記事の主旨 この記事では、前週に Cloudflare のサービスにどんな変更があったかをざっくりと理解してもらい、サービスに興味を持ってもらうことを目的としています。そのため、変更点を網羅することを優先します。 2026/11/01 ~ 2026/11/07 の変更 Wrangler 4.15…",
-    "publishedAt": "2026-11-12T13:54:55+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-13T08:00:15.663794+09:00",
-    "lastSeenAt": "2026-11-13T18:30:14.075150+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/gemcook/articles/weekly-cloudflare_2026_1101-1107",
-    "bookmarkCount": 0
-  },
-  {
     "title": "テストフレームワーク「Playwright」がBunを正式サポート。テストランナーの実行を可能に",
     "url": "https://www.publickey1.jp/blog/26/playwrightbun.html",
     "domain": "www.publickey1.jp",
@@ -6125,7 +6142,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T08:30:13.779195+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/999",
     "bookmarkCount": 0
   },
@@ -6139,7 +6156,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T08:00:16.218578+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/995-998",
     "bookmarkCount": 0
   },
@@ -6153,7 +6170,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T07:30:13.945563+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/991-994",
     "bookmarkCount": 0
   },
@@ -6167,7 +6184,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T07:30:13.945563+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/989-990",
     "bookmarkCount": 0
   },
@@ -6181,7 +6198,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T04:30:13.427341+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/988",
     "bookmarkCount": 0
   },
@@ -6195,7 +6212,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T04:00:15.785459+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/986-987",
     "bookmarkCount": 0
   },
@@ -6209,7 +6226,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T03:00:14.096594+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/983-985",
     "bookmarkCount": 0
   },
@@ -6223,7 +6240,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T02:30:14.670066+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/981-982",
     "bookmarkCount": 0
   },
@@ -6237,7 +6254,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T01:30:14.875392+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/978-980",
     "bookmarkCount": 0
   },
@@ -6251,7 +6268,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T01:00:15.075372+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/967-977",
     "bookmarkCount": 0
   },
@@ -6265,7 +6282,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T00:30:13.882146+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/954-966",
     "bookmarkCount": 0
   },
@@ -6279,7 +6296,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-07T00:30:13.882146+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/945-953",
     "bookmarkCount": 0
   },
@@ -6293,7 +6310,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T23:30:23.031220+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/937-944",
     "bookmarkCount": 0
   },
@@ -6307,7 +6324,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T23:30:23.031220+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/932-936",
     "bookmarkCount": 0
   },
@@ -6321,7 +6338,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T22:30:14.215384+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/925-931",
     "bookmarkCount": 0
   },
@@ -6335,7 +6352,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T22:00:14.648716+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/913-924",
     "bookmarkCount": 0
   },
@@ -6349,7 +6366,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T21:30:15.163281+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/905-912",
     "bookmarkCount": 0
   },
@@ -6363,7 +6380,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T21:00:15.169919+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/899-904",
     "bookmarkCount": 0
   },
@@ -6377,7 +6394,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T20:30:14.595275+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/897-898",
     "bookmarkCount": 0
   },
@@ -6391,7 +6408,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T20:00:15.577248+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/887-896",
     "bookmarkCount": 0
   },
@@ -6405,7 +6422,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T19:30:14.638720+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/874-886",
     "bookmarkCount": 0
   },
@@ -6419,7 +6436,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T19:00:14.982483+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/861-873",
     "bookmarkCount": 0
   },
@@ -6433,7 +6450,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T18:30:14.122221+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/842-860",
     "bookmarkCount": 0
   },
@@ -6447,7 +6464,7 @@
     "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
     "tags": [],
     "firstSeenAt": "2026-11-06T18:00:16.511491+09:00",
-    "lastSeenAt": "2026-11-20T14:00:13.785819+09:00",
+    "lastSeenAt": "2026-11-20T14:30:10.052071+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/830-841",
     "bookmarkCount": 0
   },
@@ -6547,34 +6564,6 @@
     "firstSeenAt": "2026-11-06T14:30:13.782676+09:00",
     "lastSeenAt": "2026-11-07T02:30:14.670066+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/777-778",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "13:30-14:00 775-776 (2件)",
-    "url": "https://medaka.5ch.io/test/read.cgi/wres/1793755347/775-776",
-    "domain": "medaka.5ch.io",
-    "description": "▶775 じゃあタナジャムでTV王座落としてもらって。たかがTVされどTV。ドーム第0でオープンチャレンジ組める。 ▶776 >>772 これでボルチンウルフのネバーだと思ってる",
-    "publishedAt": "2026-11-06T13:47:15+09:00",
-    "source": "新日",
-    "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
-    "tags": [],
-    "firstSeenAt": "2026-11-06T14:00:14.659021+09:00",
-    "lastSeenAt": "2026-11-07T02:00:12.382046+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/775-776",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "13:00-13:30 769-774 (6件)",
-    "url": "https://medaka.5ch.io/test/read.cgi/wres/1793755347/769-774",
-    "domain": "medaka.5ch.io",
-    "description": "▶769 ズモがROH上がってるのなんてちょっと調べりゃわかるのにね フィンレー達のイベントにも出てたし それよりも「どうせ転移が～」とか書ける神経が理解できない よくそんな事書けるなぁいい大人がさ ▶770 ついに親方の格上げくる… ▶771 ドームでシングル決まってる選手がいるとこが優勝することないからなぁ ▶772 >>771 毘沙門はKOBと一回タッグ戦やってるから新鮮味が薄い オーカーン…",
-    "publishedAt": "2026-11-06T13:24:57+09:00",
-    "source": "新日",
-    "sourceId": "5ch-rss-kk-ataka-workers-dev-feed-xml",
-    "tags": [],
-    "firstSeenAt": "2026-11-06T14:00:14.659021+09:00",
-    "lastSeenAt": "2026-11-07T01:00:15.075372+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/medaka.5ch.io/test/read.cgi/wres/1793755347/769-774",
     "bookmarkCount": 0
   }
 ]
