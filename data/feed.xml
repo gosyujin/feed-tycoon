@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T10:00:11.320473+09:00</updated>
+  <updated>2026-11-20T10:30:13.761524+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>湘南美容クリニックのSBC、162万人分の個人情報流出 パスワードは「暗号化せず保存していた」</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/20/2000003355/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/20/2000003355/" />
+    <updated>2026-11-20T08:45:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>湘南美容クリニックなどを展開するSBCメディカルグループは11月19日、グループの医療機関から委託を受けて保有するデータベースが不正アクセスを受け、氏名や住所、パスワードなどを含む顧客の個人情報162万4000人分などが不正に取得されたと発表した。流出したパスワードは「暗号化せずに保存していた」という。 外部の...</summary>
+  </entry>
+  <entry>
+    <title>phpAfterShell: From Interrupted Session Writes to Remote Code Execution | depthfirst</title>
+    <id>https://depthfirst.com/research/phpaftershell</id>
+    <link href="https://depthfirst.com/research/phpaftershell" />
+    <updated>2026-11-20T08:08:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>phpAfterShell: From Interrupted Session Writes to Remote Code Execution TL;DR: PHP can update a file-backed session while parsing an unauthenticated multipart request, even before the target script be…</summary>
+  </entry>
+  <entry>
+    <title>[FT]仕事全てAIに見せる？ 高すぎる透明性には抵抗も - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOCB18A670Y6A111C2000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOCB18A670Y6A111C2000000/" />
+    <updated>2026-11-20T02:13:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>新たな機械の時代を迎えたというのに、相変わらず極めて多くの会議が必要らしいというのは皮肉な話の一つだ。人工知能（AI）開発の米企業アンソロピックの社内では当然ながらAIの導入がかなり進んでいるが、社員が会議に費やす時間の中央値が1年前に比べて20%増加している。人間同士がやり取りをする必要性がAIにより薄...</summary>
+  </entry>
+  <entry>
+    <title>録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能</title>
+    <id>https://gigazine.net/news/20261119-speech-cpp/</id>
+    <link href="https://gigazine.net/news/20261119-speech-cpp/" />
+    <updated>2026-11-19T23:07:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。 nyosegawa/speech.cpp: Speech synthesis, speech recognition and…</summary>
+  </entry>
+  <entry>
+    <title>「焼肉きんぐ」「ゆず庵」など11アプリ、会員の氏名・電話番号の項目を廃止 予定を前倒し</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/19/2000003344/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/19/2000003344/" />
+    <updated>2026-11-19T20:45:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「焼肉きんぐ」「ゆず庵」「丸源ラーメン」などを運営する物語コーポレーション（愛知県豊橋市）が、グループの公式アプリ計11本すべてで、会員の氏名と電話番号の項目を廃止していたことが、ITmedia NEWSの取材で分かった。利用者の予約や来店時の手続きは、これまでと変わらないという。</summary>
+  </entry>
   <entry>
     <title>プログラム言語「PHP」に新たな脆弱性 サービス停止の恐れ - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUC19BMQ0Z11C26A1000000/</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-18T17:28:42+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに：Windows 11の「Win + Shift + S」で毎日感じる2つのストレス 開発中のバグ報告やテストエビデンス、社内Slack・Teamsでの連絡、ChatGPT / Claude への画面共有など、Windowsで一番使うショートカットといえば Win...</summary>
-  </entry>
-  <entry>
-    <title>C# 15 の union 型を ILSpy で覗いてみた</title>
-    <id>https://qiita.com/jun1s/items/758db6cb12f1a83a8bf6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jun1s/items/758db6cb12f1a83a8bf6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T03:01:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>検証環境 .NET SDK 11.0.100（C# 15） Windows 11（x64）、13th Gen Intel Core i7-1360P ILSpy（ilspycmd）11.2.0 BenchmarkDotNet 0.15.8 はじめに（union型の簡...</summary>
-  </entry>
-  <entry>
-    <title>「10年前にこれ描いてるのすごい」人間とAIが共存する近未来医療SFマンガ『AIの遺電子』全巻99円セール中→なお作者は困惑「僕、作者！！実入りはどうなるの！！？」</title>
-    <id>https://togetter.com/li/2772319</id>
-    <link href="https://togetter.com/li/2772319" />
-    <updated>2026-11-19T14:30:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>山田胡瓜・漫画家 @kyuukanba AIの遺電子全巻99円って安すぎるでしょ！！！ 僕、作者！！！ 実入りはどうなるの！！！？ ⋯どうなるかよく分からんけど、 マジで今の時代にピッタリな漫画だからぜひこの機会に買ってください。 x.com/zoknd/status/2… 2026-11-19 00:14:15 きんどう｜新刊セールまとめ @zoknd 秋田書店木...</summary>
-  </entry>
-  <entry>
-    <title>ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261119de78324</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261119de78324" />
-    <updated>2026-11-19T14:12:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>木原官房長官はウェブサイトの運用などに世界中で広く使われている「nginx（エンジンエックス）」と呼ばれるソフトウエアにぜい弱性が見つかったとして、利用している事業者に対し、速やかにアップデートを行う…</summary>
-  </entry>
-  <entry>
-    <title>Google Playが折りたたみスマホ向けアプリの最適化を義務化、2027年4月から未対応アプリは更新不可に</title>
-    <id>https://sumahodigest.com/?p=76852</id>
-    <link href="https://sumahodigest.com/?p=76852" />
-    <updated>2026-11-19T13:19:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Google Playが折りたたみスマホ向けアプリの最適化を義務化、2027年4月から未対応アプリは更新不可に</summary>
-  </entry>
-  <entry>
-    <title>内製のChrome拡張機能をChromeウェブストアから社内に配布する - kickflow Tech Blog</title>
-    <id>https://tech.kickflow.co.jp/entry/2026/11/11/182411</id>
-    <link href="https://tech.kickflow.co.jp/entry/2026/11/11/182411" />
-    <updated>2026-11-17T13:02:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、CTOの小林です。 社内で作ったChrome拡張機能を、Chromeウェブストアの「ドメイン限定公開」で配布する仕組みを整えました。ストアに載せつつ自社のGoogle Workspaceユーザーにだけ見える状態にし、更新はGitHub Actionsから自動で行います。この記事では、その手順と運用ルールを紹介します。 背景：拡張機...</summary>
   </entry>
 </feed>
