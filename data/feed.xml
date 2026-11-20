@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-20T09:00:12.666332+09:00</updated>
+  <updated>2026-11-20T09:30:11.394046+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Muse の VM は約2時間で入れ替わる（実測と対策） - Qiita</title>
+    <id>https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44</id>
+    <link href="https://qiita.com/mryo0826/items/c05efd7ac228fe85ab44" />
+    <updated>2026-11-20T00:25:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>生成AIと人間が協働して記事を書くシリーズです。 パーソナルAIエージェントのMuseとの対話が大分慣れてきたので、github repoの引用？の仕方と画像を置くのとこのInfo以外はMuseに書いてもらってます。 Museに聞いたら、タグってちゃんと効果あるみたいですね。 0. 前提 この記事の環境は、私が日常的に使っている Muse...</summary>
+  </entry>
+  <entry>
+    <title>Introducing Amazon OpenSearch Memory: Persistent memory for AI agents | Amazon Web Services</title>
+    <id>https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/</id>
+    <link href="https://aws.amazon.com/blogs/big-data/introducing-amazon-opensearch-memory-persistent-memory-for-ai-agents/" />
+    <updated>2026-11-19T08:03:06+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>88% of agent pilots stall. Learn what the rest do differently</summary>
+  </entry>
+  <entry>
+    <title>かつてスクウェアにナーシャ・ジベリ氏という伝説のプログラマーがいて数々の逸話を残した→河津秋敏さんが反応して当時の話をしてくれるアツい展開に</title>
+    <id>https://togetter.com/li/2772052</id>
+    <link href="https://togetter.com/li/2772052" />
+    <updated>2026-11-18T21:33:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>どんぐりどくん @Donguring5656 元々イランの王族でイラン革命により渡米して、Apple用のゲーム会社作ったがアタリショックで倒産して世界中を放浪 放浪中友人にゲーム開発に誘われ、たまたま時スクウェア初代社長が才能を見出しスクウェアに入社して作ったのがFF その開発にあたり、飛空船に影をつけて浮いているように...</summary>
+  </entry>
   <entry>
     <title>マウスやキーボードの電池残量がタスクバーで確認できる「BatteryHub」</title>
     <id>https://pc.watch.impress.co.jp/docs/news/2158043.html</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-19T13:50:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>はじめに バクラク事業部のエンジニアの ypresto です。 今日はバクラクで募集している Frontend Enabling というポジションについて紹介させてください！ バクラクでは原則としてJavaScriptとGoのソースコードをmonorepoで管理しています。JavaScript のパッケージも今120を超えています！ リポジトリ全体でマージされ...</summary>
-  </entry>
-  <entry>
-    <title>「Rustで書き直したら爆速」のさらに先へ。『高速化プログラミング入門』で学ぶ、言語に依存しない高速化 - Findy Media</title>
-    <id>https://findy-code.io/media/articles/modoku-yusuktan-202611</id>
-    <link href="https://findy-code.io/media/articles/modoku-yusuktan-202611" />
-    <updated>2026-11-19T08:41:18+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>みなさんこんにちは。 「あの人も読んでる」、第24回目の投稿です。maguro（X @yusuktan）がお届けします。 今回は、2026年10月に出たばかりの本『高速化プログラミング入門 第2版』を紹介します。 僕は普段、JavaScript界隈に生息しているのですが、この界隈は速さの話題に事欠きません。まずJavaScriptを実行するエン...</summary>
-  </entry>
-  <entry>
-    <title>Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2157695.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2157695.html" />
-    <updated>2026-11-19T11:51:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</summary>
-  </entry>
-  <entry>
-    <title>信頼性を犠牲にせず、PR マージからデプロイまで人の介入を完全にゼロにするまでの道のり</title>
-    <id>https://speakerdeck.com/knwoop/cndw2026-zero-touch-deploy</id>
-    <link href="https://speakerdeck.com/knwoop/cndw2026-zero-touch-deploy" />
-    <updated>2026-11-18T19:21:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>https://event.cloudnativedays.jp/cndw2026/proposals/1259</summary>
   </entry>
 </feed>
