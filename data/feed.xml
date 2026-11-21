@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T19:30:14.383772+09:00</updated>
+  <updated>2026-11-21T20:00:13.826784+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIエージェントに堅牢なテストを書かせるには？</title>
+    <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
+    <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
+    <updated>2026-11-21T18:09:12+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AI コーディングエージェントにテストを書かせると、実装を少し変えただけで壊れるテストができることがあります。この記事はそうならないテストを書かせる手順を 4 つにまとめたものです。筆者が自分のプロダクトで 15 日間試した結果を反映しています。 対象読者 次のどれかに当てはまる開発者に向けて書きました。 AI コーディングエージェント (Claude Code、Codex など) に、実装の前に…</summary>
+  </entry>
+  <entry>
+    <title>初心者がAIとMAXのAPKを解析してみた【後編】</title>
+    <id>https://zenn.dev/aki0804/articles/ac6690df48a1ae</id>
+    <link href="https://zenn.dev/aki0804/articles/ac6690df48a1ae" />
+    <updated>2026-11-21T17:44:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 前編では、MAXのAPKから本文の送信処理、VPNに関係する返信制御、診断機能DPSなどを調べました。コード上の条件は確認できましたが、Android上で実際にどの処理が動くかは未確認でした。 その後、AndroidエミュレーターをADBとFridaで操作できる環境が整ったため、アプリを起動して調査を進めました。今回は、登録画面で発生する通信、端末内の識別子、診断機能の設定値、別アプリか…</summary>
+  </entry>
+  <entry>
+    <title>JVM がコードを実行する仕組みを理解したい</title>
+    <id>https://zenn.dev/rea9r/articles/jvm-code-execution</id>
+    <link href="https://zenn.dev/rea9r/articles/jvm-code-execution" />
+    <updated>2026-11-21T17:06:49+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 障害の調査や振り返りで、JVM が書いたコードをどう実行しているか、特に JIT がいつ何をコンパイルし、そのコードがどこに保存されるのかを、前提として知っておく必要がありました。この記事は、そのときに調べたことを、実行時間とコンパイルのログ、jcmd の出力を照合して確かめながら整理したものです。 JIT や code cache の仕組みは、JVM の実装やバージョンによって変わりま…</summary>
+  </entry>
+  <entry>
+    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
+    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
+    <updated>2026-11-21T11:12:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い:…</summary>
+  </entry>
+  <entry>
+    <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
+    <id>https://luccafort.hatenablog.com/entry/2026/11/20/193344</id>
+    <link href="https://luccafort.hatenablog.com/entry/2026/11/20/193344" />
+    <updated>2026-11-20T20:54:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2027年1月16日（土）に開催される PHPカンファレンス関西2026 の「お誘いチケット」を、参加したい学生・若手エンジニアの方に先着2名まで譲ります。チケット代はぼくが負担するので、受け取る方の費用はかかりません。 2026.kphpug.jp お誘いチケットとは 2枚以上まとめて購入すると1枚あたり500円安くなるチケットで、...</summary>
+  </entry>
   <entry>
     <title>Introducing Inkling 2 Mini</title>
     <id>https://thinkingmachines.ai/news/inkling-2-mini/</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-20T13:28:36+09:00</updated>
     <category term="はてブ IT" />
     <summary>先日出てたKARTEさんの情報流出についてまとめた記事を読んだんですが、なかなかすごいことになってるなと。 というのも、これだけの大手企業の漏洩が並ぶと、経営者からすれば「そもそも大事な顧客データや連携情報まで外部のSaaSに預けていいんだっけ？」という話になるわけです。 もちろん自社で管理すれば安全という...</summary>
-  </entry>
-  <entry>
-    <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
-    <id>https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html</id>
-    <link href="https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html" />
-    <updated>2026-11-20T18:31:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な…</summary>
-  </entry>
-  <entry>
-    <title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
-    <id>https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</id>
-    <link href="https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f" />
-    <updated>2026-11-20T18:00:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTKの受信機とAndroidのアプリ「DroggerGPS」（以下DrGPS）です。 データを集めるため…</summary>
-  </entry>
-  <entry>
-    <title>「ポケットチェンジ」パスポート番号2万件余流出 | NHKニュース</title>
-    <id>https://news.web.nhk/newsweb/na/nd-20261120de78976</id>
-    <link href="https://news.web.nhk/newsweb/na/nd-20261120de78976" />
-    <updated>2026-11-20T14:59:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>通貨を電子マネーに交換する端末などを運営する「ポケットチェンジ」は、不正アクセスの影響で顧客のパスポート番号最大2万4000件あまりが外部に流出したと明らかにしました。 この会社が手がけるほかのサー…</summary>
-  </entry>
-  <entry>
-    <title>日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた</title>
-    <id>https://zenn.dev/chaki/articles/4545be3475fdb4</id>
-    <link href="https://zenn.dev/chaki/articles/4545be3475fdb4" />
-    <updated>2026-11-20T13:33:15+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>自宅のPCで日本のレシートを読むなら、今回いちばん良かったのは YomiToku でした。軽量モデルで全体を読み、自信のない行だけ高精度モデルで読み直す「2段読み」で、商品名の完全一致93%、金額100%、1枚約1.8秒。ただし YomiToku は非商用ライセンスです。商用なら NDLOCR-Lite や PP-OCRv6 が現実的な候補になります。話題の画像対応AI（VLM）は、長いレシートで…</summary>
-  </entry>
-  <entry>
-    <title>CDKからTerraformへ：所有権移譲による本番インフラ無停止のIaC移行</title>
-    <id>https://zenn.dev/levtech/articles/14befd8e727f32</id>
-    <link href="https://zenn.dev/levtech/articles/14befd8e727f32" />
-    <updated>2026-11-20T10:26:30+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは！ レバテック開発部の皆様と一緒に、開発に携わらせていただいているナカジーです！ この度は CDK 管理のリソースを Terraform に寄せる IaC 移行作業に携わりました。その際に 「所有権を移譲する手法」 をとることで本番インフラ（12 のサービス＋共通基盤、計 13 スタック）を停止させずに IaC 移行を完遂することができました！ 本記事では、そこで得られたナレッ…</summary>
   </entry>
 </feed>
