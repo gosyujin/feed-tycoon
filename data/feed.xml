@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T18:30:14.642805+09:00</updated>
+  <updated>2026-11-21T19:00:12.881301+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Introducing Inkling 2 Mini</title>
+    <id>https://thinkingmachines.ai/news/inkling-2-mini/</id>
+    <link href="https://thinkingmachines.ai/news/inkling-2-mini/" />
+    <updated>2026-11-21T08:08:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Today we are releasing Inkling 2 Mini, a fast, powerful model that’s small enough to run on your laptop. Inkling 2 Mini is a looped transformer, running the middle layers of the model three times for…</summary>
+  </entry>
   <entry>
     <title>「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止 - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</id>
@@ -290,9 +298,9 @@
     <title>正しいUIデザインと、意図のあるUIデザイン</title>
     <id>https://zenn.dev/praha/articles/08568310684aa3</id>
     <link href="https://zenn.dev/praha/articles/08568310684aa3" />
-    <updated>2026-11-19T15:50:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイ...</summary>
+    <updated>2026-11-18T14:55:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイドラインです。 ユーザーの手間を減らす 正確な値を記録する 値を推定して自動で埋めれば手間は減…</summary>
   </entry>
   <entry>
     <title>イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-20T10:26:30+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは！ レバテック開発部の皆様と一緒に、開発に携わらせていただいているナカジーです！ この度は CDK 管理のリソースを Terraform に寄せる IaC 移行作業に携わりました。その際に 「所有権を移譲する手法」 をとることで本番インフラ（12 のサービス＋共通基盤、計 13 スタック）を停止させずに IaC 移行を完遂することができました！ 本記事では、そこで得られたナレッ…</summary>
-  </entry>
-  <entry>
-    <title>オブザーバビリティを組織とともに成長させる - データと知識をつなぐ場としてのGrafana</title>
-    <id>https://speakerdeck.com/mtanda/growing-observability-with-your-organization</id>
-    <link href="https://speakerdeck.com/mtanda/growing-observability-with-your-organization" />
-    <updated>2026-11-18T20:09:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Sponsored · Your Podcast. Everywhere. Effortlessly. Share. Educate. Inspire. Entertain. You do you. We'll handle the rest. →</summary>
   </entry>
 </feed>
