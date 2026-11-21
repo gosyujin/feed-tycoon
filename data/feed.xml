@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T02:30:13.836636+09:00</updated>
+  <updated>2026-11-22T03:00:13.582329+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
+    <id>https://note.com/katobungen/n/n9c2bb939b9c7</id>
+    <link href="https://note.com/katobungen/n/n9c2bb939b9c7" />
+    <updated>2026-11-21T22:55:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>（2026年11月21日夜現在。時刻は特に断らない限り日本時間。Andrew Sutherland氏の公開検証記録の最終更新、11月21日21時55分＝同日12時55分 UTCに基づく。） 2026年11月20日、Anthropicの数学者Levent Alpöge氏が、Claudeとともにリーマン予想を証明したと発表した。公表されたのは、わずか4ページの声明と、Leanという...</summary>
+  </entry>
   <entry>
     <title>「AIが私を追い越した」 リーマン予想「証明」の数学者自身も驚き：朝日新聞</title>
     <id>https://www.asahi.com/articles/ASVCP2WB0VCPDIFI008M.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-20T19:38:11+09:00</updated>
     <category term="はてブ IT" />
     <summary>丸井グループは20日、延べ1733万件の顧客情報が漏洩したと発表した。委託先のプレイドが提供するサービス「KARTE（カルテ）」が不正アクセスを受けた。電子商取引（EC）サイト利用者や丸井グループのクレジットカード利用者の氏名、性別、生年月日、メールアドレス、顧客管理番号などが漏洩した。13日に委託先から不正ア...</summary>
-  </entry>
-  <entry>
-    <title>AIが追加学習なしで自らのウェイトを書き換えて「自分自身を賢くする」ことに成功</title>
-    <id>https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/</id>
-    <link href="https://gigazine.net/news/20261120-large-language-model-can-rewrite-itself/" />
-    <updated>2026-11-20T19:11:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>大規模言語モデル(LLM)は通常、学習が完了すると内部のウェイト(重み)が固定され、性能を向上させるには追加学習などが必要になります。こうした従来の仕組みとは異なり、AIが自分自身のウェイトを分析して書き換え、性能を向上させられることを示した研究論文が発表されました。研究チームは、この成果がAIによる「再帰...</summary>
   </entry>
 </feed>
