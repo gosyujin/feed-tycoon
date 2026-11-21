@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T11:30:13.294492+09:00</updated>
+  <updated>2026-11-21T12:00:19.899523+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/newsjp/20261121-480255/</id>
+    <link href="https://automaton-media.com/articles/newsjp/20261121-480255/" />
+    <updated>2026-11-21T09:45:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11...</summary>
+  </entry>
   <entry>
     <title>【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン</title>
     <id>https://www.cnn.co.jp/usa/35255243.html</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-20T11:19:00+09:00</updated>
     <category term="はてブ IT" />
     <summary>失恋をしてとても辛く、何をしても空虚に感じる。それならばいっそこの機会に自分の半生を振り返ろうと思ってこの記事の筆を執った次第である。 生成AIは推敲を含めて一切使用していない。 1. 高校卒業まで私は小学校三年生まで東京都大田区蒲田に住んでいた。漠然と日能研に通い、中学受験をするものだと考えていたが、...</summary>
-  </entry>
-  <entry>
-    <title>15 million web servers on one VM - smoltcp, DPDK, AF_XDP</title>
-    <id>https://kapteko.com/15-million-webservers/</id>
-    <link href="https://kapteko.com/15-million-webservers/" />
-    <updated>2026-11-19T16:27:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Put a web server online and everyone starts trying to hack it. Why? A basic rule of economics. Short supply, big demand - there aren’t enough web servers for everyone. Let’s run a web server for every…</summary>
   </entry>
 </feed>
