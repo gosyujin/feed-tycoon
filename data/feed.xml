@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T08:00:13.295668+09:00</updated>
+  <updated>2026-11-22T08:30:10.433929+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Lean verification of the Riemann Hypothesis</title>
+    <id>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</id>
+    <link href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/" />
+    <updated>2026-11-22T01:27:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Lean verification of the Riemann Hypothesis Joint statement by the Lean and Mathlib communities, endorsed by the Lean FRO and the Mathlib Initiative. On November 20, 2026, Levent Alpöge released a pro…</summary>
+  </entry>
+  <entry>
+    <title>KARTEを選んだのは顧客の私じゃない｜しがないサラリーマン</title>
+    <id>https://note.com/kochan34123412/n/nf37511e42de9</id>
+    <link href="https://note.com/kochan34123412/n/nf37511e42de9" />
+    <updated>2026-11-21T07:36:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>KARTEの情報漏えいをめぐって、利用企業の発表をいくつか読んだ。最初の一社を読んだときには、どこで何が起きたのかを、その時点でわかる範囲で伝えているんだろうと思った。 ところが、二社、三社と読むうちに、同じような書き出しが少しずつ違って聞こえてきた。プレイド社から連絡を受けました。当社が利用する外部...</summary>
+  </entry>
   <entry>
     <title>D言語の更新まとめ 2026年8月版（dmd 2.113.0）</title>
     <id>https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -546,9 +562,9 @@
     <title>正しいUIデザインと、意図のあるUIデザイン</title>
     <id>https://zenn.dev/praha/articles/08568310684aa3</id>
     <link href="https://zenn.dev/praha/articles/08568310684aa3" />
-    <updated>2026-11-19T15:50:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイ...</summary>
+    <updated>2026-11-18T14:55:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイドラインです。 ユーザーの手間を減らす 正確な値を記録する 値を推定して自動で埋めれば手間は減…</summary>
   </entry>
   <entry>
     <title>イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-18T13:32:30+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>JSON.parse() で項目が消えたら、reviver の戻り値を確認します。 第2引数の reviver が undefined を返すと、そのプロパティは削除されます。対象外では元の値を返します。 検証環境は macOS 27.2.1 / Node.js v24.2...</summary>
-  </entry>
-  <entry>
-    <title>政府システムからファイル流出か、個人情報含む恐れ デジタル庁発表 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUA20A0V0Q6A121C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUA20A0V0Q6A121C2000000/" />
-    <updated>2026-11-20T22:10:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は20日、政府のネットワークシステムに不正アクセスがあり、各府省庁間や企業と共有した会議資料を含むファイルが流出した可能性があると発表した。個人情報が含まれている恐れがある。機密性が高い文書の漏洩の有無については調査中という。同庁によれば、個人情報の悪用など二次被害の確認はされていない。...</summary>
-  </entry>
-  <entry>
-    <title>TSMCやサムスン、対中半導体出荷を一部停止 AIチップの米輸出規制で - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN200HL0Q6A121C2000000/" />
-    <updated>2026-11-20T16:34:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【シリコンバレー=山田航平】台湾積体電路製造（TSMC）や韓国サムスン電子が中国向けの半導体出荷を一部停止したことが19日までに分かった。米政府が人工知能（AI）半導体の対中輸出を厳しくする方針を示したことを受けて対応を変えた。中国ではAI開発への影響を警戒する声が出始めた。英紙フィナンシャル・タイムズは同...</summary>
   </entry>
 </feed>
