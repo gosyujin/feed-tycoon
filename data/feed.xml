@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T05:00:14.392273+09:00</updated>
+  <updated>2026-11-22T05:30:11.686184+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>D言語の更新まとめ 2026年8月版（dmd 2.113.0）</title>
+    <id>https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/lempiji/items/ad328661ffa305976f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T23:27:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに D言語の公式コンパイラである dmd が更新され、2.113.0 が 2026/08/17 にリリースされました。 今回のリリースには、コンパイラ13件、ランタイム1件、ライブラリ1件、Dub 1件の合計16件の主要な変更と、82件のGitHub Issueの修...</summary>
+  </entry>
+  <entry>
+    <title>pgvectorのHNSWでテナント絞り込みすると検索が0件になる問題と対策</title>
+    <id>https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takumi_engineer/items/142ca7088f13f006da82?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T18:51:37+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>マルチテナントのRAGで、pgvectorのHNSWインデックスに WHERE tenant_id = ... を付けると、LIMITより少ない件数しか返らないことがあります。この記事では、その仕組みと、再現・対策・検知までをコードで示します。 私はマルチテナントのAI業務...</summary>
+  </entry>
+  <entry>
+    <title>ECSのアプリへSSMを使ったポートフォワーディングでアクセスする</title>
+    <id>https://qiita.com/har1101/items/9b6902c42a637117798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/har1101/items/9b6902c42a637117798a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T18:45:32+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>課題 最近PoCを進める際にこんな悩みがありました。 ECSのコンテナでアプリを動かす 関係者にこのアプリへ実際にアクセスしてもらって動作確認してほしい ただPoCなので認証などを入れるのは手間 だけどインターネットに公開するわけにはいかない ということでなんとかセキ...</summary>
+  </entry>
+  <entry>
+    <title>社会人ドクターの経験から得られたこと，苦労したこと，そこから現在の活動につながっていること（後編）</title>
+    <id>https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/mshdtksk/items/440dbb0fce5828637411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T18:40:15+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに データ活用基盤の開発やデータ分析手法の研究を行いながら，大学で兼任講師をしている高須賀です．2019年4月から社会人ドクターとして研究活動を行い，2023年3月に博士（情報学）の学位を取得した．研究分野は，組合せ最適化，数理最適化，オペレーションズ・リサーチ，...</summary>
+  </entry>
+  <entry>
+    <title>Geminiに「Cargry言語とはなんですか」と聞いたら、LLMの弊害を感じた</title>
+    <id>https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/compalog/items/a538b606b3aa1d138108?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T13:58:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>純粋関数型システム言語Cargryを開発しています さて、「Cargry」と打って検索すると、私の記事が出て、Chromeであれば、Geminiが答えてくれます Geminiに聞いてみた 私のアカウントでは、GeminiにWeb検索を行わせないようにしているので、...</summary>
+  </entry>
+  <entry>
+    <title>360°カメラ×AIモデリング×UE 5.9：広域空間再構成の制作フロー展望</title>
+    <id>https://qiita.com/kotohibi/items/890c1c1289e76fb5e977?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kotohibi/items/890c1c1289e76fb5e977?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T13:30:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 前回の記事では、360°カメラで撮影した映像からMetashapeで高密度点群（dense point cloud）を作り、Claude CodeとBlenderで広域をAIモデリングする制作フローを紹介しました。dense point cloudをClaude...</summary>
+  </entry>
+  <entry>
+    <title>Databricksの新資格 Context Engineer とは？範囲と勉強法</title>
+    <id>https://qiita.com/y0shidahr/items/bfa890be24af74e5ba43?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/y0shidahr/items/bfa890be24af74e5ba43?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T08:57:55+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>先に答え Databricks に、Context Engineer Associate という新しい認定試験ができました。公式の試験ガイドによると、公開は2026年7月29日です。AI エージェントが推論するときに受け取る情報（コンテキスト）を、Databricks の...</summary>
+  </entry>
+  <entry>
+    <title>適度にバズりつつ読みやすい記事の書き方</title>
+    <id>https://qiita.com/EndOfData/items/8cf8f3eb8a1d2c3a9465?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/EndOfData/items/8cf8f3eb8a1d2c3a9465?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T01:10:04+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>$\color{Red}{\huge \textbf{読ませる記事を書こう}}$ 参考：Qiitaのmarkdownで文字の大きさを変えたい ※AI生成の文章はどれだけ良くても論外と言う事で。 対象読者（普通に想定しなかったのでAIが雑に出した） 「技術記事を書いてみたけ...</summary>
+  </entry>
+  <entry>
+    <title>第8回 自分のトレードルールを「言葉」で書き出してAIに渡すコツ</title>
+    <id>https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T18:40:37+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>本記事は連載 「非エンジニアでもわかる！AIと作るFX自動売買入門」 の1本です。 第7回では、OANDA APIで過去データを取得し、CSVファイルに保存しました。 ◀️ 前の記事：第7回 OANDAの過去データをAIに取得させる 本記事では、そのデータに当てはめる売...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code が調べずに「ありません」「できません」と答えるのを Stop フックで差し戻す(道具を1回も呼んでいない返事だけを止める)</title>
+    <id>https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T17:39:14+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>読み終えるとできること 道具で何も調べていないのに「入っていません」「できません」と言い切る返事を、Stop フックで差し戻せるようになります。 根拠は、2026-11-18 に偽の会話記録を作って6通りを実行した結果です(下の「動かした結果」)。 何に困ったか Cla...</summary>
+  </entry>
+  <entry>
+    <title>家のPull型世代バックアップをランサム想定で攻撃シミュレーションして、1行直した</title>
+    <id>https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T16:20:42+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>📚 3記事シリーズ 設計・脅威モデル編（Zenn） 物語・運用編（note） 検証・実装編（この記事） 検証コード → GitHub Raspberry Pi → Windows の自宅バックアップ（毎時 Pull、rrsync -ro、--delete なし、各...</summary>
+  </entry>
+  <entry>
+    <title>日本の法律をGitで管理してみた。法改正を `git diff` で追跡できる「houritsu」を作った</title>
+    <id>https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T15:21:48+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 「法律をGitで管理したら面白いのでは？」 そんなちょっとした思いつきから、日本の法令をGitの履歴として管理するプロジェクト houritsu を作りました。 普段、ソフトウェア開発ではGitを使ってコードの変更履歴を管理しています。誰が、いつ、どこを変更した...</summary>
+  </entry>
+  <entry>
+    <title>「QAエンジニアってどんな仕事？」｜現役エンジニアが語るQAのリアル｜QAエンジニア・H執筆</title>
+    <id>https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T01:53:27+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>QAエンジニアとは？ QA（Quality Assurance）とは、日本語で「品質保証」という意味です。 システムやソフトウェアの品質を保証することを主な業務としています。 「ユーザーが安心して使える製品になっているか」 その品質を守ることが、QAエンジニアの役割です。...</summary>
+  </entry>
   <entry>
     <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
     <id>https://zenn.dev/canly/articles/ca6875cd79539f</id>
@@ -701,109 +805,5 @@
     <updated>2026-11-20T16:34:24+09:00</updated>
     <category term="はてブ IT" />
     <summary>【シリコンバレー=山田航平】台湾積体電路製造（TSMC）や韓国サムスン電子が中国向けの半導体出荷を一部停止したことが19日までに分かった。米政府が人工知能（AI）半導体の対中輸出を厳しくする方針を示したことを受けて対応を変えた。中国ではAI開発への影響を警戒する声が出始めた。英紙フィナンシャル・タイムズは同...</summary>
-  </entry>
-  <entry>
-    <title>「KARTE」への不正アクセスに関する当社調査結果と、サービス再開の見通し等のお知らせ</title>
-    <id>https://plaid.co.jp/news/20261120/</id>
-    <link href="https://plaid.co.jp/news/20261120/" />
-    <updated>2026-11-20T15:33:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月13日に発生した、株式会社プレイド（本社：東京都中央区、代表取締役CEO：倉橋 健太）が提供する「KARTE」への不正アクセスについて、影響範囲および漏えいした情報を特定する当社における調査結果をお知らせいたします。あわせて、「KARTEのサービス再開の見通し」「サービス停止期間のKARTE利用料金の取り扱...</summary>
-  </entry>
-  <entry>
-    <title>情報漏洩3億件超の時代、経営者が問われるのは「どう守るか」よりも「何を持たないか」、顧客情報を預かる資格 KARTEへの不正アクセスとソースネクストの大量流出が示した、顧客情報を持ちすぎる経営の死角 | JBpress (ジェイビープレス)</title>
-    <id>https://jbpress.ismedia.jp/articles/-/98148</id>
-    <link href="https://jbpress.ismedia.jp/articles/-/98148" />
-    <updated>2026-11-20T20:43:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>昨今、死ぬほど情報漏洩の事案が急増し、生成AIの発展に伴う脅威が安全で快適なインターネットとやらの根底を脅かす機会が増えました。大変なことなんですが、「どうしてこうもやられるんか」って話を事業関係先やコンサル先でした時に感じるのは、「経営陣が、技術に詳しくなさ過ぎて、いまネットで起きていることを理...</summary>
-  </entry>
-  <entry>
-    <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
-    <id>https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html?linkType=article&amp;id=ASVCN30WCVCNULFA01NM</id>
-    <link href="https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html?linkType=article&amp;id=ASVCN30WCVCNULFA01NM" />
-    <updated>2026-11-20T19:55:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な…</summary>
-  </entry>
-  <entry>
-    <title>Codex App の Computer Use はどういう仕組みで動いているのか - Qiita</title>
-    <id>https://qiita.com/TaigoKuriyama/items/850a26760fc3c8d111ad</id>
-    <link href="https://qiita.com/TaigoKuriyama/items/850a26760fc3c8d111ad" />
-    <updated>2026-11-20T14:38:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>--- name: computer-use description: Control local Mac apps through Computer Use. Use for tasks that require reading or operating app UI by clicking, typing, scrolling, dragging, pressing keys, or sett…</summary>
-  </entry>
-  <entry>
-    <title>職業訓練でHTMLを学んだ後にSES会社に入社、Javaとphpの開発経験ありと経歴詐称でPythonの現場に送り込まれ、初日にリーダーから「君何ができんの？」と詰められた話</title>
-    <id>https://togetter.com/li/2772850</id>
-    <link href="https://togetter.com/li/2772850" />
-    <updated>2026-11-20T18:24:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>パワーグライド @uchu_kurage 職業訓練でHTMLをちょっと勉強して入ったSES会社で、研修(PCで好きなことをしてればいいと言われYahooニュースを1ヶ月見た)後、Javaと phpの開発経験があると経歴詐称させられ、ブチ込まれたpythonの現場の初日にリーダーから「君何ができんの？」と詰められ、定時で現場出た瞬間ボロ泣きし...</summary>
-  </entry>
-  <entry>
-    <title>プレイド「KARTE」の情報漏洩2200社 サービス停止で20億円の赤字へ - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC204SK0Q6A121C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC204SK0Q6A121C2000000/" />
-    <updated>2026-11-20T16:48:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>マーケティング支援サービスを手がけるプレイドは20日、不正アクセスを受けた主力サービス「KARTE（カルテ）」の情報漏洩の規模がのべ約2200社に上ると発表した。カルテの停止により業績も下方修正し、2026年12月期の最終損益は6億円の黒字予想から一転、20億円の赤字を見込む。カルテに連携されていた顧客データなどの...</summary>
-  </entry>
-  <entry>
-    <title>PostgreSQL 19 Released!</title>
-    <id>https://www.postgresql.org/about/news/postgresql-19-released-3449/</id>
-    <link href="https://www.postgresql.org/about/news/postgresql-19-released-3449/" />
-    <updated>2026-11-20T05:56:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>November 19, 2026 - The PostgreSQL Global Development Group today announced the release of PostgreSQL 19, the latest version of the world's most advanced open source database. Mission-critical usage o…</summary>
-  </entry>
-  <entry>
-    <title>業務委託先への不正アクセスによる情報漏えいについて</title>
-    <id>https://www.smbc.co.jp/news/pdf/j20261120_01.pdf</id>
-    <link href="https://www.smbc.co.jp/news/pdf/j20261120_01.pdf" />
-    <updated>2026-11-20T19:50:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1 2 0 2 6 年 1 1 月 2 0 日 各 位 株式会社三井住友銀行 業務委託先への不正アクセスによる情報漏えいについて 株式会社三井住友銀行（以下、弊行）が、弊行ホームページおよびスマートフォンアプリに おけるお客さまへのお知らせの表示・配信等で利用している、株式会社プレイドが提供する サービス「KARTE」において...</summary>
-  </entry>
-  <entry>
-    <title>スーパーコンピュータ「富岳」および「理究（りきゅう）」への不正アクセスに関する調査状況について（第2報） | 理化学研究所</title>
-    <id>https://www.riken.jp/pr/news/2026/20261120_1/index.html</id>
-    <link href="https://www.riken.jp/pr/news/2026/20261120_1/index.html" />
-    <updated>2026-11-20T16:45:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>利用者の皆さまをはじめ、関係者の皆さまに多大なご心配とご迷惑をおかけしておりますことを、改めて深くお詫び申し上げます。 理化学研究所（理研）計算科学研究センターが運用するスーパーコンピュータ「富岳」および「理究」への不正アクセスについて、11月16日のプレスリリース（第1報）以降の調査で判明した、現時...</summary>
-  </entry>
-  <entry>
-    <title>ノンフライヤーで唐揚げ選手権! 最新4モデルどう違う?</title>
-    <id>https://kaden.watch.impress.co.jp/docs/topic/topic/2151258.html</id>
-    <link href="https://kaden.watch.impress.co.jp/docs/topic/topic/2151258.html" />
-    <updated>2026-11-20T08:15:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ノンフライヤーで唐揚げ選手権! 最新4モデルどう違う?</summary>
-  </entry>
-  <entry>
-    <title>ネットもLINEも非対応の「INFOBAR ZERO」は誰が買う？ 3万2780円の価値や向き合い方を考える</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html" />
-    <updated>2026-11-19T19:48:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>KDDIが発表した「INFOBAR ZERO」は、インターネットやLINEに非対応で通話とSMSに特化した異色の端末だ。価格は3万2780円で12月25日に発売され、povo2.0やセカンドナンバーなど柔軟な回線運用にも対応する。開発陣の発言を手掛かりに、本機の割り切った仕様と価格に納得できるターゲット像を探る。</summary>
-  </entry>
-  <entry>
-    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
-    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
-    <updated>2026-11-19T16:28:27+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agen…</summary>
-  </entry>
-  <entry>
-    <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
-    <id>https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html</id>
-    <link href="https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html" />
-    <updated>2026-11-20T18:47:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。流出した件数や個人情報が含まれていたかなどの詳細については、「調査…</summary>
   </entry>
 </feed>
