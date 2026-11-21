@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T10:30:16.501908+09:00</updated>
+  <updated>2026-11-21T11:00:14.391543+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
+    <id>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</id>
+    <link href="https://smhn.info/202611-gemini-subscription-third-party-harness-december-2" />
+    <updated>2026-11-20T23:35:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本...</summary>
+  </entry>
+  <entry>
+    <title>ログの種別を整理して、何をどこまで残すか決めた話</title>
+    <id>https://zenn.dev/dress_code/articles/a3bf34274af03f</id>
+    <link href="https://zenn.dev/dress_code/articles/a3bf34274af03f" />
+    <updated>2026-11-19T09:17:39+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>監査ログとセキュリティログの扱い 監査ログとセキュリティログは、記録の中身ではなく使い道を表す名前なので、2軸のどこにも入りません。この2つは、記録の中から目的に合うものを選んだときの呼び名と定義しました。主に3種別から選び、必要に応じて運用記録も含めます。監査ログは監査の要件に合う記録を、セキュリ...</summary>
+  </entry>
   <entry>
     <title>Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ</title>
     <id>https://japan.cnet.com/article/35255245/</id>
@@ -255,20 +271,20 @@
     <summary>ノンフライヤーで唐揚げ選手権! 最新4モデルどう違う?</summary>
   </entry>
   <entry>
-    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
-    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
-    <updated>2026-11-20T08:35:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろな...</summary>
-  </entry>
-  <entry>
     <title>ネットもLINEも非対応の「INFOBAR ZERO」は誰が買う？ 3万2780円の価値や向き合い方を考える</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html</id>
     <link href="https://www.itmedia.co.jp/mobile/articles/2611/19/news071.html" />
     <updated>2026-11-19T19:48:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>KDDIが発表した「INFOBAR ZERO」は、インターネットやLINEに非対応で通話とSMSに特化した異色の端末だ。価格は3万2780円で12月25日に発売され、povo2.0やセカンドナンバーなど柔軟な回線運用にも対応する。開発陣の発言を手掛かりに、本機の割り切った仕様と価格に納得できるターゲット像を探る。</summary>
+  </entry>
+  <entry>
+    <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+    <id>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</id>
+    <link href="https://zenn.dev/nttdata_tech/articles/9562962cc181a1" />
+    <updated>2026-11-19T16:28:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agen…</summary>
   </entry>
   <entry>
     <title>政府の内部資料流出か、基幹システムに不正アクセス デジタル庁発表：朝日新聞</title>
@@ -388,7 +404,7 @@
     <link href="https://www.asahi.com/articles/ASVCN30WCVCNULFA01NM.html" />
     <updated>2026-11-20T18:31:39+09:00</updated>
     <category term="はてブ IT" />
-    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれている可能性があるが、件数などの詳細については「調…</summary>
+    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な…</summary>
   </entry>
   <entry>
     <title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-20T07:00:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 今回はPythonのライブラリを使って、Dockerfileのレイヤーとキャッシュの動きを確認しました。 この記事は実際に打ったコマンドと出力をもとに、勉強したことを備忘録としてまとめました。 環境 Windows 11 WSL2（Ubuntu） Docker Desktop（Ubuntu側のターミナルから操作） 作業フォルダ：~/docker-practice/hello-py 最初の…</summary>
-  </entry>
-  <entry>
-    <title>GitHub - MSNightmare/FastUnlock: FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability</title>
-    <id>https://github.com/MSNightmare/FastUnlock</id>
-    <link href="https://github.com/MSNightmare/FastUnlock" />
-    <updated>2026-11-20T01:06:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability The vulnerability exist in the way how narrator handles UI in a locked account context, succesful exploitation results in bypassing b…</summary>
-  </entry>
-  <entry>
-    <title>MetaのMuseを使ってみた: 内部構造とセキュリティの調査</title>
-    <id>https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963</id>
-    <link href="https://zenn.dev/shoyataguchi/articles/b1bc6a96d4b963" />
-    <updated>2026-11-20T00:55:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Muse が発表されたときも、話は耳に入っていました。ただ、LLM 領域でパッとしない Meta のプロダクトだし、そこまで革命的なものではないだろうと思って、しばらく放っておきました。 ところが、日が経つにつれて、アメリカ・日本のアプリストアで 1 位になった報道や、X での多くの投稿を見るようになりました。これは何か革命的なことが起きているのかもしれない、と興味をそそられ、元々 Faceboo…</summary>
   </entry>
 </feed>
