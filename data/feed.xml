@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T15:00:20.023489+09:00</updated>
+  <updated>2026-11-21T15:30:17.015649+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>DOTweenを使わずにイージングを自作する！Robert Pennerのイージング関数をC#で実装して検証してみた</title>
+    <id>https://zenn.dev/sorane/articles/e1ed930dea9b1d</id>
+    <link href="https://zenn.dev/sorane/articles/e1ed930dea9b1d" />
+    <updated>2026-11-21T01:03:46+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは、空音です！ 普段はUnityやUnreal Engineを使ってゲーム開発をしている学生です。 現在、個人開発しているゲームで、ガレージやショップなどのメニュー画面を作っています。 画面のフェードやUIの動きをプログラムで制御する場面が増えてきたのですが、そこで欲しくなったのがイージングです。 DOTweenを使えばEase.OutCubicのように指定するだけで済みますが、…</summary>
+  </entry>
+  <entry>
+    <title>作れるエンジニアから、価値を届けるエンジニアへ</title>
+    <id>https://zenn.dev/kubell/articles/3c3490a3592bb1</id>
+    <link href="https://zenn.dev/kubell/articles/3c3490a3592bb1" />
+    <updated>2026-11-21T00:50:41+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIプロダクトグループの中山 龍 (@ryu_develop)です。 この記事は、手羽先プロンプト #2 で発表した LT「作れるエンジニアから、価値を届けるエンジニアへ」を記事にしたものです。 僕は「手羽先プロンプト」という名古屋の勉強会を主催しているのですが、そこでトークした内容の評判が良かったので、せっかくならと思って記事にしてみました。 僕自身がこの半年で経験し学んだこと・考えたことを書い…</summary>
+  </entry>
+  <entry>
+    <title>自宅サーバー上のアプリケーションを Cloudflare Tunnel + Access で安全に公開する</title>
+    <id>https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access</id>
+    <link href="https://zenn.dev/bisque/articles/home-server-cloudflare-tunnel-access" />
+    <updated>2026-11-20T16:14:41+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 最近は Coding Agent のおかげで、ちょっとしたアプリなら週末にサクッと作れるようになりました。「こういうのがあったら便利だな」と思ったら、とりあえず作ってみる。個人開発のハードルは本当に下がったと感じます。 ただ、作ったアプリをどこで動かすかは、意外と悩みどころです。クラウドなどの費用をできるだけ抑えるためにサービスやアーキテクチャを選定することは、ときには楽しい作業ですが、…</summary>
+  </entry>
+  <entry>
+    <title>100MBで喋るAI「phonon」を使ってみた</title>
+    <id>https://zenn.dev/aiforall/articles/96465259cc2167</id>
+    <link href="https://zenn.dev/aiforall/articles/96465259cc2167" />
+    <updated>2026-11-20T13:22:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Ollamaのライブラリに約100MBの音声合成（TTS）モデル「phonon」が出ていたので、試してみました！ モデルページによると、対応言語は、英語・フランス語・ドイツ語・スペイン語・ポルトガル語の5つです。そこで、英語の短い文・長い文と、対応していない日本語を読ませてみました。 結果を先に書くと、動作はとても軽く、英語は短い文も長い文も数秒以内で生成できました。日本語は、試した一文…</summary>
+  </entry>
+  <entry>
+    <title>columnsプロパティで縦積みのナビゲーションを作る – TAKLOG</title>
+    <id>https://www.tak-dcxi.com/article/vertical-navigation-with-columns-property/</id>
+    <link href="https://www.tak-dcxi.com/article/vertical-navigation-with-columns-property/" />
+    <updated>2026-11-20T01:01:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>フッターに置くリンク集のような、縦に並べたナビゲーションをcolumnsプロパティで段組みにしました。項目は上から下へ読む順番のまま段に分かれ、段の数は幅に応じてブラウザが決めるので、段の数を切り替えるメディアクエリは書いていません。 このリンク集はサイトの導線なので、メニューではなくナビゲーションと呼...</summary>
+  </entry>
+  <entry>
+    <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
+    <id>https://dev.henry.jp/entry/e2e-repository</id>
+    <link href="https://dev.henry.jp/entry/e2e-repository" />
+    <updated>2026-11-18T12:02:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメン...</summary>
+  </entry>
   <entry>
     <title>ボールの慣性で素早いカーソル移動！奥深きトラックボールの世界 3つのスタイルに分けて計14モデルをピックアップ text by 石川 ひさよし</title>
     <id>https://akiba-pc.watch.impress.co.jp/docs/sale/online_shopping/2158378.html</id>
@@ -66,9 +114,9 @@
     <title>正しいUIデザインと、意図のあるUIデザイン</title>
     <id>https://zenn.dev/praha/articles/08568310684aa3</id>
     <link href="https://zenn.dev/praha/articles/08568310684aa3" />
-    <updated>2026-11-19T15:50:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイ...</summary>
+    <updated>2026-11-18T14:55:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイドラインです。 ユーザーの手間を減らす 正確な値を記録する 値を推定して自動で埋めれば手間は減…</summary>
   </entry>
   <entry>
     <title>イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな</title>
@@ -757,53 +805,5 @@
     <updated>2026-11-20T00:18:38+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに はじめまして！これが Qiita への初投稿になります。 まず簡単な自己紹介から。仕事はコールセンターの管理業務をしており、エンジニア経験はありませんが、ホビープログラマー歴20年の素人です。 ですので、Qiitaで需要があるのかわかりませんが、非エンジニアの方...</summary>
-  </entry>
-  <entry>
-    <title>XRift x AtomVM x Elixirで作るVRラジコン</title>
-    <id>https://qiita.com/t-yamanashi/items/1d8b9750656a5b8b2a5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/t-yamanashi/items/1d8b9750656a5b8b2a5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T23:50:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに VR空間の中にラジコンの運転席を作り、席に座ってWASDやカーソル操作で実機を動かすラジコンを作りました。 このプロジェクトのプログラムは、OpenAI CodexでGTP-5.6 Luna xhighを使って作成しています。 この記事も、CodexでGTP-5...</summary>
-  </entry>
-  <entry>
-    <title>Linuxのバックポートという仕組みでnginxを最新版にしなくても安全にできるらしい</title>
-    <id>https://qiita.com/ikuosaito1989/items/01edecc9eb66abeba5d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ikuosaito1989/items/01edecc9eb66abeba5d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T22:48:54+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>たまたま個人サービスにubuntuでnginxを使ってたので修正パッチをあてた 脆弱性が見つかった場合、最新版にアップデートする必要があると思っていたが、調べてみると必ずしもそうではないらしい。 Linuxディストリビューションには「バックポート（Backport）」という...</summary>
-  </entry>
-  <entry>
-    <title>判定モデル を AI エージェントワークフローへ組み込む</title>
-    <id>https://qiita.com/kataoka_se_sionic/items/e7c6b83c6291daedbb62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kataoka_se_sionic/items/e7c6b83c6291daedbb62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T18:11:03+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事の目的 AIエージェントをアプリケーションに組み込むと、回答の生成に加えて、「会話を続けるか」「終了するか」「有人オペレーターへ引き継ぐか」といった対応方針の判定が必要になります。 これらを1つのLLMにまとめて任せる構成はシンプルですが、判定と文章生成を分離した...</summary>
-  </entry>
-  <entry>
-    <title>CAD図面のPDFをAIに読ませる前に確認したい2つのこと：文字が線になっていないか、縮小で潰れないか</title>
-    <id>https://qiita.com/sionic_issa/items/345570e589cb1e562ea9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sionic_issa/items/345570e589cb1e562ea9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T18:08:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>CAD で作った図面の PDF を AI（RAG やマルチモーダル LLM）に読ませようとすると、普通の文書 PDF では起きない壁に2つぶつかります。 文字に見えるのに、文字データがない（テキスト抽出で何も取れない） 大判の図面を1枚の画像で渡すと、細かい文字が潰れる...</summary>
-  </entry>
-  <entry>
-    <title>エンジニアのAIとの付き合い方 #1 はじめに 〜今、何が起きているのか〜</title>
-    <id>https://qiita.com/jun-trick/items/efafd8eec3102a7b3754?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/jun-trick/items/efafd8eec3102a7b3754?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T13:52:06+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>注意 この記事は、エンジニアとしてのAIとの付き合い方に焦点を当てて書いた記事です。 その過程で、いくつかの表現に独自の解釈が入っていることがあります。 （抽象化する過程で、細かい点で異なることもあるかと思います。ご容赦いただけましたら！） 大筋が間違っていることはないと...</summary>
-  </entry>
-  <entry>
-    <title>pypdfでPDFのプルダウンに値を入れたのにAcrobatだけ空欄になる：原因は/Iだった</title>
-    <id>https://qiita.com/sionic_issa/items/adf42ca26f22e238793e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/sionic_issa/items/adf42ca26f22e238793e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T17:23:46+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 申請書などの入力フォーム付き PDF を pypdf で自動記入したところ、プルダウン（コンボボックス）だけ Acrobat で空欄になるという現象に遭遇しました。 困ったのは、Chrome や Edge の PDF ビューアで開くと正しく表示されることです。プ...</summary>
   </entry>
 </feed>
