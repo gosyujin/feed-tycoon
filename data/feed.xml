@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-21T11:00:14.391543+09:00</updated>
+  <updated>2026-11-21T11:30:13.294492+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン</title>
+    <id>https://www.cnn.co.jp/usa/35255243.html</id>
+    <link href="https://www.cnn.co.jp/usa/35255243.html" />
+    <updated>2026-11-21T09:39:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な...</summary>
+  </entry>
+  <entry>
+    <title>GitHub - RustWTM/RustWTM: Windows task manager and resource governor written in Rust. Monitor processes, manage resource usage, and keep your PC responsive.</title>
+    <id>https://github.com/RustWTM/RustWTM</id>
+    <link href="https://github.com/RustWTM/RustWTM" />
+    <updated>2026-11-21T08:11:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>A Windows task manager and resource governor written in Rust. Inspect what your PC is doing, diagnose slowdowns, and apply resource policies in the background. The governor starts in dry-run mode so y…</summary>
+  </entry>
+  <entry>
+    <title>https://alpo.ge/remark.pdf</title>
+    <id>https://alpo.ge/remark.pdf</id>
+    <link href="https://alpo.ge/remark.pdf" />
+    <updated>2026-11-21T00:14:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>https://alpo.ge/remark.pdf</summary>
+  </entry>
   <entry>
     <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
     <id>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</id>
@@ -212,7 +236,7 @@
     <link href="https://www.asahi.com/sp/articles/ASVCN30WCVCNULFA01NM.html?linkType=article&amp;id=ASVCN30WCVCNULFA01NM" />
     <updated>2026-11-20T19:55:10+09:00</updated>
     <category term="はてブ IT" />
-    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれている可能性があるが、件数などの詳細については「調…</summary>
+    <summary>デジタル庁は20日、政府の基幹ネットワークシステムに不正アクセスがあり、政府の内部資料が漏洩（ろうえい）した可能性があると発表した。個人情報が含まれているおそれがあり、流出したファイルの件数や内容な…</summary>
   </entry>
   <entry>
     <title>Codex App の Computer Use はどういう仕組みで動いているのか - Qiita</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-19T16:27:51+09:00</updated>
     <category term="はてブ IT" />
     <summary>Put a web server online and everyone starts trying to hack it. Why? A basic rule of economics. Short supply, big demand - there aren’t enough web servers for everyone. Let’s run a web server for every…</summary>
-  </entry>
-  <entry>
-    <title>Decision ModelはFAQの回答の確認と問い合わせの振り分けに使えるか</title>
-    <id>https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check</id>
-    <link href="https://zenn.dev/genax_corp/articles/20261109-judge-models-faq-check" />
-    <updated>2026-11-20T12:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。 Gen-AX Researchエンジニアの箕輪です。 今回は、文章を生成せずに確率や選択肢だけを返す Decision Model を、FAQ の回答の確認と、問い合わせの振り分けに使えるかを検証した結果について紹介します。 本記事のサマリー 本記事の要点は以下の 4 つです。 回答にはっきりした欠陥があるかの見分けでは、Jev・Decisions API・Clef（27B）は、比較…</summary>
-  </entry>
-  <entry>
-    <title>JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2158081.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2158081.html" />
-    <updated>2026-11-20T11:45:47+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JEDEC、次世代メモリ「DDR6」プレビュー公開。モジュールは74mmに小型化</summary>
-  </entry>
-  <entry>
-    <title>Dockerfileでイメージを作成後、レイヤーとキャッシュの確認</title>
-    <id>https://zenn.dev/mutsu_zenn/articles/75498c3f4e693b</id>
-    <link href="https://zenn.dev/mutsu_zenn/articles/75498c3f4e693b" />
-    <updated>2026-11-20T07:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 今回はPythonのライブラリを使って、Dockerfileのレイヤーとキャッシュの動きを確認しました。 この記事は実際に打ったコマンドと出力をもとに、勉強したことを備忘録としてまとめました。 環境 Windows 11 WSL2（Ubuntu） Docker Desktop（Ubuntu側のターミナルから操作） 作業フォルダ：~/docker-practice/hello-py 最初の…</summary>
   </entry>
 </feed>
