@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T14:00:13.546291+09:00</updated>
+  <updated>2026-11-22T14:30:13.268621+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Orca Botsが良さそう、何ができるのか</title>
+    <id>https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro</id>
+    <link href="https://zenn.dev/kg_motors_mibot/articles/orca-bot-intro" />
+    <updated>2026-11-22T00:14:13+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは！KGモーターズの中村です！ KGモーターズは、1人乗り小型 EV mibot を開発しているスタートアップです。 今回は、最近リリースされた Orca Bots についてのお話です。 普段からAI Agentを使って開発しているのですが、Orca Botsはなかなか面白かったので、実際に触ってみた内容を簡単にまとめようと思います。 Orcaとは まず最初にOrcaについて。…</summary>
+  </entry>
+  <entry>
+    <title>グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/news/2157164.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/news/2157164.html" />
+    <updated>2026-11-21T20:39:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>グーグルのGemini Notebook、資料を操作可能なWebサイトへ変換可能に</summary>
+  </entry>
   <entry>
     <title>[AI-Driven Modernization] 既存コードからAIエージェント向けの仕様書を起こす「Reverse Spec Flow」を公開しました | Amazon Web Services</title>
     <id>https://aws.amazon.com/jp/blogs/news/aidm-introducing-reverse-spec-flow/</id>
@@ -178,9 +194,9 @@
     <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
     <id>https://zenn.dev/canly/articles/ca6875cd79539f</id>
     <link href="https://zenn.dev/canly/articles/ca6875cd79539f" />
-    <updated>2026-11-21T07:35:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで...</summary>
+    <updated>2026-11-20T18:04:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した…</summary>
   </entry>
   <entry>
     <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -279,7 +295,7 @@
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
   </entry>
   <entry>
-    <title>AIエージェントに堅牢なテストを書かせるには？</title>
+    <title>堅牢な受け入れテストを書くには？</title>
     <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
     <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
     <updated>2026-11-21T18:09:12+09:00</updated>
@@ -789,21 +805,5 @@
     <updated>2026-11-20T17:33:47+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: 「システム設計視点の行動経済学」、第66回を始めましょう。その前に、まず前回の復習として、 世界最大級の純債権国で「財政出動すると円が暴落する」——為替と財政の行動経済学 : システム設計視点の行動経済学 (65) https://qiita.com/mask...</summary>
-  </entry>
-  <entry>
-    <title>オンプレミスAIエージェントの二重実行と記憶劣化を防ぐ：ZeroOS（PostgreSQL 12状態リース）と LongMemOS（約3.1MB）の設計</title>
-    <id>https://qiita.com/derekwang8866/items/533681c013a98058359e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/derekwang8866/items/533681c013a98058359e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-20T16:52:21+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>1. 業務バッチ処理におけるAIエージェントの課題 受発注データ照合や多店舗の夜間在庫補充といった業務自動化において、メモリ内だけのワークフローエンジンでは「プロセス再起動時の外部API二重呼び出し」や「環境変数経由の認証情報露出」が運用上のリスクとなります。また、長期記...</summary>
-  </entry>
-  <entry>
-    <title>PHP が再び重大な脆弱性を修正。その修正版はもうあなたの PHP に届いているのか、公開から9時間で6つの入手先を調べたら、Ubuntu と brew install php はまだだった</title>
-    <id>https://qiita.com/suwa_nobu/items/83e35e3be86b236cc807?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/suwa_nobu/items/83e35e3be86b236cc807?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-20T12:16:58+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「PHPが再び重大脆弱性を修正へ」（ITmedia、11月19日）。10月に続いて、PHP のセキュリティ修正が出ました。 PHP の公式サイトは前日に「Upcoming Critical PHP Security Release」と予告し、11月19日 14:00〜14:...</summary>
   </entry>
 </feed>
