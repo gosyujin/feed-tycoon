@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T06:30:12.309445+09:00</updated>
+  <updated>2026-11-23T07:00:12.663590+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!</title>
+    <id>https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen</id>
+    <link href="https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen" />
+    <updated>2026-11-22T21:29:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Extend displayのイメージ。画像出典：Windows Latest MacにはiPadを2台目の画面にする「Sidecar」（iPhoneは非対応）があり、Samsungも一部のGalaxyタブレットをWindows PCにつなぐ「Second Screen」を提供しています。便利なんですよね。 でもMicrosoft自身のスマホ連携の機能には、こうした機能が不在でした。 そんな...</summary>
+  </entry>
+  <entry>
+    <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita</title>
+    <id>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962</id>
+    <link href="https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962" />
+    <updated>2026-11-22T17:32:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このルー...</summary>
+  </entry>
   <entry>
     <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
     <id>https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -570,9 +586,9 @@
     <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
     <id>https://zenn.dev/canly/articles/ca6875cd79539f</id>
     <link href="https://zenn.dev/canly/articles/ca6875cd79539f" />
-    <updated>2026-11-21T07:35:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで...</summary>
+    <updated>2026-11-20T18:04:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した…</summary>
   </entry>
   <entry>
     <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -671,14 +687,6 @@
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
   </entry>
   <entry>
-    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
-    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
-    <updated>2026-11-22T12:08:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だい...</summary>
-  </entry>
-  <entry>
     <title>堅牢な受け入れテストを書くには？</title>
     <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
     <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
@@ -701,6 +709,14 @@
     <updated>2026-11-21T17:06:49+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 障害の調査や振り返りで、JVM が書いたコードをどう実行しているか、特に JIT がいつ何をコンパイルし、そのコードがどこに保存されるのかを、前提として知っておく必要がありました。この記事は、そのときに調べたことを、実行時間とコンパイルのログ、jcmd の出力を照合して確かめながら整理したものです。 JIT や code cache の仕組みは、JVM の実装やバージョンによって変わりま…</summary>
+  </entry>
+  <entry>
+    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
+    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
+    <updated>2026-11-21T11:12:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い:…</summary>
   </entry>
   <entry>
     <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-21T10:39:23+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ノートブックに登録されているソース動画のタイトルおよび詳細な内容について解説します。 1. ソース動画のタイトルと配信情報 動画タイトル: 「外国人を増やすほど日本...</summary>
-  </entry>
-  <entry>
-    <title>社員が AI に送る社外秘を、組織のルールで止めて記録する ── Prompt Flow Studio の Enterprise プラン</title>
-    <id>https://qiita.com/chooser/items/2ec64d68adf7be97054b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/chooser/items/2ec64d68adf7be97054b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-21T10:01:31+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。 社員が AI に送る社外秘を、組織のルールで止めて記録する ── Pr...</summary>
-  </entry>
-  <entry>
-    <title>バイブコーディング・isdd・AI-DLCに同じ依頼を出して、できあがりと手間を比べた</title>
-    <id>https://qiita.com/notfolder/items/c4480072ef594e591dc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/notfolder/items/c4480072ef594e591dc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-21T08:49:15+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AIにアプリを作ってもらうとき、要件定義や設計の手順を踏ませたほうが、良いものができるのでしょうか。それとも、作りたいものをそのまま伝えるだけで十分なのでしょうか。 私はisddという、AIが質問しながら要件を決め、設計してから実装する手順を作っています。作って...</summary>
   </entry>
 </feed>
