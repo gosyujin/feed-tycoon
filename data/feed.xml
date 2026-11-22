@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T22:00:14.433473+09:00</updated>
+  <updated>2026-11-22T22:30:13.294932+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>プラガブルで宣言的なソフトウェアファクトリーを支えるTypeScript</title>
+    <id>https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory</id>
+    <link href="https://speakerdeck.com/timakin/definitive-and-pluggable-software-factory" />
+    <updated>2026-11-22T17:57:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JSConf 2026</summary>
+  </entry>
+  <entry>
+    <title>Rust で疎ボリュームのライブラリ brodo を Claude Code と作った</title>
+    <id>https://zenn.dev/akahmys/articles/454a729a00401f</id>
+    <link href="https://zenn.dev/akahmys/articles/454a729a00401f" />
+    <updated>2026-11-09T22:21:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>brodo について brodo は 3 次元の疎なボリュームを扱う Rust のライブラリです。必要なボクセルにだけ値を持ち、ファイルに保存したものはコピーなしでそのまま読んだり、mmap したり、圧縮したりできます。OpenVDB の .vdb も読み書きできます。1.0.0 を crates.io に公開しました。 リポジトリにはクレートが三つあり...</summary>
+  </entry>
   <entry>
     <title>六花亭に不正アクセス クレカ情報不正利用とみられる被害確認 | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261122de79904</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-20T16:33:21+09:00</updated>
     <category term="はてブ IT" />
     <summary>国産AI（人工知能）の開発会社ノエトラに関わる事業総額が5年で1兆円から1.8兆円に膨らむ見通しになっていることが分かった。画像処理半導体（GPU）の関連部品の高騰が響く。財政支援する国の負担が増す懸念がある。高市早苗政権の成長戦略の本丸でもあるAIは米国や中国を中心に覇権争いが続く。高性能の半導体は奪い合...</summary>
-  </entry>
-  <entry>
-    <title>みずほ銀行のシステムがハッキングされないの、開発者だけじゃなくてハッカーも仕様を把握できないから説「妙な説得力あるな」「ハッキングが先か、障害が先か…」</title>
-    <id>https://togetter.com/li/2773158</id>
-    <link href="https://togetter.com/li/2773158" />
-    <updated>2026-11-21T13:00:58+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>みずほ銀行のシステムがハッキングされないの、開発者だけじゃなくてハッカーも仕様を把握できないから説「妙な説得力あるな」「ハッキングが先か、障害が先か…」</summary>
-  </entry>
-  <entry>
-    <title>トランプ氏、データセンター国外建設認めず 米中でAI安全策検討 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOGN20CXV0Q6A121C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN20CXV0Q6A121C2000000/" />
-    <updated>2026-11-21T06:44:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【ワシントン=八十島綾平】トランプ米大統領は20日、アジア訪問を総括する記者会見を開いた。中国の習近平（シー・ジンピン）国家主席との間で、人工知能（AI）に対する「ガードレール（安全策）」を検討することで合意したと述べた。トランプ氏は中国・深圳でのアジア太平洋経済協力会議（APEC）首脳会議に出席したあと...</summary>
   </entry>
 </feed>
