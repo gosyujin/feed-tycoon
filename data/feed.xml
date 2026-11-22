@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T20:00:11.545034+09:00</updated>
+  <updated>2026-11-22T20:30:13.109215+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>タワーレコード 不正アクセスで約1100万件の個人情報流出 | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261122de79936</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261122de79936" />
+    <updated>2026-11-22T19:00:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。 「タワーレコ…</summary>
+  </entry>
+  <entry>
+    <title>「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io</title>
+    <id>https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html</id>
+    <link href="https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html" />
+    <updated>2026-11-20T09:41:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「サイバー対処能力強化法」の施行直後からフル稼働な「国家サイバー統括室」 昨今の漏洩ラッシュを受け、高市総理が「緊急対策パッケージ」の作成を 10/26 の関係閣僚会議で指示し、それが 11/6 に公開された。 内容を解説する。 この記事は、サイバーセキュリティアドベントカレンダー 2 日目である。 サイバーセキュ...</summary>
+  </entry>
   <entry>
     <title>Next.jsのストリーミングはLambda Web Functionsで動くか</title>
     <id>https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions</id>
@@ -362,9 +378,9 @@
     <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
     <id>https://zenn.dev/canly/articles/ca6875cd79539f</id>
     <link href="https://zenn.dev/canly/articles/ca6875cd79539f" />
-    <updated>2026-11-20T18:04:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した…</summary>
+    <updated>2026-11-21T07:35:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで...</summary>
   </entry>
   <entry>
     <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -463,6 +479,14 @@
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
   </entry>
   <entry>
+    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
+    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
+    <updated>2026-11-22T12:08:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だい...</summary>
+  </entry>
+  <entry>
     <title>堅牢な受け入れテストを書くには？</title>
     <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
     <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
@@ -485,14 +509,6 @@
     <updated>2026-11-21T17:06:49+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 障害の調査や振り返りで、JVM が書いたコードをどう実行しているか、特に JIT がいつ何をコンパイルし、そのコードがどこに保存されるのかを、前提として知っておく必要がありました。この記事は、そのときに調べたことを、実行時間とコンパイルのログ、jcmd の出力を照合して確かめながら整理したものです。 JIT や code cache の仕組みは、JVM の実装やバージョンによって変わりま…</summary>
-  </entry>
-  <entry>
-    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
-    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
-    <updated>2026-11-21T11:12:39+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い:…</summary>
   </entry>
   <entry>
     <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-21T02:42:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>自己紹介 関 学(せき まなぶ) 株式会社MIXI みてね事業本部 バックエンドエンジニア 好きな言語は Ruby 主に参加しているコミュニティ #Omotesando.rb / #Roppongi.rb #Tokyu.rb / #RailsTokyo など ©MIXI 2 家族アルバム みてね（2/2） 2015年のリリースから、7言語・175の国と地域で3,000万人以上の方にご利用いただい.…</summary>
-  </entry>
-  <entry>
-    <title>正しいUIデザインと、意図のあるUIデザイン</title>
-    <id>https://zenn.dev/praha/articles/08568310684aa3</id>
-    <link href="https://zenn.dev/praha/articles/08568310684aa3" />
-    <updated>2026-11-18T14:55:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>個人開発のアプリではUIデザインを自分で決めることになります。HIGのようなガイドラインに従ったり、AIエージェントのデザインスキルを活用したりすることで、使う人を困らせない、正しいデザインに近づけることができます。 しかし、ガイドライン同士はぶつかることがあります。たとえば、次の2つはどちらも正しいガイドラインです。 ユーザーの手間を減らす 正確な値を記録する 値を推定して自動で埋めれば手間は減…</summary>
-  </entry>
-  <entry>
-    <title>イーロン・マスクが金持ちでもそんなネットで嫌われてないのって「男の子がワクワクするもの」に迷わず巨額の金を突っ込むからだと思うんだよな</title>
-    <id>https://togetter.com/li/2773122</id>
-    <link href="https://togetter.com/li/2773122" />
-    <updated>2026-11-21T12:06:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【残り2日】【118巻】藤子・F・不二雄大全集が50％還元 ドラえもんからオバQ 10万円分以上の割引！ イーロン・マスク イーロン・リーヴ・マスク（英語: Elon Reeve Musk、1971年6月28日 - ）は、南アフリカ共和国出身のアメリカ合衆国の起業家。2025年以降、第2次トランプ政権下で、公式には特別政… 73 users 361 Wikipedia</summary>
   </entry>
 </feed>
