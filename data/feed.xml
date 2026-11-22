@@ -2,10 +2,138 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T17:00:17.741708+09:00</updated>
+  <updated>2026-11-22T17:30:13.349876+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>LLMを呼ぶ、その先へ。12のGitHub教材で学ぶAIエンジニアリングのロードマップ</title>
+    <id>https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T11:46:05+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。 チャット画面を作ってLLMのAPIにつなぐと、思ったより早く「AIアプリらしいもの」が動きます。最近は開発支援AIもあるので、最初の手応えを得るまでの距離はずいぶん短くなりました。 ただ、ここから実際...</summary>
+  </entry>
+  <entry>
+    <title>「財政出動は効かない」という多重防衛——メカニズム無効論の四つの柱を解体する : システム設計視点の行動経済学 (67)</title>
+    <id>https://qiita.com/maskot1977/items/c7b88c9d6180b6ba0500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/maskot1977/items/c7b88c9d6180b6ba0500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T10:31:41+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>user: 「システム設計視点の行動経済学」、第67回を始めましょう。その前に、まず前回の復習として、 緊縮の痛みは成長に変わるか——実証的に棄却された仮説が政策に残り続ける認知設計 : システム設計視点の行動経済学 (66) https://qiita.com/mask...</summary>
+  </entry>
+  <entry>
+    <title>coturnのTURN認証情報を期限付きで都度発行し、固定値より漏えい時の被害を抑える</title>
+    <id>https://qiita.com/takumi_engineer/items/50c27c11ccf08db3165a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takumi_engineer/items/50c27c11ccf08db3165a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T09:00:12+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>WebRTC配信でTURNサーバーに固定のユーザー名とパスワードを書くと、フロントのコードから抜かれて第三者の中継に使われるおそれがあります。この記事では、coturnの共有シークレット方式で、期限付きの認証情報をAPIから都度発行する方法を、動くコードで示します。 前提...</summary>
+  </entry>
+  <entry>
+    <title>Claude Codeの--fallback-modelで無人ジョブを止めない：混雑・利用上限・終了コードの3つの落とし穴と実装</title>
+    <id>https://qiita.com/joinclass/items/080927f3b092b9de46e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/joinclass/items/080927f3b092b9de46e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T08:30:07+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに：朝起きたらジョブが全部落ちていた 当社（合同会社ジョインクラス）は、記事作成・朝のレポート・各部署の作業など30以上のジョブを launchd から claude -p で無人実行しています。 2026年9月、朝のログを見ると複数のジョブが同じ時間帯にまとめて失...</summary>
+  </entry>
+  <entry>
+    <title>コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか</title>
+    <id>https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T05:37:17+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに AIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。 私は日常的にAIを使って開発しています。数時間かかっていた実装を短時間で終えられるなら、手作業にこだわる理由はありません。その分、問題の理解や設計、品質の改善に時間を使える...</summary>
+  </entry>
+  <entry>
+    <title>手元で磨いた GASクイックを GitHub に出しました ── 棚 133 本と、コピペで置けるライブラリ版の話</title>
+    <id>https://qiita.com/shu15511551/items/31720f7154e39924f552?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/shu15511551/items/31720f7154e39924f552?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T04:59:01+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに ―― 前回の記事の続き、そして GitHub 公開のお知らせ 前回の記事で、Google スプレッドシートの操作窓から AI を使わずに棚（決まった手）と自作マクロを一覧から一瞬で撃つ道具「GASクイック」を紹介しました。 あの時点では「まだ手元で磨いてい...</summary>
+  </entry>
+  <entry>
+    <title>AIで開発を速くするだけでは、会社の生産性は上がらない？</title>
+    <id>https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-22T02:35:02+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>概要 AIによって開発速度やアウトプット量は明らかに増えました。 しかし「開発現場での改善と会社全体での生産性との間には隔たりがある」と示唆する研究や調査があります。 私自身はAI推進室という部署で会社全体でのAI活用を推進するとともに、最終的な売上・利益の向上を考える立...</summary>
+  </entry>
+  <entry>
+    <title>メールアドレス宛に荷物を送る時代は来るのか ～ 認証・本人確認・物流・決済に広がるゼロトラストとレジリエンス</title>
+    <id>https://qiita.com/carol0226/items/ed8741b1e779c39bb52b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/carol0226/items/ed8741b1e779c39bb52b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T23:24:05+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 実はこの記事、1か月ほど前（2026年10月中旬）に書き上げたあと、そのまま下書きフォルダに埋もれていたものを見つけたのです。 当時のまま公開しても良かったのですが、この1か月で起きた出来事や Microsoft Ignite 2026 に参加して得られた視点、...</summary>
+  </entry>
+  <entry>
+    <title>情報漏えいを公表しないリスクの要点整理</title>
+    <id>https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T20:51:38+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。 ただ、公表されているのは被害を受けた企業の一部だけだと思う。 今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。 先にキーワードを出す。 情報漏えい 個人情報保護委員会への報告 ...</summary>
+  </entry>
+  <entry>
+    <title>ウィークリー新着いいねランキング【毎週更新】</title>
+    <id>https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T19:56:29+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>📈 今週のランキング 2026-11-21 直近7日間で投稿された記事から、いいね数の多い順に上位 20 件を毎週更新で紹介しています。 タグ別 生成AI LLM ClaudeCode Codex AIエージェント Rust フロントエンド ランキング 1 位: 部...</summary>
+  </entry>
+  <entry>
+    <title>【フロントエンド】デイリー新着いいねランキング【毎日更新】</title>
+    <id>https://qiita.com/figueiredoluiz/items/c33336da7d1bb7b1dc88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/figueiredoluiz/items/c33336da7d1bb7b1dc88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T19:53:45+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>📈 本日のランキング 2026-11-21 「フロントエンド」タグに直近24時間で投稿された記事から、いいね数の多い順に上位 1 件を毎日更新で紹介しています。 タグ別 生成AI LLM ClaudeCode Codex AIエージェント Rust フロントエンド ラ...</summary>
+  </entry>
+  <entry>
+    <title>AWS構成図を毎回同じ形で出したい！ コード5行で図になるコマンドを作りました</title>
+    <id>https://qiita.com/sagochiko/items/86cc8715558c0e93a296?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/sagochiko/items/86cc8715558c0e93a296?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-21T15:39:39+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>AIエージェントに AWS の構成図を描かせると、同じ依頼でも回ごとに図が変わります。 そこで、AIに座標とXMLを書かせるのをやめて、5行の定義から構成図を組み立てるコマンド「archwire」を作りました。GitHub で公開していて、uvx archwire ですぐ試...</summary>
+  </entry>
+  <entry>
+    <title>⚡ Microsoft 365 Copilot ライセンスで GitHub Copilot CLI が使えるように!!</title>
+    <id>https://qiita.com/aktsmm/items/855dbec6f06587a26287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/aktsmm/items/855dbec6f06587a26287?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T23:45:23+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>こんにちは、Copilot が増えるたびに「どの Copilot の話?」となるアーキテクトのやまぱん！です。 補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！ 間違っていたら 優しく 教えてください！ Microsoft Ignite 2026、やってますね! 現...</summary>
+  </entry>
+  <entry>
+    <title>Androidの野良アプリ導入が2027年1月から世界規模で制限へ Googleの開発者認証が本格展開</title>
+    <id>https://sumahodigest.com/?p=76937</id>
+    <link href="https://sumahodigest.com/?p=76937" />
+    <updated>2026-11-20T09:20:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleは、Androidのアプリ開発者に本人確認を義務付ける新たな認証制度と、未認証アプリのサイドローディングに関する制限を、2027年1月から世界各国に拡大すると発表しました。 今回の変更はGoogle Playだけでなく、Galaxy StoreやXiaomi、OPPOなどのメーカー独自ストアにも適用されます。未認証アプリを引き続きイン...</summary>
+  </entry>
+  <entry>
+    <title>PostgreSQLのRLSでテナント越えを防ぐ：WHERE句の書き忘れを無効化する</title>
+    <id>https://qiita.com/takumi_engineer/items/b2ce326296020c430d23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/takumi_engineer/items/b2ce326296020c430d23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-20T09:00:10+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>マルチテナントのAPIでは、WHERE tenant_id = $1 を1か所書き忘れるだけで他社のデータが見えます。この記事では、PostgreSQLの行レベルセキュリティ（RLS）を使い、書き忘れてもDB側で止める構成をNode.js/TypeScriptで作ります。 ...</summary>
+  </entry>
+  <entry>
+    <title>個人開発で回せる依存パッケージの脆弱性対策（pnpm + Dependabot）</title>
+    <id>https://qiita.com/natsugure/items/808ae45eb32474d3a47b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
+    <link href="https://qiita.com/natsugure/items/808ae45eb32474d3a47b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
+    <updated>2026-11-19T22:48:34+09:00</updated>
+    <category term="Qiita トレンド" />
+    <summary>はじめに 個人開発しているアプリ（pnpm のモノレポ・Next.js）で、何も対策しないまま pnpm audit を回したらこうなりました。 $ pnpm audit ... 204 vulnerabilities found Severity: 17 low | 8...</summary>
+  </entry>
   <entry>
     <title>MetaのAIエージェント「Muse」は何ができる？ ChatGPTやGeminiとの違い、注意点を解説</title>
     <id>https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</id>
@@ -202,9 +330,9 @@
     <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
     <id>https://zenn.dev/canly/articles/ca6875cd79539f</id>
     <link href="https://zenn.dev/canly/articles/ca6875cd79539f" />
-    <updated>2026-11-20T18:04:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した…</summary>
+    <updated>2026-11-21T07:35:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで...</summary>
   </entry>
   <entry>
     <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -303,6 +431,14 @@
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
   </entry>
   <entry>
+    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
+    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
+    <updated>2026-11-22T12:08:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だい...</summary>
+  </entry>
+  <entry>
     <title>堅牢な受け入れテストを書くには？</title>
     <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
     <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
@@ -325,14 +461,6 @@
     <updated>2026-11-21T17:06:49+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 障害の調査や振り返りで、JVM が書いたコードをどう実行しているか、特に JIT がいつ何をコンパイルし、そのコードがどこに保存されるのかを、前提として知っておく必要がありました。この記事は、そのときに調べたことを、実行時間とコンパイルのログ、jcmd の出力を照合して確かめながら整理したものです。 JIT や code cache の仕組みは、JVM の実装やバージョンによって変わりま…</summary>
-  </entry>
-  <entry>
-    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
-    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
-    <updated>2026-11-21T11:12:39+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い:…</summary>
   </entry>
   <entry>
     <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
@@ -677,133 +805,5 @@
     <updated>2026-11-20T13:20:14+09:00</updated>
     <category term="はてブ IT" />
     <summary>QRコードに「Webアプリ丸ごと」を圧縮して焼き込む狂気。サーバー代0円で一生消えない「紙の資格試験カートリッジ」を妄想してみた QRコードの可能性を考えてみたけど…街中で見かける「QRコード」。 レストランの注文メニューから、キャッシュレス決済、イベントの受付まで、私たちの生活にすっかり溶け込んでいますよね...</summary>
-  </entry>
-  <entry>
-    <title>NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 - AUTOMATON</title>
-    <id>https://automaton-media.com/articles/newsjp/20261121-480255/</id>
-    <link href="https://automaton-media.com/articles/newsjp/20261121-480255/" />
-    <updated>2026-11-21T09:45:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIAグラボにて発生していた「SSD無限酷使」不具合の修正バージョンが配信。“何もしてない”のにSSDに数十GB書き込まれていた問題 NVIDIAのGPU向けドライバー「GeForce Game Ready Driver」の一部のバージョンで、無操作中にもSSDへの書き込みが発生していた不具合が、最新バージョンにて修正されたようだ。 NVIDIAは11...</summary>
-  </entry>
-  <entry>
-    <title>【分析】「私はMAGAではない」 マスク氏の方向転換が発する強烈なサイン</title>
-    <id>https://www.cnn.co.jp/usa/35255243.html</id>
-    <link href="https://www.cnn.co.jp/usa/35255243.html" />
-    <updated>2026-11-21T09:39:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ニューヨーク市で開催された「2026年ディールブック・サミット」にオンライン参加したマスク氏。ニューヨーク・タイムズの金融コラムニスト、アンドリュー・ロス・ソーキン氏と対談した＝11月18日/Spencer Platt/Getty Images （CNN） 米実業家イーロン・マスク氏は18日、トランプ米大統領に背を向ける、ずいぶん弱腰な...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - RustWTM/RustWTM: Windows task manager and resource governor written in Rust. Monitor processes, manage resource usage, and keep your PC responsive.</title>
-    <id>https://github.com/RustWTM/RustWTM</id>
-    <link href="https://github.com/RustWTM/RustWTM" />
-    <updated>2026-11-21T08:11:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>A Windows task manager and resource governor written in Rust. Inspect what your PC is doing, diagnose slowdowns, and apply resource policies in the background. The governor starts in dry-run mode so y…</summary>
-  </entry>
-  <entry>
-    <title>https://alpo.ge/remark.pdf</title>
-    <id>https://alpo.ge/remark.pdf</id>
-    <link href="https://alpo.ge/remark.pdf" />
-    <updated>2026-11-21T00:14:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>https://alpo.ge/remark.pdf</summary>
-  </entry>
-  <entry>
-    <title>どれだけGeminiが賢くなってもAIオタクが避ける理由。ついに解消の可能性 - すまほん!!</title>
-    <id>https://smhn.info/202611-gemini-subscription-third-party-harness-december-2</id>
-    <link href="https://smhn.info/202611-gemini-subscription-third-party-harness-december-2" />
-    <updated>2026-11-20T23:35:51+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>評判の悪かったGeminiですが、ようやく最近はClaudeのOpusやFable、ChatGPT CodexのAstraなどに匹敵、または超えてくるようなモデルも出てきています。 ところが、実際にGeminiに本格的に乗り換えている人はまだまだ少ない印象です。その大きな原因がついに解消されるかもしれません。 GoogleのLogan Kilpatrick氏は日本...</summary>
-  </entry>
-  <entry>
-    <title>ログの種別を整理して、何をどこまで残すか決めた話</title>
-    <id>https://zenn.dev/dress_code/articles/a3bf34274af03f</id>
-    <link href="https://zenn.dev/dress_code/articles/a3bf34274af03f" />
-    <updated>2026-11-19T09:17:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>監査ログとセキュリティログの扱い 監査ログとセキュリティログは、記録の中身ではなく使い道を表す名前なので、2軸のどこにも入りません。この2つは、記録の中から目的に合うものを選んだときの呼び名と定義しました。主に3種別から選び、必要に応じて運用記録も含めます。監査ログは監査の要件に合う記録を、セキュリ...</summary>
-  </entry>
-  <entry>
-    <title>Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ</title>
-    <id>https://japan.cnet.com/article/35255245/</id>
-    <link href="https://japan.cnet.com/article/35255245/" />
-    <updated>2026-11-21T08:02:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。</summary>
-  </entry>
-  <entry>
-    <title>ZOZOTOWNの退会者含む1,518万人分の情報が漏えい WEAR by ZOZOでも1,393万人分に（ビジネス＋IT） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9</id>
-    <link href="https://news.yahoo.co.jp/articles/1739163b2e1fd496107c05cb8b455d37d52be5d9" />
-    <updated>2026-11-21T00:59:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ZOZOのロゴ（出典：ZOZO）（ビジネス+IT） ZOZOは11月20日、外部サービス「KARTE」への不正アクセスにより、ZOZOTOWN会員（退会者含む）約1,518万人とWEAR by ZOZO会員約1,393万人の情報が漏えいしたと発表した。うち約4.7万人は電話番号とメールアドレスも対象。パスワードとクレジットカード情報は漏えいしておらず、...</summary>
-  </entry>
-  <entry>
-    <title>[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-sts-get-scoped-credentials/" />
-    <updated>2026-11-21T04:26:02+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[アップデート] AWS STS の GetScopedCredentials で権限と有効期間を絞った認証情報を作ってみた | DevelopersIO</summary>
-  </entry>
-  <entry>
-    <title>1万円のシンセをAIで魔改造。電子楽器のファームウェア開放が始まった | ギズモード・ジャパン</title>
-    <id>https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/</id>
-    <link href="https://www.gizmodo.jp/article/0b0516f2-94f8-442e-bdae-2987f090be13/" />
-    <updated>2026-11-20T23:31:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>中国のM-VAVEという楽器メーカーが販売している小型FMシンセ「FM-1」が、ちょっとした話題になっています。きっかけはユーザーによるカスタムファームウェアの開発です。 FM-1はアリエクなどを覗くと、だいたい1万円以下で買えるガジェットシンセ。音源方式はFMで、6オペレーター、32アルゴリズム、同時発音数12とシンプ...</summary>
-  </entry>
-  <entry>
-    <title>ZOZO、1518万人分の顧客情報流出 委託先に不正アクセス - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOUC20APN0Q6A121C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOUC20APN0Q6A121C2000000/" />
-    <updated>2026-11-20T21:09:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ZOZOは20日、通販サイト「ZOZOTOWN」に登録された1518万人分の顧客情報などが流出したと発表した。委託先のプレイドが提供するサービス「KARTE（カルテ）」が不正アクセスを受けた。ZOZOTOWNに登録された会員IDや年齢、性別などの個人情報1518万人分が該当する。ファッションアプリ「WEAR by ZOZO」に登録された約1393万...</summary>
-  </entry>
-  <entry>
-    <title>モダンな情シスは、AIエージェントを育て、任せ、圧倒的な生産性を生む｜kajinari | モダンな情シス</title>
-    <id>https://note.com/kajinari/n/n19c73d819b14</id>
-    <link href="https://note.com/kajinari/n/n19c73d819b14" />
-    <updated>2026-11-21T00:27:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>おはようございます！こんにちは！おやすみなさい！NOTA で Corp IT（情シス）を担当している kajinari です。 この 1 年で、Corp IT の日々の運用作業のほとんどを Claude の Skill として定義しました。アカウントの発行、クラウドサービス権限の付与、クラウドサービスの設定変更、PC や iPhone の手配、Zoom Phone ...</summary>
-  </entry>
-  <entry>
-    <title>MetaのAIアシスタント搭載小型デバイス「Muse Charm」の価格は4万円台か</title>
-    <id>https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/</id>
-    <link href="https://gigazine.net/news/20261120-muse-charm-may-cost-300-usd/" />
-    <updated>2026-11-20T13:45:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年12月のホリデーシーズンまでに発売されると予想されているMetaのAIアシスタント搭載小型デバイス「Muse Charm」が300ドル(約4万7700円)ほどになると、ニュースサイト・The Informationが報じました。Metaはこの数字を否定していません。 Meta Bets on $300 Muse Charm to Boost AI Hardware Business —…</summary>
-  </entry>
-  <entry>
-    <title>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2158261.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2158261.html" />
-    <updated>2026-11-20T20:11:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Windows Server 2028」で「WSUS」や「SMB 1.0」、「VBScript」などが削除へ／「Windows PowerShell 5.1」「WDS」は非推奨に、レガシーBIOSでの起動も不可</summary>
-  </entry>
-  <entry>
-    <title>SSDの価格は2027年後半に下落し始める可能性あり</title>
-    <id>https://gigazine.net/news/20261120-ssd-prices-outlook/</id>
-    <link href="https://gigazine.net/news/20261120-ssd-prices-outlook/" />
-    <updated>2026-11-20T22:06:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アナリストの分析により、HDDの価格が今後2年で高止まりする一方、SSDは価格が落ち着くという予測が出てきました。 When Will Hard Drive Prices Come Down? The 2026-2028 Outlook | DriveVault https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down…</summary>
-  </entry>
-  <entry>
-    <title>メモリ圧縮を使えばCPUの処理能力を少し犠牲にするだけでメモリ使用量を大幅に削減できる</title>
-    <id>https://gigazine.net/news/20261120-memory-compress/</id>
-    <link href="https://gigazine.net/news/20261120-memory-compress/" />
-    <updated>2026-11-20T15:24:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウェブブラウザで大量のタブを開いたり複数のアプリを同時に動かしたりすると、PCのメモリ(RAM)が不足して動作が遅くなることがあります。メモリ不足を解消するにはRAMの増設が効果的ですが、CPUを使ってメモリ内のデータを圧縮すればRAMを増設せずに多くのデータを保持できるとのこと。ソフトウェアエンジニアのテリー...</summary>
   </entry>
 </feed>
