@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-22T10:00:17.301002+09:00</updated>
+  <updated>2026-11-22T10:30:17.331642+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>情報漏えいを公表しないリスクの要点整理 - Qiita</title>
+    <id>https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2</id>
+    <link href="https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2" />
+    <updated>2026-11-22T07:25:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。 ただ、公表されているのは被害を受けた企業の一部だけだと思う。 今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。 先にキーワードを出す。 情報漏えい 個人情報保護委員会への報告 公表（報道発表） ランサムウェア...</summary>
+  </entry>
+  <entry>
+    <title>無料でセルフホストできWindows・macOS・LinuxアプリもあるRSSリーダー「WyrmRSS」、YouTube動画の再生やDiscord・Slackへの新着通知も可能</title>
+    <id>https://gigazine.net/news/20261121-wyrmrss/</id>
+    <link href="https://gigazine.net/news/20261121-wyrmrss/" />
+    <updated>2026-11-21T23:01:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ニュースサイトやブログなどの更新情報をまとめて取得できるほか、YouTube動画の再生・フィルター・外部サービスへの新着通知にも対応した無料のオープンソースRSSリーダーが「WyrmRSS」です。セルフホストに加えてWindows・macOS・Linux用のアプリも提供されているので実際に使ってみました。 kryoseu/WyrmRSS: A self-...</summary>
+  </entry>
   <entry>
     <title>Lean verification of the Riemann Hypothesis</title>
     <id>https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-19T13:35:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>この記事でわかること Playwright の launch_persistent_context で、パスワードを保存せずに、2回目から自動でログインした状態にする方法 同期版の Playwright で time.sleep() を使うと page.url が古いま...</summary>
-  </entry>
-  <entry>
-    <title>Setで同じIDの行が消えない理由：オブジェクトの重複除去と残す順をNode.jsで実測</title>
-    <id>https://qiita.com/ennagara128/items/77b9ad11f6b7014a4ad7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/77b9ad11f6b7014a4ad7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-19T10:35:37+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>[...new Set(rows)] で一覧の重複を消したのに、同じ ID のデータが残る。オブジェクトの配列では、「同じ値」の意味を決める必要があります。 参照が同じ・ID が同じ・どの行を残すかを Q&amp;A で整理します。 検証環境は macOS 27.2.1、Node....</summary>
-  </entry>
-  <entry>
-    <title>JSON.parseのreviverで項目が消える理由：return忘れと配列の穴をNode.jsで実測</title>
-    <id>https://qiita.com/ennagara128/items/65bb10ddfcd03293bc23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ennagara128/items/65bb10ddfcd03293bc23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-18T13:32:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>JSON.parse() で項目が消えたら、reviver の戻り値を確認します。 第2引数の reviver が undefined を返すと、そのプロパティは削除されます。対象外では元の値を返します。 検証環境は macOS 27.2.1 / Node.js v24.2...</summary>
   </entry>
 </feed>
