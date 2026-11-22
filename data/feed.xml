@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T00:00:12.465687+09:00</updated>
+  <updated>2026-11-23T00:30:14.422537+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま</title>
+    <id>https://note.com/cgbeginner/n/n5856d402f125</id>
+    <link href="https://note.com/cgbeginner/n/n5856d402f125" />
+    <updated>2026-11-22T22:51:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>167年人類が解けなかった問題がAIに解かれた発端は2026年11月20日、Anthropicの数学者レヴェント・アルポーゲ氏（ハーバード大学首席、プリンストン大学で博士号の天才）が、Claudeとの共同作業による「リーマン予想」の証明を自身のウェブサイトで公開したことだった。同じ手法で、より広い版の予想も同時に解けたとし...</summary>
+  </entry>
+  <entry>
+    <title>21世紀の精神異常者による/ための生活習慣制御【2026-11-23】 - 二千三百五十五年</title>
+    <id>https://obsolete.hatenadiary.com/entry/2026/11/21/231159</id>
+    <link href="https://obsolete.hatenadiary.com/entry/2026/11/21/231159" />
+    <updated>2026-11-22T09:59:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>まえがきのまえがき 本稿は、現在はてなブログ向けに作成している『抑鬱の生活、抑鬱のObsidian、抑鬱の再帰的自己改善』(仮題)というエントリの一部をベースに作成したものです。単体でも読めるようにしてありますが、私はより大きい風呂敷を広げて大きい話をする意図と予定があります。チャンネルを登録し、高評価ボタ...</summary>
+  </entry>
   <entry>
     <title>AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？</title>
     <id>https://gigazine.net/news/20261122-ai-will-not-make-you-rich/</id>
@@ -434,9 +450,9 @@
     <title>寝てる間に自動で動くAIエージェントを誰でも作れる：10分でわかる pstack 実践ガイド</title>
     <id>https://zenn.dev/canly/articles/ca6875cd79539f</id>
     <link href="https://zenn.dev/canly/articles/ca6875cd79539f" />
-    <updated>2026-11-20T18:04:40+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで公開した…</summary>
+    <updated>2026-11-21T07:35:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>カンリーCAIOの萩野です。 「All Code Is Slop (Except Mine)（全てのコードはゴミ、私のは除く）」を掲げる開発者 poteto（Lauren Tan）さんの基調講演（2026年11月11日、AI Engineer CODE 2026）では、1か月で3,000本のPRを本番に出し、その多くを寝ている間に進めた話が語られました。そのやり方を MIT ライセンスで...</summary>
   </entry>
   <entry>
     <title>"リーマン予想の証明"の検証は現在どこまで進んでいるか｜加藤文元</title>
@@ -535,6 +551,14 @@
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
   </entry>
   <entry>
+    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
+    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
+    <updated>2026-11-22T12:08:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だい...</summary>
+  </entry>
+  <entry>
     <title>堅牢な受け入れテストを書くには？</title>
     <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
     <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
@@ -557,14 +581,6 @@
     <updated>2026-11-21T17:06:49+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 障害の調査や振り返りで、JVM が書いたコードをどう実行しているか、特に JIT がいつ何をコンパイルし、そのコードがどこに保存されるのかを、前提として知っておく必要がありました。この記事は、そのときに調べたことを、実行時間とコンパイルのログ、jcmd の出力を照合して確かめながら整理したものです。 JIT や code cache の仕組みは、JVM の実装やバージョンによって変わりま…</summary>
-  </entry>
-  <entry>
-    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
-    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
-    <updated>2026-11-21T11:12:39+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い:…</summary>
   </entry>
   <entry>
     <title>PHPカンファレンス関西2026のお誘いチケットを学生・若手エンジニアの方へ先着2名に譲渡します - おうさまのみみはロバのみみ</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-20T13:22:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに Ollamaのライブラリに約100MBの音声合成（TTS）モデル「phonon」が出ていたので、試してみました！ モデルページによると、対応言語は、英語・フランス語・ドイツ語・スペイン語・ポルトガル語の5つです。そこで、英語の短い文・長い文と、対応していない日本語を読ませてみました。 結果を先に書くと、動作はとても軽く、英語は短い文も長い文も数秒以内で生成できました。日本語は、試した一文…</summary>
-  </entry>
-  <entry>
-    <title>columnsプロパティで縦積みのナビゲーションを作る – TAKLOG</title>
-    <id>https://www.tak-dcxi.com/article/vertical-navigation-with-columns-property/</id>
-    <link href="https://www.tak-dcxi.com/article/vertical-navigation-with-columns-property/" />
-    <updated>2026-11-20T01:01:13+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>フッターに置くリンク集のような、縦に並べたナビゲーションをcolumnsプロパティで段組みにしました。項目は上から下へ読む順番のまま段に分かれ、段の数は幅に応じてブラウザが決めるので、段の数を切り替えるメディアクエリは書いていません。 このリンク集はサイトの導線なので、メニューではなくナビゲーションと呼...</summary>
-  </entry>
-  <entry>
-    <title>なぜヘンリーのE2Eリポジトリは整理されないまま膨らみ続けたのか。 AIで加速した開発とガードレール - 株式会社ヘンリー エンジニアブログ</title>
-    <id>https://dev.henry.jp/entry/e2e-repository</id>
-    <link href="https://dev.henry.jp/entry/e2e-repository" />
-    <updated>2026-11-18T12:02:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>株式会社ヘンリーでソフトウェアエンジニアをしているwarabiです。 ヘンリーではAIを使った開発体制の改善についてさまざまな取り組みを行ってきましたが、それらの積み重ねもあり今ではエンジニアだけでなくデザイナーやQAメンバーなどからもPull Requestが作れる状況となっています。 AIによってさまざまな職種のメン...</summary>
   </entry>
 </feed>
