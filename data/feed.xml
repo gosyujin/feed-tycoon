@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T14:30:15.551535+09:00</updated>
+  <updated>2026-11-23T15:00:14.206650+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由</title>
+    <id>https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html</id>
+    <link href="https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html" />
+    <updated>2026-11-23T11:34:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由（1/2 ページ） 日々の通勤や移動で欠かせない鉄道の自動改札機に、いま大きな変化が起きている。駅の改札機にクレジットカードやデビットカード、スマートフォンなどをかざして通過する「タッチ決済改札」の導入が全国各地...</summary>
+  </entry>
+  <entry>
+    <title>useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計</title>
+    <id>https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata?slide=12</id>
+    <link href="https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata?slide=12" />
+    <updated>2026-11-22T23:39:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>堅牢性 1. useReducer で状態の更新を閉じ込める 状態への入り口を１つに制限して、事前に定義した操作のみに制限できる state state ← ← useState の中 ルールなし 渡された値がそのまま次の state setState ← コンポーネント ← なんでも渡せる useReducer の中 reducer 決められた操作だけが次の state を決める Actio..…</summary>
+  </entry>
   <entry>
     <title>アラフィフのおっさんが、初めて服をオーダーした話 (2)</title>
     <id>https://anond.hatelabo.jp/20261122180151</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-21T06:20:07+09:00</updated>
     <category term="はてブ IT" />
     <summary>日本でも「ダムフォン」は広がるか？ KDDIが「INFOBAR ZERO」で目指す2台持ちの新しい形：石野純也のMobile Eye（1/2 ページ） KDDIは、オープンマーケットモデル（SIMフリーモデル）を販売する「au Flex Style」を通じて、同社自身が企画した「INFOBAR ZERO」を発売する。現在、予約を受け付けており、12月25日に発売...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル</title>
-    <id>https://github.com/fkubota/understand-mode</id>
-    <link href="https://github.com/fkubota/understand-mode" />
-    <updated>2026-11-21T18:00:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>GitHub - mitaku/andon: A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.</title>
-    <id>https://github.com/mitaku/andon</id>
-    <link href="https://github.com/mitaku/andon" />
-    <updated>2026-11-21T19:52:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Andon — a one-person software factory. AI coding agents take issues from a ledger through implementation, review and merge, and the human is called only for the decisions that only they can make. 一人で使…</summary>
   </entry>
 </feed>
