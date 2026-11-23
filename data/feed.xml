@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T08:30:12.823722+09:00</updated>
+  <updated>2026-11-23T09:00:10.428347+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)</title>
+    <id>https://note.com/varu3/n/n4476366008f8</id>
+    <link href="https://note.com/varu3/n/n4476366008f8" />
+    <updated>2026-11-22T23:37:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>技術カンファレンスや勉強会の配信やスライドが当たり前になって（当たり前ではないのだが）、わざわざ現地に行く理由ってなんなんだろうなと考えることが増えた。 セッションは後から動画で見られるし、スライドも多くの場合はその日のうちに公開される。それでも自分はカンファレンスには割とよく足を運んでいて、それ...</summary>
+  </entry>
+  <entry>
+    <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
+    <id>https://note.com/yamac_/n/n198bdc344c64</id>
+    <link href="https://note.com/yamac_/n/n198bdc344c64" />
+    <updated>2026-11-22T19:08:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto mode...</summary>
+  </entry>
+  <entry>
+    <title>証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
+    <id>https://note.com/katobungen/n/n2326bd68a80e</id>
+    <link href="https://note.com/katobungen/n/n2326bd68a80e" />
+    <updated>2026-11-22T15:23:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつとい...</summary>
+  </entry>
   <entry>
     <title>[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO</title>
     <id>https://dev.classmethod.jp/articles/new-aws-signup/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-21T08:54:43+09:00</updated>
     <category term="はてブ IT" />
     <summary>【ワシントン＝中根圭一】米ＡＩ（人工知能）開発企業アンソロピックに所属する数学者が２０日、同社の生成ＡＩ「クロード」を使い、数学の難問「リーマン予想」を証明したと自身のウェブサイトで発表した。正しければ、１６７年にわたり数学者が挑んできた問題が解決する。証明の正しさについて第三者の専門家が今後、...</summary>
-  </entry>
-  <entry>
-    <title>S&amp;P500が調整局面入り 「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/" />
-    <updated>2026-11-21T08:11:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米国株が下げ止まらない。20日の米株式市場で、多くの機関投資家が運用指標とするS&amp;P500種株価指数は7日続落した。終値は6910となり、10月に付けた最高値（7818）からの下落率は「調整局面」入りとされる10%を超えた。S&amp;P500種の7日続落は2020年2月以来、6年9カ月ぶりだ。エヌビディアの好決算も、人工知能（AI）開発新...</summary>
-  </entry>
-  <entry>
-    <title>AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 - BBCニュース</title>
-    <id>https://www.bbc.com/japanese/articles/cwlyl6ymz841o</id>
-    <link href="https://www.bbc.com/japanese/articles/cwlyl6ymz841o" />
-    <updated>2026-11-21T13:22:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株...</summary>
-  </entry>
-  <entry>
-    <title>【AWS】AgentCore Gatewayにおけるアクセスコントロールとメタデータフィルタリング</title>
-    <id>https://qiita.com/yakumo_09/items/ea2debc1e73e27caa6a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yakumo_09/items/ea2debc1e73e27caa6a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-21T13:21:02+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに Managed Knowledge Baseは、AgentCore GatewayのConnector Targetとしてエージェントから呼べます。このとき、Retrieve ツールの引数でメタデータフィルタも指定できます。 部署ごとに文書を絞り込めるか、Gat...</summary>
   </entry>
 </feed>
