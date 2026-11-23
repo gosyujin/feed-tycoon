@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T12:00:13.493391+09:00</updated>
+  <updated>2026-11-23T12:30:16.709214+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -791,19 +791,19 @@
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
   </entry>
   <entry>
-    <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-    <id>https://zenn.dev/karamage/articles/73027ee36796dc</id>
-    <link href="https://zenn.dev/karamage/articles/73027ee36796dc" />
-    <updated>2026-11-22T12:08:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だい...</summary>
-  </entry>
-  <entry>
     <title>堅牢な受け入れテストを書くには？</title>
     <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
     <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
     <updated>2026-11-21T18:09:12+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>AI コーディングエージェントにテストを書かせると、実装を少し変えただけで壊れるテストができることがあります。この記事はそうならないテストを書かせる手順を 4 つにまとめたものです。筆者が自分のプロダクトで 15 日間試した結果を反映しています。 対象読者 次のどれかに当てはまる開発者に向けて書きました。 AI コーディングエージェント (Claude Code、Codex など) に、実装の前に…</summary>
+  </entry>
+  <entry>
+    <title>初心者がAIとMAXのAPKを解析してみた【後編】</title>
+    <id>https://zenn.dev/aki0804/articles/ac6690df48a1ae</id>
+    <link href="https://zenn.dev/aki0804/articles/ac6690df48a1ae" />
+    <updated>2026-11-21T17:44:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 前編では、MAXのAPKから本文の送信処理、VPNに関係する返信制御、診断機能DPSなどを調べました。コード上の条件は確認できましたが、Android上で実際にどの処理が動くかは未確認でした。 その後、AndroidエミュレーターをADBとFridaで操作できる環境が整ったため、アプリを起動して調査を進めました。今回は、登録画面で発生する通信、端末内の識別子、診断機能の設定値、別アプリか…</summary>
   </entry>
 </feed>
