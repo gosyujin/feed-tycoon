@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T16:00:13.744996+09:00</updated>
+  <updated>2026-11-23T16:30:13.949897+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>数行の変更でDockerビルドを最大91%高速化～GitLab CIの実行基盤を社内40リポジトリに展開するまで～</title>
+    <id>https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka</id>
+    <link href="https://speakerdeck.com/picopico/suukou-no-henkou-de-docker-o-saidai-91-kousokuka" />
+    <updated>2026-11-22T19:21:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>CloudNative Days Winter 2026の発表資料</summary>
+  </entry>
+  <entry>
+    <title>Lean 4 + Python Differential Testing — 技術解説スライド</title>
+    <id>https://kazunori279.github.io/lean4-tictactoe-test/slides_ja.html</id>
+    <link href="https://kazunori279.github.io/lean4-tictactoe-test/slides_ja.html" />
+    <updated>2026-11-22T18:24:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Lean 4 + Python Differential Testing 入門 Lean 4 の Executable Specification（実行可能な仕様）と形式証明を、 Python アプリケーションの「数学的に保証された Test Oracle」として活用する手法を、 Tic-Tac-Toe サンプルで 1 ステップずつ解説します。</summary>
+  </entry>
+  <entry>
+    <title>GitHub - xcodebeast/flashwright: The fastest end-to-end testing framework: a drop-in Playwright with the same API and test runner, 2-4x faster than Playwright, Cypress, WebdriverIO, Selenium and Puppeteer</title>
+    <id>https://github.com/xcodebeast/flashwright</id>
+    <link href="https://github.com/xcodebeast/flashwright" />
+    <updated>2026-11-22T09:55:53+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The fastest end-to-end testing framework. Flashwright is a fork of Playwright 1.64.1 that spends less time running your tests. Same API, same test runner, same npx playwright test. Replace the package…</summary>
+  </entry>
   <entry>
     <title>ゲホゲホ咳をしながらAVを観てたら外部サイトに飛んで「めっちゃ咳き込んでるんだけどこの人、子供だよね？シー🤫」みたいな話し声が携帯から聞こえてきてガチで怖い</title>
     <id>https://togetter.com/li/2773923</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-20T17:39:14+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>読み終えるとできること 道具で何も調べていないのに「入っていません」「できません」と言い切る返事を、Stop フックで差し戻せるようになります。 根拠は、2026-11-18 に偽の会話記録を作って6通りを実行した結果です(下の「動かした結果」)。 何に困ったか Cla...</summary>
-  </entry>
-  <entry>
-    <title>家のPull型世代バックアップをランサム想定で攻撃シミュレーションして、1行直した</title>
-    <id>https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Yu-muimi/items/9ed058ed915564e670df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-20T16:20:42+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>📚 3記事シリーズ 設計・脅威モデル編（Zenn） 物語・運用編（note） 検証・実装編（この記事） 検証コード → GitHub Raspberry Pi → Windows の自宅バックアップ（毎時 Pull、rrsync -ro、--delete なし、各...</summary>
-  </entry>
-  <entry>
-    <title>日本の法律をGitで管理してみた。法改正を `git diff` で追跡できる「houritsu」を作った</title>
-    <id>https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/bactay511/items/bc2958e730df68c49643?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-20T15:21:48+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 「法律をGitで管理したら面白いのでは？」 そんなちょっとした思いつきから、日本の法令をGitの履歴として管理するプロジェクト houritsu を作りました。 普段、ソフトウェア開発ではGitを使ってコードの変更履歴を管理しています。誰が、いつ、どこを変更した...</summary>
-  </entry>
-  <entry>
-    <title>「QAエンジニアってどんな仕事？」｜現役エンジニアが語るQAのリアル｜QAエンジニア・H執筆</title>
-    <id>https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-20T01:53:27+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>QAエンジニアとは？ QA（Quality Assurance）とは、日本語で「品質保証」という意味です。 システムやソフトウェアの品質を保証することを主な業務としています。 「ユーザーが安心して使える製品になっているか」 その品質を守ることが、QAエンジニアの役割です。...</summary>
   </entry>
 </feed>
