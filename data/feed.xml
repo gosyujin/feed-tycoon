@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T22:30:14.529162+09:00</updated>
+  <updated>2026-11-23T23:00:16.206971+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能</title>
+    <id>https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html</id>
+    <link href="https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html" />
+    <updated>2026-11-24T00:49:45+09:00</updated>
+    <category term="Publickey" />
+    <summary>Ruby on Railsの作者として知られるDHH氏が主導して開発しているデスクトップ向けのLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）正式版がリリースされました。 Om...</summary>
+  </entry>
+  <entry>
+    <title>PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能</title>
+    <id>https://www.publickey1.jp/blog/26/postgresql_19repackio.html</id>
+    <link href="https://www.publickey1.jp/blog/26/postgresql_19repackio.html" />
+    <updated>2026-11-24T00:45:37+09:00</updated>
+    <category term="Publickey" />
+    <summary>オープンソースのリレーショナルデータベース「PostgreSQL」の最新版となる「PostgreSQL 19」正式版がリリースされました（日本語のプレスリリース）。 PostgreSQLは毎年9月もしくは10月にメジャーバージョンアップが行...</summary>
+  </entry>
+  <entry>
+    <title>マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も</title>
+    <id>https://www.publickey1.jp/blog/26/database_hubai.html</id>
+    <link href="https://www.publickey1.jp/blog/26/database_hubai.html" />
+    <updated>2026-11-20T00:19:21+09:00</updated>
+    <category term="Publickey" />
+    <summary>マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、Microsoft Azureやオンプレミス、他社クラウドにあるデータベースなど、管理者が権限を持つデータベースを自動的に一覧表...</summary>
+  </entry>
   <entry>
     <title>Windows Server 2016 からの Active Directory 移行、アップグレードにあたっての考慮事項</title>
     <id>https://jpwinsup.github.io/blog/2026/08/05/ActiveDirectory/PromotionAndDemotion/windows-server-2016-ad-migration-considerations/?utm_source=chatgpt.com</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-22T11:49:45+09:00</updated>
     <category term="はてブ IT" />
     <summary> William Morrison, MD @morrisonMSK @RomaPete They are amazing. If you’re traveling within Japan they will pick up your luggage and deliver it to your next hotel same day or next 2026-11-22 03:02:08 P…</summary>
-  </entry>
-  <entry>
-    <title>LLMを呼ぶ、その先へ。12のGitHub教材で学ぶAIエンジニアリングのロードマップ</title>
-    <id>https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-22T11:46:05+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。 チャット画面を作ってLLMのAPIにつなぐと、思ったより早く「AIアプリらしいもの」が動きます。最近は開発支援AIもあるので、最初の手応えを得るまでの距離はずいぶん短くなりました。 ただ、ここから実際...</summary>
-  </entry>
-  <entry>
-    <title>「財政出動は効かない」という多重防衛——メカニズム無効論の四つの柱を解体する : システム設計視点の行動経済学 (67)</title>
-    <id>https://qiita.com/maskot1977/items/c7b88c9d6180b6ba0500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/c7b88c9d6180b6ba0500?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-22T10:31:41+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: 「システム設計視点の行動経済学」、第67回を始めましょう。その前に、まず前回の復習として、 緊縮の痛みは成長に変わるか——実証的に棄却された仮説が政策に残り続ける認知設計 : システム設計視点の行動経済学 (66) https://qiita.com/mask...</summary>
-  </entry>
-  <entry>
-    <title>coturnのTURN認証情報を期限付きで都度発行し、固定値より漏えい時の被害を抑える</title>
-    <id>https://qiita.com/takumi_engineer/items/50c27c11ccf08db3165a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takumi_engineer/items/50c27c11ccf08db3165a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-22T09:00:12+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>WebRTC配信でTURNサーバーに固定のユーザー名とパスワードを書くと、フロントのコードから抜かれて第三者の中継に使われるおそれがあります。この記事では、coturnの共有シークレット方式で、期限付きの認証情報をAPIから都度発行する方法を、動くコードで示します。 前提...</summary>
   </entry>
 </feed>
