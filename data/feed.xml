@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T12:30:16.709214+09:00</updated>
+  <updated>2026-11-23T13:00:18.731650+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
+    <id>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</id>
+    <link href="https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/" />
+    <updated>2026-11-23T09:10:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指し...</summary>
+  </entry>
+  <entry>
+    <title>ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」</title>
+    <id>https://gigazine.net/news/20261123-lastbook-offline-knowledge/</id>
+    <link href="https://gigazine.net/news/20261123-lastbook-offline-knowledge/" />
+    <updated>2026-11-23T00:26:08+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild society. https://lastbook.org/ LastbookはWindows・macOS・…</summary>
+  </entry>
   <entry>
     <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
     <id>https://cginterest.com/2026/11/20/eden-blender/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-21T11:31:00+09:00</updated>
     <category term="はてブ IT" />
     <summary>一番無難じゃないキャラが優勝 Suica「B案」とAI時代の愛されかた</summary>
-  </entry>
-  <entry>
-    <title>堅牢な受け入れテストを書くには？</title>
-    <id>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</id>
-    <link href="https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7" />
-    <updated>2026-11-21T18:09:12+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AI コーディングエージェントにテストを書かせると、実装を少し変えただけで壊れるテストができることがあります。この記事はそうならないテストを書かせる手順を 4 つにまとめたものです。筆者が自分のプロダクトで 15 日間試した結果を反映しています。 対象読者 次のどれかに当てはまる開発者に向けて書きました。 AI コーディングエージェント (Claude Code、Codex など) に、実装の前に…</summary>
-  </entry>
-  <entry>
-    <title>初心者がAIとMAXのAPKを解析してみた【後編】</title>
-    <id>https://zenn.dev/aki0804/articles/ac6690df48a1ae</id>
-    <link href="https://zenn.dev/aki0804/articles/ac6690df48a1ae" />
-    <updated>2026-11-21T17:44:02+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 前編では、MAXのAPKから本文の送信処理、VPNに関係する返信制御、診断機能DPSなどを調べました。コード上の条件は確認できましたが、Android上で実際にどの処理が動くかは未確認でした。 その後、AndroidエミュレーターをADBとFridaで操作できる環境が整ったため、アプリを起動して調査を進めました。今回は、登録画面で発生する通信、端末内の識別子、診断機能の設定値、別アプリか…</summary>
   </entry>
 </feed>
