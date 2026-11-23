@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T00:30:21.043114+09:00</updated>
+  <updated>2026-11-24T01:00:16.115389+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ジェンスン・フアン氏、11日間の不在の後、NVIDIAのCEOに返り咲き | テクノエッジ TechnoEdge</title>
+    <id>https://www.techno-edge.net/article/2026/11/23/5793.html</id>
+    <link href="https://www.techno-edge.net/article/2026/11/23/5793.html" />
+    <updated>2026-11-24T00:05:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAの創業者であるジェンスン・フアン氏が、社長兼CEO（代表取締役）として復帰しました。 NVIDIAが2026年11月23日（米国時間）、取締役会が全会一致で決定したとして発表。取締役会はフアン氏との協議・面談を経て、同氏の誠実さとNVIDIAを率いる能力に納得したとして復帰を承認。米国の国家安全保障上のリスクをも...</summary>
+  </entry>
   <entry>
     <title>NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director | NVIDIA Newsroom</title>
     <id>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</id>
@@ -143,6 +151,14 @@
     <summary>For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used f…</summary>
   </entry>
   <entry>
+    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
+    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
+    <updated>2026-11-23T19:14:56+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ...</summary>
+  </entry>
+  <entry>
     <title>氷河期オタクエンジニアおじさん、底辺文化地域で暮らす。</title>
     <id>https://anond.hatelabo.jp/20261123174519</id>
     <link href="https://anond.hatelabo.jp/20261123174519" />
@@ -157,14 +173,6 @@
     <updated>2026-11-23T15:56:43+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Googleの『Site Reliability Engineering, 2nd Edition』に、「Safety Engineering for SRE with STPA and CAST」という章が追加されました。 STAMPやSTPAは、システム安全工学から生まれた考え方・分析手法であり、Googleでも実際に利用され始めているようです。2021年にはGoogle社内研修が始まり、20…</summary>
-  </entry>
-  <entry>
-    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
-    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
-    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
-    <updated>2026-11-23T14:17:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証で…</summary>
   </entry>
   <entry>
     <title>AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog</title>
@@ -311,20 +319,20 @@
     <summary>この記事の結論 ガードレールは「人の注意をなくすもの」ではなく「不注意を事故にしないもの」 どこまでやっても人の注意は残る。ルール・仕組み・個人の注意の全部が要る 合言葉は「AIに渡す前に、ひと呼吸」 はじめに 今年の5月、AWSの AI-DLC Unicorn ...</summary>
   </entry>
   <entry>
+    <title>なぜ今形式検証なのか</title>
+    <id>https://zenn.dev/ncdc/articles/dcec80b0c067b0</id>
+    <link href="https://zenn.dev/ncdc/articles/dcec80b0c067b0" />
+    <updated>2026-11-23T15:15:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立...</summary>
+  </entry>
+  <entry>
     <title>｢野村は100%､楽天･SBIは50%｣は過去の話…NISA口座を乗っ取られても｢全額戻るとは限らない｣補償の新ルール（プレジデントオンライン） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358</id>
     <link href="https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358" />
     <updated>2026-11-23T14:30:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>情報流出の可能性についての楽天証券の告知を表示するスマートフォン画面＝2026年11月17日午後 - 写真＝共同通信社（株式会社プレジデント社）個人投資家が増える中、証券口座が犯罪者の標的になっている。ファイナンシャルプランナーでIT講師も務める川淵ゆかりさんは「口座を乗っ取られて被害が出た場合でも、証券会社...</summary>
-  </entry>
-  <entry>
-    <title>なぜ今形式検証なのか</title>
-    <id>https://zenn.dev/ncdc/articles/dcec80b0c067b0</id>
-    <link href="https://zenn.dev/ncdc/articles/dcec80b0c067b0" />
-    <updated>2026-11-19T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様…</summary>
   </entry>
   <entry>
     <title>マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか 問われる経営の責任</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-22T19:00:18+09:00</updated>
     <category term="はてブ IT" />
     <summary>音楽コンテンツなどを販売する「タワーレコード」は、運営する通販サイトが不正アクセスを受け、顧客のメールアドレスや氏名などあわせておよそ1100万件の個人情報が流出したと発表しました。 「タワーレコ…</summary>
-  </entry>
-  <entry>
-    <title>「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io</title>
-    <id>https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html</id>
-    <link href="https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html" />
-    <updated>2026-11-20T09:41:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「サイバー対処能力強化法」の施行直後からフル稼働な「国家サイバー統括室」 昨今の漏洩ラッシュを受け、高市総理が「緊急対策パッケージ」の作成を 10/26 の関係閣僚会議で指示し、それが 11/6 に公開された。 内容を解説する。 この記事は、サイバーセキュリティアドベントカレンダー 2 日目である。 サイバーセキュ...</summary>
   </entry>
 </feed>
