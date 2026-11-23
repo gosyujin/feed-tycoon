@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T11:00:13.324356+09:00</updated>
+  <updated>2026-11-23T11:30:13.837733+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果</title>
+    <id>https://gigazine.net/news/20261121-ai-agents-leak-secrets/</id>
+    <link href="https://gigazine.net/news/20261121-ai-agents-leak-secrets/" />
+    <updated>2026-11-21T21:01:57+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 AI agents give up their secrets under the influence of swarms | AI Ali...</summary>
+  </entry>
   <entry>
     <title>大阪のホテルに宿泊、食事で外出しようとしたらギャルみたいな女性に「ご飯行きませんか？」と誘われ、怖くて無視してホテルの部屋へ戻ってUberで注文した「都会怖いよ」</title>
     <id>https://togetter.com/li/2773878</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-21T17:44:02+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 前編では、MAXのAPKから本文の送信処理、VPNに関係する返信制御、診断機能DPSなどを調べました。コード上の条件は確認できましたが、Android上で実際にどの処理が動くかは未確認でした。 その後、AndroidエミュレーターをADBとFridaで操作できる環境が整ったため、アプリを起動して調査を進めました。今回は、登録画面で発生する通信、端末内の識別子、診断機能の設定値、別アプリか…</summary>
-  </entry>
-  <entry>
-    <title>JVM がコードを実行する仕組みを理解したい</title>
-    <id>https://zenn.dev/rea9r/articles/jvm-code-execution</id>
-    <link href="https://zenn.dev/rea9r/articles/jvm-code-execution" />
-    <updated>2026-11-21T17:06:49+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 障害の調査や振り返りで、JVM が書いたコードをどう実行しているか、特に JIT がいつ何をコンパイルし、そのコードがどこに保存されるのかを、前提として知っておく必要がありました。この記事は、そのときに調べたことを、実行時間とコンパイルのログ、jcmd の出力を照合して確かめながら整理したものです。 JIT や code cache の仕組みは、JVM の実装やバージョンによって変わりま…</summary>
   </entry>
 </feed>
