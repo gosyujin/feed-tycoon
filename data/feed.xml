@@ -2,10 +2,90 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T07:42:54.091979+09:00</updated>
+  <updated>2026-11-24T08:00:13.527454+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>コーディングエージェントが変えたOSS開発のプロセスと喜び</title>
+    <id>https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565</id>
+    <link href="https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565" />
+    <updated>2026-11-24T02:37:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事は、2026年11月11日に公開した英語記事 Coding Agents Are Changing How I Build Open Source and Why I Do It の翻訳記事です。 この記事の要点 停滞していたOSSの開発や保守が再び動き出し、ユーザーからの不具合報告やセキュリティ課題にも手をつけられるようになった。 並行して進められる仕事は増えたが、次々と判断を迫られる疲…</summary>
+  </entry>
+  <entry>
+    <title>S3 Vectors は RAG のベクトルストアに使えるか（40問で検証＋ハイブリッド検索に関する追記）</title>
+    <id>https://zenn.dev/shino_i/articles/faeef70f08124c</id>
+    <link href="https://zenn.dev/shino_i/articles/faeef70f08124c" />
+    <updated>2026-11-24T00:57:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>JAWS-UG 神戸「残暑！LT会」（2026-10-23）で話した内容と、その後 S3 Vectors がハイブリッド検索に対応した（2026-11-16）ことを受けた追試の結果をまとめます。 ! 検証は東京リージョンで、2026-10-21〜23 と 2026-11-23 に行いました。仕様は、2026-11-23〜24 に確認した AWS のドキュメントに基づきます。 なぜこのテーマにしたの…</summary>
+  </entry>
+  <entry>
+    <title>JSConf JP 2026に参加記録・初登壇の反省など</title>
+    <id>https://zenn.dev/igrep/articles/2026-11-jsconfjp</id>
+    <link href="https://zenn.dev/igrep/articles/2026-11-jsconfjp" />
+    <updated>2026-11-24T00:08:26+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>去る2026年11月22日、に開催されたJSConf JP 2026に参加し、初めて登壇させていただくことができました🎉！この記事では私の発表内容や反省、そして他の方々の発表で印象に残ったものなどをまとめます。 私の発表について こちらです: JS･WasmにもあるRustのアレ - コンポーネント間でやりとりするオブジェクトを管理する (1) Wasm Component Model について、…</summary>
+  </entry>
+  <entry>
+    <title>iPhoneに乗り換えてでも使う価値があるかも!? 新型センサー搭載「Apple Watch Series 12」を使ってみた</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/review/2157103.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/review/2157103.html" />
+    <updated>2026-11-24T00:06:21+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>iPhoneに乗り換えてでも使う価値があるかも!? 新型センサー搭載「Apple Watch Series 12」を使ってみた</summary>
+  </entry>
+  <entry>
+    <title>iOSエンジニアのための OAuth 2.0 + PKCE 入門 ― 仕組みを理解してから、Swiftで実装する</title>
+    <id>https://zenn.dev/mobile_app_tec/articles/ios-oauth2-pkce-native-app</id>
+    <link href="https://zenn.dev/mobile_app_tec/articles/ios-oauth2-pkce-native-app" />
+    <updated>2026-11-23T22:56:35+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 業務で担当した iOS アプリ（SwiftUI）で、OAuth 2.0 + PKCE のログインを外部ライブラリなしで実装しました。 実装してみて、iOS エンジニアの間では 仕組みの理解があいまいなまま になりがちだと感じました。たとえば、次の質問にすぐ答えられるでしょうか。 OAuth はログイン（認証）の仕組み？ トークン交換は何分おきにするもの？ PKCE は OAuth とは別…</summary>
+  </entry>
+  <entry>
+    <title>【技術書典21】17人の開発者と作った合同誌『AI キャラクター開発 十人十色』、会場50部が完売しました！！！</title>
+    <id>https://zenn.dev/mei999/articles/33f2965b3c021c</id>
+    <link href="https://zenn.dev/mei999/articles/33f2965b3c021c" />
+    <updated>2026-11-23T21:52:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 皆さまこんにちは、めいです。 今回、2026年11月23日（月・祝）に池袋サンシャインシティ 展示ホールDで開催された技術書典21（スペース：え03）に参加して、AIキャラクター開発者17人の合同誌『AI キャラクター開発 十人十色』（サークル：The Dancing Knowledge、全236ページ）を出しました！ そして結果は……会場に持ち込んだ紙の本50部、完売！！！ 本当にうれ…</summary>
+  </entry>
+  <entry>
+    <title>JSConf JP 2026 公開資料・Xアカウントリンクまとめ</title>
+    <id>https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026</id>
+    <link href="https://zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026" />
+    <updated>2026-11-23T14:38:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>2026/11/22(日)で開催された JSConf JP 2026に関する、現時点での公開資料と X アカウントリンクをまとめました。 よろしければご活用ください。 ! この記事は、個人ブログへ投稿した記事の転載です。 はじめに https://jsconf.jp/2026/ja 登壇社名および登壇者名は敬称略させていただいています。 x アカウントについては、以下のように確認できたものを記載し…</summary>
+  </entry>
+  <entry>
+    <title>箱入り娘ソルバーを約9,400倍高速化してもらった</title>
+    <id>https://zenn.dev/kaorun343/articles/klotski-solver-optimization</id>
+    <link href="https://zenn.dev/kaorun343/articles/klotski-solver-optimization" />
+    <updated>2026-11-23T11:32:49+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。kaorun343 です。 今回はRust で書いた箱入り娘(スライディングブロックパズル)のソルバーをClaude Codeに約9,400倍高速化してもらった内容を紹介します。前回の「孤独の７」と同様です。 https://zenn.dev/kaorun343/articles/cryptarithm-digit-by-digit 背景 箱入り娘 箱入り娘は4×5 の盤面にある10個…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の mods を入れる前に調べたこと（備忘録）</title>
+    <id>https://zenn.dev/shogaku/articles/claude-code-mods-memo</id>
+    <link href="https://zenn.dev/shogaku/articles/claude-code-mods-memo" />
+    <updated>2026-11-23T10:51:28+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>きっかけ 2026-10-01、Claude Code に mods という仕組みが入りました。TypeScript の小さな関数を書くと、Claude Code の動きや画面を変えられるものです。この記事では、仕組みの名前を mods、1 本ずつを mod と書きます。 実は正式版の前、試験版の段階（CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 で有効にする funct…</summary>
+  </entry>
+  <entry>
+    <title>AIがテストに合わせて実装していない？仕様テストを隠して確かめる</title>
+    <id>https://zenn.dev/h_aso/articles/isolated-spec-tests-claude-code</id>
+    <link href="https://zenn.dev/h_aso/articles/isolated-spec-tests-claude-code" />
+    <updated>2026-11-23T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 仕様書を作ってAIに実装してもらうと、テストは全部通っているのに、よく見ると本来の意図とは少し違う実装になっていた、ということがあると思います。AIがテストに合わせて答え合わせのように作ってしまうと、そのずれに気づかないまま開発が進んでしまいます。 AIのコードレビューについて海外の記事を調べていたところ、これに関係する「Isolated Specification Tests」という考…</summary>
+  </entry>
   <entry>
     <title>Mutex poisoning is not for everyone</title>
     <id>https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html</id>
@@ -327,14 +407,6 @@
     <summary>For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used f…</summary>
   </entry>
   <entry>
-    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
-    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
-    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
-    <updated>2026-11-23T19:14:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ...</summary>
-  </entry>
-  <entry>
     <title>氷河期オタクエンジニアおじさん、底辺文化地域で暮らす。</title>
     <id>https://anond.hatelabo.jp/20261123174519</id>
     <link href="https://anond.hatelabo.jp/20261123174519" />
@@ -349,6 +421,14 @@
     <updated>2026-11-23T15:56:43+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Googleの『Site Reliability Engineering, 2nd Edition』に、「Safety Engineering for SRE with STPA and CAST」という章が追加されました。 STAMPやSTPAは、システム安全工学から生まれた考え方・分析手法であり、Googleでも実際に利用され始めているようです。2021年にはGoogle社内研修が始まり、20…</summary>
+  </entry>
+  <entry>
+    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
+    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
+    <updated>2026-11-23T14:17:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証で…</summary>
   </entry>
   <entry>
     <title>AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog</title>
@@ -495,20 +575,20 @@
     <summary>この記事の結論 ガードレールは「人の注意をなくすもの」ではなく「不注意を事故にしないもの」 どこまでやっても人の注意は残る。ルール・仕組み・個人の注意の全部が要る 合言葉は「AIに渡す前に、ひと呼吸」 はじめに 今年の5月、AWSの AI-DLC Unicorn ...</summary>
   </entry>
   <entry>
-    <title>なぜ今形式検証なのか</title>
-    <id>https://zenn.dev/ncdc/articles/dcec80b0c067b0</id>
-    <link href="https://zenn.dev/ncdc/articles/dcec80b0c067b0" />
-    <updated>2026-11-23T15:15:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立...</summary>
-  </entry>
-  <entry>
     <title>｢野村は100%､楽天･SBIは50%｣は過去の話…NISA口座を乗っ取られても｢全額戻るとは限らない｣補償の新ルール（プレジデントオンライン） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358</id>
     <link href="https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358" />
     <updated>2026-11-23T14:30:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>情報流出の可能性についての楽天証券の告知を表示するスマートフォン画面＝2026年11月17日午後 - 写真＝共同通信社（株式会社プレジデント社）個人投資家が増える中、証券口座が犯罪者の標的になっている。ファイナンシャルプランナーでIT講師も務める川淵ゆかりさんは「口座を乗っ取られて被害が出た場合でも、証券会社...</summary>
+  </entry>
+  <entry>
+    <title>なぜ今形式検証なのか</title>
+    <id>https://zenn.dev/ncdc/articles/dcec80b0c067b0</id>
+    <link href="https://zenn.dev/ncdc/articles/dcec80b0c067b0" />
+    <updated>2026-11-19T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様…</summary>
   </entry>
   <entry>
     <title>マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか 問われる経営の責任</title>
@@ -725,85 +805,5 @@
     <updated>2026-11-22T19:08:35+09:00</updated>
     <category term="はてブ IT" />
     <summary>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto mode...</summary>
-  </entry>
-  <entry>
-    <title>証明が得られたあとに−−証明を理解するという仕事｜加藤文元</title>
-    <id>https://note.com/katobungen/n/n2326bd68a80e</id>
-    <link href="https://note.com/katobungen/n/n2326bd68a80e" />
-    <updated>2026-11-22T15:23:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月20日、レヴェント・アルポゲ氏は、AIのClaudeとともにリーマン予想の証明を得たと発表しました。証明はLeanという証明支援系で形式化され、公開されたライブラリはおよそ1700万行に及びます。翌日には、Leanとその数学ライブラリMathlibのコミュニティが、命題の定式化と証明を検証し、正しさに確信をもつとい...</summary>
-  </entry>
-  <entry>
-    <title>[アップデート]AWSアカウント作成がとんでもなく別物になったので動作の違いを見てみた[新しいAWSエクスペリエンス] | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/new-aws-signup/</id>
-    <link href="https://dev.classmethod.jp/articles/new-aws-signup/" />
-    <updated>2026-11-23T02:32:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>これまでのAWSアカウント作成と違いすぎるので気をつけて使いましょう。通常のAWSアカウントを作成するならadvanced featuresにしてください。 こんにちは、臼田です。 みなさん、AWS使ってますか？(挨拶 今回は新規にAWSアカウントを作成しようとすると、これまでと全く異なる状態となるためこの動作を紹介します。 こ...</summary>
-  </entry>
-  <entry>
-    <title>ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ…→「これマジでクソ過ぎてAdobe系製品全部消したい」</title>
-    <id>https://posfie.com/@petaritape/p/tgzVdbL</id>
-    <link href="https://posfie.com/@petaritape/p/tgzVdbL" />
-    <updated>2026-11-23T07:04:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ちゅん🐤 @KotorinChunChun ここ1か月くらい、PCに勝手に Adobe Express Photos が勝手にインストールされたっていう問い合わせが多発してるんですが、さすがにこれはAdobeさんやりすぎじゃないでしょうか・・・？ しかも、Windows+Shift+Sを勝手に上書きして、機能劣化版のスクショツールに置き換わるんですよ… 2026-11...</summary>
-  </entry>
-  <entry>
-    <title>工学系プログラマー絵描きが生成AIでイラストや漫画を生成してみた感想</title>
-    <id>https://anond.hatelabo.jp/20261122140104</id>
-    <link href="https://anond.hatelabo.jp/20261122140104" />
-    <updated>2026-11-22T14:01:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ただの楽しかったという感想記事。 生成AIの是非をめぐる議論にはあまり触れないが、賛成派と反対派の両方の知見がある者の意見としてここに置いておきます。 身バレするとややこしそうなのでぼかしたりフェイクを入れて書くことをお許しください。 ①自己紹介 工業系の学校出身で、情報を専門的に学んでいました。C言語...</summary>
-  </entry>
-  <entry>
-    <title>SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)</title>
-    <id>https://zenn.dev/l_port8000/articles/7550549e6e9970</id>
-    <link href="https://zenn.dev/l_port8000/articles/7550549e6e9970" />
-    <updated>2026-11-22T12:46:17+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>⚠注意書き ・非公式アプリを助長するものではありません。 ・iOS27以上じゃないと単体は無理らしい。 ・アプリの出どころをしっかり確認してください。通常GitHubやdecrypt.download, ipatoolからのインストールのみに限定してください。 ・わからないところがあったらTwitter間違えたXの@L_port8080をメンションして質問してください。必要に応じてここにも書き加え…</summary>
-  </entry>
-  <entry>
-    <title>AndroidスマホがWindows PCのサブ画面に？マイクロソフトが新機能 - すまほん!!</title>
-    <id>https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen</id>
-    <link href="https://smhn.info/202611-microsoft-link-to-windows-extend-display-android-second-screen" />
-    <updated>2026-11-22T21:29:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Extend displayのイメージ。画像出典：Windows Latest MacにはiPadを2台目の画面にする「Sidecar」（iPhoneは非対応）があり、Samsungも一部のGalaxyタブレットをWindows PCにつなぐ「Second Screen」を提供しています。便利なんですよね。 でもMicrosoft自身のスマホ連携の機能には、こうした機能が不在でした。 そんな...</summary>
-  </entry>
-  <entry>
-    <title>Agent Harnessを理解するために、150行ほどのPythonで自作してみた - Qiita</title>
-    <id>https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962</id>
-    <link href="https://qiita.com/yamamoto_a_genee/items/76562c5c80032ad9e962" />
-    <updated>2026-11-22T17:32:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>すべてを最初から実装する必要はありません。今回はツール、簡易ガードレール、可観測性、コンテキスト保護に絞って作ります。 4. 動かしてみる：最小の Harness Harness の基本的な流れは次のとおりです。 LLM がツール呼び出しを要求し、Harness が実行します。その結果を会話履歴に追加し、再び LLM に渡す。このルー...</summary>
-  </entry>
-  <entry>
-    <title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title>
-    <id>https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-22T20:56:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>友達のブログが AI slop だらけになって、がっかりしていませんか？ この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。 とはいえ、アンチA...</summary>
-  </entry>
-  <entry>
-    <title>うわっ…私の記事、スロップすぎ…？（見出しだけ本気出すプロンプト7選）</title>
-    <id>https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-22T20:34:22+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>当記事ではAIスロップについて明確な定義は行いません （よく見るAIっぽい記事というニュアンスで使っております） 👋 はじめに 記事を書き終えて読み返したとき「うわっ…なんかAIスロップっぽいなぁ〜」って思ったことありませんか？私は毎回思います。たとえ手書きで書い...</summary>
-  </entry>
-  <entry>
-    <title>【React個人開発-JISOU課題1】学習記録アプリを作る過程で詰まったところと解決策</title>
-    <id>https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-22T19:40:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>成果物 簡易的な学習記録アプリを制作しました。 課題着手開始：2026年11月12日木曜日 課題制作完了：2026年11月13日金曜日 準拠教材 受講開始：2026年10月15日木曜日 受講完了：2026年10月21日水曜日 成果物のGitHubリポジトリ ...</summary>
   </entry>
 </feed>
