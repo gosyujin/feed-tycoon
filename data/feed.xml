@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T23:00:16.206971+09:00</updated>
+  <updated>2026-11-23T23:30:13.236585+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director</title>
+    <id>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</id>
+    <link href="https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director" />
+    <updated>2026-11-23T23:09:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIA (NASDAQ: NVDA) today announced that effective immediately, Jensen Huang has been reinstated as President and Chief Executive Officer and as a member of the Board. The Board of Directors voted u…</summary>
+  </entry>
+  <entry>
+    <title>MPLUS_FONTS/fonts/MPLUS3 at master · coz-m/MPLUS_FONTS</title>
+    <id>https://github.com/coz-m/MPLUS_FONTS/tree/master/fonts/MPLUS3</id>
+    <link href="https://github.com/coz-m/MPLUS_FONTS/tree/master/fonts/MPLUS3" />
+    <updated>2026-11-23T16:00:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
+  </entry>
+  <entry>
+    <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー</title>
+    <id>https://speakerdeck.com/tascript/jmap-is-game-changer?slide=105</id>
+    <link href="https://speakerdeck.com/tascript/jmap-is-game-changer?slide=105" />
+    <updated>2026-11-23T13:36:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JSConfJP 2026の登壇資料です</summary>
+  </entry>
+  <entry>
+    <title>脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する - Qiita</title>
+    <id>https://qiita.com/heki-dm/items/77ecaacd592d1c4459df</id>
+    <link href="https://qiita.com/heki-dm/items/77ecaacd592d1c4459df" />
+    <updated>2026-11-22T18:00:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。 CVSS 9.8 (Critical) CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 「数字が大きいほどヤバいんだろうな」くらいの理解で済ませていたのですが、依存パッケージの脆弱性を監視するアプリ『Vectana』を作るにあたって、改めてち...</summary>
+  </entry>
   <entry>
     <title>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能</title>
     <id>https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html</id>
@@ -111,7 +143,7 @@
     <summary>For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used f…</summary>
   </entry>
   <entry>
-    <title>著名な製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
     <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
     <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
     <updated>2026-11-23T19:14:56+09:00</updated>
@@ -773,37 +805,5 @@
     <updated>2026-11-20T09:41:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>「サイバー対処能力強化法」の施行直後からフル稼働な「国家サイバー統括室」 昨今の漏洩ラッシュを受け、高市総理が「緊急対策パッケージ」の作成を 10/26 の関係閣僚会議で指示し、それが 11/6 に公開された。 内容を解説する。 この記事は、サイバーセキュリティアドベントカレンダー 2 日目である。 サイバーセキュ...</summary>
-  </entry>
-  <entry>
-    <title>Next.jsのストリーミングはLambda Web Functionsで動くか</title>
-    <id>https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions</id>
-    <link href="https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions" />
-    <updated>2026-11-22T11:30:19+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事はAIとの共著です。 こんにちは！@Ryo54388667です！☺️ 普段は都内でエンジニアとして業務をしてます！主にTypeScriptやNext.jsといった技術を触っています。 Lambda Web Functions が出たとき、最初に気になったのは「Next.js の Suspense ストリーミングで、ちゃんと段階表示されるのか」でした。以前 Lambda Web Adap…</summary>
-  </entry>
-  <entry>
-    <title>おやつ屋「六花亭」が不正アクセス、クレカのセキュリティコードまで流出→最上位のやらかしなのに誠実さを感じてかあまり荒れていない……なぜ他社にこれができないのか？</title>
-    <id>https://togetter.com/li/2773676</id>
-    <link href="https://togetter.com/li/2773676" />
-    <updated>2026-11-22T17:52:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>六花亭公式 @rokkatei 「六花亭オンラインショップ」への不正アクセスによる個人情報流出の可能性に関するお詫びとお知らせ このたび、弊社が運営する「六花亭オンラインショップ」が第三者による不正アクセスを受け、サイト内のプログラムが改ざんされていたことが判明いたしました。これにより、お客さまが入力された...</summary>
-  </entry>
-  <entry>
-    <title>Upload2Shell</title>
-    <id>https://pwn.ai/upload2shell</id>
-    <link href="https://pwn.ai/upload2shell" />
-    <updated>2026-11-22T08:53:55+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>A use-after-free in Ghostscript’s Type 1 font loader lets a crafted document cross Ghostscript’s -dSAFER sandbox, alter native path controls, and execute attacker-chosen commands as the rendering proc…</summary>
-  </entry>
-  <entry>
-    <title>クロネコヤマトのロゴが外国人たちに人気らしい「これまでで一番好きな企業ロゴ」「これの絵柄が前後に入ったシャツを持ってるよ！」</title>
-    <id>https://togetter.com/li/2773549</id>
-    <link href="https://togetter.com/li/2773549" />
-    <updated>2026-11-22T11:49:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary> William Morrison, MD @morrisonMSK @RomaPete They are amazing. If you’re traveling within Japan they will pick up your luggage and deliver it to your next hotel same day or next 2026-11-22 03:02:08 P…</summary>
   </entry>
 </feed>
