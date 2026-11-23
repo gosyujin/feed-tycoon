@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T21:00:16.547020+09:00</updated>
+  <updated>2026-11-23T21:30:10.294494+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ChatGPT の速さを支える OpenAI の Performance Factory</title>
+    <id>https://openai.com/ja-JP/index/how-openai-performance-factory-keeps-chatgpt-fast/</id>
+    <link href="https://openai.com/ja-JP/index/how-openai-performance-factory-keeps-chatgpt-fast/" />
+    <updated>2026-11-23T17:01:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>エージェントを活用した開発の驚異的なスピードにより、従来のパフォーマンスエンジニアリングの手法では対応しきれなくなっています。このスピードに対応するため、私たちは Performance Factory を構築しました。Codex と OpenAI のモデルの能力を最大限に活用し、性能劣化をかつてない速さで発見・修正する自律型シス...</summary>
+  </entry>
   <entry>
     <title>お客様が来店し「〇〇はセール対象ですよね？」と聞かれたのでセール対象外と説明、するとChatGPTの画面を見せて「対象店舗と書いてある」と主張…確認したらやはり対象外</title>
     <id>https://togetter.com/li/2774063</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-21T23:24:05+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 実はこの記事、1か月ほど前（2026年10月中旬）に書き上げたあと、そのまま下書きフォルダに埋もれていたものを見つけたのです。 当時のまま公開しても良かったのですが、この1か月で起きた出来事や Microsoft Ignite 2026 に参加して得られた視点、...</summary>
-  </entry>
-  <entry>
-    <title>情報漏えいを公表しないリスクの要点整理</title>
-    <id>https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-21T20:51:38+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。 ただ、公表されているのは被害を受けた企業の一部だけだと思う。 今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。 先にキーワードを出す。 情報漏えい 個人情報保護委員会への報告 ...</summary>
   </entry>
 </feed>
