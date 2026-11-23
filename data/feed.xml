@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-23T11:30:13.837733+09:00</updated>
+  <updated>2026-11-23T12:00:13.493391+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
+    <id>https://cginterest.com/2026/11/20/eden-blender/</id>
+    <link href="https://cginterest.com/2026/11/20/eden-blender/" />
+    <updated>2026-11-21T09:16:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Xane Studiosは、Blender向けのキャラクター作成アドオン「Eden | Ultimate Character Studio」を、Superhiveでリリースしました。 Eden とは Edenは、Blenderの中で人物のキャラクターを作るためのアドオンです。男性または女性のベースから始め、スライダーで顔と体の形を変えたうえで、肌、髪、服を選び、最後にポー...</summary>
+  </entry>
   <entry>
     <title>AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果</title>
     <id>https://gigazine.net/news/20261121-ai-agents-leak-secrets/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-21T18:09:12+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>AI コーディングエージェントにテストを書かせると、実装を少し変えただけで壊れるテストができることがあります。この記事はそうならないテストを書かせる手順を 4 つにまとめたものです。筆者が自分のプロダクトで 15 日間試した結果を反映しています。 対象読者 次のどれかに当てはまる開発者に向けて書きました。 AI コーディングエージェント (Claude Code、Codex など) に、実装の前に…</summary>
-  </entry>
-  <entry>
-    <title>初心者がAIとMAXのAPKを解析してみた【後編】</title>
-    <id>https://zenn.dev/aki0804/articles/ac6690df48a1ae</id>
-    <link href="https://zenn.dev/aki0804/articles/ac6690df48a1ae" />
-    <updated>2026-11-21T17:44:02+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 前編では、MAXのAPKから本文の送信処理、VPNに関係する返信制御、診断機能DPSなどを調べました。コード上の条件は確認できましたが、Android上で実際にどの処理が動くかは未確認でした。 その後、AndroidエミュレーターをADBとFridaで操作できる環境が整ったため、アプリを起動して調査を進めました。今回は、登録画面で発生する通信、端末内の識別子、診断機能の設定値、別アプリか…</summary>
   </entry>
 </feed>
