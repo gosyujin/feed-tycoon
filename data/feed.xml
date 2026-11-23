@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T08:00:13.527454+09:00</updated>
+  <updated>2026-11-24T08:30:15.565418+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NECの「バザールでござーる」今日で引退。約35年の歴史に幕</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2158462.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2158462.html" />
+    <updated>2026-11-24T06:20:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NECの「バザールでござーる」今日で引退。約35年の歴史に幕</summary>
+  </entry>
+  <entry>
+    <title>競馬予想AI Agentを自分専用競馬新聞プロダクトとして再構築した - PoCから本番への華麗なる移行のはなし - Lean Baseball</title>
+    <id>https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product</id>
+    <link href="https://shinyorke.hatenablog.com/entry/keiba-ai-agent-product" />
+    <updated>2026-11-23T11:51:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>秋のG1絶不調マンです, エリザベス女王杯しか取っていません. そんな話はさておき, 私はこの春から競馬予想AI Agent「ai-shugoro（仮）」を開発しPoC的な運用をしています. 競馬好き歴30年の自分が予想スタイルをAI Agentにオンボーディングした結果の話 競馬予想AI Agentは何をアウトカムとして残したか？春G1を振り返...</summary>
+  </entry>
+  <entry>
+    <title>GitHub - os6/nospeaker: make your macbook's trackpad talk using its haptic motor</title>
+    <id>https://github.com/os6/nospeaker</id>
+    <link href="https://github.com/os6/nospeaker" />
+    <updated>2026-11-23T02:25:10+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>──────────────────────── a90.com presents ───────────────────────── _ __ ____ _____ ____ ______ ___ __ __ ______ ____ / | / // __ \ / ___/ / __ \ / ____// | / //_/ / ____// __ \ / |/ // / / / \__ \ /…</summary>
+  </entry>
+  <entry>
+    <title>SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話</title>
+    <id>https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763</id>
+    <link href="https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763" />
+    <updated>2026-11-13T23:28:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>前提 DB：Amazon Aurora PostgreSQL 16 TL;DR SELECTしかしていないトランザクションが放置され、リリース時のマイグレーションがロック待ちで失敗した PostgreSQLのロックは「共有」「排他」の2種類ではなく、SELECTが取るACCESS SHAREは REINDEX などが要求するACCESS EXCLUSIVEを止める トランザクションは最小限に分..…</summary>
+  </entry>
   <entry>
     <title>コーディングエージェントが変えたOSS開発のプロセスと喜び</title>
     <id>https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-23T08:16:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開発の上限を業界で設けるよう提案している。あわせ...</summary>
-  </entry>
-  <entry>
-    <title>Webメール開発を大幅に変えたJMAPというゲームチェンジャー</title>
-    <id>https://speakerdeck.com/tascript/jmap-is-game-changer</id>
-    <link href="https://speakerdeck.com/tascript/jmap-is-game-changer" />
-    <updated>2026-11-23T00:40:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>JSConfJP 2026の登壇資料です</summary>
-  </entry>
-  <entry>
-    <title>Kindleも使えて漫画も見開きで読める！ パカッと開く電子書籍端末「Inkleaf」 | ギズモード・ジャパン</title>
-    <id>https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/</id>
-    <link href="https://www.gizmodo.jp/article/2611-inkleaf-dual-screen-ereader/" />
-    <updated>2026-11-22T09:48:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Kindle Paperwhiteで漫画を読んでいると、ちょっと惜しいと思うことがあります。 左右いっぱいに広がる見開きのシーン。紙の本なら一度に見られるのに、電子書籍ではページを切り替えたり、画面を横向きにして小さく表示したり。 そんな声に応えてくれるのが、10.3（対角約26.2cm）インチの電子ペーパーを2枚つなげたInk...</summary>
-  </entry>
-  <entry>
-    <title>この時代に、なぜ技術カンファレンス・勉強会に行くのか｜Subaru Nakamura(varu3)</title>
-    <id>https://note.com/varu3/n/n4476366008f8</id>
-    <link href="https://note.com/varu3/n/n4476366008f8" />
-    <updated>2026-11-22T23:37:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>技術カンファレンスや勉強会の配信やスライドが当たり前になって（当たり前ではないのだが）、わざわざ現地に行く理由ってなんなんだろうなと考えることが増えた。 セッションは後から動画で見られるし、スライドも多くの場合はその日のうちに公開される。それでも自分はカンファレンスには割とよく足を運んでいて、それ...</summary>
-  </entry>
-  <entry>
-    <title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。｜YamaC / ﾔﾏｼｰ</title>
-    <id>https://note.com/yamac_/n/n198bdc344c64</id>
-    <link href="https://note.com/yamac_/n/n198bdc344c64" />
-    <updated>2026-11-22T19:08:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。 Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto mode...</summary>
   </entry>
 </feed>
