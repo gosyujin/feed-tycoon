@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T08:30:15.565418+09:00</updated>
+  <updated>2026-11-24T09:00:20.023709+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「Gemini」アプリにちょっとした隠し機能、モデルの切り替えボタンを長押しすると……／ボタン連打でもいいみたい【やじうまの杜】</title>
+    <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158556.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158556.html" />
+    <updated>2026-11-24T08:16:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「Gemini」アプリにちょっとした隠し機能、モデルの切り替えボタンを長押しすると……／ボタン連打でもいいみたい【やじうまの杜】</summary>
+  </entry>
+  <entry>
+    <title>バイブ形式手法のハマりどころ2選 - 若くない何かの悩み</title>
+    <id>https://blog.kuniwak.com/entry/vibe-fm</id>
+    <link href="https://blog.kuniwak.com/entry/vibe-fm" />
+    <updated>2026-11-24T07:28:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。Kuniwak です。 最近、形式手法の知識がなくても AI との会話によって形式手法のツール（Lean や TLA+ や Alloy、Z3 など）で検証できるようになりました。 このような方法を「バイブ形式手法」と呼ぶこととして、その危うさとうまく付き合うための手順と実験で確かめたその効果1を説明します。 その手順を...</summary>
+  </entry>
   <entry>
     <title>NECの「バザールでござーる」今日で引退。約35年の歴史に幕</title>
     <id>https://pc.watch.impress.co.jp/docs/news/2158462.html</id>
@@ -255,12 +271,12 @@
     <summary>AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます</summary>
   </entry>
   <entry>
-    <title>GitHub - MaryCache/tsuzuri: Claude Code skill and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent</title>
+    <title>GitHub - MaryCache/tsuzuri: AI coding agent skill (Claude Code, Codex, Antigravity, etc.) and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent</title>
     <id>https://github.com/MaryCache/tsuzuri</id>
     <link href="https://github.com/MaryCache/tsuzuri" />
     <updated>2026-11-23T20:53:43+09:00</updated>
     <category term="はてブ IT" />
-    <summary>English: README.en.md tsuzuri は Claude Code に日本語の文章を執筆させる際に、AI が生成した文章の品質を向上させるためのスキルと閲覧アプリです。 ユーザーは閲覧アプリで文ごとに AI の執筆意図（その文で読み手に何をするか）と文機能（文の役割や前の文との接続）を確認し、違和感を覚えた文にコメントを残して...</summary>
+    <summary>English: README.en.md tsuzuri は Claude Code・Codex・Antigravity などの AI コーディングエージェントに日本語の文章を執筆させる際に、AI が生成した文章の品質を向上させるためのスキルと閲覧アプリです。 ユーザーは閲覧アプリで文ごとに AI の執筆意図（その文で読み手に何をするか）と文機能（文の役割や前の文...</summary>
   </entry>
   <entry>
     <title>GitHub - AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)</title>
@@ -335,20 +351,20 @@
     <summary>はじめに Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。 CVSS 9.8 (Critical) CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H 「数字が大きいほどヤバいんだろうな」くらいの理解で済ませていたのですが、依存パッケージの脆弱性を監視するアプリ『Vectana』を作るにあたって、改めてち...</summary>
   </entry>
   <entry>
-    <title>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能</title>
-    <id>https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html</id>
-    <link href="https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html" />
-    <updated>2026-11-24T00:49:45+09:00</updated>
-    <category term="Publickey" />
-    <summary>Ruby on Railsの作者として知られるDHH氏が主導して開発しているデスクトップ向けのLinux OS「Omarchy」の最新版「Omarchy 4.5」（別名Omarchy Quattro RS）正式版がリリースされました。 Om...</summary>
-  </entry>
-  <entry>
     <title>PostgreSQL 19正式リリース。ノンブロッキングなREPACKやI/Oワーカーのオートスケールなど新機能</title>
     <id>https://www.publickey1.jp/blog/26/postgresql_19repackio.html</id>
     <link href="https://www.publickey1.jp/blog/26/postgresql_19repackio.html" />
-    <updated>2026-11-24T00:45:37+09:00</updated>
-    <category term="Publickey" />
-    <summary>オープンソースのリレーショナルデータベース「PostgreSQL」の最新版となる「PostgreSQL 19」正式版がリリースされました（日本語のプレスリリース）。 PostgreSQLは毎年9月もしくは10月にメジャーバージョンアップが行...</summary>
+    <updated>2026-11-24T00:39:31+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>オープンソースのリレーショナルデータベース「PostgreSQL」の最新版となる「PostgreSQL 19」正式版がリリースされました（日本語のプレスリリース）。 PostgreSQLは毎年9月もしくは10月にメジャーバージョンアップが行われてきました。しかし今年は9月下旬にリリースされたPostgreSQL 19β4で多数のバグのによる新機能の...</summary>
+  </entry>
+  <entry>
+    <title>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能</title>
+    <id>https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html</id>
+    <link href="https://www.publickey1.jp/blog/26/dhhomarchy_457applewebms_office.html" />
+    <updated>2026-11-24T00:39:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>DHH氏が開発する「Omarchy 4.5」リリース。一般的なマルチウィンドウをサポート。最速7秒で導入、Appleシリコン対応、Webアプリ版MS Office用ランチャーなど新機能 Omarchyは同氏が提唱する「Omacom」（Omakase Computing：おまかせコンピューティングの略）の考え方を基に実装されたLinux OSで、DHH氏によって選択され...</summary>
   </entry>
   <entry>
     <title>マイクロソフト、クラウドやオンプレミスのデータベースを一元管理する「Database Hub」正式リリース。AIエージェントによる運用監視の自動化も</title>
@@ -567,7 +583,7 @@
     <summary>はじめに 画面共有や登壇をしている際に、よく、そのモザイクどうやってかけているんですか？と聞かれることがあります。 今回は、私が普段使っているツールに関して、方法に関して紹介をしたいと思います。 ※紹介するツールを利用するかどうかは、ご自身の責任でご判断ください。 Te...</summary>
   </entry>
   <entry>
-    <title>セキュリティ情報 406 件を「脆弱性-手口-被害-対策」の1枚の分類図にまとめてから読めたこと</title>
+    <title>[2026版]セキュリティ情報 406 件を「脆弱性-事故-対策」の1枚の分類図にまとめてから読めたこと</title>
     <id>https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
     <link href="https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
     <updated>2026-11-23T07:01:05+09:00</updated>
@@ -789,21 +805,5 @@
     <updated>2026-11-21T21:01:57+09:00</updated>
     <category term="はてブ IT" />
     <summary>AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。 AI agents give up their secrets under the influence of swarms | AI Ali...</summary>
-  </entry>
-  <entry>
-    <title>大阪のホテルに宿泊、食事で外出しようとしたらギャルみたいな女性に「ご飯行きませんか？」と誘われ、怖くて無視してホテルの部屋へ戻ってUberで注文した「都会怖いよ」</title>
-    <id>https://togetter.com/li/2773878</id>
-    <link href="https://togetter.com/li/2773878" />
-    <updated>2026-11-23T08:49:37+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>大阪のホテルに宿泊、食事で外出しようとしたらギャルみたいな女性に「ご飯行きませんか？」と誘われ、怖くて無視してホテルの部屋へ戻ってUberで注文した「都会怖いよ」</summary>
-  </entry>
-  <entry>
-    <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案 指標は「パープレキシティ」</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/23/2000003394/" />
-    <updated>2026-11-23T08:16:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米OpenAIのチーフサイエンティスト、ヤクブ・パチョキ氏は11月22日（現地時間）、公式ブログに論考「Perplexity and Intelligence」を公開した。AIの能力を測る指標「perplexity」（パープレキシティ、「困惑」の意）を開発企業間の共通の物差しにして、各社が超えない開発の上限を業界で設けるよう提案している。あわせ...</summary>
   </entry>
 </feed>
