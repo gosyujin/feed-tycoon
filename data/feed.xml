@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T15:00:13.819681+09:00</updated>
+  <updated>2026-11-24T15:28:31.972526+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Lean で始める契約プログラミング - エムスリーテックブログ</title>
+    <id>https://www.m3tech.blog/entry/contract-programming-in-lean</id>
+    <link href="https://www.m3tech.blog/entry/contract-programming-in-lean" />
+    <updated>2026-11-24T14:30:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは。 Unit3 / 基盤開発チームを兼務している林です。 Unit3では、主に医学書の電子書籍サービスや、医師の開業サポートなどのサービスを担当しています。 今回は Unit3 テックブログリレー 1 日目の記事です。 Lean で証明付きの安全な開発をするイメージを Gemini で生成しました 定理証明ができるプログラミン...</summary>
+  </entry>
+  <entry>
+    <title>Anthropic、プルリクエストをAIが処理する新機能「Claude Ship」を発表</title>
+    <id>https://japan.zdnet.com/article/35255314/</id>
+    <link href="https://japan.zdnet.com/article/35255314/" />
+    <updated>2026-11-24T10:16:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>多くの開発者が「Claude Code」やOpenAIの「Codex」といった人工知能（AI）ベースのコーディングツールを利用するようになった今でも、コードをプッシュする前に自分の目で確認したいと考える開発者はいる。だが、より大胆でエージェントを積極的に利用するタイプの開発者なら、コーディングの最終ステップをAIに任せる...</summary>
+  </entry>
+  <entry>
+    <title>Alpamayo は Jetson でリアルタイム推論できるか？ R1 から 2 Edge まで、H100 プロファイルからの実行時間推定</title>
+    <id>https://zenn.dev/fixstars/articles/alpamayo-h100</id>
+    <link href="https://zenn.dev/fixstars/articles/alpamayo-h100" />
+    <updated>2026-11-24T08:07:40+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>概要 本記事では、自動運転向けの VLA モデル Alpamayo R1 / 1.5 と Alpamayo 2 Edge、そして R1 / 1.5 の推論を高速化するフレームワーク FlashDrive を H100 SXM5 (以下 H100) で実際に実行し、そのプロファイリング結果をもとに RTX PRO 6000、Jetson AGX Thor T5000 (以下 Thor)、Jetson…</summary>
+  </entry>
+  <entry>
+    <title>CrowdStrike、Zscalerを約439億ドルで買収へ 狙いはAIエージェントの安全確保</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/24/2000003398/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/24/2000003398/" />
+    <updated>2026-11-24T07:50:58+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米CrowdStrikeは11月23日（現地時間）、米Zscalerを買収することで最終合意したと発表した。買収は全額株式交換で行い、Zscalerの企業価値を約439億ドル（約7兆円）としている。両社の取締役会は全会一致で承認した。取引完了はCrowdStrikeの2028会計年度（2027年2月～2028年1月）の後半になる見込み。 CrowdStrikeは、...</summary>
+  </entry>
+  <entry>
+    <title>コードを全部は読まずにClaude Codeで本番リリースするためにしたこと</title>
+    <id>https://zenn.dev/teradox_blog/articles/8ec76cc0d9e2bb</id>
+    <link href="https://zenn.dev/teradox_blog/articles/8ec76cc0d9e2bb" />
+    <updated>2026-11-24T06:20:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 2026年10月30日、ゴルフスクール検索・予約ポータル「ゴルフスクールナビ」のリニューアル版をリリースしました。開発は6月10日に始めました。 普段は Laravel が中心で、今回は特に、要件に合わせた少し複雑な認可まわりに苦戦しました。 先に書いておくと、リリースしたコードのすべてを私が読み、理解したわけではありません。実装の多くは AI（Claude Code）に任せていました。…</summary>
+  </entry>
+  <entry>
+    <title>AIが作りAIが決める時代に、人は何を「判断」するのか？</title>
+    <id>https://zenn.dev/ncdc/articles/a522c2c50022d2</id>
+    <link href="https://zenn.dev/ncdc/articles/a522c2c50022d2" />
+    <updated>2026-11-23T17:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事を書くキッカケ 最初に、少し長くなりますがこの記事を書くキッカケから書こうと思います。 前回の記事で、MCP Appsの各種機能を実際にアプリを作って動かすことで試してみました。 https://zenn.dev/ncdc/articles/8cfbf2d20eec93 このお試し用のアプリを作るときに、Claude Codeは「試す環境の作り方を次の3択の中のどれにするか？」と聞いてきま…</summary>
+  </entry>
+  <entry>
+    <title>WSL ContainersでClaude Codeを隔離する</title>
+    <id>https://zenn.dev/kent_code/articles/bef81d6a0b817c</id>
+    <link href="https://zenn.dev/kent_code/articles/bef81d6a0b817c" />
+    <updated>2026-11-23T16:33:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code に許可を求められたとき、よく読まずに Yes を押したことはありませんか。 恥ずかしながら自分はよくあります。 その Yes 1回で何が起きるのでしょうか。Claude Code は、起動したフォルダ（以下、作業フォルダ）の中で作業するのが基本です。Yes と答えれば、作業フォルダの外のファイルも読めたり、ファイルを消したり、外へ送ったりもできてしまう可能性があります。 試…</summary>
+  </entry>
+  <entry>
+    <title>プログラミング教育の功罪</title>
+    <id>https://zenn.dev/nobkz/articles/a8ed5591cd3e7d</id>
+    <link href="https://zenn.dev/nobkz/articles/a8ed5591cd3e7d" />
+    <updated>2026-11-23T13:40:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>プログラミング教育の界隈から抜けて1年と半年以上になる。そのころ私はエンジニアとしての業務と、プログラミング教育を並行してやっていた。 この1年半で世の中の状況がだいぶ一変してしまった。1年半前はまだ私は手でコードを書いていて、レビューが機能していたように思う。もうそれがほとんどなくなってしまった。それ以前ではプログラミング教育は根本的な問題を抱えながらも、その重要性が認められてきた。子ども向けの…</summary>
+  </entry>
   <entry>
     <title>マクドナルド公式アプリのデータベースへの不正アクセスに関するお知らせとお詫び | マクドナルド公式</title>
     <id>https://www.mcdonalds.co.jp/company/info/261120a/</id>
@@ -741,69 +805,5 @@
     <updated>2026-11-22T23:16:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>複数のウェブサービスを自分のサーバーで運用しているとサービスごとにアカウントを作成したりログイン情報を管理したりする手間が発生します。そこで複数のサービスのログイン機能を集約し、指紋認証や顔認証などを利用したパスキーによる本人確認やユーザー・グループごとのアクセス権限の管理が可能な無料のオープン...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！ システム設計 視点の 行動経済学 全10回総復習</title>
-    <id>https://qiita.com/maskot1977/items/79d11831a854651543a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/79d11831a854651543a4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T13:48:17+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトルは 「社会問題はモラルではなくシステム設計のバグだ : システム設計視点の行動経済学 Podcast 10復習」 です（YouTubeチャンネル「Pyt...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！Python で学ぶ マクロ経済学 入門 全50回総復習</title>
-    <id>https://qiita.com/maskot1977/items/0f5b6d826adc699f0f8e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/0f5b6d826adc699f0f8e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T13:33:20+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトル、およびその動画の詳しい内容について解説します。 1. ソース動画のタイトル ノートブックに収録されているソース動画のタイトルは以下の通りです。 ...</summary>
-  </entry>
-  <entry>
-    <title>図書館の貸出業務を、ドメイン記述ミニ言語で表し、コードに落とし込むまで</title>
-    <id>https://qiita.com/o68606007/items/32e1178f690a41a7a001?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/o68606007/items/32e1178f690a41a7a001?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T13:29:30+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに ドメイン記述ミニ言語から、コードに落とし込むまで作業を行いました。 背景・目的 業務の専門家は、同じものを場面によって違う名前で呼んだり、当たり前すぎるルールを口にしなかったりします。ヒアリングの中で言葉の揺れに気づき、一つにそろえ、使い方の決まりまで含めて言...</summary>
-  </entry>
-  <entry>
-    <title>PLG 型 SaaS is Dead はAIによる擬態代替ではなくAIからの擬態攻撃によって達成されてしまうのか - 太陽がまぶしかったから</title>
-    <id>https://www.du-soleil.com/entry/plg-saas-is-dead-by-ai-attack</id>
-    <link href="https://www.du-soleil.com/entry/plg-saas-is-dead-by-ai-attack" />
-    <updated>2026-11-23T10:37:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI代替ではなくAIからの攻撃で追い込まれるSaaS SaaS is Deadを議論していた多くの人は「AIの利便性によってSaaSビジネスが代替されるのか？」を議論してましたが、まさか「AIのセキュリティ攻撃によってSaaSが追い込まれる」なんて思いもよらなかったですよね🥺 pic.twitter.com/iAARf6Y2Ra— ぽこしー📊SaaSデータアナ...</summary>
-  </entry>
-  <entry>
-    <title>マルチテナントRAGの越境漏えいをpytestのカナリア文書で検知する</title>
-    <id>https://qiita.com/takumi_engineer/items/aeef0c55f1583fd57492?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/takumi_engineer/items/aeef0c55f1583fd57492?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T09:00:14+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>マルチテナントのRAGでは、検索のWHERE句が一箇所抜けるだけで、他社の文書が回答に混ざります。この記事では、テナントごとに「カナリア文書」を仕込み、pytestで越境を機械的に検知する方法を示します。回答の品質評価とは切り離した、権限境界だけのテストです。 前提と考え...</summary>
-  </entry>
-  <entry>
-    <title>Claude Codeのセッションを分岐して並行作業する：/fork と --fork-session の手順・落とし穴・検証方法</title>
-    <id>https://qiita.com/joinclass/items/8b30d5453db55388966a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/joinclass/items/8b30d5453db55388966a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T08:30:07+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 当社（合同会社ジョインクラス）は、社員のいない会社を Claude Code で回しています。launchd のジョブが 30 本ほど毎日 claude -p を呼び、部署ごとの仕事をしています。 僕が対話セッションでいちばん困っていたのは、長いセッションで調べ...</summary>
-  </entry>
-  <entry>
-    <title>登壇時、画面共有時にモザイクをかける方法について</title>
-    <id>https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Takashi_Masumori/items/ffaa4a7e8008481a1d14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T07:20:58+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 画面共有や登壇をしている際に、よく、そのモザイクどうやってかけているんですか？と聞かれることがあります。 今回は、私が普段使っているツールに関して、方法に関して紹介をしたいと思います。 ※紹介するツールを利用するかどうかは、ご自身の責任でご判断ください。 Te...</summary>
-  </entry>
-  <entry>
-    <title>[2026版]セキュリティ情報 406 件を「脆弱性-事故-対策」の1枚の分類図にまとめてから読めたこと</title>
-    <id>https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/songchong/items/4ad36f1857ba2b4ee4f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-23T07:01:05+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>分類図は IT連携マップで操作できます → https://renkeimap.jp/security/map 上の図は、分類図の全体を 1 枚の画像にした一例です。サイトの分類図では、分類を押すと、つながる前後の分類だけが残り、その分類に入った件の一覧が出ます。上の...</summary>
   </entry>
 </feed>
