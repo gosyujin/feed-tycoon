@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T23:00:16.940012+09:00</updated>
+  <updated>2026-11-24T23:30:13.297937+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>jQuery 4.1正式版がリリース、内部実装をquerySelectorAllに統一でより高速に。jQuery 3.x系最後となるjQuery 3.8も同時リリース</title>
+    <id>https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html</id>
+    <link href="https://www.publickey1.jp/blog/26/jquery_41queryselectoralljquery_3xjquery_38.html" />
+    <updated>2026-11-25T00:15:39+09:00</updated>
+    <category term="Publickey" />
+    <summary>jQuery開発チームは、JavaScriptライブラリ「jQuery」の最新版となる「jQuery 4.1」正式版のリリースを発表しました。 また同時にjQuery 3.x系の最後のリリースとなる「jQuery 3.8」も同時にリリースし...</summary>
+  </entry>
+  <entry>
+    <title>1台数億円するのに 手術支援ロボットが使われない | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261120de78959</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261120de78959" />
+    <updated>2026-11-24T20:45:42+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>手術をより安全にできるとして急速に普及している手術支援ロボット。 1台数億円しますが、国内には1000台以上導入されていて人口あたりの台数はアメリカに次いで2番目に多くなっています。 しかし、高い…</summary>
+  </entry>
+  <entry>
+    <title>パスワード、全く自己管理する気がなくほぼ毎回リセットする運用の人が居てびびった→実はむしろこれが正しい運用であることをまだ人類は知らない</title>
+    <id>https://togetter.com/li/2774455</id>
+    <link href="https://togetter.com/li/2774455" />
+    <updated>2026-11-24T18:12:32+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パスワード、全く自己管理する気がなくほぼ毎回リセットする運用の人が居てびびった→実はむしろこれが正しい運用であることをまだ人類は知らない</summary>
+  </entry>
   <entry>
     <title>当社お客様の情報漏えいに関するお詫びとお知らせ（第2報）:楽天証券</title>
     <id>https://www.rakuten-sec.co.jp/web/info/info20261124-04.html</id>
@@ -212,7 +236,7 @@
     <link href="https://speakerdeck.com/goyoki/building-up-of-quality" />
     <updated>2026-11-24T08:53:24+09:00</updated>
     <category term="はてブ IT" />
-    <summary>Sponsored · Ship Features Fearlessly Turn features on and off without deploys. Used by thousands of Ruby developers. →</summary>
+    <summary>コンポーネント品質の積み上げの恩恵： 高度な品質実現をサポートする 品質 レベル 平常 状態 その時の開発力に依存 鍛えれば品質が高まる 品質レベル 高度な品質実現 には不断の大き な努力が必要 「努力は裏切らない」 「レベルを上げて物理 で殴る」ができる 停滞すれば衰え、 品質が低下する トラブル等で、 失敗誘...</summary>
   </entry>
   <entry>
     <title>ブラックフライデー先行セール！「Google AI Plus/Pro」最大50%引き</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-23T10:51:28+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>きっかけ 2026-10-01、Claude Code に mods という仕組みが入りました。TypeScript の小さな関数を書くと、Claude Code の動きや画面を変えられるものです。この記事では、仕組みの名前を mods、1 本ずつを mod と書きます。 実は正式版の前、試験版の段階（CLAUDE_CODE_ENABLE_FUNCTION_HOOKS=1 で有効にする funct…</summary>
-  </entry>
-  <entry>
-    <title>AIがテストに合わせて実装していない？仕様テストを隠して確かめる</title>
-    <id>https://zenn.dev/h_aso/articles/isolated-spec-tests-claude-code</id>
-    <link href="https://zenn.dev/h_aso/articles/isolated-spec-tests-claude-code" />
-    <updated>2026-11-23T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 仕様書を作ってAIに実装してもらうと、テストは全部通っているのに、よく見ると本来の意図とは少し違う実装になっていた、ということがあると思います。AIがテストに合わせて答え合わせのように作ってしまうと、そのずれに気づかないまま開発が進んでしまいます。 AIのコードレビューについて海外の記事を調べていたところ、これに関係する「Isolated Specification Tests」という考…</summary>
-  </entry>
-  <entry>
-    <title>Mutex poisoning is not for everyone</title>
-    <id>https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html</id>
-    <link href="https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html" />
-    <updated>2026-11-23T19:56:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>After some recent discussion on the topic of mutex poisoning and notably a blog post that I thought was interesting, thoughtful, exhaustive, yet completely disagreed with, I wanted to comment on the d…</summary>
-  </entry>
-  <entry>
-    <title>Perplexity and Intelligence</title>
-    <id>https://openai.com/index/perplexity-and-intelligence/</id>
-    <link href="https://openai.com/index/perplexity-and-intelligence/" />
-    <updated>2026-11-23T11:44:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>From afar, it might seem like modern AI is built similarly to how software has been built in previous decades: with a diverse set of techniques targeting specific capabilities. There are indeed a vari…</summary>
   </entry>
 </feed>
