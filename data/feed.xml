@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T04:00:16.365706+09:00</updated>
+  <updated>2026-11-25T04:30:14.646410+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AWS Sign-In introduces configurable Sign-in duration of up to 90 days - AWS</title>
+    <id>https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/</id>
+    <link href="https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/" />
+    <updated>2026-11-24T11:13:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>88% of agent pilots stall. Learn what the rest do differently</summary>
+  </entry>
   <entry>
     <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
     <id>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-23T02:25:10+09:00</updated>
     <category term="はてブ IT" />
     <summary>──────────────────────── a90.com presents ───────────────────────── _ __ ____ _____ ____ ______ ___ __ __ ______ ____ / | / // __ \ / ___/ / __ \ / ____// | / //_/ / ____// __ \ / |/ // / / / \__ \ /…</summary>
-  </entry>
-  <entry>
-    <title>SELECTしかしていないのに、PostgreSQLのマイグレーションがロック待ちで失敗した話</title>
-    <id>https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763</id>
-    <link href="https://zenn.dev/naokisuzuki27/articles/cb1a5ac0e23763" />
-    <updated>2026-11-13T23:28:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>前提 DB：Amazon Aurora PostgreSQL 16 TL;DR SELECTしかしていないトランザクションが放置され、リリース時のマイグレーションがロック待ちで失敗した PostgreSQLのロックは「共有」「排他」の2種類ではなく、SELECTが取るACCESS SHAREは REINDEX などが要求するACCESS EXCLUSIVEを止める トランザクションは最小限に分..…</summary>
   </entry>
 </feed>
