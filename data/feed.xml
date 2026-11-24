@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T01:30:16.327378+09:00</updated>
+  <updated>2026-11-25T02:00:14.862612+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ゲームボーイアドバンスエミュレータをRustで書いた</title>
+    <id>https://bokuweb.github.io/undefined/articles/20261103.html</id>
+    <link href="https://bokuweb.github.io/undefined/articles/20261103.html" />
+    <updated>2026-11-24T11:34:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ゲームボーイアドバンスエミュレータをRustで書いた #2026-11-24 ファミコン、ゲームボーイと書いてきたので次はゲームボーイアドバンス（以下GBA）だろうということで（コミットログを見るに）2018年頃書き始めた。途中何度も放置しつつ、気づけば8年くらい経ってしまったが、最後はAIの力も借りつつそこそこ動くように...</summary>
+  </entry>
+  <entry>
+    <title>TiDB から PostgreSQL へ、本番 DB を書き込みを止めて切り替えた記録</title>
+    <id>https://zenn.dev/hirahara/articles/tidb-to-postgresql-cutover</id>
+    <link href="https://zenn.dev/hirahara/articles/tidb-to-postgresql-cutover" />
+    <updated>2026-11-23T23:26:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 2026 年 9 月に、運用している Web サービスの本番の DB を TiDB (サーバーレス版) から PostgreSQL 18 へ移しました。 API は Go で書いていて、Cloud Run の上で動いています。移したのは API が読み書きする正本の DB のすべてです。 この記事では手順の紹介にとどまらず、次の 4 つの中身まで書きます。 書...</summary>
+  </entry>
   <entry>
     <title>来たる「Windows Server 2028」は既定で32bitアプリを実行できない！ 「WoW64」が削除／必要ならオンデマンド機能として追加可能、マルウェア対策の一環【やじうまの杜】</title>
     <id>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2158861.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-24T00:57:58+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>JAWS-UG 神戸「残暑！LT会」（2026-10-23）で話した内容と、その後 S3 Vectors がハイブリッド検索に対応した（2026-11-16）ことを受けた追試の結果をまとめます。 ! 検証は東京リージョンで、2026-10-21〜23 と 2026-11-23 に行いました。仕様は、2026-11-23〜24 に確認した AWS のドキュメントに基づきます。 なぜこのテーマにしたの…</summary>
-  </entry>
-  <entry>
-    <title>JSConf JP 2026に参加記録・初登壇の反省など</title>
-    <id>https://zenn.dev/igrep/articles/2026-11-jsconfjp</id>
-    <link href="https://zenn.dev/igrep/articles/2026-11-jsconfjp" />
-    <updated>2026-11-24T00:08:26+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>去る2026年11月22日、に開催されたJSConf JP 2026に参加し、初めて登壇させていただくことができました🎉！この記事では私の発表内容や反省、そして他の方々の発表で印象に残ったものなどをまとめます。 私の発表について こちらです: JS･WasmにもあるRustのアレ - コンポーネント間でやりとりするオブジェクトを管理する (1) Wasm Component Model について、…</summary>
-  </entry>
-  <entry>
-    <title>iPhoneに乗り換えてでも使う価値があるかも!? 新型センサー搭載「Apple Watch Series 12」を使ってみた</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/review/2157103.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/review/2157103.html" />
-    <updated>2026-11-24T00:06:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>iPhoneに乗り換えてでも使う価値があるかも!? 新型センサー搭載「Apple Watch Series 12」を使ってみた</summary>
   </entry>
 </feed>
