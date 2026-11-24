@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T02:30:13.601994+09:00</updated>
+  <updated>2026-11-25T03:00:15.738705+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
+    <id>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</id>
+    <link href="https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/" />
+    <updated>2026-11-24T20:03:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月20日にAnthropicの研究者であるレベント・アルポゲ氏が、AIモデルのClaudeとともに一般化リーマン予想を証明したと発表しました。数学を解説するYouTubeチャンネルの3Blue1Brownが、この発表以前から約1年半にわたって数学者たちに「AIが人間には理解できないリーマン予想の証明を生み出したらどう感じるか？...</summary>
+  </entry>
+  <entry>
+    <title>「コードを書くAI」ではなく「承認するAI」登場、Anthropicが新機能「Claude Ship」提供</title>
+    <id>https://japan.cnet.com/article/35255329/</id>
+    <link href="https://japan.cnet.com/article/35255329/" />
+    <updated>2026-11-24T15:29:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソフトウェアの共同開発サービス「GitHub」で、コードの変更案をAIに点検・修正させ、チームのルールが認める場合は承認まで任せられるようになった。米Anthropicは11月23日、こうした機能をまとめた「Claude Ship」を発表した。ClaudeのTeamとEnterpriseプラン向けにベータ提供を始めた。</summary>
+  </entry>
   <entry>
     <title>ゲームボーイアドバンスエミュレータをRustで書いた</title>
     <id>https://bokuweb.github.io/undefined/articles/20261103.html</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-13T23:28:19+09:00</updated>
     <category term="はてブ IT" />
     <summary>前提 DB：Amazon Aurora PostgreSQL 16 TL;DR SELECTしかしていないトランザクションが放置され、リリース時のマイグレーションがロック待ちで失敗した PostgreSQLのロックは「共有」「排他」の2種類ではなく、SELECTが取るACCESS SHAREは REINDEX などが要求するACCESS EXCLUSIVEを止める トランザクションは最小限に分..…</summary>
-  </entry>
-  <entry>
-    <title>コーディングエージェントが変えたOSS開発のプロセスと喜び</title>
-    <id>https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565</id>
-    <link href="https://zenn.dev/cybergarage/articles/5ee7ac6b3b0565" />
-    <updated>2026-11-24T02:37:18+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事は、2026年11月11日に公開した英語記事 Coding Agents Are Changing How I Build Open Source and Why I Do It の翻訳記事です。 この記事の要点 停滞していたOSSの開発や保守が再び動き出し、ユーザーからの不具合報告やセキュリティ課題にも手をつけられるようになった。 並行して進められる仕事は増えたが、次々と判断を迫られる疲…</summary>
-  </entry>
-  <entry>
-    <title>S3 Vectors は RAG のベクトルストアに使えるか（40問で検証＋ハイブリッド検索に関する追記）</title>
-    <id>https://zenn.dev/shino_i/articles/faeef70f08124c</id>
-    <link href="https://zenn.dev/shino_i/articles/faeef70f08124c" />
-    <updated>2026-11-24T00:57:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>JAWS-UG 神戸「残暑！LT会」（2026-10-23）で話した内容と、その後 S3 Vectors がハイブリッド検索に対応した（2026-11-16）ことを受けた追試の結果をまとめます。 ! 検証は東京リージョンで、2026-10-21〜23 と 2026-11-23 に行いました。仕様は、2026-11-23〜24 に確認した AWS のドキュメントに基づきます。 なぜこのテーマにしたの…</summary>
   </entry>
 </feed>
