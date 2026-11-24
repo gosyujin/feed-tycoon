@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T20:00:17.088491+09:00</updated>
+  <updated>2026-11-24T20:30:13.234003+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>JAXAのシステムに不正アクセス 一部アカウント名など漏えい | NHKニュース</title>
+    <id>https://news.web.nhk/newsweb/na/nd-20261124de80645</id>
+    <link href="https://news.web.nhk/newsweb/na/nd-20261124de80645" />
+    <updated>2026-11-24T18:02:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>JAXA＝宇宙航空研究開発機構は、人工衛星で取得したデータなどを公開するシステムが今月18日に外部から不正アクセスを受け、一部の利用者のアカウント名などが漏えいしたと発表しました。 JAXAにより…</summary>
+  </entry>
+  <entry>
+    <title>Gemini 4 Neon を API で叩いて Claude Code・Codex CLI と比べた：65万トークンの超長文、費用、失敗</title>
+    <id>https://zenn.dev/canly/articles/40e773759da8f8</id>
+    <link href="https://zenn.dev/canly/articles/40e773759da8f8" />
+    <updated>2026-11-24T17:51:41+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>カンリーCAIOの萩野です。 2026年11月18日に Google が出した Gemini 4 Neon を、同じ8つの課題で Claude Opus 5.5（Claude Code 経由）と GPT-6.2 Sol（Codex CLI 経由）と比べました。一般向けのまとめは note に書いたので、この記事ではどんなリクエストを送り、どう採点し、いくらかかり、どこで失敗したかを、手順を追える粒…</summary>
+  </entry>
+  <entry>
+    <title>Microsoft Foundry で AI エージェントを設計するときに決める5つのこと</title>
+    <id>https://zenn.dev/microsoft/articles/daedf42c8463b8</id>
+    <link href="https://zenn.dev/microsoft/articles/daedf42c8463b8" />
+    <updated>2026-11-24T11:59:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事の目的 Microsoft Foundry で AI エージェントを作るときは、データの保存先やエージェントの作成方式、接続するツールを選び、利用に必要な権限やネットワークも設計します。 本記事では、それぞれの選択がどう関わり合うのかを理解し、エージェント設計の全体像をつかめるように、図中の 1 〜 5 に沿って整理していきます。 ! 本記事は2026年11月23日時点の公式ドキュメントに…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った</title>
+    <id>https://zenn.dev/nexta_/articles/a3ff76a9f98f1c</id>
+    <link href="https://zenn.dev/nexta_/articles/a3ff76a9f98f1c" />
+    <updated>2026-11-24T11:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code は、VSCode の拡張機能で使うのが好きだ。 Markdown が見やすく、コードも Git の変更差分もその場で見られる。 パネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。 ただ、セッションを5つほど並べると困ることが出てくる。 一番困ったのは、パネルの見出しが短くて、どれが何の作業をしているのか一目で分からないことだった。 一時期…</summary>
+  </entry>
+  <entry>
+    <title>「コードを書く」から「迷わず判断する」へ——AIエージェント時代の開発ワークフローを自作ツールで再設計した話</title>
+    <id>https://zenn.dev/syarihu/articles/ba25f243ca79ed</id>
+    <link href="https://zenn.dev/syarihu/articles/ba25f243ca79ed" />
+    <updated>2026-11-24T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>今北産業 AIエージェントに並行して作業を任せるためのツールを、使いながら2か月作り直し続け、iTerm2のタブからボード（いまはMacアプリにもなった）とtmuxで回す形になった 実装やリファクタはほぼAIに任せ、11月中旬までにおよそ440本のPRをマージした一方、UI/UXは任せきれず、画面の骨格を1か月で5回作り直した いちばんストレスが減ったのは、確認待ちの画面を「依頼 → 調べたこと…</summary>
+  </entry>
   <entry>
     <title>https://www.keio.co.jp/news/update/news_release/news_release2026/pdf/nr20261124_newsrelease.pdf</title>
     <id>https://www.keio.co.jp/news/update/news_release/news_release2026/pdf/nr20261124_newsrelease.pdf</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-22T17:53:17+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Microsoft Ignite 2026（2026年11月17〜20日）のセッションや発表資料を追っていると、「harness（ハーネス）」という言葉が何度も出てきました。 Copilot Studio の発表は Microsoft Copilot harn...</summary>
-  </entry>
-  <entry>
-    <title>【備忘録】Copilotハーネスでcomputer useをざっくり解説 ― 12月のプレビュー前に全体像を整理</title>
-    <id>https://qiita.com/Tadataka_Takahashi/items/42d15e487df873a51283?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tadataka_Takahashi/items/42d15e487df873a51283?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-21T23:51:39+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 前回の記事では、AIエージェント専用のクラウドPC「Windows 365 for Agents」の全体像を整理しました。 Ignite 2026で、Copilot Studioの「Microsoft Copilot ハーネス」でも、Windows 365 fo...</summary>
-  </entry>
-  <entry>
-    <title>AIに任せた仕事が散らからなくなった。LinearとDotsで個人開発を進めてみた</title>
-    <id>https://qiita.com/Tachiuo/items/dde9afe6a6d2a3aa8618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tachiuo/items/dde9afe6a6d2a3aa8618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-21T15:44:18+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 個人開発でAIに実装や調査を任せることが増えてきました。仕事に行っている間や寝ている間にも作業を進めてもらえるのは便利です。ただ、任せる仕事が増えると、別の難しさが出てきました。 「今、自分は何を進めたいのか」 「AIに何を任せているのか」 「返ってきた成果物の...</summary>
-  </entry>
-  <entry>
-    <title>AMS Trusted Remediator でコスト最適化とセキュリティ修復を自動化する | Amazon Web Services</title>
-    <id>https://aws.amazon.com/jp/blogs/news/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/</id>
-    <link href="https://aws.amazon.com/jp/blogs/news/optimize-cost-and-automate-security-remediation-with-ams-trusted-remediator/" />
-    <updated>2026-11-10T11:20:38+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AWS は世界でも極めて包括的なクラウドであり、組織はこれを利用することで、イノベーションを加速し、コストを削減して、より効率的にスケールできます</summary>
-  </entry>
-  <entry>
-    <title>GitHub - MaryCache/tsuzuri: AI coding agent skill (Claude Code, Codex, Antigravity, etc.) and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent</title>
-    <id>https://github.com/MaryCache/tsuzuri</id>
-    <link href="https://github.com/MaryCache/tsuzuri" />
-    <updated>2026-11-23T20:53:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>English: README.en.md tsuzuri は Claude Code・Codex・Antigravity などの AI コーディングエージェントに日本語の文章を執筆させる際に、AI が生成した文章の品質を向上させるためのスキルと閲覧アプリです。 ユーザーは閲覧アプリで文ごとに AI の執筆意図（その文で読み手に何をするか）と文機能（文の役割や前の文...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - AFK-surf/xnulinux: XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)</title>
-    <id>https://github.com/AFK-surf/xnulinux</id>
-    <link href="https://github.com/AFK-surf/xnulinux" />
-    <updated>2026-11-23T21:27:31+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Run macOS userspace on Linux by loading the macOS kernel into it. xnulinux builds XNU, the open-source kernel of macOS, from Apple's published sources and runs it as a loadable kernel module (xnu.ko)…</summary>
   </entry>
 </feed>
