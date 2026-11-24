@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T11:00:15.620808+09:00</updated>
+  <updated>2026-11-24T11:30:14.283585+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/24/2000003399/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/24/2000003399/" />
+    <updated>2026-11-24T08:55:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米オレゴン州のダン・レイフィールド司法長官と米バージニア州のジェイ・ジョーンズ司法長官は11月23日（現地時間）、米SpaceXなどを提訴したと発表した。同社のAI「Grok」が、児童性的虐待コンテンツ（CSAM）や本人の同意のない性的画像を生成・拡散したとしている。両州は連携しつつ別々に、それぞれの巡回裁判所で訴...</summary>
+  </entry>
+  <entry>
+    <title>MacBookのトラックパッドが「しゃべる」 クリック感を生む振動で声を再現</title>
+    <id>https://japan.cnet.com/article/35255305/</id>
+    <link href="https://japan.cnet.com/article/35255305/" />
+    <updated>2026-11-24T07:46:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>MacBookのスピーカーを消音しても、トラックパッドを振動させて声やメロディーを鳴らせる実験用ソフト「NO SPEAKER」が登場した。開発者のCody Collier氏が11月22日、バージョン1.0を公開した。 Collier氏の説明によると、MacBookの「Force Touch」トラックパッドは、小さなモーターでガラス面を振動させ、クリックした...</summary>
+  </entry>
+  <entry>
+    <title>[みんなのケータイ]横長折りたたみスマホ「Galaxy Z Fold8」をどこでも仕事ができる作業環境にする3つの工夫</title>
+    <id>https://k-tai.watch.impress.co.jp/docs/column/minna/2157956.html</id>
+    <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/2157956.html" />
+    <updated>2026-11-24T00:07:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>[みんなのケータイ]横長折りたたみスマホ「Galaxy Z Fold8」をどこでも仕事ができる作業環境にする3つの工夫</summary>
+  </entry>
+  <entry>
+    <title>Privatter+への不正アクセスに関するご報告とお詫び | Privatter+</title>
+    <id>https://privatter.me/page/6b03bed2c1d86</id>
+    <link href="https://privatter.me/page/6b03bed2c1d86" />
+    <updated>2026-11-23T21:12:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>平素よりPrivatter+をご利用いただき、誠にありがとうございます。 このたび、Privatter+において第三者による不正アクセスが発生し、一部のユーザー様のアカウントが不正に操作される被害が確認されました。 本件を受け、被害の拡大防止、原因の調査およびセキュリティ対策の実施のため、一時的にサービスの提供を停止...</summary>
+  </entry>
+  <entry>
+    <title>サイバー攻撃の最新動向と対策を共有。「Security × Engineering Conference」スポンサー募集開始！</title>
+    <id>https://prtimes.jp/main/html/rd/p/000000291.000045379.html</id>
+    <link href="https://prtimes.jp/main/html/rd/p/000000291.000045379.html" />
+    <updated>2026-11-20T18:14:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>◆ スポンサーメリット 「Security × Engineering Conference」は、セキュリティツール・サービスを提供する企業にとって、セキュリティ対策の導入・推進に携わるエンジニアとの接点を創出できる機会です。セッション登壇やブース出展を通じて、自社のソリューションや取り組みを広く発信することができます。 また、セキ...</summary>
+  </entry>
   <entry>
     <title>月額1000円台のVPSで“自分専用AIテスト環境”を作れる！ さくらのVPS＋さくらのAI Engine＋OpenCodeでゲーム開発に挑戦【イニシャルB【特別編】】[Sponsored]</title>
     <id>https://internet.watch.impress.co.jp/docs/topic/shimizu_sp/2126965.html</id>
@@ -527,14 +567,6 @@
     <summary>For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used f…</summary>
   </entry>
   <entry>
-    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
-    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
-    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
-    <updated>2026-11-23T19:14:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ...</summary>
-  </entry>
-  <entry>
     <title>氷河期オタクエンジニアおじさん、底辺文化地域で暮らす。</title>
     <id>https://anond.hatelabo.jp/20261123174519</id>
     <link href="https://anond.hatelabo.jp/20261123174519" />
@@ -549,6 +581,14 @@
     <updated>2026-11-23T15:56:43+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Googleの『Site Reliability Engineering, 2nd Edition』に、「Safety Engineering for SRE with STPA and CAST」という章が追加されました。 STAMPやSTPAは、システム安全工学から生まれた考え方・分析手法であり、Googleでも実際に利用され始めているようです。2021年にはGoogle社内研修が始まり、20…</summary>
+  </entry>
+  <entry>
+    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
+    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
+    <updated>2026-11-23T14:17:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証で…</summary>
   </entry>
   <entry>
     <title>AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog</title>
@@ -765,45 +805,5 @@
     <updated>2026-11-23T12:13:14+09:00</updated>
     <category term="はてブ IT" />
     <summary>iPhone DuoとGalaxy Z Fold8で「サイゼリヤの注文画面」を開いて分かった意外な事実 折りたたみならではの活用法も 横開き型の折りたたみスマートフォンは、開けばタブレット並みの大画面でWebサイトや動画を楽しめる魅力的なデバイスだ。しかし、日常のちょっとした場面で「画面比率の壁」にぶつかることがある。その...</summary>
-  </entry>
-  <entry>
-    <title>ホルムズ海峡におけるイランの攻撃、紛争開始以来の最高水準に 海事データ分析</title>
-    <id>https://www.cnn.co.jp/world/35255291.html</id>
-    <link href="https://www.cnn.co.jp/world/35255291.html" />
-    <updated>2026-11-23T13:58:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>17日、ホルムズ海峡のオマーン沖で火災に見舞われた液化石油ガス（LPG）タンカー/Lewis Pugh Foundation/AP via CNN Newsource （CNN） ホルムズ海峡およびその周辺海域における船舶への攻撃報告件数が、イランでの軍事衝突の開始以来最多の水準に達していることが海事データの分析から明らかになった。原油価格が下落す...</summary>
-  </entry>
-  <entry>
-    <title>ゲーム理論×シミュレーション: 囚人のジレンマにおける戦略と Rust による実装</title>
-    <id>https://zenn.dev/akitenkrad/articles/1zqjjioamhlyg2</id>
-    <link href="https://zenn.dev/akitenkrad/articles/1zqjjioamhlyg2" />
-    <updated>2026-11-23T08:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>囚人のジレンマ はゲーム理論において «2 人のプレイヤーがそれぞれ協力か裏切りを選び，各自は裏切るほうが得なのに 2 人とも裏切ると 2 人で協力したときよりも損をする» ような戦略形ゲームとして定義されます． 囚人のジレンマを何度も繰り返す 繰り返し囚人のジレンマ では，将来の利得を十分重く見る限り，相手の戦略によらず最善といえる戦略は存在しないことが知られています[1]． 前回の記事 では囚…</summary>
-  </entry>
-  <entry>
-    <title>PHP(Laravel向け)のdistrolessイメージを作ろうとしてみる</title>
-    <id>https://zenn.dev/fagai/articles/58b7dcf826b5ec</id>
-    <link href="https://zenn.dev/fagai/articles/58b7dcf826b5ec" />
-    <updated>2026-11-22T23:35:24+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>PHPのdistrolessイメージは多少あったものの、あんまり理解もできてないので自分自身でやってみようと思った。 AIも駆使して色々聞きつつ調べました。 環境 Docker 29.8.1 / BuildKit / Docker Desktop macOS で確認した。なので、一部armとしてのディレクトリが存在している。 distrolessって？ Googleが提供している、OSやパッケージ…</summary>
-  </entry>
-  <entry>
-    <title>なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由</title>
-    <id>https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html</id>
-    <link href="https://www.itmedia.co.jp/mobile/articles/2611/23/news005.html" />
-    <updated>2026-11-23T11:34:26+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>なぜ駅の改札機で混乱？ Suica、クレカ、QRコードの集約で「立ち止まらない快適さ」を奪う理由（1/2 ページ） 日々の通勤や移動で欠かせない鉄道の自動改札機に、いま大きな変化が起きている。駅の改札機にクレジットカードやデビットカード、スマートフォンなどをかざして通過する「タッチ決済改札」の導入が全国各地...</summary>
-  </entry>
-  <entry>
-    <title>useReducerで実現する、堅牢で拡張可能なスプシ風コンポーネント設計</title>
-    <id>https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata?slide=12</id>
-    <link href="https://speakerdeck.com/arfes0e2b3c/jsconf2026-yata?slide=12" />
-    <updated>2026-11-22T23:39:59+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>堅牢性 1. useReducer で状態の更新を閉じ込める 状態への入り口を１つに制限して、事前に定義した操作のみに制限できる state state ← ← useState の中 ルールなし 渡された値がそのまま次の state setState ← コンポーネント ← なんでも渡せる useReducer の中 reducer 決められた操作だけが次の state を決める Actio..…</summary>
   </entry>
 </feed>
