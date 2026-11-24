@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T08:00:17.054687+09:00</updated>
+  <updated>2026-11-25T08:30:12.866488+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>ワコムがMBOで株式非公開化へ、新事業やM&amp;Aの加速を目指す</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2158842.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2158842.html" />
+    <updated>2026-11-25T07:51:55+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ワコムがMBOで株式非公開化へ、新事業やM&amp;Aの加速を目指す</summary>
+  </entry>
+  <entry>
+    <title>個人開発 with AI</title>
+    <id>https://zenn.dev/holygrail/scraps/dec6ae85d06b4f</id>
+    <link href="https://zenn.dev/holygrail/scraps/dec6ae85d06b4f" />
+    <updated>2026-11-25T07:02:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業...</summary>
+  </entry>
+  <entry>
+    <title>MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
+    <id>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</id>
+    <link href="https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections" />
+    <updated>2026-11-24T23:04:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>家の記録を、Claude Codeに書かせている。その日にやったことの時間、休肝日、一言日記、外食、子どもの記録など、Googleスプレッドシートに書き込むMCPのツールが7つある（家の用事をClaude Codeに任せている話は、個人ブログにまとめている）。 作ってから気づいたのは、7つのうち6つが「追記」と「読む」しか持っていなかったことだ。中身はシートAPIの values().append…</summary>
+  </entry>
+  <entry>
+    <title>Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した</title>
+    <id>https://zenn.dev/upgradetech/articles/a9a1637d3071c1</id>
+    <link href="https://zenn.dev/upgradetech/articles/a9a1637d3071c1" />
+    <updated>2026-11-24T18:24:58+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事の想定読者 Copilot Studioのエージェントを画面操作で作っていて、直すたびにどこを変えたのか分からなくなっている方 Claude Codeを使い始めて、コードを書く以外の仕事にも使えないか考えている方 「AIにアプリを作らせる」が実際どこまで通用するのか、判断材料がほしいPM・マネージャーの方 記事を見ながら同じものを自分の環境で作ってみたい方 この記事を読むと、小さなサンプル…</summary>
+  </entry>
+  <entry>
+    <title>JSConf JP 2026 参加ログ</title>
+    <id>https://zenn.dev/aishift/articles/b6dbe1c0acc505</id>
+    <link href="https://zenn.dev/aishift/articles/b6dbe1c0acc505" />
+    <updated>2026-11-24T17:53:31+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに こんにちは☀️ 株式会社AI Shiftでフロントエンドエンジニアをしているさっちゃんです！（X：おさわ / 吉岡 爽） 2026年11月22日（日）にベルサール神田で開催された JSConf JP 2026 に参加してきました！ 4トラック並行で、キーノートは Brendan Eich さんへのインタビューと Josh Junon さんの講演の2本でした。 https://jsconf…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の /ship を図解する</title>
+    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
+    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
+    <updated>2026-11-24T15:30:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 https://x.com/claudedevs/status/2124959436640858475 私は普段、自作…</summary>
+  </entry>
   <entry>
     <title>AI時代の実践・形式検証入門</title>
     <id>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</id>
@@ -757,53 +805,5 @@
     <updated>2026-11-24T06:53:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>米NVIDIAは11月23日（現地時間）、ジェンスン・フアン氏が同日付で社長兼CEOと取締役に復帰したと発表した。フアン氏は、中国の情報機関との関係が疑われる実業家との交際が報じられたことを受けて11月12日に退任しており、2週間足らずでの復帰となる。疑惑をめぐる取締役会の独立調査はまだ結論が出ていない。 発表によ...</summary>
-  </entry>
-  <entry>
-    <title>【ブラックフライデーセール開催中】誰でも簡単にAI時代に役立つスキルが動画でわかる「Udemy」おすすめ講座まとめ、Claude Code・AIエージェント・要件定義・Linux・AWS認定資格・AIセキュリティなど</title>
-    <id>https://gigazine.net/news/20261124-udemy/</id>
-    <link href="https://gigazine.net/news/20261124-udemy/" />
-    <updated>2026-11-24T09:02:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIにコードを書いてもらったり面倒な仕事をAIエージェントに任せたりと、生成AIを活用することで効率的に仕事を進められるようになってきました。しかし、うまくAIに働いてもらうにはAIに適切な指示を出したりAIが生成したプログラムを動かすインフラを用意したり、安全に運用するためのセキュリティを確保したりするた...</summary>
-  </entry>
-  <entry>
-    <title>事務職新卒「減らす」2割 採用意向、AI普及が影響（共同通信） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/d05d80269b744ac2d480008e296670167cad73ba</id>
-    <link href="https://news.yahoo.co.jp/articles/d05d80269b744ac2d480008e296670167cad73ba" />
-    <updated>2026-11-24T08:48:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AIの普及を踏まえた企業の新卒採用の意向（KYODONEWS） 人工知能（AI）の普及を受け、2割の企業が事務職の新卒採用を「減らす」とした調査結果を、就職情報会社のマイナビがまとめた。一方でIT系や、代替されにくい現場職は採用増の意向が目立った。今後、AIの利用がさらに進めば、企業の求める人材と学生の志望とのず...</summary>
-  </entry>
-  <entry>
-    <title>はてブのAndroidアプリからPR記事や広告を消す非公式パッチ「Hoshiori」を更新。コメント詳細から記事を開けるようにした</title>
-    <id>https://anond.hatelabo.jp/20261124083126</id>
-    <link href="https://anond.hatelabo.jp/20261124083126" />
-    <updated>2026-11-24T08:34:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この前、はてブのAndroidアプリからPR記事や広告を消す非公式パッチ「Hoshiori」について書いた。その後も手を入れていて、v0.5.0に更新したので、今回の変更を紹介しておく。 今回直したのは、ブックマークのコメント詳細画面から記事を開く操作。 はてブには、自分のブックマークやコメントにスターが付くと通知が来る...</summary>
-  </entry>
-  <entry>
-    <title>SpaceXをオレゴン州とバージニア州が提訴 Grokの性的画像生成で</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/24/2000003399/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/24/2000003399/" />
-    <updated>2026-11-24T08:55:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>米オレゴン州のダン・レイフィールド司法長官と米バージニア州のジェイ・ジョーンズ司法長官は11月23日（現地時間）、米SpaceXなどを提訴したと発表した。同社のAI「Grok」が、児童性的虐待コンテンツ（CSAM）や本人の同意のない性的画像を生成・拡散したとしている。両州は連携しつつ別々に、それぞれの巡回裁判所で訴...</summary>
-  </entry>
-  <entry>
-    <title>MacBookのトラックパッドが「しゃべる」 クリック感を生む振動で声を再現</title>
-    <id>https://japan.cnet.com/article/35255305/</id>
-    <link href="https://japan.cnet.com/article/35255305/" />
-    <updated>2026-11-24T07:46:33+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>MacBookのスピーカーを消音しても、トラックパッドを振動させて声やメロディーを鳴らせる実験用ソフト「NO SPEAKER」が登場した。開発者のCody Collier氏が11月22日、バージョン1.0を公開した。 Collier氏の説明によると、MacBookの「Force Touch」トラックパッドは、小さなモーターでガラス面を振動させ、クリックした...</summary>
-  </entry>
-  <entry>
-    <title>[みんなのケータイ]横長折りたたみスマホ「Galaxy Z Fold8」をどこでも仕事ができる作業環境にする3つの工夫</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/column/minna/2157956.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/minna/2157956.html" />
-    <updated>2026-11-24T00:07:11+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[みんなのケータイ]横長折りたたみスマホ「Galaxy Z Fold8」をどこでも仕事ができる作業環境にする3つの工夫</summary>
   </entry>
 </feed>
