@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-24T09:30:12.526814+09:00</updated>
+  <updated>2026-11-24T10:00:13.033166+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Introducing Claude Ship</title>
+    <id>https://claude.com/resources/articles/introducing-claude-ship</id>
+    <link href="https://claude.com/resources/articles/introducing-claude-ship" />
+    <updated>2026-11-24T06:17:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Open a pull request and get back to building. Claude can now review pull requests, fix them, and approve the ones that a team's policy allows. Anyone who has opened a pull request knows how this goes.…</summary>
+  </entry>
+  <entry>
+    <title>CrowdStrike to Acquire Zscaler for Zero Trust</title>
+    <id>https://www.zscaler.com/jp/press/crowdstrike-acquire-zscaler-bringing-network-security-and-zero-trust-falcon-platform</id>
+    <link href="https://www.zscaler.com/jp/press/crowdstrike-acquire-zscaler-bringing-network-security-and-zero-trust-falcon-platform" />
+    <updated>2026-11-23T23:25:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Acquisition will unite the leaders in securing every device and every connectionZscaler will expand CrowdStrike’s total addressable market by more than $185 billionWill provide a path to cross-sell th…</summary>
+  </entry>
+  <entry>
+    <title>約6400円のゲーム機をLinuxパソコンにするソフト「NZEUS Deck」 - FabScene（ファブシーン）</title>
+    <id>https://fabscene.com/new/make/nzeus-deck-r36s-clone-hichip-e3100-linux-debian/</id>
+    <link href="https://fabscene.com/new/make/nzeus-deck-r36s-clone-hichip-e3100-linux-debian/" />
+    <updated>2026-11-23T12:49:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>約40ドル（約6400円）で売られている携帯ゲーム機「R36S」の互換機を、Linux 7.2とDebian 12で動く小さなコンピューターに変えるソフトウェアが「NZEUS Deck」として公開された。作ったのはNZEUS LABのNaser Ashknani氏だ。同氏が持っていた互換機では、ほかの改造用OSがどれも動かなかった。 R36Sはレトロゲーム向けの...</summary>
+  </entry>
+  <entry>
+    <title>コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか - Qiita</title>
+    <id>https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e</id>
+    <link href="https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e" />
+    <updated>2026-11-23T10:45:02+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに AIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。 私は日常的にAIを使って開発しています。数…</summary>
+  </entry>
   <entry>
     <title>codepatrol + software-factory-mode-2026akiと物理的な製品の製造工場の比較 - 橋本商会</title>
     <id>https://scrapbox.io/shokai/codepatrol_+_software-factory-mode-2026aki%E3%81%A8%E7%89%A9%E7%90%86%E7%9A%84%E3%81%AA%E8%A3%BD%E5%93%81%E3%81%AE%E8%A3%BD%E9%80%A0%E5%B7%A5%E5%A0%B4%E3%81%AE%E6%AF%94%E8%BC%83</id>
@@ -463,14 +495,6 @@
     <summary>For an AI model to be useful in specific contexts, it often needs access to background knowledge. For example, customer support chatbots need knowledge about the specific business they're being used f…</summary>
   </entry>
   <entry>
-    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
-    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
-    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
-    <updated>2026-11-23T19:14:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジ...</summary>
-  </entry>
-  <entry>
     <title>氷河期オタクエンジニアおじさん、底辺文化地域で暮らす。</title>
     <id>https://anond.hatelabo.jp/20261123174519</id>
     <link href="https://anond.hatelabo.jp/20261123174519" />
@@ -485,6 +509,14 @@
     <updated>2026-11-23T15:56:43+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Googleの『Site Reliability Engineering, 2nd Edition』に、「Safety Engineering for SRE with STPA and CAST」という章が追加されました。 STAMPやSTPAは、システム安全工学から生まれた考え方・分析手法であり、Googleでも実際に利用され始めているようです。2021年にはGoogle社内研修が始まり、20…</summary>
+  </entry>
+  <entry>
+    <title>著名なRust製OSSをLean 4で形式検証してみたら、めちゃめちゃバグが見つかった話</title>
+    <id>https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7</id>
+    <link href="https://zenn.dev/koukyosyumei/articles/31c8fcf4da45b7" />
+    <updated>2026-11-23T14:17:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。コロンビア大学の博士課程でシステムセキュリティ・形式検証の研究をしている Koukyosyumei です。 今回は、ざっくり言うと、Rust製の有名なOSSをLean 4で形式検証するベンチマークを作っていたら、思いがけず実際のセキュリティ脆弱性をいくつも発見してしまった、という話です。 現在私がやっているプロジェクトの一つに、RustのWebアプリケーションをLean 4で形式検証で…</summary>
   </entry>
   <entry>
     <title>AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog</title>
@@ -631,20 +663,20 @@
     <summary>この記事の結論 ガードレールは「人の注意をなくすもの」ではなく「不注意を事故にしないもの」 どこまでやっても人の注意は残る。ルール・仕組み・個人の注意の全部が要る 合言葉は「AIに渡す前に、ひと呼吸」 はじめに 今年の5月、AWSの AI-DLC Unicorn ...</summary>
   </entry>
   <entry>
-    <title>なぜ今形式検証なのか</title>
-    <id>https://zenn.dev/ncdc/articles/dcec80b0c067b0</id>
-    <link href="https://zenn.dev/ncdc/articles/dcec80b0c067b0" />
-    <updated>2026-11-23T15:15:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立...</summary>
-  </entry>
-  <entry>
     <title>｢野村は100%､楽天･SBIは50%｣は過去の話…NISA口座を乗っ取られても｢全額戻るとは限らない｣補償の新ルール（プレジデントオンライン） - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358</id>
     <link href="https://news.yahoo.co.jp/articles/2d8ed6122f3eb92f18539906bac8213be0c5c358" />
     <updated>2026-11-23T14:30:40+09:00</updated>
     <category term="はてブ IT" />
     <summary>情報流出の可能性についての楽天証券の告知を表示するスマートフォン画面＝2026年11月17日午後 - 写真＝共同通信社（株式会社プレジデント社）個人投資家が増える中、証券口座が犯罪者の標的になっている。ファイナンシャルプランナーでIT講師も務める川淵ゆかりさんは「口座を乗っ取られて被害が出た場合でも、証券会社...</summary>
+  </entry>
+  <entry>
+    <title>なぜ今形式検証なのか</title>
+    <id>https://zenn.dev/ncdc/articles/dcec80b0c067b0</id>
+    <link href="https://zenn.dev/ncdc/articles/dcec80b0c067b0" />
+    <updated>2026-11-19T08:00:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>形式検証、Leanといったワードを最近よくみるので、どんなものなのか知っておきたいというのが今回の動機です。 解説、詳説というよりは私自身のキャッチアップ記録になります。 形式検証って何？ 形式検証とは、テストや非形式的な議論だけに頼るのではなく、論理を用いてハードウェアやソフトウェアの設計の性質を確立することです。要求の形式的な仕様、実装の形式的なモデル、正確な推論規則を使い、たとえば実装が仕様…</summary>
   </entry>
   <entry>
     <title>マイナンバー情報、約150円で売買も――サイバー攻撃時「すぐに事業を止める」覚悟はあるか 問われる経営の責任</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-22T11:40:21+09:00</updated>
     <category term="はてブ IT" />
     <summary>EUでは2024年初頭にデジタル市場法（DMA）に基づいてAppleが代替ブラウザエンジンの利用を認める枠組みを導入した。日本でも2025年12月18日にスマートフォンソフトウェア競争促進法（スマホ法）が全面施行され、公正取引委員会がAppleを規制事業者として指定した。Appleは日本の利用者向けにiOS 26.2以降でWebKit以外の...</summary>
-  </entry>
-  <entry>
-    <title>アマゾンが迫られた「10億ドル」の地域融和策、AIデータセンター建設凍結の波紋（小久保重信） - エキスパート - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/expert/articles/8a874f9bd3a7c1c2d97094f32690eb3fd309dbf4</id>
-    <link href="https://news.yahoo.co.jp/expert/articles/8a874f9bd3a7c1c2d97094f32690eb3fd309dbf4" />
-    <updated>2026-11-22T08:28:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>10月上旬、米アマゾン・ウェブ・サービス（AWS）は、データセンターを展開する米国の地域社会に向けて今後5年間で10億ドル（約1600億円）超を追加拠出する支援策を発表した。あわせて、施設立地にあたって行政機関と結んできた秘密保持契約（NDA）を撤廃する方針を明らかにした。 The race our nation can’t afford to l...</summary>
-  </entry>
-  <entry>
-    <title>世界初の直径200mm単結晶ダイヤモンドウェハーは何を変えるのか、AIチップの99％をダイヤモンドにする構想とは？</title>
-    <id>https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/</id>
-    <link href="https://gigazine.net/news/20261123-diamond-foundrysingle-crystal-diamond/" />
-    <updated>2026-11-23T09:10:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>人工ダイヤモンドメーカーのDiamond Foundryが、世界初となる直径200mmの単結晶ダイヤモンドウェハーの製造に成功しました。同社は銅を大幅に上回る熱伝導率を持つダイヤモンドを半導体に直接組み込むことでAIチップの発熱問題を解消し、将来的にはダイヤモンドそのものをトランジスタの材料として利用することを目指し...</summary>
-  </entry>
-  <entry>
-    <title>ケガの応急処置や飲料水の入手方法など膨大なサバイバル情報をPCに保存してオフラインで閲覧可能にする「Lastbook」</title>
-    <id>https://gigazine.net/news/20261123-lastbook-offline-knowledge/</id>
-    <link href="https://gigazine.net/news/20261123-lastbook-offline-knowledge/" />
-    <updated>2026-11-23T00:26:08+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Lastbook」は数GB～数十GBにおよぶサバイバル情報をPCに保存してオフライン環境でも閲覧できるようにするアプリです。いざという時に役立ちそうなのでインストールしてみました。 Lastbook — Everything you need to survive and rebuild society. https://lastbook.org/ LastbookはWindows・macOS・…</summary>
-  </entry>
-  <entry>
-    <title>Blender向けキャラクター作成アドオン「Eden」が登場！AIで生成したモデルを取り込む「Eden Wrap」も</title>
-    <id>https://cginterest.com/2026/11/20/eden-blender/</id>
-    <link href="https://cginterest.com/2026/11/20/eden-blender/" />
-    <updated>2026-11-21T09:16:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Xane Studiosは、Blender向けのキャラクター作成アドオン「Eden | Ultimate Character Studio」を、Superhiveでリリースしました。 Eden とは Edenは、Blenderの中で人物のキャラクターを作るためのアドオンです。男性または女性のベースから始め、スライダーで顔と体の形を変えたうえで、肌、髪、服を選び、最後にポー...</summary>
   </entry>
 </feed>
