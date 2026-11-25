@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T22:30:16.232314+09:00</updated>
+  <updated>2026-11-25T23:00:18.081826+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -415,6 +415,14 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T17:07:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
+  </entry>
+  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -453,14 +461,6 @@
     <updated>2026-11-25T07:22:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
-  </entry>
-  <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T01:45:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
   </entry>
   <entry>
     <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
