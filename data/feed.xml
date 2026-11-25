@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T00:00:17.438982+09:00</updated>
+  <updated>2026-11-26T00:30:13.238674+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>FC2創業者「1円も稼いでへんのに、AI課金が月15万円」…さらには「AI彼氏」に月12万円注ぎ込み、借金40万円を抱えた30代女性も…急増する「AI貧乏」のリアル | 日刊SPA!</title>
+    <id>https://nikkan-spa.jp/2196453</id>
+    <link href="https://nikkan-spa.jp/2196453" />
+    <updated>2026-11-25T21:40:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>生成AI 、整形、シール、ブルーカラー転職──近年のブームに乗り、人生を変えようとした人々がいる。だが手軽な快感と「乗り遅れたくない」という焦りは課金沼や借金、心身の不調を招くことも。熱狂の先に待つ、笑えない現実を追った。 近年、最も注目を集め、世の中を変えた技術といえば生成AIだろう。業務を効率化する...</summary>
+  </entry>
+  <entry>
+    <title>アウトプットの「質」ってじゃあなんなんだよ</title>
+    <id>https://zenn.dev/watany/articles/1efe3adea67dd5</id>
+    <link href="https://zenn.dev/watany/articles/1efe3adea67dd5" />
+    <updated>2026-11-25T20:31:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 登壇にしてもブログにしても「やれば偉い」ってオチにすればみんなハッピーなんだけど、それはそれとして自分のために時間を使ってくれている受け手には失望して欲しくないし、何かを得てもらいたくないですか？面倒なので以降は、共感できる方だけ読み進めてください。 チェックリスト 他にもあるかもしれませんが、1番近いなと思うものを選んでください 実験系(やってみた) 公式ドキュメントからの逸脱はあるか…</summary>
+  </entry>
+  <entry>
+    <title>Working with AI</title>
+    <id>https://www.anthropic.com/research/working-with-ai</id>
+    <link href="https://www.anthropic.com/research/working-with-ai" />
+    <updated>2026-11-24T20:31:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Nathan Wilmers, Maxim Massenkoff, Peter McCrory SummaryHow are businesses across the economy adopting AI? What bottlenecks and challenges have they faced? How can employers reorganize human expertise…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った</title>
+    <id>https://zenn.dev/nexta_/articles/a3ff76a9f98f1c</id>
+    <link href="https://zenn.dev/nexta_/articles/a3ff76a9f98f1c" />
+    <updated>2026-11-24T11:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude Code は、VSCode の拡張機能で使うのが好きだ。 Markdown が見やすく、コードも Git の変更差分もその場で見られる。 パネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。 ただ、セッションを5つほど並べると困ることが出てくる。 一番困ったのは、パネルの見出しが短くて、どれが何の作業をしているのか一目で分からないことだった。 一時期…</summary>
+  </entry>
   <entry>
     <title>MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
     <id>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</id>
@@ -503,14 +535,6 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T17:07:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
-  </entry>
-  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -549,6 +573,14 @@
     <updated>2026-11-25T07:22:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
+  </entry>
+  <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T01:45:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
   </entry>
   <entry>
     <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-25T08:37:15+09:00</updated>
     <category term="はてブ IT" />
     <summary>三重県内の小学校の元講師が、ことし8月実在する少女の写真をもとに生成AIでつくられた裸の画像を所持していたとして児童ポルノ禁止法違反の疑いで追送検されたことが捜査関係者への取材でわかりました。 追…</summary>
-  </entry>
-  <entry>
-    <title>楽天証券、約441万件の個人情報漏えいを確認 168万口座の資産残高も流出</title>
-    <id>https://japan.cnet.com/article/35255354/</id>
-    <link href="https://japan.cnet.com/article/35255354/" />
-    <updated>2026-11-25T07:17:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>漏えいの対象となった情報には、氏名や住所、生年月日、電話番号、メールアドレスのほか、勤務先や出金先の銀行口座情報（金融機関名、口座番号、名義人）などが含まれる。今回の調査で、性別や国籍、FAX番号、口座開設・解約状況、口座登録時のアンケート情報など、新たに7項目の漏えいも判明した。 約168万口座の資産...</summary>
-  </entry>
-  <entry>
-    <title>アプリ高速化ツール「SpeedyFox」が約14年ぶりのメジャー更新 ～対応プログラム拡充／ゼロから書き直し、Windows/macOS版を共通化、対応プログラムは30種類に</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2158563.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2158563.html" />
-    <updated>2026-11-25T06:27:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>アプリ高速化ツール「SpeedyFox」が約14年ぶりのメジャー更新 ～対応プログラム拡充／ゼロから書き直し、Windows/macOS版を共通化、対応プログラムは30種類に</summary>
-  </entry>
-  <entry>
-    <title>ずっしり重い新型ウォークマン 歴代最高65万円なぜここまで高級化：朝日新聞</title>
-    <id>https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html</id>
-    <link href="https://www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html" />
-    <updated>2026-11-25T08:35:54+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ソニーは27日に携帯音楽プレーヤー「ウォークマン」の新型モデルを売り出す。発売前から話題を集めるのは、その価格だ。旗艦商品は約65万5千円（市場推定価格、税込み）と4年半前に出した1代前のモデルより…</summary>
-  </entry>
-  <entry>
-    <title>「ドパガキ」が「Z世代の年間トレンド大賞」に その意味とは Simejiが選定</title>
-    <id>https://japan.cnet.com/article/35255347/</id>
-    <link href="https://japan.cnet.com/article/35255347/" />
-    <updated>2026-11-24T19:13:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ショート動画を次々と見てしまう自分を自虐的に表す言葉「ドパガキ」が、日本語入力アプリ「Simeji」の「Z世代トレンドアワード2026」で年間トレンド大賞に選ばれた。Simejiを提供するバイドゥが11月24日に発表した。 Simejiの年間トレンド大賞と部門別の結果（画像：バイドゥ／提供：Simeji presents Z世代トレンドアワ...</summary>
   </entry>
 </feed>
