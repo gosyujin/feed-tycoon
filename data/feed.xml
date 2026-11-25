@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T21:00:16.905446+09:00</updated>
+  <updated>2026-11-25T21:30:13.286744+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Apple製モニターを経由して有線LAN接続したらインターネット速度が4分の1に低下したという体験談</title>
+    <id>https://gigazine.net/news/20261125-monitor-was-cutting-download-speed/</id>
+    <link href="https://gigazine.net/news/20261125-monitor-was-cutting-download-speed/" />
+    <updated>2026-11-25T08:07:45+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ソフトウェアエンジニアのオスカー・モルナー氏は自らが経験した2.5ギガビットイーサネット接続でのダウンロード速度の大幅な低下について、原因と解決策を自身のブログにて詳細に解説しています。 My Monitor Was Cutting My Download Speed by 75% :: The Tymscar Blog https://blog.tymscar.com/posts/studiod…</summary>
+  </entry>
   <entry>
     <title>中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに</title>
     <id>https://gigazine.net/news/20261125-china-spy-nvidia-chips/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-24T23:29:16+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに 以前、React の学習がてら作った学習記録アプリを、Firebase Hosting にデプロイしました。さらに、GitHub Actions で CI/CD を組み、Vitest でテストを書くところまでやりました。 その過程で苦労したこと、工夫したこ...</summary>
-  </entry>
-  <entry>
-    <title>cdkd deploy実行した時のリソースごとのデプロイ時間見たいなぁ...ん？見れるんかいっ！</title>
-    <id>https://qiita.com/kuracchi_enj/items/2e911d5a8b1253dd4b6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/kuracchi_enj/items/2e911d5a8b1253dd4b6e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T22:46:10+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>どうもこんにちは。 最近のAWSの検証はなんでもかんでもcdkd。くらっちです。じゃん。 先日ね、こんな記事を執筆しました。 LWFにPythonきたぞっ！ってやつ。 この検証にもcdkdを使ってデプロイしておりまして。 cdkdでのデプロイ、めっちゃ速いんですよね。...</summary>
   </entry>
 </feed>
