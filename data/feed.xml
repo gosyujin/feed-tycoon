@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T15:30:14.345261+09:00</updated>
+  <updated>2026-11-25T16:00:08.236477+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
+    <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
+    <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
+    <updated>2026-11-25T11:35:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 前回の記事では、ベクトルDBを使わずにLLMが目次を辿って文書を探す「階層ナビゲーション型RAG」を、Corpus2Skillを参考に自作し、ベクトルDB版RAGと比べました。28文書・20問の比較で、正答数は同等という結果でした。 この記事を公開したあと、次のコメントをいただきました。 正解文書への到達と、回答に必要な箇所を渡せたかを分けた分析が参考になりました。次に比較するなら、各問…</summary>
+  </entry>
+  <entry>
+    <title>Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う</title>
+    <id>https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana</id>
+    <link href="https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana" />
+    <updated>2026-11-25T10:41:04+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに この記事は、Salesforce の Agentforce Employee エージェントから、外部の MCP（Model Context Protocol）サーバーのツールを使えるようにするまでの設定手順をまとめたものです。題材には Asana の MCP サーバーを使い、Salesforce のケースから Asana のタスクを起票するエージェントを作ります。 きっかけは、Winte…</summary>
+  </entry>
+  <entry>
+    <title>C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrapbox</title>
+    <id>https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0</id>
+    <link href="https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0" />
+    <updated>2026-11-25T09:40:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>PHP、Nginx、Ruby、Node.jsなど、あらゆる場所でCriticalな脆弱性の報告が止まらない そしてその多くが、C言語に起因する、『メモリ破壊』系のバグである 「もうCとか使わなきゃいいのに」と、多くのプログラマがため息交じりに呆れている だが待ってほしい。それは思考停止ではないのか C＝悪と刷り込まれすぎて、本質...</summary>
+  </entry>
+  <entry>
+    <title>Personal Agent Protocol (Poppy) が解く問題と仕組み</title>
+    <id>https://zenn.dev/sierra_japan/articles/0b9ba590232345</id>
+    <link href="https://zenn.dev/sierra_japan/articles/0b9ba590232345" />
+    <updated>2026-11-25T08:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、Sierra で Agent Engineer をしている konippi です。 この度、Sierra Japan の有志で Engineering Blog を始めました 🎉🎉🎉 https://zenn.dev/p/sierra_japan 記念すべき最初の記事では、パーソナル AI エージェントと企業をつなぐオープンなプロトコル、Personal Agent Protocol…</summary>
+  </entry>
+  <entry>
+    <title>モデルの性能が出ないのは AI ゲートウェイのせいかもしれない</title>
+    <id>https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557</id>
+    <link href="https://zenn.dev/google_cloud_jp/articles/7e29a9acf06557" />
+    <updated>2026-11-25T07:22:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
+  </entry>
+  <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T01:45:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
+  </entry>
+  <entry>
+    <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
+    <id>https://zenn.dev/rimo/articles/c25919207b1cde</id>
+    <link href="https://zenn.dev/rimo/articles/c25919207b1cde" />
+    <updated>2026-11-24T17:24:00+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。Rimo 合同会社で 1人目デザイナーをやっているにしゃみー (@NishaMe1024) です。 Rimo にはエンジニアが約20人いて、正社員のデザイナーは入社した3年前から相変わらず私1人です。今年の2月頃、Claude が超絶進化したのを皮切りにプロトタイプを作らせる仕組みを自作し、8ヶ月近くデザイナー1人でもこの人数の開発を支えられる体制をつくってきたので、今回は仕組みや溜ま…</summary>
+  </entry>
+  <entry>
+    <title>Lambda の GPU 関数で、vLLM のコールドスタートをどこまで削れるか試す</title>
+    <id>https://zenn.dev/aws_japan/articles/lambda-gpu-vllm-coldstart</id>
+    <link href="https://zenn.dev/aws_japan/articles/lambda-gpu-vllm-coldstart" />
+    <updated>2026-11-24T14:30:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AWS Lambda で GPU を使う関数(Lambda Managed Instances 上の GPU-accelerated Event Functions)が使えるようになりました。実行環境を 0 まで減らせるので、主に業務時間中にだけ使うようなサービスやシステムなら、夜間や休日は GPU インスタンスの料金を払わずに済みます。その代わり、0 の状態から呼んだときは、最初のトークンが返る…</summary>
+  </entry>
+  <entry>
+    <title>0.3秒で答えるAIは、暗算でつまずく ― Jev・OpenAI・Geminiの判断APIを165問で比べた</title>
+    <id>https://zenn.dev/rehabforjapan/articles/decision-api-comparison</id>
+    <link href="https://zenn.dev/rehabforjapan/articles/decision-api-comparison" />
+    <updated>2026-11-24T14:01:28+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに Rehab for JAPANでCTOを務めている@rkyuragiです。 2026年11月にGoogleのGemini Decisions APIが公開され、TypeSafeのJev、OpenAIのDecisions APIと合わせて、判断専用のAPIが3社からそろいました。どれも文章を生成せず、質問ごとに確率付きの答えを0.15〜0.3秒ほどで返します。 以前、Jevの「確率で答える…</summary>
+  </entry>
   <entry>
     <title>六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記</title>
     <id>https://www.itmedia.co.jp/news/article/2611/25/2000003437/</id>
@@ -84,7 +156,7 @@
     <link href="https://onk.hatenablog.jp/entry/2026/11/25/022804" />
     <updated>2026-11-25T10:35:22+09:00</updated>
     <category term="はてブ IT" />
-    <summary>コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後、項目ごとに書く必要があるか...</summary>
+    <summary>コーディングエージェントにコミットメッセージや PR 本文を書かせると、まぁ伝わらない文章が出てくる。 調べたことを全部書いてあって、それはありがたいんだけど、読み手に伝えたいのはそこじゃない、みたいな。 そこで、最近は伝えたいことをネストした箇条書きで出させている。その後で、項目ごとに書く必要がある...</summary>
   </entry>
   <entry>
     <title>AIハーネスは第3世代へ。自己改善するハーネスの全体像</title>
@@ -287,14 +359,6 @@
     <summary>## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業...</summary>
   </entry>
   <entry>
-    <title>Claude Code の /ship を図解する</title>
-    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
-    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
-    <updated>2026-11-25T03:03:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 私は普段、自作のスキルと Claude Desktop の Auto-fix を組み...</summary>
-  </entry>
-  <entry>
     <title>MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
     <id>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</id>
     <link href="https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections" />
@@ -317,6 +381,14 @@
     <updated>2026-11-24T17:53:31+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは☀️ 株式会社AI Shiftでフロントエンドエンジニアをしているさっちゃんです！（X：おさわ / 吉岡 爽） 2026年11月22日（日）にベルサール神田で開催された JSConf JP 2026 に参加してきました！ 4トラック並行で、キーノートは Brendan Eich さんへのインタビューと Josh Junon さんの講演の2本でした。 https://jsconf…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の /ship を図解する</title>
+    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
+    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
+    <updated>2026-11-24T15:30:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 https://x.com/claudedevs/status/2124959436640858475 私は普段、自作…</summary>
   </entry>
   <entry>
     <title>AI時代の実践・形式検証入門</title>
@@ -733,77 +805,5 @@
     <updated>2026-11-24T15:16:08+09:00</updated>
     <category term="はてブ IT" />
     <summary>こんにちは、ISUCON2026作問チーム「第n西東京市」のwhywaitaです。 この記事では、ISUCON2026問題「写真共有SNS ISUReal」についての問題解説と講評についてお届けさせていただきます。 今回の作問は、ISUCON6から同じチームを組んできた 第n西東京市のメンバー（whywaita, nomeaning, icchy）と、アドバイザーとして f...</summary>
-  </entry>
-  <entry>
-    <title>Claude Projectsを使って、複数のリポジトリにまたがるtextlintとルールのパフォーマンスを改善した</title>
-    <id>https://efcl.info/2026/11/24/textlint-performance/</id>
-    <link href="https://efcl.info/2026/11/24/textlint-performance/" />
-    <updated>2026-11-24T11:44:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この2週間で、textlintと、よく使われているルールやライブラリのパフォーマンスを改善し、実行時間は約1/10になりました。 グラフは、その日にnpm installしたtextlintとルールでの実行時間です。 そのため、設定やルールは変えずに、textlintとルールをアップデートするだけで改善できます。 npm install --save-dev t...</summary>
-  </entry>
-  <entry>
-    <title>情報流出で防犯グッズ人気 スタンガンや催涙スプレー 専門店は10月半ばから売上増（テレビ朝日系（ANN）） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/289856b29924107c57be29f591207023b9d43409</id>
-    <link href="https://news.yahoo.co.jp/articles/289856b29924107c57be29f591207023b9d43409" />
-    <updated>2026-11-24T13:08:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>情報流出で防犯グッズ人気 スタンガンや催涙スプレー 専門店は10月半ばから売上増（テレビ朝日） 住所や資産といった個人情報の流出が相次ぐ中、それが強盗などの犯罪につながるという不安が広がり、防犯グッズが売れています。SNSでは不安をあおる「日本刀自衛論」が拡散され、販売店が困惑しています。 【画像】刀...</summary>
-  </entry>
-  <entry>
-    <title>品質を積み上げられるようにする</title>
-    <id>https://speakerdeck.com/goyoki/building-up-of-quality</id>
-    <link href="https://speakerdeck.com/goyoki/building-up-of-quality" />
-    <updated>2026-11-24T08:53:24+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>コンポーネント品質の積み上げの恩恵： 高度な品質実現をサポートする 品質 レベル 平常 状態 その時の開発力に依存 鍛えれば品質が高まる 品質レベル 高度な品質実現 には不断の大き な努力が必要 「努力は裏切らない」 「レベルを上げて物理 で殴る」ができる 停滞すれば衰え、 品質が低下する トラブル等で、 失敗誘...</summary>
-  </entry>
-  <entry>
-    <title>ブラックフライデー先行セール！「Google AI Plus/Pro」最大50%引き</title>
-    <id>https://jetstream.blog/2026/11/23/google-ai-plus-pro-black-friday-early-sale-2026/</id>
-    <link href="https://jetstream.blog/2026/11/23/google-ai-plus-pro-black-friday-early-sale-2026/" />
-    <updated>2026-11-23T20:01:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この記事のポイント 「Google One」において、「Google AI」プラン「Google AI Plus」「Google AI Pro」を対象とした「ブラックフライデー」セールが開始。既存の「Google AI Plus」「Google AI Pro」メンバーシップ対象の、先行セール的な「早期アクセス」として開始。2026 年 11 月 26 日（木）までの期間中、「Google...</summary>
-  </entry>
-  <entry>
-    <title>AIエージェントを騙す：一見安全だが危険なGitHubリポジトリをAIエージェントにセットアップさせてみた（インターンシップ体験記） - NTT docomo Business Engineers' Blog</title>
-    <id>https://engineers.ntt.com/entry/202610-offsec-intern/entry</id>
-    <link href="https://engineers.ntt.com/entry/202610-offsec-intern/entry" />
-    <updated>2026-11-20T17:35:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、NTTドコモグループの現場受け入れ型インターンシップに参加した、中里と下坂です。 本記事では、私たちが参加した、「攻撃者視点に立ち攻撃技術を研究開発するセキュリティエンジニア」ポストでの取り組みについて紹介します。 NTTドコモグループのセキュリティ業務や、Offensive Securityに興味を持ってい...</summary>
-  </entry>
-  <entry>
-    <title>なぜ、AIコーディング時代にLeanが注目されるのか</title>
-    <id>https://zenn.dev/karamage/articles/bf57c47b9e9b9b</id>
-    <link href="https://zenn.dev/karamage/articles/bf57c47b9e9b9b" />
-    <updated>2026-11-22T22:17:42+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ヤバい！リーマン予想の証明のニュースは、数学界の出来事にとどまらずソフトウェアエンジニアにとっても大きな転換点なのでは！ 2026年11月20日、Anthropicの数学者レヴェント・アルポゲ（Levent Alpöge）氏が、AIの「Claude」と共同で167年来の未解決問題であるリーマン予想の証明を見つけたと発表しました。 ところが...</summary>
-  </entry>
-  <entry>
-    <title>Ruby で学ぶ Windows システムプログラミング</title>
-    <id>https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/</id>
-    <link href="https://www.hsbt.org/slide/20261121-SendaiRubyKaigi03/" />
-    <updated>2026-11-24T16:39:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>仙台Ruby会議03 / 2026年11月</summary>
-  </entry>
-  <entry>
-    <title>月に3度の障害……揺らぐドコモの信頼 通信品質が安定しない理由は？</title>
-    <id>https://www.itmedia.co.jp/news/article/2611/24/2000003405/</id>
-    <link href="https://www.itmedia.co.jp/news/article/2611/24/2000003405/" />
-    <updated>2026-11-24T15:48:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NTTドコモへの信頼が揺らぎつつある。11月5日、11日、16日と3回に渡って通信障害を発生させ、17日には藤井比早之総務相が「国民生活の重要なインフラとなっている通信サービスにおいて、短期間で3度の障害は大変遺憾だ」と原因究明と再発防止を求めた。 3度の通信障害は、いずれも「5G SA」で起きた。5G SAとは「5G Stan...</summary>
-  </entry>
-  <entry>
-    <title>New Relic の公式スキルを活用し、自然言語からダッシュボードを作成する</title>
-    <id>https://qiita.com/seamoooooo/items/79f7ba11e0787ac2427b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/seamoooooo/items/79f7ba11e0787ac2427b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T14:07:59+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>「数日後の会議までに、アプリの応答時間やエラー、動画の変換状況をまとめてほしい」。ほかの作業で手いっぱいのときに、こんな依頼が来たらどうでしょうか？ Coding Agentを使えば簡単にできそうですが、送信済みのカスタム属性やNRQLの細かな仕様まで踏まえて作ってもらうに...</summary>
   </entry>
 </feed>
