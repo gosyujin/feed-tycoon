@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T06:30:14.445012+09:00</updated>
+  <updated>2026-11-26T07:00:13.489353+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>日本語サイトで指定しておきたいCSS 2026年版 - Qiita</title>
+    <id>https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e</id>
+    <link href="https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e" />
+    <updated>2026-11-23T19:33:25+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>text-autospace は3エンジンすべてに実装が入っていますが、一部の値で実装差が残っており、web-features の Baseline 判定はまだ Limited です。 ただしここに挙げたものは全部、非対応ブラウザでは無視されるだけです。レイアウトが壊れることはないので、プログレッシブエンハンスメントとして入れて問題ありません。...</summary>
+  </entry>
   <entry>
     <title>Update on a security incident involving 1Password’s backend systems. | 1Password</title>
     <id>https://1password.com/blog/update-on-nov-2026-security-incident</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-25T09:40:46+09:00</updated>
     <category term="はてブ IT" />
     <summary>PHP、Nginx、Ruby、Node.jsなど、あらゆる場所でCriticalな脆弱性の報告が止まらない そしてその多くが、C言語に起因する、『メモリ破壊』系のバグである 「もうCとか使わなきゃいいのに」と、多くのプログラマがため息交じりに呆れている だが待ってほしい。それは思考停止ではないのか C＝悪と刷り込まれすぎて、本質...</summary>
-  </entry>
-  <entry>
-    <title>Personal Agent Protocol (Poppy) が解く問題と仕組み</title>
-    <id>https://zenn.dev/sierra_japan/articles/0b9ba590232345</id>
-    <link href="https://zenn.dev/sierra_japan/articles/0b9ba590232345" />
-    <updated>2026-11-25T08:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、Sierra で Agent Engineer をしている konippi です。 この度、Sierra Japan の有志で Engineering Blog を始めました 🎉🎉🎉 https://zenn.dev/p/sierra_japan 記念すべき最初の記事では、パーソナル AI エージェントと企業をつなぐオープンなプロトコル、Personal Agent Protocol…</summary>
   </entry>
 </feed>
