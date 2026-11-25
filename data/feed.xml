@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T01:30:19.836889+09:00</updated>
+  <updated>2026-11-26T02:00:16.414994+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>最近のMySQL事情について</title>
+    <id>https://speakerdeck.com/yoku0825/mysql-in-2026</id>
+    <link href="https://speakerdeck.com/yoku0825/mysql-in-2026" />
+    <updated>2026-11-25T21:41:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026/11/25 DBRE Summit 2026 https://mercari.connpass.com/event/409917/</summary>
+  </entry>
+  <entry>
+    <title>AI-DLC最前線のCognitive Surrenderに陥らないチーム作り</title>
+    <id>https://speakerdeck.com/yuukiyo/building-teams-that-resist-cognitive-surrender-in-ai-dlc</id>
+    <link href="https://speakerdeck.com/yuukiyo/building-teams-that-resist-cognitive-surrender-in-ai-dlc" />
+    <updated>2026-11-25T20:22:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>既存プロセスの各⼯程にAIを組み込むだけでは効果は限定的 部分的に速くなっても全体が速くなった実感は薄い STEP 01 STEP 02 STEP 03 STEP 04 STEP 05 要件定義 設計 実装 テスト リリース +AI +AI +AI +AI +AI どの⼯程も少しずつ速くなる。でも効果は感じづらい。 KDDI Agile Development Center Corporation…</summary>
+  </entry>
+  <entry>
+    <title>GitHub Copilot が切り拓くエージェント時代の開発ワークフロー</title>
+    <id>https://speakerdeck.com/moulongzhang/20261124-githubconnecttokyo-session2</id>
+    <link href="https://speakerdeck.com/moulongzhang/20261124-githubconnecttokyo-session2" />
+    <updated>2026-11-25T16:56:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>GitHub Connect Tokyo 2026｜2026.11.24｜Session 2 GitHub Copilot が切り拓く エージェント時代の 開発ワークフロー 明日から、チームで回すための実践編 William Zhang / AI GTM Lead, GitHub Japan スピーカー紹介 William Zhang AI GTM Lead | GitHub Copilot プロ…</summary>
+  </entry>
   <entry>
     <title>結局「オントロジー」って何なのさ 〜概念と良さを4つのレイヤーで整理する〜</title>
     <id>https://zenn.dev/algomatic/articles/ece749a7e3cb24</id>
@@ -583,6 +607,14 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T17:07:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
+  </entry>
+  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -621,14 +653,6 @@
     <updated>2026-11-25T07:22:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
-  </entry>
-  <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T01:45:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
   </entry>
   <entry>
     <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-25T09:52:31+09:00</updated>
     <category term="はてブ IT" />
     <summary>楽天証券は11月24日、11月17日に公表した顧客情報の漏えいについて第2報を出し、氏名や住所、電話番号などの個人情報の漏えいが約441万件にのぼると明らかにしました。 約441万件のうち、約322万口座は口座開設者の情報で、約119万件は口座未開設者の情報です。後者は口座開設申し込み時の内容で、申し込みを途中でやめ...</summary>
-  </entry>
-  <entry>
-    <title>GitHub - zed-industries/gpui: A GPU-accelerated, open-source UI framework for Rust that combines immediate and retained modes. 🚀</title>
-    <id>https://github.com/zed-industries/gpui</id>
-    <link href="https://github.com/zed-industries/gpui" />
-    <updated>2026-11-25T00:47:06+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reloa…</summary>
-  </entry>
-  <entry>
-    <title>[スタパ齋藤のApple野郎] レトロパソコンな見た目がたまらんッ!!!「HAGiBiS」のディスプレイつきUSB-Cハブが楽しい!!</title>
-    <id>https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2158744.html</id>
-    <link href="https://k-tai.watch.impress.co.jp/docs/column/stapaapple/2158744.html" />
-    <updated>2026-11-25T00:12:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>[スタパ齋藤のApple野郎] レトロパソコンな見た目がたまらんッ!!!「HAGiBiS」のディスプレイつきUSB-Cハブが楽しい!!</summary>
-  </entry>
-  <entry>
-    <title>「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2158479.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2158479.html" />
-    <updated>2026-11-24T10:53:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「PHP 8.6」が正式リリース、関数型っぽく書ける「Partial Function Application」などを導入／経過時間を表す「Duration」クラスや「clamp()」関数も。2030年末までサポート</summary>
   </entry>
 </feed>
