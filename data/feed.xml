@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T15:00:16.290836+09:00</updated>
+  <updated>2026-11-25T15:30:14.345261+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>六花亭のカード情報流出、対応が「誠実」と評判 再発行時の「伝え方」まで明記</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/25/2000003437/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/25/2000003437/" />
+    <updated>2026-11-25T11:53:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>北海道の菓子メーカー・六花亭（帯広市）の通販サイト「六花亭オンラインショップ」が不正アクセスを受け、クレジットカード番号（全桁）やセキュリティコードなどが流出した可能性がある件をめぐり、同社の対応を「誠実」と評価する声がSNSで相次いでいる。 21日に同社が公表した第二報で、カード会社に再発行を頼む時...</summary>
+  </entry>
   <entry>
     <title>米中に次ぐAI国家確立へ 政府案 - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/pickup/6603868</id>
@@ -279,6 +287,14 @@
     <summary>## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業...</summary>
   </entry>
   <entry>
+    <title>Claude Code の /ship を図解する</title>
+    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
+    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
+    <updated>2026-11-25T03:03:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 私は普段、自作のスキルと Claude Desktop の Auto-fix を組み...</summary>
+  </entry>
+  <entry>
     <title>MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
     <id>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</id>
     <link href="https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections" />
@@ -301,14 +317,6 @@
     <updated>2026-11-24T17:53:31+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは☀️ 株式会社AI Shiftでフロントエンドエンジニアをしているさっちゃんです！（X：おさわ / 吉岡 爽） 2026年11月22日（日）にベルサール神田で開催された JSConf JP 2026 に参加してきました！ 4トラック並行で、キーノートは Brendan Eich さんへのインタビューと Josh Junon さんの講演の2本でした。 https://jsconf…</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の /ship を図解する</title>
-    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
-    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
-    <updated>2026-11-24T15:30:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 https://x.com/claudedevs/status/2124959436640858475 私は普段、自作…</summary>
   </entry>
   <entry>
     <title>AI時代の実践・形式検証入門</title>
@@ -797,13 +805,5 @@
     <updated>2026-11-24T14:07:59+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>「数日後の会議までに、アプリの応答時間やエラー、動画の変換状況をまとめてほしい」。ほかの作業で手いっぱいのときに、こんな依頼が来たらどうでしょうか？ Coding Agentを使えば簡単にできそうですが、送信済みのカスタム属性やNRQLの細かな仕様まで踏まえて作ってもらうに...</summary>
-  </entry>
-  <entry>
-    <title>耳で聞く！ システム設計 視点の 行動経済学 11</title>
-    <id>https://qiita.com/maskot1977/items/2a22cacd7c95880ae412?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/maskot1977/items/2a22cacd7c95880ae412?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T12:41:09+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ソース動画のタイトル ご提示いただいたソース動画のタイトルは以下の通りです。 タイトル: 「システム設計から見た国家OSのバグ : システム設計視点の行動経済学 Po...</summary>
   </entry>
 </feed>
