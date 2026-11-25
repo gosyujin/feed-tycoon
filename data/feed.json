@@ -1,5 +1,73 @@
 [
   {
+    "title": "【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み",
+    "url": "https://zenn.dev/codehex/articles/33bc6ee330b880",
+    "domain": "zenn.dev",
+    "description": "Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…",
+    "publishedAt": "2026-11-25T15:12:03+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/codehex/articles/33bc6ee330b880",
+    "bookmarkCount": 1
+  },
+  {
+    "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
+    "url": "https://zenn.dev/happy_elements/articles/27e14ff6754044",
+    "domain": "zenn.dev",
+    "description": "Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude C…",
+    "publishedAt": "2026-11-25T12:53:12+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/happy_elements/articles/27e14ff6754044",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "体験ドリブンのすすめ ― AIで作れる時代に、何で差がつくか",
+    "url": "https://zenn.dev/mediaforce/articles/2fef9933aae9e7",
+    "domain": "zenn.dev",
+    "description": "前回の記事「AI時代の生産性を考える」では、AIは「速くする道具」ではなく「やらなかったことをやれるようにする装置」だと書きました。お客様が感動してくれたのは、作業が速かったからではなく、期待していたタイミングより前に、期待していた以上のものが出てきたからだ、という話です。 今回はその続きです。 AIを使えば、作りたいものはすぐに作れるようになりました。ということは、「作れること」そのものでは、も…",
+    "publishedAt": "2026-11-25T11:28:01+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mediaforce/articles/2fef9933aae9e7",
+    "bookmarkCount": 0
+  },
+  {
+    "title": "なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方",
+    "url": "https://zenn.dev/mediaforce/articles/27df1f22a00546",
+    "domain": "zenn.dev",
+    "description": "はじめに 株式会社メディアフォースでエンジニアをしている池田です。自社プロダクトの開発を担当しています。 弊社の開発チームは、設計や実装にClaude Codeを利用しています。 周りのエンジニアに勧められたことをきっかけに、最近はMatt PocockのSkillsを利用しています。 このSkillsは2026年春頃から話題になっていたgrill-me（grilling）[1]を含んだスキル集で…",
+    "publishedAt": "2026-11-25T07:30:05+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mediaforce/articles/27df1f22a00546",
+    "bookmarkCount": 0
+  },
+  {
     "title": "マイクロソフト、障害対応へ「非常事態」宣言 1時間で復旧へ - 日本経済新聞",
     "url": "https://www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/",
     "domain": "www.nikkei.com",
@@ -12,7 +80,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T22:00:13.494717+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/",
     "bookmarkCount": 5
   },
@@ -29,9 +97,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T22:00:13.494717+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/takagi-hiromitsu.jp/diary/20261124.html",
-    "bookmarkCount": 12
+    "bookmarkCount": 13
   },
   {
     "title": "Apple製モニターを経由して有線LAN接続したらインターネット速度が4分の1に低下したという体験談",
@@ -46,7 +114,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T21:30:13.286744+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261125-monitor-was-cutting-download-speed/",
     "bookmarkCount": 12
   },
@@ -63,7 +131,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T21:00:16.905446+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261125-china-spy-nvidia-chips/",
     "bookmarkCount": 11
   },
@@ -80,9 +148,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T21:00:16.905446+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35255394/",
-    "bookmarkCount": 16
+    "bookmarkCount": 18
   },
   {
     "title": "Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される",
@@ -97,9 +165,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T21:00:16.905446+09:00",
-    "lastSeenAt": "2026-11-25T21:30:13.286744+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261125-anthropic-claude-install-as-app/",
-    "bookmarkCount": 8
+    "bookmarkCount": 9
   },
   {
     "title": "Turn artifacts into Mac and Windows apps",
@@ -116,7 +184,7 @@
     "firstSeenAt": "2026-11-25T21:00:16.905446+09:00",
     "lastSeenAt": "2026-11-25T21:30:13.286744+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/claude.com/resources/articles/install-as-app",
-    "bookmarkCount": 6
+    "bookmarkCount": 7
   },
   {
     "title": "M＆A仲介会社に不正アクセス 最大数千社分の顧客情報漏えいか | NHKニュース",
@@ -131,7 +199,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T20:30:13.995372+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261125de81289",
     "bookmarkCount": 10
   },
@@ -165,9 +233,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T19:30:14.167241+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/note.com/shikimi_crypto/n/n35d0bb54e6fb",
-    "bookmarkCount": 134
+    "bookmarkCount": 139
   },
   {
     "title": "【ドパガキ向け】AI 時代の要求管理 ハンドブックを読もう",
@@ -182,7 +250,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T19:30:14.167241+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/muroshima/articles/be47515ff9c16e",
     "bookmarkCount": 0
   },
@@ -199,7 +267,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T19:30:14.167241+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/akarineren/articles/13ee3a909672c7",
     "bookmarkCount": 0
   },
@@ -218,7 +286,7 @@
     "firstSeenAt": "2026-11-25T19:30:14.167241+09:00",
     "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/shirochan/articles/f579abb8be4b1e",
-    "bookmarkCount": 0
+    "bookmarkCount": 1
   },
   {
     "title": "【重要】『XServer SNS』サービス提供終了のお知らせ",
@@ -250,7 +318,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T19:00:17.015906+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/25/2000003443/",
     "bookmarkCount": 23
   },
@@ -267,9 +335,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T19:00:17.015906+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2159034.html",
-    "bookmarkCount": 16
+    "bookmarkCount": 17
   },
   {
     "title": "音楽サービスのTIDAL、AI生成楽曲を削除・受付停止へ 直近90日の配信楽曲の43％がAI生成",
@@ -284,7 +352,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T19:00:17.015906+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/25/2000003433/",
     "bookmarkCount": 14
   },
@@ -303,7 +371,7 @@
     "firstSeenAt": "2026-11-25T19:00:17.015906+09:00",
     "lastSeenAt": "2026-11-25T19:30:14.167241+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/note.com/potycaty/n/n3a700f6c1d84",
-    "bookmarkCount": 8
+    "bookmarkCount": 9
   },
   {
     "title": "孫正義氏が語った原点回帰 「ペッパーの夢」に見たAI共存の糸口 - 日本経済新聞",
@@ -386,7 +454,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T18:00:16.230188+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2159145.html",
     "bookmarkCount": 31
   },
@@ -422,7 +490,7 @@
     "firstSeenAt": "2026-11-25T17:30:14.820257+09:00",
     "lastSeenAt": "2026-11-25T18:30:19.740850+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2159134.html",
-    "bookmarkCount": 12
+    "bookmarkCount": 13
   },
   {
     "title": "New Relic アップデート(2026年10月)",
@@ -573,7 +641,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T17:30:14.820257+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/japan.cnet.com/article/35255356/",
     "bookmarkCount": 60
   },
@@ -760,26 +828,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T16:30:14.447561+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261125-ternary-bonsai-2-5-27b/",
     "bookmarkCount": 31
-  },
-  {
-    "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
-    "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
-    "domain": "zenn.dev",
-    "description": "形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...",
-    "publishedAt": "2026-11-25T17:07:04+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/henteko/articles/ed8d1458246d7a",
-    "bookmarkCount": 47
   },
   {
     "title": "Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた",
@@ -794,7 +845,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/aiforall/articles/133752ce2d97ad",
     "bookmarkCount": 0
   },
@@ -828,9 +879,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0",
-    "bookmarkCount": 73
+    "bookmarkCount": 74
   },
   {
     "title": "Personal Agent Protocol (Poppy) が解く問題と仕組み",
@@ -845,7 +896,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/sierra_japan/articles/0b9ba590232345",
     "bookmarkCount": 2
   },
@@ -862,9 +913,26 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
     "bookmarkCount": 1
+  },
+  {
+    "title": "マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった",
+    "url": "https://zenn.dev/henteko/articles/ed8d1458246d7a",
+    "domain": "zenn.dev",
+    "description": "形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…",
+    "publishedAt": "2026-11-25T01:45:47+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/henteko/articles/ed8d1458246d7a",
+    "bookmarkCount": 50
   },
   {
     "title": "エンジニア20人の組織を、デザイナー1人と AI で支える仕組み",
@@ -983,7 +1051,7 @@
     "firstSeenAt": "2026-11-25T15:00:16.290836+09:00",
     "lastSeenAt": "2026-11-25T17:30:14.820257+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/column/tidbit/2158648.html",
-    "bookmarkCount": 10
+    "bookmarkCount": 11
   },
   {
     "title": "「JavaScriptを抜いた」 10年かけて首位になった言語は？ Java衰退・PHP半減が示す開発現場のリアル",
@@ -1032,7 +1100,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T14:00:12.937431+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/eetimes.itmedia.co.jp/ee/articles/2611/25/news044.html",
     "bookmarkCount": 44
   },
@@ -1066,9 +1134,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T13:30:13.162796+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/25/2000003421/",
-    "bookmarkCount": 133
+    "bookmarkCount": 135
   },
   {
     "title": "AI に文章を書かせるときは、ネストした箇条書きで取捨選択させる - id:onk のはてなブログ",
@@ -1083,9 +1151,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T13:30:13.162796+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/onk.hatenablog.jp/entry/2026/11/25/022804",
-    "bookmarkCount": 147
+    "bookmarkCount": 148
   },
   {
     "title": "AIハーネスは第3世代へ。自己改善するハーネスの全体像",
@@ -1100,9 +1168,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T13:30:13.162796+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/knowledgesense/articles/68128456fe7d28",
-    "bookmarkCount": 125
+    "bookmarkCount": 127
   },
   {
     "title": "Rubyを安心して使い続けるために",
@@ -1117,7 +1185,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T13:00:13.454904+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.ruby.or.jp/ja/news/20261125",
     "bookmarkCount": 65
   },
@@ -1151,9 +1219,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T13:00:13.454904+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.tinect.jp/?p=91593",
-    "bookmarkCount": 67
+    "bookmarkCount": 68
   },
   {
     "title": "家名索引",
@@ -1270,9 +1338,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T11:30:07.337866+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2158877.html",
-    "bookmarkCount": 75
+    "bookmarkCount": 76
   },
   {
     "title": "AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！",
@@ -1304,9 +1372,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T11:00:17.039766+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/25/2000003431/",
-    "bookmarkCount": 123
+    "bookmarkCount": 124
   },
   {
     "title": "34年目の秀丸エディタと、AIの距離感 「正直皆どんな目的で使ってるかよく分かりません」 - レバテックLAB",
@@ -1321,9 +1389,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T11:00:17.039766+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/levtech.jp/media/detail_973/",
-    "bookmarkCount": 270
+    "bookmarkCount": 271
   },
   {
     "title": "三重県警 小学校元講師 AI生成の児童ポルノ画像所持で追送検 | NHKニュース",
@@ -1389,7 +1457,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T10:30:13.110122+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.asahi.com/articles/ASVCN2QXSVCNULFA01XM.html",
     "bookmarkCount": 200
   },
@@ -1457,7 +1525,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T09:00:16.413190+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/",
     "bookmarkCount": 128
   },
@@ -1508,9 +1576,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T08:30:12.866488+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/holygrail/scraps/dec6ae85d06b4f",
-    "bookmarkCount": 521
+    "bookmarkCount": 527
   },
   {
     "title": "MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える",
@@ -1525,7 +1593,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T08:30:12.866488+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections",
     "bookmarkCount": 0
   },
@@ -1542,7 +1610,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T08:30:12.866488+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/upgradetech/articles/a9a1637d3071c1",
     "bookmarkCount": 3
   },
@@ -1576,9 +1644,9 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T08:30:12.866488+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/peoplex_blog/articles/claude-code-ship",
-    "bookmarkCount": 24
+    "bookmarkCount": 25
   },
   {
     "title": "AI時代の実践・形式検証入門",
@@ -1610,7 +1678,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-25T07:30:20.144495+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/world/20261124-GYT1T00383/",
     "bookmarkCount": 232
   },
@@ -2258,7 +2326,7 @@
     "firstSeenAt": "2026-11-24T21:00:20.217196+09:00",
     "lastSeenAt": "2026-11-24T22:00:18.239191+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forbesjapan.com/articles/detail/108659",
-    "bookmarkCount": 33
+    "bookmarkCount": 34
   },
   {
     "title": "OpenAIがシステムを停止せずに脆弱性を悪用した攻撃を防ぐ「Shirudo」を発表",
@@ -2275,24 +2343,7 @@
     "firstSeenAt": "2026-11-24T21:00:20.217196+09:00",
     "lastSeenAt": "2026-11-24T21:30:13.883002+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261124-openai-shirudo/",
-    "bookmarkCount": 22
-  },
-  {
-    "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
-    "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-    "domain": "zenn.dev",
-    "description": "Claude Code は、VSCode の拡張機能で使うのが好きだ。 Markdown が見やすく、コードも Git の変更差分もその場で見られる。 パネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。 ただ、セッションを5つほど並べると困ることが出てくる。 一番困ったのは、パネルの見出しが短くて、どれが...",
-    "publishedAt": "2026-11-25T02:54:05+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-24T20:30:13.234003+09:00",
-    "lastSeenAt": "2026-11-25T22:00:13.494717+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nexta_/articles/a3ff76a9f98f1c",
-    "bookmarkCount": 28
+    "bookmarkCount": 23
   },
   {
     "title": "JAXAのシステムに不正アクセス 一部アカウント名など漏えい | NHKニュース",
@@ -2344,6 +2395,23 @@
     "lastSeenAt": "2026-11-25T14:00:12.937431+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/microsoft/articles/daedf42c8463b8",
     "bookmarkCount": 0
+  },
+  {
+    "title": "Claude Code を5〜8個並べても迷わないように、自分用のダッシュボードをバイブコーディングで作った",
+    "url": "https://zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+    "domain": "zenn.dev",
+    "description": "Claude Code は、VSCode の拡張機能で使うのが好きだ。 Markdown が見やすく、コードも Git の変更差分もその場で見られる。 パネルを横に並べられるので、セッション同士が隠れない。VSCode から離れずに済む。 ただ、セッションを5つほど並べると困ることが出てくる。 一番困ったのは、パネルの見出しが短くて、どれが何の作業をしているのか一目で分からないことだった。 一時期…",
+    "publishedAt": "2026-11-24T11:30:05+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-24T20:30:13.234003+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nexta_/articles/a3ff76a9f98f1c",
+    "bookmarkCount": 31
   },
   {
     "title": "「コードを書く」から「迷わず判断する」へ——AIエージェント時代の開発ワークフローを自作ツールで再設計した話",
@@ -2664,7 +2732,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-24T15:28:31.972526+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nobkz/articles/a8ed5591cd3e7d",
     "bookmarkCount": 1
   },
@@ -2681,7 +2749,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-24T08:00:13.527454+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/cybergarage/articles/5ee7ac6b3b0565",
     "bookmarkCount": 2
   },
@@ -2766,7 +2834,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-24T08:00:13.527454+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/h_yoshikawa0724/articles/2026-11-23-jsconf-jp-2026",
     "bookmarkCount": 14
   },
@@ -3123,7 +3191,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-23T19:30:13.594830+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
     "bookmarkCount": 251
   },
@@ -3905,7 +3973,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-22T14:30:13.268621+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kg_motors_mibot/articles/orca-bot-intro",
     "bookmarkCount": 5
   },
@@ -4143,7 +4211,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-22T04:00:12.515912+09:00",
-    "lastSeenAt": "2026-11-25T20:30:13.995372+09:00",
+    "lastSeenAt": "2026-11-25T22:05:43.036207+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/canly/articles/ca6875cd79539f",
     "bookmarkCount": 576
   },
@@ -5581,74 +5649,6 @@
     "lastSeenAt": "2026-11-25T00:00:10.885846+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/nodejsnpmwebopenvessel.html",
     "bookmarkCount": 103
-  },
-  {
-    "title": "お問い合わせの8割を、AIボットが解決するようになった話",
-    "url": "https://zenn.dev/rimo/articles/701d18b7764669",
-    "domain": "zenn.dev",
-    "description": "問い合わせ対応の自動化に取り組んだ背景 増え続ける問い合わせと少人数のCS体制 Rimoでは、サービス内のチャットウィジェットから届くお問い合わせに、カスタマーサポート（CS）のメンバーが回答する運用を続けてきました。ところが、利用者の増加に伴って問い合わせ数も増え続け、月に150件を超える状況になりました（154件、164件と増加）。これを2〜3人のCSで分担していたため、1件ずつ丁寧に対応し続…",
-    "publishedAt": "2026-11-17T10:05:13+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-17T20:00:14.273621+09:00",
-    "lastSeenAt": "2026-11-18T13:00:17.975938+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/rimo/articles/701d18b7764669",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "dbt + TerraformでCortex Searchを構築し，最小権限を目指すためにハマったこと",
-    "url": "https://zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform",
-    "domain": "zenn.dev",
-    "description": "はじめに こんにちは。ナウキャストでエンジニアをしているTakumiです。 みなさん，Cortex Searchをどうリソース管理してますか？dbt？Terraform？手作業？Snowflake CLI？ 自分の場合は，TerraformでDBとスキーマを管理し，スキーマ配下のオブジェクトをdbtで作るというおおまかな方針を取りました。 その時にdbtでCortex Searchを作ろうとしてハ…",
-    "publishedAt": "2026-11-17T09:19:31+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-17T20:00:14.273621+09:00",
-    "lastSeenAt": "2026-11-18T06:00:15.354646+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/finatext/articles/cortex-search-least-privilege-dbt-terraform",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "おい、 Mutation Test をやれ。テスト品質を、測るために",
-    "url": "https://zenn.dev/mizchi/articles/mutation-test-quality",
-    "domain": "zenn.dev",
-    "description": "AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。 AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。 ところでそのヨシッは何を担保しているのでしょうか？ この記事は次の記事の熱い思いに応えるために書かれていま…",
-    "publishedAt": "2026-11-17T18:53:47+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-17T19:30:13.720774+09:00",
-    "lastSeenAt": "2026-11-24T06:00:14.520778+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mizchi/articles/mutation-test-quality",
-    "bookmarkCount": 402
-  },
-  {
-    "title": "毎月6,000 AI Agentsを捌くためにキーボードを捨てた話",
-    "url": "https://zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-    "domain": "zenn.dev",
-    "description": "カーナベル株式会社で開発統括兼Microservices Platform OwnerをやっているAndyです。 最近はOrca ADEの便利さに脳を焼かれています。 8月からgit worktreeとorca workspaceを活用した開発スタイルに完全移行し、今では毎月 6,000 セッションほど動かすようになりました。 主に利用しているのはClaudeとCodexです。 1日200セッショ…",
-    "publishedAt": "2026-11-17T12:13:36+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-17T19:30:13.720774+09:00",
-    "lastSeenAt": "2026-11-24T06:00:14.520778+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/andoshin11/articles/ba68b39ef9a8ce",
-    "bookmarkCount": 124
   },
   {
     "title": "PostgreSQL 19リリース延期の背景。β4で多くの新機能取り下げが発生、原因はAIによるコードレビューか",

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T22:00:13.494717+09:00</updated>
+  <updated>2026-11-25T22:05:43.036207+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
+    <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
+    <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
+    <updated>2026-11-25T15:12:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
+    <id>https://zenn.dev/happy_elements/articles/27e14ff6754044</id>
+    <link href="https://zenn.dev/happy_elements/articles/27e14ff6754044" />
+    <updated>2026-11-25T12:53:12+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude C…</summary>
+  </entry>
+  <entry>
+    <title>体験ドリブンのすすめ ― AIで作れる時代に、何で差がつくか</title>
+    <id>https://zenn.dev/mediaforce/articles/2fef9933aae9e7</id>
+    <link href="https://zenn.dev/mediaforce/articles/2fef9933aae9e7" />
+    <updated>2026-11-25T11:28:01+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>前回の記事「AI時代の生産性を考える」では、AIは「速くする道具」ではなく「やらなかったことをやれるようにする装置」だと書きました。お客様が感動してくれたのは、作業が速かったからではなく、期待していたタイミングより前に、期待していた以上のものが出てきたからだ、という話です。 今回はその続きです。 AIを使えば、作りたいものはすぐに作れるようになりました。ということは、「作れること」そのものでは、も…</summary>
+  </entry>
+  <entry>
+    <title>なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方</title>
+    <id>https://zenn.dev/mediaforce/articles/27df1f22a00546</id>
+    <link href="https://zenn.dev/mediaforce/articles/27df1f22a00546" />
+    <updated>2026-11-25T07:30:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 株式会社メディアフォースでエンジニアをしている池田です。自社プロダクトの開発を担当しています。 弊社の開発チームは、設計や実装にClaude Codeを利用しています。 周りのエンジニアに勧められたことをきっかけに、最近はMatt PocockのSkillsを利用しています。 このSkillsは2026年春頃から話題になっていたgrill-me（grilling）[1]を含んだスキル集で…</summary>
+  </entry>
   <entry>
     <title>マイクロソフト、障害対応へ「非常事態」宣言 1時間で復旧へ - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/</id>
@@ -367,14 +399,6 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T17:07:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
-  </entry>
-  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -413,6 +437,14 @@
     <updated>2026-11-25T07:22:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
+  </entry>
+  <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T01:45:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
   </entry>
   <entry>
     <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-24T20:37:35+09:00</updated>
     <category term="はてブ IT" />
     <summary>宇宙航空研究開発機構（JAXA）は24日、地球観測衛星などで取得したデータを公開するシステムが外部から不正アクセスを受けたと発表した。システムを利用する2000人分のアカウント情報が漏洩した。18日に不正アクセスがあったことを確認し、同日午後4時半からシステムを停止している。現時点で再開のめどは立っていない。...</summary>
-  </entry>
-  <entry>
-    <title>なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった - Qiita</title>
-    <id>https://qiita.com/songchong/items/073f202bb0ca65611b30</id>
-    <link href="https://qiita.com/songchong/items/073f202bb0ca65611b30" />
-    <updated>2026-11-24T10:45:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents 上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏えいした項目・使う人のやること・出典）が図の下に出ます。KARTE のように 1 件の...</summary>
-  </entry>
-  <entry>
-    <title>The Cost of the DOM</title>
-    <id>https://speakerdeck.com/ypresto/the-cost-of-the-dom</id>
-    <link href="https://speakerdeck.com/ypresto/the-cost-of-the-dom" />
-    <updated>2026-11-22T16:57:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>jsdom / happy-dom と Vitest Browser Mode の実行時間を分解する 【追記スライドあり】 JSConf JP 2026</summary>
-  </entry>
-  <entry>
-    <title>GoogleがAIの性能測定ツール「gBench」をオープンソース化</title>
-    <id>https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/</id>
-    <link href="https://gigazine.net/news/20261124-google-gbench-benchmarking-framework/" />
-    <updated>2026-11-24T12:53:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>GoogleがAIモデルの性能を測定するためのベンチマークフレームワーク「gBench」をオープンソース化しました。 Meet gBench, our newly open-sourced benchmarking framework for evaluating Gemma and other open models. Out of the box, it has 86 evaluation s…</summary>
-  </entry>
-  <entry>
-    <title>NDLOCR-Lite ver.2の公開について | NDLラボ</title>
-    <id>https://lab.ndl.go.jp/news/2026/2026-11-24/</id>
-    <link href="https://lab.ndl.go.jp/news/2026/2026-11-24/" />
-    <updated>2026-11-24T16:53:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月24日 NDLOCR-Lite ver.2の公開について NDLラボ公式GitHub（外部サイト）から、NDLOCR-Lite ver.2を公開しました。 NDLOCR-Liteは、NDLOCRの軽量版を目指して開発したOCRであり、ノートパソコン等の一般的な家庭用コンピュータやOS環境で、図書や雑誌といった資料のデジタル化画像からテキストデータが作成で...</summary>
   </entry>
 </feed>
