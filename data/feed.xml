@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T05:30:12.285545+09:00</updated>
+  <updated>2026-11-26T06:00:16.375148+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIエージェントのMemory設計 ― 会話履歴・業務データ・長期Memoryの使い分け</title>
+    <id>https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026</id>
+    <link href="https://zenn.dev/taru_neko/articles/ai-agent-memory-architecture-2026" />
+    <updated>2026-11-25T14:23:27+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIエージェントでは、過去の会話を記憶し、次の会話に活用するMemoryという仕組みが使われる。 一方、従来のWebアプリケーションでも、セッション管理や業務DBによって情報を保持してきた。AIエージェントだからといって、専用のMemory機構が必要とは限らない。 本記事では、社内の経費精算システムを例に、短期・長期Memoryの構成と既存の仕組みとの使い分けを整理する。さらに、何を記憶するか、情…</summary>
+  </entry>
   <entry>
     <title>VS Code 1.148：エージェント専用の Dev Container と Sandbox profiles。「隔離」の3種類を使い分ける</title>
     <id>https://qiita.com/shahin0809/items/05a6c7431ee7e5b6e520?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
@@ -226,9 +234,9 @@
     <title>アウトプットの「質」ってじゃあなんなんだよ</title>
     <id>https://zenn.dev/watany/articles/1efe3adea67dd5</id>
     <link href="https://zenn.dev/watany/articles/1efe3adea67dd5" />
-    <updated>2026-11-25T21:01:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 登壇にしてもブログにしても「やれば偉い」ってオチにすればみんなハッピーなんだけど、それはそれとして自分のために時間を使ってくれている受け手には失望して欲しくないし、何かを得てもらいたくないですか？面倒なので以降は、共感できる方だけ読み進めてください。 チェックリスト 他にもあるかもしれませ...</summary>
+    <updated>2026-11-25T20:31:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 登壇にしてもブログにしても「やれば偉い」ってオチにすればみんなハッピーなんだけど、それはそれとして自分のために時間を使ってくれている受け手には失望して欲しくないし、何かを得てもらいたくないですか？面倒なので以降は、共感できる方だけ読み進めてください。 チェックリスト 他にもあるかもしれませんが、1番近いなと思うものを選んでください 実験系(やってみた) 公式ドキュメントからの逸脱はあるか…</summary>
   </entry>
   <entry>
     <title>Working with AI</title>
@@ -354,9 +362,9 @@
     <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
     <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
     <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
-    <updated>2026-11-25T15:40:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開してい...</summary>
+    <updated>2026-11-25T15:12:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
   </entry>
   <entry>
     <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
@@ -743,14 +751,6 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T17:07:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
-  </entry>
-  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -791,19 +791,19 @@
     <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
   </entry>
   <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T01:45:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
+  </entry>
+  <entry>
     <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
     <id>https://zenn.dev/rimo/articles/c25919207b1cde</id>
     <link href="https://zenn.dev/rimo/articles/c25919207b1cde" />
     <updated>2026-11-24T17:24:00+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは。Rimo 合同会社で 1人目デザイナーをやっているにしゃみー (@NishaMe1024) です。 Rimo にはエンジニアが約20人いて、正社員のデザイナーは入社した3年前から相変わらず私1人です。今年の2月頃、Claude が超絶進化したのを皮切りにプロトタイプを作らせる仕組みを自作し、8ヶ月近くデザイナー1人でもこの人数の開発を支えられる体制をつくってきたので、今回は仕組みや溜ま…</summary>
-  </entry>
-  <entry>
-    <title>Lambda の GPU 関数で、vLLM のコールドスタートをどこまで削れるか試す</title>
-    <id>https://zenn.dev/aws_japan/articles/lambda-gpu-vllm-coldstart</id>
-    <link href="https://zenn.dev/aws_japan/articles/lambda-gpu-vllm-coldstart" />
-    <updated>2026-11-24T14:30:02+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>AWS Lambda で GPU を使う関数(Lambda Managed Instances 上の GPU-accelerated Event Functions)が使えるようになりました。実行環境を 0 まで減らせるので、主に業務時間中にだけ使うようなサービスやシステムなら、夜間や休日は GPU インスタンスの料金を払わずに済みます。その代わり、0 の状態から呼んだときは、最初のトークンが返る…</summary>
   </entry>
 </feed>
