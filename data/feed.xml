@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T20:30:13.995372+09:00</updated>
+  <updated>2026-11-25T21:00:16.905446+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに</title>
+    <id>https://gigazine.net/news/20261125-china-spy-nvidia-chips/</id>
+    <link href="https://gigazine.net/news/20261125-china-spy-nvidia-chips/" />
+    <updated>2026-11-25T18:49:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の...</summary>
+  </entry>
+  <entry>
+    <title>窓の内側に貼って屋外を撮影する防犯カメラ Ankerが9990円で発売</title>
+    <id>https://japan.cnet.com/article/35255394/</id>
+    <link href="https://japan.cnet.com/article/35255394/" />
+    <updated>2026-11-25T17:33:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>アンカー・ジャパンは11月24日、窓ガラスの内側に貼ってベランダや庭先を撮影できる防犯カメラ「Anker Eufy Window Camera E10」を発売した。同社の発表によると、付属のステッカーで固定でき、壁に穴を開けたり、屋外に配線したりする工事は不要だ。価格は税込9990円。</summary>
+  </entry>
+  <entry>
+    <title>Anthropicが「アプリとしてインストール」ベータ版をリリース、Claudeアーティファクトが通知機能・オプションのフルコンピュータアクセスなどを備えたWindows・Mac用アプリに変換される</title>
+    <id>https://gigazine.net/news/20261125-anthropic-claude-install-as-app/</id>
+    <link href="https://gigazine.net/news/20261125-anthropic-claude-install-as-app/" />
+    <updated>2026-11-25T14:40:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI企業のAnthropicが2026年11月24日、ClaudeのアーティファクトをMacやWindowsのデスクトップアプリとしてインストールできる新機能「Install as app(アプリとしてインストール)」のベータ版を公開しました。Claudeとの対話を通じて作成したアプリを独立したウィンドウで起動できるほか、PC内のファイルへのアクセスやシ...</summary>
+  </entry>
+  <entry>
+    <title>Turn artifacts into Mac and Windows apps</title>
+    <id>https://claude.com/resources/articles/install-as-app</id>
+    <link href="https://claude.com/resources/articles/install-as-app" />
+    <updated>2026-11-25T09:27:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Starting today, you can use Claude artifacts to create, run, and share desktop apps. The "Install as app" feature is rolling out in beta in Claude for Mac and Windows. When an artifact is installed as…</summary>
+  </entry>
   <entry>
     <title>M＆A仲介会社に不正アクセス 最大数千社分の顧客情報漏えいか | NHKニュース</title>
     <id>https://news.web.nhk/newsweb/na/nd-20261125de81289</id>
@@ -311,6 +343,14 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
+    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
+    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
+    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
+    <updated>2026-11-25T17:07:04+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
+  </entry>
+  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -349,14 +389,6 @@
     <updated>2026-11-25T07:22:23+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>TL;DR Claude Code 等から AI ゲートウェイ経由で別プロバイダーのモデルを呼ぶと、HTTP 200 のまま思考のリセットやキャッシュ失効が起きることがある 異変に気づくには応答品質やエラー率だけでなく、2 ターン目以降の思考トークン数・キャッシュヒット率や、プロバイダー純正のクライアント・API の組み合わせで直接動かしたときとの差を確認するのが有効 ネイティブ API を使える…</summary>
-  </entry>
-  <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T01:45:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 https://github.com/henteko/murder-mystery-checker 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/sc…</summary>
   </entry>
   <entry>
     <title>エンジニア20人の組織を、デザイナー1人と AI で支える仕組み</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-24T22:46:10+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>どうもこんにちは。 最近のAWSの検証はなんでもかんでもcdkd。くらっちです。じゃん。 先日ね、こんな記事を執筆しました。 LWFにPythonきたぞっ！ってやつ。 この検証にもcdkdを使ってデプロイしておりまして。 cdkdでのデプロイ、めっちゃ速いんですよね。...</summary>
-  </entry>
-  <entry>
-    <title>心理的安全性の4象限とは？ サムい職場・キツい職場・ヌルい職場 ― 石井遼介に学ぶ日本の現場のつくり方</title>
-    <id>https://qiita.com/teppei19980914/items/9f68a1ce1aebd1944f76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/teppei19980914/items/9f68a1ce1aebd1944f76?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T18:48:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事は約10分で読めます。 「心理的安全性が高い職場」と聞いて、あなたは何を思い浮かべますか。ぬるくて、誰も怒られず、仲が良いだけの職場。もしそう思っているなら、それは誤解です。 本記事では、日本における心理的安全性研究の第一人者である石井遼介氏の著書『心理的安全性...</summary>
-  </entry>
-  <entry>
-    <title>Rails: 37signalsのコード品質を支える独自のエンジニアリング戦略（翻訳）｜TechRacho by BPS株式会社</title>
-    <id>https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424</id>
-    <link href="https://techracho.bpsinc.jp/hachi8833/2026_11_24/161424" />
-    <updated>2026-11-24T17:35:39+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>要約 37signalsのコードが素晴らしいのは、同社のエンジニアリング戦略が他社と異なっているからです。「企業規模を無意味に拡大しない」「機能を容赦なく絞り込む」「優秀な人材の確保に注力する」という戦略です。 多くの企業は、「機能を増やす = 利益も増える」という先入観を捨てられないため、この戦略を採用でき...</summary>
-  </entry>
-  <entry>
-    <title>テスト環境で本番の顧客データを使うべきか。楽天証券の漏えいを公表文書から整理し、「本番データでないと確かめられないテスト」をマスキングで代われるか1万件で試した</title>
-    <id>https://qiita.com/suwa_nobu/items/245b59a87cc1963790d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/suwa_nobu/items/245b59a87cc1963790d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T13:11:08+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>11月17日、楽天証券が顧客情報の漏えいのおそれを公表しました。漏れたのは本番のシステムではなく、テスト環境のシステムに置かれていた情報です。 テスト環境に、なぜ本物の顧客データがあったのか。楽天証券は取材に「社内システムのアップグレードに伴い、一部の機能については本番環境...</summary>
-  </entry>
-  <entry>
-    <title>技術書典21（オフライン開催）に参加しました！</title>
-    <id>https://qiita.com/koyo52611798/items/cc0af9346c8ca5b56390?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/koyo52611798/items/cc0af9346c8ca5b56390?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T10:04:40+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 技術書典21でサークル「えむよん」として参加・出版物の発売しております！ 11/23（月・祝日）に池袋サンシャインシティでオフライン販売を行いました！ 技術書典とは 技術書典は、新しい技術に出会えるお祭りです。技術書を中心とした様々な本を頒布する同人誌...</summary>
   </entry>
 </feed>
