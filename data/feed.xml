@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T19:00:17.015906+09:00</updated>
+  <updated>2026-11-25T19:30:14.167241+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi</title>
+    <id>https://note.com/shikimi_crypto/n/n35d0bb54e6fb</id>
+    <link href="https://note.com/shikimi_crypto/n/n35d0bb54e6fb" />
+    <updated>2026-11-25T18:23:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>見た中では圧倒的に説明がわかりやすい。頭の良い人が頭の良い説明をしとるな～という感じ。無料公開されている動画は高額商材への誘導的な位置づけではあるのですが全体像を掴むには十分。絶対に落ちたくなくて金に糸目も付けないならもう買っちゃったらという気も。2倍速で視聴。 【あこ課長の宅建講座】 網羅的に丁寧...</summary>
+  </entry>
+  <entry>
+    <title>【ドパガキ向け】AI 時代の要求管理 ハンドブックを読もう</title>
+    <id>https://zenn.dev/muroshima/articles/be47515ff9c16e</id>
+    <link href="https://zenn.dev/muroshima/articles/be47515ff9c16e" />
+    <updated>2026-11-25T01:36:20+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>IPA の「AI 時代の要求管理ハンドブック」を読みました。 129ページあって全部追うのは大変なので、重要そうなところだけピックアップしました。 https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf ! とりあえず、3行で 要望と要求と要件は別物。要望から要件へは一足飛びにできない AI を使う要件…</summary>
+  </entry>
+  <entry>
+    <title>Git for Windows の connect.exe で SSH の上りが遅い原因を追った話</title>
+    <id>https://zenn.dev/akarineren/articles/13ee3a909672c7</id>
+    <link href="https://zenn.dev/akarineren/articles/13ee3a909672c7" />
+    <updated>2026-11-24T23:29:36+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに プロキシ越しに SSH のポートフォワードで RDP を使っていたところ、画面の操作が妙に重いことに気づきました。調べてみると、上り（クライアント → サーバー）だけが約 0.5Mbps しか出ていません。下りは普通に速いのに、です。 原因は SSH の ProxyCommand に使っていた connect.exe（Git for Windows に同梱されているもの）でした。この記事…</summary>
+  </entry>
+  <entry>
+    <title>公表資料から読む2026年10〜11月の情報漏えい23件：侵入経路はどこだったのか</title>
+    <id>https://zenn.dev/shirochan/articles/f579abb8be4b1e</id>
+    <link href="https://zenn.dev/shirochan/articles/f579abb8be4b1e" />
+    <updated>2026-11-24T20:22:50+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>! この記事の要点（2026年11月24日時点） 10月28日〜11月24日に初めて公表された国内の不正アクセス・漏えい（可能性を含む）23件を、各社と公的機関の発表で整理 メール配信サービスのアララでは、持ち出されたメールアドレスが81,329,467件。サービスが悪用され、カード会社を装った不審なメールも最大約713万通送られた 理化学研究所は、インターネットに公開されていた「富岳」の稼働状況…</summary>
+  </entry>
   <entry>
     <title>【重要】『XServer SNS』サービス提供終了のお知らせ</title>
     <id>https://sns.xserver.ne.jp/news/detail.php?view_id=20015</id>
@@ -135,7 +167,7 @@
     <summary>はじめに こんにちは！ソーイ株式会社の木寺です。 業務で「このサーバーにSSHで入ってログを見ておいて」と言われて、「SSH……？とりあえずコマンドをコピペしたら入れたけど、何をしているのかはよく分からない」という経験はありませんか？実は私もまさに今その状態で、先輩に教わ...</summary>
   </entry>
   <entry>
-    <title>【EventBridge Webhook】受け口づくりの面倒から卒業！Slackから送れるか調べてみた</title>
+    <title>【EventBridge Webhook】SlackはNG、GitHubはOK？署名の仕様を突き合わせて調べた</title>
     <id>https://qiita.com/N-Kyo/items/3ed8f4a0a17eb4b1409d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
     <link href="https://qiita.com/N-Kyo/items/3ed8f4a0a17eb4b1409d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
     <updated>2026-11-25T10:45:30+09:00</updated>
@@ -615,14 +647,6 @@
     <summary>## ユーザーへの報告 ユーザーが読む報告（進捗、完了、判断の依頼、手作業の案内）に適用する。subagent や子セッションが親に返す報告には適用しない。ユーザーは 2〜3 本のセッションを並行し、時間を空けて戻る。スマホでは冒頭だけを読み、本文はデスクトッ&gt;プで読む。 - 冒頭に現在地を置く。複数の工程がある作業...</summary>
   </entry>
   <entry>
-    <title>Claude Code の /ship を図解する</title>
-    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
-    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
-    <updated>2026-11-25T03:03:40+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 私は普段、自作のスキルと Claude Desktop の Auto-fix を組み...</summary>
-  </entry>
-  <entry>
     <title>MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
     <id>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</id>
     <link href="https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections" />
@@ -645,6 +669,14 @@
     <updated>2026-11-24T17:53:31+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに こんにちは☀️ 株式会社AI Shiftでフロントエンドエンジニアをしているさっちゃんです！（X：おさわ / 吉岡 爽） 2026年11月22日（日）にベルサール神田で開催された JSConf JP 2026 に参加してきました！ 4トラック並行で、キーノートは Brendan Eich さんへのインタビューと Josh Junon さんの講演の2本でした。 https://jsconf…</summary>
+  </entry>
+  <entry>
+    <title>Claude Code の /ship を図解する</title>
+    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
+    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
+    <updated>2026-11-24T15:30:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 https://x.com/claudedevs/status/2124959436640858475 私は普段、自作…</summary>
   </entry>
   <entry>
     <title>AI時代の実践・形式検証入門</title>
@@ -773,37 +805,5 @@
     <updated>2026-11-23T20:10:28+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに Claude Code、Codex CLI、Cursor CLI、Gemini CLI……と複数の AI コーディングエージェントを併用していると、「あのセッション、どのツールでどのディレクトリで動かしてたっけ」と探す羽目になります。この状況を解決する Rus...</summary>
-  </entry>
-  <entry>
-    <title>AWS Sign-In introduces configurable Sign-in duration of up to 90 days - AWS</title>
-    <id>https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/</id>
-    <link href="https://aws.amazon.com/about-aws/whats-new/2026/11/configurable-aws-sign-in-duration/" />
-    <updated>2026-11-24T11:13:50+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>88% of agent pilots stall. Learn what the rest do differently</summary>
-  </entry>
-  <entry>
-    <title>「AIがリーマン予想を証明したらどう感じるか？」と約1年半にわたって数学者たちに聞いてきたインタビューを振り返る</title>
-    <id>https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/</id>
-    <link href="https://gigazine.net/news/20261124-riemann-hypothesis-mathematician/" />
-    <updated>2026-11-24T20:03:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>2026年11月20日にAnthropicの研究者であるレベント・アルポゲ氏が、AIモデルのClaudeとともに一般化リーマン予想を証明したと発表しました。数学を解説するYouTubeチャンネルの3Blue1Brownが、この発表以前から約1年半にわたって数学者たちに「AIが人間には理解できないリーマン予想の証明を生み出したらどう感じるか？...</summary>
-  </entry>
-  <entry>
-    <title>「コードを書くAI」ではなく「承認するAI」登場、Anthropicが新機能「Claude Ship」提供</title>
-    <id>https://japan.cnet.com/article/35255329/</id>
-    <link href="https://japan.cnet.com/article/35255329/" />
-    <updated>2026-11-24T15:29:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ソフトウェアの共同開発サービス「GitHub」で、コードの変更案をAIに点検・修正させ、チームのルールが認める場合は承認まで任せられるようになった。米Anthropicは11月23日、こうした機能をまとめた「Claude Ship」を発表した。ClaudeのTeamとEnterpriseプラン向けにベータ提供を始めた。</summary>
-  </entry>
-  <entry>
-    <title>ゲームボーイアドバンスエミュレータをRustで書いた</title>
-    <id>https://bokuweb.github.io/undefined/articles/20261103.html</id>
-    <link href="https://bokuweb.github.io/undefined/articles/20261103.html" />
-    <updated>2026-11-24T11:34:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ゲームボーイアドバンスエミュレータをRustで書いた #2026-11-24 ファミコン、ゲームボーイと書いてきたので次はゲームボーイアドバンス（以下GBA）だろうということで（コミットログを見るに）2018年頃書き始めた。途中何度も放置しつつ、気づけば8年くらい経ってしまったが、最後はAIの力も借りつつそこそこ動くように...</summary>
   </entry>
 </feed>
