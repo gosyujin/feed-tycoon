@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T07:35:56.846534+09:00</updated>
+  <updated>2026-11-26T08:00:15.596040+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2159286.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2159286.html" />
+    <updated>2026-11-26T00:35:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開</summary>
+  </entry>
+  <entry>
+    <title>Button Sounds — tactile SFX for your UI</title>
+    <id>https://buttons.joshwcomeau.com/</id>
+    <link href="https://buttons.joshwcomeau.com/" />
+    <updated>2026-11-25T22:57:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM.</summary>
+  </entry>
   <entry>
     <title>日本語サイトで指定しておきたいCSS 2026年版 - Qiita</title>
     <id>https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e</id>
@@ -258,9 +274,9 @@
     <title>アウトプットの「質」ってじゃあなんなんだよ</title>
     <id>https://zenn.dev/watany/articles/1efe3adea67dd5</id>
     <link href="https://zenn.dev/watany/articles/1efe3adea67dd5" />
-    <updated>2026-11-25T21:01:00+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに 登壇にしてもブログにしても「やれば偉い」ってオチにすればみんなハッピーなんだけど、それはそれとして自分のために時間を使ってくれている受け手には失望して欲しくないし、何かを得てもらいたくないですか？面倒なので以降は、共感できる方だけ読み進めてください。 チェックリスト 他にもあるかもしれませ...</summary>
+    <updated>2026-11-25T20:31:18+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに 登壇にしてもブログにしても「やれば偉い」ってオチにすればみんなハッピーなんだけど、それはそれとして自分のために時間を使ってくれている受け手には失望して欲しくないし、何かを得てもらいたくないですか？面倒なので以降は、共感できる方だけ読み進めてください。 チェックリスト 他にもあるかもしれませんが、1番近いなと思うものを選んでください 実験系(やってみた) 公式ドキュメントからの逸脱はあるか…</summary>
   </entry>
   <entry>
     <title>Working with AI</title>
@@ -386,9 +402,9 @@
     <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
     <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
     <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
-    <updated>2026-11-25T15:40:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開してい...</summary>
+    <updated>2026-11-25T15:12:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
   </entry>
   <entry>
     <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
@@ -775,14 +791,6 @@
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
   <entry>
-    <title>マーダーミステリーのシナリオを形式手法で検証しようとしたら、バグと曖昧さが見つかった</title>
-    <id>https://zenn.dev/henteko/articles/ed8d1458246d7a</id>
-    <link href="https://zenn.dev/henteko/articles/ed8d1458246d7a" />
-    <updated>2026-11-25T17:07:04+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>形式手法の勉強のために、マーダーミステリーのシナリオの矛盾を検出するCLIを開発しました。 決まった仕様(JSON)でシナリオを記述すると、到達しないエンディングがあるなど、矛盾を指摘してくれます。 $ mmcheck check --strict examples/hexagon-house/scenario.json warning H003 持っている物がハンドアウトに書か...</summary>
-  </entry>
-  <entry>
     <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
     <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
     <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
@@ -797,13 +805,5 @@
     <updated>2026-11-25T10:41:04+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに この記事は、Salesforce の Agentforce Employee エージェントから、外部の MCP（Model Context Protocol）サーバーのツールを使えるようにするまでの設定手順をまとめたものです。題材には Asana の MCP サーバーを使い、Salesforce のケースから Asana のタスクを起票するエージェントを作ります。 きっかけは、Winte…</summary>
-  </entry>
-  <entry>
-    <title>C言語が危険なのではない。コンピュータが危険なのだ - keroxpのScrapbox</title>
-    <id>https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0</id>
-    <link href="https://scrapbox.io/keroxp/C%E8%A8%80%E8%AA%9E%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84%E3%80%82%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%81%8C%E5%8D%B1%E9%99%BA%E3%81%AA%E3%81%AE%E3%81%A0" />
-    <updated>2026-11-25T09:40:46+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PHP、Nginx、Ruby、Node.jsなど、あらゆる場所でCriticalな脆弱性の報告が止まらない そしてその多くが、C言語に起因する、『メモリ破壊』系のバグである 「もうCとか使わなきゃいいのに」と、多くのプログラマがため息交じりに呆れている だが待ってほしい。それは思考停止ではないのか C＝悪と刷り込まれすぎて、本質...</summary>
   </entry>
 </feed>
