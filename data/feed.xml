@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T23:00:18.081826+09:00</updated>
+  <updated>2026-11-25T23:30:17.581174+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース</title>
+    <id>https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html</id>
+    <link href="https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html" />
+    <updated>2026-11-26T00:27:15+09:00</updated>
+    <category term="Publickey" />
+    <summary>Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...</summary>
+  </entry>
+  <entry>
+    <title>【2026年ベストバイ】エンジニアが買ってよかったガジェット8選 - stmn tech blog</title>
+    <id>https://tech.stmn.co.jp/entry/best-buy-2026</id>
+    <link href="https://tech.stmn.co.jp/entry/best-buy-2026" />
+    <updated>2026-11-25T17:16:01+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに みなさん、こんにちは☀️プロダクト開発部のねぎちゃんです🌷 いよいよ年に一度のビッグセール、ブラックフライデーの季節がやってきましたね！ 「このタイミングで作業環境をアップデートしたい」「何か良いガジェットがないか探している」という方も多いのではないでしょうか。 そこで今回は、リモートワークと...</summary>
+  </entry>
+  <entry>
+    <title>「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2159142.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2159142.html" />
+    <updated>2026-11-25T15:10:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」</summary>
+  </entry>
+  <entry>
+    <title>【書評】詳解 Active Directory &amp; Windows インフラ・ペネトレーションテスト｜kuniisan-station</title>
+    <id>https://note.com/kuniisan_station/n/n696acd53c756</id>
+    <link href="https://note.com/kuniisan_station/n/n696acd53c756" />
+    <updated>2026-11-25T09:23:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>今回も献本をいただいたので、お礼も込めて書評を書いてみたいと思います。今回の書籍はオライリー・ジャパン社の「詳解 Active Directory &amp; Windows インフラ・ペネトレーションテスト」です。 この書籍は Active Directory をはじめとする、オンプレミスで動作する Windows ベースのサーバーをターゲットとしたペネト...</summary>
+  </entry>
   <entry>
     <title>EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告</title>
     <id>https://joho-todai.com/ext4-ai-generated-code-linus-warning/</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-24T23:04:27+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>家の記録を、Claude Codeに書かせている。その日にやったことの時間、休肝日、一言日記、外食、子どもの記録など、Googleスプレッドシートに書き込むMCPのツールが7つある（家の用事をClaude Codeに任せている話は、個人ブログにまとめている）。 作ってから気づいたのは、7つのうち6つが「追記」と「読む」しか持っていなかったことだ。中身はシートAPIの values().append…</summary>
-  </entry>
-  <entry>
-    <title>Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した</title>
-    <id>https://zenn.dev/upgradetech/articles/a9a1637d3071c1</id>
-    <link href="https://zenn.dev/upgradetech/articles/a9a1637d3071c1" />
-    <updated>2026-11-24T18:24:58+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事の想定読者 Copilot Studioのエージェントを画面操作で作っていて、直すたびにどこを変えたのか分からなくなっている方 Claude Codeを使い始めて、コードを書く以外の仕事にも使えないか考えている方 「AIにアプリを作らせる」が実際どこまで通用するのか、判断材料がほしいPM・マネージャーの方 記事を見ながら同じものを自分の環境で作ってみたい方 この記事を読むと、小さなサンプル…</summary>
-  </entry>
-  <entry>
-    <title>JSConf JP 2026 参加ログ</title>
-    <id>https://zenn.dev/aishift/articles/b6dbe1c0acc505</id>
-    <link href="https://zenn.dev/aishift/articles/b6dbe1c0acc505" />
-    <updated>2026-11-24T17:53:31+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは☀️ 株式会社AI Shiftでフロントエンドエンジニアをしているさっちゃんです！（X：おさわ / 吉岡 爽） 2026年11月22日（日）にベルサール神田で開催された JSConf JP 2026 に参加してきました！ 4トラック並行で、キーノートは Brendan Eich さんへのインタビューと Josh Junon さんの講演の2本でした。 https://jsconf…</summary>
-  </entry>
-  <entry>
-    <title>Claude Code の /ship を図解する</title>
-    <id>https://zenn.dev/peoplex_blog/articles/claude-code-ship</id>
-    <link href="https://zenn.dev/peoplex_blog/articles/claude-code-ship" />
-    <updated>2026-11-24T15:30:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに PeopleX でプロダクト開発をしている Aki です🚀 Claude Code に /ship というスキルがベータ版としてリリースされました。コミットと push、PR の作成、レビューと修正、マージかクローズまでの見張りを、1つのセッションで受け持つスキルです。 https://x.com/claudedevs/status/2124959436640858475 私は普段、自作…</summary>
-  </entry>
-  <entry>
-    <title>AI時代の実践・形式検証入門</title>
-    <id>https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1</id>
-    <link href="https://docs.google.com/presentation/d/1s-ie7b1rD47NUkwSIvdDYCJfrHzWOl-rt1c2hSgeerM/mobilepresent?slide=id.p1" />
-    <updated>2026-11-25T06:16:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>開発者のための実践ガイド ｜ TLA+・TLCによるモデル検査 AI時代の実践・形式検証入門 通常のテストでは見落としやすい「複雑な仕様やルールの穴」をAIと防ぐ方法</summary>
   </entry>
 </feed>
