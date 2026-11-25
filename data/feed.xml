@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T11:00:17.039766+09:00</updated>
+  <updated>2026-11-25T11:30:07.337866+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>国会図書館の軽量AI-OCR「NDLOCR-Lite」がv2.0に、読書バリアフリーを目指す機能強化／異体字包摂、表の構造化、「PyPI」経由でのインストールにも対応</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2158877.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2158877.html" />
+    <updated>2026-11-25T09:50:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>国会図書館の軽量AI-OCR「NDLOCR-Lite」がv2.0に、読書バリアフリーを目指す機能強化／異体字包摂、表の構造化、「PyPI」経由でのインストールにも対応</summary>
+  </entry>
+  <entry>
+    <title>AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2158884.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2158884.html" />
+    <updated>2026-11-25T07:33:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！</summary>
+  </entry>
   <entry>
     <title>「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供</title>
     <id>https://www.itmedia.co.jp/news/article/2611/25/2000003431/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-24T06:20:30+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>はじめに 2026年10月30日、ゴルフスクール検索・予約ポータル「ゴルフスクールナビ」のリニューアル版をリリースしました。開発は6月10日に始めました。 普段は Laravel が中心で、今回は特に、要件に合わせた少し複雑な認可まわりに苦戦しました。 先に書いておくと、リリースしたコードのすべてを私が読み、理解したわけではありません。実装の多くは AI（Claude Code）に任せていました。…</summary>
-  </entry>
-  <entry>
-    <title>AIが作りAIが決める時代に、人は何を「判断」するのか？</title>
-    <id>https://zenn.dev/ncdc/articles/a522c2c50022d2</id>
-    <link href="https://zenn.dev/ncdc/articles/a522c2c50022d2" />
-    <updated>2026-11-23T17:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事を書くキッカケ 最初に、少し長くなりますがこの記事を書くキッカケから書こうと思います。 前回の記事で、MCP Appsの各種機能を実際にアプリを作って動かすことで試してみました。 https://zenn.dev/ncdc/articles/8cfbf2d20eec93 このお試し用のアプリを作るときに、Claude Codeは「試す環境の作り方を次の3択の中のどれにするか？」と聞いてきま…</summary>
-  </entry>
-  <entry>
-    <title>WSL ContainersでClaude Codeを隔離する</title>
-    <id>https://zenn.dev/kent_code/articles/bef81d6a0b817c</id>
-    <link href="https://zenn.dev/kent_code/articles/bef81d6a0b817c" />
-    <updated>2026-11-23T16:33:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude Code に許可を求められたとき、よく読まずに Yes を押したことはありませんか。 恥ずかしながら自分はよくあります。 その Yes 1回で何が起きるのでしょうか。Claude Code は、起動したフォルダ（以下、作業フォルダ）の中で作業するのが基本です。Yes と答えれば、作業フォルダの外のファイルも読めたり、ファイルを消したり、外へ送ったりもできてしまう可能性があります。 試…</summary>
   </entry>
 </feed>
