@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-25T21:30:13.286744+09:00</updated>
+  <updated>2026-11-25T22:00:13.494717+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>マイクロソフト、障害対応へ「非常事態」宣言 1時間で復旧へ - 日本経済新聞</title>
+    <id>https://www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/</id>
+    <link href="https://www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/" />
+    <updated>2026-11-25T16:12:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>【シリコンバレー=山田遼太郎】米マイクロソフトが11月中旬に起こした電子メールや業務ソフトの大規模障害を踏まえ、社内で「非常事態」と位置づけて対策に乗り出すことが24日わかった。人工知能（AI）も活用し、今後は1時間以内に障害からの復旧を目指すという。社内に「コードレッド」通知ロイター通信がマイクロソフ...</summary>
+  </entry>
+  <entry>
+    <title>高木浩光＠自宅の日記 - 「氏名は含まれておりません」では済まない——KARTE事件で漏れた行動の記録は誰の個人データか</title>
+    <id>http://takagi-hiromitsu.jp/diary/20261124.html</id>
+    <link href="http://takagi-hiromitsu.jp/diary/20261124.html" />
+    <updated>2026-11-25T09:26:29+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1. 漏れたのは「何をしたか」の記録である 11月13日、プレイドの「KARTE」が不正アクセスを受けた。KARTEを導入していた企業からの公表が相次ぎ、piyologの整理では11月21日時点で108組織にのぼる。 公表文の多くが挙げるのは、メールアドレス、生年月日、性別、会員番号といった項目である。そして、「氏名や連絡先は含...</summary>
+  </entry>
   <entry>
     <title>Apple製モニターを経由して有線LAN接続したらインターネット速度が4分の1に低下したという体験談</title>
     <id>https://gigazine.net/news/20261125-monitor-was-cutting-download-speed/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-24T16:53:32+09:00</updated>
     <category term="はてブ IT" />
     <summary>2026年11月24日 NDLOCR-Lite ver.2の公開について NDLラボ公式GitHub（外部サイト）から、NDLOCR-Lite ver.2を公開しました。 NDLOCR-Liteは、NDLOCRの軽量版を目指して開発したOCRであり、ノートパソコン等の一般的な家庭用コンピュータやOS環境で、図書や雑誌といった資料のデジタル化画像からテキストデータが作成で...</summary>
-  </entry>
-  <entry>
-    <title>ECR/S3からのimage pullの仕組みを深掘りする</title>
-    <id>https://qiita.com/har1101/items/a6e5f0d2039bd0932511?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/har1101/items/a6e5f0d2039bd0932511?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-25T00:28:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>こんにちは、ふくちです。 最近ECSを立ち上げようとした時に謎のエラーが出たのでその内容と対処法、そして裏側の仕組みを深掘りして理解しておこうと思います。 発生した事象と当時の設定 ECRにコンテナイメージをプッシュしておいて、プライベートサブネットにあるECSタスクを起...</summary>
-  </entry>
-  <entry>
-    <title>学習記録アプリをSupabaseでDB化とGithabActionでCI/CD化して、FirebasHostingにデプロイしVitestでテストまで作成</title>
-    <id>https://qiita.com/Tukirukiki/items/b5e37737535ce5fe3e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tukirukiki/items/b5e37737535ce5fe3e86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-24T23:29:16+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 以前、React の学習がてら作った学習記録アプリを、Firebase Hosting にデプロイしました。さらに、GitHub Actions で CI/CD を組み、Vitest でテストを書くところまでやりました。 その過程で苦労したこと、工夫したこ...</summary>
   </entry>
 </feed>
