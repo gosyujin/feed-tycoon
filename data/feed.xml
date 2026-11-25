@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T08:00:15.596040+09:00</updated>
+  <updated>2026-11-26T08:30:13.970666+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Migrating our Messages API to Rust</title>
+    <id>https://www.anthropic.com/research/migrating-api-to-rust</id>
+    <link href="https://www.anthropic.com/research/migrating-api-to-rust" />
+    <updated>2026-11-26T02:02:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Many problems have a generator–verifier gap: it’s often far easier to verify that a solution is correct than to come up with one. Sudoku is a classic example. It’s simple to check the solution (just c…</summary>
+  </entry>
+  <entry>
+    <title>【独自】政府、米中に次ぐAI国家確立へ 機微データ保護制度策定も（共同通信） - Yahoo!ニュース</title>
+    <id>https://news.yahoo.co.jp/articles/c9e4bb22aadff231ac1deecd7af8ca7a7dd4544d</id>
+    <link href="https://news.yahoo.co.jp/articles/c9e4bb22aadff231ac1deecd7af8ca7a7dd4544d" />
+    <updated>2026-11-25T09:18:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>首相官邸（KYODONEWS） 政府が年内に改定する安全保障関連3文書に盛り込む経済安全保障政策の概要案が判明した。開発競争が過熱する人工知能（AI）分野について、インド太平洋地域で主導的な役割を果たし「米国、中国に次ぐ立ち位置」を確立する目標を明記。他国に依存せず自律性を持つ「AI主権」の考え方を記す。不正...</summary>
+  </entry>
   <entry>
     <title>NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開</title>
     <id>https://pc.watch.impress.co.jp/docs/news/2159286.html</id>
@@ -298,9 +314,9 @@
     <title>MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供</title>
     <id>https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html</id>
     <link href="https://www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html" />
-    <updated>2026-11-26T00:29:05+09:00</updated>
-    <category term="Publickey" />
-    <summary>AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、...</summary>
+    <updated>2026-11-26T00:09:40+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>MCPに新機能「Skills over MCP」登場。ツールとの接続だけでなく使い方のスキルもMCP経由で提供 AIエージェントと外部ツールを接続する業界標準となっているMCP（Model Context Protocol）に、新機能として「Skills over MCP」がβ版として追加されました。 Skills over MCPを利用することで、AIエージェントはMCP経由でM...</summary>
   </entry>
   <entry>
     <title>「小学生くらいの頃に見たロボットに乗って戦うアニメを探してるのですが見つかりません」情報を元に推理して2択に絞られるが、解決したと思ったら謎が残った</title>
@@ -354,9 +370,9 @@
     <title>「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース</title>
     <id>https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html</id>
     <link href="https://www.publickey1.jp/blog/26/google_workspace_mcpgoogle_workspace_cli.html" />
-    <updated>2026-11-26T00:27:15+09:00</updated>
-    <category term="Publickey" />
-    <summary>Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しまし...</summary>
+    <updated>2026-11-26T01:42:43+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Googleは、Google WorkspaceをAIエージェントが操作するためのインターフェイスとして「Google Workspace MCP Server」と「Google Workspace CLI」が正式版になったことを発表しました。 下記は、Alphabet傘下でGoogleのAI研究開発を行っているGoogle Deepmind所属のPhilipp Schmid氏のポストです。 Go…</summary>
   </entry>
   <entry>
     <title>【2026年ベストバイ】エンジニアが買ってよかったガジェット8選 - stmn tech blog</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-25T10:39:35+09:00</updated>
     <category term="はてブ IT" />
     <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
-  </entry>
-  <entry>
-    <title>Corpus2Skillに近づけた「階層ナビゲーション型RAG」と、ベクトルDB版RAGを「どの段階で失敗したか」まで比べてみた</title>
-    <id>https://zenn.dev/aiforall/articles/133752ce2d97ad</id>
-    <link href="https://zenn.dev/aiforall/articles/133752ce2d97ad" />
-    <updated>2026-11-25T11:35:47+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 前回の記事では、ベクトルDBを使わずにLLMが目次を辿って文書を探す「階層ナビゲーション型RAG」を、Corpus2Skillを参考に自作し、ベクトルDB版RAGと比べました。28文書・20問の比較で、正答数は同等という結果でした。 この記事を公開したあと、次のコメントをいただきました。 正解文書への到達と、回答に必要な箇所を渡せたかを分けた分析が参考になりました。次に比較するなら、各問…</summary>
-  </entry>
-  <entry>
-    <title>Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う</title>
-    <id>https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana</id>
-    <link href="https://zenn.dev/hrendoh/articles/agentforce-external-mcp-asana" />
-    <updated>2026-11-25T10:41:04+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに この記事は、Salesforce の Agentforce Employee エージェントから、外部の MCP（Model Context Protocol）サーバーのツールを使えるようにするまでの設定手順をまとめたものです。題材には Asana の MCP サーバーを使い、Salesforce のケースから Asana のタスクを起票するエージェントを作ります。 きっかけは、Winte…</summary>
   </entry>
 </feed>
