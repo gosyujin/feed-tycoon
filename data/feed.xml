@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T10:00:15.985061+09:00</updated>
+  <updated>2026-11-26T10:30:13.762617+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>1Password、一部顧客の氏名やメールアドレスが流出 保管庫内のデータに「影響なし」</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/26/2000003466/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/26/2000003466/" />
+    <updated>2026-11-26T08:01:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>パスワード管理ツール「1Password」を手掛けるカナダのAgileBitsは11月25日（現地時間）、従業員のGitHubアカウントを悪用した不正アクセスにより、一部顧客の氏名やメールアドレスなどのアカウント情報が流出したと発表した。パスワードなどを保存する「保管庫」（Vault）内のデータや、その暗号化に使う鍵には影響はな...</summary>
+  </entry>
+  <entry>
+    <title>Claudeで作ったツールがそのままデスクトップアプリに。APIキーも不要</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2159065.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2159065.html" />
+    <updated>2026-11-25T16:22:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Claudeで作ったツールがそのままデスクトップアプリに。APIキーも不要</summary>
+  </entry>
   <entry>
     <title>Amazon Bedrockの存在意義がようやくわかったのに、新参者だと使えない話 - Sweet Escape</title>
     <id>https://www.keisuke69.net/entry/2026/11/26/085248</id>
@@ -674,9 +690,9 @@
     <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
     <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
     <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
-    <updated>2026-11-25T15:12:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
+    <updated>2026-11-25T15:40:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開してい...</summary>
   </entry>
   <entry>
     <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-25T01:36:20+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>IPA の「AI 時代の要求管理ハンドブック」を読みました。 129ページあって全部追うのは大変なので、重要そうなところだけピックアップしました。 https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf ! とりあえず、3行で 要望と要求と要件は別物。要望から要件へは一足飛びにできない AI を使う要件…</summary>
-  </entry>
-  <entry>
-    <title>Git for Windows の connect.exe で SSH の上りが遅い原因を追った話</title>
-    <id>https://zenn.dev/akarineren/articles/13ee3a909672c7</id>
-    <link href="https://zenn.dev/akarineren/articles/13ee3a909672c7" />
-    <updated>2026-11-24T23:29:36+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに プロキシ越しに SSH のポートフォワードで RDP を使っていたところ、画面の操作が妙に重いことに気づきました。調べてみると、上り（クライアント → サーバー）だけが約 0.5Mbps しか出ていません。下りは普通に速いのに、です。 原因は SSH の ProxyCommand に使っていた connect.exe（Git for Windows に同梱されているもの）でした。この記事…</summary>
-  </entry>
-  <entry>
-    <title>公表資料から読む2026年10〜11月の情報漏えい23件：侵入経路はどこだったのか</title>
-    <id>https://zenn.dev/shirochan/articles/f579abb8be4b1e</id>
-    <link href="https://zenn.dev/shirochan/articles/f579abb8be4b1e" />
-    <updated>2026-11-24T20:22:50+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>! この記事の要点（2026年11月24日時点） 10月28日〜11月24日に初めて公表された国内の不正アクセス・漏えい（可能性を含む）23件を、各社と公的機関の発表で整理 メール配信サービスのアララでは、持ち出されたメールアドレスが81,329,467件。サービスが悪用され、カード会社を装った不審なメールも最大約713万通送られた 理化学研究所は、インターネットに公開されていた「富岳」の稼働状況…</summary>
   </entry>
 </feed>
