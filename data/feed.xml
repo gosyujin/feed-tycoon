@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T21:00:16.057286+09:00</updated>
+  <updated>2026-11-26T21:30:14.397548+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Agentforce エージェントからユーザー単位の認証で外部 MCP サーバーに接続する</title>
+    <id>https://zenn.dev/hrendoh/articles/agentforce-mcp-per-user-auth</id>
+    <link href="https://zenn.dev/hrendoh/articles/agentforce-mcp-per-user-auth" />
+    <updated>2026-11-26T20:22:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事は、「Agentforce エージェントから外部 MCP サーバー（Asana）のツールを使う」の続きでSalesforce の Agentforce Employee エージェントから外部の MCP（Model Context Protocol）サーバーに接続するときの認証を、全ユーザーで共用する形から、ユーザーごとの認証（ユーザー単位認証）に切り替える手順をまとめたものです。題材は前回…</summary>
+  </entry>
+  <entry>
+    <title>RTX 5070 と Foundry Local でハイブリッド LLM のローカル側を実測：容量・品質と障害時の切り替え</title>
+    <id>https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8</id>
+    <link href="https://zenn.dev/hlt/articles/c2e3ed8ff9ddb8" />
+    <updated>2026-11-26T20:10:15+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>12GB に qwen3-14b と Phi-4（14B）が載りましたが、ピークはカード全体の 96% 前後で余裕はほとんどありません。生成は 14B で毎秒 54〜61 トークン、ロードは 2.5 秒未満でした。gpt-oss-20b は、この記事の回避策の構成では読み込みの時点でエラーになり、載るかどうかを確かめられませんでした。 ローカルのモデル 2 つ（qwen3-8b と Phi-4）を…</summary>
+  </entry>
+  <entry>
+    <title>MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道</title>
+    <id>https://gigazine.net/news/20261126-muse-amazon-discuss/</id>
+    <link href="https://gigazine.net/news/20261126-muse-amazon-discuss/" />
+    <updated>2026-11-26T19:04:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。 Exclusive: Meta and Amazon discuss ending Muse blockade; ads, sear…</summary>
+  </entry>
+  <entry>
+    <title>自動運転の予測軌跡の可視化動画を誰でも高速に作れるようにする</title>
+    <id>https://zenn.dev/turing_motors/articles/cbf9872ca90166</id>
+    <link href="https://zenn.dev/turing_motors/articles/cbf9872ca90166" />
+    <updated>2026-11-26T17:00:08+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>MLOps チーム の @stu3dio_graph です。 チューリングでは，自動運転モデルが予測した軌跡を，車幅の半透明の帯として走行映像に重ねた動画を作っています。モデル開発での介入の振り返りや，広報・事業開発による社外への発信に使われています。 この動画は，もともと CTO の山口さんが書いたスクリプトで作るものでした。手元でスクリプトを順番に実行しなければならず，AWS の認証情報と G…</summary>
+  </entry>
+  <entry>
+    <title>深センの中国人業者が規制されているNVIDIAのGPUを取り扱っていてアメリカの4～5倍の値段になっている品もあるとの指摘</title>
+    <id>https://gigazine.net/news/20261126-nvidia-chip-china/</id>
+    <link href="https://gigazine.net/news/20261126-nvidia-chip-china/" />
+    <updated>2026-11-26T16:05:12+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>中国・深センの電気街・華強北市場で、アメリカにより規制されているはずのNVIDIA製品が出回っているとワシントン・ポストの記者が報告しました。 Top Nvidia chips still for sale in China, despite U.S. ban - The Washington Post https://www.washingtonpost.com/world/2026/11/25…</summary>
+  </entry>
   <entry>
     <title>ゆうちょ銀が勘定系をオープン化へ、2574億円でNTTデータが落札</title>
     <id>https://xtech.nikkei.com/atcl/nxt/column/18/03815/112400006/</id>
@@ -765,45 +805,5 @@
     <updated>2026-11-26T09:24:00+09:00</updated>
     <category term="JPCERT" />
     <summary>Apache Shiroに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: nginxにおける複数の脆弱性（CVE-2026-123007など）について</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#21</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#21" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>nginxにおける複数の脆弱性（CVE-2026-123007など）について</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 認証を有効にしていないNode-REDに悪意ある制御フローが登録される問題（CVE-2026-58115）について</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#22</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#22" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>認証を有効にしていないNode-REDに悪意ある制御フローが登録される問題（CVE-2026-58115）について</summary>
-  </entry>
-  <entry>
-    <title>愛知県豊橋の人から無限にCHARGESPOTが送りつけられるけど、どうしたらいい？「送り主が間違って送っている？」「カニの仕業？」という謎めいた反応も→公式から連絡が来る</title>
-    <id>https://togetter.com/li/2775045</id>
-    <link href="https://togetter.com/li/2775045" />
-    <updated>2026-11-26T08:14:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>紅のTaka @kurenai_taka 送り主がChangeSpotの事務所住所間違えて送っている？ 中野の神田川投棄と言い溜め込んでいた人が処分困って適当に送り付けてるとか？ @CHARGESPOT_JP さんが確認したら最後に借りた人解るから回収してもらうのが良いんだろうけど。 x.com/nekosan_kemono… 2026-11-25 18:36:05 CHARGESPOT(チャ..…</summary>
-  </entry>
-  <entry>
-    <title>パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2159320.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2159320.html" />
-    <updated>2026-11-26T08:11:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</summary>
-  </entry>
-  <entry>
-    <title>CI ランナーを小さくする TypeScript 7 の型チェック設定 - 株式会社ヘンリー エンジニアブログ</title>
-    <id>https://dev.henry.jp/entry/2026/11/24/120000</id>
-    <link href="https://dev.henry.jp/entry/2026/11/24/120000" />
-    <updated>2026-11-24T13:01:15+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>はじめに こんにちは！株式会社ヘンリーでSWEをしている ken7253（id:ken7253）です！ 私は6月からヘンリーに入社し医療ドメインという非常に複雑なドメインに圧倒されていますが、もともと培ってきたフロントエンドエンジニアとしての知見をプロダクトに活かすために様々な改善活動を進めています。 今回はその改善活動...</summary>
   </entry>
 </feed>
