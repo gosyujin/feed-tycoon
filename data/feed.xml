@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T07:30:18.333398+09:00</updated>
+  <updated>2026-11-27T08:00:13.112947+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning</title>
+    <id>https://arxiv.org/abs/2509.24372</id>
+    <link href="https://arxiv.org/abs/2509.24372" />
+    <updated>2026-11-27T06:51:27+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Fine-tuning large language models (LLMs) for downstream tasks is an essential stage of modern AI deployment. Reinforcement learning (RL) has emerged as the dominant fine-tuning paradigm, underpinning…</summary>
+  </entry>
+  <entry>
+    <title>2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX</title>
+    <id>https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx</id>
+    <link href="https://speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx" />
+    <updated>2026-11-27T04:56:13+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2029-11-26 に開催された『アーキテクチャカンファレンス 2026』での登壇資料です。 https://conference.findy-code.io/conferences/architecture-con-2026/40/sessions/862</summary>
+  </entry>
+  <entry>
+    <title>SSH is a GUI framework | ssh zydra.sh</title>
+    <id>https://zydra.sh/articles/ssh-is-a-gui-framework/</id>
+    <link href="https://zydra.sh/articles/ssh-is-a-gui-framework/" />
+    <updated>2026-11-26T17:03:47+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>We end up using a similar fallback for many things. Clipboard sharing: OSC 52 handles bidirectional clipboard sharing, and Kitty's OSC 5522 adds image and arbitrary MIME-type transfers on top of that.…</summary>
+  </entry>
   <entry>
     <title>息子が父親のSwitchを勝手に持ち出し、公園で紛失して帰ってきた→「みまもりアプリ」に暗証番号入力ミスの通知が…息子への対応は？取り戻す方法は？</title>
     <id>https://togetter.com/li/2775400</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-25T20:33:06+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいものでした。 真実はコードにあります。機能要件・用語・非機能の目標値は、テスト・型・定義箇所のコメントに移ります。動…</summary>
-  </entry>
-  <entry>
-    <title>iPhone、広告を1回タップするだけでマルウェアに感染の恐れ 日本が主要な標的に</title>
-    <id>https://news.mynavi.jp/techplus/article/20261125-5406233/</id>
-    <link href="https://news.mynavi.jp/techplus/article/20261125-5406233/" />
-    <updated>2026-11-25T16:50:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>広告セキュリティ企業のConfiantは11月20日（現地時間）、MoldyRoost: A Malvertising Machine Built to Deliver iOS Exploitsにおいて、iPhoneを狙った大規模なサイバー攻撃「MoldyRoost」の詳細を公開した。 脆弱性が残るiPhoneでは、悪質な広告を1回タップするだけでマルウェアに感染し、パスワードや暗号資産ウォレ..…</summary>
-  </entry>
-  <entry>
-    <title>moejsはSobekの半分以下、正規表現を使う処理ではgo-quickjsが逆転： pure Go製JSエンジン3種を同じプラグインで比較</title>
-    <id>https://zenn.dev/nonejp/articles/3bbffb1db9c4ce</id>
-    <link href="https://zenn.dev/nonejp/articles/3bbffb1db9c4ce" />
-    <updated>2026-11-25T10:00:51+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに：Go に JS プラグインを載せるなら、どのエンジンを選ぶ？ Go のサーバーに「ユーザーが書いた JavaScript でリクエストを書き換える」ようなプラグインの仕組みを入れたいとき、cgo を使わずに組み込める JS エンジンの候補は、ここ1年でずいぶん増えました。k6 が使っている Sobek（goja のフォーク）[1]に加えて、プラグイン向けに作られた moejs[2]、Qu…</summary>
-  </entry>
-  <entry>
-    <title>Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す</title>
-    <id>https://zenn.dev/wisevine/articles/97b7ba8db70657</id>
-    <link href="https://zenn.dev/wisevine/articles/97b7ba8db70657" />
-    <updated>2026-11-25T09:00:07+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>入札参加資格は、自治体ごとにやり方が違います。 申請の窓口（電子申請、紙、複数自治体の共同受付） 様式 必要な書類 締切 全国の分を一人でやるのは、正直しんどいです。 これまでは、要綱を読んで、様式を集めて、書類を書いて、を自治体ごとに繰り返していました。 目指したのは「話しているうちに終わっている」状態です。 調べる、読む、まとめる、書き込む、は Claude Code と一緒に進める 実印、電…</summary>
   </entry>
 </feed>
