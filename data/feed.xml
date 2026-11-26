@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T13:00:14.358122+09:00</updated>
+  <updated>2026-11-26T13:29:01.939483+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>AnthropicがClaudeを使って自社APIをPythonからRustに移植しCPU使用量を約70％削減した方法を公開</title>
+    <id>https://gigazine.net/news/20261126-anthropic-claude-api-rust/</id>
+    <link href="https://gigazine.net/news/20261126-anthropic-claude-api-rust/" />
+    <updated>2026-11-26T11:08:05+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AI企業のAnthropicが、AIモデル「Claude」を外部から利用するための「Messages API」をPythonからRustに移植した際の開発手法を公開しました。AnthropicはClaudeを活用して移植を進め、2026年9月にサービスを停止することなくRust版へ移行。リクエスト当たりのCPU使用量を約70％削減することに成功しています。 Migratin...</summary>
+  </entry>
+  <entry>
+    <title>自分用の PaaS アプリを作った - tricknotesのぼうけんのしょ</title>
+    <id>https://tricknotes.hateblo.jp/entry/2026/11/26/000000</id>
+    <link href="https://tricknotes.hateblo.jp/entry/2026/11/26/000000" />
+    <updated>2026-11-26T10:32:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>これまでアイディアだけはある状態だったウェブアプリの開発が AI パワーで捗っているのですが、さすがにデプロイ環境に困ってきたので PaaS アプリを作りました。 1台の VPS に載せて、アプリの Docker Compose をベースに動かすというシンプルな作りにしています。 github.com 私と同じく、たくさんウェブアプリ作るけ...</summary>
+  </entry>
   <entry>
     <title>パスワード管理アプリ「1Password」がハッキングされ顧客アカウント情報を盗まれる</title>
     <id>https://gigazine.net/news/20261126-1password-security-incident/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-25T15:10:09+09:00</updated>
     <category term="はてブ IT" />
     <summary>「バザールでござーる」が、35年間の感謝を伝える ～キャラクター総出で「どうもありがとう」</summary>
-  </entry>
-  <entry>
-    <title>【書評】詳解 Active Directory &amp; Windows インフラ・ペネトレーションテスト｜kuniisan-station</title>
-    <id>https://note.com/kuniisan_station/n/n696acd53c756</id>
-    <link href="https://note.com/kuniisan_station/n/n696acd53c756" />
-    <updated>2026-11-25T09:23:12+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>今回も献本をいただいたので、お礼も込めて書評を書いてみたいと思います。今回の書籍はオライリー・ジャパン社の「詳解 Active Directory &amp; Windows インフラ・ペネトレーションテスト」です。 この書籍は Active Directory をはじめとする、オンプレミスで動作する Windows ベースのサーバーをターゲットとしたペネト...</summary>
-  </entry>
-  <entry>
-    <title>EXT4に4万行のAI生成コード、rcサイクル終盤の投入にトーバルズ氏が警告</title>
-    <id>https://joho-todai.com/ext4-ai-generated-code-linus-warning/</id>
-    <link href="https://joho-todai.com/ext4-ai-generated-code-linus-warning/" />
-    <updated>2026-11-25T14:26:03+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>EXT4メンテナがLinux 7.4-rc5向けに送った4万1197行のプルリクエスト。大半はAI生成のテストと修正で、トーバルズ氏はマージしたうえで「次は無視する」と警告した。 4万1197行のプルリクエストEXT4ファイルシステムのメンテナであるテッド・ツォ（Theodore Ts'o）氏が米国時間2026年11月24日、Linux 7.4-rc5向けのプル...</summary>
   </entry>
 </feed>
