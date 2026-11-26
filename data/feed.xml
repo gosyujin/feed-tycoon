@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T23:31:09.715235+09:00</updated>
+  <updated>2026-11-27T00:00:14.969947+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team</title>
+    <id>https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</id>
+    <link href="https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team" />
+    <updated>2026-11-26T21:14:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>私たちのサービスチームでは、2024年からPdM、PD、Engの全員でドメインモデリングを続けてきました。手探りでSUDOモデリングから始め、実践を重ねるうちに職種間の認識がそろい、手戻りがほぼなくなりました。しかしプロダクトが育つにつれてモデリングで扱うユースケースが増え、全員で議論する時間自体が開発…</summary>
+  </entry>
   <entry>
     <title>ニューヨーク・タイムズが写真家に「ユーザーにもわからないAI機能があるからPhotoshopをアップデートするな」と警告</title>
     <id>https://gigazine.net/news/20261126-nyt-warns-not-update-photoshop-ai-features/</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-26T09:24:00+09:00</updated>
     <category term="JPCERT" />
     <summary>Drupal coreに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のSplunk製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#8</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#8" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のSplunk製品に脆弱性</summary>
   </entry>
 </feed>
