@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T12:00:12.360750+09:00</updated>
+  <updated>2026-11-26T12:30:15.557781+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用</title>
+    <id>https://pc.watch.impress.co.jp/docs/news/2159364.html</id>
+    <link href="https://pc.watch.impress.co.jp/docs/news/2159364.html" />
+    <updated>2026-11-26T11:03:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>LLMが動くだけのOS。24KBの全アセンブリ製Qwen3-0.6B専用</summary>
+  </entry>
+  <entry>
+    <title>米国の小学校で今学期になって毎日AI生成された気持ち悪い歌が放送、クラスのみんなが嫌がっているので娘が先生に話したところ「聞かなくていいよ。耳を塞いで」と言われた</title>
+    <id>https://togetter.com/li/2775074</id>
+    <link href="https://togetter.com/li/2775074" />
+    <updated>2026-11-26T10:51:46+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>maiya🕊️ @mhutam03 AIをできるだけ使わないようにと指導されているはずの小学校で、今学期になってから毎日AI生成された気持ち悪い歌が放送されていてクラスのみんなが嫌がってると娘が言うので、生徒会でそれ止めるように提言しなよと言ったところ、先生に直接話してきたらしい娘が 2026-11-25 12:48:21 maiya🕊️ @mhutam0...</summary>
+  </entry>
+  <entry>
+    <title>AIを使った開発に「敵対的検証」を取り入れてみた</title>
+    <id>https://zenn.dev/visionarray/articles/26b316ff128513</id>
+    <link href="https://zenn.dev/visionarray/articles/26b316ff128513" />
+    <updated>2026-11-25T15:55:45+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>AIを使った開発に「敵対的検証」を取り入れてみた はじめに 普段、私はCodexやClaude Codeを利用して、設計、実装、コードレビューなどの開発作業を行っています。 AIを利用することで開発効率は向上しましたが、その一方で、生成されたコードの品質をどのように担保するかについては、日々試行錯誤しています。 そんな中、たまたまインターネットの記事で「敵対的検証」という言葉を目にしました。 聞い…</summary>
+  </entry>
   <entry>
     <title>都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か</title>
     <id>https://www.itmedia.co.jp/news/article/2611/26/2000003472/</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-25T11:26:14+09:00</updated>
     <category term="はてブ IT" />
     <summary>中国の大手テクノロジー企業であるTencentが翻訳特化AIモデル「Hy MT3」を2026年11月24日に公開しました。 GitHub - Tencent-Hunyuan/Hy-MT3 · GitHub https://github.com/Tencent-Hunyuan/Hy-MT3 🚀 Hy MT3 is here — third-generation open-source transla…</summary>
-  </entry>
-  <entry>
-    <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
-    <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
-    <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
-    <updated>2026-11-25T15:12:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
-  </entry>
-  <entry>
-    <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
-    <id>https://zenn.dev/happy_elements/articles/27e14ff6754044</id>
-    <link href="https://zenn.dev/happy_elements/articles/27e14ff6754044" />
-    <updated>2026-11-25T12:53:12+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude に実行を任せた Bash コマンドは、Claude Code を起動したマシンの上で、自分のユーザー権限で動きます。Mac のターミナルで起動したなら、その Mac です。サンドボックスをオンにしても動く場所は同じで、変わるのは、実行中のコマンドがアクセスできるファイルと通信先の制限です。 2026 年 11 月時点の公式ドキュメントと changelog をもとに、Claude C…</summary>
-  </entry>
-  <entry>
-    <title>体験ドリブンのすすめ ― AIで作れる時代に、何で差がつくか</title>
-    <id>https://zenn.dev/mediaforce/articles/2fef9933aae9e7</id>
-    <link href="https://zenn.dev/mediaforce/articles/2fef9933aae9e7" />
-    <updated>2026-11-25T11:28:01+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>前回の記事「AI時代の生産性を考える」では、AIは「速くする道具」ではなく「やらなかったことをやれるようにする装置」だと書きました。お客様が感動してくれたのは、作業が速かったからではなく、期待していたタイミングより前に、期待していた以上のものが出てきたからだ、という話です。 今回はその続きです。 AIを使えば、作りたいものはすぐに作れるようになりました。ということは、「作れること」そのものでは、も…</summary>
   </entry>
 </feed>
