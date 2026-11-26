@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T11:30:11.009979+09:00</updated>
+  <updated>2026-11-26T12:00:12.360750+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>都が育児支援で配った「QUOカードPay」が「使えない」「残高減っている」……委託先への不正アクセスが関係か</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/26/2000003472/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/26/2000003472/" />
+    <updated>2026-11-26T11:18:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>赤ちゃんファーストは、都内の新生児の保護者に対して13万円分のポイントを提供し、専用サイトを通じて育児用品や家電、デジタル商品券などに交換できる都の育児支援策。 赤ちゃんファーストコールセンターに「QUOカードPayが利用できない」「残高が少なくなっている」などの相談が寄せられ、リンベルが調べたところ、問...</summary>
+  </entry>
+  <entry>
+    <title>specは実装後に8割削除しよう</title>
+    <id>https://zenn.dev/ruri/articles/distill-specs-after-implementation</id>
+    <link href="https://zenn.dev/ruri/articles/distill-specs-after-implementation" />
+    <updated>2026-11-25T20:33:06+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 TL;DR spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいものでした。 真実はコードにあります。機能要件・用語・非機能の目標値は、テスト・型・定義箇所のコメントに…</summary>
+  </entry>
+  <entry>
+    <title>iPhone、広告を1回タップするだけでマルウェアに感染の恐れ 日本が主要な標的に</title>
+    <id>https://news.mynavi.jp/techplus/article/20261125-5406233/</id>
+    <link href="https://news.mynavi.jp/techplus/article/20261125-5406233/" />
+    <updated>2026-11-25T16:50:09+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>広告セキュリティ企業のConfiantは11月20日（現地時間）、MoldyRoost: A Malvertising Machine Built to Deliver iOS Exploitsにおいて、iPhoneを狙った大規模なサイバー攻撃「MoldyRoost」の詳細を公開した。 脆弱性が残るiPhoneでは、悪質な広告を1回タップするだけでマルウェアに感染し、パスワードや暗号資産ウォレ..…</summary>
+  </entry>
+  <entry>
+    <title>moejsはSobekの半分以下、正規表現を使う処理ではgo-quickjsが逆転： pure Go製JSエンジン3種を同じプラグインで比較</title>
+    <id>https://zenn.dev/nonejp/articles/3bbffb1db9c4ce</id>
+    <link href="https://zenn.dev/nonejp/articles/3bbffb1db9c4ce" />
+    <updated>2026-11-25T10:00:51+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>はじめに：Go に JS プラグインを載せるなら、どのエンジンを選ぶ？ Go のサーバーに「ユーザーが書いた JavaScript でリクエストを書き換える」ようなプラグインの仕組みを入れたいとき、cgo を使わずに組み込める JS エンジンの候補は、ここ1年でずいぶん増えました。k6 が使っている Sobek（goja のフォーク）[1]に加えて、プラグイン向けに作られた moejs[2]、Qu…</summary>
+  </entry>
+  <entry>
+    <title>Claude CodeとLLM Wikiで全国の自治体の入札参加資格を、一人で回す</title>
+    <id>https://zenn.dev/wisevine/articles/97b7ba8db70657</id>
+    <link href="https://zenn.dev/wisevine/articles/97b7ba8db70657" />
+    <updated>2026-11-25T09:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>1. 自治体ごとに全部違う 入札参加資格は、自治体ごとにやり方が違います。 申請の窓口（電子申請、紙、複数自治体の共同受付） 様式 必要な書類 締切 全国の分を一人でやるのは、正直しんどいです。 これまでは、要綱を読んで、様式を集めて、書類を書いて、を自治体ごとに繰り返していました。 2. 丸投げでも全自動でもなく、伴走してもらう 目指したのは「話しているうちに終わっている」状態です。 調べる、読…</summary>
+  </entry>
   <entry>
     <title>「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず</title>
     <id>https://www.itmedia.co.jp/news/article/2611/26/2000003469/</id>
@@ -746,9 +786,9 @@
     <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
     <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
     <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
-    <updated>2026-11-25T15:40:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開してい...</summary>
+    <updated>2026-11-25T15:12:03+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
   </entry>
   <entry>
     <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
@@ -765,45 +805,5 @@
     <updated>2026-11-25T11:28:01+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>前回の記事「AI時代の生産性を考える」では、AIは「速くする道具」ではなく「やらなかったことをやれるようにする装置」だと書きました。お客様が感動してくれたのは、作業が速かったからではなく、期待していたタイミングより前に、期待していた以上のものが出てきたからだ、という話です。 今回はその続きです。 AIを使えば、作りたいものはすぐに作れるようになりました。ということは、「作れること」そのものでは、も…</summary>
-  </entry>
-  <entry>
-    <title>なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方</title>
-    <id>https://zenn.dev/mediaforce/articles/27df1f22a00546</id>
-    <link href="https://zenn.dev/mediaforce/articles/27df1f22a00546" />
-    <updated>2026-11-25T07:30:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに 株式会社メディアフォースでエンジニアをしている池田です。自社プロダクトの開発を担当しています。 弊社の開発チームは、設計や実装にClaude Codeを利用しています。 周りのエンジニアに勧められたことをきっかけに、最近はMatt PocockのSkillsを利用しています。 このSkillsは2026年春頃から話題になっていたgrill-me（grilling）[1]を含んだスキル集で…</summary>
-  </entry>
-  <entry>
-    <title>マイクロソフト、障害対応へ「非常事態」宣言 1時間で復旧へ - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOGN251A90V21C26A1000000/" />
-    <updated>2026-11-25T16:12:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【シリコンバレー=山田遼太郎】米マイクロソフトが11月中旬に起こした電子メールや業務ソフトの大規模障害を踏まえ、社内で「非常事態」と位置づけて対策に乗り出すことが24日わかった。人工知能（AI）も活用し、今後は1時間以内に障害からの復旧を目指すという。社内に「コードレッド」通知ロイター通信がマイクロソフ...</summary>
-  </entry>
-  <entry>
-    <title>高木浩光＠自宅の日記 - 「氏名は含まれておりません」では済まない——KARTE事件で漏れた行動の記録は誰の個人データか</title>
-    <id>http://takagi-hiromitsu.jp/diary/20261124.html</id>
-    <link href="http://takagi-hiromitsu.jp/diary/20261124.html" />
-    <updated>2026-11-25T09:26:29+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1. 漏れたのは「何をしたか」の記録である 11月13日、プレイドの「KARTE」が不正アクセスを受けた。KARTEを導入していた企業からの公表が相次ぎ、piyologの整理では11月21日時点で108組織にのぼる。 公表文の多くが挙げるのは、メールアドレス、生年月日、性別、会員番号といった項目である。そして、「氏名や連絡先は含...</summary>
-  </entry>
-  <entry>
-    <title>Apple製モニターを経由して有線LAN接続したらインターネット速度が4分の1に低下したという体験談</title>
-    <id>https://gigazine.net/news/20261125-monitor-was-cutting-download-speed/</id>
-    <link href="https://gigazine.net/news/20261125-monitor-was-cutting-download-speed/" />
-    <updated>2026-11-25T08:07:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ソフトウェアエンジニアのオスカー・モルナー氏は自らが経験した2.5ギガビットイーサネット接続でのダウンロード速度の大幅な低下について、原因と解決策を自身のブログにて詳細に解説しています。 My Monitor Was Cutting My Download Speed by 75% :: The Tymscar Blog https://blog.tymscar.com/posts/studiod…</summary>
-  </entry>
-  <entry>
-    <title>中国の諜報機関が高性能AIチップの密輸を支援する秘密工作を少なくとも2年前から展開していたことが明らかに</title>
-    <id>https://gigazine.net/news/20261125-china-spy-nvidia-chips/</id>
-    <link href="https://gigazine.net/news/20261125-china-spy-nvidia-chips/" />
-    <updated>2026-11-25T18:49:34+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「中国の情報機関である国家安全部(MSS)が中国企業による高性能AIチップの入手を支援する秘密工作を少なくとも2年前から展開している」とアメリカやアジア、ヨーロッパの現職および元当局者らがThe New York Timesに証言しました。国家安全部はアメリカなどが課す輸出規制に対抗するための専門チームを設置し、半導体の...</summary>
   </entry>
 </feed>
