@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T08:30:13.970666+09:00</updated>
+  <updated>2026-11-26T09:00:13.984306+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>「AI検索に電話番号が……」鳴りやまぬコールセンター バッファローは壊れた「顧客導線」をどう改善した？</title>
+    <id>https://www.itmedia.co.jp/business/articles/2611/26/news015.html</id>
+    <link href="https://www.itmedia.co.jp/business/articles/2611/26/news015.html" />
+    <updated>2026-11-26T07:50:37+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>入電が「月に1400件急増」なぜ？ 理由を探ると…… 「10年以上もかけて構築してきたWebの仕組みが、一瞬で無駄になったような感じでした」 バッファロー 品質保証部 FAQ課長の嶋田豊秋氏は、AI検索によって電話問い合わせが増加した当時の心境をこう振り返る。 同社が外部委託して運営するコンタクトセンターには、電話、...</summary>
+  </entry>
+  <entry>
+    <title>1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス</title>
+    <id>https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46</id>
+    <link href="https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46" />
+    <updated>2026-11-26T05:50:44+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1Passwordは、攻撃者が侵害された従業員のGitHubアカウントを悪用して内部サーバーに悪意のあるコードを仕込み、顧客の氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。同社は、顧客の保管庫（ボールト）には一切アクセスできず、ユーザーのパスワードやシークレ...</summary>
+  </entry>
+  <entry>
+    <title>AWS WAF の新料金（simplified pricing）と旧料金を試算して比べてみた | DevelopersIO</title>
+    <id>https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/</id>
+    <link href="https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/" />
+    <updated>2026-11-25T19:55:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>リソース料金は、web ACL を関連付けたリソース 1 つごとにかかります。10 個のリソースに関連付けた web ACL では、10 リソース分が課金されます。 web ACL、ルール、ルールグループ、キャパシティ、ボディ検査、CAPTCHA、Challenge の料金はなくなります。web ACL あたり 2,500 WCU まで追加料金なしです（従来は 1,50...</summary>
+  </entry>
   <entry>
     <title>Migrating our Messages API to Rust</title>
     <id>https://www.anthropic.com/research/migrating-api-to-rust</id>
@@ -418,9 +442,9 @@
     <title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title>
     <id>https://zenn.dev/codehex/articles/33bc6ee330b880</id>
     <link href="https://zenn.dev/codehex/articles/33bc6ee330b880" />
-    <updated>2026-11-25T15:12:03+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそ…</summary>
+    <updated>2026-11-25T15:40:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開してい...</summary>
   </entry>
   <entry>
     <title>Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-25T15:13:19+09:00</updated>
     <category term="はてブ IT" />
     <summary>iPhoneの利用者に対し、iOSを急いでアップデートするよう、再び呼びかけが出ている。悪意のある広告を使った大規模な攻撃の詳細が明らかになった。 この攻撃では、攻撃者がネット広告を入り口にしてiPhoneに侵入する。暗号資産ウォレットの重要な情報や、パスワード管理機能のデータ、メッセージ、位置情報、写真のメタ...</summary>
-  </entry>
-  <entry>
-    <title>Reactはここまで変わった！ メモ化・Effect・アニメーションの最新事情 - ICS MEDIA</title>
-    <id>https://ics.media/entry/261119/</id>
-    <link href="https://ics.media/entry/261119/" />
-    <updated>2026-11-24T22:57:53+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>ウェブ開発で圧倒的なシェアを誇るReact。前回の記事ではユーザー体験の改善に使える便利機能を紹介しました。 続編となるこの記事では開発時に便利な機能を紹介します。パフォーマンスの改善に役立つ機能や、複雑なアニメーションを簡単に実装するコンポーネントなど、魅力的な機能があります。ぜひこの機会にキャッチ...</summary>
-  </entry>
-  <entry>
-    <title>3年落ちのRaspberry Pi 4は家庭内サーバーとして使い物になるか</title>
-    <id>https://codedchords.dev/blog/2026/11/raspberry-pi/</id>
-    <link href="https://codedchords.dev/blog/2026/11/raspberry-pi/" />
-    <updated>2026-11-24T14:40:16+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>3年落ちのRaspberry Pi 4は家庭内サーバーとして使い物になるか Toshiyuki Yoshida 2026-11-23•10 min read•Tags: Gadget, Hardware NASを導入してから出番のなかったRaspberry Pi 4を、久しぶりに引っ張り出しました。回線品質の計測、家中の広告ブロック、自分自身の状態の記録まで、手のひらサイズの1台にどこまで任...</summary>
-  </entry>
-  <entry>
-    <title>Qwen3.8 27Bを5.9GBまで省メモリ化しつつエージェント性能を維持したAIモデル「Ternary Bonsai 2.5 27B」が公開される</title>
-    <id>https://gigazine.net/news/20261125-ternary-bonsai-2-5-27b/</id>
-    <link href="https://gigazine.net/news/20261125-ternary-bonsai-2-5-27b/" />
-    <updated>2026-11-25T10:39:35+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>AI企業のPrismMLがQwen3.8 27BベースのAIモデル「Ternary Bonsai 2.5 27B」を現地時間の2026年11月24日に公開しました。 PrismML — Introducing Ternary Bonsai 2.5 27B: Powering Agentic Coding and Private Knowledge Work https://prismml.com/…</summary>
   </entry>
 </feed>
