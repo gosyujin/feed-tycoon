@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T01:30:14.123495+09:00</updated>
+  <updated>2026-11-27T02:00:15.721620+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>迷惑メール対策をしているのに、なぜ詐欺メールは届くのか</title>
+    <id>https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</id>
+    <link href="https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars" />
+    <updated>2026-11-26T23:08:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>つい先日、知り合いがメールの受け取りを「キャッチオール」にしてみたそうです。 キャッチオールとは？ 特定の宛先（ローカル部）を決めず、ドメイン全体に届いたメールをまるごと受け取る設定のこと。 すると、1 時間も経たないうちに迷惑メールが数十通届き、しかもそのすべてが詐欺メールだったとのこと。 「キャッチオールでも迷惑メールフィルターや SPF などの認証は動いているはずなのに、なぜすり抜けて受信箱…</summary>
+  </entry>
+  <entry>
+    <title>人の判断を切り出すAgent Skillsの設計（v7.0.2）</title>
+    <id>https://zenn.dev/jayt/articles/agent-skills-judgment-extraction</id>
+    <link href="https://zenn.dev/jayt/articles/agent-skills-judgment-extraction" />
+    <updated>2026-11-26T11:05:57+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>Agent Skills を作るとき、人の判断を手順と導入先の環境から切り出して別のスキルに置く。 切り出した判断は、人によって答えが分かれるもの（中核判断）と、誰でも同じ答えになるもの（一般的な業務知識）に分ける。 前者は人ごとに差し替えて使い、後者はみんなで育てる。こうすると、作った人の視点を残したままスキルを共有できる、というのがこの文書の仮説である。 考え方だけを知りたいときは、「仮説」と…</summary>
+  </entry>
   <entry>
     <title>「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2159560.html</id>
@@ -79,7 +95,7 @@
     <summary>さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日めの基調講演で、新たなストレージサービス「Object Storage Suite」（OS2）...</summary>
   </entry>
   <entry>
-    <title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開 / offers-claude-code-2026-11-26</title>
+    <title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開</title>
     <id>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</id>
     <link href="https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6" />
     <updated>2026-11-26T21:31:47+09:00</updated>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T09:24:00+09:00</updated>
     <category term="JPCERT" />
     <summary>Microsoft Edgeに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: IBM Guardium Data Protectionに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#4</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#4" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>IBM Guardium Data Protectionに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: UniFi Access Applicationに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#5</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#5" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>UniFi Access Applicationに複数の脆弱性</summary>
   </entry>
 </feed>
