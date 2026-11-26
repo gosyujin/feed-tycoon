@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T08:00:13.112947+09:00</updated>
+  <updated>2026-11-27T08:21:29.549952+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp</title>
+    <id>https://gihyo.jp/article/2026/11/skills-over-mcp</id>
+    <link href="https://gihyo.jp/article/2026/11/skills-over-mcp" />
+    <updated>2026-11-26T18:44:20+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can…</summary>
+  </entry>
   <entry>
     <title>Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement Learning</title>
     <id>https://arxiv.org/abs/2509.24372</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-26T11:18:38+09:00</updated>
     <category term="はてブ IT" />
     <summary>赤ちゃんファーストは、都内の新生児の保護者に対して13万円分のポイントを提供し、専用サイトを通じて育児用品や家電、デジタル商品券などに交換できる都の育児支援策。 赤ちゃんファーストコールセンターに「QUOカードPayが利用できない」「残高が少なくなっている」などの相談が寄せられ、リンベルが調べたところ、問...</summary>
-  </entry>
-  <entry>
-    <title>specは実装後に8割削除しよう</title>
-    <id>https://zenn.dev/ruri/articles/distill-specs-after-implementation</id>
-    <link href="https://zenn.dev/ruri/articles/distill-specs-after-implementation" />
-    <updated>2026-11-25T20:33:06+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいものでした。 真実はコードにあります。機能要件・用語・非機能の目標値は、テスト・型・定義箇所のコメントに移ります。動…</summary>
   </entry>
 </feed>
