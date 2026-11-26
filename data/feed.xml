@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T00:00:14.969947+09:00</updated>
+  <updated>2026-11-27T00:30:13.830702+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる</title>
+    <id>https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126</id>
+    <link href="https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126" />
+    <updated>2026-11-26T12:59:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事は2026年11月時点の開発記録です。TenkaCloudSimulatorの実装を、ChatGPTのDotとサブエージェントで進めています。今回は、Issueを渡してから実装、レビュー、マージまで回すために、実際に入れた設定と、途中でやめた設定を紹介します。 AWSのAPIを使うアプリが手元で動くかを確認するだけなら、対応済みの機能はAWS公式エミュレーターをそのまま使えば十分です。公式…</summary>
+  </entry>
   <entry>
     <title>サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team</title>
     <id>https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</id>
@@ -797,13 +805,5 @@
     <updated>2026-11-26T09:24:00+09:00</updated>
     <category term="JPCERT" />
     <summary>Rubyに複数の脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Drupal coreに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#7</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#7" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Drupal coreに複数の脆弱性</summary>
   </entry>
 </feed>
