@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T19:30:12.808112+09:00</updated>
+  <updated>2026-11-26T20:00:14.818060+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【重要】「ASOBI STORE(電子書籍)」サービス終了のお知らせ</title>
+    <id>https://shop.asobistore.jp/news/324/</id>
+    <link href="https://shop.asobistore.jp/news/324/" />
+    <updated>2026-11-26T17:22:59+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>平素はASOBI STOREをご利用いただき、誠にありがとうございます。 このたび、「ASOBI STORE(電子書籍)」で使用しているプログラム言語「PHP」において、セキュリティ上の脆弱性が公表されました。 これを受け、サービス再開に向けて検討してまいりましたが、既存のシステム環境では、当該脆弱性への対応を行い、十分なセ...</summary>
+  </entry>
+  <entry>
+    <title>日本ファクトチェックセンターが誤情報を掲載、AI（NotebookLM）が抽出した発言を確認せず掲載</title>
+    <id>https://japan.cnet.com/article/35255447/</id>
+    <link href="https://japan.cnet.com/article/35255447/" />
+    <updated>2026-11-26T15:42:11+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>日本ファクトチェックセンター（JFC）は11月25日、記事の公開前に原則として編集者2人以上の承認を求める再発防止計画と、問題の経緯をまとめた報告書を公表した。衆院選の党首討論を検証した記事に、対象の動画にはない発言を掲載したことを受けた措置だ。</summary>
+  </entry>
+  <entry>
+    <title>Snowflake AIMのデスクトップアプリでTeradataからの移行を検証してみた</title>
+    <id>https://zenn.dev/snowflakejp/articles/snowflake-aim-app-teradata</id>
+    <link href="https://zenn.dev/snowflakejp/articles/snowflake-aim-app-teradata" />
+    <updated>2026-11-26T13:07:23+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>著者はSnowflakeに所属しておりますが、本記事は個人の見解であり、所属する組織の公式見解ではありません。 こんにちは。Snowflakeでソリューションエンジニアをしている渡利です。 前回の記事では、CoCo DesktopからSnowflake AIMを使い、Amazon Redshiftからの移行を試しました。 今回は、Snowflake AIMのデスクトップアプリである Snowfla…</summary>
+  </entry>
+  <entry>
+    <title>ぼくはnullが嫌いだ</title>
+    <id>https://zenn.dev/okaponta/articles/ea88f9ed0c5be5</id>
+    <link href="https://zenn.dev/okaponta/articles/ea88f9ed0c5be5" />
+    <updated>2026-11-26T10:36:47+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>nullに対してずっとなんとなく嫌悪感を持ってきましたが、なぜ嫌いなのかをきちんと説明できない気がしたので、今回は腰を据えて考えてみました。 お気持ちとしては、次のようにnullが業務的な意味を持っているコードに対して「わかりづらいな」という感覚です。 もちろんコメントを読めば意図は分かりますが、逆にいえばコメントを読まないと自信が持てません。 コメントがあるならまだいい方で、endDateフィー…</summary>
+  </entry>
+  <entry>
+    <title>Apple Watchの新機能「Siri Recap」を24時間オンにしてわかった便利さと危うさ | ライフハッカー・ジャパン</title>
+    <id>https://www.lifehacker.jp/article/2611-apple-watch-new-siri-recap-feature/</id>
+    <link href="https://www.lifehacker.jp/article/2611-apple-watch-new-siri-recap-feature/" />
+    <updated>2026-11-26T05:34:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Appleが9月に発表した、Siriによる会話要約機能「Siri Recap」が、ついに開発者向けベータ版で公開されました。ここ24時間ほど機能をオンにしたまま過ごしてみたのですが、想像以上に衝撃的なものでした。 同時期にリリースされた「ライブ早戻し」機能もなかなかでしたが、Siri Recapはさらに一枚上手の「不気味さ」を放...</summary>
+  </entry>
+  <entry>
+    <title>URPの_CameraDepthAttachmentと_CameraDepthTextureの違い</title>
+    <id>https://zenn.dev/romgameclient/articles/954bbd6294522e</id>
+    <link href="https://zenn.dev/romgameclient/articles/954bbd6294522e" />
+    <updated>2026-11-25T19:00:07+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>URPのFrame Debuggerを見ると、一定条件で _CameraDepthAttachment と _CameraDepthTexture が現れます。同じ画面の深度を扱うこの2つには、どのような違いがあるのでしょうか。 DepthAttachmentは描画中の深度テストと書き込みに使います。DepthTextureは、シェーダーが深度を読み取るためのリソースです。Frame Debugg…</summary>
+  </entry>
+  <entry>
+    <title>Actual curl rewrites in rust</title>
+    <id>https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/</id>
+    <link href="https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/" />
+    <updated>2026-11-17T18:33:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>For a long time we have received repeated requests for, or questions about, a curl rewrite in rust. Often as a joke, but also seriously. A joke from years ago In this modern world of AIs, we have only…</summary>
+  </entry>
   <entry>
     <title>NVIDIAが高性能GPUを「拠点はアメリカにあるが実態は中国企業に支配される子会社」に優先販売していた</title>
     <id>https://gigazine.net/news/20261126-nvidia-china-company/</id>
@@ -92,7 +148,7 @@
     <link href="https://zenn.dev/dress_code/articles/88b55221eea4e0" />
     <updated>2026-11-26T11:15:05+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>はじめに こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 並列で設計・実装を進めていると、メモリが足りなくて困ることありませんか？ 多分に漏れず、手元の Mac のメモリが足りず、あまつさえディスクまで圧迫される状態が続いていました。原因を追っていくと TypeScript の型チェックに行き着き、さらに調べると、1 つのクエリの型推論が、全件の型チェックの…</summary>
+    <summary>こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 並列で設計・実装を進めていると、メモリが足りなくて困ることありませんか？ 多分に漏れず、手元の Mac のメモリが足りず、あまつさえディスクまで圧迫される状態が続いていました。原因を追っていくと TypeScript の型チェックに行き着き、さらに調べると、1 つのクエリの型推論が、全件の型チェックの仕事量の約…</summary>
   </entry>
   <entry>
     <title>AWS セキュリティ成熟度モデル v3 と PCI DSS 版・AI 版の変更点と評価ツールを確認する</title>
@@ -404,7 +460,7 @@
     <link href="https://zenn.dev/ruri/articles/distill-specs-after-implementation" />
     <updated>2026-11-25T20:33:06+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 TL;DR spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいものでした。 真実はコードにあります。機能要件・用語・非機能の目標値は、テスト・型・定義箇所のコメントに…</summary>
+    <summary>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいものでした。 真実はコードにあります。機能要件・用語・非機能の目標値は、テスト・型・定義箇所のコメントに移ります。動…</summary>
   </entry>
   <entry>
     <title>iPhone、広告を1回タップするだけでマルウェアに感染の恐れ 日本が主要な標的に</title>
@@ -428,7 +484,7 @@
     <link href="https://zenn.dev/wisevine/articles/97b7ba8db70657" />
     <updated>2026-11-25T09:00:07+09:00</updated>
     <category term="Zenn トレンド" />
-    <summary>1. 自治体ごとに全部違う 入札参加資格は、自治体ごとにやり方が違います。 申請の窓口（電子申請、紙、複数自治体の共同受付） 様式 必要な書類 締切 全国の分を一人でやるのは、正直しんどいです。 これまでは、要綱を読んで、様式を集めて、書類を書いて、を自治体ごとに繰り返していました。 2. 丸投げでも全自動でもなく、伴走してもらう 目指したのは「話しているうちに終わっている」状態です。 調べる、読…</summary>
+    <summary>入札参加資格は、自治体ごとにやり方が違います。 申請の窓口（電子申請、紙、複数自治体の共同受付） 様式 必要な書類 締切 全国の分を一人でやるのは、正直しんどいです。 これまでは、要綱を読んで、様式を集めて、書類を書いて、を自治体ごとに繰り返していました。 目指したのは「話しているうちに終わっている」状態です。 調べる、読む、まとめる、書き込む、は Claude Code と一緒に進める 実印、電…</summary>
   </entry>
   <entry>
     <title>「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず</title>
@@ -749,61 +805,5 @@
     <updated>2026-11-26T05:50:44+09:00</updated>
     <category term="はてブ IT" />
     <summary>1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに...</summary>
-  </entry>
-  <entry>
-    <title>AWS WAF の新料金（simplified pricing）と旧料金を試算して比べてみた | DevelopersIO</title>
-    <id>https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/</id>
-    <link href="https://dev.classmethod.jp/articles/aws-waf-simplified-pricing-estimate/" />
-    <updated>2026-11-25T19:55:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>リソース料金は、web ACL を関連付けたリソース 1 つごとにかかります。10 個のリソースに関連付けた web ACL では、10 リソース分が課金されます。 web ACL、ルール、ルールグループ、キャパシティ、ボディ検査、CAPTCHA、Challenge の料金はなくなります。web ACL あたり 2,500 WCU まで追加料金なしです（従来は 1,50...</summary>
-  </entry>
-  <entry>
-    <title>Migrating our Messages API to Rust</title>
-    <id>https://www.anthropic.com/research/migrating-api-to-rust</id>
-    <link href="https://www.anthropic.com/research/migrating-api-to-rust" />
-    <updated>2026-11-26T02:02:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Many problems have a generator–verifier gap: it’s often far easier to verify that a solution is correct than to come up with one. Sudoku is a classic example. It’s simple to check the solution (just c…</summary>
-  </entry>
-  <entry>
-    <title>【独自】政府、米中に次ぐAI国家確立へ 機微データ保護制度策定も（共同通信） - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/articles/c9e4bb22aadff231ac1deecd7af8ca7a7dd4544d</id>
-    <link href="https://news.yahoo.co.jp/articles/c9e4bb22aadff231ac1deecd7af8ca7a7dd4544d" />
-    <updated>2026-11-25T09:18:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>首相官邸（KYODONEWS） 政府が年内に改定する安全保障関連3文書に盛り込む経済安全保障政策の概要案が判明した。開発競争が過熱する人工知能（AI）分野について、インド太平洋地域で主導的な役割を果たし「米国、中国に次ぐ立ち位置」を確立する目標を明記。他国に依存せず自律性を持つ「AI主権」の考え方を記す。不正...</summary>
-  </entry>
-  <entry>
-    <title>NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開</title>
-    <id>https://pc.watch.impress.co.jp/docs/news/2159286.html</id>
-    <link href="https://pc.watch.impress.co.jp/docs/news/2159286.html" />
-    <updated>2026-11-26T00:35:05+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>NVIDIA、LLM方式の画像生成AI「Nemotron-Labs-Image」を無償公開</summary>
-  </entry>
-  <entry>
-    <title>Button Sounds — tactile SFX for your UI</title>
-    <id>https://buttons.joshwcomeau.com/</id>
-    <link href="https://buttons.joshwcomeau.com/" />
-    <updated>2026-11-25T22:57:27+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>A free collection of 50+ professionally-recorded multi-sampled clicks and toggles. Distributed via NPM.</summary>
-  </entry>
-  <entry>
-    <title>日本語サイトで指定しておきたいCSS 2026年版 - Qiita</title>
-    <id>https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e</id>
-    <link href="https://qiita.com/tofu_frontend/items/6a1bb7d80a58736eef0e" />
-    <updated>2026-11-23T19:33:25+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>text-autospace は3エンジンすべてに実装が入っていますが、一部の値で実装差が残っており、web-features の Baseline 判定はまだ Limited です。 ただしここに挙げたものは全部、非対応ブラウザでは無視されるだけです。レイアウトが壊れることはないので、プログレッシブエンハンスメントとして入れて問題ありません。...</summary>
-  </entry>
-  <entry>
-    <title>Update on a security incident involving 1Password’s backend systems. | 1Password</title>
-    <id>https://1password.com/blog/update-on-nov-2026-security-incident</id>
-    <link href="https://1password.com/blog/update-on-nov-2026-security-incident" />
-    <updated>2026-11-26T03:52:09+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>What happenedOn November 19, 2026, 1Password began investigating indications that an attacker gained access to an employee’s corporate GitHub account. The actor used the account to access source code…</summary>
   </entry>
 </feed>
