@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-26T10:30:13.762617+09:00</updated>
+  <updated>2026-11-26T11:00:13.443332+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/26/2000003446/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/26/2000003446/" />
+    <updated>2026-11-26T10:09:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Microsoftが毎月公開しているWindowsのセキュリティ更新プログラム。11月は1000件以上の脆弱性が修正された。他社の製品も含めると、2026年に入って発見された脆弱性は10万件を超え、すでに25年の倍以上だ。AIの進化に伴い脆弱性の発見とそれを悪用した攻撃が激増する中で、パッチを適用する側はどう対処すればいいの...</summary>
+  </entry>
+  <entry>
+    <title>MetaのAIエージェント Museを1ヶ月使い倒してわかったこと | kinoko dev</title>
+    <id>https://dev.sin5d.com/meta-muse-usage</id>
+    <link href="https://dev.sin5d.com/meta-muse-usage" />
+    <updated>2026-11-26T07:53:15+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>XAIのGrokBot、Nous ResearchのHermes Aagent、OpenAIのChatGPT Bots、などなど、クラウドエージェントタイプのAIが百花繚乱中です。前回の記事でGrokBotについて詳しく書きましたので、今回はGrokBot以上によく使っているMeta社のMuseについてくわしく書いていこうと思います。 執筆時2026/11/25時点での情報なので状況...</summary>
+  </entry>
+  <entry>
+    <title>Skills - Model Context Protocol</title>
+    <id>https://modelcontextprotocol.io/extensions/skills/overview</id>
+    <link href="https://modelcontextprotocol.io/extensions/skills/overview" />
+    <updated>2026-11-26T05:09:24+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>The ext-skills repository contains the published specification for the official Skills extension (io.modelcontextprotocol/skills). SEP-2640 is Final. The Skills Over MCP Working Group maintains the ex…</summary>
+  </entry>
   <entry>
     <title>1Password、一部顧客の氏名やメールアドレスが流出 保管庫内のデータに「影響なし」</title>
     <id>https://www.itmedia.co.jp/news/article/2611/26/2000003466/</id>
@@ -215,12 +239,12 @@
     <summary>紅のTaka @kurenai_taka 送り主がChangeSpotの事務所住所間違えて送っている？ 中野の神田川投棄と言い溜め込んでいた人が処分困って適当に送り付けてるとか？ @CHARGESPOT_JP さんが確認したら最後に借りた人解るから回収してもらうのが良いんだろうけど。 x.com/nekosan_kemono… 2026-11-25 18:36:05 CHARGESPOT(チャ..…</summary>
   </entry>
   <entry>
-    <title>パスワード管理「1Password」でセキュリティインシデント、一部顧客のデータが流出／保管庫の中身やそれを守る鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
+    <title>パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2159320.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/news/2159320.html" />
     <updated>2026-11-26T08:11:01+09:00</updated>
     <category term="はてブ IT" />
-    <summary>パスワード管理「1Password」でセキュリティインシデント、一部顧客のデータが流出／保管庫の中身やそれを守る鍵は無事、招待・復旧メールを装ったフィッシングに注意</summary>
+    <summary>パスワード管理「1Password」でデータ流出、一部顧客の氏名やメールアドレスなど／パスワード保管庫やその鍵は無事、招待・復旧メールを装ったフィッシングに注意</summary>
   </entry>
   <entry>
     <title>CI ランナーを小さくする TypeScript 7 の型チェック設定 - 株式会社ヘンリー エンジニアブログ</title>
@@ -268,7 +292,7 @@
     <link href="https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46" />
     <updated>2026-11-26T05:50:44+09:00</updated>
     <category term="はてブ IT" />
-    <summary>1Passwordは、攻撃者が侵害された従業員のGitHubアカウントを悪用して内部サーバーに悪意のあるコードを仕込み、顧客の氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。同社は、顧客の保管庫（ボールト）には一切アクセスできず、ユーザーのパスワードやシークレ...</summary>
+    <summary>1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに...</summary>
   </entry>
   <entry>
     <title>AWS WAF の新料金（simplified pricing）と旧料金を試算して比べてみた | DevelopersIO</title>
@@ -781,29 +805,5 @@
     <updated>2026-11-25T18:13:49+09:00</updated>
     <category term="はてブ IT" />
     <summary>中小企業の事業承継や買収、合併の仲介などを手がける「MJS M＆Aパートナーズ」は、社内ネットワークが不正アクセスを受け、最大で数千社分の顧客情報が外部に漏えいしたおそれがあると発表しました。 会…</summary>
-  </entry>
-  <entry>
-    <title>Google Search Ranking Hub | Google Search Central | Documentation | Google for Developers</title>
-    <id>https://developers.google.com/search/docs/ranking</id>
-    <link href="https://developers.google.com/search/docs/ranking" />
-    <updated>2026-11-25T10:21:44+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>SEO fundamentals Introduction Search Essentials SEO Starter Guide Optimizing for generative AI search How Google Search Works Do you need an SEO? Crawling and indexing Sitemaps robots.txt Meta tags Cr…</summary>
-  </entry>
-  <entry>
-    <title>AIで学習アプリを作って2週間で宅建に合格した話【テキスト不要】｜Shikimi</title>
-    <id>https://note.com/shikimi_crypto/n/n35d0bb54e6fb</id>
-    <link href="https://note.com/shikimi_crypto/n/n35d0bb54e6fb" />
-    <updated>2026-11-25T18:23:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>見た中では圧倒的に説明がわかりやすい。頭の良い人が頭の良い説明をしとるな～という感じ。無料公開されている動画は高額商材への誘導的な位置づけではあるのですが全体像を掴むには十分。絶対に落ちたくなくて金に糸目も付けないならもう買っちゃったらという気も。2倍速で視聴。 【あこ課長の宅建講座】 網羅的に丁寧...</summary>
-  </entry>
-  <entry>
-    <title>【ドパガキ向け】AI 時代の要求管理 ハンドブックを読もう</title>
-    <id>https://zenn.dev/muroshima/articles/be47515ff9c16e</id>
-    <link href="https://zenn.dev/muroshima/articles/be47515ff9c16e" />
-    <updated>2026-11-25T01:36:20+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>IPA の「AI 時代の要求管理ハンドブック」を読みました。 129ページあって全部追うのは大変なので、重要そうなところだけピックアップしました。 https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf ! とりあえず、3行で 要望と要求と要件は別物。要望から要件へは一足飛びにできない AI を使う要件…</summary>
   </entry>
 </feed>
