@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T03:30:16.305462+09:00</updated>
+  <updated>2026-11-27T04:00:13.424141+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Quadro P2200(VRAM 5GB)でMoE LLMを2種類動かしてみた</title>
+    <id>https://zenn.dev/nooop/articles/00cde2e1a825ad</id>
+    <link href="https://zenn.dev/nooop/articles/00cde2e1a825ad" />
+    <updated>2026-11-26T20:41:19+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>llama.cpp が MoE に対応し、エキスパートの一部を CPU 側の RAM に置くことで高速化できるようになったようです。VRAM 5GB でも35B級のモデルが実用的な速度で動くのか、速度を測ってみました。 NVIDIA Quadro P2200(VRAM 5GB) で、MoE(Mixture of Experts)モデルを動かしてみました。 やったことは llama.cpp の速度計…</summary>
+  </entry>
+  <entry>
+    <title>個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話</title>
+    <id>https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d</id>
+    <link href="https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d" />
+    <updated>2026-11-26T14:35:21+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こちらのイベントで5分LTに登壇したのですが、スライドでは省略したことがかなりあったので記事にしました。 また貴重なイベントに参加させていただきありがとうございましたmm ▼スライドはこちら 普段、業務ではウォーターフォールで開発をしていますが、一時期スクラム開発を実施していた経験もあります。 そのときに触れたアジャイルという考え方が素晴らしく好きなんですが 今回、より一段深くアジャイルを理解する…</summary>
+  </entry>
   <entry>
     <title>🧠Work IQ・Fabric IQ・Foundry IQ・Web IQ って何だっけ？ Microsoft IQ の 4 つを 1 本で整理する - Qiita</title>
     <id>https://qiita.com/aktsmm/items/1a1ef35ee48d7ef665ba?ocid=AID3062894_TWITTER_oo_spl100011804015917</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T09:25:15+09:00</updated>
     <category term="はてブ IT" />
     <summary>今つくっているプロダクトで、Amazon Bedrockを使うことにした。これまで僕はBedrockに利用価値も存在意義もほとんど感じていなかった。 なんで価値を感じていなかったのか。まず「全部AWSでいいじゃん」みたいなノリがあんまり好きじゃない、というのが大前提としてある。 それに加えて、フロンティアモデルを使いたい...</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: 複数のPalo Alto Networks製品に脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#1</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#1" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>複数のPalo Alto Networks製品に脆弱性</summary>
-  </entry>
-  <entry>
-    <title>Weekly Report: Synology DiskStation Managerに複数の脆弱性</title>
-    <id>https://www.jpcert.or.jp/wr/2026/wr261126.html#2</id>
-    <link href="https://www.jpcert.or.jp/wr/2026/wr261126.html#2" />
-    <updated>2026-11-26T09:24:00+09:00</updated>
-    <category term="JPCERT" />
-    <summary>Synology DiskStation Managerに複数の脆弱性</summary>
   </entry>
 </feed>
