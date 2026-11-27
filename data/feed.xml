@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T22:00:18.638080+09:00</updated>
+  <updated>2026-11-27T22:30:14.626618+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Hikvisionのレコーダーの録画を論文を手がかりにSSDから直接取り出す</title>
+    <id>https://zenn.dev/nauh_blog/articles/f5d9201a04db47</id>
+    <link href="https://zenn.dev/nauh_blog/articles/f5d9201a04db47" />
+    <updated>2026-11-27T18:47:02+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは。ナウア株式会社の柳です。 私たちは測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 調査ではカメラの映像をレコーダーに録画することがあり、そのレコーダーの1つがHikvisionの製品です。 Hikvisionのレコーダーから録画を取り出そうとすると、ネットワーク経由での取り出しになってしまいます。 録画が少なければそれで十分ですが、何十台ものレコーダーにそれぞれ24時…</summary>
+  </entry>
+  <entry>
+    <title>業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2159782.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2159782.html" />
+    <updated>2026-11-27T16:28:30+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>業務向け「Copilot」アプリに「Office」を統合、人とエージェントが協働する「Workspaces」も【Ignite 2026】／「Home」は一般提供、自律型の「Autopilot」はFrontier向けに展開開始</summary>
+  </entry>
+  <entry>
+    <title>日本語のFull-duplex音声対話モデルを実際に動かしてみた話</title>
+    <id>https://zenn.dev/knowledgework/articles/12a80d8cd4b21f</id>
+    <link href="https://zenn.dev/knowledgework/articles/12a80d8cd4b21f" />
+    <updated>2026-11-27T11:27:39+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>この記事でわかること 日本語Full-duplex音声対話モデル「J-Moshi-ext」のMLX変換版を、Apple Silicon搭載Macでローカル実行する方法 実際に13回の日本語対話を行って観察した相槌、割り込み、発話タイミングなどの挙動 約4分付近で発話内容が崩れる現象と、コンテキスト長との関係についての考察 音声対話では、何を答えるかに加えて「いつ話すか」が重要です。人間同士の会話で…</summary>
+  </entry>
   <entry>
     <title>はじめての Lean</title>
     <id>https://unaoya.github.io/lean-intro/</id>
@@ -394,8 +418,8 @@
     <title>GitHub ActionsからPATもGitHub App Private Keyも駆逐する</title>
     <id>https://zenn.dev/tmknom/articles/github-app-token-exchange-system</id>
     <link href="https://zenn.dev/tmknom/articles/github-app-token-exchange-system" />
-    <updated>2026-11-27T13:35:43+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-11-27T11:51:13+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹…</summary>
   </entry>
   <entry>
@@ -781,29 +805,5 @@
     <updated>2026-11-26T09:04:55+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>私はBIPROGYのデザイン組織に所属しており、これまで業種・業界を問わず、さまざまな案件のUI/UXデザインに携わってきました。BIPROGYにおけるUI/UXの取り組みについては、以下の記事で詳しく紹介しています。 はじめに 生成AIによるUI生成では、1画面を...</summary>
-  </entry>
-  <entry>
-    <title>【合格体験記】G検定、勉強40時間。本番145問100分はエグい！</title>
-    <id>https://qiita.com/Shinn_Matsumoto/items/310d5eff7fcbcbd044f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Shinn_Matsumoto/items/310d5eff7fcbcbd044f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-25T18:40:00+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>G検定、辛くも合格しました。 2026年11月7日の土曜に自宅で受けて、11月24日に結果が来ました。勉強時間は合わせて40時間くらいで、そのうち20時間は公式テキストを1冊読み切るのに使っています。 使ったのは公式テキスト、問題集に付いているWebアプリ、Udemyの模...</summary>
-  </entry>
-  <entry>
-    <title>AIでアプリを公開したのに、Google検索から誰も来ない。Next.jsで点検する7つの設定</title>
-    <id>https://qiita.com/yuonozawa/items/94e10fdbd52f2433c9ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/yuonozawa/items/94e10fdbd52f2433c9ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-25T15:50:28+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>AIで作ったアプリが動いた。デプロイも成功。URLを教えれば、ちゃんと開ける。 ところが、Google検索からは誰も来ない。 「SEOの設定を忘れた？」「Googleにサイトマップを送ればいい？」「そもそも検索する人がいない？」 これらは似ているようで、確認する場所が違う。...</summary>
-  </entry>
-  <entry>
-    <title>Quadro P2200(VRAM 5GB)でMoE LLMを2種類動かしてみた</title>
-    <id>https://zenn.dev/nooop/articles/00cde2e1a825ad</id>
-    <link href="https://zenn.dev/nooop/articles/00cde2e1a825ad" />
-    <updated>2026-11-26T20:41:19+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>llama.cpp が MoE に対応し、エキスパートの一部を CPU 側の RAM に置くことで高速化できるようになったようです。VRAM 5GB でも35B級のモデルが実用的な速度で動くのか、速度を測ってみました。 NVIDIA Quadro P2200(VRAM 5GB) で、MoE(Mixture of Experts)モデルを動かしてみました。 やったことは llama.cpp の速度計…</summary>
   </entry>
 </feed>
