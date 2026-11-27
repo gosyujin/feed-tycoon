@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T12:30:12.211868+09:00</updated>
+  <updated>2026-11-27T13:00:12.801530+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>航空会社Peach、「KARTE」から最大約944万件の顧客情報漏えい 契約終了後も削除されず残存</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/27/2000003509/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/27/2000003509/" />
+    <updated>2026-11-27T10:21:19+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>格安航空会社のPeach Aviationは11月26日、既に契約を終えていたプレイドのマーケティングサービス「KARTE」に、本来削除済みのはずの顧客情報が残っており、プレイドへの不正アクセスにより、外部に漏えいしたと発表した。対象は氏名や住所などで、最大約944万件（のべ件数）。 Peachは2019年8月1日から2025年8月31日ま...</summary>
+  </entry>
+  <entry>
+    <title>X、「ペアレンタルコントロール」を導入 メッセージ内容は見られず</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/27/2000003506/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/27/2000003506/" />
+    <updated>2026-11-27T07:33:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>米Xは11月25日（現地時間）、13～17歳のユーザーを対象とした「ペアレンタルコントロール」機能の提供を開始したと発表した。保護者は、10代の子どものX利用時間や表示されるコンテンツ、フォロワーやDMの相手などを管理できる。アカウントは子ども本人のものであり続け、保護者が設定を変更するとすべて記録され、子ど...</summary>
+  </entry>
   <entry>
     <title>Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる</title>
     <id>https://gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/</id>
@@ -671,6 +687,14 @@
     <summary>1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、相手の声を聞きながら同時に話すことができる全二重（full-duplex）方式のSpeech-to-Speechモデル「Haru-4B」を取り上げます。従...</summary>
   </entry>
   <entry>
+    <title>AWS セキュリティ成熟度モデル v3 と PCI DSS 版・AI 版の変更点と評価ツールを確認する</title>
+    <id>https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model</id>
+    <link href="https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model" />
+    <updated>2026-11-26T18:37:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！ 皆さんは AWS のセキュリティ運用にセキュリティ成熟度モデルを使用していますか？ AWS 環境のセキュリティ運用で「次に何をやるか」を決めるとき、AWS セキュリティ成熟度モデル（AWS Security Maturity Model）を指針と...</summary>
+  </entry>
+  <entry>
     <title>パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合／OS標準のセキュリティ画面から保存・利用、拡張機能なしでもWebサイトへサインイン</title>
     <id>https://forest.watch.impress.co.jp/docs/news/2159319.html</id>
     <link href="https://forest.watch.impress.co.jp/docs/news/2159319.html" />
@@ -693,14 +717,6 @@
     <updated>2026-11-26T11:15:05+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 並列で設計・実装を進めていると、メモリが足りなくて困ることありませんか？ 多分に漏れず、手元の Mac のメモリが足りず、あまつさえディスクまで圧迫される状態が続いていました。原因を追っていくと TypeScript の型チェックに行き着き、さらに調べると、1 つのクエリの型推論が、全件の型チェックの仕事量の約…</summary>
-  </entry>
-  <entry>
-    <title>AWS セキュリティ成熟度モデル v3 と PCI DSS 版・AI 版の変更点と評価ツールを確認する</title>
-    <id>https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model</id>
-    <link href="https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model" />
-    <updated>2026-11-25T18:41:57+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！ 皆さんは AWS のセキュリティ運用にセキュリティ成熟度モデルを使用していますか？ AWS 環境のセキュリティ運用で「次に何をやるか」を決めるとき、AWS セキュリティ成熟度モデル（AWS Security Maturity Model）を指針として使うケースが多くありました。これま…</summary>
   </entry>
   <entry>
     <title>「そう決まっている」は「そうあるべき」ではない——財源幻想の第三層防衛を解体する : システム設計視点の行動経済学 (68)</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-25T15:13:19+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>オブザーバビリティプラットフォームとしておなじみのNew Relicですが、セキュリティの領域でも非常に強力な機能が提供されています。 その中核を担うのが、今回ご紹介するSecurity RXです。 📌 紹介している機能について 現在、クラウドの脆弱性（誤設定）を検知す...</summary>
-  </entry>
-  <entry>
-    <title>システム思考を使って全体最適を考える ― Systems Thinking in Action 受講記</title>
-    <id>https://qiita.com/HiroyukiHonda/items/5d86711976b97c739e0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/HiroyukiHonda/items/5d86711976b97c739e0b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-25T10:35:55+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに 2026年10月7日、認定LeSSトレーナーである ヴォルフガング・シュテフェンス（Wolfgang Steffens） さん（以下、Wolfさん）のシステム思考研修「Systems Thinking in Action」を受講しました。 私がシステム思考を深...</summary>
-  </entry>
-  <entry>
-    <title>⚡オントロジー入門⚡ 属性とリレーションシップとは？Data PropertyとObject Propertyの違いをOntoBricksで理解する</title>
-    <id>https://qiita.com/mellowlaunch/items/93123b9f53e6668fe876?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mellowlaunch/items/93123b9f53e6668fe876?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-25T07:32:04+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>📚 参考書籍 ※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。 『ゼロから触ってわかった！ Databricksで学ぶオントロジー完全ガイド ― 概念・知識グラフ・推論か...</summary>
   </entry>
 </feed>
