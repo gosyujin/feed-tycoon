@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T02:30:13.277507+09:00</updated>
+  <updated>2026-11-28T03:00:15.649770+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>【資料公開】コードを書くAI、アーキテクチャーを決める組織</title>
+    <id>https://www.ryuzee.com/contents/blog/14629</id>
+    <link href="https://www.ryuzee.com/contents/blog/14629" />
+    <updated>2026-11-27T20:42:28+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>みなさんこんにちは。@ryuzeeです。 2026年11月27日に開催されたアーキテクチャConference 2026で、「コードを書くAI、アーキテクチャーを決める組織」というテーマで登壇したので、資料を公開します（同じテーマでの社内講演依頼もお気軽にどうぞ！）。 AIがコードを書くのがあたりまえになって、コードを書くコストは...</summary>
+  </entry>
+  <entry>
+    <title>AIエージェントにWebのファイルを取得させるリスクについて考える</title>
+    <id>https://zenn.dev/layerx/articles/65b4828efcaee2</id>
+    <link href="https://zenn.dev/layerx/articles/65b4828efcaee2" />
+    <updated>2026-11-27T10:48:19+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>こんにちは、LayerX Ai Workforce事業部でFDE（Forward Deployed Engineer）をしている工藤です。 AIエージェントに仕事を任せると、「Webにある資料を読ませたい」という要望が出てきます。例えば、IR資料、開示資料、業界レポートといったものです。人間なら検索してPDFを開くだけの作業です。 ところが、エージェントに「任意のURLからファイルを取ってきて読む…</summary>
+  </entry>
   <entry>
     <title>DNAで『マインクラフト』のように立体構造を構築する技術が登場、合計400個のDNAブロックでナノサイズの複雑な構造の形成に成功</title>
     <id>https://gigazine.net/news/20261127-dna-polycube-like-minecraft/</id>
@@ -506,8 +522,8 @@
     <title>GitHub ActionsからPATもGitHub App Private Keyも駆逐する</title>
     <id>https://zenn.dev/tmknom/articles/github-app-token-exchange-system</id>
     <link href="https://zenn.dev/tmknom/articles/github-app-token-exchange-system" />
-    <updated>2026-11-27T13:35:43+09:00</updated>
-    <category term="はてブ IT" />
+    <updated>2026-11-27T11:51:13+09:00</updated>
+    <category term="Zenn トレンド" />
     <summary>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹…</summary>
   </entry>
   <entry>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T10:15:13+09:00</updated>
     <category term="はてブ IT" />
     <summary>エンジニア2人・8ヶ月で新規事業を立ち上げる──「フルAI開発」のふりかえり こんにちは、コネヒト株式会社で働く北島と申します。社内ではしょうぽんと呼ばれています。 2026年10月、ママリの新規事業として「ママリレシートエール」を本格リリースしました。2月の立ち上げから約8ヶ月、営業・企画・デザイン・開発が横...</summary>
-  </entry>
-  <entry>
-    <title>Aniwaffle | Expressive, lovable AI voices for your characters</title>
-    <id>https://aniwaffle.com/</id>
-    <link href="https://aniwaffle.com/" />
-    <updated>2026-11-26T20:26:19+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Expressive, playful TTS for real-time conversations that bring your characters to life. Studio and API access are invite-only for now. Listen to the samples below, or request an invitation to try it y…</summary>
-  </entry>
-  <entry>
-    <title>Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp</title>
-    <id>https://gihyo.jp/article/2026/11/skills-over-mcp</id>
-    <link href="https://gihyo.jp/article/2026/11/skills-over-mcp" />
-    <updated>2026-11-26T18:44:20+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Anthropic⁠⁠、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks⁠⁠、Elicitationの一般提供も開始 Anthropicは2026年11月24日、ClaudeおよびClaude Codeにおいて、MCPサーバーがスキルを配信できる「Skills over MCP」などの新機能の提供開始を発表した。 MCP servers can…</summary>
   </entry>
 </feed>
