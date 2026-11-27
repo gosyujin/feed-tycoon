@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T21:00:17.575871+09:00</updated>
+  <updated>2026-11-27T21:30:17.074884+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録</title>
+    <id>https://gigazine.net/news/20261127-payphone-on-pacific-island/</id>
+    <link href="https://gigazine.net/news/20261127-payphone-on-pacific-island/" />
+    <updated>2026-11-27T15:05:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>南太平洋に浮かぶオーストラリア領のノーフォーク島で携帯電話網を運営する通信技術者のニック氏らが、中古の公衆電話機をアメリカから調達し、島に設置しました。公衆電話の設置から既存の通信網への接続、AIを活用した独自のサービスの実装までの一連の経緯を、ニック氏が自身のブログで公開しています。 Deploying a ...</summary>
+  </entry>
+  <entry>
+    <title>さくさく作れる毎日を支える、AI 時代の開発環境 — 隔離・コンテキスト・ガードレール・検証の整理 - [はてなCMS] 電通総研 テックブログ</title>
+    <id>https://tech.dentsusoken.com/entry/2026/11/27/133501</id>
+    <link href="https://tech.dentsusoken.com/entry/2026/11/27/133501" />
+    <updated>2026-11-27T14:00:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2....</summary>
+  </entry>
   <entry>
     <title>Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs</title>
     <id>https://ikotaslabs.com/news/2026-11-27</id>
@@ -346,8 +362,8 @@
     <title>GitHub ActionsからPATもGitHub App Private Keyも駆逐する</title>
     <id>https://zenn.dev/tmknom/articles/github-app-token-exchange-system</id>
     <link href="https://zenn.dev/tmknom/articles/github-app-token-exchange-system" />
-    <updated>2026-11-27T11:51:13+09:00</updated>
-    <category term="Zenn トレンド" />
+    <updated>2026-11-27T13:35:43+09:00</updated>
+    <category term="はてブ IT" />
     <summary>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹…</summary>
   </entry>
   <entry>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T11:05:57+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Agent Skills を作るとき、人の判断を手順と導入先の環境から切り出して別のスキルに置く。 切り出した判断は、人によって答えが分かれるもの（中核判断）と、誰でも同じ答えになるもの（一般的な業務知識）に分ける。 前者は人ごとに差し替えて使い、後者はみんなで育てる。こうすると、作った人の視点を残したままスキルを共有できる、というのがこの文書の仮説である。 考え方だけを知りたいときは、「仮説」と…</summary>
-  </entry>
-  <entry>
-    <title>「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2159560.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2159560.html" />
-    <updated>2026-11-26T18:47:01+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能</summary>
-  </entry>
-  <entry>
-    <title>TenkaCloudSimulator 開発日記：ChatGPTのDotで開発が自律的に続く仕組みをつくる</title>
-    <id>https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126</id>
-    <link href="https://zenn.dev/bull/articles/tenkacloud-simulator-devlog-20261126" />
-    <updated>2026-11-26T12:59:02+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>この記事は2026年11月時点の開発記録です。TenkaCloudSimulatorの実装を、ChatGPTのDotとサブエージェントで進めています。今回は、Issueを渡してから実装、レビュー、マージまで回すために、実際に入れた設定と、途中でやめた設定を紹介します。 AWSのAPIを使うアプリが手元で動くかを確認するだけなら、対応済みの機能はAWS公式エミュレーターをそのまま使えば十分です。公式…</summary>
   </entry>
 </feed>
