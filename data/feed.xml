@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T11:00:12.641605+09:00</updated>
+  <updated>2026-11-27T11:30:17.066878+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>gh-ostで2,500万行のテーブル変更をクエリ待ち1.31秒で通した話：Aurora MySQLへの導入と本番クローンでの検証 - Findy Tech Blog</title>
+    <id>https://tech.findy.co.jp/entry/2026/11/27/070000</id>
+    <link href="https://tech.findy.co.jp/entry/2026/11/27/070000" />
+    <updated>2026-11-27T09:33:14+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>こんにちは、ファインディでFindy Team+の開発をしているrobinです。 Findy Team+のバックエンドには数千万〜数億行を持つ巨大テーブルが複数あります。これらのテーブルを変更する手段はオンラインDDLしかなく、変更中の負荷をコントロールできませんでした。そこでGitHub製OSSのgh-ostを導入したところ、2,500万行のテ...</summary>
+  </entry>
+  <entry>
+    <title>AI使って開発するなら、モデリングするんだよ - 4つの図で始めるモデリングと、AIにモデルを実装させるアーキテクチャ</title>
+    <id>https://speakerdeck.com/littlehands/umtp-suraido-20261125</id>
+    <link href="https://speakerdeck.com/littlehands/umtp-suraido-20261125" />
+    <updated>2026-11-27T08:54:33+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>UMTP モデリングフォーラム 2026（2026/11/25）での登壇資料です。 https://umtp-japan.org/event-seminar/mf2026/78668 AIで実装が速くなった今、人に残る仕事は何か。それは、問題を理解し、解決策を立てて確かめる「問題解決力」だと考え…</summary>
+  </entry>
+  <entry>
+    <title>Claude Artifact</title>
+    <id>https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah</id>
+    <link href="https://claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah" />
+    <updated>2026-11-26T22:47:51+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Try out Artifacts created by Claude users</summary>
+  </entry>
+  <entry>
+    <title>WordPressのシェア低下をどう見るか——使っている人、静的HTMLやEmDashへ動く人の違い | WP Calm</title>
+    <id>https://www.wpcalm.jp/topic/wordpress-market-share-decline-static-html-and-new-cms/</id>
+    <link href="https://www.wpcalm.jp/topic/wordpress-market-share-decline-static-html-and-new-cms/" />
+    <updated>2026-11-26T17:55:17+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>Web技術の調査でWordPressのシェアが数ポイント下がったという話題をきっかけに、SNSなどでは「WordPressはもう終わりに向かっている」「これからはAIによる静的サイトや新しいCMSへ移るべきだ」といった声を見かけることが増えました。現在WordPressで企業サイトやメディアを運営している担当者からすれば、「今のまま...</summary>
+  </entry>
   <entry>
     <title>米、スペースXに衛星100万基の配備承認 宇宙にAIデータセンター構築へ</title>
     <id>https://www.cnn.co.jp/usa/35255487.html</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-26T13:11:50+09:00</updated>
     <category term="はてブ IT" />
     <summary>日産自動車が中国の合弁会社で生産するプラグインハイブリッド車（PHV）を日本に輸入して販売する方向で調整していることがわかった。開発スピードや製造コストで強みのある中国を輸出拠点に位置付け、国内市場向けでも活用する。PHV2車種の逆輸入検討海外からの日本車輸入は「逆輸入」と呼ばれる。日産が中国からの逆輸...</summary>
-  </entry>
-  <entry>
-    <title>GoogleのAIが人間の介入なしに6本の数学論文を生成、素因数分解など数十年停滞していた分野に光</title>
-    <id>https://gigazine.net/news/20261126-cogentic-6-research-papers/</id>
-    <link href="https://gigazine.net/news/20261126-cogentic-6-research-papers/" />
-    <updated>2026-11-26T12:01:56+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Googleの研究部門であるGoogle Researchが、6つの数学論文をGitHubに投稿しました。これらの論文は全て、Gemini 4をベースとする数学的発見を行うためのマルチエージェントシステム「Cogentic」が生成しています。 google-research/cogentic_research_papers at master · google-research/google-re…</summary>
-  </entry>
-  <entry>
-    <title>ニート寸前の女子大生→“ChatGPTを使い倒して”未経験で100日連続アプリ開発→国際学会で発表…年収2000万円・25歳経営者の“生成AIで激変した人生” | 文春オンライン</title>
-    <id>https://bunshun.jp/articles/-/93682</id>
-    <link href="https://bunshun.jp/articles/-/93682" />
-    <updated>2026-11-26T10:24:43+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>◆◆◆ 授業中にゲーム、ウィキペディアを組み合わせレポート提出…GPA0.9で落第寸前だった ――AIを使いこなす前の大塚さんは、どんな大学生活を送っていたのですか。 大塚あみさん（以下、大塚） 多分、びっくりするぐらい普通だと思います。朝10時半くらいに起きて、10時50分の授業のために小走りで学校に行って、授業に少...</summary>
-  </entry>
-  <entry>
-    <title>AI Agentを用いたSCP観測日誌ベンチマークの自動作成（と検証）</title>
-    <id>https://zenn.dev/holy_fox/articles/07d9a0537db3bf</id>
-    <link href="https://zenn.dev/holy_fox/articles/07d9a0537db3bf" />
-    <updated>2026-11-25T16:03:21+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>はじめに AIが開発や業務のさまざまな場面で使われるようになり、モデルを選ぶためのベンチマークがこれまで以上に求められています。どのタスクでどのモデルがどれくらい通用するのか、そしてどれが最もコストパフォーマンスに優れているのかを見極める必要が出てきたからです。 無条件に最も性能の高いモデルを使えば、タスクの成功率は上がります。ただ、AIを長期的に使い続けて処理量が増えていくと、1回あたりの推論コ…</summary>
-  </entry>
-  <entry>
-    <title>【さくらのレンタルサーバ】セキュリティ強化に伴うコンパイル・ビルド関連コマンド等の停止に関するお知らせ | さくらインターネット</title>
-    <id>https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226380/</id>
-    <link href="https://www.sakura.ad.jp/corporate/information/announcements/2026/11/26/1968226380/" />
-    <updated>2026-11-26T14:50:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>お客さま各位 平素よりさくらインターネットをご利用いただき、誠にありがとうございます。 セキュリティ対策強化の一環として、「さくらのレンタルサーバ」において、コンパイル・ビルドに関連する一部コマンドおよび「crontab」コマンドの利用を停止いたします。 本対応は2026年12月3日（木）から12月10日（木）にかけ...</summary>
   </entry>
 </feed>
