@@ -2,10 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T05:30:12.978887+09:00</updated>
+  <updated>2026-11-28T06:00:13.701136+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>シンプルな構文で美しい図を自動生成する「D2」が進化、非営利化で独自レイアウトエンジンもオープンソース化</title>
+    <id>https://gigazine.net/news/20261127-d2/</id>
+    <link href="https://gigazine.net/news/20261127-d2/" />
+    <updated>2026-11-27T23:05:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>テキストで図形や矢印の関係を記述するだけで図を自動生成できる「D2」は、2022年に基本的な使い方をレビューしました。その後は手描き風のデザインやアニメーション、ターミナルでも表示できるASCII出力などに対応し、図の表現方法が広がっています。2026年9月には運営体制が非営利に切り替わり、独自の自動配置エンジ...</summary>
+  </entry>
   <entry>
     <title>大阪大学、学生と教職員のメアド5万件漏洩 アララへの不正アクセス - 日本経済新聞</title>
     <id>https://www.nikkei.com/article/DGXZQOUF272NY0X21C26A1000000/</id>
@@ -578,8 +586,8 @@
     <title>GitHub ActionsからPATもGitHub App Private Keyも駆逐する</title>
     <id>https://zenn.dev/tmknom/articles/github-app-token-exchange-system</id>
     <link href="https://zenn.dev/tmknom/articles/github-app-token-exchange-system" />
-    <updated>2026-11-27T11:51:13+09:00</updated>
-    <category term="Zenn トレンド" />
+    <updated>2026-11-27T13:35:43+09:00</updated>
+    <category term="はてブ IT" />
     <summary>GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹…</summary>
   </entry>
   <entry>
@@ -797,13 +805,5 @@
     <updated>2026-11-27T05:08:22+09:00</updated>
     <category term="はてブ IT" />
     <summary>【読売新聞】 愛媛県内のある町役場。情報システムの保守管理業務などを担当する男性職員（４５）は、「自分がいなくなったらサイバー攻撃対策などの業務はどうなるのだろうか」という不安を抱えている。 男性は２０１０年度に民間企業から役場に転</summary>
-  </entry>
-  <entry>
-    <title>これが「雨天時の衛星写真」、日本の宇宙ベンチャーQPS研究所が公開 愛媛県松山市を撮影</title>
-    <id>https://japan.cnet.com/article/35255433/</id>
-    <link href="https://japan.cnet.com/article/35255433/" />
-    <updated>2026-11-26T12:16:23+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>衛星に搭載した合成開口レーダー（SAR）は、地表に向けてマイクロ波を照射し、反射して戻ってきた信号をもとに画像を生成する。雲や雨の影響を受けにくく、夜間でも地表を観測できる。同社によると、松山市の画像の1画素は、地上の約46cm×36cm（衛星の進行方向×それに直交する方向）に相当する。 ワダツミ-Ⅱは、同社が開...</summary>
   </entry>
 </feed>
