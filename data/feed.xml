@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T15:00:15.832702+09:00</updated>
+  <updated>2026-11-27T15:30:13.132278+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>サブスクの「お試し→自動更新」は客を逃していた？ 新規購読者数は「お試し→自動解約」比23％減 140万人で実験</title>
+    <id>https://www.itmedia.co.jp/news/article/2611/27/2000003503/</id>
+    <link href="https://www.itmedia.co.jp/news/article/2611/27/2000003503/" />
+    <updated>2026-11-27T12:22:23+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2019年の開始以来、多様な最新論文を取り上げている連載「Innovative Tech」。ここではその番外編として“ちょっと昔”に発表された世界中の個性的な研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、日課として数多くの論文に目を通す山下氏が担当。イラストや漫画は、同...</summary>
+  </entry>
+  <entry>
+    <title>止められないDBをAWS DMSで移行してハマったこと（RDS for Oracle）</title>
+    <id>https://zenn.dev/kiri0728/articles/c8d5f349b047dd</id>
+    <link href="https://zenn.dev/kiri0728/articles/c8d5f349b047dd" />
+    <updated>2026-11-27T11:37:34+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>RDS for Oracle（約150GB）を、DMSのフルロード＋CDCで旧AWS環境から新AWS環境へ移行し、停止時間は約10分に抑えられた CDCで差分が同期されなかった原因は、移行元RDSでサプリメンタルロギングとアーカイブログ保持が未設定だったこと。RDSでは rdsadmin のプロシージャで設定する 接続テストのORA-12545は、IPアドレスを直接指定して名前解決の問題だと切り分…</summary>
+  </entry>
   <entry>
     <title>「プレステの父」がXboxを誕生させた？ 久夛良木健氏が明かしたマイクロソフトとの駆け引き（多根清史） - エキスパート - Yahoo!ニュース</title>
     <id>https://news.yahoo.co.jp/expert/articles/f6b89482633cedb0ff3e4939d53b1bfdead8a8ca</id>
@@ -319,7 +335,7 @@
     <summary>user: ソース動画のタイトル、そしてこの動画の内容について教えてください。 Gemini: ご提示いただいたソース動画のタイトル、ならびにその詳細な内容について解説します。 1. ソース動画のタイトル ソース動画のタイトルは、『日本の相続税と固定資産税に潜む致...</summary>
   </entry>
   <entry>
-    <title>AIコーディングで再び出会うTDD・BDD・仕様駆動開発</title>
+    <title>AI時代なのに、なぜ私たちは昔の開発手法に戻っているのか？</title>
     <id>https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
     <link href="https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
     <updated>2026-11-26T15:47:52+09:00</updated>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T09:23:21+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>Kafkaを使うアプリで画面の更新が遅くなったとき、Kafkaにイベントがたまっているのか、アプリ内の処理が詰まっているのか。New Relic MCPと公式のKafka Skillを使い、100人分の負荷をかけた配信ゲームで切り分けを試しました。Kafkaの滞留、APIの...</summary>
-  </entry>
-  <entry>
-    <title>【備忘録】AIが書いたコードを自分で理解するための習慣 ― 「動いた」で手を離さない</title>
-    <id>https://qiita.com/Tadataka_Takahashi/items/f47f216fb76fff654336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Tadataka_Takahashi/items/f47f216fb76fff654336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-26T01:23:47+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに AIにコードを書いてもらうと、数秒で動くものが手に入ります。便利な一方で、後からそのコードを直そうとしたときに「これ、なぜこう書いてあるんだっけ」と手が止まることが増えました。 この記事では、AIが書いたコードを自分の理解として残すために続けている7つの習慣を整...</summary>
-  </entry>
-  <entry>
-    <title>SBOMとは？自分のライブラリに導入してみた。</title>
-    <id>https://qiita.com/ei_1263_/items/840a4797038ce7c62052?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/ei_1263_/items/840a4797038ce7c62052?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-26T00:32:57+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>SBOMとは？自分のライブラリに導入してみた。 はじめに 近年、ソフトウェアサプライチェーンのセキュリティが重要視されるようになり、SBOM（Software Bill of Materials）という言葉を目にする機会が増えてきました。 SBOMは簡単に言えば、ソフト...</summary>
   </entry>
 </feed>
