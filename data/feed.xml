@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T16:30:13.727779+09:00</updated>
+  <updated>2026-11-27T17:00:12.416978+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>Devin Bot に毎朝のパフォーマンス改善を任せてみた - kickflow Tech Blog</title>
+    <id>https://tech.kickflow.co.jp/entry/2026/11/27/154920</id>
+    <link href="https://tech.kickflow.co.jp/entry/2026/11/27/154920" />
+    <updated>2026-11-27T16:33:50+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>毎朝規則正しく巡回してくれる Devin こんにちは。エンジニアの芳賀です。 ループエンジニアリング、流行ってますね！ さて、2026年11月17日、Cognition が Devin の新機能「Devin Bots」を発表しました。 ひと言でいうと、タスク単位ではなく成果単位で Devin に仕事を任せる機能です。 ということで、発表を見て早速 B...</summary>
+  </entry>
+  <entry>
+    <title>なぜ、AIはRustのC言語に対する優位性を尽く潰したのか？</title>
+    <id>https://zenn.dev/pdfractal/articles/832b84c9e89f3f</id>
+    <link href="https://zenn.dev/pdfractal/articles/832b84c9e89f3f" />
+    <updated>2026-11-27T08:06:38+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに Rustは、C言語やC++が抱えるメモリ安全性の問題の多くを、所有権や借用といった言語仕様によって防止することを特徴とするプログラミング言語です。ガベージコレクションを必要とせず、実行性能を維持しながらメモリ安全性を確保できることから、OSや組み込みソフトウェアの開発において、C言語に代わる存在と...</summary>
+  </entry>
   <entry>
     <title>止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」</title>
     <id>https://www.itmedia.co.jp/news/article/2611/27/2000003517/</id>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T09:31:26+09:00</updated>
     <category term="はてブ IT" />
     <summary>1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、相手の声を聞きながら同時に話すことができる全二重（full-duplex）方式のSpeech-to-Speechモデル「Haru-4B」を取り上げます。従...</summary>
-  </entry>
-  <entry>
-    <title>AWS セキュリティ成熟度モデル v3 と PCI DSS 版・AI 版の変更点と評価ツールを確認する</title>
-    <id>https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model</id>
-    <link href="https://zenn.dev/cscloud_blog/articles/new-aws-security-maturity-model" />
-    <updated>2026-11-26T18:37:48+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、CSC の CloudFastener というプロダクトで TAM のポジションで働いている平木です！ 皆さんは AWS のセキュリティ運用にセキュリティ成熟度モデルを使用していますか？ AWS 環境のセキュリティ運用で「次に何をやるか」を決めるとき、AWS セキュリティ成熟度モデル（AWS Security Maturity Model）を指針と...</summary>
-  </entry>
-  <entry>
-    <title>パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合／OS標準のセキュリティ画面から保存・利用、拡張機能なしでもWebサイトへサインイン</title>
-    <id>https://forest.watch.impress.co.jp/docs/news/2159319.html</id>
-    <link href="https://forest.watch.impress.co.jp/docs/news/2159319.html" />
-    <updated>2026-11-26T16:18:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>パスワード管理アプリ「Bitwarden」がWindows 11/macOSのパスキー機能と統合／OS標準のセキュリティ画面から保存・利用、拡張機能なしでもWebサイトへサインイン</summary>
   </entry>
 </feed>
