@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T18:30:12.710589+09:00</updated>
+  <updated>2026-11-27T19:00:15.015284+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>NVIDIA・ATI・3dfxの往年のGPUデモ36種類をブラウザ上で楽しめる「GPU Demo Gallery」</title>
+    <id>https://gigazine.net/news/20261127-gpu-demo-gallery/</id>
+    <link href="https://gigazine.net/news/20261127-gpu-demo-gallery/" />
+    <updated>2026-11-27T10:45:26+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAやATI、3dfxなどのグラフィックスカードメーカーは、かつて新製品の性能や新たな描画技術をアピールするために、さまざまな3Dグラフィックスのデモを公開していました。そんな往年のGPUデモ36種類を、オリジナルのファイルを基に再構築してブラウザ上で動作するようにした「GPU Demo Gallery」が個人開発者のアー...</summary>
+  </entry>
+  <entry>
+    <title>『Slay the Spire 2』のアセンション10に“80％勝てるAI”は、エリートにカチこみしっかり休む。それと毒デッキをやけに擦る。なぜ？弱みはどこ？研究者に訊いた - AUTOMATON</title>
+    <id>https://automaton-media.com/articles/interviewsjp/20261127-481245/</id>
+    <link href="https://automaton-media.com/articles/interviewsjp/20261127-481245/" />
+    <updated>2026-11-27T10:17:00+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>有志による非公式データベース「Spire Codex」に収録された人間のプレイデータでは、フールを含む6キャラクターそれぞれのアセンション10の勝率が10.9～19.9％となっていることを踏まえると、極めて高い勝率を出していることがわかるだろう。とはいえ、AlphaDefectの勝率を超えるトッププレイヤーがいることも事実だ。 ...</summary>
+  </entry>
   <entry>
     <title>顧客情報を守るため、売上15％の自社ECを閉店 ドールメーカーが明かした「決断」の背景</title>
     <id>https://www.itmedia.co.jp/news/article/2611/27/2000003518/</id>
@@ -674,9 +690,9 @@
     <title>迷惑メール対策をしているのに、なぜ詐欺メールは届くのか</title>
     <id>https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</id>
     <link href="https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars" />
-    <updated>2026-11-27T06:24:21+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>見慣れたパターンの詐欺メールばかりですね。では、なぜこれらが止まらなかったのでしょうか。 送信元の認証を確認してみる まずは送信元の認証（SPF・DKIM・DMARC）がどうなっていたかを確認します。 ざっくり言うと、これらは「本当にそのドメインから送られてきたメールか？」を確かめる仕組みです。 SPF：ドメインの...</summary>
+    <updated>2026-11-26T23:08:33+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>つい先日、知り合いがメールの受け取りを「キャッチオール」にしてみたそうです。 キャッチオールとは？ 特定の宛先（ローカル部）を決めず、ドメイン全体に届いたメールをまるごと受け取る設定のこと。 すると、1 時間も経たないうちに迷惑メールが数十通届き、しかもそのすべてが詐欺メールだったとのこと。 「キャッチオールでも迷惑メールフィルターや SPF などの認証は動いているはずなのに、なぜすり抜けて受信箱…</summary>
   </entry>
   <entry>
     <title>人の判断を切り出すAgent Skillsの設計（v7.0.2）</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-26T21:42:06+09:00</updated>
     <category term="はてブ IT" />
     <summary>Genarative UI における Jev の活用事例について紹介します。</summary>
-  </entry>
-  <entry>
-    <title>GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定</title>
-    <id>https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/</id>
-    <link href="https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/" />
-    <updated>2026-11-26T20:08:57+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 GPT 6.2 Astra Solves a Historical Mystery https://generativehistory.substack.com/p/gpt-62-a…</summary>
-  </entry>
-  <entry>
-    <title>Linux上で完全なmacOS GUIユーザー空間を実現する「xnulinux」</title>
-    <id>https://gigazine.net/news/20261126-xnu-linux/</id>
-    <link href="https://gigazine.net/news/20261126-xnu-linux/" />
-    <updated>2026-11-26T07:46:10+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>Linux環境上でmacOSのGUIユーザー空間を実行可能にする「xnulinux」がオープンソースプロジェクトとして開発されています。macOSのオープンソースカーネルであるXNUをLinuxカーネルモジュールとして直接実行するのが特徴で、すでにApple Silicon Mac上のLinux仮想環境やNVIDIA DGX Sparkといったarm64 Linux環境で動作が...</summary>
   </entry>
 </feed>
