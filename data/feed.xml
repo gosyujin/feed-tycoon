@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-27T21:30:17.074884+09:00</updated>
+  <updated>2026-11-27T22:00:18.638080+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>はじめての Lean</title>
+    <id>https://unaoya.github.io/lean-intro/</id>
+    <link href="https://unaoya.github.io/lean-intro/" />
+    <updated>2026-11-27T20:19:18+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>この教材の目的は、Lean のコードを書けるようになることではなく、証明が検査される仕組みを納得することである。 目標目標1 — Lean を読めるようになる。Lean のコードを読むとは、書かれた項の型を推測することである。そしてこの推測は機械的な手順で実行できる——だからコンピュータにも実行できる。実際に自分の手...</summary>
+  </entry>
+  <entry>
+    <title>中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告</title>
+    <id>https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/</id>
+    <link href="https://gigazine.net/news/20261127-asml-ceo-warn-to-export-ban/" />
+    <updated>2026-11-27T12:48:16+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>世界最大の半導体露光装置メーカーとして知られるオランダ・ASMLのクリストフ・フーケCEOが、半導体などの最先端技術を守るための輸出規制はある程度必要だと認めた一方で、過度な規制は中国の国内開発体制の強化につながるだけだと警告しています。 The Case For Selling Chips To China, with ASML's Christophe Fouqu...</summary>
+  </entry>
+  <entry>
+    <title>Claudeによるリーマン予想の形式証明、コード約7万6000行に短縮。独立検証も通過</title>
+    <id>https://joho-todai.com/claude-riemann-hypothesis-formal-proof-76000-lines/</id>
+    <link href="https://joho-todai.com/claude-riemann-hypothesis-formal-proof-76000-lines/" />
+    <updated>2026-11-26T23:07:54+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>公開者によればLeanのコードと付属文書を書いたのはClaude。旧版の証明方法を踏襲しながら多くの中間段階で異なる証明を採用している。コードの整理に加えて数学的な論証そのものにも手が入った。 両版が証明するのは従来版と一致する5つの数学的命題。リーマンゼータ関数の自明でない零点（関数の値が0になる点）の実部...</summary>
+  </entry>
+  <entry>
+    <title>トクリュウ対策はまず戸締りを怠らないこと、防犯フィルムや補助ロックなどを設置してとにかく家に入らせないよう徹底的に守りを固めるところから始めよう</title>
+    <id>https://togetter.com/li/2774418</id>
+    <link href="https://togetter.com/li/2774418" />
+    <updated>2026-11-26T17:38:07+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>大吉武具店 @DaikichiHappxw トクリュウの防犯として、まず戸締まりを怠らないこと。 シャッター雨戸などあれば面倒でも日が暮れないうちに閉める。 玄関だけでなく家の死角になる場所にも防犯ライトを設置する。 狙われた後でなく、まず狙われないようにすることも大事。 2026-11-21 22:09:51 カタリベ @DiaryZooey そ...</summary>
+  </entry>
   <entry>
     <title>サンタクロースと無料で話せる公衆電話を南太平洋の小さな島に設置した通信技術者の記録</title>
     <id>https://gigazine.net/news/20261127-payphone-on-pacific-island/</id>
@@ -773,37 +805,5 @@
     <updated>2026-11-26T20:41:19+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>llama.cpp が MoE に対応し、エキスパートの一部を CPU 側の RAM に置くことで高速化できるようになったようです。VRAM 5GB でも35B級のモデルが実用的な速度で動くのか、速度を測ってみました。 NVIDIA Quadro P2200(VRAM 5GB) で、MoE(Mixture of Experts)モデルを動かしてみました。 やったことは llama.cpp の速度計…</summary>
-  </entry>
-  <entry>
-    <title>個人の目標設定に悩んでいたら、アジャイルが言葉を定義し直すきっかけをくれた話</title>
-    <id>https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d</id>
-    <link href="https://zenn.dev/yoshipon_tech/articles/a0e13c3dbd2f7d" />
-    <updated>2026-11-26T14:35:21+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こちらのイベントで5分LTに登壇したのですが、スライドでは省略したことがかなりあったので記事にしました。 また貴重なイベントに参加させていただきありがとうございましたmm ▼スライドはこちら 普段、業務ではウォーターフォールで開発をしていますが、一時期スクラム開発を実施していた経験もあります。 そのときに触れたアジャイルという考え方が素晴らしく好きなんですが 今回、より一段深くアジャイルを理解する…</summary>
-  </entry>
-  <entry>
-    <title>🧠Work IQ・Fabric IQ・Foundry IQ・Web IQ って何だっけ？ Microsoft IQ の 4 つを 1 本で整理する - Qiita</title>
-    <id>https://qiita.com/aktsmm/items/1a1ef35ee48d7ef665ba?ocid=AID3062894_TWITTER_oo_spl100011804015917</id>
-    <link href="https://qiita.com/aktsmm/items/1a1ef35ee48d7ef665ba?ocid=AID3062894_TWITTER_oo_spl100011804015917" />
-    <updated>2026-11-26T21:15:07+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>🧠Work IQ・Fabric IQ・Foundry IQ・Web IQ って何だっけ？ Microsoft IQ の 4 つを 1 本で整理するMicrosoft365workiqMCPMicrosoftFabric駆け出しアーキテクト こんにちは、IQ が増えすぎて「Fabric IQ ってなんだっけ？ Foundry IQ は？ Web IQ は？」と毎回なるアーキテクトのやまぱん！です 😅…</summary>
-  </entry>
-  <entry>
-    <title>迷惑メール対策をしているのに、なぜ詐欺メールは届くのか</title>
-    <id>https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</id>
-    <link href="https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars" />
-    <updated>2026-11-26T23:08:33+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>つい先日、知り合いがメールの受け取りを「キャッチオール」にしてみたそうです。 キャッチオールとは？ 特定の宛先（ローカル部）を決めず、ドメイン全体に届いたメールをまるごと受け取る設定のこと。 すると、1 時間も経たないうちに迷惑メールが数十通届き、しかもそのすべてが詐欺メールだったとのこと。 「キャッチオールでも迷惑メールフィルターや SPF などの認証は動いているはずなのに、なぜすり抜けて受信箱…</summary>
-  </entry>
-  <entry>
-    <title>人の判断を切り出すAgent Skillsの設計（v7.0.2）</title>
-    <id>https://zenn.dev/jayt/articles/agent-skills-judgment-extraction</id>
-    <link href="https://zenn.dev/jayt/articles/agent-skills-judgment-extraction" />
-    <updated>2026-11-26T11:05:57+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Agent Skills を作るとき、人の判断を手順と導入先の環境から切り出して別のスキルに置く。 切り出した判断は、人によって答えが分かれるもの（中核判断）と、誰でも同じ答えになるもの（一般的な業務知識）に分ける。 前者は人ごとに差し替えて使い、後者はみんなで育てる。こうすると、作った人の視点を残したままスキルを共有できる、というのがこの文書の仮説である。 考え方だけを知りたいときは、「仮説」と…</summary>
   </entry>
 </feed>
