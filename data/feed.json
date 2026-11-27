@@ -1,5 +1,90 @@
 [
   {
+    "title": "止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」",
+    "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
+    "domain": "www.itmedia.co.jp",
+    "description": "プレイドのCXプラットフォーム「KARTE」が11月13日に不正アクセスを受け、大手から中小まで多数の企業の顧客情報が流出した問題で、すでにKARTEの契約を終了していた企業の顧客情報も漏えいしたとの発表が相次いでいる。 11月26日、LCCのPeach Aviationと、ファンケル傘下の化粧品メーカー・アテニアがそれぞれ、契約終...",
+    "publishedAt": "2026-11-27T15:13:26+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/27/2000003517/",
+    "bookmarkCount": 10
+  },
+  {
+    "title": "マイナアプリに複数の脆弱性、マイナンバーカードの情報窃取の恐れ 最新版に更新を",
+    "url": "https://ascii.jp/elem/000/004/455/4455531/",
+    "domain": "ascii.jp",
+    "description": "Japan Vulnerability Notes（JVN）は11月27日、デジタル庁が提供するスマートフォンアプリ「マイナアプリ（旧マイナポータルアプリ）」の脆弱性情報を公開した。 想定される影響および脆弱性の対象となるバージョンは、それぞれ以下のとおり。 ●想定される影響 ・ユーザーが不正なリンクをクリックすることで、任意のサ...",
+    "publishedAt": "2026-11-27T14:14:25+09:00",
+    "source": "はてブ IT",
+    "sourceId": "hateb-it",
+    "tags": [
+      "tech",
+      "aggregator"
+    ],
+    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ascii.jp/elem/000/004/455/4455531/",
+    "bookmarkCount": 12
+  },
+  {
+    "title": "GitHub ActionsからPATもGitHub App Private Keyも駆逐する",
+    "url": "https://zenn.dev/tmknom/articles/github-app-token-exchange-system",
+    "domain": "zenn.dev",
+    "description": "GitHub ActionsではGITHUB_TOKENで権限が足りない場合、PAT（Personal Access Token）やGitHub App Token（Installation Access Token）を使います。PATに比べるとGitHub App Tokenはだいぶマシですが、Private Keyの管理が課題になります。そこで GATES というソフトウェアを作ってみたので紹…",
+    "publishedAt": "2026-11-27T11:51:13+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tmknom/articles/github-app-token-exchange-system",
+    "bookmarkCount": 2
+  },
+  {
+    "title": "分離推論の KV 転送を push と pull で整理する",
+    "url": "https://zenn.dev/tosshi/articles/4e75a768f14852",
+    "domain": "zenn.dev",
+    "description": "prefill と decode を別のインスタンスで動かす分離推論では、prefill が作った KV キャッシュを decode へ運ぶ転送が、最初のトークンが出るまでの時間、TTFT に直接効きます。分離推論そのものは「P/D Disaggregated Inference with LMCache - 1」で説明しています。vLLM の公式ブログは 2026 年 10 月 14 日に、pr…",
+    "publishedAt": "2026-11-27T03:29:14+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tosshi/articles/4e75a768f14852",
+    "bookmarkCount": 1
+  },
+  {
+    "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
+    "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
+    "domain": "zenn.dev",
+    "description": "Claude Code の指示ファイル（CLAUDE.md）に「返答は必ず日本語」と書いていました。それでも英語に戻りました。ルールを足しても戻ったので、最後は仕組みで止めた話です。 2026 年 11 月の 2 日間の記録です。私は失敗のたびに「起きたこと・原因・再発防止」を残しています。 ちなみに 3 回目の「誤字」は、日本語の「案内」の 1 文字が韓国語の文字に化けたものでした。それを直す報…",
+    "publishedAt": "2026-11-26T22:22:44+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hitori_pm/articles/cc955887656339",
+    "bookmarkCount": 0
+  },
+  {
     "title": "「ロリポップ！レンタルサーバー」および関連サービスに対する不正アクセスによるお客様情報の漏えいについて - ロリポップ！レンタルサーバー",
     "url": "https://lolipop.jp/info/news/8279/",
     "domain": "lolipop.jp",
@@ -12,9 +97,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T16:00:15.216577+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/lolipop.jp/info/news/8279/",
-    "bookmarkCount": 4
+    "bookmarkCount": 10
   },
   {
     "title": "GPU demos, 1998 to 2006",
@@ -29,9 +114,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T16:00:15.216577+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gpu-demo-gallery.pages.dev/",
-    "bookmarkCount": 5
+    "bookmarkCount": 6
   },
   {
     "title": "サブスクの「お試し→自動更新」は客を逃していた？ 新規購読者数は「お試し→自動解約」比23％減 140万人で実験",
@@ -46,9 +131,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T15:30:13.132278+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/27/2000003503/",
-    "bookmarkCount": 17
+    "bookmarkCount": 26
   },
   {
     "title": "止められないDBをAWS DMSで移行してハマったこと（RDS for Oracle）",
@@ -63,7 +148,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T15:30:13.132278+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kiri0728/articles/c8d5f349b047dd",
     "bookmarkCount": 0
   },
@@ -80,7 +165,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T14:30:14.044409+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.yahoo.co.jp/expert/articles/f6b89482633cedb0ff3e4939d53b1bfdead8a8ca",
     "bookmarkCount": 9
   },
@@ -97,9 +182,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T14:00:15.479018+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/golden-lucky.hatenablog.com/entry/2026/11/27/111643",
-    "bookmarkCount": 34
+    "bookmarkCount": 40
   },
   {
     "title": "AI法改正案の概要 “事業者に安全確保義務 罰則適用も” | NHKニュース",
@@ -131,7 +216,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T13:30:14.117216+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kaminashi-developer.hatenablog.jp/entry/2026/11/27/123000",
     "bookmarkCount": 15
   },
@@ -148,9 +233,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T13:00:12.801530+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/27/2000003509/",
-    "bookmarkCount": 25
+    "bookmarkCount": 28
   },
   {
     "title": "X、「ペアレンタルコントロール」を導入 メッセージ内容は見られず",
@@ -165,9 +250,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T13:00:12.801530+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/news/article/2611/27/2000003506/",
-    "bookmarkCount": 9
+    "bookmarkCount": 10
   },
   {
     "title": "Androidアプリ開発者はまもなく自身の住所を公開しなければならなくなる",
@@ -182,9 +267,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T12:00:13.983034+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261127-android-app-developers-have-to-share-address-publicly/",
-    "bookmarkCount": 46
+    "bookmarkCount": 49
   },
   {
     "title": "モダナイズの目的に立ち返る",
@@ -267,7 +352,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T11:30:17.066878+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech.findy.co.jp/entry/2026/11/27/070000",
     "bookmarkCount": 26
   },
@@ -284,9 +369,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T11:30:17.066878+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/littlehands/umtp-suraido-20261125",
-    "bookmarkCount": 83
+    "bookmarkCount": 87
   },
   {
     "title": "Claude Artifact",
@@ -301,9 +386,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T11:30:17.066878+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/claude.ai/artifact/Cy2d8Vn63CnzCtonA1LSah",
-    "bookmarkCount": 19
+    "bookmarkCount": 20
   },
   {
     "title": "WordPressのシェア低下をどう見るか——使っている人、静的HTMLやEmDashへ動く人の違い | WP Calm",
@@ -335,9 +420,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T11:00:12.641605+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.cnn.co.jp/usa/35255487.html",
-    "bookmarkCount": 96
+    "bookmarkCount": 100
   },
   {
     "title": "GitHub - datadog-labs/ephyra: A property-based testing library for the LLM era",
@@ -352,9 +437,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T11:00:12.641605+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/github.com/datadog-labs/ephyra",
-    "bookmarkCount": 32
+    "bookmarkCount": 33
   },
   {
     "title": "Skills over MCP、めっちゃよさそう | ashunar0",
@@ -369,9 +454,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T10:30:13.481042+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ashunar0.dev/posts/skills-over-mcp/",
-    "bookmarkCount": 79
+    "bookmarkCount": 84
   },
   {
     "title": "「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜",
@@ -422,7 +507,7 @@
     "firstSeenAt": "2026-11-27T10:00:16.294474+09:00",
     "lastSeenAt": "2026-11-27T15:00:15.832702+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.yomiuri.co.jp/economy/20261127-GYT1T00002/",
-    "bookmarkCount": 22
+    "bookmarkCount": 23
   },
   {
     "title": "これが「雨天時の衛星写真」、日本の宇宙ベンチャーQPS研究所が公開 愛媛県松山市を撮影",
@@ -454,9 +539,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T09:30:14.115748+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/column/yajiuma-mini-review/2159706.html",
-    "bookmarkCount": 73
+    "bookmarkCount": 75
   },
   {
     "title": "UI style guides",
@@ -471,7 +556,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T09:30:14.115748+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/aresluna.org/ui-style-guides/",
     "bookmarkCount": 52
   },
@@ -488,9 +573,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T09:30:14.115748+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2026/10/engineer-ai-sounding-board-05",
-    "bookmarkCount": 59
+    "bookmarkCount": 63
   },
   {
     "title": "集英社 販売サイト会員の生年月日など70万件余漏えい | NHKニュース",
@@ -507,7 +592,7 @@
     "firstSeenAt": "2026-11-27T09:00:11.659844+09:00",
     "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20261126de82087",
-    "bookmarkCount": 25
+    "bookmarkCount": 26
   },
   {
     "title": "SIG-Indiedev(仮)第二回イベント『インディーゲーム開発者における「デバンキング問題」の実態と対策』録画・議事録非公開のオンラインセッションと情報ご提供のお願い | 国際ゲーム開発者協会日本",
@@ -539,7 +624,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T09:00:11.659844+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nextbeat/articles/b0ccca979da06b",
     "bookmarkCount": 0
   },
@@ -556,9 +641,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T09:00:11.659844+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/tech.connehito.com/entry/2026/11/26/100507",
-    "bookmarkCount": 64
+    "bookmarkCount": 67
   },
   {
     "title": "Aniwaffle | Expressive, lovable AI voices for your characters",
@@ -573,9 +658,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T08:30:13.948921+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/aniwaffle.com/",
-    "bookmarkCount": 86
+    "bookmarkCount": 87
   },
   {
     "title": "Anthropic、MCPサーバーがスキルを配信する「Skills over MCP」をパブリックベータ公開 ―Tasks、Elicitationの一般提供も開始 | gihyo.jp",
@@ -590,7 +675,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T08:21:29.549952+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gihyo.jp/article/2026/11/skills-over-mcp",
     "bookmarkCount": 57
   },
@@ -609,7 +694,7 @@
     "firstSeenAt": "2026-11-27T08:00:13.112947+09:00",
     "lastSeenAt": "2026-11-27T11:30:17.066878+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/arxiv.org/abs/2509.24372",
-    "bookmarkCount": 11
+    "bookmarkCount": 12
   },
   {
     "title": "2026-11-26 LayerXにおけるAI Agentを支えるデータ基盤のアーキテクチャと設計思想 / The Architecture and Design Philosophy of the Data Platform For AI Agents at LayerX",
@@ -624,9 +709,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T08:00:13.112947+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/civitaspo/the-architecture-and-design-philosophy-of-the-data-platform-for-ai-agents-at-layerx",
-    "bookmarkCount": 92
+    "bookmarkCount": 93
   },
   {
     "title": "SSH is a GUI framework | ssh zydra.sh",
@@ -641,9 +726,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T08:00:13.112947+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zydra.sh/articles/ssh-is-a-gui-framework/",
-    "bookmarkCount": 70
+    "bookmarkCount": 71
   },
   {
     "title": "息子が父親のSwitchを勝手に持ち出し、公園で紛失して帰ってきた→「みまもりアプリ」に暗証番号入力ミスの通知が…息子への対応は？取り戻す方法は？",
@@ -675,7 +760,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T07:30:18.333398+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/qiita.com/reipandada/items/17496db6ac5f64a5e61a",
     "bookmarkCount": 157
   },
@@ -692,9 +777,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T06:30:13.832851+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/digital-agency-news.digital.go.jp/articles/2026-11-26",
-    "bookmarkCount": 116
+    "bookmarkCount": 117
   },
   {
     "title": "悪気なくメンバーの思考を奪っていないか？現場で見た「デミニッシャー」と「マルチプライヤー」の決定的な違い",
@@ -828,7 +913,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T04:00:13.424141+09:00",
-    "lastSeenAt": "2026-11-27T09:00:11.659844+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nooop/articles/00cde2e1a825ad",
     "bookmarkCount": 0
   },
@@ -879,7 +964,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T02:00:15.721620+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
     "bookmarkCount": 1
   },
@@ -998,9 +1083,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-26T23:00:15.183906+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/aiai_1.html",
-    "bookmarkCount": 112
+    "bookmarkCount": 114
   },
   {
     "title": "さくらのクラウド、新ネットワーク基盤、新データベースサービスなど投入。東京リージョン第三ゾーン新設も発表",
@@ -1066,7 +1151,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-26T23:00:15.183906+09:00",
-    "lastSeenAt": "2026-11-27T16:00:15.216577+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6",
     "bookmarkCount": 351
   },
@@ -1153,7 +1238,7 @@
     "firstSeenAt": "2026-11-26T22:00:13.907805+09:00",
     "lastSeenAt": "2026-11-27T08:30:13.948921+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261126-xnu-linux/",
-    "bookmarkCount": 28
+    "bookmarkCount": 29
   },
   {
     "title": "Agentforce エージェントからユーザー単位の認証で外部 MCP サーバーに接続する",
@@ -1185,7 +1270,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T21:30:14.397548+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hlt/articles/c2e3ed8ff9ddb8",
     "bookmarkCount": 0
   },
@@ -1219,7 +1304,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T21:30:14.397548+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/turing_motors/articles/cbf9872ca90166",
     "bookmarkCount": 1
   },
@@ -1340,7 +1425,7 @@
     "firstSeenAt": "2026-11-26T20:00:14.818060+09:00",
     "lastSeenAt": "2026-11-27T10:30:13.481042+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/shop.asobistore.jp/news/324/",
-    "bookmarkCount": 85
+    "bookmarkCount": 86
   },
   {
     "title": "日本ファクトチェックセンターが誤情報を掲載、AI（NotebookLM）が抽出した発言を確認せず掲載",
@@ -1527,7 +1612,7 @@
     "firstSeenAt": "2026-11-26T19:00:18.940246+09:00",
     "lastSeenAt": "2026-11-27T08:00:13.112947+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/pc.watch.impress.co.jp/docs/news/2159488.html",
-    "bookmarkCount": 39
+    "bookmarkCount": 40
   },
   {
     "title": "これぞAIのゲーム活用。音声でのみ指示できるドライブゲーム「妹に運転を教える」を遊んでみた／エンジンのかけ方も忘れている妹に、何と言えば安全運転できる？【レビュー】",
@@ -1612,7 +1697,7 @@
     "firstSeenAt": "2026-11-26T18:00:16.183465+09:00",
     "lastSeenAt": "2026-11-27T09:00:11.659844+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2159319.html",
-    "bookmarkCount": 130
+    "bookmarkCount": 131
   },
   {
     "title": "旅行会社に残る価値は？ 生成AIに「旅の相談」が当たり前の今、業界の生存戦略",
@@ -1935,7 +2020,7 @@
     "firstSeenAt": "2026-11-26T17:00:15.246892+09:00",
     "lastSeenAt": "2026-11-27T10:00:16.294474+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/anond.hatelabo.jp/20261126144022",
-    "bookmarkCount": 204
+    "bookmarkCount": 205
   },
   {
     "title": "日産が中国製PHVを「逆輸入」 27年度、先進電動車を日本で補完 - 日本経済新聞",
@@ -2290,7 +2375,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T12:00:12.360750+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/ruri/articles/distill-specs-after-implementation",
     "bookmarkCount": 1
   },
@@ -2378,40 +2463,6 @@
     "lastSeenAt": "2026-11-26T15:00:17.954792+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.techno-edge.net/article/2026/11/26/5820.html",
     "bookmarkCount": 16
-  },
-  {
-    "title": "タイムズはどうすべきだったのか、JPKI を用いた eKYC の今後 | blog.jxck.io",
-    "url": "https://blog.jxck.io/entries/2026-11-25/ekyc-over-jpki.html",
-    "domain": "blog.jxck.io",
-    "description": "タイムズカーの件を皮切りに世間を賑わせ続けている、個人情報漏洩事案。 メールアドレスやパスワードはもとより、運転免許の券面画像やマイナンバーが漏洩すると、かなりの問題になる。 この漏洩は、防ぎようがないのだろうか? この記事は、サイバーセキュリティアドベントカレンダー 3 日目である。 eKYC の問題 タイ...",
-    "publishedAt": "2026-11-26T01:45:41+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-26T11:30:11.009979+09:00",
-    "lastSeenAt": "2026-11-26T14:30:13.499947+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.jxck.io/entries/2026-11-25/ekyc-over-jpki.html",
-    "bookmarkCount": 32
-  },
-  {
-    "title": "pstack とは何か｜pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─",
-    "url": "https://zenn.dev/karamage/books/50c18e52e7d19e/viewer/845d0c",
-    "domain": "zenn.dev",
-    "description": "pstack とは何か｜pstack 完全ガイド ─AIエージェントに雑なコード を書かせない技術─",
-    "publishedAt": "2026-11-24T17:58:47+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-26T11:30:11.009979+09:00",
-    "lastSeenAt": "2026-11-26T13:00:14.358122+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/karamage/books/50c18e52e7d19e/viewer/845d0c",
-    "bookmarkCount": 20
   },
   {
     "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
@@ -2972,7 +3023,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T01:30:19.836889+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/algomatic/articles/ece749a7e3cb24",
     "bookmarkCount": 3
   },
@@ -2989,7 +3040,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T00:30:13.238674+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/watany/articles/1efe3adea67dd5",
     "bookmarkCount": 29
   },
@@ -3006,7 +3057,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T00:30:13.238674+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nexta_/articles/a3ff76a9f98f1c",
     "bookmarkCount": 46
   },
@@ -3025,7 +3076,7 @@
     "firstSeenAt": "2026-11-26T00:00:17.438982+09:00",
     "lastSeenAt": "2026-11-26T23:00:15.183906+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.publickey1.jp/blog/26/mcpskills_over_mcpmcp.html",
-    "bookmarkCount": 163
+    "bookmarkCount": 164
   },
   {
     "title": "「Google Workspace MCPサーバ」と「Google Workspace CLI」が正式版としてリリース",
@@ -3057,9 +3108,9 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/codehex/articles/33bc6ee330b880",
-    "bookmarkCount": 61
+    "bookmarkCount": 62
   },
   {
     "title": "Claude Code のセキュリティ、2026年11月時点のベストプラクティス（サンドボックス・権限・MCP）",
@@ -3074,7 +3125,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/happy_elements/articles/27e14ff6754044",
     "bookmarkCount": 1
   },
@@ -3108,7 +3159,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mediaforce/articles/27df1f22a00546",
     "bookmarkCount": 4
   },
@@ -3482,7 +3533,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/google_cloud_jp/articles/7e29a9acf06557",
     "bookmarkCount": 2
   },
@@ -3499,7 +3550,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T16:00:08.236477+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/henteko/articles/ed8d1458246d7a",
     "bookmarkCount": 133
   },
@@ -3618,7 +3669,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T08:30:12.866488+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/peoplex_blog/articles/claude-code-ship",
     "bookmarkCount": 29
   },
@@ -4587,7 +4638,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-23T19:30:13.594830+09:00",
-    "lastSeenAt": "2026-11-27T15:30:13.132278+09:00",
+    "lastSeenAt": "2026-11-27T16:30:13.727779+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
     "bookmarkCount": 253
   },
@@ -5590,57 +5641,6 @@
     "lastSeenAt": "2026-11-25T14:00:12.937431+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kusuke/articles/98e178e6824cac",
     "bookmarkCount": 201
-  },
-  {
-    "title": "新機能、ElastiCache の distributed KV caching を GPU 2 台の vLLM で試す",
-    "url": "https://zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
-    "domain": "zenn.dev",
-    "description": "2026 年 11 月に、Amazon ElastiCache for Valkey で distributed KV caching が使えるようになりました（AWS の What's New）。セルフホストした LLM の推論サーバーが計算した KV を ElastiCache のクラスタに置き、複数の GPU サーバーで共有する機能です。What's New によると、GPU サーバーごとの…",
-    "publishedAt": "2026-11-19T15:55:05+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-19T21:00:15.605239+09:00",
-    "lastSeenAt": "2026-11-20T06:30:13.379445+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/aws_japan/articles/elasticache-distributed-kv-cache-bench",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "Microsoft-Decision-1.1公開！Microsoft-Decision-1との差はどれくらい？",
-    "url": "https://zenn.dev/microsoft/articles/ms-decision-1-1",
-    "domain": "zenn.dev",
-    "description": "先月、Microsoft純正のDecisionモデル「Microsoft-Decision-1」を紹介する記事を書きました。 https://zenn.dev/microsoft/articles/ms-decision-1 それから約1か月、早くも後継の「Microsoft-Decision-1.1」が一般提供（GA）になりました。 https://commandline.microsoft.c…",
-    "publishedAt": "2026-11-19T12:41:58+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-19T21:00:15.605239+09:00",
-    "lastSeenAt": "2026-11-20T13:00:13.858220+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/microsoft/articles/ms-decision-1-1",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件",
-    "url": "https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-    "domain": "zenn.dev",
-    "description": "最近、Claude CodeのモデルをOpus 5.5からOpus 4.6に戻しました。 普通に考えれば新しいモデルの方が性能は高いはずですが、実際に開発していると、どうも4.6の方が使いやすい。🤔 5.5に大きな不満があったわけではありません。むしろコードを書く能力は高く、複雑な問題にも粘り強く取り組んでくれます。 ただ、4.6に戻してみると、こちらの意図を細かく説明しなくても伝わることが多く、…",
-    "publishedAt": "2026-11-18T23:06:19+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-19T21:00:15.605239+09:00",
-    "lastSeenAt": "2026-11-20T06:30:13.379445+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/oshikaidesu/articles/8bce9bc005b3e7",
-    "bookmarkCount": 0
   },
   {
     "title": "Weekly Report: N-able N-centralに複数の脆弱性",
