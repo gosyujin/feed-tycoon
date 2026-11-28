@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T19:30:12.751188+09:00</updated>
+  <updated>2026-11-28T20:00:13.731204+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>もう他人ごとじゃないイベントソーシング：社会を支える既存システムへの部分適用</title>
+    <id>https://es.kosui.workers.dev/</id>
+    <link href="https://es.kosui.workers.dev/" />
+    <updated>2026-11-28T15:22:48+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>YAPC::Tokyo 2026 ライブコーディング・ハンズオン・40分 もう他人ごとじゃないイベントソーシング 社会を支える既存システムへの部分適用 全体を移行しなくても、既存の更新処理に記録を足せば、足した後の変更を説明できることを確かめます。題材は架空の動物病院の来院管理です。</summary>
+  </entry>
+  <entry>
+    <title>AIエージェント中心アーキテクチャ―人の判断を仕組みに移し、チームの役割を変えるまで / architecture-con2026</title>
+    <id>https://speakerdeck.com/visional_engineering_and_design/architecture-con2026</id>
+    <link href="https://speakerdeck.com/visional_engineering_and_design/architecture-con2026" />
+    <updated>2026-11-27T16:38:36+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2026年11月26日より開催の「アーキテクチャConference 2026」の登壇資料です。 https://architecture-con.findy-tools.io/2026 ▼関連情報 AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human…</summary>
+  </entry>
   <entry>
     <title>パスキーは最強で美しいよ、正しく実装すればね</title>
     <id>https://zenn.dev/kantacky/articles/b5a03eab70c7b1</id>
@@ -34,9 +50,9 @@
     <title>古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる</title>
     <id>https://zenn.dev/miraizuk/articles/ae8db2bc3ff561</id>
     <link href="https://zenn.dev/miraizuk/articles/ae8db2bc3ff561" />
-    <updated>2026-11-28T01:15:44+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、今は Rector で機械的に書き換え、残りを AI に直させれば、たいていのシステムで…</summary>
+    <updated>2026-11-28T08:24:49+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、...</summary>
   </entry>
   <entry>
     <title>君もユーザー体験バリデーターにならないか？UI品質を向上させるデザイン批評の技術</title>
@@ -631,6 +647,14 @@
     <summary>はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2....</summary>
   </entry>
   <entry>
+    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
+    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
+    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
+    <updated>2026-11-27T19:43:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1. はじめに ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 2. モチベーション PC が余っていた 外から接続できるファイルサー...</summary>
+  </entry>
+  <entry>
     <title>Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs</title>
     <id>https://ikotaslabs.com/news/2026-11-27</id>
     <link href="https://ikotaslabs.com/news/2026-11-27" />
@@ -669,14 +693,6 @@
     <updated>2026-11-27T13:40:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Google の『Site Reliability Engineering』第2版に、「Safety Engineering for SRE with STPA and CAST」という章が加わりました。STAMP/STPA はシステム安全工学から生まれた考え方と分析手法で、Google では2021年に社内研修が始まり、2025年の SREcon では Google Maps への適用事例も紹介…</summary>
-  </entry>
-  <entry>
-    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
-    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
-    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
-    <updated>2026-11-27T11:09:30+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 PC が余っていた 外から接続できるファイルサーバーが欲しかった せっかくなら認証周り（Auth0）も触ってみたかった ※ 記事執筆時点での価格 外から入る経路を作る主な手段…</summary>
   </entry>
   <entry>
     <title>初期iPhoneは「携帯電話としてあり得ない」と思った ガングロギャルが教えてくれた“技術普及の絶対条件”</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-27T13:24:54+09:00</updated>
     <category term="はてブ IT" />
     <summary>楽天モバイルへのauローミングが更新、12月からのエリア公開</summary>
-  </entry>
-  <entry>
-    <title>禁止しても止まらないClaudeの「欲」を飼いならしてみる</title>
-    <id>https://zenn.dev/rescuenow/articles/9d1e89a941f4f1</id>
-    <link href="https://zenn.dev/rescuenow/articles/9d1e89a941f4f1" />
-    <updated>2026-11-27T11:47:09+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claudeにコードを書かせると、頼んでもない挙動をしれっと足してくることよくあって、「頼まれていないことはやるな」って書いても全然効いている感じがしないですよね。 Claudeはどうしても頼まれていなくても自分が考える良いものにしようとする「欲」が強いように感じます。 どうも、しもちです。 こういうときによく言われるのが「プロンプトは禁止じゃなくて肯定形で書け」というやつです。本当に効くのか疑問…</summary>
-  </entry>
-  <entry>
-    <title>OCI ComputeにSwingbenchをCLIでセットアップしてOracle AI Database 26aiへOLTP負荷をかけてみる</title>
-    <id>https://qiita.com/mo__mo/items/83e0a491e681c3369f8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/mo__mo/items/83e0a491e681c3369f8d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-27T09:48:18+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>はじめに データベース検証に向けて継続的にデータが更新される環境を準備したかったので、OCI ComputeインスタンスにSwingbenchを導入し、Oracle AI Database 26aiへOLTP負荷をかけた際の手順を備忘録として記録します。 Swingben...</summary>
   </entry>
 </feed>
