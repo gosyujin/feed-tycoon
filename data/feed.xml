@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T10:30:08.576422+09:00</updated>
+  <updated>2026-11-28T11:00:14.700185+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -663,6 +663,14 @@
     <summary>はじめに Rustは、C言語やC++が抱えるメモリ安全性の問題の多くを、所有権や借用といった言語仕様によって防止することを特徴とするプログラミング言語です。ガベージコレクションを必要とせず、実行性能を維持しながらメモリ安全性を確保できることから、OSや組み込みソフトウェアの開発において、C言語に代わる存在と...</summary>
   </entry>
   <entry>
+    <title>「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた</title>
+    <id>https://zenn.dev/hitori_pm/articles/cc955887656339</id>
+    <link href="https://zenn.dev/hitori_pm/articles/cc955887656339" />
+    <updated>2026-11-27T22:49:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>ちなみに 3 回目の「誤字」は、日本語の「案内」の 1 文字が韓国語の文字に化けたものでした。それを直す報告が英語です。 4 回目は特に目立ちました。私は返答の中の 1 文を音声で読み上げる仕組みを使っています。その読み上げ用の文も英語になり、日本語の音声が英語を読み始めました。 原因 4 回目をたどると、こう...</summary>
+  </entry>
+  <entry>
     <title>止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」</title>
     <id>https://www.itmedia.co.jp/news/article/2611/27/2000003517/</id>
     <link href="https://www.itmedia.co.jp/news/article/2611/27/2000003517/" />
@@ -693,14 +701,6 @@
     <updated>2026-11-27T03:29:14+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>prefill と decode を別のインスタンスで動かす分離推論では、prefill が作った KV キャッシュを decode へ運ぶ転送が、最初のトークンが出るまでの時間、TTFT に直接効きます。分離推論そのものは「P/D Disaggregated Inference with LMCache - 1」で説明しています。vLLM の公式ブログは 2026 年 10 月 14 日に、pr…</summary>
-  </entry>
-  <entry>
-    <title>「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた</title>
-    <id>https://zenn.dev/hitori_pm/articles/cc955887656339</id>
-    <link href="https://zenn.dev/hitori_pm/articles/cc955887656339" />
-    <updated>2026-11-26T22:22:44+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>Claude Code の指示ファイル（CLAUDE.md）に「返答は必ず日本語」と書いていました。それでも英語に戻りました。ルールを足しても戻ったので、最後は仕組みで止めた話です。 2026 年 11 月の 2 日間の記録です。私は失敗のたびに「起きたこと・原因・再発防止」を残しています。 ちなみに 3 回目の「誤字」は、日本語の「案内」の 1 文字が韓国語の文字に化けたものでした。それを直す報…</summary>
   </entry>
   <entry>
     <title>「ロリポップ！レンタルサーバー」および関連サービスに対する不正アクセスによるお客様情報の漏えいについて - ロリポップ！レンタルサーバー</title>
