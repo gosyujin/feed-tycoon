@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T15:00:20.175522+09:00</updated>
+  <updated>2026-11-28T15:30:14.420418+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>通勤流出入マップ</title>
+    <id>https://commuter-inflow-map.idoajob.chatgpt.site/</id>
+    <link href="https://commuter-inflow-map.idoajob.chatgpt.site/" />
+    <updated>2026-11-28T00:02:34+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>2020年の国勢調査に基づき、市区町村間の通勤者（15歳以上、男女計）を表示します。「同じ市区町村内で通勤」は、住んでいる市区町村内の自宅以外の職場で働く人の数です。 ランキングと矢印 流入は他の市区町村から選んだ市区町村に通勤する人数、流出は選んだ市区町村から他の市区町村に通勤する人数です。差分は流入...</summary>
+  </entry>
+  <entry>
+    <title>NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成</title>
+    <id>https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/</id>
+    <link href="https://gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/" />
+    <updated>2026-11-27T12:48:52+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>NVIDIAが画像生成AIモデル「Nemotron-Labs-Image-30B-A3B」をオープンウェイトモデルとして無償公開しました。 nvidia/Nemotron-Labs-Image-30B-A3B · Hugging Face https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B Checkout NVIDIA's Nemo…</summary>
+  </entry>
   <entry>
     <title>思いのままに変換したい〜日本語入力のためのVimプラグインCaskkを作った</title>
     <id>https://zenn.dev/ni57721/articles/vim-caskk-ime</id>
@@ -399,6 +415,14 @@
     <summary>はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2....</summary>
   </entry>
   <entry>
+    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
+    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
+    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
+    <updated>2026-11-27T19:43:41+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>1. はじめに ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 2. モチベーション PC が余っていた 外から接続できるファイルサー...</summary>
+  </entry>
+  <entry>
     <title>Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs</title>
     <id>https://ikotaslabs.com/news/2026-11-27</id>
     <link href="https://ikotaslabs.com/news/2026-11-27" />
@@ -437,14 +461,6 @@
     <updated>2026-11-27T13:40:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Google の『Site Reliability Engineering』第2版に、「Safety Engineering for SRE with STPA and CAST」という章が加わりました。STAMP/STPA はシステム安全工学から生まれた考え方と分析手法で、Google では2021年に社内研修が始まり、2025年の SREcon では Google Maps への適用事例も紹介…</summary>
-  </entry>
-  <entry>
-    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
-    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
-    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
-    <updated>2026-11-27T11:09:30+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 PC が余っていた 外から接続できるファイルサーバーが欲しかった せっかくなら認証周り（Auth0）も触ってみたかった ※ 記事執筆時点での価格 外から入る経路を作る主な手段…</summary>
   </entry>
   <entry>
     <title>初期iPhoneは「携帯電話としてあり得ない」と思った ガングロギャルが教えてくれた“技術普及の絶対条件”</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-27T11:37:34+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>RDS for Oracle（約150GB）を、DMSのフルロード＋CDCで旧AWS環境から新AWS環境へ移行し、停止時間は約10分に抑えられた CDCで差分が同期されなかった原因は、移行元RDSでサプリメンタルロギングとアーカイブログ保持が未設定だったこと。RDSでは rdsadmin のプロシージャで設定する 接続テストのORA-12545は、IPアドレスを直接指定して名前解決の問題だと切り分…</summary>
-  </entry>
-  <entry>
-    <title>「プレステの父」がXboxを誕生させた？ 久夛良木健氏が明かしたマイクロソフトとの駆け引き（多根清史） - エキスパート - Yahoo!ニュース</title>
-    <id>https://news.yahoo.co.jp/expert/articles/f6b89482633cedb0ff3e4939d53b1bfdead8a8ca</id>
-    <link href="https://news.yahoo.co.jp/expert/articles/f6b89482633cedb0ff3e4939d53b1bfdead8a8ca" />
-    <updated>2026-11-27T09:27:52+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>PlayStationの父として知られる久夛良木健氏は、もしかするとXboxの父でもあるのかもしれません。同氏は米ゲームメディアThe Game Businessの取材で、あえてマイクロソフトを誘導して自社製のゲーム機を作らせた、という趣旨のことを語っています。 久夛良木氏はかつて、マイクロソフトのトップと一対一で面会する機会が...</summary>
-  </entry>
-  <entry>
-    <title>2026年に刊行されてよかったなと思うコンピューター技術書 - golden-luckyの日記</title>
-    <id>https://golden-lucky.hatenablog.com/entry/2026/11/27/111643</id>
-    <link href="https://golden-lucky.hatenablog.com/entry/2026/11/27/111643" />
-    <updated>2026-11-27T11:26:32+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>コンピューター技術書の市況は2026年に入ったころから冷え込みに拍車がかかっているように感じてます。AIチャットで答えらしきものが得られるのでリファレンスの需要は激減したし、ノウハウ集っぽい本も不要になりました。自分でコードを読み書きしなくてもエージェントでとりあえずアプリが生成されるので、プログラミ...</summary>
   </entry>
 </feed>
