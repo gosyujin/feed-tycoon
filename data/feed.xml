@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T20:00:13.731204+09:00</updated>
+  <updated>2026-11-28T20:30:14.045131+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
@@ -50,9 +50,9 @@
     <title>古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる</title>
     <id>https://zenn.dev/miraizuk/articles/ae8db2bc3ff561</id>
     <link href="https://zenn.dev/miraizuk/articles/ae8db2bc3ff561" />
-    <updated>2026-11-28T08:24:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、...</summary>
+    <updated>2026-11-28T01:15:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、今は Rector で機械的に書き換え、残りを AI に直させれば、たいていのシステムで…</summary>
   </entry>
   <entry>
     <title>君もユーザー体験バリデーターにならないか？UI品質を向上させるデザイン批評の技術</title>
@@ -647,14 +647,6 @@
     <summary>はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2....</summary>
   </entry>
   <entry>
-    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
-    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
-    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
-    <updated>2026-11-27T19:43:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1. はじめに ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 2. モチベーション PC が余っていた 外から接続できるファイルサー...</summary>
-  </entry>
-  <entry>
     <title>Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs</title>
     <id>https://ikotaslabs.com/news/2026-11-27</id>
     <link href="https://ikotaslabs.com/news/2026-11-27" />
@@ -693,6 +685,14 @@
     <updated>2026-11-27T13:40:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Google の『Site Reliability Engineering』第2版に、「Safety Engineering for SRE with STPA and CAST」という章が加わりました。STAMP/STPA はシステム安全工学から生まれた考え方と分析手法で、Google では2021年に社内研修が始まり、2025年の SREcon では Google Maps への適用事例も紹介…</summary>
+  </entry>
+  <entry>
+    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
+    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
+    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
+    <updated>2026-11-27T11:09:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 PC が余っていた 外から接続できるファイルサーバーが欲しかった せっかくなら認証周り（Auth0）も触ってみたかった ※ 記事執筆時点での価格 外から入る経路を作る主な手段…</summary>
   </entry>
   <entry>
     <title>初期iPhoneは「携帯電話としてあり得ない」と思った ガングロギャルが教えてくれた“技術普及の絶対条件”</title>
