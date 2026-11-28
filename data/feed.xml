@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T19:00:13.445020+09:00</updated>
+  <updated>2026-11-28T19:30:12.751188+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>パスキーは最強で美しいよ、正しく実装すればね</title>
+    <id>https://zenn.dev/kantacky/articles/b5a03eab70c7b1</id>
+    <link href="https://zenn.dev/kantacky/articles/b5a03eab70c7b1" />
+    <updated>2026-11-28T08:00:52+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>近年、パスワード漏洩やフィッシングによる不正アクセス、さらには証券口座の乗っ取りといった認証にまつわるセキュリティ事件が後を絶ちません。こうしたニュースが出るたびに、「パスワードを使い回さないようにしよう」「SMS や認証アプリによる 2 段階認証を設定しよう」といった対策記事や呼びかけを目にします。 しかし、現在の攻撃手法はそれよりも一歩先を行っており、偽サイトを中継してリアルタイムに認証情報を…</summary>
+  </entry>
+  <entry>
+    <title>[JSC] 数値で構成される配列に対して Array.prototype.flat を高速にした</title>
+    <id>https://zenn.dev/itsu_dev/articles/1942c82c2f2e27</id>
+    <link href="https://zenn.dev/itsu_dev/articles/1942c82c2f2e27" />
+    <updated>2026-11-27T20:52:05+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>WebKit/JavaScriptCore の Array.prototype.flat の実装において，数値配列に対する処理を最適化して高速に動作するようにしたので，本記事ではそのパッチについて述べていきます． 対象のパッチは次の通りです． JavaScript の Array.prototype.flat は組み込みの Array オブジェクトのメソッドで，ネストした配列を任意の深さまで再帰的…</summary>
+  </entry>
   <entry>
     <title>組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知</title>
     <id>https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/</id>
@@ -18,9 +34,9 @@
     <title>古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる</title>
     <id>https://zenn.dev/miraizuk/articles/ae8db2bc3ff561</id>
     <link href="https://zenn.dev/miraizuk/articles/ae8db2bc3ff561" />
-    <updated>2026-11-28T08:24:49+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、...</summary>
+    <updated>2026-11-28T01:15:44+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、今は Rector で機械的に書き換え、残りを AI に直させれば、たいていのシステムで…</summary>
   </entry>
   <entry>
     <title>君もユーザー体験バリデーターにならないか？UI品質を向上させるデザイン批評の技術</title>
@@ -615,14 +631,6 @@
     <summary>はじめに 1. どこで動かすか：隔離基盤 外部入力と並列実行が前提を変える ホスト端末から切り離す（microVM 隔離と最小露出） 認証情報を中に置かない（プロキシ注入と署名専用の鍵委譲） 外向き通信と取得元を絞る（Egress 制御と権限の分離） 作業空間どうしを分け切る（worktree 単位の DB・動的ポート・後始末） 2....</summary>
   </entry>
   <entry>
-    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
-    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
-    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
-    <updated>2026-11-27T19:43:41+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>1. はじめに ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 2. モチベーション PC が余っていた 外から接続できるファイルサー...</summary>
-  </entry>
-  <entry>
     <title>Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs</title>
     <id>https://ikotaslabs.com/news/2026-11-27</id>
     <link href="https://ikotaslabs.com/news/2026-11-27" />
@@ -661,6 +669,14 @@
     <updated>2026-11-27T13:40:24+09:00</updated>
     <category term="Zenn トレンド" />
     <summary>Google の『Site Reliability Engineering』第2版に、「Safety Engineering for SRE with STPA and CAST」という章が加わりました。STAMP/STPA はシステム安全工学から生まれた考え方と分析手法で、Google では2021年に社内研修が始まり、2025年の SREcon では Google Maps への適用事例も紹介…</summary>
+  </entry>
+  <entry>
+    <title>自宅PCを格安ファイルサーバーとして構築してみた</title>
+    <id>https://zenn.dev/nextbeat/articles/7c820845a91d7d</id>
+    <link href="https://zenn.dev/nextbeat/articles/7c820845a91d7d" />
+    <updated>2026-11-27T11:09:30+09:00</updated>
+    <category term="Zenn トレンド" />
+    <summary>ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 PC が余っていた 外から接続できるファイルサーバーが欲しかった せっかくなら認証周り（Auth0）も触ってみたかった ※ 記事執筆時点での価格 外から入る経路を作る主な手段…</summary>
   </entry>
   <entry>
     <title>初期iPhoneは「携帯電話としてあり得ない」と思った ガングロギャルが教えてくれた“技術普及の絶対条件”</title>
@@ -789,21 +805,5 @@
     <updated>2026-11-27T09:48:18+09:00</updated>
     <category term="Qiita トレンド" />
     <summary>はじめに データベース検証に向けて継続的にデータが更新される環境を準備したかったので、OCI ComputeインスタンスにSwingbenchを導入し、Oracle AI Database 26aiへOLTP負荷をかけた際の手順を備忘録として記録します。 Swingben...</summary>
-  </entry>
-  <entry>
-    <title>Google スプレッドシートとGoogle スライドでギンガムチェックの模様を作る｜Google スプレッドシート ／ Google スライド</title>
-    <id>https://qiita.com/Masato_Takeda/items/1a4878000fa631b02c13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Masato_Takeda/items/1a4878000fa631b02c13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-27T05:46:45+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事はGoogle Workspace 標準機能 Advent Calendar 2026の25日目、最後の日の記事です。 Happy Holidays！ 🎄🦌🛷🍰🍱👹🎍 Yeah！めっっっちゃ！Holiday～です🌴 最後の日の記事までやってきました。 2025...</summary>
-  </entry>
-  <entry>
-    <title>ギンガムチェック！格子の模様 ブルーホワイトブルー 条件付き書式｜Google スプレッドシート</title>
-    <id>https://qiita.com/Masato_Takeda/items/9a0bdf4fe4c59c2f32b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</id>
-    <link href="https://qiita.com/Masato_Takeda/items/9a0bdf4fe4c59c2f32b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items" />
-    <updated>2026-11-27T04:54:06+09:00</updated>
-    <category term="Qiita トレンド" />
-    <summary>この記事はGoogle Workspace 標準機能 Advent Calendar 2026の24日目の記事です。 Happy Holidays！ 🎄🦌🛷🍰🍱👹🎍 1年ぶりにホリデーシーズンがやってきました。 この記事を書いているのは2026年11月27日 午前3時...</summary>
   </entry>
 </feed>

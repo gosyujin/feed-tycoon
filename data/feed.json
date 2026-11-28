@@ -1,5 +1,39 @@
 [
   {
+    "title": "パスキーは最強で美しいよ、正しく実装すればね",
+    "url": "https://zenn.dev/kantacky/articles/b5a03eab70c7b1",
+    "domain": "zenn.dev",
+    "description": "近年、パスワード漏洩やフィッシングによる不正アクセス、さらには証券口座の乗っ取りといった認証にまつわるセキュリティ事件が後を絶ちません。こうしたニュースが出るたびに、「パスワードを使い回さないようにしよう」「SMS や認証アプリによる 2 段階認証を設定しよう」といった対策記事や呼びかけを目にします。 しかし、現在の攻撃手法はそれよりも一歩先を行っており、偽サイトを中継してリアルタイムに認証情報を…",
+    "publishedAt": "2026-11-28T08:00:52+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kantacky/articles/b5a03eab70c7b1",
+    "bookmarkCount": 1
+  },
+  {
+    "title": "[JSC] 数値で構成される配列に対して Array.prototype.flat を高速にした",
+    "url": "https://zenn.dev/itsu_dev/articles/1942c82c2f2e27",
+    "domain": "zenn.dev",
+    "description": "WebKit/JavaScriptCore の Array.prototype.flat の実装において，数値配列に対する処理を最適化して高速に動作するようにしたので，本記事ではそのパッチについて述べていきます． 対象のパッチは次の通りです． JavaScript の Array.prototype.flat は組み込みの Array オブジェクトのメソッドで，ネストした配列を任意の深さまで再帰的…",
+    "publishedAt": "2026-11-27T20:52:05+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/itsu_dev/articles/1942c82c2f2e27",
+    "bookmarkCount": 0
+  },
+  {
     "title": "組織で結果を出すAI駆動開発 全開発工程を自動化するアーキテクチャ設計の実践知",
     "url": "https://speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/",
     "domain": "speakerdeck.com",
@@ -12,26 +46,26 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T19:00:13.445020+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/sergicalsix/ai-driven-development-in-organizations/",
-    "bookmarkCount": 6
+    "bookmarkCount": 7
   },
   {
     "title": "古い PHP / Laravel の脆弱性対応は、Rector と AI でだいたい簡単に終わる",
     "url": "https://zenn.dev/miraizuk/articles/ae8db2bc3ff561",
     "domain": "zenn.dev",
-    "description": "「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、...",
-    "publishedAt": "2026-11-28T08:24:49+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
+    "description": "「脆弱性対応をしてほしい」と頼まれたとき、古い PHP や Laravel のシステムでまずやるべきことは、個別のパッチ当てではありません。サポートが切れたバージョンには、もうセキュリティ修正が出ないからです。脆弱性対応の本体はサポートされているバージョンまで上げることです。 上げると聞くと大仕事に思えますが、今は Rector で機械的に書き換え、残りを AI に直させれば、たいていのシステムで…",
+    "publishedAt": "2026-11-28T01:15:44+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
     "tags": [
       "tech",
-      "aggregator"
+      "article"
     ],
     "firstSeenAt": "2026-11-28T18:00:13.300161+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/miraizuk/articles/ae8db2bc3ff561",
-    "bookmarkCount": 32
+    "bookmarkCount": 41
   },
   {
     "title": "君もユーザー体験バリデーターにならないか？UI品質を向上させるデザイン批評の技術",
@@ -46,9 +80,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T17:30:18.256653+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/ninjinkun/user-experience-validator",
-    "bookmarkCount": 11
+    "bookmarkCount": 14
   },
   {
     "title": "300万円で初心者がダイエットアプリ作ってみた【個人開発】",
@@ -284,9 +318,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T17:30:18.256653+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/bitkey/practical-event-sourcing-in-the-ai-era-removing-hidden-assumptions-for-claritypractical-event-sourcing-in-the-ai-era-removing-hidden-assumptions-for-clarity",
-    "bookmarkCount": 6
+    "bookmarkCount": 7
   },
   {
     "title": "蓄積をどう解釈すれば基盤整備に踏み出せるか — 10 年目のクラウドサインの場合",
@@ -301,7 +335,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T17:30:18.256653+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/bengo4com/20261126-findy-archconf2026-cloudsign",
     "bookmarkCount": 6
   },
@@ -335,9 +369,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T17:00:12.455555+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu",
-    "bookmarkCount": 30
+    "bookmarkCount": 35
   },
   {
     "title": "Perlと歩む未来 - go-perl がつなぐPerlの過去と未来 -",
@@ -352,7 +386,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T16:30:14.219197+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/goccy/perl-to-ayumu-mirai-go-perl-ga-tsunagu-perl-no-kako-to-mirai",
     "bookmarkCount": 13
   },
@@ -369,7 +403,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-28T16:30:14.219197+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/takesako/articles/8623cbed6c1bb6",
     "bookmarkCount": 1
   },
@@ -386,7 +420,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-28T16:30:14.219197+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kzchd/articles/ai-kicad-pihat-claude-codex",
     "bookmarkCount": 0
   },
@@ -403,7 +437,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-28T16:30:14.219197+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/knowledge_graph/articles/ai-leverage-customer-front",
     "bookmarkCount": 1
   },
@@ -420,9 +454,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T16:30:14.219197+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.dokarefu.com/entry/jikkajimai_katazuke",
-    "bookmarkCount": 14
+    "bookmarkCount": 16
   },
   {
     "title": "通勤流出入マップ",
@@ -437,9 +471,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T15:30:14.420418+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/commuter-inflow-map.idoajob.chatgpt.site/",
-    "bookmarkCount": 34
+    "bookmarkCount": 35
   },
   {
     "title": "NVIDIAが画像生成AI「Nemotron-Labs-Image-30B-A3B」を公開、拡散モデルではなく自己回帰モデルを採用しハーネスと組み合わせてGPT-Image-2超えを達成",
@@ -454,7 +488,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T15:30:14.420418+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261127-nemotron-labs-image-30b-a3b/",
     "bookmarkCount": 8
   },
@@ -471,7 +505,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-28T14:30:13.461849+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/ni57721/articles/vim-caskk-ime",
     "bookmarkCount": 0
   },
@@ -505,9 +539,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T14:01:21.890012+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/piyolog.hatenadiary.jp/entry/2026/11/28/110735",
-    "bookmarkCount": 31
+    "bookmarkCount": 36
   },
   {
     "title": "通勤流出入マップ",
@@ -522,9 +556,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T13:30:13.925225+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/commuter-inflow-map.idoajob.chatgpt.site/?city=none",
-    "bookmarkCount": 63
+    "bookmarkCount": 75
   },
   {
     "title": "Windowsで定番のターミナルエミュレーター「Tera Term」にMac版が登場、原作者公認／本家の設定ファイル、「.ttl」ファイルもそのまま扱える【やじうまの杜】",
@@ -539,9 +573,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T12:30:14.321466+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/serial/yajiuma/2159779.html",
-    "bookmarkCount": 11
+    "bookmarkCount": 12
   },
   {
     "title": "AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing",
@@ -556,9 +590,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T11:30:15.928101+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kaz-ataka.hatenablog.com/entry/2026/11/28/085335",
-    "bookmarkCount": 59
+    "bookmarkCount": 65
   },
   {
     "title": "Docker HubのPHP公式イメージから自前ビルドへ移行 〜Debian移行と最適化で稼働Pod数を約25%削減〜 - COLOPL Tech Blog",
@@ -573,7 +607,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T11:30:15.928101+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.colopl.dev/entry/2026/11/27/110000",
     "bookmarkCount": 20
   },
@@ -590,9 +624,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T10:30:08.576422+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/forest.watch.impress.co.jp/docs/news/2160150.html",
-    "bookmarkCount": 18
+    "bookmarkCount": 19
   },
   {
     "title": "AWSのAI-DLC v2に学ぶ AIにドメイン境界を守らせる設計",
@@ -607,7 +641,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T10:30:08.576422+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/j5ik2o/archcon2026",
     "bookmarkCount": 50
   },
@@ -624,9 +658,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T10:30:08.576422+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/blog.nnn.dev/entry/2026/11/27/110000",
-    "bookmarkCount": 10
+    "bookmarkCount": 11
   },
   {
     "title": "なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ",
@@ -641,9 +675,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T10:00:13.109840+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kei-1010.hatenablog.com/entry/2026/11/27/133416",
-    "bookmarkCount": 558
+    "bookmarkCount": 576
   },
   {
     "title": "GMO、サーバー貸出事業で不正アクセス 顧客情報51万件漏洩 - 日本経済新聞",
@@ -658,7 +692,7 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T09:30:13.115971+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOUC27B210X21C26A1000000/",
     "bookmarkCount": 31
   },
@@ -675,9 +709,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T09:30:13.115971+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/kaden.watch.impress.co.jp/docs/column/iikoto/2160002.html",
-    "bookmarkCount": 99
+    "bookmarkCount": 101
   },
   {
     "title": "｢もう管理職はいらない｣ 震源はシリコンバレー、AIで消える肩書と階層 - 日本経済新聞",
@@ -692,9 +726,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T08:45:42.906466+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.nikkei.com/article/DGXZQOGN246EE0U6A121C2000000/",
-    "bookmarkCount": 195
+    "bookmarkCount": 197
   },
   {
     "title": "パールスター感謝祭 YAPC::Tokyo 2026 総合順位発表 #yapcjapan - YAPC::Japan 運営ブログ",
@@ -794,9 +828,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T06:00:13.701136+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261127-d2/",
-    "bookmarkCount": 90
+    "bookmarkCount": 91
   },
   {
     "title": "大阪大学、学生と教職員のメアド5万件漏洩 アララへの不正アクセス - 日本経済新聞",
@@ -930,9 +964,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-28T03:00:15.649770+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.ryuzee.com/contents/blog/14629",
-    "bookmarkCount": 76
+    "bookmarkCount": 77
   },
   {
     "title": "AIエージェントにWebのファイルを取得させるリスクについて考える",
@@ -1017,7 +1051,7 @@
     "firstSeenAt": "2026-11-27T23:30:15.610152+09:00",
     "lastSeenAt": "2026-11-28T17:00:12.455555+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/tkyowa/kakaku-com-ai-driven-system-renewal-202611",
-    "bookmarkCount": 79
+    "bookmarkCount": 82
   },
   {
     "title": "後回しできる設計、 前倒しすべき設計。",
@@ -1034,7 +1068,7 @@
     "firstSeenAt": "2026-11-27T23:30:15.610152+09:00",
     "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/anizozina/akitekucha-kanfarensu-2026-atomawashi-dekiru-sekkei-maedaoshi-subeki-sekkei",
-    "bookmarkCount": 71
+    "bookmarkCount": 72
   },
   {
     "title": "ISUCON2026 マルチリージョン構成におけるデータのインメモリ化 #isucon_namalog",
@@ -1202,9 +1236,9 @@
       "aggregator"
     ],
     "firstSeenAt": "2026-11-27T22:00:18.638080+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/unaoya.github.io/lean-intro/",
-    "bookmarkCount": 263
+    "bookmarkCount": 265
   },
   {
     "title": "中国への過度なハイテク輸出規制は「国内開発体制の加速につながる」と半導体露光装置メーカー・ASMLのフーケCEOが警告",
@@ -1292,23 +1326,6 @@
     "bookmarkCount": 38
   },
   {
-    "title": "自宅PCを格安ファイルサーバーとして構築してみた",
-    "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
-    "domain": "zenn.dev",
-    "description": "1. はじめに ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 2. モチベーション PC が余っていた 外から接続できるファイルサー...",
-    "publishedAt": "2026-11-27T19:43:41+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-27T20:30:15.882296+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nextbeat/articles/7c820845a91d7d",
-    "bookmarkCount": 33
-  },
-  {
     "title": "Linuxカーネルのバグ「TCPanic」を発見、TCP通信のみでホストが停止する脆弱性 | Ikotas Labs",
     "url": "https://ikotaslabs.com/news/2026-11-27",
     "domain": "ikotaslabs.com",
@@ -1389,9 +1406,26 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T20:30:15.882296+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/kokeshim0chi/articles/lean-safety-constraint-build-error",
     "bookmarkCount": 2
+  },
+  {
+    "title": "自宅PCを格安ファイルサーバーとして構築してみた",
+    "url": "https://zenn.dev/nextbeat/articles/7c820845a91d7d",
+    "domain": "zenn.dev",
+    "description": "ポート開放なしで、外からアクセスできる自宅ファイルサーバーを構築したので、構成をご紹介します。 この記事は、こんな人に向けています。 外部から接続できる自宅サーバーをなるべく安く構築したいが、ポート開放や認証まわりが不安な人 PC が余っていた 外から接続できるファイルサーバーが欲しかった せっかくなら認証周り（Auth0）も触ってみたかった ※ 記事執筆時点での価格 外から入る経路を作る主な手段…",
+    "publishedAt": "2026-11-27T11:09:30+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-27T20:30:15.882296+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nextbeat/articles/7c820845a91d7d",
+    "bookmarkCount": 36
   },
   {
     "title": "初期iPhoneは「携帯電話としてあり得ない」と思った ガングロギャルが教えてくれた“技術普及の絶対条件”",
@@ -1408,7 +1442,7 @@
     "firstSeenAt": "2026-11-27T20:00:20.256238+09:00",
     "lastSeenAt": "2026-11-28T11:00:14.700185+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/mobile/articles/2611/27/news079.html",
-    "bookmarkCount": 57
+    "bookmarkCount": 58
   },
   {
     "title": "AIキャラと会話できるアプリ「Talkie」が性的コンテンツを理由にApp Storeから削除される、Google Playでは配信が続く",
@@ -1442,7 +1476,7 @@
     "firstSeenAt": "2026-11-27T20:00:20.256238+09:00",
     "lastSeenAt": "2026-11-28T09:00:14.839929+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/motemen.hatenablog.com/entry/2026/11/scribe-loop",
-    "bookmarkCount": 32
+    "bookmarkCount": 33
   },
   {
     "title": "破産申請したAIチャットサービス「Character.AI」が2100万アカウント超の非公開の会話履歴を競売にかけようとしている",
@@ -1544,7 +1578,7 @@
     "firstSeenAt": "2026-11-27T18:30:12.710589+09:00",
     "lastSeenAt": "2026-11-28T06:00:13.701136+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/www.itmedia.co.jp/mobile/articles/2611/27/news076.html",
-    "bookmarkCount": 22
+    "bookmarkCount": 23
   },
   {
     "title": "CVE-2026-99288 | Ubuntu",
@@ -1644,7 +1678,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T17:30:13.545682+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/rescuenow/articles/9d1e89a941f4f1",
     "bookmarkCount": 0
   },
@@ -1972,23 +2006,6 @@
     "bookmarkCount": 32
   },
   {
-    "title": "「日本語で」と書いても AI が英語に戻るので、Stop フックで止めた",
-    "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
-    "domain": "zenn.dev",
-    "description": "ちなみに 3 回目の「誤字」は、日本語の「案内」の 1 文字が韓国語の文字に化けたものでした。それを直す報告が英語です。 4 回目は特に目立ちました。私は返答の中の 1 文を音声で読み上げる仕組みを使っています。その読み上げ用の文も英語になり、日本語の音声が英語を読み始めました。 原因 4 回目をたどると、こう...",
-    "publishedAt": "2026-11-27T22:49:22+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hitori_pm/articles/cc955887656339",
-    "bookmarkCount": 52
-  },
-  {
     "title": "止まらないKARTE漏えい 契約終了後「削除されたはず」のデータ流出相次ぐ 「人的オペレーションと管理の不備」",
     "url": "https://www.itmedia.co.jp/news/article/2611/27/2000003517/",
     "domain": "www.itmedia.co.jp",
@@ -2035,7 +2052,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tmknom/articles/github-app-token-exchange-system",
     "bookmarkCount": 37
   },
@@ -2055,6 +2072,23 @@
     "lastSeenAt": "2026-11-28T01:00:14.633341+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/tosshi/articles/4e75a768f14852",
     "bookmarkCount": 1
+  },
+  {
+    "title": "「日本語で」と指示しても英語に戻るClaude Codeに、Stopフックで対処してみた",
+    "url": "https://zenn.dev/hitori_pm/articles/cc955887656339",
+    "domain": "zenn.dev",
+    "description": "Claude Codeの指示ファイル（CLAUDE.md）に、返答は必ず日本語にするよう書いていました。 ところが、作業を続けているうちに英語が混じるように。ルールを広げても、同じことが繰り返されました。 そこで、指示を足すだけでなく、仕組みで対処することにしました。 今回は、その失敗と対策について紹介します。 普段から、AIが失敗するたびに、何が起きたのか、原因は何か、どうすれば再発を防げるのか…",
+    "publishedAt": "2026-11-26T22:22:44+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-27T16:30:13.727779+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/hitori_pm/articles/cc955887656339",
+    "bookmarkCount": 52
   },
   {
     "title": "「ロリポップ！レンタルサーバー」および関連サービスに対する不正アクセスによるお客様情報の漏えいについて - ロリポップ！レンタルサーバー",
@@ -2156,7 +2190,7 @@
     "firstSeenAt": "2026-11-27T14:00:15.479018+09:00",
     "lastSeenAt": "2026-11-28T10:00:13.109840+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/golden-lucky.hatenablog.com/entry/2026/11/27/111643",
-    "bookmarkCount": 252
+    "bookmarkCount": 254
   },
   {
     "title": "AI法改正案の概要 “事業者に安全確保義務 罰則適用も” | NHKニュース",
@@ -2343,7 +2377,7 @@
     "firstSeenAt": "2026-11-27T11:30:17.066878+09:00",
     "lastSeenAt": "2026-11-28T07:00:13.791565+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/speakerdeck.com/littlehands/umtp-suraido-20261125",
-    "bookmarkCount": 191
+    "bookmarkCount": 192
   },
   {
     "title": "Claude Artifact",
@@ -2428,7 +2462,7 @@
     "firstSeenAt": "2026-11-27T10:30:13.481042+09:00",
     "lastSeenAt": "2026-11-28T05:00:22.971545+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/ashunar0.dev/posts/skills-over-mcp/",
-    "bookmarkCount": 154
+    "bookmarkCount": 155
   },
   {
     "title": "「良いデザイン」をAIに判断させるには 〜チームで育てるデザインハーネス〜",
@@ -2550,23 +2584,6 @@
     "bookmarkCount": 84
   },
   {
-    "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
-    "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
-    "domain": "zenn.dev",
-    "description": "Claude Codeに実装やレビュー対応を任せていると、作業の途中でちょっと別のことを聞きたくなったり、別の案も試したくなったりすることがあります。 また、テストやCIが終わるのを待っている間に手が止まってしまうことも多いです。 そういった時に使えるコマンドがClaude Codeにはいくつか用意されていますが、/btw、/...",
-    "publishedAt": "2026-11-27T17:17:50+09:00",
-    "source": "はてブ IT",
-    "sourceId": "hateb-it",
-    "tags": [
-      "tech",
-      "aggregator"
-    ],
-    "firstSeenAt": "2026-11-27T09:00:11.659844+09:00",
-    "lastSeenAt": "2026-11-28T19:00:13.445020+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nextbeat/articles/b0ccca979da06b",
-    "bookmarkCount": 49
-  },
-  {
     "title": "集英社 販売サイト会員の生年月日など70万件余漏えい | NHKニュース",
     "url": "https://news.web.nhk/newsweb/na/nd-20261126de82087",
     "domain": "news.web.nhk",
@@ -2599,6 +2616,23 @@
     "lastSeenAt": "2026-11-27T11:30:17.066878+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/igda.jp/2026/11/24/17317/",
     "bookmarkCount": 9
+  },
+  {
+    "title": "作業を止めずに進めるClaude Codeの/btw・/fork・/rewindなどの使い分け",
+    "url": "https://zenn.dev/nextbeat/articles/b0ccca979da06b",
+    "domain": "zenn.dev",
+    "description": "Claude Codeに実装やレビュー対応を任せていると、作業の途中でちょっと別のことを聞きたくなったり、別の案も試したくなったりすることがあります。 また、テストやCIが終わるのを待っている間に手が止まってしまうことも多いです。 そういった時に使えるコマンドがClaude Codeにはいくつか用意されていますが、/btw、/branch、/forkなど名前が似ていて最初はどれを使えばいいか迷いま…",
+    "publishedAt": "2026-11-26T16:01:54+09:00",
+    "source": "Zenn トレンド",
+    "sourceId": "zenn",
+    "tags": [
+      "tech",
+      "article"
+    ],
+    "firstSeenAt": "2026-11-27T09:00:11.659844+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
+    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nextbeat/articles/b0ccca979da06b",
+    "bookmarkCount": 55
   },
   {
     "title": "悪気なくメンバーの思考を奪っていないか？現場で見た「デミニッシャー」と「マルチプライヤー」の決定的な違い",
@@ -2766,9 +2800,9 @@
       "article"
     ],
     "firstSeenAt": "2026-11-27T02:00:15.721620+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars",
-    "bookmarkCount": 109
+    "bookmarkCount": 116
   },
   {
     "title": "人の判断を切り出すAgent Skillsの設計（v7.0.2）",
@@ -3822,7 +3856,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T00:30:13.238674+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/watany/articles/1efe3adea67dd5",
     "bookmarkCount": 31
   },
@@ -3839,7 +3873,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-26T00:30:13.238674+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nexta_/articles/a3ff76a9f98f1c",
     "bookmarkCount": 47
   },
@@ -3890,7 +3924,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/codehex/articles/33bc6ee330b880",
     "bookmarkCount": 66
   },
@@ -3907,7 +3941,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
-    "lastSeenAt": "2026-11-28T15:00:20.175522+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/happy_elements/articles/27e14ff6754044",
     "bookmarkCount": 1
   },
@@ -3941,7 +3975,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-25T22:05:43.036207+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/mediaforce/articles/27df1f22a00546",
     "bookmarkCount": 4
   },
@@ -5131,7 +5165,7 @@
       "article"
     ],
     "firstSeenAt": "2026-11-23T19:30:13.594830+09:00",
-    "lastSeenAt": "2026-11-28T16:30:14.219197+09:00",
+    "lastSeenAt": "2026-11-28T19:30:12.751188+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/koukyosyumei/articles/31c8fcf4da45b7",
     "bookmarkCount": 251
   },
@@ -5440,57 +5474,6 @@
     "lastSeenAt": "2026-11-24T06:00:14.520778+09:00",
     "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/praha/articles/08568310684aa3",
     "bookmarkCount": 33
-  },
-  {
-    "title": "自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス",
-    "url": "https://zenn.dev/nttdata_tech/articles/9562962cc181a1",
-    "domain": "zenn.dev",
-    "description": "自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agen…",
-    "publishedAt": "2026-11-19T16:28:27+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-20T22:30:18.302971+09:00",
-    "lastSeenAt": "2026-11-25T16:30:14.447561+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nttdata_tech/articles/9562962cc181a1",
-    "bookmarkCount": 328
-  },
-  {
-    "title": "RTKの走行データ収集でAndroidの記録アプリを外から監視する",
-    "url": "https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
-    "domain": "zenn.dev",
-    "description": "こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTKの受信機とAndroidのアプリ「DroggerGPS」（以下DrGPS）です。 データを集めるため…",
-    "publishedAt": "2026-11-20T18:00:06+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-20T19:30:16.295169+09:00",
-    "lastSeenAt": "2026-11-21T12:30:13.808623+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/nauh_blog/articles/b60cd6973c8a3f",
-    "bookmarkCount": 0
-  },
-  {
-    "title": "日本のレシートを自宅PCでOCRする：15構成を実レシート11枚で比べた",
-    "url": "https://zenn.dev/chaki/articles/4545be3475fdb4",
-    "domain": "zenn.dev",
-    "description": "自宅のPCで日本のレシートを読むなら、今回いちばん良かったのは YomiToku でした。軽量モデルで全体を読み、自信のない行だけ高精度モデルで読み直す「2段読み」で、商品名の完全一致93%、金額100%、1枚約1.8秒。ただし YomiToku は非商用ライセンスです。商用なら NDLOCR-Lite や PP-OCRv6 が現実的な候補になります。話題の画像対応AI（VLM）は、長いレシートで…",
-    "publishedAt": "2026-11-20T13:33:15+09:00",
-    "source": "Zenn トレンド",
-    "sourceId": "zenn",
-    "tags": [
-      "tech",
-      "article"
-    ],
-    "firstSeenAt": "2026-11-20T19:30:16.295169+09:00",
-    "lastSeenAt": "2026-11-24T20:00:17.088491+09:00",
-    "bookmarkUrl": "https://b.hatena.ne.jp/entry/s/zenn.dev/chaki/articles/4545be3475fdb4",
-    "bookmarkCount": 1
   },
   {
     "title": "注意喚起: PHPにおける複数の脆弱性（CVE-2026-109618、CVE-2026-109619）に関する注意喚起 (更新)",
