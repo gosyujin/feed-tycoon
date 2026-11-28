@@ -2,10 +2,34 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feed-tycoon</title>
   <id>urn:feed-tycoon</id>
-  <updated>2026-11-28T10:00:13.109840+09:00</updated>
+  <updated>2026-11-28T10:30:08.576422+09:00</updated>
   <author>
     <name>feed-tycoon</name>
   </author>
+  <entry>
+    <title>スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</title>
+    <id>https://forest.watch.impress.co.jp/docs/news/2160150.html</id>
+    <link href="https://forest.watch.impress.co.jp/docs/news/2160150.html" />
+    <updated>2026-11-27T20:50:35+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</summary>
+  </entry>
+  <entry>
+    <title>AWSのAI-DLC v2に学ぶ AIにドメイン境界を守らせる設計</title>
+    <id>https://speakerdeck.com/j5ik2o/archcon2026</id>
+    <link href="https://speakerdeck.com/j5ik2o/archcon2026" />
+    <updated>2026-11-27T19:26:22+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>AIに正しさの基準を与えるのはドメインモデルです。今日はAWSのAI-DLC v2を解剖し、まず標準の基盤だけでタスク管理APIを作らせます。そのうえで自作プラグインを通じ、設計の形・入口の境界・層の依存の向きがどう変わったかを実例で整理します。検証対象は1つのAPIの中までとし、今後の拡張余地と人間が…</summary>
+  </entry>
+  <entry>
+    <title>NumPyroで混合正規分布モデリング - ドワンゴ教育サービス開発者ブログ</title>
+    <id>https://blog.nnn.dev/entry/2026/11/27/110000</id>
+    <link href="https://blog.nnn.dev/entry/2026/11/27/110000" />
+    <updated>2026-11-27T11:33:03+09:00</updated>
+    <category term="はてブ IT" />
+    <summary>はじめに データ活用システム開発セクションの田沼です。部署の名前の通り、データを活用した仕組みの企画、検証、開発などを広めに担当しています。 我々のチームでは学力や問題特性の分析に確率的プログラミングライブラリであるNumPyroを利用しています。NumPyroはモデルを設計すれば、こちらでアルゴリズム実装に頭...</summary>
+  </entry>
   <entry>
     <title>なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ</title>
     <id>https://kei-1010.hatenablog.com/entry/2026/11/27/133416</id>
@@ -781,29 +805,5 @@
     <updated>2026-11-27T08:23:10+09:00</updated>
     <category term="はてブ IT" />
     <summary>欧米の複数のメディアは、アメリカの半導体大手エヌビディアが取引先の企業に対し、先端半導体を搭載した製品の東南アジア4か国への輸出を停止させたと報じました。トランプ政権が中国へのう回輸出を防ぐための新た…</summary>
-  </entry>
-  <entry>
-    <title>AIで証明の数学リーマン予想、英オックスフォード大学のメイナード教授「まだ人間は理解できず」 - 日本経済新聞</title>
-    <id>https://www.nikkei.com/article/DGXZQOSG2544P0V21C26A1000000/</id>
-    <link href="https://www.nikkei.com/article/DGXZQOSG2544P0V21C26A1000000/" />
-    <updated>2026-11-27T06:29:45+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>【ロンドン=福岡幸太郎】数学の難問「リーマン予想」を人工知能（AI）を使って解決したとする成果を米アンソロピックの研究者が発表した。「数学のノーベル賞」と呼ばれるフィールズ賞受賞者で、この分野の第一人者である英オックスフォード大学のジェームズ・メイナード教授に受け止めを聞いた。――数学の証明を検証する...</summary>
-  </entry>
-  <entry>
-    <title>週刊Cloudflare - 2026/11/22週</title>
-    <id>https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1115-1121</id>
-    <link href="https://zenn.dev/gemcook/articles/weekly-cloudflare_2026_1115-1121" />
-    <updated>2026-11-26T14:00:05+09:00</updated>
-    <category term="Zenn トレンド" />
-    <summary>こんにちは、あさひです 🙋‍♂️ 今週の Cloudflare のアップデートをまとめていきます！ この記事では、前週に Cloudflare のサービスにどんな変更があったかをざっくりと理解してもらい、サービスに興味を持ってもらうことを目的としています。そのため、変更点を網羅することを優先します。 Build Output を .cloudflare/output/v1/ に出力し、出力元の p…</summary>
-  </entry>
-  <entry>
-    <title>gh-ostで2,500万行のテーブル変更をクエリ待ち1.31秒で通した話：Aurora MySQLへの導入と本番クローンでの検証 - Findy Tech Blog</title>
-    <id>https://tech.findy.co.jp/entry/2026/11/27/070000</id>
-    <link href="https://tech.findy.co.jp/entry/2026/11/27/070000" />
-    <updated>2026-11-27T09:33:14+09:00</updated>
-    <category term="はてブ IT" />
-    <summary>こんにちは、ファインディでFindy Team+の開発をしているrobinです。 Findy Team+のバックエンドには数千万〜数億行を持つ巨大テーブルが複数あります。これらのテーブルを変更する手段はオンラインDDLしかなく、変更中の負荷をコントロールできませんでした。そこでGitHub製OSSのgh-ostを導入したところ、2,500万行のテ...</summary>
   </entry>
 </feed>
